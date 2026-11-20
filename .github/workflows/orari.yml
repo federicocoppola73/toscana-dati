@@ -1,0 +1,34 @@
+# Orari – esamina GTFS: scarica un feed GTFS e stampa nel log com'è fatto (file, calendari, linee vicine ai luoghi).
+# Si lancia a mano: GitHub → Actions → "Orari – esamina GTFS" → Run workflow.
+name: Orari – esamina GTFS
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'URL del file GTFS (zip)'
+        required: true
+      citta:
+        description: 'Città (es. firenze)'
+        required: true
+      raggio:
+        description: 'Raggio in metri attorno ai luoghi'
+        required: false
+        default: '400'
+
+jobs:
+  esamina:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scarica
+        run: |
+          curl -sSL --retry 3 -o /tmp/gtfs.zip "${{ inputs.url }}"
+          ls -la /tmp/gtfs.zip
+          mkdir -p /tmp/gtfs && unzip -o -q /tmp/gtfs.zip -d /tmp/gtfs && ls -la /tmp/gtfs
+      - name: Esamina
+        env:
+          CITTA: ${{ inputs.citta }}
+          RAGGIO: ${{ inputs.raggio }}
+        run: python3 strumenti/esamina_gtfs.py /tmp/gtfs "pacchetti/$CITTA/dati/luoghi.json" "$RAGGIO"
