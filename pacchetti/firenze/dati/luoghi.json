@@ -1003,7 +1003,34 @@
    },
    "wikipedia": {
     "en": "Orsanmichele"
-   }
+   },
+   "immagine": {
+    "autore": "Armin Kleiner",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:MenkinAlRire"
+   },
+   "galleria": [
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    },
+    {
+     "autore": "Miguel Hermoso Cuesta",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:MiguelHermoso"
+    },
+    {
+     "autore": "Traumnovelle",
+     "licenza": "CC0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Traumnovelle"
+    },
+    {
+     "autore": "Freepenguin",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Freepenguin"
+    }
+   ]
   }
  ]
 }
