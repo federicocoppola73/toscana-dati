@@ -1,0 +1,6 @@
+{
+  "_nota": "Catalogo delle città della Toscana. Fonte: repo toscana-dati (l'app ne tiene una copia, aggiornata da 'npm run sync:catalogo' prima di ogni build). 'stato': disponibile (dati pronti), in_preparazione. 'anteprima': monumenti gratuiti (id dei luoghi). Una zona con più località (es. 'localita') e senza 'pacchetto' compare come Prossimamente.",
+  "versione": 1,
+  "gratuito": "Servizi pratici completi, 10 monumenti di anteprima, linee dei mezzi con orario teorico",
+  "citta": []
+}

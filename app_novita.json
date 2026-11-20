@@ -1,0 +1,11 @@
+{
+  "_nota": "Novità dell'app (il contenitore, non le città). Quando esce una nuova versione sullo store: 1) alza 'versione' (uguale a quella di app.json), 2) scrivi le righe delle novità nelle cinque lingue. L'app legge questo file all'avvio e, se 'versione' è più nuova di quella installata, mostra il popup 'Nuova versione disponibile' con il pulsante dello store. Se 'versione' non è più nuova di quella installata non compare nulla.",
+  "versione": "1.0.0",
+  "novita": {
+    "it": ["Prima versione"],
+    "en": ["First release"],
+    "fr": ["Première version"],
+    "de": ["Erste Version"],
+    "es": ["Primera versión"]
+  }
+}

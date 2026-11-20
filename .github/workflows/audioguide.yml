@@ -1,0 +1,74 @@
+# Audioguide – genera: crea gli MP3 delle audioguide di una città con Google Text-to-Speech
+# e li pubblica nel repository (cartella audioguide/<città>/<lingua>/), da dove l'app li scarica.
+# Si lancia a mano: GitHub → Actions → "Audioguide – genera" → Run workflow → città (e lingue, facoltativo).
+# Rigenera solo i luoghi con testo o voce cambiati. Serve il secret GOOGLE_TTS_API_KEY.
+name: Audioguide – genera
+
+on:
+  workflow_dispatch:
+    inputs:
+      citta:
+        description: 'Città (es. firenze)'
+        required: true
+      lingue:
+        description: 'Lingue separate da virgola (vuoto = tutte quelle con una voce)'
+        required: false
+        default: ''
+      anteprima:
+        description: 'Solo anteprima, senza pubblicare: id dei luoghi separati da virgola (es. torre-orologio). Gli MP3 vanno sul ramo audioguide-anteprima'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: audioguide
+  cancel-in-progress: false
+
+jobs:
+  genera:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install mutagen
+      - run: which ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+      - name: Genera gli MP3
+        env:
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          CITTA: ${{ inputs.citta }}
+          LINGUE: ${{ inputs.lingue }}
+          ANTEPRIMA: ${{ inputs.anteprima }}
+        run: python3 strumenti/audioguide.py "$CITTA" "$LINGUE"
+      - name: Anteprima sul ramo audioguide-anteprima
+        if: ${{ inputs.anteprima != '' }}
+        run: |
+          mkdir /tmp/ramo && cp -r anteprima /tmp/ramo/
+          cd /tmp/ramo
+          git init -q -b audioguide-anteprima
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A && git commit -q -m "Anteprima audioguide"
+          for i in 1 2 3 4; do
+            git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" audioguide-anteprima && exit 0
+            echo "Tentativo $i non riuscito, riprovo tra 20 secondi"; sleep 20
+          done
+          exit 1
+      - name: Pubblica
+        if: ${{ inputs.anteprima == '' }}
+        env:
+          CITTA: ${{ inputs.citta }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add audioguide
+          if git diff --cached --quiet; then echo "Niente di nuovo"; exit 0; fi
+          git commit -q -m "Audioguide $CITTA: MP3 aggiornati"
+          for i in 1 2 3 4; do
+            git pull -q --rebase && git push -q && exit 0
+            echo "Tentativo $i non riuscito, riprovo tra 20 secondi"; sleep 20
+          done
+          exit 1
