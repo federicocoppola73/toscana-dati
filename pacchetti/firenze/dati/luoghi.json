@@ -614,7 +614,34 @@
    },
    "wikipedia": {
     "en": "Basilica of Santa Croce, Florence"
-   }
+   },
+   "immagine": {
+    "autore": "Rhododendrites",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Rhododendrites"
+   },
+   "galleria": [
+    {
+     "autore": "Ввласенко",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:%D0%92%D0%B2%D0%BB%D0%B0%D1%81%D0%B5%D0%BD%D0%BA%D0%BE"
+    },
+    {
+     "autore": "Tulumnes",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Tulumnes"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    }
+   ]
   },
   {
    "id": "basilica-di-santa-maria-novella",
