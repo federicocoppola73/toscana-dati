@@ -1,0 +1,118 @@
+# Servizi – scarica: scarica da OpenStreetMap (Overpass) servizi utili e fermate degli autobus di un'area.
+# Si lancia a mano: GitHub → Actions → "Servizi – scarica" → Run workflow.
+# Senza "reti" salva solo il file scaricato (artifact "servizi-osm") e stampa le reti di autobus trovate;
+# con "reti" (regex, es. "Autolinee Toscane") scrive pacchetti/<città>/dati/servizi.json e lo pubblica.
+name: Servizi – scarica
+
+on:
+  workflow_dispatch:
+    inputs:
+      citta:
+        description: 'Città (es. firenze)'
+        required: true
+      sud:
+        description: 'Latitudine sud'
+        required: true
+      ovest:
+        description: 'Longitudine ovest'
+        required: true
+      nord:
+        description: 'Latitudine nord'
+        required: true
+      est:
+        description: 'Longitudine est'
+        required: true
+      reti:
+        description: 'Regex delle reti urbane (network/operator); vuoto = solo scarica'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: servizi
+  cancel-in-progress: false
+
+jobs:
+  servizi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scarica i dati OpenStreetMap
+        env:
+          SUD: ${{ inputs.sud }}
+          OVEST: ${{ inputs.ovest }}
+          NORD: ${{ inputs.nord }}
+          EST: ${{ inputs.est }}
+        run: |
+          python3 - <<'PY'
+          import json, os, sys, time, urllib.parse, urllib.request
+          sys.path.insert(0, 'strumenti')
+          from servizi_osm import QUERY_OVERPASS
+          q = QUERY_OVERPASS
+          for k in ('SUD', 'OVEST', 'NORD', 'EST'):
+              q = q.replace(k, os.environ[k])
+          dati = urllib.parse.urlencode({'data': q}).encode()
+          server = ['https://overpass-api.de/api/interpreter', 'https://overpass.kumi.systems/api/interpreter',
+                    'https://overpass.private.coffee/api/interpreter']
+          for t in range(4):
+              for url in server:
+                  try:
+                      req = urllib.request.Request(url, data=dati, headers={'User-Agent': 'toscana-app-servizi/1.0'})
+                      with urllib.request.urlopen(req, timeout=300) as r:
+                          risposta = json.load(r)
+                      json.dump(risposta, open('/tmp/servizi-osm.json', 'w'))
+                      print('scaricati', len(risposta['elements']), 'elementi da', url)
+                      raise SystemExit(0)
+                  except SystemExit:
+                      raise
+                  except Exception as e:
+                      print('errore', url, str(e)[:100], flush=True)
+              time.sleep(30)
+          raise SystemExit('Overpass non risponde')
+          PY
+      - name: Reti di autobus trovate
+        run: |
+          python3 - <<'PY'
+          import json
+          from collections import Counter
+          c = Counter()
+          for e in json.load(open('/tmp/servizi-osm.json'))['elements']:
+              t = e.get('tags', {})
+              if e['type'] == 'relation' and t.get('route') == 'bus':
+                  c[(t.get('network', ''), t.get('operator', ''))] += 1
+          for (n, o), k in c.most_common():
+              print(f'{k:4d}  network={n!r}  operator={o!r}')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: servizi-osm
+          path: /tmp/servizi-osm.json
+      - name: Genera servizi.json
+        if: ${{ inputs.reti != '' }}
+        env:
+          CITTA: ${{ inputs.citta }}
+          RETI: ${{ inputs.reti }}
+        run: |
+          python3 strumenti/servizi_osm.py /tmp/servizi-osm.json "$CITTA" "$RETI"
+          python3 strumenti/prepara_pacchetto.py "pacchetti/$CITTA"
+      - name: Pubblica
+        if: ${{ inputs.reti != '' }}
+        env:
+          CITTA: ${{ inputs.citta }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A pacchetti "catalogo.json"
+          if git diff --cached --quiet; then echo "Niente di nuovo"; exit 0; fi
+          git commit -q -m "Servizi $CITTA: da OpenStreetMap"
+          for i in 1 2 3 4; do
+            git pull -q --rebase && git push -q && exit 0
+            echo "Tentativo $i non riuscito, riprovo tra 20 secondi"; sleep 20
+          done
+          exit 1
