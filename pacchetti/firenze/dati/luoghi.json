@@ -707,7 +707,34 @@
    "sito": "https://www.smn.it/it/visita/",
    "wikipedia": {
     "en": "Santa Maria Novella"
-   }
+   },
+   "immagine": {
+    "autore": "Commonists",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Commonists"
+   },
+   "galleria": [
+    {
+     "autore": "Diego Delso",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://www.wikidata.org/wiki/Q28147777"
+    },
+    {
+     "autore": "Armin Kleiner",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:MenkinAlRire"
+    },
+    {
+     "autore": "Rufus46",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Rufus46"
+    },
+    {
+     "autore": "Txllxt TxllxT",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+    }
+   ]
   },
   {
    "id": "palazzo-pitti",
