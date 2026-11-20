@@ -949,7 +949,7 @@
       "autobus-grassina-umberto-i"
      ],
      "richiesta": [],
-     "titolo": "Stazione Montelungo → Grassina Umberto i"
+     "titolo": "Stazione Montelungo → Grassina Umberto I"
     },
     {
      "direzione": 1,
@@ -993,7 +993,7 @@
       "gtfs-139848"
      ],
      "richiesta": [],
-     "titolo": "Grassina Umberto i → Stazione Montelungo"
+     "titolo": "Grassina Umberto I → Stazione Montelungo"
     }
    ]
   },
@@ -1052,7 +1052,7 @@
       "gtfs-175214"
      ],
      "richiesta": [],
-     "titolo": "Stazione Montelungo → Antella.-"
+     "titolo": "Stazione Montelungo → Antella"
     },
     {
      "direzione": 1,
@@ -1439,7 +1439,7 @@
       "gtfs-175214"
      ],
      "richiesta": [],
-     "titolo": "Stazione Montelungo → Antella.-"
+     "titolo": "Stazione Montelungo → Antella"
     },
     {
      "direzione": 1,
@@ -1789,7 +1789,7 @@
    ]
   },
   "autobus-d-annunzio-presidio-asl": {
-   "nome": "D'Annunzio Presidio Asl",
+   "nome": "D'Annunzio Presidio ASL",
    "lat": 43.775522,
    "lon": 11.29088,
    "linee": [
@@ -1893,7 +1893,7 @@
    ]
   },
   "autobus-xxvii-aprile-san-zanobi": {
-   "nome": "Xxvii Aprile San Zanobi",
+   "nome": "XXVII Aprile San Zanobi",
    "lat": 43.77915,
    "lon": 11.255803,
    "linee": [
@@ -2322,7 +2322,7 @@
    ]
   },
   "autobus-indipendenza-ridolfi": {
-   "nome": "Indipendenza Xxvii Aprile",
+   "nome": "Indipendenza XXVII Aprile",
    "lat": 43.779942,
    "lon": 11.25382,
    "linee": [
@@ -2337,7 +2337,7 @@
    ]
   },
   "autobus-xxvii-aprile-santa-reparata": {
-   "nome": "Xxvii Aprile Santa Reparata",
+   "nome": "XXVII Aprile Santa Reparata",
    "lat": 43.778965,
    "lon": 11.256055,
    "linee": [
@@ -3790,7 +3790,7 @@
    ]
   },
   "autobus-piazza-piave": {
-   "nome": "Temporanea Piazza Piave.",
+   "nome": "Temporanea Piazza Piave",
    "lat": 43.766412,
    "lon": 11.268253,
    "linee": [
@@ -4408,7 +4408,7 @@
    ]
   },
   "autobus-stazione-abside-smn": {
-   "nome": "Stazione Abside Smn",
+   "nome": "Stazione Abside SMN",
    "lat": 43.775277,
    "lon": 11.248677,
    "linee": [
@@ -4990,7 +4990,7 @@
    ]
   },
   "autobus-xi-agosto-scuola-carabinieri": {
-   "nome": "Xi Agosto Scuola Carabinieri",
+   "nome": "XI Agosto Scuola Carabinieri",
    "lat": 43.80545,
    "lon": 11.216428,
    "linee": [
@@ -5394,7 +5394,7 @@
    ]
   },
   "autobus-grassina-umberto-i": {
-   "nome": "Grassina Umberto i",
+   "nome": "Grassina Umberto I",
    "lat": 43.724193,
    "lon": 11.293172,
    "linee": [
@@ -5564,7 +5564,7 @@
    ]
   },
   "gtfs-175214": {
-   "nome": "Antella.-",
+   "nome": "Antella",
    "lat": 43.726748,
    "lon": 11.320638,
    "linee": [

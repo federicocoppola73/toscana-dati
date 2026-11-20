@@ -73,7 +73,24 @@ def bel_nome(testo):
             out.append(p)
         else:
             out.append(re.sub(r"(^|['’.\-/(])([a-zà-ÿ])", lambda m: m.group(1) + m.group(2).upper(), p))
-    return ' '.join(out)
+    return ritocca(' '.join(out))
+
+
+SIGLE = {'smn', 'asl', 'usl', 'fs', 'ctt', 'cnr', 'ex'}
+
+
+def ritocca(nome):
+    """Ripulisce un nome già con le iniziali maiuscole: toglie i segni finali (Antella.- -> Antella),
+    mette in maiuscolo i numeri romani (Umberto I, Pio XII) e le sigle (SMN)."""
+    nome = re.sub(r'[\s.\-]+$', '', nome)
+    parole = nome.split(' ')
+    for i, p in enumerate(parole):
+        basso = p.lower()
+        if basso in SIGLE and basso != 'ex':
+            parole[i] = p.upper()
+        elif re.fullmatch(r'[ivx]{2,}', basso) or (basso == 'i' and i == len(parole) - 1 and i > 0):
+            parole[i] = p.upper()
+    return ' '.join(parole)
 
 
 def tipo_giorno(data, festivi):

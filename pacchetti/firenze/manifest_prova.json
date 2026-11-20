@@ -1,5 +1,5 @@
 {
- "versione": "d5eb0236f852",
+ "versione": "418ac56d6ac1",
  "tipo": "prova",
  "file": [
   {
@@ -3059,8 +3059,8 @@
   {
    "path": "dati/autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/autobus.json",
-   "sha256": "516b860901bf264d28a757081d13d785a379983f5856990adf42fe6c4861411d",
-   "byte": 167349
+   "sha256": "5edb798606fcdfa8d0b86aebfa1cb5a481b6b41707fa5f85b0460d61e10ad4bd",
+   "byte": 167342
   },
   {
    "path": "dati/cibi.json",

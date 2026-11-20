@@ -1,5 +1,5 @@
 {
- "versione": "75ed58163fdc",
+ "versione": "90ea70238e58",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3112,8 +3112,8 @@
   {
    "path": "dati/autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/autobus.json",
-   "sha256": "516b860901bf264d28a757081d13d785a379983f5856990adf42fe6c4861411d",
-   "byte": 167349
+   "sha256": "5edb798606fcdfa8d0b86aebfa1cb5a481b6b41707fa5f85b0460d61e10ad4bd",
+   "byte": 167342
   },
   {
    "path": "dati/cibi.json",
@@ -3232,6 +3232,13 @@
    "data": "2026-11-20",
    "mezzi": true,
    "byte": 1153695
+  },
+  {
+   "versione": "90ea70238e58",
+   "da": "75ed58163fdc",
+   "data": "2026-11-20",
+   "mezzi": true,
+   "byte": 167342
   }
  ]
 }
