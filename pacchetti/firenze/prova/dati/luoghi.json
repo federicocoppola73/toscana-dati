@@ -95,7 +95,13 @@
      "licenza": "CC BY-SA 4.0",
      "fonte": "https://commons.wikimedia.org/wiki/File:Duomo_di_Firenze,_Firenze,_Tuscany.jpg"
     }
-   ]
+   ],
+   "nomi": {
+    "en": "Florence Cathedral",
+    "fr": "Cathédrale Santa Maria del Fiore",
+    "de": "Florentiner Dom",
+    "es": "Catedral de Santa María del Fiore"
+   }
   },
   {
    "id": "battistero-di-san-giovanni",
@@ -189,7 +195,13 @@
      "licenza": "CC BY-SA 4.0",
      "fonte": "https://commons.wikimedia.org/wiki/File:Florence_Baptistery_-_South_Door_-_Annunciation.jpg"
     }
-   ]
+   ],
+   "nomi": {
+    "en": "Florence Baptistery",
+    "fr": "Baptistère Saint-Jean",
+    "de": "Baptisterium San Giovanni",
+    "es": "Baptisterio de San Giovanni"
+   }
   },
   {
    "id": "campanile-di-giotto",
@@ -283,7 +295,13 @@
      "licenza": "CC BY-SA 2.0",
      "fonte": "https://www.flickr.com/people/40948266@N04"
     }
-   ]
+   ],
+   "nomi": {
+    "en": "Giotto's Bell Tower",
+    "fr": "Campanile de Giotto",
+    "de": "Giotto-Campanile",
+    "es": "Campanario de Giotto"
+   }
   },
   {
    "id": "piazza-della-signoria",
@@ -641,7 +659,13 @@
      "licenza": "CC BY 4.0",
      "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
     }
-   ]
+   ],
+   "nomi": {
+    "en": "Basilica of Santa Croce",
+    "fr": "Basilique de Santa Croce",
+    "de": "Basilika Santa Croce",
+    "es": "Basílica de Santa Croce"
+   }
   },
   {
    "id": "palazzo-pitti",
@@ -841,7 +865,13 @@
      "licenza": "CC BY 4.0",
      "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
     }
-   ]
+   ],
+   "nomi": {
+    "en": "Basilica of San Lorenzo",
+    "fr": "Basilique de San Lorenzo",
+    "de": "Basilika San Lorenzo",
+    "es": "Basílica de San Lorenzo"
+   }
   },
   {
    "id": "chiesa-e-museo-di-orsanmichele",
@@ -937,7 +967,13 @@
      "licenza": "CC BY-SA 3.0",
      "fonte": "https://commons.wikimedia.org/wiki/User:Freepenguin"
     }
-   ]
+   ],
+   "nomi": {
+    "en": "Church and Museum of Orsanmichele",
+    "fr": "Église et musée d'Orsanmichele",
+    "de": "Kirche und Museum Orsanmichele",
+    "es": "Iglesia y Museo de Orsanmichele"
+   }
   }
  ]
 }

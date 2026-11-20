@@ -1,5 +1,5 @@
 {
- "versione": "825729a96281",
+ "versione": "7b0d8f0076d3",
  "tipo": "prova",
  "file": [
   {
@@ -3101,8 +3101,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/luoghi.json",
-   "sha256": "58762352d62d89f069818e45a114e2eaddfcfd5e021180c1a49432350958b3f8",
-   "byte": 92023
+   "sha256": "9713c9c21bd49851d5e45bc7ae02913568914c84bcd7a276675d512cc90ad023",
+   "byte": 93042
   },
   {
    "path": "dati/mappa.json",
