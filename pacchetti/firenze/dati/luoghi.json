@@ -162,7 +162,34 @@
    },
    "wikipedia": {
     "en": "Florence Baptistery"
-   }
+   },
+   "immagine": {
+    "autore": "Lucarelli",
+    "licenza": "CC BY-SA 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/File:Battistero_Firenze.jpg"
+   },
+   "galleria": [
+    {
+     "autore": "Richardfabi",
+     "licenza": "Pubblico dominio",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Richardfabi~commonswiki"
+    },
+    {
+     "autore": "Luca Aless",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Firenze_-_Battistero,_mosaici_2.jpg"
+    },
+    {
+     "autore": "Marie-Lan Nguyen",
+     "licenza": "CC BY 2.5",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Battistero_di_San_Giovanni_mosaics_n11.jpg"
+    },
+    {
+     "autore": "Ingo Mehling",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Florence_Baptistery_-_South_Door_-_Annunciation.jpg"
+    }
+   ]
   },
   {
    "id": "campanile-di-giotto",
@@ -229,7 +256,34 @@
    },
    "wikipedia": {
     "en": "Giotto's Campanile"
-   }
+   },
+   "immagine": {
+    "autore": "Thermos",
+    "licenza": "CC BY-SA 2.5",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Thermos"
+   },
+   "galleria": [
+    {
+     "autore": "Robur15",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Robur15"
+    },
+    {
+     "autore": "Jebulon",
+     "licenza": "CC0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jebulon"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Björn S...",
+     "licenza": "CC BY-SA 2.0",
+     "fonte": "https://www.flickr.com/people/40948266@N04"
+    }
+   ]
   },
   {
    "id": "piazza-della-signoria",
