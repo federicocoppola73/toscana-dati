@@ -44,7 +44,7 @@ def main():
         ref = tag.get('ref', '')
         if not reti.search(tag.get('network', '') + '|' + tag.get('operator', '')):
             continue
-        if not re.fullmatch(r'\d{1,2}[a-zA-Z]?|[A-Z]', ref):
+        if not re.fullmatch(r'\d{1,2}[a-zA-Z]?|[A-Z]\d?', ref):
             continue
         for m in r.get('members', []):
             if m['type'] == 'node':
