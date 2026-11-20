@@ -1,6 +1,7 @@
-# Orari – esamina GTFS: scarica un feed GTFS e stampa nel log com'è fatto (file, calendari, linee vicine ai luoghi).
+# Orari – GTFS: scarica un feed GTFS e, a scelta, lo esamina (stampa nel log com'è fatto) oppure lo converte
+# in autobus.json e orari_autobus.json di una città e pubblica il pacchetto.
 # Si lancia a mano: GitHub → Actions → "Orari – esamina GTFS" → Run workflow.
-name: Orari – esamina GTFS
+name: Orari – GTFS
 
 on:
   workflow_dispatch:
@@ -14,7 +15,26 @@ on:
       raggio:
         description: 'Raggio in metri attorno ai luoghi'
         required: false
-        default: '400'
+        default: '600'
+      azione:
+        description: 'esamina oppure converti'
+        required: false
+        default: 'esamina'
+      agenzia:
+        description: 'Per converti: agency_id del feed (es. UFI)'
+        required: false
+        default: 'UFI'
+      festivi:
+        description: 'Per converti: festivi infrasettimanali AAAAMMGG separati da virgola'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orari
+  cancel-in-progress: false
 
 jobs:
   esamina:
@@ -28,7 +48,33 @@ jobs:
           ls -la /tmp/gtfs.zip
           mkdir -p /tmp/gtfs && unzip -o -q /tmp/gtfs.zip -d /tmp/gtfs && ls -la /tmp/gtfs
       - name: Esamina
+        if: ${{ inputs.azione == 'esamina' }}
         env:
           CITTA: ${{ inputs.citta }}
           RAGGIO: ${{ inputs.raggio }}
         run: python3 strumenti/esamina_gtfs.py /tmp/gtfs "pacchetti/$CITTA/dati/luoghi.json" "$RAGGIO"
+      - name: Converti
+        if: ${{ inputs.azione == 'converti' }}
+        env:
+          CITTA: ${{ inputs.citta }}
+          RAGGIO: ${{ inputs.raggio }}
+          AGENZIA: ${{ inputs.agenzia }}
+          FESTIVI: ${{ inputs.festivi }}
+        run: |
+          python3 strumenti/converti_autobus_at.py /tmp/gtfs "pacchetti/$CITTA/dati" "$AGENZIA" "$RAGGIO" "$FESTIVI"
+          python3 strumenti/prepara_pacchetto.py "pacchetti/$CITTA"
+      - name: Pubblica
+        if: ${{ inputs.azione == 'converti' }}
+        env:
+          CITTA: ${{ inputs.citta }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A pacchetti "catalogo.json"
+          if git diff --cached --quiet; then echo "Niente di nuovo"; exit 0; fi
+          git commit -q -m "Orari autobus $CITTA: linee e orari dal feed GTFS"
+          for i in 1 2 3 4; do
+            git pull -q --rebase && git push -q && exit 0
+            echo "Tentativo $i non riuscito, riprovo tra 20 secondi"; sleep 20
+          done
+          exit 1
