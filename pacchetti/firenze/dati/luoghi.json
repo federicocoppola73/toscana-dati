@@ -521,7 +521,29 @@
    "sito": "https://www.visittuscany.com/it/attrazioni/ponte-vecchio/",
    "wikipedia": {
     "en": "Ponte Vecchio"
-   }
+   },
+   "immagine": {
+    "autore": "Ingo Mehling",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Imehling"
+   },
+   "galleria": [
+    {
+     "autore": "Ingo Mehling",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Imehling"
+    },
+    {
+     "autore": "Julian Lupyan",
+     "licenza": "CC0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Julian_Lupyan"
+    },
+    {
+     "autore": "Tanzania",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Tanzania"
+    }
+   ]
   },
   {
    "id": "basilica-di-santa-croce",
