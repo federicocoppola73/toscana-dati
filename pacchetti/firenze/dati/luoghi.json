@@ -336,7 +336,34 @@
    "sito": "https://www.visittuscany.com/it/attrazioni/piazza-della-signoria/",
    "wikipedia": {
     "en": "Piazza della Signoria"
-   }
+   },
+   "immagine": {
+    "autore": "Txllxt TxllxT",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+   },
+   "galleria": [
+    {
+     "autore": "Txllxt TxllxT",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+    },
+    {
+     "autore": "Txllxt TxllxT",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+    },
+    {
+     "autore": "Thomas Oboe Lee",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:TOLmusic"
+    },
+    {
+     "autore": "Arnaud 25",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Arnaud_25"
+    }
+   ]
   },
   {
    "id": "palazzo-vecchio",
