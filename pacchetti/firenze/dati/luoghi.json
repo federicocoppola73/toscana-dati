@@ -441,7 +441,34 @@
    },
    "wikipedia": {
     "en": "Palazzo Vecchio"
-   }
+   },
+   "immagine": {
+    "autore": "JoJan",
+    "licenza": "CC BY-SA 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:JoJan"
+   },
+   "galleria": [
+    {
+     "autore": "Qasinka",
+     "licenza": "CC0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Qasinka"
+    },
+    {
+     "autore": "Txllxt TxllxT",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+    },
+    {
+     "autore": "Eusebius",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Eusebius"
+    },
+    {
+     "autore": "Mykola Pokalyuk",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Mykola_Pokalyuk"
+    }
+   ]
   },
   {
    "id": "ponte-vecchio",
