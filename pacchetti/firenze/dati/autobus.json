@@ -1,7 +1,8560 @@
 {
- "_nota": "Firenze: linee e fermate dei mezzi da generare",
- "validita": [],
- "linee": [],
- "fermate": {},
- "fermataLinee": {}
+ "_nota": "Orari programmati Autolinee Toscane (open data Regione Toscana, feed GTFS), feriale, sabato e festivo, dal 20/11/2026 al 10/12/2026. Generato da strumenti/converti_autobus_at.py. Verificare sul sito Autolinee Toscane.",
+ "validita": [
+  "20261120",
+  "20261210"
+ ],
+ "linee": [
+  {
+   "id": "AUT-6",
+   "etichetta": "6",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-calasso-centro-commerciale",
+      "autobus-vitelli-comparetti",
+      "autobus-calasso-gignoro",
+      "autobus-gignoro-pasquali",
+      "autobus-novelli",
+      "autobus-d-annunzio-presidio-asl",
+      "autobus-d-annunzio-lungo-l-affrico",
+      "autobus-de-amicis-torretta",
+      "autobus-scipione-ammirato",
+      "autobus-landucci-fra-paolo-sarpi",
+      "autobus-oberdan-bovio",
+      "autobus-segni",
+      "autobus-mattonaia",
+      "autobus-colonna-liceo-castelnuovo",
+      "autobus-colonna-museo-archeologico",
+      "autobus-san-marco-basilica",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-nazionale",
+      "autobus-stazione-scalette",
+      "gtfs-139320",
+      "autobus-rucellai",
+      "autobus-curtatone",
+      "autobus-pescaia-di-santa-rosa",
+      "autobus-soderini-torrino-santa-rosa",
+      "autobus-lungarno-di-santa-rosa",
+      "autobus-santa-maria-al-pignone",
+      "autobus-vanni-gaddi",
+      "autobus-vanni-rosso-fiorentino",
+      "autobus-francavilla",
+      "autobus-pollaiolo-ammannati",
+      "autobus-masolino-olivuzzo",
+      "autobus-starnina-di-scandicci",
+      "autobus-di-scandicci-bonaiuto",
+      "autobus-di-scandicci-arcipressi",
+      "autobus-di-scandicci-ronco-corto",
+      "autobus-di-scandicci-pesellino",
+      "autobus-di-scandicci-don-gnocchi",
+      "autobus-di-scandicci-torre-galli",
+      "autobus-di-scandicci-amendola",
+      "autobus-ospedale-torre-galli"
+     ],
+     "richiesta": [],
+     "titolo": "Calasso Centro Commerciale → Ospedale Torre Galli"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-ospedale-torre-galli",
+      "autobus-ospedale-don-gnocchi",
+      "autobus-di-scandicci-di-soffiano",
+      "autobus-di-scandicci-filarete",
+      "autobus-filarete-scuole",
+      "autobus-arcipressi",
+      "autobus-nenni-arcipressi",
+      "autobus-piazza-pier-della-francesca",
+      "gtfs-139624",
+      "autobus-masolino-pisana",
+      "autobus-pisana-monticelli",
+      "autobus-pisana-villa-strozzi",
+      "autobus-pisana-cinema-universale",
+      "autobus-porta-san-frediano",
+      "autobus-sant-onofrio",
+      "autobus-piazza-d-ognissanti",
+      "autobus-vigna-nuova",
+      "autobus-vecchietti",
+      "autobus-panzani-unit",
+      "autobus-stazione-piazza-adua",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-colonna-pergola",
+      "autobus-colonna-liceo-michelangiolo",
+      "autobus-niccolini",
+      "autobus-leopardi-gramsci",
+      "autobus-mazzini-bovio",
+      "autobus-oberdan-campanella",
+      "autobus-landucci-da-bisticci",
+      "autobus-villa-arrivabene",
+      "autobus-lungo-l-affrico",
+      "autobus-d-annunzio-ramazzini",
+      "autobus-rondinella-frullani",
+      "autobus-rondinella-martini",
+      "autobus-novelli"
+     ],
+     "richiesta": [],
+     "titolo": "Ospedale Torre Galli → Novelli"
+    }
+   ]
+  },
+  {
+   "id": "AUT-8",
+   "etichetta": "8",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-martiri-foibe-t1-strozzi",
+      "autobus-lorenzo-il-magnifico-libert",
+      "autobus-pier-capponi-libert",
+      "autobus-pier-capponi-valori",
+      "autobus-della-robbia-artisti",
+      "autobus-della-robbia-la-farina",
+      "autobus-segni",
+      "autobus-pecori-giraldi",
+      "autobus-orsini-ferrucci",
+      "autobus-salutati-cecchi",
+      "autobus-salutati-ripoli",
+      "autobus-salutati-gavinana",
+      "autobus-gualfredotto",
+      "autobus-datini-traversari",
+      "autobus-datini-erbosa",
+      "autobus-gran-bretagna-d-angi",
+      "autobus-gran-bretagna-lame",
+      "autobus-gran-bretagna-portogallo",
+      "autobus-austria",
+      "autobus-nave-a-rovezzano",
+      "autobus-bisarno"
+     ],
+     "richiesta": [],
+     "titolo": "Martiri Foibe T1 Strozzi → Bisarno"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-bisarno",
+      "autobus-gran-bretagna-kiev",
+      "autobus-gran-bretagna-kyoto",
+      "autobus-gran-bretagna-erbosa",
+      "autobus-datini-federico-d-antiochia",
+      "autobus-datini-ser-lapo-mazzei",
+      "autobus-datini-gualfredotto",
+      "gtfs-175257",
+      "gtfs-175258",
+      "autobus-orsini-ferrucci",
+      "autobus-amendola-arnolfo",
+      "autobus-amendola-gioberti",
+      "autobus-mazzini-bovio",
+      "autobus-mazzini-repetti",
+      "autobus-masaccio-giambologna",
+      "autobus-ficino",
+      "autobus-savonarola-della-mirandola",
+      "autobus-giacomini",
+      "autobus-fra-bartolommeo-matteotti",
+      "autobus-libert-pier-capponi",
+      "autobus-milton",
+      "autobus-martiri-foibe-t1-strozzi"
+     ],
+     "richiesta": [],
+     "titolo": "Bisarno → Martiri Foibe T1 Strozzi"
+    }
+   ]
+  },
+  {
+   "id": "AUT-11",
+   "etichetta": "11",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-salviatino",
+      "autobus-don-giovanni-verit",
+      "autobus-bronzetti",
+      "autobus-nicolodi",
+      "autobus-baldesi",
+      "autobus-marconi-mossotti",
+      "autobus-marconi-caselli",
+      "autobus-mille-pacinotti",
+      "autobus-ficino",
+      "autobus-savonarola-della-mirandola",
+      "autobus-giacomini",
+      "autobus-fra-bartolommeo-matteotti",
+      "autobus-libert-pier-capponi",
+      "autobus-landino",
+      "autobus-poliziano",
+      "autobus-santa-caterina-d-alessandria",
+      "autobus-indipendenza-nazionale",
+      "autobus-stazione-scalette",
+      "gtfs-139320",
+      "autobus-rucellai",
+      "autobus-curtatone",
+      "autobus-piazza-d-ognissanti",
+      "autobus-piazza-sauro",
+      "autobus-serragli-santa-monaca",
+      "autobus-serragli-campuccio",
+      "autobus-calza-serragli",
+      "autobus-imperiale-farinata-uberti",
+      "autobus-gelsomino-magalotti",
+      "autobus-gelsomino-due-strade",
+      "autobus-due-strade-senese",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-senese-le-romite",
+      "autobus-senese-biblioteca-galluzzo",
+      "autobus-volterrana-galluzzo",
+      "autobus-volterrana-ema",
+      "autobus-la-gora"
+     ],
+     "richiesta": [],
+     "titolo": "Salviatino → La Gora"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-la-gora",
+      "autobus-volterrana-ema",
+      "autobus-senese-torrente-ema",
+      "autobus-acciaioli-galluzzo",
+      "autobus-senese-volterrana",
+      "autobus-senese-delle-bagnese",
+      "autobus-senese-i-rossi",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-due-strade-gelsomino",
+      "autobus-gelsomino-grecchi",
+      "autobus-gelsomino-magalotti",
+      "autobus-imperiale-da-castiglione",
+      "autobus-petrarca-porta-romana",
+      "autobus-petrarca-casone",
+      "autobus-piazza-tasso",
+      "autobus-ariosto-dell-orto",
+      "autobus-san-frediano-cestello",
+      "autobus-san-frediano-serragli",
+      "autobus-vigna-nuova",
+      "autobus-vecchietti",
+      "autobus-panzani-unit",
+      "autobus-stazione-piazza-adua",
+      "autobus-lorenzo-il-magnifico-strozzi",
+      "autobus-lorenzo-il-magnifico-libert",
+      "autobus-pier-capponi-libert",
+      "autobus-savonarola-giacomini",
+      "autobus-conti",
+      "autobus-vasari",
+      "autobus-pratellino-ponte-al-pino",
+      "autobus-marconi-dupr",
+      "autobus-marconi-carnesecchi",
+      "autobus-marconi-san-gervasio",
+      "autobus-gasperi-antonelli",
+      "autobus-cento-stelle-calatafimi",
+      "autobus-sirtori",
+      "autobus-salviatino"
+     ],
+     "richiesta": [],
+     "titolo": "La Gora → Salviatino"
+    }
+   ]
+  },
+  {
+   "id": "AUT-12",
+   "etichetta": "12",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-il-prato-barbetti",
+      "autobus-piazza-d-ognissanti",
+      "autobus-pescaia-di-santa-rosa",
+      "autobus-soderini-torrino-santa-rosa",
+      "autobus-lungarno-di-santa-rosa",
+      "autobus-santa-maria-al-pignone",
+      "autobus-vanni-gaddi",
+      "autobus-vanni-rosso-fiorentino",
+      "autobus-giovanni-della-casa",
+      "autobus-sanzio",
+      "autobus-aleardi-burchiello",
+      "autobus-pratolini",
+      "autobus-petrarca-monti",
+      "autobus-porta-romana",
+      "autobus-machiavelli-michele-di-lando",
+      "autobus-machiavelli-via-del-tivoli",
+      "autobus-galileo-torricelli",
+      "autobus-galileo-san-leonardo",
+      "autobus-galileo-giramontino",
+      "autobus-galileo-passo-all-erta",
+      "autobus-galileo-san-miniato",
+      "autobus-piazzale-san-miniato"
+     ],
+     "richiesta": [],
+     "titolo": "Il Prato Barbetti → Piazzale San Miniato"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-mazzini-repetti",
+      "autobus-masaccio-giambologna",
+      "autobus-masaccio-artisti",
+      "autobus-masaccio-botticelli",
+      "autobus-pascoli-mafalda-di-savoia",
+      "autobus-venti-settembre-orticoltura",
+      "autobus-puccinotti",
+      "autobus-ruffini",
+      "autobus-poliziano",
+      "autobus-santa-caterina-d-alessandria",
+      "autobus-indipendenza-nazionale",
+      "autobus-stazione-scalette",
+      "autobus-scala-orti-oricellari",
+      "autobus-scala-porta-al-prato",
+      "autobus-leopolda-porta-al-prato",
+      "autobus-vanni-gaddi",
+      "autobus-vanni-rosso-fiorentino",
+      "autobus-giovanni-della-casa",
+      "autobus-sanzio",
+      "autobus-aleardi-burchiello",
+      "autobus-pratolini",
+      "autobus-petrarca-monti",
+      "autobus-porta-romana",
+      "autobus-machiavelli-michele-di-lando",
+      "autobus-machiavelli-via-del-tivoli",
+      "autobus-galileo-torricelli",
+      "autobus-galileo-san-leonardo",
+      "autobus-galileo-giramontino",
+      "autobus-galileo-passo-all-erta",
+      "autobus-galileo-san-miniato",
+      "autobus-piazzale-san-miniato",
+      "autobus-michelangiolo-san-miniato",
+      "autobus-michelangiolo-di-gattaia",
+      "autobus-michelangiolo-palagi",
+      "autobus-michelangiolo-ferrucci",
+      "autobus-orsini-ferrucci"
+     ],
+     "richiesta": [],
+     "titolo": "Mazzini Masaccio → Orsini Michelangiolo"
+    }
+   ]
+  },
+  {
+   "id": "AUT-13",
+   "etichetta": "13",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-orsini-ferrucci",
+      "autobus-baldovini",
+      "autobus-michelangiolo-bastioni",
+      "autobus-michelangiolo-pietro-tacca",
+      "autobus-michelangiolo-campo-assi",
+      "autobus-michelangiolo-camping",
+      "autobus-piazzale-il-david",
+      "autobus-galileo-monte-alle-croci",
+      "autobus-galileo-erta-canina",
+      "autobus-galileo-giramontino",
+      "autobus-galileo-forte-di-belvedere",
+      "autobus-galileo-machiavelli",
+      "autobus-machiavelli-da-castiglione",
+      "autobus-machiavelli-bobolino",
+      "autobus-petrarca-porta-romana",
+      "autobus-petrarca-casone",
+      "autobus-piazza-tasso",
+      "autobus-aleardi-monte-oliveto",
+      "autobus-t1-porta-al-prato-leopolda",
+      "autobus-fratelli-rosselli",
+      "autobus-fortezza-t1-strozzi",
+      "autobus-venti-settembre-ruffini",
+      "autobus-venti-settembre-orticoltura",
+      "autobus-pier-capponi-libert",
+      "autobus-pier-capponi-valori",
+      "autobus-della-robbia-artisti",
+      "autobus-della-robbia-la-farina",
+      "autobus-mazzini-repetti"
+     ],
+     "richiesta": [],
+     "titolo": "Orsini Michelangiolo → Mazzini Masaccio"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-piazzale-il-david",
+      "autobus-galileo-monte-alle-croci",
+      "autobus-galileo-erta-canina",
+      "autobus-galileo-giramontino",
+      "autobus-galileo-forte-di-belvedere",
+      "autobus-galileo-machiavelli",
+      "autobus-machiavelli-da-castiglione",
+      "autobus-machiavelli-bobolino",
+      "autobus-petrarca-porta-romana",
+      "autobus-petrarca-casone",
+      "autobus-piazza-tasso",
+      "autobus-aleardi-monte-oliveto",
+      "autobus-pisana-cinema-universale",
+      "autobus-porta-san-frediano",
+      "autobus-san-frediano-cestello",
+      "autobus-san-frediano-serragli",
+      "autobus-borgo-ognissanti",
+      "autobus-santa-lucia",
+      "autobus-stazione-orti-oricellari"
+     ],
+     "richiesta": [],
+     "titolo": "Piazzale il David → Stazione Orti Oricellari"
+    }
+   ]
+  },
+  {
+   "id": "AUT-14",
+   "etichetta": "14",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-santa-maria-maggiore",
+      "autobus-panzani-unit",
+      "autobus-stazione-piazza-adua",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-colonna-pergola",
+      "autobus-colonna-liceo-michelangiolo",
+      "autobus-niccolini",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-piave",
+      "autobus-arnolfo-cimabue",
+      "autobus-arnolfo-orcagna",
+      "autobus-sella-campofiore",
+      "autobus-sella-de-sanctis",
+      "autobus-sella-bellariva",
+      "autobus-minghetti-rosadi",
+      "gtfs-139798",
+      "autobus-aretina-monzani",
+      "autobus-aretina-de-nicola",
+      "autobus-aretina-varlungo",
+      "autobus-aretina-salandra",
+      "autobus-aretina-bonomi",
+      "autobus-orlando-dalla-chiesa",
+      "autobus-dalla-chiesa-arno",
+      "autobus-dalla-chiesa-campeggio",
+      "gtfs-139555",
+      "autobus-aretina-sant-andrea",
+      "gtfs-139567"
+     ],
+     "richiesta": [],
+     "titolo": "Santa Maria Maggiore → Il Girone"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "gtfs-139567",
+      "autobus-aretina-loretino",
+      "gtfs-139613",
+      "autobus-dalla-chiesa-aretina",
+      "autobus-dalla-chiesa-orlando",
+      "autobus-orlando-aretina",
+      "autobus-rocca-tedalda-ripa",
+      "autobus-rocca-tedalda-aretina",
+      "autobus-aretina-gignoro",
+      "autobus-aretina-casaccia",
+      "autobus-aretina-mari",
+      "autobus-aretina-minghetti",
+      "autobus-bellariva",
+      "autobus-lanza-madonnone",
+      "autobus-lanza-de-sanctis",
+      "autobus-piagentina-beato-angelico",
+      "autobus-beato-angelico-ghirlandaio",
+      "autobus-beato-angelico-amendola",
+      "autobus-duca-degli-abruzzi",
+      "autobus-agnolo",
+      "autobus-salvemini",
+      "autobus-sant-egidio",
+      "autobus-santa-maria-nuova",
+      "autobus-pucci-duomo",
+      "autobus-cavour-guelfa",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-nazionale",
+      "autobus-stazione-via-panzani",
+      "autobus-santa-maria-maggiore"
+     ],
+     "richiesta": [],
+     "titolo": "Il Girone → Santa Maria Maggiore"
+    }
+   ]
+  },
+  {
+   "id": "AUT-17",
+   "etichetta": "17",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-verga-tozzi",
+      "autobus-duse-d-annunzio",
+      "autobus-duse-lungo-l-affrico",
+      "gtfs-173191",
+      "autobus-don-giovanni-verit",
+      "autobus-bronzetti",
+      "autobus-nicolodi",
+      "autobus-baldesi",
+      "autobus-saffi",
+      "autobus-mille-sette-santi",
+      "autobus-mille-pacinotti",
+      "autobus-ficino",
+      "autobus-savonarola-della-mirandola",
+      "autobus-giacomini",
+      "autobus-fra-bartolommeo-matteotti",
+      "autobus-libert-pier-capponi",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-nazionale",
+      "autobus-stazione-scalette",
+      "autobus-scala-orti-oricellari",
+      "autobus-scala-porta-al-prato",
+      "autobus-porte-nuove-belfiore",
+      "autobus-porte-nuove-marcello",
+      "autobus-toselli-bellini",
+      "autobus-toselli-veracini",
+      "autobus-piazza-puccini",
+      "autobus-tartini-puccini",
+      "autobus-tartini-manifattura",
+      "autobus-boito-pergolesi",
+      "autobus-boito"
+     ],
+     "richiesta": [],
+     "titolo": "Verga Tozzi → Boito"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-boito",
+      "autobus-pergolesi-tartini",
+      "autobus-tartini-manifattura",
+      "autobus-tartini-puccini",
+      "autobus-ponte-alle-mosse-puccini",
+      "autobus-ponte-alle-mosse-doni",
+      "autobus-ponte-alle-mosse-marcello",
+      "autobus-ponte-alle-mosse-leopolda",
+      "autobus-stazione-t1",
+      "autobus-stazione-abside-smn",
+      "autobus-stazione-piazza-adua",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-la-marmora-t2",
+      "autobus-fra-bartolommeo-capponi",
+      "autobus-savonarola-giacomini",
+      "autobus-conti",
+      "autobus-vasari",
+      "autobus-pratellino-ponte-al-pino",
+      "autobus-mille-cairoli",
+      "autobus-sette-santi-dupr",
+      "autobus-san-gervasio-carnesecchi",
+      "autobus-san-gervasio-antonelli",
+      "autobus-cento-stelle-calatafimi",
+      "autobus-sirtori",
+      "autobus-salviatino",
+      "autobus-duse-arcolaio",
+      "autobus-duse-verga",
+      "autobus-verga-d-orso",
+      "autobus-verga-gignoro",
+      "autobus-verga-centro-tecnico-coverciano",
+      "autobus-verga-tozzi"
+     ],
+     "richiesta": [],
+     "titolo": "Boito → Verga Tozzi"
+    }
+   ]
+  },
+  {
+   "id": "AUT-18",
+   "etichetta": "18",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "gtfs-139567",
+      "autobus-aretina-loretino",
+      "gtfs-139613",
+      "autobus-dalla-chiesa-aretina",
+      "autobus-dalla-chiesa-orlando",
+      "autobus-orlando-aretina",
+      "autobus-rocca-tedalda-ripa",
+      "autobus-rocca-tedalda-aretina",
+      "autobus-aretina-gignoro",
+      "autobus-aretina-casaccia",
+      "autobus-aretina-mari",
+      "autobus-aretina-minghetti",
+      "autobus-bellariva",
+      "autobus-lanza-madonnone",
+      "autobus-lanza-de-sanctis",
+      "autobus-piagentina-beato-angelico",
+      "autobus-beato-angelico-ghirlandaio",
+      "autobus-beato-angelico-amendola",
+      "autobus-duca-degli-abruzzi",
+      "autobus-agnolo",
+      "autobus-salvemini",
+      "autobus-sant-egidio",
+      "autobus-santa-maria-nuova",
+      "autobus-pucci-duomo",
+      "autobus-cavour-guelfa",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-nazionale",
+      "autobus-stazione-scalette",
+      "gtfs-139320",
+      "autobus-rucellai",
+      "autobus-curtatone",
+      "autobus-piazza-d-ognissanti",
+      "autobus-piazza-sauro",
+      "autobus-serragli-santa-monaca",
+      "autobus-serragli-campuccio",
+      "autobus-calza-serragli",
+      "autobus-imperiale-farinata-uberti",
+      "autobus-gelsomino-magalotti",
+      "autobus-gelsomino-due-strade",
+      "autobus-due-strade-senese",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-senese-le-romite",
+      "autobus-senese-biblioteca-galluzzo",
+      "autobus-volterrana-galluzzo",
+      "autobus-certosa-di-firenze",
+      "autobus-senese-certosa",
+      "autobus-bottai-colle-ramole",
+      "autobus-cassia-parcheggio",
+      "gtfs-140027",
+      "gtfs-140153",
+      "gtfs-140025",
+      "gtfs-140030",
+      "gtfs-140151"
+     ],
+     "richiesta": [],
+     "titolo": "Il Girone → Tavarnuzze Primo Maggio"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "gtfs-140151",
+      "gtfs-140023",
+      "gtfs-140024",
+      "gtfs-140152",
+      "gtfs-140031",
+      "gtfs-140026",
+      "gtfs-140032",
+      "autobus-cassia-le-rose",
+      "autobus-bottai-colle-ramole",
+      "autobus-senese-ponte-bailey",
+      "autobus-senese-torrente-ema",
+      "autobus-acciaioli-galluzzo",
+      "autobus-senese-volterrana",
+      "autobus-senese-delle-bagnese",
+      "autobus-senese-i-rossi",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-due-strade-gelsomino",
+      "autobus-gelsomino-grecchi",
+      "autobus-gelsomino-magalotti",
+      "autobus-imperiale-da-castiglione",
+      "autobus-calza-romana",
+      "autobus-romana-boboli",
+      "autobus-piazza-san-felice",
+      "autobus-frescobaldi",
+      "autobus-guicciardini-carraia",
+      "autobus-vigna-nuova",
+      "autobus-vecchietti",
+      "autobus-panzani-unit",
+      "autobus-stazione-piazza-adua",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-colonna-pergola",
+      "autobus-colonna-liceo-michelangiolo",
+      "autobus-niccolini",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-piave",
+      "autobus-arnolfo-cimabue",
+      "autobus-arnolfo-orcagna",
+      "autobus-sella-campofiore",
+      "autobus-sella-de-sanctis",
+      "autobus-sella-bellariva",
+      "autobus-minghetti-rosadi",
+      "gtfs-139798",
+      "autobus-aretina-monzani",
+      "autobus-aretina-de-nicola",
+      "autobus-aretina-varlungo",
+      "autobus-aretina-salandra",
+      "autobus-aretina-bonomi",
+      "autobus-orlando-dalla-chiesa",
+      "autobus-dalla-chiesa-arno",
+      "autobus-dalla-chiesa-campeggio",
+      "gtfs-139555",
+      "autobus-aretina-sant-andrea",
+      "gtfs-139567"
+     ],
+     "richiesta": [],
+     "titolo": "Tavarnuzze Primo Maggio → Il Girone"
+    }
+   ]
+  },
+  {
+   "id": "AUT-23",
+   "etichetta": "23",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-croce-a-varliano",
+      "autobus-roma-martellina",
+      "autobus-roma-borrani",
+      "autobus-roma-dallapiccola",
+      "autobus-roma-mattei",
+      "autobus-roma-fratelli-orsi",
+      "autobus-roma-robinson",
+      "autobus-roma-volta-gobetti",
+      "autobus-roma-olmi",
+      "autobus-roma-rodolico",
+      "autobus-rodolico",
+      "autobus-cimitero-del-pino",
+      "autobus-olanda-francia",
+      "autobus-gran-bretagna-kiev",
+      "autobus-gran-bretagna-kyoto",
+      "autobus-gran-bretagna-erbosa",
+      "autobus-datini-federico-d-antiochia",
+      "autobus-datini-ser-lapo-mazzei",
+      "autobus-datini-gualfredotto",
+      "gtfs-175257",
+      "gtfs-175258",
+      "autobus-orsini-ferrucci",
+      "autobus-cellini-fornace",
+      "autobus-serristori-terrazza-marasco",
+      "autobus-serristori-grazie",
+      "autobus-lungarno-alle-grazie",
+      "autobus-zecca-vecchia-cavalleggeri",
+      "autobus-piazza-piave",
+      "autobus-duca-degli-abruzzi",
+      "autobus-agnolo",
+      "autobus-salvemini",
+      "autobus-sant-egidio",
+      "autobus-santa-maria-nuova",
+      "autobus-pucci-duomo",
+      "autobus-cavour-guelfa",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-nazionale",
+      "autobus-stazione-scalette",
+      "autobus-scala-orti-oricellari",
+      "autobus-scala-porta-al-prato",
+      "autobus-porte-nuove-belfiore",
+      "autobus-carra-scarlatti",
+      "autobus-san-iacopino",
+      "autobus-corsica-circondaria",
+      "autobus-massaio-ponte-di-mezzo",
+      "autobus-ponte-di-mezzo-mariti",
+      "autobus-del-prete-terzolle",
+      "autobus-del-prete-caciolle",
+      "autobus-magellano-dei",
+      "autobus-magellano-panciatichi",
+      "autobus-panciatichi-tre-pietre",
+      "autobus-panciatichi-fanfani",
+      "autobus-ricasoli-fanfani",
+      "autobus-ricasoli-petrocchi",
+      "gtfs-139774",
+      "autobus-nuova-scuola-carabinieri",
+      "autobus-t2-guidoni"
+     ],
+     "richiesta": [],
+     "titolo": "Croce a Varliano → Firenze T2 Guidoni"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-t2-guidoni",
+      "autobus-xi-agosto-scuola-carabinieri",
+      "autobus-ricasoli-famiglia-benini",
+      "autobus-ricasoli-nuovo-pignone",
+      "autobus-panciatichi-perfetti-ricasoli",
+      "autobus-piazza-mattei",
+      "autobus-panciatichi-pancaldo",
+      "autobus-campo-sportivo-rifredi",
+      "autobus-magellano-caciolle",
+      "autobus-del-prete-maddalena",
+      "autobus-del-prete-guidoni",
+      "autobus-ponte-di-mezzo-marignolli",
+      "autobus-massaio-corsica",
+      "autobus-corsica-circondaria",
+      "autobus-maragliano-san-iacopino",
+      "autobus-benedetto-marcello",
+      "autobus-ponte-alle-mosse-leopolda",
+      "autobus-stazione-t1",
+      "autobus-stazione-abside-smn",
+      "autobus-stazione-piazza-adua",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-colonna-pergola",
+      "autobus-colonna-liceo-michelangiolo",
+      "autobus-niccolini",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-piave",
+      "autobus-zecca-vecchia-nazionale",
+      "autobus-corso-dei-tintori",
+      "autobus-serristori-demidoff",
+      "autobus-serristori-piazza-poggi",
+      "autobus-cellini-ferrucci",
+      "autobus-orsini-ferrucci",
+      "autobus-salutati-cecchi",
+      "autobus-salutati-ripoli",
+      "autobus-salutati-gavinana",
+      "autobus-gualfredotto",
+      "autobus-datini-traversari",
+      "autobus-datini-erbosa",
+      "autobus-gran-bretagna-d-angi",
+      "autobus-gran-bretagna-lame",
+      "autobus-gran-bretagna-portogallo",
+      "autobus-piazza-francia",
+      "autobus-olanda-europa",
+      "autobus-danimarca",
+      "autobus-di-ripoli-spagna",
+      "autobus-sorgane-piazza-rodolico",
+      "autobus-roma-pieve-a-ripoli",
+      "autobus-roma-bocci",
+      "autobus-roma-i-ponti",
+      "autobus-roma-procacci",
+      "autobus-roma-agnoletti",
+      "autobus-roma-due-giugno",
+      "autobus-roma-otto-marzo",
+      "autobus-roma-giusiani",
+      "autobus-roma-parcheggio",
+      "autobus-croce-a-varliano"
+     ],
+     "richiesta": [],
+     "titolo": "Firenze T2 Guidoni → Croce a Varliano"
+    }
+   ]
+  },
+  {
+   "id": "AUT-31",
+   "etichetta": "31",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "gtfs-139848",
+      "autobus-beslan-t1-fortezza",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-colonna-pergola",
+      "autobus-colonna-liceo-michelangiolo",
+      "autobus-niccolini",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-piave",
+      "autobus-arnolfo-cimabue",
+      "autobus-arnolfo-orcagna",
+      "autobus-sella-campofiore",
+      "autobus-sella-de-sanctis",
+      "autobus-sella-bellariva",
+      "autobus-gualfredotto",
+      "autobus-datini-traversari",
+      "autobus-datini-erbosa",
+      "autobus-gran-bretagna-d-angi",
+      "autobus-gran-bretagna-lame",
+      "autobus-gran-bretagna-portogallo",
+      "autobus-piazza-francia",
+      "autobus-olanda-europa",
+      "autobus-danimarca",
+      "autobus-chiantigiana-scuole",
+      "autobus-chiantigiana-san-marcellino",
+      "autobus-chiantigiana-della-torre",
+      "autobus-fortini-gualdrada",
+      "autobus-fortini-chiantigiana",
+      "autobus-chiantigiana-circolo",
+      "autobus-chiantigiana-ferrero",
+      "autobus-chiantigiana-longo",
+      "autobus-chiantigiana-dell-antella",
+      "autobus-chiantigiana-alighieri",
+      "autobus-chiantigiana-borgo-sani",
+      "autobus-grassina-umberto-i"
+     ],
+     "richiesta": [],
+     "titolo": "Stazione Montelungo → Grassina Umberto i"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-grassina-umberto-i",
+      "autobus-chiantigiana-bartolini",
+      "autobus-chiantigiana-campigliano",
+      "autobus-chiantigiana-belmonte",
+      "autobus-chiantigiana-ponte-a-niccheri",
+      "autobus-chiantigiana-longo",
+      "autobus-chiantigiana-da-feltre",
+      "autobus-chiantigiana-circolo",
+      "autobus-chiantigiana-ponte-a-ema",
+      "autobus-chiantigiana-diacceto",
+      "autobus-chiantigiana-buia",
+      "autobus-chiantigiana-impianti-sport",
+      "autobus-badia-a-ripoli",
+      "autobus-olanda-francia",
+      "autobus-gran-bretagna-kiev",
+      "autobus-gran-bretagna-kyoto",
+      "autobus-gran-bretagna-erbosa",
+      "autobus-datini-federico-d-antiochia",
+      "autobus-datini-ser-lapo-mazzei",
+      "autobus-datini-gualfredotto",
+      "autobus-lanza-madonnone",
+      "autobus-lanza-de-sanctis",
+      "autobus-piagentina-beato-angelico",
+      "autobus-beato-angelico-ghirlandaio",
+      "autobus-beato-angelico-amendola",
+      "autobus-amendola-gioberti",
+      "autobus-segni",
+      "autobus-mattonaia",
+      "autobus-colonna-liceo-castelnuovo",
+      "autobus-colonna-museo-archeologico",
+      "autobus-san-marco-basilica",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-ridolfi",
+      "autobus-fortezza-t1-strozzi",
+      "autobus-spadolini-t1-strozzi",
+      "gtfs-139848"
+     ],
+     "richiesta": [],
+     "titolo": "Grassina Umberto i → Stazione Montelungo"
+    }
+   ]
+  },
+  {
+   "id": "AUT-32",
+   "etichetta": "32",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "gtfs-139848",
+      "autobus-beslan-t1-fortezza",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-colonna-pergola",
+      "autobus-colonna-liceo-michelangiolo",
+      "autobus-niccolini",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-piave",
+      "autobus-arnolfo-cimabue",
+      "autobus-arnolfo-orcagna",
+      "autobus-sella-campofiore",
+      "autobus-sella-de-sanctis",
+      "autobus-sella-bellariva",
+      "autobus-gualfredotto",
+      "autobus-datini-traversari",
+      "autobus-datini-erbosa",
+      "autobus-gran-bretagna-d-angi",
+      "autobus-gran-bretagna-lame",
+      "autobus-gran-bretagna-portogallo",
+      "autobus-piazza-francia",
+      "autobus-olanda-europa",
+      "autobus-danimarca",
+      "autobus-chiantigiana-scuole",
+      "autobus-chiantigiana-san-marcellino",
+      "autobus-chiantigiana-della-torre",
+      "autobus-fortini-gualdrada",
+      "autobus-fortini-chiantigiana",
+      "autobus-chiantigiana-circolo",
+      "autobus-chiantigiana-ferrero",
+      "autobus-chiantigiana-longo",
+      "autobus-di-antella-belmonte",
+      "autobus-ospedale-annunziata",
+      "autobus-di-antella-05",
+      "autobus-di-antella-torricella",
+      "autobus-brigate-partigiane-torricella",
+      "autobus-brigate-partigiane-giardini",
+      "gtfs-175214"
+     ],
+     "richiesta": [],
+     "titolo": "Stazione Montelungo → Antella.-"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-antella",
+      "autobus-di-antella-peruzzi",
+      "autobus-di-antella-pertini",
+      "autobus-di-antella-romanelli",
+      "autobus-di-antella-06",
+      "autobus-ospedale-annunziata",
+      "autobus-di-antella-ponte-a-niccheri",
+      "autobus-chiantigiana-ponte-a-niccheri",
+      "autobus-chiantigiana-longo",
+      "autobus-chiantigiana-da-feltre",
+      "autobus-chiantigiana-circolo",
+      "autobus-chiantigiana-ponte-a-ema",
+      "autobus-chiantigiana-diacceto",
+      "autobus-chiantigiana-buia",
+      "autobus-chiantigiana-impianti-sport",
+      "autobus-badia-a-ripoli",
+      "autobus-olanda-francia",
+      "autobus-gran-bretagna-kiev",
+      "autobus-gran-bretagna-kyoto",
+      "autobus-gran-bretagna-erbosa",
+      "autobus-datini-federico-d-antiochia",
+      "autobus-datini-ser-lapo-mazzei",
+      "autobus-datini-gualfredotto",
+      "autobus-lanza-madonnone",
+      "autobus-lanza-de-sanctis",
+      "autobus-piagentina-beato-angelico",
+      "autobus-beato-angelico-ghirlandaio",
+      "autobus-beato-angelico-amendola",
+      "autobus-amendola-gioberti",
+      "autobus-segni",
+      "autobus-mattonaia",
+      "autobus-colonna-liceo-castelnuovo",
+      "autobus-colonna-museo-archeologico",
+      "autobus-san-marco-basilica",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-ridolfi",
+      "autobus-fortezza-t1-strozzi",
+      "autobus-spadolini-t1-strozzi",
+      "gtfs-139848"
+     ],
+     "richiesta": [],
+     "titolo": "Antella → Stazione Montelungo"
+    }
+   ]
+  },
+  {
+   "id": "AUT-36",
+   "etichetta": "36",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-stazione-orti-oricellari",
+      "autobus-scala-orti-oricellari",
+      "autobus-rucellai",
+      "autobus-curtatone",
+      "autobus-soderini-torrino-santa-rosa",
+      "autobus-ariosto-aleardi",
+      "autobus-pratolini",
+      "autobus-petrarca-monti",
+      "autobus-porta-romana",
+      "autobus-san-gaggio-da-castiglione",
+      "autobus-san-gaggio-mascagni",
+      "autobus-san-gaggio-due-strade",
+      "autobus-due-strade-senese",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-senese-le-romite",
+      "autobus-senese-biblioteca-galluzzo",
+      "autobus-acciaioli-silvani",
+      "autobus-silvani-monna-data",
+      "autobus-silvani-migliorini",
+      "autobus-silvani-san-felice-a-ema",
+      "autobus-silvani-campi-lunghi",
+      "autobus-cave-di-monteripaldi-mulino",
+      "autobus-cave-di-monteripaldi-fiume-ema",
+      "autobus-cascine-del-riccio"
+     ],
+     "richiesta": [],
+     "titolo": "Stazione Orti Oricellari → Cascine del Riccio"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-cascine-del-riccio",
+      "autobus-guido-rossa",
+      "autobus-ponte-a-iozzi",
+      "autobus-cave-di-monteripaldi-arcetri",
+      "autobus-cave-di-monteripaldi-silvani",
+      "autobus-silvani-campi-lunghi",
+      "autobus-silvani-vecchia-pozzolatico",
+      "autobus-silvani-borghetto",
+      "autobus-silvani-val-d-ema",
+      "autobus-acciaioli-senese",
+      "autobus-senese-volterrana",
+      "autobus-senese-delle-bagnese",
+      "autobus-senese-i-rossi",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-due-strade-gelsomino",
+      "autobus-san-gaggio-scuole",
+      "autobus-san-gaggio-castelli",
+      "autobus-san-gaggio-da-castiglione",
+      "autobus-petrarca-porta-romana",
+      "autobus-petrarca-casone",
+      "autobus-piazza-tasso",
+      "autobus-ariosto-dell-orto",
+      "autobus-sant-onofrio",
+      "autobus-santa-lucia",
+      "autobus-stazione-orti-oricellari"
+     ],
+     "richiesta": [],
+     "titolo": "Cascine del Riccio → Stazione Orti Oricellari"
+    }
+   ]
+  },
+  {
+   "id": "AUT-37",
+   "etichetta": "37",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-stazione-orti-oricellari",
+      "autobus-scala-orti-oricellari",
+      "autobus-rucellai",
+      "autobus-curtatone",
+      "autobus-soderini-torrino-santa-rosa",
+      "autobus-ariosto-aleardi",
+      "autobus-pratolini",
+      "autobus-petrarca-monti",
+      "autobus-porta-romana",
+      "autobus-san-gaggio-da-castiglione",
+      "autobus-san-gaggio-mascagni",
+      "autobus-san-gaggio-due-strade",
+      "autobus-due-strade-senese",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-senese-le-romite",
+      "autobus-senese-biblioteca-galluzzo",
+      "autobus-volterrana-galluzzo",
+      "autobus-certosa-di-firenze",
+      "autobus-senese-certosa",
+      "autobus-bottai-colle-ramole",
+      "autobus-cassia-parcheggio",
+      "gtfs-140027",
+      "gtfs-140153",
+      "gtfs-140025",
+      "gtfs-140030",
+      "gtfs-140151"
+     ],
+     "richiesta": [],
+     "titolo": "Stazione Orti Oricellari → Tavarnuzze Primo Maggio"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "gtfs-140151",
+      "gtfs-140023",
+      "gtfs-140024",
+      "gtfs-140152",
+      "gtfs-140031",
+      "gtfs-140026",
+      "gtfs-140032",
+      "autobus-cassia-le-rose",
+      "autobus-bottai-colle-ramole",
+      "autobus-senese-ponte-bailey",
+      "autobus-senese-torrente-ema",
+      "autobus-acciaioli-galluzzo",
+      "autobus-senese-volterrana",
+      "autobus-senese-delle-bagnese",
+      "autobus-senese-i-rossi",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-due-strade-gelsomino",
+      "autobus-san-gaggio-scuole",
+      "autobus-san-gaggio-castelli",
+      "autobus-san-gaggio-da-castiglione",
+      "autobus-petrarca-porta-romana",
+      "autobus-petrarca-casone",
+      "autobus-piazza-tasso",
+      "autobus-ariosto-dell-orto",
+      "autobus-sant-onofrio",
+      "autobus-santa-lucia",
+      "autobus-stazione-orti-oricellari"
+     ],
+     "richiesta": [],
+     "titolo": "Tavarnuzze Primo Maggio → Stazione Orti Oricellari"
+    }
+   ]
+  },
+  {
+   "id": "AUT-39",
+   "etichetta": "39",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "gtfs-147990",
+      "gtfs-147985",
+      "gtfs-146080",
+      "gtfs-173003",
+      "gtfs-146097",
+      "gtfs-146089",
+      "gtfs-146090",
+      "gtfs-146091",
+      "gtfs-146096",
+      "gtfs-146095",
+      "gtfs-146103",
+      "gtfs-146102",
+      "gtfs-140026",
+      "gtfs-140032",
+      "autobus-cassia-le-rose",
+      "autobus-bottai-colle-ramole",
+      "autobus-senese-ponte-bailey",
+      "autobus-senese-torrente-ema",
+      "autobus-acciaioli-galluzzo",
+      "autobus-senese-volterrana",
+      "autobus-senese-delle-bagnese",
+      "autobus-senese-i-rossi",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-due-strade-gelsomino",
+      "autobus-san-gaggio-scuole",
+      "autobus-san-gaggio-castelli",
+      "autobus-san-gaggio-da-castiglione",
+      "autobus-petrarca-porta-romana",
+      "autobus-petrarca-casone",
+      "autobus-piazza-tasso",
+      "autobus-aleardi-monte-oliveto",
+      "autobus-vanni-gaddi",
+      "autobus-vanni-rosso-fiorentino",
+      "autobus-francavilla",
+      "autobus-pollaiolo-ammannati",
+      "autobus-masolino-olivuzzo",
+      "autobus-starnina-di-scandicci",
+      "autobus-di-scandicci-bonaiuto",
+      "autobus-filarete-scuole",
+      "autobus-olivuzzo",
+      "autobus-masolino-pisana",
+      "autobus-pisana-monticelli",
+      "autobus-pisana-villa-strozzi",
+      "autobus-pisana-cinema-universale",
+      "autobus-porta-san-frediano",
+      "autobus-sant-onofrio",
+      "autobus-santa-lucia",
+      "autobus-stazione-orti-oricellari",
+      "autobus-stazione-t1"
+     ],
+     "richiesta": [],
+     "titolo": "Impruneta Via Vittorio Veneto → Stazione T1"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-stazione-t1",
+      "autobus-rucellai",
+      "autobus-curtatone",
+      "autobus-soderini-torrino-santa-rosa",
+      "autobus-ariosto-aleardi",
+      "autobus-pratolini",
+      "autobus-petrarca-monti",
+      "autobus-porta-romana",
+      "autobus-san-gaggio-da-castiglione",
+      "autobus-san-gaggio-mascagni",
+      "autobus-san-gaggio-due-strade",
+      "autobus-due-strade-senese",
+      "autobus-senese-cimitero-evangelico",
+      "autobus-senese-le-romite",
+      "autobus-senese-biblioteca-galluzzo",
+      "autobus-acciaioli-silvani",
+      "autobus-silvani-monna-data",
+      "autobus-silvani-migliorini",
+      "autobus-silvani-san-felice-a-ema",
+      "autobus-silvani-campi-lunghi",
+      "gtfs-146078",
+      "gtfs-146076",
+      "gtfs-146077",
+      "gtfs-146075",
+      "gtfs-146092",
+      "gtfs-146085",
+      "gtfs-146093",
+      "gtfs-146094",
+      "gtfs-146084",
+      "gtfs-146100",
+      "gtfs-146083",
+      "gtfs-146086",
+      "gtfs-146082",
+      "gtfs-146081",
+      "gtfs-146099",
+      "gtfs-146080",
+      "gtfs-146088",
+      "gtfs-146098",
+      "gtfs-147990"
+     ],
+     "richiesta": [],
+     "titolo": "Stazione T1 → Impruneta Via Vittorio Veneto"
+    }
+   ]
+  },
+  {
+   "id": "AUT-60",
+   "etichetta": "60",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "gtfs-139848",
+      "autobus-beslan-t1-fortezza",
+      "autobus-indipendenza-ridolfi",
+      "autobus-xxvii-aprile-santa-reparata",
+      "autobus-san-marco-piazza",
+      "autobus-colonna-pergola",
+      "autobus-colonna-liceo-michelangiolo",
+      "autobus-niccolini",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-piave",
+      "autobus-arnolfo-cimabue",
+      "autobus-arnolfo-orcagna",
+      "autobus-sella-campofiore",
+      "autobus-sella-de-sanctis",
+      "autobus-sella-bellariva",
+      "autobus-gualfredotto",
+      "autobus-datini-traversari",
+      "autobus-datini-erbosa",
+      "autobus-gran-bretagna-d-angi",
+      "autobus-gran-bretagna-lame",
+      "autobus-gran-bretagna-portogallo",
+      "autobus-piazza-francia",
+      "autobus-olanda-europa",
+      "autobus-danimarca",
+      "autobus-chiantigiana-scuole",
+      "autobus-chiantigiana-san-marcellino",
+      "autobus-chiantigiana-della-torre",
+      "autobus-fortini-gualdrada",
+      "autobus-fortini-chiantigiana",
+      "autobus-chiantigiana-circolo",
+      "autobus-chiantigiana-ferrero",
+      "autobus-chiantigiana-longo",
+      "autobus-chiantigiana-dell-antella",
+      "autobus-chiantigiana-alighieri",
+      "autobus-chiantigiana-borgo-sani",
+      "autobus-grassina-umberto-i",
+      "autobus-chiantigiana-bartolini",
+      "autobus-chiantigiana-campigliano",
+      "autobus-chiantigiana-belmonte",
+      "autobus-di-antella-belmonte",
+      "autobus-ospedale-annunziata",
+      "autobus-di-antella-05",
+      "autobus-di-antella-torricella",
+      "autobus-brigate-partigiane-torricella",
+      "autobus-brigate-partigiane-giardini",
+      "gtfs-175214"
+     ],
+     "richiesta": [],
+     "titolo": "Stazione Montelungo → Antella.-"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-antella",
+      "autobus-di-antella-peruzzi",
+      "autobus-di-antella-pertini",
+      "autobus-di-antella-romanelli",
+      "autobus-di-antella-06",
+      "autobus-ospedale-annunziata",
+      "autobus-di-antella-ponte-a-niccheri",
+      "autobus-chiantigiana-dell-antella",
+      "autobus-chiantigiana-alighieri",
+      "autobus-chiantigiana-borgo-sani",
+      "autobus-grassina-umberto-i",
+      "autobus-chiantigiana-bartolini",
+      "autobus-chiantigiana-campigliano",
+      "autobus-chiantigiana-belmonte",
+      "autobus-chiantigiana-ponte-a-niccheri",
+      "autobus-chiantigiana-longo",
+      "autobus-chiantigiana-da-feltre",
+      "autobus-chiantigiana-circolo",
+      "autobus-chiantigiana-ponte-a-ema",
+      "autobus-chiantigiana-diacceto",
+      "autobus-chiantigiana-buia",
+      "autobus-chiantigiana-impianti-sport",
+      "autobus-badia-a-ripoli",
+      "autobus-olanda-francia",
+      "autobus-gran-bretagna-kiev",
+      "autobus-gran-bretagna-kyoto",
+      "autobus-gran-bretagna-erbosa",
+      "autobus-datini-federico-d-antiochia",
+      "autobus-datini-ser-lapo-mazzei",
+      "autobus-datini-gualfredotto",
+      "autobus-lanza-madonnone",
+      "autobus-lanza-de-sanctis",
+      "autobus-piagentina-beato-angelico",
+      "autobus-beato-angelico-ghirlandaio",
+      "autobus-beato-angelico-amendola",
+      "autobus-amendola-gioberti",
+      "autobus-segni",
+      "autobus-mattonaia",
+      "autobus-colonna-liceo-castelnuovo",
+      "autobus-colonna-museo-archeologico",
+      "autobus-san-marco-basilica",
+      "autobus-xxvii-aprile-san-zanobi",
+      "autobus-indipendenza-ridolfi",
+      "autobus-fortezza-t1-strozzi",
+      "autobus-spadolini-t1-strozzi",
+      "gtfs-139848"
+     ],
+     "richiesta": [],
+     "titolo": "Antella → Stazione Montelungo"
+    }
+   ]
+  },
+  {
+   "id": "AUT-C1",
+   "etichetta": "C1",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-parterre",
+      "autobus-ponte-rosso",
+      "autobus-cavour-guelfa",
+      "autobus-cavour-palazzo-medici",
+      "autobus-piazza-di-san-lorenzo",
+      "autobus-cappelle-medicee",
+      "autobus-pecori-vecchietti",
+      "autobus-roma-duomo",
+      "autobus-studio",
+      "autobus-proconsolo-2",
+      "autobus-galleria-degli-uffizi",
+      "autobus-saponai",
+      "autobus-santa-maria-soprarno",
+      "autobus-borgo-san-iacopo",
+      "autobus-frescobaldi",
+      "autobus-piazza-sauro",
+      "autobus-serragli-santa-monaca",
+      "autobus-serragli-campuccio",
+      "autobus-san-giusto-della-calza"
+     ],
+     "richiesta": [],
+     "titolo": "Parterre → San Giusto della Calza"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-san-giusto-della-calza",
+      "autobus-calza-romana",
+      "autobus-romana-boboli",
+      "autobus-piazza-san-felice",
+      "autobus-pitti",
+      "autobus-bardi",
+      "autobus-torrigiani-chiesa-luterana",
+      "autobus-benci",
+      "autobus-verdi",
+      "autobus-salvemini",
+      "autobus-sant-egidio",
+      "autobus-santa-maria-nuova",
+      "autobus-pucci-duomo",
+      "autobus-cavour-guelfa",
+      "autobus-san-marco-piazza",
+      "autobus-la-marmora-t2",
+      "autobus-fra-bartolommeo-capponi",
+      "autobus-fra-bartolommeo-masaccio",
+      "autobus-parterre"
+     ],
+     "richiesta": [],
+     "titolo": "San Giusto della Calza → Parterre"
+    }
+   ]
+  },
+  {
+   "id": "AUT-C2",
+   "etichetta": "C2",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-leopolda-t1-porta-al-prato",
+      "autobus-il-prato",
+      "autobus-santa-lucia",
+      "autobus-stazione-orti-oricellari",
+      "autobus-stazione-via-panzani",
+      "autobus-roma-duomo",
+      "autobus-studio",
+      "autobus-proconsolo-2",
+      "autobus-ghibellina-bargello",
+      "autobus-ghibellina-pepi",
+      "autobus-malborghetto",
+      "autobus-piazza-annigoni",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-beccaria"
+     ],
+     "richiesta": [],
+     "titolo": "Leopolda T1 Porta al Prato → Piazza Beccaria"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-piazza-beccaria",
+      "autobus-agnolo",
+      "autobus-salvemini",
+      "autobus-oriuolo-duomo",
+      "autobus-proconsolo-2",
+      "autobus-condotta",
+      "autobus-porta-rossa",
+      "autobus-piazza-della-repubblica",
+      "autobus-olio-duomo",
+      "autobus-panzani-unit",
+      "autobus-stazione-scalette",
+      "autobus-palazzuolo",
+      "autobus-borgo-ognissanti",
+      "autobus-rotonda-barbetti",
+      "autobus-solferino",
+      "autobus-leopolda-t1-porta-al-prato"
+     ],
+     "richiesta": [],
+     "titolo": "Piazza Beccaria → Leopolda T1 Porta al Prato"
+    }
+   ]
+  },
+  {
+   "id": "AUT-C3",
+   "etichetta": "C3",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-leopolda-t1-porta-al-prato",
+      "autobus-il-prato",
+      "autobus-curtatone",
+      "autobus-piazza-d-ognissanti",
+      "autobus-piazza-sauro",
+      "autobus-sant-agostino",
+      "autobus-santo-spirito",
+      "autobus-pitti",
+      "autobus-bardi",
+      "autobus-torrigiani-chiesa-luterana",
+      "autobus-benci",
+      "autobus-verdi",
+      "autobus-ghibellina-pepi",
+      "autobus-malborghetto",
+      "autobus-piazza-annigoni",
+      "autobus-leopardi-gramsci",
+      "autobus-piazza-beccaria"
+     ],
+     "richiesta": [],
+     "titolo": "Leopolda T1 Porta al Prato → Piazza Beccaria"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-piazza-beccaria",
+      "autobus-agnolo",
+      "autobus-pepi",
+      "autobus-magliabechi",
+      "autobus-corso-dei-tintori",
+      "autobus-santa-maria-soprarno",
+      "autobus-borgo-san-iacopo",
+      "autobus-frescobaldi",
+      "autobus-guicciardini-carraia",
+      "autobus-soderini-torrino-santa-rosa",
+      "autobus-lungarno-di-santa-rosa",
+      "autobus-santa-maria-al-pignone",
+      "autobus-vittorio-veneto",
+      "autobus-leopolda-t1-porta-al-prato"
+     ],
+     "richiesta": [],
+     "titolo": "Piazza Beccaria → Leopolda T1 Porta al Prato"
+    }
+   ]
+  },
+  {
+   "id": "AUT-C4",
+   "etichetta": "C4",
+   "mezzo": "autobus",
+   "colore": "#15ac96",
+   "testo": "#FFFFFF",
+   "notturna": false,
+   "gestore": "Autolinee Toscane",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-santa-maria-maggiore",
+      "autobus-panzani-unit",
+      "autobus-stazione-scalette",
+      "autobus-scala-orti-oricellari",
+      "autobus-rucellai",
+      "autobus-curtatone",
+      "autobus-soderini-torrino-santa-rosa",
+      "autobus-san-frediano-cestello",
+      "autobus-san-frediano-serragli",
+      "autobus-sant-agostino",
+      "autobus-santo-spirito",
+      "autobus-pitti",
+      "autobus-bardi",
+      "autobus-torrigiani-chiesa-luterana",
+      "autobus-serristori-demidoff",
+      "autobus-serristori-piazza-poggi",
+      "autobus-cellini-ferrucci",
+      "autobus-michelangiolo-bastioni",
+      "autobus-presidio-ospedaliero-palagi-villa-margherita",
+      "autobus-presidio-ospedaliero-palagi"
+     ],
+     "richiesta": [],
+     "titolo": "Santa Maria Maggiore → Presidio Ospedaliero Palagi"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-presidio-ospedaliero-palagi",
+      "autobus-michelangiolo-ferrucci",
+      "autobus-cellini-fornace",
+      "autobus-serristori-terrazza-marasco",
+      "autobus-serristori-grazie",
+      "autobus-santa-maria-soprarno",
+      "autobus-borgo-san-iacopo",
+      "autobus-frescobaldi",
+      "autobus-piazza-sauro",
+      "autobus-piazza-piattellina",
+      "autobus-piazza-tasso",
+      "autobus-ariosto-dell-orto",
+      "autobus-sant-onofrio",
+      "autobus-borgo-ognissanti",
+      "autobus-santa-lucia",
+      "autobus-stazione-orti-oricellari",
+      "autobus-stazione-via-panzani",
+      "autobus-santa-maria-maggiore"
+     ],
+     "richiesta": [],
+     "titolo": "Presidio Ospedaliero Palagi → Santa Maria Maggiore"
+    }
+   ]
+  }
+ ],
+ "fermate": {
+  "autobus-calasso-centro-commerciale": {
+   "nome": "Calasso Centro Commerciale",
+   "lat": 43.769893,
+   "lon": 11.298638,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-vitelli-comparetti": {
+   "nome": "Vitelli Comparetti",
+   "lat": 43.76994,
+   "lon": 11.300782,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-calasso-gignoro": {
+   "nome": "Calasso Gignoro",
+   "lat": 43.77006,
+   "lon": 11.298573,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-gignoro-pasquali": {
+   "nome": "Gignoro Pasquali",
+   "lat": 43.771212,
+   "lon": 11.298555,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-novelli": {
+   "nome": "Novelli",
+   "lat": 43.775462,
+   "lon": 11.294513,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-d-annunzio-presidio-asl": {
+   "nome": "D'Annunzio Presidio Asl",
+   "lat": 43.775522,
+   "lon": 11.29088,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-d-annunzio-lungo-l-affrico": {
+   "nome": "D'Annunzio Lungo L'Affrico",
+   "lat": 43.774807,
+   "lon": 11.287713,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-de-amicis-torretta": {
+   "nome": "De Amicis Torretta",
+   "lat": 43.773048,
+   "lon": 11.284692,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-scipione-ammirato": {
+   "nome": "Scipione Ammirato",
+   "lat": 43.770428,
+   "lon": 11.280597,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-landucci-fra-paolo-sarpi": {
+   "nome": "Landucci Fra' Paolo Sarpi",
+   "lat": 43.772317,
+   "lon": 11.278457,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-oberdan-bovio": {
+   "nome": "Oberdan Bovio",
+   "lat": 43.77296,
+   "lon": 11.274848,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-segni": {
+   "nome": "Segni",
+   "lat": 43.775038,
+   "lon": 11.271703,
+   "linee": [
+    "AUT-6",
+    "AUT-8",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-mattonaia": {
+   "nome": "Mattonaia",
+   "lat": 43.77319,
+   "lon": 11.268863,
+   "linee": [
+    "AUT-6",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-colonna-liceo-castelnuovo": {
+   "nome": "Colonna Liceo Castelnuovo",
+   "lat": 43.774767,
+   "lon": 11.264872,
+   "linee": [
+    "AUT-6",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-colonna-museo-archeologico": {
+   "nome": "Colonna Museo Archeologico",
+   "lat": 43.776035,
+   "lon": 11.262205,
+   "linee": [
+    "AUT-6",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-san-marco-basilica": {
+   "nome": "San Marco Basilica",
+   "lat": 43.778097,
+   "lon": 11.258893,
+   "linee": [
+    "AUT-6",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-xxvii-aprile-san-zanobi": {
+   "nome": "Xxvii Aprile San Zanobi",
+   "lat": 43.77915,
+   "lon": 11.255803,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-17",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-indipendenza-nazionale": {
+   "nome": "Indipendenza Nazionale",
+   "lat": 43.779235,
+   "lon": 11.25401,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-12",
+    "AUT-14",
+    "AUT-17",
+    "AUT-18",
+    "AUT-23"
+   ]
+  },
+  "autobus-stazione-scalette": {
+   "nome": "Stazione Scalette",
+   "lat": 43.77542,
+   "lon": 11.248012,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-12",
+    "AUT-17",
+    "AUT-18",
+    "AUT-23",
+    "AUT-C2",
+    "AUT-C4"
+   ]
+  },
+  "gtfs-139320": {
+   "nome": "Tmp Scala Rucellai",
+   "lat": 43.776573,
+   "lon": 11.24421,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-rucellai": {
+   "nome": "Rucellai",
+   "lat": 43.775675,
+   "lon": 11.242712,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39",
+    "AUT-C4"
+   ]
+  },
+  "autobus-curtatone": {
+   "nome": "Curtatone",
+   "lat": 43.77375,
+   "lon": 11.242005,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-pescaia-di-santa-rosa": {
+   "nome": "Pescaia di Santa Rosa",
+   "lat": 43.769858,
+   "lon": 11.246447,
+   "linee": [
+    "AUT-6",
+    "AUT-12"
+   ]
+  },
+  "autobus-soderini-torrino-santa-rosa": {
+   "nome": "Soderini Torrino Santa Rosa",
+   "lat": 43.771627,
+   "lon": 11.241455,
+   "linee": [
+    "AUT-6",
+    "AUT-12",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-lungarno-di-santa-rosa": {
+   "nome": "Lungarno di Santa Rosa",
+   "lat": 43.77259,
+   "lon": 11.23843,
+   "linee": [
+    "AUT-6",
+    "AUT-12",
+    "AUT-C3"
+   ]
+  },
+  "autobus-santa-maria-al-pignone": {
+   "nome": "Santa Maria al Pignone",
+   "lat": 43.773397,
+   "lon": 11.235408,
+   "linee": [
+    "AUT-6",
+    "AUT-12",
+    "AUT-C3"
+   ]
+  },
+  "autobus-vanni-gaddi": {
+   "nome": "Vanni Gaddi",
+   "lat": 43.774132,
+   "lon": 11.23264,
+   "linee": [
+    "AUT-6",
+    "AUT-12",
+    "AUT-39"
+   ]
+  },
+  "autobus-vanni-rosso-fiorentino": {
+   "nome": "Vanni Rosso Fiorentino",
+   "lat": 43.774782,
+   "lon": 11.23001,
+   "linee": [
+    "AUT-6",
+    "AUT-12",
+    "AUT-39"
+   ]
+  },
+  "autobus-francavilla": {
+   "nome": "Francavilla",
+   "lat": 43.774082,
+   "lon": 11.224073,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-pollaiolo-ammannati": {
+   "nome": "Pollaiolo Ammannati",
+   "lat": 43.7722,
+   "lon": 11.22158,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-masolino-olivuzzo": {
+   "nome": "Masolino Olivuzzo",
+   "lat": 43.770428,
+   "lon": 11.221405,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-starnina-di-scandicci": {
+   "nome": "Starnina di Scandicci",
+   "lat": 43.76846,
+   "lon": 11.218848,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-di-scandicci-bonaiuto": {
+   "nome": "Di Scandicci Bonaiuto",
+   "lat": 43.76706,
+   "lon": 11.215602,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-di-scandicci-arcipressi": {
+   "nome": "Di Scandicci Arcipressi",
+   "lat": 43.765893,
+   "lon": 11.21185,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-di-scandicci-ronco-corto": {
+   "nome": "Di Scandicci Ronco Corto",
+   "lat": 43.764653,
+   "lon": 11.209918,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-di-scandicci-pesellino": {
+   "nome": "Di Scandicci Pesellino",
+   "lat": 43.76241,
+   "lon": 11.20716,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-di-scandicci-don-gnocchi": {
+   "nome": "Di Scandicci Don Gnocchi",
+   "lat": 43.76079,
+   "lon": 11.205748,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-di-scandicci-torre-galli": {
+   "nome": "Di Scandicci Torre Galli",
+   "lat": 43.75934,
+   "lon": 11.203423,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-di-scandicci-amendola": {
+   "nome": "Di Scandicci Amendola",
+   "lat": 43.758545,
+   "lon": 11.201227,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-ospedale-torre-galli": {
+   "nome": "Ospedale Torre Galli",
+   "lat": 43.758682,
+   "lon": 11.202542,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-ospedale-don-gnocchi": {
+   "nome": "Ospedale Don Gnocchi",
+   "lat": 43.760395,
+   "lon": 11.205393,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-di-scandicci-di-soffiano": {
+   "nome": "Di Scandicci di Soffiano",
+   "lat": 43.761955,
+   "lon": 11.206943,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-di-scandicci-filarete": {
+   "nome": "Di Scandicci Filarete",
+   "lat": 43.764975,
+   "lon": 11.210483,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-filarete-scuole": {
+   "nome": "Filarete Scuole",
+   "lat": 43.765783,
+   "lon": 11.213942,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-arcipressi": {
+   "nome": "Arcipressi",
+   "lat": 43.766472,
+   "lon": 11.212193,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-nenni-arcipressi": {
+   "nome": "Nenni Arcipressi",
+   "lat": 43.768172,
+   "lon": 11.209972,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-piazza-pier-della-francesca": {
+   "nome": "Piazza Pier della Francesca",
+   "lat": 43.77052,
+   "lon": 11.21214,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "gtfs-139624": {
+   "nome": "Pisana Sant'Angelo",
+   "lat": 43.770085,
+   "lon": 11.216612,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-masolino-pisana": {
+   "nome": "Pisana Fra' Diamante",
+   "lat": 43.770775,
+   "lon": 11.22101,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-pisana-monticelli": {
+   "nome": "Pisana Monticelli",
+   "lat": 43.771498,
+   "lon": 11.223793,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-pisana-villa-strozzi": {
+   "nome": "Pisana Villa Strozzi",
+   "lat": 43.772343,
+   "lon": 11.230123,
+   "linee": [
+    "AUT-6",
+    "AUT-39"
+   ]
+  },
+  "autobus-pisana-cinema-universale": {
+   "nome": "Pisana Cinema Universale",
+   "lat": 43.771282,
+   "lon": 11.235635,
+   "linee": [
+    "AUT-6",
+    "AUT-13",
+    "AUT-39"
+   ]
+  },
+  "autobus-porta-san-frediano": {
+   "nome": "Porta San Frediano",
+   "lat": 43.770635,
+   "lon": 11.239198,
+   "linee": [
+    "AUT-6",
+    "AUT-13",
+    "AUT-39"
+   ]
+  },
+  "autobus-sant-onofrio": {
+   "nome": "Sant'Onofrio",
+   "lat": 43.770812,
+   "lon": 11.242145,
+   "linee": [
+    "AUT-6",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39",
+    "AUT-C4"
+   ]
+  },
+  "autobus-piazza-d-ognissanti": {
+   "nome": "Piazza D'Ognissanti",
+   "lat": 43.772058,
+   "lon": 11.244872,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-12",
+    "AUT-18",
+    "AUT-C3"
+   ]
+  },
+  "autobus-vigna-nuova": {
+   "nome": "Vigna Nuova",
+   "lat": 43.771077,
+   "lon": 11.249043,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-vecchietti": {
+   "nome": "Vecchietti",
+   "lat": 43.772537,
+   "lon": 11.252882,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-panzani-unit": {
+   "nome": "Panzani Unità",
+   "lat": 43.774322,
+   "lon": 11.250747,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-14",
+    "AUT-18",
+    "AUT-C2",
+    "AUT-C4"
+   ]
+  },
+  "autobus-stazione-piazza-adua": {
+   "nome": "Stazione Piazza Adua",
+   "lat": 43.777325,
+   "lon": 11.249197,
+   "linee": [
+    "AUT-6",
+    "AUT-11",
+    "AUT-14",
+    "AUT-17",
+    "AUT-18",
+    "AUT-23"
+   ]
+  },
+  "autobus-indipendenza-ridolfi": {
+   "nome": "Indipendenza Xxvii Aprile",
+   "lat": 43.779942,
+   "lon": 11.25382,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-17",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-xxvii-aprile-santa-reparata": {
+   "nome": "Xxvii Aprile Santa Reparata",
+   "lat": 43.778965,
+   "lon": 11.256055,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-17",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-san-marco-piazza": {
+   "nome": "San Marco Piazza",
+   "lat": 43.77797,
+   "lon": 11.259005,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-17",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60",
+    "AUT-C1"
+   ]
+  },
+  "autobus-colonna-pergola": {
+   "nome": "Colonna Pergola",
+   "lat": 43.775512,
+   "lon": 11.263133,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-colonna-liceo-michelangiolo": {
+   "nome": "Colonna Liceo Michelangiolo",
+   "lat": 43.77432,
+   "lon": 11.265502,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-niccolini": {
+   "nome": "Niccolini",
+   "lat": 43.772978,
+   "lon": 11.268322,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-leopardi-gramsci": {
+   "nome": "Leopardi Gramsci",
+   "lat": 43.772437,
+   "lon": 11.270493,
+   "linee": [
+    "AUT-6",
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60",
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-mazzini-bovio": {
+   "nome": "Mazzini Bovio",
+   "lat": 43.774542,
+   "lon": 11.27277,
+   "linee": [
+    "AUT-6",
+    "AUT-8"
+   ]
+  },
+  "autobus-oberdan-campanella": {
+   "nome": "Oberdan Campanella",
+   "lat": 43.772273,
+   "lon": 11.275037,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-landucci-da-bisticci": {
+   "nome": "Landucci da Bisticci",
+   "lat": 43.77218,
+   "lon": 11.278552,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-villa-arrivabene": {
+   "nome": "Villa Arrivabene",
+   "lat": 43.770315,
+   "lon": 11.280878,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-lungo-l-affrico": {
+   "nome": "Lungo L'Affrico",
+   "lat": 43.772827,
+   "lon": 11.284952,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-d-annunzio-ramazzini": {
+   "nome": "D'Annunzio Ramazzini",
+   "lat": 43.774922,
+   "lon": 11.288435,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-rondinella-frullani": {
+   "nome": "Rondinella Frullani",
+   "lat": 43.77517,
+   "lon": 11.29212,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-rondinella-martini": {
+   "nome": "Rondinella Martini",
+   "lat": 43.7738,
+   "lon": 11.295218,
+   "linee": [
+    "AUT-6"
+   ]
+  },
+  "autobus-martiri-foibe-t1-strozzi": {
+   "nome": "Martiri Foibe T1 Strozzi",
+   "lat": 43.783552,
+   "lon": 11.252297,
+   "linee": [
+    "AUT-8"
+   ]
+  },
+  "autobus-lorenzo-il-magnifico-libert": {
+   "nome": "Lorenzo il Magnifico Libertà",
+   "lat": 43.784653,
+   "lon": 11.260698,
+   "linee": [
+    "AUT-8",
+    "AUT-11"
+   ]
+  },
+  "autobus-pier-capponi-libert": {
+   "nome": "Pier Capponi Libertà",
+   "lat": 43.783378,
+   "lon": 11.263777,
+   "linee": [
+    "AUT-8",
+    "AUT-11",
+    "AUT-13"
+   ]
+  },
+  "autobus-pier-capponi-valori": {
+   "nome": "Pier Capponi Valori",
+   "lat": 43.781935,
+   "lon": 11.265168,
+   "linee": [
+    "AUT-8",
+    "AUT-13"
+   ]
+  },
+  "autobus-della-robbia-artisti": {
+   "nome": "Della Robbia Artisti",
+   "lat": 43.780457,
+   "lon": 11.267533,
+   "linee": [
+    "AUT-8",
+    "AUT-13"
+   ]
+  },
+  "autobus-della-robbia-la-farina": {
+   "nome": "Della Robbia la Farina",
+   "lat": 43.7792,
+   "lon": 11.268728,
+   "linee": [
+    "AUT-8",
+    "AUT-13"
+   ]
+  },
+  "autobus-pecori-giraldi": {
+   "nome": "Pecori Giraldi",
+   "lat": 43.765863,
+   "lon": 11.270432,
+   "linee": [
+    "AUT-8"
+   ]
+  },
+  "autobus-orsini-ferrucci": {
+   "nome": "Orsini Michelangiolo",
+   "lat": 43.76343,
+   "lon": 11.272605,
+   "linee": [
+    "AUT-8",
+    "AUT-12",
+    "AUT-13",
+    "AUT-23"
+   ]
+  },
+  "autobus-salutati-cecchi": {
+   "nome": "Salutati Cecchi",
+   "lat": 43.762245,
+   "lon": 11.274928,
+   "linee": [
+    "AUT-8",
+    "AUT-23"
+   ]
+  },
+  "autobus-salutati-ripoli": {
+   "nome": "Salutati Ripoli",
+   "lat": 43.762413,
+   "lon": 11.279853,
+   "linee": [
+    "AUT-8",
+    "AUT-23"
+   ]
+  },
+  "autobus-salutati-gavinana": {
+   "nome": "Salutati Gavinana",
+   "lat": 43.762378,
+   "lon": 11.28209,
+   "linee": [
+    "AUT-8",
+    "AUT-23"
+   ]
+  },
+  "autobus-gualfredotto": {
+   "nome": "Gualfredotto",
+   "lat": 43.761797,
+   "lon": 11.285877,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-datini-traversari": {
+   "nome": "Datini Traversari",
+   "lat": 43.759523,
+   "lon": 11.28843,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-datini-erbosa": {
+   "nome": "Datini Erbosa",
+   "lat": 43.758212,
+   "lon": 11.289722,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-gran-bretagna-d-angi": {
+   "nome": "Gran Bretagna D'Angiò",
+   "lat": 43.759582,
+   "lon": 11.29209,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-gran-bretagna-lame": {
+   "nome": "Gran Bretagna Lame",
+   "lat": 43.75978,
+   "lon": 11.296242,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-gran-bretagna-portogallo": {
+   "nome": "Gran Bretagna Portogallo",
+   "lat": 43.760123,
+   "lon": 11.298923,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-austria": {
+   "nome": "Austria",
+   "lat": 43.760438,
+   "lon": 11.300615,
+   "linee": [
+    "AUT-8"
+   ]
+  },
+  "autobus-nave-a-rovezzano": {
+   "nome": "Nave a Rovezzano",
+   "lat": 43.761692,
+   "lon": 11.305888,
+   "linee": [
+    "AUT-8"
+   ]
+  },
+  "autobus-bisarno": {
+   "nome": "Bisarno",
+   "lat": 43.761438,
+   "lon": 11.302592,
+   "linee": [
+    "AUT-8"
+   ]
+  },
+  "autobus-gran-bretagna-kiev": {
+   "nome": "Gran Bretagna Kiev",
+   "lat": 43.760197,
+   "lon": 11.299318,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-gran-bretagna-kyoto": {
+   "nome": "Gran Bretagna Kyoto",
+   "lat": 43.759783,
+   "lon": 11.295665,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-gran-bretagna-erbosa": {
+   "nome": "Gran Bretagna Erbosa",
+   "lat": 43.759665,
+   "lon": 11.291557,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-datini-federico-d-antiochia": {
+   "nome": "Datini Federico D'Antiochia",
+   "lat": 43.7583,
+   "lon": 11.289728,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-datini-ser-lapo-mazzei": {
+   "nome": "Datini Ser Lapo Mazzei",
+   "lat": 43.760243,
+   "lon": 11.287825,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-datini-gualfredotto": {
+   "nome": "Datini Gualfredotto",
+   "lat": 43.761627,
+   "lon": 11.286353,
+   "linee": [
+    "AUT-8",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "gtfs-175257": {
+   "nome": "Villamagna",
+   "lat": 43.763533,
+   "lon": 11.284258,
+   "linee": [
+    "AUT-8",
+    "AUT-23"
+   ]
+  },
+  "gtfs-175258": {
+   "nome": "Ferrucci di Rusciano",
+   "lat": 43.763942,
+   "lon": 11.278618,
+   "linee": [
+    "AUT-8",
+    "AUT-23"
+   ]
+  },
+  "autobus-amendola-arnolfo": {
+   "nome": "Amendola Arnolfo",
+   "lat": 43.767115,
+   "lon": 11.271377,
+   "linee": [
+    "AUT-8"
+   ]
+  },
+  "autobus-amendola-gioberti": {
+   "nome": "Amendola Gioberti",
+   "lat": 43.769662,
+   "lon": 11.271172,
+   "linee": [
+    "AUT-8",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-mazzini-repetti": {
+   "nome": "Mazzini Masaccio",
+   "lat": 43.775937,
+   "lon": 11.274802,
+   "linee": [
+    "AUT-8",
+    "AUT-12",
+    "AUT-13"
+   ]
+  },
+  "autobus-masaccio-giambologna": {
+   "nome": "Masaccio Giambologna",
+   "lat": 43.779123,
+   "lon": 11.2726,
+   "linee": [
+    "AUT-8",
+    "AUT-12"
+   ]
+  },
+  "autobus-ficino": {
+   "nome": "Ficino",
+   "lat": 43.780935,
+   "lon": 11.268408,
+   "linee": [
+    "AUT-8",
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-savonarola-della-mirandola": {
+   "nome": "Savonarola della Mirandola",
+   "lat": 43.7824,
+   "lon": 11.267173,
+   "linee": [
+    "AUT-8",
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-giacomini": {
+   "nome": "Giacomini",
+   "lat": 43.783563,
+   "lon": 11.26501,
+   "linee": [
+    "AUT-8",
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-fra-bartolommeo-matteotti": {
+   "nome": "Fra' Bartolommeo Matteotti",
+   "lat": 43.782778,
+   "lon": 11.263565,
+   "linee": [
+    "AUT-8",
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-libert-pier-capponi": {
+   "nome": "Libertà Pier Capponi",
+   "lat": 43.783573,
+   "lon": 11.262932,
+   "linee": [
+    "AUT-8",
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-milton": {
+   "nome": "Milton",
+   "lat": 43.78442,
+   "lon": 11.255838,
+   "linee": [
+    "AUT-8"
+   ]
+  },
+  "autobus-salviatino": {
+   "nome": "Salviatino",
+   "lat": 43.784782,
+   "lon": 11.293987,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-don-giovanni-verit": {
+   "nome": "Don Giovanni Verita'",
+   "lat": 43.782182,
+   "lon": 11.292087,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-bronzetti": {
+   "nome": "Bronzetti",
+   "lat": 43.783873,
+   "lon": 11.288758,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-nicolodi": {
+   "nome": "Nicolodi",
+   "lat": 43.7846,
+   "lon": 11.285582,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-baldesi": {
+   "nome": "Baldesi",
+   "lat": 43.784507,
+   "lon": 11.282597,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-marconi-mossotti": {
+   "nome": "Marconi Mossotti",
+   "lat": 43.783947,
+   "lon": 11.279535,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-marconi-caselli": {
+   "nome": "Marconi Caselli",
+   "lat": 43.783612,
+   "lon": 11.2769,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-mille-pacinotti": {
+   "nome": "Mille Pacinotti",
+   "lat": 43.784112,
+   "lon": 11.272998,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-landino": {
+   "nome": "Landino",
+   "lat": 43.783828,
+   "lon": 11.258763,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-poliziano": {
+   "nome": "Poliziano",
+   "lat": 43.78399,
+   "lon": 11.25651,
+   "linee": [
+    "AUT-11",
+    "AUT-12"
+   ]
+  },
+  "autobus-santa-caterina-d-alessandria": {
+   "nome": "Santa Caterina D'Alessandria",
+   "lat": 43.782252,
+   "lon": 11.256397,
+   "linee": [
+    "AUT-11",
+    "AUT-12"
+   ]
+  },
+  "autobus-piazza-sauro": {
+   "nome": "Piazza Sauro",
+   "lat": 43.769337,
+   "lon": 11.246615,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-C1",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-serragli-santa-monaca": {
+   "nome": "Serragli Santa Monaca",
+   "lat": 43.767362,
+   "lon": 11.245447,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-C1"
+   ]
+  },
+  "autobus-serragli-campuccio": {
+   "nome": "Serragli Campuccio",
+   "lat": 43.76536,
+   "lon": 11.244297,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-C1"
+   ]
+  },
+  "autobus-calza-serragli": {
+   "nome": "Calza Serragli",
+   "lat": 43.761173,
+   "lon": 11.242053,
+   "linee": [
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-imperiale-farinata-uberti": {
+   "nome": "Imperiale Farinata Uberti",
+   "lat": 43.757275,
+   "lon": 11.243388,
+   "linee": [
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-gelsomino-magalotti": {
+   "nome": "Gelsomino Magalotti",
+   "lat": 43.75221,
+   "lon": 11.244215,
+   "linee": [
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-gelsomino-due-strade": {
+   "nome": "Gelsomino Due Strade",
+   "lat": 43.75031,
+   "lon": 11.239188,
+   "linee": [
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-due-strade-senese": {
+   "nome": "Due Strade Senese",
+   "lat": 43.749795,
+   "lon": 11.235637,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-senese-cimitero-evangelico": {
+   "nome": "Senese Cimitero Evangelico",
+   "lat": 43.747202,
+   "lon": 11.230357,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-senese-le-romite": {
+   "nome": "Senese le Romite",
+   "lat": 43.741007,
+   "lon": 11.224452,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-senese-biblioteca-galluzzo": {
+   "nome": "Senese Biblioteca Galluzzo",
+   "lat": 43.738888,
+   "lon": 11.224373,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-volterrana-galluzzo": {
+   "nome": "Volterrana Galluzzo",
+   "lat": 43.736093,
+   "lon": 11.2233,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "autobus-volterrana-ema": {
+   "nome": "Volterrana Ema",
+   "lat": 43.73424,
+   "lon": 11.220705,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-la-gora": {
+   "nome": "La Gora",
+   "lat": 43.7326,
+   "lon": 11.217252,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-senese-torrente-ema": {
+   "nome": "Senese Torrente Ema",
+   "lat": 43.734132,
+   "lon": 11.224868,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-acciaioli-galluzzo": {
+   "nome": "Acciaioli Galluzzo",
+   "lat": 43.736115,
+   "lon": 11.224703,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-senese-volterrana": {
+   "nome": "Senese Volterrana",
+   "lat": 43.738492,
+   "lon": 11.224605,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-senese-delle-bagnese": {
+   "nome": "Senese delle Bagnese",
+   "lat": 43.741652,
+   "lon": 11.224887,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-senese-i-rossi": {
+   "nome": "Senese i Rossi",
+   "lat": 43.745067,
+   "lon": 11.227848,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-due-strade-gelsomino": {
+   "nome": "Due Strade Gelsomino",
+   "lat": 43.749577,
+   "lon": 11.235577,
+   "linee": [
+    "AUT-11",
+    "AUT-18",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-gelsomino-grecchi": {
+   "nome": "Gelsomino Grecchi",
+   "lat": 43.750332,
+   "lon": 11.239678,
+   "linee": [
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-imperiale-da-castiglione": {
+   "nome": "Imperiale da Castiglione",
+   "lat": 43.757852,
+   "lon": 11.243143,
+   "linee": [
+    "AUT-11",
+    "AUT-18"
+   ]
+  },
+  "autobus-petrarca-porta-romana": {
+   "nome": "Petrarca Porta Romana",
+   "lat": 43.761238,
+   "lon": 11.241368,
+   "linee": [
+    "AUT-11",
+    "AUT-13",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-petrarca-casone": {
+   "nome": "Petrarca Casone",
+   "lat": 43.76407,
+   "lon": 11.241087,
+   "linee": [
+    "AUT-11",
+    "AUT-13",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-piazza-tasso": {
+   "nome": "Piazza Tasso",
+   "lat": 43.766955,
+   "lon": 11.240442,
+   "linee": [
+    "AUT-11",
+    "AUT-13",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39",
+    "AUT-C4"
+   ]
+  },
+  "autobus-ariosto-dell-orto": {
+   "nome": "Ariosto Dell'Orto",
+   "lat": 43.76884,
+   "lon": 11.239578,
+   "linee": [
+    "AUT-11",
+    "AUT-36",
+    "AUT-37",
+    "AUT-C4"
+   ]
+  },
+  "autobus-san-frediano-cestello": {
+   "nome": "San Frediano Cestello",
+   "lat": 43.769787,
+   "lon": 11.24344,
+   "linee": [
+    "AUT-11",
+    "AUT-13",
+    "AUT-C4"
+   ]
+  },
+  "autobus-san-frediano-serragli": {
+   "nome": "San Frediano Serragli",
+   "lat": 43.769162,
+   "lon": 11.245887,
+   "linee": [
+    "AUT-11",
+    "AUT-13",
+    "AUT-C4"
+   ]
+  },
+  "autobus-lorenzo-il-magnifico-strozzi": {
+   "nome": "L. il Magnifico Strozzi",
+   "lat": 43.782787,
+   "lon": 11.253452,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-savonarola-giacomini": {
+   "nome": "Savonarola Giacomini",
+   "lat": 43.782797,
+   "lon": 11.26645,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-conti": {
+   "nome": "Conti",
+   "lat": 43.780252,
+   "lon": 11.268795,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-vasari": {
+   "nome": "Vasari",
+   "lat": 43.782023,
+   "lon": 11.270985,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-pratellino-ponte-al-pino": {
+   "nome": "Pratellino Ponte al Pino",
+   "lat": 43.782865,
+   "lon": 11.272145,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-marconi-dupr": {
+   "nome": "Marconi Dupré",
+   "lat": 43.783242,
+   "lon": 11.275825,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-marconi-carnesecchi": {
+   "nome": "Marconi Carnesecchi",
+   "lat": 43.783688,
+   "lon": 11.27824,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-marconi-san-gervasio": {
+   "nome": "Marconi San Gervasio",
+   "lat": 43.784175,
+   "lon": 11.281803,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-gasperi-antonelli": {
+   "nome": "Gasperi Antonelli",
+   "lat": 43.783393,
+   "lon": 11.284228,
+   "linee": [
+    "AUT-11"
+   ]
+  },
+  "autobus-cento-stelle-calatafimi": {
+   "nome": "Cento Stelle Calatafimi",
+   "lat": 43.782603,
+   "lon": 11.287655,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-sirtori": {
+   "nome": "Sirtori",
+   "lat": 43.782383,
+   "lon": 11.29078,
+   "linee": [
+    "AUT-11",
+    "AUT-17"
+   ]
+  },
+  "autobus-il-prato-barbetti": {
+   "nome": "Il Prato Barbetti",
+   "lat": 43.774957,
+   "lon": 11.242415,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-giovanni-della-casa": {
+   "nome": "Giovanni della Casa",
+   "lat": 43.772682,
+   "lon": 11.229827,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-sanzio": {
+   "nome": "Sanzio",
+   "lat": 43.771095,
+   "lon": 11.233155,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-aleardi-burchiello": {
+   "nome": "Aleardi Burchiello",
+   "lat": 43.768672,
+   "lon": 11.23697,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-pratolini": {
+   "nome": "Pratolini",
+   "lat": 43.76702,
+   "lon": 11.240123,
+   "linee": [
+    "AUT-12",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-petrarca-monti": {
+   "nome": "Petrarca Monti",
+   "lat": 43.763248,
+   "lon": 11.240977,
+   "linee": [
+    "AUT-12",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-porta-romana": {
+   "nome": "Porta Romana",
+   "lat": 43.760692,
+   "lon": 11.24146,
+   "linee": [
+    "AUT-12",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-machiavelli-michele-di-lando": {
+   "nome": "Machiavelli Michele di Lando",
+   "lat": 43.758948,
+   "lon": 11.247593,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-machiavelli-via-del-tivoli": {
+   "nome": "Machiavelli da Castiglione",
+   "lat": 43.756655,
+   "lon": 11.247725,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-galileo-torricelli": {
+   "nome": "Galileo Torricelli",
+   "lat": 43.756042,
+   "lon": 11.250453,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-galileo-san-leonardo": {
+   "nome": "Galileo San Leonardo",
+   "lat": 43.754832,
+   "lon": 11.251365,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-galileo-giramontino": {
+   "nome": "Galileo Giramontino",
+   "lat": 43.757273,
+   "lon": 11.257428,
+   "linee": [
+    "AUT-12",
+    "AUT-13"
+   ]
+  },
+  "autobus-galileo-passo-all-erta": {
+   "nome": "Galileo Passo All'Erta",
+   "lat": 43.758065,
+   "lon": 11.261235,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-galileo-san-miniato": {
+   "nome": "Galileo San Miniato",
+   "lat": 43.760242,
+   "lon": 11.264067,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-piazzale-san-miniato": {
+   "nome": "Piazzale San Miniato",
+   "lat": 43.762308,
+   "lon": 11.265198,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-masaccio-artisti": {
+   "nome": "Masaccio Artisti",
+   "lat": 43.7817,
+   "lon": 11.27005,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-masaccio-botticelli": {
+   "nome": "Masaccio Botticelli",
+   "lat": 43.784268,
+   "lon": 11.267442,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-pascoli-mafalda-di-savoia": {
+   "nome": "Pascoli Mafalda di Savoia",
+   "lat": 43.78634,
+   "lon": 11.265415,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-venti-settembre-orticoltura": {
+   "nome": "Venti Settembre Orticoltura",
+   "lat": 43.786205,
+   "lon": 11.261422,
+   "linee": [
+    "AUT-12",
+    "AUT-13"
+   ]
+  },
+  "autobus-puccinotti": {
+   "nome": "Puccinotti",
+   "lat": 43.786543,
+   "lon": 11.259108,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-ruffini": {
+   "nome": "Ruffini",
+   "lat": 43.785223,
+   "lon": 11.25597,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-scala-orti-oricellari": {
+   "nome": "Scala Orti Oricellari",
+   "lat": 43.775958,
+   "lon": 11.245098,
+   "linee": [
+    "AUT-12",
+    "AUT-17",
+    "AUT-23",
+    "AUT-36",
+    "AUT-37",
+    "AUT-C4"
+   ]
+  },
+  "autobus-scala-porta-al-prato": {
+   "nome": "Scala Porta al Prato",
+   "lat": 43.778167,
+   "lon": 11.241972,
+   "linee": [
+    "AUT-12",
+    "AUT-17",
+    "AUT-23"
+   ]
+  },
+  "autobus-leopolda-porta-al-prato": {
+   "nome": "Stazione Leopolda",
+   "lat": 43.777697,
+   "lon": 11.238488,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-michelangiolo-san-miniato": {
+   "nome": "Michelangiolo San Miniato",
+   "lat": 43.761272,
+   "lon": 11.268227,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-michelangiolo-di-gattaia": {
+   "nome": "Michelangiolo di Gattaia",
+   "lat": 43.758567,
+   "lon": 11.269065,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-michelangiolo-palagi": {
+   "nome": "Michelangiolo Palagi",
+   "lat": 43.757645,
+   "lon": 11.271068,
+   "linee": [
+    "AUT-12"
+   ]
+  },
+  "autobus-michelangiolo-ferrucci": {
+   "nome": "Michelangiolo Ferrucci",
+   "lat": 43.762955,
+   "lon": 11.272285,
+   "linee": [
+    "AUT-12",
+    "AUT-C4"
+   ]
+  },
+  "autobus-baldovini": {
+   "nome": "Baldovini",
+   "lat": 43.762843,
+   "lon": 11.275265,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-michelangiolo-bastioni": {
+   "nome": "Michelangiolo Bastioni",
+   "lat": 43.763085,
+   "lon": 11.271848,
+   "linee": [
+    "AUT-13",
+    "AUT-C4"
+   ]
+  },
+  "autobus-michelangiolo-pietro-tacca": {
+   "nome": "Michelangiolo Pietro Tacca",
+   "lat": 43.757395,
+   "lon": 11.270685,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-michelangiolo-campo-assi": {
+   "nome": "Michelangiolo Campo Assi",
+   "lat": 43.758777,
+   "lon": 11.26936,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-michelangiolo-camping": {
+   "nome": "Michelangiolo Camping",
+   "lat": 43.761342,
+   "lon": 11.26894,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-piazzale-il-david": {
+   "nome": "Piazzale il David",
+   "lat": 43.762522,
+   "lon": 11.264887,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-galileo-monte-alle-croci": {
+   "nome": "Galileo Monte alle Croci",
+   "lat": 43.759715,
+   "lon": 11.263105,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-galileo-erta-canina": {
+   "nome": "Galileo Erta Canina",
+   "lat": 43.757835,
+   "lon": 11.26044,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-galileo-forte-di-belvedere": {
+   "nome": "Galileo Forte di Belvedere",
+   "lat": 43.754925,
+   "lon": 11.252105,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-galileo-machiavelli": {
+   "nome": "Galileo Machiavelli",
+   "lat": 43.755797,
+   "lon": 11.250438,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-machiavelli-da-castiglione": {
+   "nome": "Machiavelli Via del Tivoli",
+   "lat": 43.756842,
+   "lon": 11.248217,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-machiavelli-bobolino": {
+   "nome": "Machiavelli Bobolino",
+   "lat": 43.75919,
+   "lon": 11.248023,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-aleardi-monte-oliveto": {
+   "nome": "Aleardi Monte Oliveto",
+   "lat": 43.769587,
+   "lon": 11.235245,
+   "linee": [
+    "AUT-13",
+    "AUT-39"
+   ]
+  },
+  "autobus-t1-porta-al-prato-leopolda": {
+   "nome": "T1 Porta al Prato - Leopolda",
+   "lat": 43.777777,
+   "lon": 11.239722,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-fratelli-rosselli": {
+   "nome": "Fratelli Rosselli",
+   "lat": 43.779235,
+   "lon": 11.244135,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-fortezza-t1-strozzi": {
+   "nome": "Fortezza T1 Strozzi",
+   "lat": 43.78315,
+   "lon": 11.252417,
+   "linee": [
+    "AUT-13",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-venti-settembre-ruffini": {
+   "nome": "Venti Settembre Ruffini",
+   "lat": 43.78496,
+   "lon": 11.256575,
+   "linee": [
+    "AUT-13"
+   ]
+  },
+  "autobus-borgo-ognissanti": {
+   "nome": "Borgo Ognissanti",
+   "lat": 43.773393,
+   "lon": 11.244315,
+   "linee": [
+    "AUT-13",
+    "AUT-C2",
+    "AUT-C4"
+   ]
+  },
+  "autobus-santa-lucia": {
+   "nome": "Santa Lucia",
+   "lat": 43.774723,
+   "lon": 11.24351,
+   "linee": [
+    "AUT-13",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39",
+    "AUT-C2",
+    "AUT-C4"
+   ]
+  },
+  "autobus-stazione-orti-oricellari": {
+   "nome": "Stazione Orti Oricellari",
+   "lat": 43.776468,
+   "lon": 11.245915,
+   "linee": [
+    "AUT-13",
+    "AUT-36",
+    "AUT-37",
+    "AUT-39",
+    "AUT-C2",
+    "AUT-C4"
+   ]
+  },
+  "autobus-santa-maria-maggiore": {
+   "nome": "Santa Maria Maggiore",
+   "lat": 43.77301,
+   "lon": 11.252782,
+   "linee": [
+    "AUT-14",
+    "AUT-C4"
+   ]
+  },
+  "autobus-piazza-piave": {
+   "nome": "Temporanea Piazza Piave.",
+   "lat": 43.766412,
+   "lon": 11.268253,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-arnolfo-cimabue": {
+   "nome": "Arnolfo Cimabue",
+   "lat": 43.767188,
+   "lon": 11.2731,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-arnolfo-orcagna": {
+   "nome": "Arnolfo Orcagna",
+   "lat": 43.76694,
+   "lon": 11.2752,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-sella-campofiore": {
+   "nome": "Sella Campofiore",
+   "lat": 43.766682,
+   "lon": 11.27841,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-sella-de-sanctis": {
+   "nome": "Sella De Sanctis",
+   "lat": 43.766923,
+   "lon": 11.282532,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-sella-bellariva": {
+   "nome": "Sella Bellariva",
+   "lat": 43.767082,
+   "lon": 11.285192,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-minghetti-rosadi": {
+   "nome": "Minghetti Rosadi",
+   "lat": 43.768605,
+   "lon": 11.288065,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "gtfs-139798": {
+   "nome": "Aretina De Gasperi",
+   "lat": 43.768278,
+   "lon": 11.293408,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-monzani": {
+   "nome": "Aretina Monzani",
+   "lat": 43.768097,
+   "lon": 11.295678,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-de-nicola": {
+   "nome": "Aretina De Nicola",
+   "lat": 43.767868,
+   "lon": 11.298103,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-varlungo": {
+   "nome": "Aretina Varlungo",
+   "lat": 43.767675,
+   "lon": 11.300048,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-salandra": {
+   "nome": "Aretina Salandra",
+   "lat": 43.76743,
+   "lon": 11.302647,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-bonomi": {
+   "nome": "Aretina Bonomi",
+   "lat": 43.767077,
+   "lon": 11.305877,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-orlando-dalla-chiesa": {
+   "nome": "Orlando dalla Chiesa",
+   "lat": 43.7664,
+   "lon": 11.308953,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-dalla-chiesa-arno": {
+   "nome": "Dalla Chiesa Arno",
+   "lat": 43.764778,
+   "lon": 11.310702,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-dalla-chiesa-campeggio": {
+   "nome": "Dalla Chiesa Campeggio",
+   "lat": 43.766272,
+   "lon": 11.31628,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "gtfs-139555": {
+   "nome": "Aretina Cappugi",
+   "lat": 43.767225,
+   "lon": 11.31846,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-sant-andrea": {
+   "nome": "Aretina Sant'Andrea",
+   "lat": 43.769145,
+   "lon": 11.323715,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "gtfs-139567": {
+   "nome": "Il Girone",
+   "lat": 43.769695,
+   "lon": 11.340125,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-loretino": {
+   "nome": "Aretina Loretino",
+   "lat": 43.769402,
+   "lon": 11.323515,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "gtfs-139613": {
+   "nome": "Aretina dalla Chiesa",
+   "lat": 43.767245,
+   "lon": 11.318423,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-dalla-chiesa-aretina": {
+   "nome": "Dalla Chiesa Aretina",
+   "lat": 43.76616,
+   "lon": 11.31595,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-dalla-chiesa-orlando": {
+   "nome": "Dalla Chiesa Orlando",
+   "lat": 43.765015,
+   "lon": 11.309563,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-orlando-aretina": {
+   "nome": "Orlando Aretina",
+   "lat": 43.765973,
+   "lon": 11.308987,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-rocca-tedalda-ripa": {
+   "nome": "Rocca Tedalda Ripa",
+   "lat": 43.767842,
+   "lon": 11.307352,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-rocca-tedalda-aretina": {
+   "nome": "Rocca Tedalda Aretina",
+   "lat": 43.767738,
+   "lon": 11.303437,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-gignoro": {
+   "nome": "Aretina Gignoro",
+   "lat": 43.76785,
+   "lon": 11.299618,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-casaccia": {
+   "nome": "Aretina Casaccia",
+   "lat": 43.768175,
+   "lon": 11.296495,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-mari": {
+   "nome": "Aretina Mari",
+   "lat": 43.768567,
+   "lon": 11.291778,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-aretina-minghetti": {
+   "nome": "Aretina Minghetti",
+   "lat": 43.768767,
+   "lon": 11.28983,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-bellariva": {
+   "nome": "Bellariva",
+   "lat": 43.768667,
+   "lon": 11.286522,
+   "linee": [
+    "AUT-14",
+    "AUT-18"
+   ]
+  },
+  "autobus-lanza-madonnone": {
+   "nome": "Lanza Madonnone",
+   "lat": 43.768135,
+   "lon": 11.284782,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-lanza-de-sanctis": {
+   "nome": "Lanza De Sanctis",
+   "lat": 43.768222,
+   "lon": 11.281472,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-piagentina-beato-angelico": {
+   "nome": "Piagentina Beato Angelico",
+   "lat": 43.767872,
+   "lon": 11.278563,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-beato-angelico-ghirlandaio": {
+   "nome": "Beato Angelico Ghirlandaio",
+   "lat": 43.767775,
+   "lon": 11.276853,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-beato-angelico-amendola": {
+   "nome": "Beato Angelico Amendola",
+   "lat": 43.768378,
+   "lon": 11.271692,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-duca-degli-abruzzi": {
+   "nome": "Duca degli Abruzzi",
+   "lat": 43.768545,
+   "lon": 11.270297,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23"
+   ]
+  },
+  "autobus-agnolo": {
+   "nome": "Agnolo",
+   "lat": 43.769918,
+   "lon": 11.26595,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-salvemini": {
+   "nome": "Salvemini",
+   "lat": 43.771285,
+   "lon": 11.262472,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-C1",
+    "AUT-C2"
+   ]
+  },
+  "autobus-sant-egidio": {
+   "nome": "Sant'Egidio",
+   "lat": 43.772563,
+   "lon": 11.260615,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-C1"
+   ]
+  },
+  "autobus-santa-maria-nuova": {
+   "nome": "Santa Maria Nuova",
+   "lat": 43.773472,
+   "lon": 11.259062,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-C1"
+   ]
+  },
+  "autobus-pucci-duomo": {
+   "nome": "Pucci Duomo",
+   "lat": 43.774693,
+   "lon": 11.256218,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-C1"
+   ]
+  },
+  "autobus-cavour-guelfa": {
+   "nome": "Cavour San Marco",
+   "lat": 43.77766,
+   "lon": 11.258073,
+   "linee": [
+    "AUT-14",
+    "AUT-18",
+    "AUT-23",
+    "AUT-C1"
+   ]
+  },
+  "autobus-stazione-via-panzani": {
+   "nome": "Stazione Via Panzani",
+   "lat": 43.774138,
+   "lon": 11.250867,
+   "linee": [
+    "AUT-14",
+    "AUT-C2",
+    "AUT-C4"
+   ]
+  },
+  "autobus-verga-tozzi": {
+   "nome": "Verga Tozzi",
+   "lat": 43.778588,
+   "lon": 11.297953,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-duse-d-annunzio": {
+   "nome": "Duse D'Annunzio",
+   "lat": 43.778868,
+   "lon": 11.294848,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-duse-lungo-l-affrico": {
+   "nome": "Duse Lungo L'Affrico",
+   "lat": 43.779375,
+   "lon": 11.291568,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "gtfs-173191": {
+   "nome": "Ojetti",
+   "lat": 43.784278,
+   "lon": 11.294088,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-saffi": {
+   "nome": "Saffi",
+   "lat": 43.782737,
+   "lon": 11.281027,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-mille-sette-santi": {
+   "nome": "Mille Sette Santi",
+   "lat": 43.781298,
+   "lon": 11.278192,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-porte-nuove-belfiore": {
+   "nome": "Porte Nuove Belfiore",
+   "lat": 43.779633,
+   "lon": 11.240142,
+   "linee": [
+    "AUT-17",
+    "AUT-23"
+   ]
+  },
+  "autobus-porte-nuove-marcello": {
+   "nome": "Porte Nuove Marcello",
+   "lat": 43.781887,
+   "lon": 11.237532,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-toselli-bellini": {
+   "nome": "Toselli Bellini",
+   "lat": 43.783475,
+   "lon": 11.234983,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-toselli-veracini": {
+   "nome": "Toselli Veracini",
+   "lat": 43.785523,
+   "lon": 11.231133,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-piazza-puccini": {
+   "nome": "Piazza Puccini",
+   "lat": 43.78608,
+   "lon": 11.228148,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-tartini-puccini": {
+   "nome": "Tartini Puccini",
+   "lat": 43.786378,
+   "lon": 11.225997,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-tartini-manifattura": {
+   "nome": "Tartini Passerella",
+   "lat": 43.78728,
+   "lon": 11.22276,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-boito-pergolesi": {
+   "nome": "Boito Pergolesi",
+   "lat": 43.787512,
+   "lon": 11.220358,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-boito": {
+   "nome": "Boito",
+   "lat": 43.788053,
+   "lon": 11.218853,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-pergolesi-tartini": {
+   "nome": "Pergolesi Tartini",
+   "lat": 43.787637,
+   "lon": 11.220788,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-ponte-alle-mosse-puccini": {
+   "nome": "Ponte alle Mosse Puccini",
+   "lat": 43.785265,
+   "lon": 11.229592,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-ponte-alle-mosse-doni": {
+   "nome": "Ponte alle Mosse Doni",
+   "lat": 43.783977,
+   "lon": 11.231898,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-ponte-alle-mosse-marcello": {
+   "nome": "Ponte alle Mosse Marcello",
+   "lat": 43.782372,
+   "lon": 11.234842,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-ponte-alle-mosse-leopolda": {
+   "nome": "Ponte alle Mosse Leopolda",
+   "lat": 43.779437,
+   "lon": 11.238213,
+   "linee": [
+    "AUT-17",
+    "AUT-23"
+   ]
+  },
+  "autobus-stazione-t1": {
+   "nome": "Stazione T1",
+   "lat": 43.77602,
+   "lon": 11.246782,
+   "linee": [
+    "AUT-17",
+    "AUT-23",
+    "AUT-39"
+   ]
+  },
+  "autobus-stazione-abside-smn": {
+   "nome": "Stazione Abside Smn",
+   "lat": 43.775277,
+   "lon": 11.248677,
+   "linee": [
+    "AUT-17",
+    "AUT-23"
+   ]
+  },
+  "autobus-la-marmora-t2": {
+   "nome": "La Marmora T2",
+   "lat": 43.781042,
+   "lon": 11.26192,
+   "linee": [
+    "AUT-17",
+    "AUT-C1"
+   ]
+  },
+  "autobus-fra-bartolommeo-capponi": {
+   "nome": "Fra' Bartolommeo Capponi",
+   "lat": 43.782827,
+   "lon": 11.263835,
+   "linee": [
+    "AUT-17",
+    "AUT-C1"
+   ]
+  },
+  "autobus-mille-cairoli": {
+   "nome": "Mille Cairoli",
+   "lat": 43.781765,
+   "lon": 11.277125,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-sette-santi-dupr": {
+   "nome": "Sette Santi Dupré",
+   "lat": 43.781173,
+   "lon": 11.279285,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-san-gervasio-carnesecchi": {
+   "nome": "San Gervasio Carnesecchi",
+   "lat": 43.782017,
+   "lon": 11.281212,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-san-gervasio-antonelli": {
+   "nome": "San Gervasio Antonelli",
+   "lat": 43.783135,
+   "lon": 11.284298,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-duse-arcolaio": {
+   "nome": "Duse Arcolaio",
+   "lat": 43.779192,
+   "lon": 11.291672,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-duse-verga": {
+   "nome": "Duse Verga",
+   "lat": 43.778632,
+   "lon": 11.294942,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-verga-d-orso": {
+   "nome": "Verga D'Orso",
+   "lat": 43.778472,
+   "lon": 11.298447,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-verga-gignoro": {
+   "nome": "Verga Gignoro",
+   "lat": 43.778068,
+   "lon": 11.301228,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-verga-centro-tecnico-coverciano": {
+   "nome": "Verga C.T. Coverciano",
+   "lat": 43.778138,
+   "lon": 11.301813,
+   "linee": [
+    "AUT-17"
+   ]
+  },
+  "autobus-certosa-di-firenze": {
+   "nome": "Certosa di Firenze",
+   "lat": 43.732232,
+   "lon": 11.224153,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "autobus-senese-certosa": {
+   "nome": "Senese Certosa",
+   "lat": 43.730582,
+   "lon": 11.223383,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "autobus-bottai-colle-ramole": {
+   "nome": "Bottai Colle Ramole",
+   "lat": 43.725795,
+   "lon": 11.224807,
+   "linee": [
+    "AUT-18",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-cassia-parcheggio": {
+   "nome": "Cassia Parcheggio",
+   "lat": 43.721117,
+   "lon": 11.223953,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140027": {
+   "nome": "Cassia Abate",
+   "lat": 43.718153,
+   "lon": 11.222843,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140153": {
+   "nome": "Cassia Fiume Greve",
+   "lat": 43.714767,
+   "lon": 11.221287,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140025": {
+   "nome": "Cassia Repubblica",
+   "lat": 43.710428,
+   "lon": 11.216818,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140030": {
+   "nome": "Cassia Indipendenza",
+   "lat": 43.709465,
+   "lon": 11.214733,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140151": {
+   "nome": "Tavarnuzze Primo Maggio",
+   "lat": 43.708845,
+   "lon": 11.212618,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140023": {
+   "nome": "Cassia Fratelli Rosselli",
+   "lat": 43.709617,
+   "lon": 11.21575,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140024": {
+   "nome": "Resistenza Montebuoni",
+   "lat": 43.710005,
+   "lon": 11.21752,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140152": {
+   "nome": "Tavarnuzze Stazione",
+   "lat": 43.710992,
+   "lon": 11.219623,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140031": {
+   "nome": "Cassia Cooperazione",
+   "lat": 43.714183,
+   "lon": 11.221267,
+   "linee": [
+    "AUT-18",
+    "AUT-37"
+   ]
+  },
+  "gtfs-140026": {
+   "nome": "Cassia Pescaia",
+   "lat": 43.715547,
+   "lon": 11.221927,
+   "linee": [
+    "AUT-18",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "gtfs-140032": {
+   "nome": "Cassia Casello A1",
+   "lat": 43.718768,
+   "lon": 11.223167,
+   "linee": [
+    "AUT-18",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-cassia-le-rose": {
+   "nome": "Cassia le Rose",
+   "lat": 43.721905,
+   "lon": 11.22463,
+   "linee": [
+    "AUT-18",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-senese-ponte-bailey": {
+   "nome": "Senese Ponte Bailey",
+   "lat": 43.730848,
+   "lon": 11.223577,
+   "linee": [
+    "AUT-18",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-calza-romana": {
+   "nome": "Calza Romana",
+   "lat": 43.761072,
+   "lon": 11.242257,
+   "linee": [
+    "AUT-18",
+    "AUT-C1"
+   ]
+  },
+  "autobus-romana-boboli": {
+   "nome": "Romana Boboli",
+   "lat": 43.76338,
+   "lon": 11.24482,
+   "linee": [
+    "AUT-18",
+    "AUT-C1"
+   ]
+  },
+  "autobus-piazza-san-felice": {
+   "nome": "Piazza San Felice",
+   "lat": 43.764955,
+   "lon": 11.247893,
+   "linee": [
+    "AUT-18",
+    "AUT-C1"
+   ]
+  },
+  "autobus-frescobaldi": {
+   "nome": "Frescobaldi",
+   "lat": 43.768402,
+   "lon": 11.24997,
+   "linee": [
+    "AUT-18",
+    "AUT-C1",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-guicciardini-carraia": {
+   "nome": "Guicciardini Carraia",
+   "lat": 43.769513,
+   "lon": 11.247255,
+   "linee": [
+    "AUT-18",
+    "AUT-C3"
+   ]
+  },
+  "autobus-croce-a-varliano": {
+   "nome": "Croce a Varliano",
+   "lat": 43.74594,
+   "lon": 11.33804,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-martellina": {
+   "nome": "Roma Martellina",
+   "lat": 43.748165,
+   "lon": 11.335078,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-borrani": {
+   "nome": "Roma Borrani",
+   "lat": 43.748277,
+   "lon": 11.33053,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-dallapiccola": {
+   "nome": "Roma Dallapiccola",
+   "lat": 43.74858,
+   "lon": 11.327803,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-mattei": {
+   "nome": "Roma Mattei",
+   "lat": 43.74965,
+   "lon": 11.324595,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-fratelli-orsi": {
+   "nome": "Roma Fratelli Orsi",
+   "lat": 43.751983,
+   "lon": 11.321193,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-robinson": {
+   "nome": "Roma Robinson",
+   "lat": 43.752437,
+   "lon": 11.318797,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-volta-gobetti": {
+   "nome": "Roma Volta Gobetti",
+   "lat": 43.75341,
+   "lon": 11.313428,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-olmi": {
+   "nome": "Roma Olmi",
+   "lat": 43.753868,
+   "lon": 11.310342,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-rodolico": {
+   "nome": "Roma Rodolico",
+   "lat": 43.754067,
+   "lon": 11.308537,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-rodolico": {
+   "nome": "Rodolico",
+   "lat": 43.753983,
+   "lon": 11.305787,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-cimitero-del-pino": {
+   "nome": "Cimitero del Pino",
+   "lat": 43.75569,
+   "lon": 11.305092,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-olanda-francia": {
+   "nome": "Olanda Francia",
+   "lat": 43.757315,
+   "lon": 11.299142,
+   "linee": [
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-cellini-fornace": {
+   "nome": "Cellini Fornace",
+   "lat": 43.76464,
+   "lon": 11.267435,
+   "linee": [
+    "AUT-23",
+    "AUT-C4"
+   ]
+  },
+  "autobus-serristori-terrazza-marasco": {
+   "nome": "Serristori Terrazza Marasco",
+   "lat": 43.765025,
+   "lon": 11.263473,
+   "linee": [
+    "AUT-23",
+    "AUT-C4"
+   ]
+  },
+  "autobus-serristori-grazie": {
+   "nome": "Serristori Grazie",
+   "lat": 43.765497,
+   "lon": 11.258765,
+   "linee": [
+    "AUT-23",
+    "AUT-C4"
+   ]
+  },
+  "autobus-lungarno-alle-grazie": {
+   "nome": "Lungarno alle Grazie",
+   "lat": 43.766783,
+   "lon": 11.259955,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-zecca-vecchia-cavalleggeri": {
+   "nome": "Zecca Vecchia Cavalleggeri",
+   "lat": 43.766445,
+   "lon": 11.264048,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-carra-scarlatti": {
+   "nome": "Carra Scarlatti",
+   "lat": 43.781712,
+   "lon": 11.23837,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-san-iacopino": {
+   "nome": "Ponte All'Asse",
+   "lat": 43.784665,
+   "lon": 11.240408,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-corsica-circondaria": {
+   "nome": "Corsica Circondaria",
+   "lat": 43.78768,
+   "lon": 11.239833,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-massaio-ponte-di-mezzo": {
+   "nome": "Massaio Ponte di Mezzo",
+   "lat": 43.790892,
+   "lon": 11.23811,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-ponte-di-mezzo-mariti": {
+   "nome": "Ponte di Mezzo Mariti",
+   "lat": 43.792405,
+   "lon": 11.236478,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-del-prete-terzolle": {
+   "nome": "Del Prete Terzolle",
+   "lat": 43.794368,
+   "lon": 11.23389,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-del-prete-caciolle": {
+   "nome": "Del Prete Caciolle",
+   "lat": 43.795797,
+   "lon": 11.231552,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-magellano-dei": {
+   "nome": "Magellano dei",
+   "lat": 43.798215,
+   "lon": 11.23214,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-magellano-panciatichi": {
+   "nome": "Magellano Panciatichi",
+   "lat": 43.800162,
+   "lon": 11.233025,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-panciatichi-tre-pietre": {
+   "nome": "Panciatichi Tre Pietre",
+   "lat": 43.80225,
+   "lon": 11.230837,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-panciatichi-fanfani": {
+   "nome": "Panciatichi Fanfani",
+   "lat": 43.804472,
+   "lon": 11.228873,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-ricasoli-fanfani": {
+   "nome": "Ricasoli Fanfani",
+   "lat": 43.806412,
+   "lon": 11.226107,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-ricasoli-petrocchi": {
+   "nome": "Ricasoli Petrocchi",
+   "lat": 43.807842,
+   "lon": 11.223863,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "gtfs-139774": {
+   "nome": "Comando Carabinieri Castello",
+   "lat": 43.807297,
+   "lon": 11.218892,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-nuova-scuola-carabinieri": {
+   "nome": "Nuova Scuola Carabinieri",
+   "lat": 43.805652,
+   "lon": 11.216492,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-t2-guidoni": {
+   "nome": "Firenze T2 Guidoni",
+   "lat": 43.799995,
+   "lon": 11.208367,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-xi-agosto-scuola-carabinieri": {
+   "nome": "Xi Agosto Scuola Carabinieri",
+   "lat": 43.80545,
+   "lon": 11.216428,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-ricasoli-famiglia-benini": {
+   "nome": "Ricasoli Famiglia Benini",
+   "lat": 43.807518,
+   "lon": 11.224122,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-ricasoli-nuovo-pignone": {
+   "nome": "Ricasoli Nuovo Pignone",
+   "lat": 43.806165,
+   "lon": 11.226253,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-panciatichi-perfetti-ricasoli": {
+   "nome": "Panciatichi Perfetti Ricasoli",
+   "lat": 43.804408,
+   "lon": 11.228655,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-piazza-mattei": {
+   "nome": "Piazza Mattei",
+   "lat": 43.802518,
+   "lon": 11.230217,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-panciatichi-pancaldo": {
+   "nome": "Panciatichi Pancaldo",
+   "lat": 43.801535,
+   "lon": 11.231433,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-campo-sportivo-rifredi": {
+   "nome": "Campo Sportivo Rifredi",
+   "lat": 43.79978,
+   "lon": 11.23275,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-magellano-caciolle": {
+   "nome": "Magellano Caciolle",
+   "lat": 43.797742,
+   "lon": 11.231522,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-del-prete-maddalena": {
+   "nome": "Del Prete Maddalena",
+   "lat": 43.795643,
+   "lon": 11.231527,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-del-prete-guidoni": {
+   "nome": "Del Prete Guidoni",
+   "lat": 43.794322,
+   "lon": 11.233715,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-ponte-di-mezzo-marignolli": {
+   "nome": "Ponte di Mezzo Marignolli",
+   "lat": 43.792,
+   "lon": 11.236535,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-massaio-corsica": {
+   "nome": "Massaio Corsica",
+   "lat": 43.790827,
+   "lon": 11.238465,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-maragliano-san-iacopino": {
+   "nome": "Piazza San Iacopino",
+   "lat": 43.784132,
+   "lon": 11.239903,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-benedetto-marcello": {
+   "nome": "Benedetto Marcello",
+   "lat": 43.7825,
+   "lon": 11.239437,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-zecca-vecchia-nazionale": {
+   "nome": "Zecca Vecchia Nazionale",
+   "lat": 43.766593,
+   "lon": 11.263583,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-corso-dei-tintori": {
+   "nome": "Corso dei Tintori",
+   "lat": 43.767545,
+   "lon": 11.259887,
+   "linee": [
+    "AUT-23",
+    "AUT-C3"
+   ]
+  },
+  "autobus-serristori-demidoff": {
+   "nome": "Serristori Demidoff",
+   "lat": 43.765362,
+   "lon": 11.259202,
+   "linee": [
+    "AUT-23",
+    "AUT-C4"
+   ]
+  },
+  "autobus-serristori-piazza-poggi": {
+   "nome": "Serristori Piazza Poggi",
+   "lat": 43.764987,
+   "lon": 11.262937,
+   "linee": [
+    "AUT-23",
+    "AUT-C4"
+   ]
+  },
+  "autobus-cellini-ferrucci": {
+   "nome": "Cellini Ferrucci",
+   "lat": 43.763973,
+   "lon": 11.270202,
+   "linee": [
+    "AUT-23",
+    "AUT-C4"
+   ]
+  },
+  "autobus-piazza-francia": {
+   "nome": "Piazza Francia",
+   "lat": 43.758922,
+   "lon": 11.29948,
+   "linee": [
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-olanda-europa": {
+   "nome": "Olanda Europa",
+   "lat": 43.75715,
+   "lon": 11.299033,
+   "linee": [
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-danimarca": {
+   "nome": "Danimarca",
+   "lat": 43.755597,
+   "lon": 11.297872,
+   "linee": [
+    "AUT-23",
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-ripoli-spagna": {
+   "nome": "Di Ripoli Spagna",
+   "lat": 43.754805,
+   "lon": 11.302527,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-sorgane-piazza-rodolico": {
+   "nome": "Sorgane Piazza Rodolico",
+   "lat": 43.754097,
+   "lon": 11.306377,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-pieve-a-ripoli": {
+   "nome": "Roma Pieve a Ripoli",
+   "lat": 43.753808,
+   "lon": 11.309925,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-bocci": {
+   "nome": "Roma Bocci",
+   "lat": 43.753438,
+   "lon": 11.312893,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-i-ponti": {
+   "nome": "Roma i Ponti",
+   "lat": 43.75271,
+   "lon": 11.31732,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-procacci": {
+   "nome": "Roma Procacci",
+   "lat": 43.752193,
+   "lon": 11.319443,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-agnoletti": {
+   "nome": "Roma Agnoletti",
+   "lat": 43.750727,
+   "lon": 11.32258,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-due-giugno": {
+   "nome": "Roma Due Giugno",
+   "lat": 43.74922,
+   "lon": 11.325455,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-otto-marzo": {
+   "nome": "Roma Otto Marzo",
+   "lat": 43.7483,
+   "lon": 11.328945,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-giusiani": {
+   "nome": "Roma Giusiani",
+   "lat": 43.748143,
+   "lon": 11.332945,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "autobus-roma-parcheggio": {
+   "nome": "Roma Parcheggio",
+   "lat": 43.747917,
+   "lon": 11.335257,
+   "linee": [
+    "AUT-23"
+   ]
+  },
+  "gtfs-139848": {
+   "nome": "Stazione Montelungo",
+   "lat": 43.780735,
+   "lon": 11.246672,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-beslan-t1-fortezza": {
+   "nome": "Beslan T1 Fortezza",
+   "lat": 43.780217,
+   "lon": 11.249607,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-scuole": {
+   "nome": "Chiantigiana Scuole",
+   "lat": 43.752837,
+   "lon": 11.297205,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-san-marcellino": {
+   "nome": "Chiantigiana San Marcellino",
+   "lat": 43.750875,
+   "lon": 11.29533,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-della-torre": {
+   "nome": "Chiantigiana della Torre",
+   "lat": 43.74573,
+   "lon": 11.292845,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-fortini-gualdrada": {
+   "nome": "Fortini Gualdrada",
+   "lat": 43.741573,
+   "lon": 11.288943,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-fortini-chiantigiana": {
+   "nome": "Fortini Chiantigiana",
+   "lat": 43.740445,
+   "lon": 11.291323,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-circolo": {
+   "nome": "Museo Gino Bartali",
+   "lat": 43.740358,
+   "lon": 11.293577,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-ferrero": {
+   "nome": "Chiantigiana Ferrero",
+   "lat": 43.739542,
+   "lon": 11.296873,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-longo": {
+   "nome": "Chiantigiana Longo",
+   "lat": 43.737658,
+   "lon": 11.2974,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-dell-antella": {
+   "nome": "Chiantigiana Dell'Antella",
+   "lat": 43.735283,
+   "lon": 11.296727,
+   "linee": [
+    "AUT-31",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-alighieri": {
+   "nome": "Chiantigiana Alighieri",
+   "lat": 43.728083,
+   "lon": 11.29506,
+   "linee": [
+    "AUT-31",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-borgo-sani": {
+   "nome": "Chiantigiana Borgo Sani",
+   "lat": 43.726197,
+   "lon": 11.292907,
+   "linee": [
+    "AUT-31",
+    "AUT-60"
+   ]
+  },
+  "autobus-grassina-umberto-i": {
+   "nome": "Grassina Umberto i",
+   "lat": 43.724193,
+   "lon": 11.293172,
+   "linee": [
+    "AUT-31",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-bartolini": {
+   "nome": "Chiantigiana Bartolini",
+   "lat": 43.726497,
+   "lon": 11.293203,
+   "linee": [
+    "AUT-31",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-campigliano": {
+   "nome": "Chiantigiana Campigliano",
+   "lat": 43.728798,
+   "lon": 11.295578,
+   "linee": [
+    "AUT-31",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-belmonte": {
+   "nome": "Chiantigiana Belmonte",
+   "lat": 43.733808,
+   "lon": 11.296968,
+   "linee": [
+    "AUT-31",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-ponte-a-niccheri": {
+   "nome": "Chiantigiana Ponte a Niccheri",
+   "lat": 43.735325,
+   "lon": 11.296893,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-da-feltre": {
+   "nome": "Chiantigiana da Feltre",
+   "lat": 43.740193,
+   "lon": 11.29555,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-ponte-a-ema": {
+   "nome": "Chiantigiana Ponte a Ema",
+   "lat": 43.741433,
+   "lon": 11.29138,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-diacceto": {
+   "nome": "Chiantigiana Diacceto",
+   "lat": 43.746018,
+   "lon": 11.293122,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-buia": {
+   "nome": "Chiantigiana Buia",
+   "lat": 43.75146,
+   "lon": 11.296095,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-chiantigiana-impianti-sport": {
+   "nome": "Chiantigiana Impianti Sport",
+   "lat": 43.752652,
+   "lon": 11.29723,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-badia-a-ripoli": {
+   "nome": "Badia a Ripoli",
+   "lat": 43.755872,
+   "lon": 11.299015,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-spadolini-t1-strozzi": {
+   "nome": "Spadolini T1 Strozzi",
+   "lat": 43.783838,
+   "lon": 11.250443,
+   "linee": [
+    "AUT-31",
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-belmonte": {
+   "nome": "Di Antella Belmonte",
+   "lat": 43.73322,
+   "lon": 11.298978,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-ospedale-annunziata": {
+   "nome": "Ospedale Annunziata",
+   "lat": 43.732285,
+   "lon": 11.305583,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-05": {
+   "nome": "Di Antella 05",
+   "lat": 43.731377,
+   "lon": 11.310668,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-torricella": {
+   "nome": "Di Antella Torricella",
+   "lat": 43.730068,
+   "lon": 11.315413,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-brigate-partigiane-torricella": {
+   "nome": "Brig. Partigiane Torricella",
+   "lat": 43.729247,
+   "lon": 11.31702,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-brigate-partigiane-giardini": {
+   "nome": "Brig. Partigiane Giardini",
+   "lat": 43.72812,
+   "lon": 11.319362,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "gtfs-175214": {
+   "nome": "Antella.-",
+   "lat": 43.726748,
+   "lon": 11.320638,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-antella": {
+   "nome": "Antella",
+   "lat": 43.726453,
+   "lon": 11.321677,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-peruzzi": {
+   "nome": "Di Antella Peruzzi",
+   "lat": 43.72806,
+   "lon": 11.320163,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-pertini": {
+   "nome": "Di Antella Pertini",
+   "lat": 43.729508,
+   "lon": 11.3173,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-romanelli": {
+   "nome": "Di Antella Romanelli",
+   "lat": 43.730278,
+   "lon": 11.315087,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-06": {
+   "nome": "Di Antella 06",
+   "lat": 43.731447,
+   "lon": 11.310693,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-di-antella-ponte-a-niccheri": {
+   "nome": "Di Antella Ponte a Niccheri",
+   "lat": 43.73326,
+   "lon": 11.299022,
+   "linee": [
+    "AUT-32",
+    "AUT-60"
+   ]
+  },
+  "autobus-ariosto-aleardi": {
+   "nome": "Ariosto Aleardi",
+   "lat": 43.76898,
+   "lon": 11.239367,
+   "linee": [
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-san-gaggio-da-castiglione": {
+   "nome": "San Gaggio Sant'Ilario",
+   "lat": 43.757525,
+   "lon": 11.240613,
+   "linee": [
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-san-gaggio-mascagni": {
+   "nome": "San Gaggio Mascagni",
+   "lat": 43.755943,
+   "lon": 11.24003,
+   "linee": [
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-san-gaggio-due-strade": {
+   "nome": "San Gaggio Due Strade",
+   "lat": 43.751912,
+   "lon": 11.237953,
+   "linee": [
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-acciaioli-silvani": {
+   "nome": "Acciaioli Silvani",
+   "lat": 43.736502,
+   "lon": 11.225435,
+   "linee": [
+    "AUT-36",
+    "AUT-39"
+   ]
+  },
+  "autobus-silvani-monna-data": {
+   "nome": "Silvani Monna Data",
+   "lat": 43.737562,
+   "lon": 11.231022,
+   "linee": [
+    "AUT-36",
+    "AUT-39"
+   ]
+  },
+  "autobus-silvani-migliorini": {
+   "nome": "Silvani Migliorini",
+   "lat": 43.73815,
+   "lon": 11.23386,
+   "linee": [
+    "AUT-36",
+    "AUT-39"
+   ]
+  },
+  "autobus-silvani-san-felice-a-ema": {
+   "nome": "Silvani Vecchia Pozzolatico",
+   "lat": 43.738987,
+   "lon": 11.237988,
+   "linee": [
+    "AUT-36",
+    "AUT-39"
+   ]
+  },
+  "autobus-silvani-campi-lunghi": {
+   "nome": "Silvani Campi Lunghi",
+   "lat": 43.739155,
+   "lon": 11.24091,
+   "linee": [
+    "AUT-36",
+    "AUT-39"
+   ]
+  },
+  "autobus-cave-di-monteripaldi-mulino": {
+   "nome": "Cave di Monteripaldi Mulino",
+   "lat": 43.738252,
+   "lon": 11.246285,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-cave-di-monteripaldi-fiume-ema": {
+   "nome": "Cave di Monteripaldi Fiume Ema",
+   "lat": 43.739262,
+   "lon": 11.248733,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-cascine-del-riccio": {
+   "nome": "Cascine del Riccio",
+   "lat": 43.733877,
+   "lon": 11.255155,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-guido-rossa": {
+   "nome": "Guido Rossa",
+   "lat": 43.731907,
+   "lon": 11.257313,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-ponte-a-iozzi": {
+   "nome": "Ponte a Iozzi",
+   "lat": 43.734708,
+   "lon": 11.255882,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-cave-di-monteripaldi-arcetri": {
+   "nome": "Cave di Monteripaldi Arcetri",
+   "lat": 43.73955,
+   "lon": 11.249392,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-cave-di-monteripaldi-silvani": {
+   "nome": "Cave di Monteripaldi Silvani",
+   "lat": 43.738295,
+   "lon": 11.24594,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-silvani-vecchia-pozzolatico": {
+   "nome": "Silvani San Felice a Ema",
+   "lat": 43.73901,
+   "lon": 11.23766,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-silvani-borghetto": {
+   "nome": "Silvani Borghetto",
+   "lat": 43.738118,
+   "lon": 11.233308,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-silvani-val-d-ema": {
+   "nome": "Silvani Val D'Ema",
+   "lat": 43.737318,
+   "lon": 11.229313,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-acciaioli-senese": {
+   "nome": "Acciaioli Senese",
+   "lat": 43.73662,
+   "lon": 11.224972,
+   "linee": [
+    "AUT-36"
+   ]
+  },
+  "autobus-san-gaggio-scuole": {
+   "nome": "San Gaggio Scuole",
+   "lat": 43.75196,
+   "lon": 11.23818,
+   "linee": [
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "autobus-san-gaggio-castelli": {
+   "nome": "San Gaggio Castelli",
+   "lat": 43.755068,
+   "lon": 11.239918,
+   "linee": [
+    "AUT-36",
+    "AUT-37",
+    "AUT-39"
+   ]
+  },
+  "gtfs-147990": {
+   "nome": "Impruneta Via Vittorio Veneto",
+   "lat": 43.684788,
+   "lon": 11.256965,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-147985": {
+   "nome": "San Luca",
+   "lat": 43.689578,
+   "lon": 11.256697,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146080": {
+   "nome": "Monte S. Antonio",
+   "lat": 43.691315,
+   "lon": 11.254033,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-173003": {
+   "nome": "Moro Libertà",
+   "lat": 43.688037,
+   "lon": 11.252075,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146097": {
+   "nome": "Fornace Poggi",
+   "lat": 43.69053,
+   "lon": 11.242303,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146089": {
+   "nome": "Convento Suore",
+   "lat": 43.691858,
+   "lon": 11.234637,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146090": {
+   "nome": "Bagnolo Cimitero",
+   "lat": 43.69243,
+   "lon": 11.226705,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146091": {
+   "nome": "Bagnolo",
+   "lat": 43.695743,
+   "lon": 11.21988,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146096": {
+   "nome": "Montebuoni",
+   "lat": 43.698312,
+   "lon": 11.219167,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146095": {
+   "nome": "Tavarnuzze Montebuoni",
+   "lat": 43.705792,
+   "lon": 11.221312,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146103": {
+   "nome": "Tavarnuzze",
+   "lat": 43.710747,
+   "lon": 11.21933,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146102": {
+   "nome": "Borghetto",
+   "lat": 43.714212,
+   "lon": 11.22122,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "autobus-olivuzzo": {
+   "nome": "Olivuzzo",
+   "lat": 43.768548,
+   "lon": 11.220047,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146078": {
+   "nome": "Mulino Nuovo",
+   "lat": 43.738272,
+   "lon": 11.244337,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146076": {
+   "nome": "P. le Vigne",
+   "lat": 43.736328,
+   "lon": 11.245453,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146077": {
+   "nome": "P. San Valentino",
+   "lat": 43.733657,
+   "lon": 11.248872,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146075": {
+   "nome": "Il Pino",
+   "lat": 43.729687,
+   "lon": 11.248217,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146092": {
+   "nome": "Pozzolatico",
+   "lat": 43.724868,
+   "lon": 11.24496,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146085": {
+   "nome": "Don Gnocchi",
+   "lat": 43.720723,
+   "lon": 11.251453,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146093": {
+   "nome": "La Querciola",
+   "lat": 43.719928,
+   "lon": 11.255897,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146094": {
+   "nome": "Scaluccia",
+   "lat": 43.717823,
+   "lon": 11.25955,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146084": {
+   "nome": "Mezzomonte",
+   "lat": 43.71547,
+   "lon": 11.260257,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146100": {
+   "nome": "Lo Scopetello",
+   "lat": 43.713672,
+   "lon": 11.257492,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146083": {
+   "nome": "Sant'Isidoro",
+   "lat": 43.711242,
+   "lon": 11.25688,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146086": {
+   "nome": "Monte Oriolo",
+   "lat": 43.708715,
+   "lon": 11.255265,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146082": {
+   "nome": "Campiano",
+   "lat": 43.705962,
+   "lon": 11.252493,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146081": {
+   "nome": "Le Rose",
+   "lat": 43.70172,
+   "lon": 11.249242,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146099": {
+   "nome": "I Meccoli",
+   "lat": 43.696452,
+   "lon": 11.250582,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146088": {
+   "nome": "Impruneta Viale Libertà",
+   "lat": 43.687685,
+   "lon": 11.25239,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "gtfs-146098": {
+   "nome": "Impruneta Piazza Buondelmonti",
+   "lat": 43.685553,
+   "lon": 11.254462,
+   "linee": [
+    "AUT-39"
+   ]
+  },
+  "autobus-parterre": {
+   "nome": "Parterre",
+   "lat": 43.786353,
+   "lon": 11.264198,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-ponte-rosso": {
+   "nome": "Ponte Rosso",
+   "lat": 43.78497,
+   "lon": 11.262045,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-cavour-palazzo-medici": {
+   "nome": "Cavour Palazzo Medici",
+   "lat": 43.77614,
+   "lon": 11.256837,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-piazza-di-san-lorenzo": {
+   "nome": "Piazza di San Lorenzo",
+   "lat": 43.775177,
+   "lon": 11.254828,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-cappelle-medicee": {
+   "nome": "Cappelle Medicee",
+   "lat": 43.775075,
+   "lon": 11.25286,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-pecori-vecchietti": {
+   "nome": "Pecori Vecchietti",
+   "lat": 43.772743,
+   "lon": 11.252453,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-roma-duomo": {
+   "nome": "Roma Duomo",
+   "lat": 43.772573,
+   "lon": 11.254398,
+   "linee": [
+    "AUT-C1",
+    "AUT-C2"
+   ]
+  },
+  "autobus-studio": {
+   "nome": "Studio",
+   "lat": 43.772377,
+   "lon": 11.256855,
+   "linee": [
+    "AUT-C1",
+    "AUT-C2"
+   ]
+  },
+  "autobus-proconsolo-2": {
+   "nome": "Proconsolo",
+   "lat": 43.771838,
+   "lon": 11.257895,
+   "linee": [
+    "AUT-C1",
+    "AUT-C2"
+   ]
+  },
+  "autobus-galleria-degli-uffizi": {
+   "nome": "Galleria degli Uffizi",
+   "lat": 43.768558,
+   "lon": 11.256675,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-saponai": {
+   "nome": "Saponai",
+   "lat": 43.767568,
+   "lon": 11.25741,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-santa-maria-soprarno": {
+   "nome": "Santa Maria Soprarno",
+   "lat": 43.766723,
+   "lon": 11.25527,
+   "linee": [
+    "AUT-C1",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-borgo-san-iacopo": {
+   "nome": "Borgo San Iacopo",
+   "lat": 43.767655,
+   "lon": 11.252378,
+   "linee": [
+    "AUT-C1",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-san-giusto-della-calza": {
+   "nome": "San Giusto della Calza",
+   "lat": 43.761012,
+   "lon": 11.241792,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-pitti": {
+   "nome": "Pitti",
+   "lat": 43.766092,
+   "lon": 11.250235,
+   "linee": [
+    "AUT-C1",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-bardi": {
+   "nome": "Bardi",
+   "lat": 43.766867,
+   "lon": 11.254637,
+   "linee": [
+    "AUT-C1",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-torrigiani-chiesa-luterana": {
+   "nome": "Torrigiani Chiesa Luterana",
+   "lat": 43.765702,
+   "lon": 11.257703,
+   "linee": [
+    "AUT-C1",
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-benci": {
+   "nome": "Benci",
+   "lat": 43.767457,
+   "lon": 11.259368,
+   "linee": [
+    "AUT-C1",
+    "AUT-C3"
+   ]
+  },
+  "autobus-verdi": {
+   "nome": "Verdi",
+   "lat": 43.769973,
+   "lon": 11.261387,
+   "linee": [
+    "AUT-C1",
+    "AUT-C3"
+   ]
+  },
+  "autobus-fra-bartolommeo-masaccio": {
+   "nome": "Fra’ Bartolommeo Masaccio",
+   "lat": 43.784148,
+   "lon": 11.266433,
+   "linee": [
+    "AUT-C1"
+   ]
+  },
+  "autobus-leopolda-t1-porta-al-prato": {
+   "nome": "Leopolda T1 Porta al Prato",
+   "lat": 43.77731,
+   "lon": 11.239017,
+   "linee": [
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-il-prato": {
+   "nome": "Il Prato",
+   "lat": 43.775262,
+   "lon": 11.242067,
+   "linee": [
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-ghibellina-bargello": {
+   "nome": "Ghibellina Bargello",
+   "lat": 43.770592,
+   "lon": 11.258118,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-ghibellina-pepi": {
+   "nome": "Ghibellina Pepi",
+   "lat": 43.770023,
+   "lon": 11.262518,
+   "linee": [
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-malborghetto": {
+   "nome": "Malborghetto",
+   "lat": 43.76971,
+   "lon": 11.265597,
+   "linee": [
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-piazza-annigoni": {
+   "nome": "Piazza Annigoni",
+   "lat": 43.770862,
+   "lon": 11.267632,
+   "linee": [
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-piazza-beccaria": {
+   "nome": "Piazza Beccaria",
+   "lat": 43.770718,
+   "lon": 11.270333,
+   "linee": [
+    "AUT-C2",
+    "AUT-C3"
+   ]
+  },
+  "autobus-oriuolo-duomo": {
+   "nome": "Oriuolo Duomo",
+   "lat": 43.772495,
+   "lon": 11.258635,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-condotta": {
+   "nome": "Condotta",
+   "lat": 43.770215,
+   "lon": 11.255543,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-porta-rossa": {
+   "nome": "Porta Rossa",
+   "lat": 43.77022,
+   "lon": 11.253673,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-piazza-della-repubblica": {
+   "nome": "Piazza della Repubblica",
+   "lat": 43.771333,
+   "lon": 11.253585,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-olio-duomo": {
+   "nome": "Olio Duomo",
+   "lat": 43.772987,
+   "lon": 11.254038,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-palazzuolo": {
+   "nome": "Palazzuolo",
+   "lat": 43.77402,
+   "lon": 11.245842,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-rotonda-barbetti": {
+   "nome": "Rotonda Barbetti",
+   "lat": 43.774707,
+   "lon": 11.242748,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-solferino": {
+   "nome": "Solferino",
+   "lat": 43.775378,
+   "lon": 11.240042,
+   "linee": [
+    "AUT-C2"
+   ]
+  },
+  "autobus-sant-agostino": {
+   "nome": "Sant'Agostino",
+   "lat": 43.767347,
+   "lon": 11.245985,
+   "linee": [
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-santo-spirito": {
+   "nome": "Santo Spirito",
+   "lat": 43.76548,
+   "lon": 11.247515,
+   "linee": [
+    "AUT-C3",
+    "AUT-C4"
+   ]
+  },
+  "autobus-pepi": {
+   "nome": "Pepi",
+   "lat": 43.770343,
+   "lon": 11.262945,
+   "linee": [
+    "AUT-C3"
+   ]
+  },
+  "autobus-magliabechi": {
+   "nome": "Magliabechi",
+   "lat": 43.768047,
+   "lon": 11.261602,
+   "linee": [
+    "AUT-C3"
+   ]
+  },
+  "autobus-vittorio-veneto": {
+   "nome": "Vittorio Veneto",
+   "lat": 43.776293,
+   "lon": 11.237488,
+   "linee": [
+    "AUT-C3"
+   ]
+  },
+  "autobus-presidio-ospedaliero-palagi-villa-margherita": {
+   "nome": "Po Palagi Villa Margherita",
+   "lat": 43.75566,
+   "lon": 11.271498,
+   "linee": [
+    "AUT-C4"
+   ]
+  },
+  "autobus-presidio-ospedaliero-palagi": {
+   "nome": "Presidio Ospedaliero Palagi",
+   "lat": 43.755968,
+   "lon": 11.272545,
+   "linee": [
+    "AUT-C4"
+   ]
+  },
+  "autobus-piazza-piattellina": {
+   "nome": "Piazza Piattellina",
+   "lat": 43.76859,
+   "lon": 11.24299,
+   "linee": [
+    "AUT-C4"
+   ]
+  }
+ },
+ "fermataLinee": {
+  "autobus-calasso-centro-commerciale": [
+   "AUT-6"
+  ],
+  "autobus-vitelli-comparetti": [
+   "AUT-6"
+  ],
+  "autobus-calasso-gignoro": [
+   "AUT-6"
+  ],
+  "autobus-gignoro-pasquali": [
+   "AUT-6"
+  ],
+  "autobus-novelli": [
+   "AUT-6"
+  ],
+  "autobus-d-annunzio-presidio-asl": [
+   "AUT-6"
+  ],
+  "autobus-d-annunzio-lungo-l-affrico": [
+   "AUT-6"
+  ],
+  "autobus-de-amicis-torretta": [
+   "AUT-6"
+  ],
+  "autobus-scipione-ammirato": [
+   "AUT-6"
+  ],
+  "autobus-landucci-fra-paolo-sarpi": [
+   "AUT-6"
+  ],
+  "autobus-oberdan-bovio": [
+   "AUT-6"
+  ],
+  "autobus-segni": [
+   "AUT-6",
+   "AUT-8",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-mattonaia": [
+   "AUT-6",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-colonna-liceo-castelnuovo": [
+   "AUT-6",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-colonna-museo-archeologico": [
+   "AUT-6",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-san-marco-basilica": [
+   "AUT-6",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-xxvii-aprile-san-zanobi": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-17",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-indipendenza-nazionale": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-12",
+   "AUT-14",
+   "AUT-17",
+   "AUT-18",
+   "AUT-23"
+  ],
+  "autobus-stazione-scalette": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-12",
+   "AUT-17",
+   "AUT-18",
+   "AUT-23",
+   "AUT-C2",
+   "AUT-C4"
+  ],
+  "gtfs-139320": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-rucellai": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39",
+   "AUT-C4"
+  ],
+  "autobus-curtatone": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-pescaia-di-santa-rosa": [
+   "AUT-6",
+   "AUT-12"
+  ],
+  "autobus-soderini-torrino-santa-rosa": [
+   "AUT-6",
+   "AUT-12",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-lungarno-di-santa-rosa": [
+   "AUT-6",
+   "AUT-12",
+   "AUT-C3"
+  ],
+  "autobus-santa-maria-al-pignone": [
+   "AUT-6",
+   "AUT-12",
+   "AUT-C3"
+  ],
+  "autobus-vanni-gaddi": [
+   "AUT-6",
+   "AUT-12",
+   "AUT-39"
+  ],
+  "autobus-vanni-rosso-fiorentino": [
+   "AUT-6",
+   "AUT-12",
+   "AUT-39"
+  ],
+  "autobus-francavilla": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-pollaiolo-ammannati": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-masolino-olivuzzo": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-starnina-di-scandicci": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-di-scandicci-bonaiuto": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-di-scandicci-arcipressi": [
+   "AUT-6"
+  ],
+  "autobus-di-scandicci-ronco-corto": [
+   "AUT-6"
+  ],
+  "autobus-di-scandicci-pesellino": [
+   "AUT-6"
+  ],
+  "autobus-di-scandicci-don-gnocchi": [
+   "AUT-6"
+  ],
+  "autobus-di-scandicci-torre-galli": [
+   "AUT-6"
+  ],
+  "autobus-di-scandicci-amendola": [
+   "AUT-6"
+  ],
+  "autobus-ospedale-torre-galli": [
+   "AUT-6"
+  ],
+  "autobus-ospedale-don-gnocchi": [
+   "AUT-6"
+  ],
+  "autobus-di-scandicci-di-soffiano": [
+   "AUT-6"
+  ],
+  "autobus-di-scandicci-filarete": [
+   "AUT-6"
+  ],
+  "autobus-filarete-scuole": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-arcipressi": [
+   "AUT-6"
+  ],
+  "autobus-nenni-arcipressi": [
+   "AUT-6"
+  ],
+  "autobus-piazza-pier-della-francesca": [
+   "AUT-6"
+  ],
+  "gtfs-139624": [
+   "AUT-6"
+  ],
+  "autobus-masolino-pisana": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-pisana-monticelli": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-pisana-villa-strozzi": [
+   "AUT-6",
+   "AUT-39"
+  ],
+  "autobus-pisana-cinema-universale": [
+   "AUT-6",
+   "AUT-13",
+   "AUT-39"
+  ],
+  "autobus-porta-san-frediano": [
+   "AUT-6",
+   "AUT-13",
+   "AUT-39"
+  ],
+  "autobus-sant-onofrio": [
+   "AUT-6",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39",
+   "AUT-C4"
+  ],
+  "autobus-piazza-d-ognissanti": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-12",
+   "AUT-18",
+   "AUT-C3"
+  ],
+  "autobus-vigna-nuova": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-vecchietti": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-panzani-unit": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-14",
+   "AUT-18",
+   "AUT-C2",
+   "AUT-C4"
+  ],
+  "autobus-stazione-piazza-adua": [
+   "AUT-6",
+   "AUT-11",
+   "AUT-14",
+   "AUT-17",
+   "AUT-18",
+   "AUT-23"
+  ],
+  "autobus-indipendenza-ridolfi": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-17",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-xxvii-aprile-santa-reparata": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-17",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-san-marco-piazza": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-17",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60",
+   "AUT-C1"
+  ],
+  "autobus-colonna-pergola": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-colonna-liceo-michelangiolo": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-niccolini": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-leopardi-gramsci": [
+   "AUT-6",
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60",
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-mazzini-bovio": [
+   "AUT-6",
+   "AUT-8"
+  ],
+  "autobus-oberdan-campanella": [
+   "AUT-6"
+  ],
+  "autobus-landucci-da-bisticci": [
+   "AUT-6"
+  ],
+  "autobus-villa-arrivabene": [
+   "AUT-6"
+  ],
+  "autobus-lungo-l-affrico": [
+   "AUT-6"
+  ],
+  "autobus-d-annunzio-ramazzini": [
+   "AUT-6"
+  ],
+  "autobus-rondinella-frullani": [
+   "AUT-6"
+  ],
+  "autobus-rondinella-martini": [
+   "AUT-6"
+  ],
+  "autobus-martiri-foibe-t1-strozzi": [
+   "AUT-8"
+  ],
+  "autobus-lorenzo-il-magnifico-libert": [
+   "AUT-8",
+   "AUT-11"
+  ],
+  "autobus-pier-capponi-libert": [
+   "AUT-8",
+   "AUT-11",
+   "AUT-13"
+  ],
+  "autobus-pier-capponi-valori": [
+   "AUT-8",
+   "AUT-13"
+  ],
+  "autobus-della-robbia-artisti": [
+   "AUT-8",
+   "AUT-13"
+  ],
+  "autobus-della-robbia-la-farina": [
+   "AUT-8",
+   "AUT-13"
+  ],
+  "autobus-pecori-giraldi": [
+   "AUT-8"
+  ],
+  "autobus-orsini-ferrucci": [
+   "AUT-8",
+   "AUT-12",
+   "AUT-13",
+   "AUT-23"
+  ],
+  "autobus-salutati-cecchi": [
+   "AUT-8",
+   "AUT-23"
+  ],
+  "autobus-salutati-ripoli": [
+   "AUT-8",
+   "AUT-23"
+  ],
+  "autobus-salutati-gavinana": [
+   "AUT-8",
+   "AUT-23"
+  ],
+  "autobus-gualfredotto": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-datini-traversari": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-datini-erbosa": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-gran-bretagna-d-angi": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-gran-bretagna-lame": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-gran-bretagna-portogallo": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-austria": [
+   "AUT-8"
+  ],
+  "autobus-nave-a-rovezzano": [
+   "AUT-8"
+  ],
+  "autobus-bisarno": [
+   "AUT-8"
+  ],
+  "autobus-gran-bretagna-kiev": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-gran-bretagna-kyoto": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-gran-bretagna-erbosa": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-datini-federico-d-antiochia": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-datini-ser-lapo-mazzei": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-datini-gualfredotto": [
+   "AUT-8",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "gtfs-175257": [
+   "AUT-8",
+   "AUT-23"
+  ],
+  "gtfs-175258": [
+   "AUT-8",
+   "AUT-23"
+  ],
+  "autobus-amendola-arnolfo": [
+   "AUT-8"
+  ],
+  "autobus-amendola-gioberti": [
+   "AUT-8",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-mazzini-repetti": [
+   "AUT-8",
+   "AUT-12",
+   "AUT-13"
+  ],
+  "autobus-masaccio-giambologna": [
+   "AUT-8",
+   "AUT-12"
+  ],
+  "autobus-ficino": [
+   "AUT-8",
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-savonarola-della-mirandola": [
+   "AUT-8",
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-giacomini": [
+   "AUT-8",
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-fra-bartolommeo-matteotti": [
+   "AUT-8",
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-libert-pier-capponi": [
+   "AUT-8",
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-milton": [
+   "AUT-8"
+  ],
+  "autobus-salviatino": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-don-giovanni-verit": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-bronzetti": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-nicolodi": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-baldesi": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-marconi-mossotti": [
+   "AUT-11"
+  ],
+  "autobus-marconi-caselli": [
+   "AUT-11"
+  ],
+  "autobus-mille-pacinotti": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-landino": [
+   "AUT-11"
+  ],
+  "autobus-poliziano": [
+   "AUT-11",
+   "AUT-12"
+  ],
+  "autobus-santa-caterina-d-alessandria": [
+   "AUT-11",
+   "AUT-12"
+  ],
+  "autobus-piazza-sauro": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-C1",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-serragli-santa-monaca": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-C1"
+  ],
+  "autobus-serragli-campuccio": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-C1"
+  ],
+  "autobus-calza-serragli": [
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-imperiale-farinata-uberti": [
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-gelsomino-magalotti": [
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-gelsomino-due-strade": [
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-due-strade-senese": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-senese-cimitero-evangelico": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-senese-le-romite": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-senese-biblioteca-galluzzo": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-volterrana-galluzzo": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-37"
+  ],
+  "autobus-volterrana-ema": [
+   "AUT-11"
+  ],
+  "autobus-la-gora": [
+   "AUT-11"
+  ],
+  "autobus-senese-torrente-ema": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-acciaioli-galluzzo": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-senese-volterrana": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-senese-delle-bagnese": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-senese-i-rossi": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-due-strade-gelsomino": [
+   "AUT-11",
+   "AUT-18",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-gelsomino-grecchi": [
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-imperiale-da-castiglione": [
+   "AUT-11",
+   "AUT-18"
+  ],
+  "autobus-petrarca-porta-romana": [
+   "AUT-11",
+   "AUT-13",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-petrarca-casone": [
+   "AUT-11",
+   "AUT-13",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-piazza-tasso": [
+   "AUT-11",
+   "AUT-13",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39",
+   "AUT-C4"
+  ],
+  "autobus-ariosto-dell-orto": [
+   "AUT-11",
+   "AUT-36",
+   "AUT-37",
+   "AUT-C4"
+  ],
+  "autobus-san-frediano-cestello": [
+   "AUT-11",
+   "AUT-13",
+   "AUT-C4"
+  ],
+  "autobus-san-frediano-serragli": [
+   "AUT-11",
+   "AUT-13",
+   "AUT-C4"
+  ],
+  "autobus-lorenzo-il-magnifico-strozzi": [
+   "AUT-11"
+  ],
+  "autobus-savonarola-giacomini": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-conti": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-vasari": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-pratellino-ponte-al-pino": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-marconi-dupr": [
+   "AUT-11"
+  ],
+  "autobus-marconi-carnesecchi": [
+   "AUT-11"
+  ],
+  "autobus-marconi-san-gervasio": [
+   "AUT-11"
+  ],
+  "autobus-gasperi-antonelli": [
+   "AUT-11"
+  ],
+  "autobus-cento-stelle-calatafimi": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-sirtori": [
+   "AUT-11",
+   "AUT-17"
+  ],
+  "autobus-il-prato-barbetti": [
+   "AUT-12"
+  ],
+  "autobus-giovanni-della-casa": [
+   "AUT-12"
+  ],
+  "autobus-sanzio": [
+   "AUT-12"
+  ],
+  "autobus-aleardi-burchiello": [
+   "AUT-12"
+  ],
+  "autobus-pratolini": [
+   "AUT-12",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-petrarca-monti": [
+   "AUT-12",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-porta-romana": [
+   "AUT-12",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-machiavelli-michele-di-lando": [
+   "AUT-12"
+  ],
+  "autobus-machiavelli-via-del-tivoli": [
+   "AUT-12"
+  ],
+  "autobus-galileo-torricelli": [
+   "AUT-12"
+  ],
+  "autobus-galileo-san-leonardo": [
+   "AUT-12"
+  ],
+  "autobus-galileo-giramontino": [
+   "AUT-12",
+   "AUT-13"
+  ],
+  "autobus-galileo-passo-all-erta": [
+   "AUT-12"
+  ],
+  "autobus-galileo-san-miniato": [
+   "AUT-12"
+  ],
+  "autobus-piazzale-san-miniato": [
+   "AUT-12"
+  ],
+  "autobus-masaccio-artisti": [
+   "AUT-12"
+  ],
+  "autobus-masaccio-botticelli": [
+   "AUT-12"
+  ],
+  "autobus-pascoli-mafalda-di-savoia": [
+   "AUT-12"
+  ],
+  "autobus-venti-settembre-orticoltura": [
+   "AUT-12",
+   "AUT-13"
+  ],
+  "autobus-puccinotti": [
+   "AUT-12"
+  ],
+  "autobus-ruffini": [
+   "AUT-12"
+  ],
+  "autobus-scala-orti-oricellari": [
+   "AUT-12",
+   "AUT-17",
+   "AUT-23",
+   "AUT-36",
+   "AUT-37",
+   "AUT-C4"
+  ],
+  "autobus-scala-porta-al-prato": [
+   "AUT-12",
+   "AUT-17",
+   "AUT-23"
+  ],
+  "autobus-leopolda-porta-al-prato": [
+   "AUT-12"
+  ],
+  "autobus-michelangiolo-san-miniato": [
+   "AUT-12"
+  ],
+  "autobus-michelangiolo-di-gattaia": [
+   "AUT-12"
+  ],
+  "autobus-michelangiolo-palagi": [
+   "AUT-12"
+  ],
+  "autobus-michelangiolo-ferrucci": [
+   "AUT-12",
+   "AUT-C4"
+  ],
+  "autobus-baldovini": [
+   "AUT-13"
+  ],
+  "autobus-michelangiolo-bastioni": [
+   "AUT-13",
+   "AUT-C4"
+  ],
+  "autobus-michelangiolo-pietro-tacca": [
+   "AUT-13"
+  ],
+  "autobus-michelangiolo-campo-assi": [
+   "AUT-13"
+  ],
+  "autobus-michelangiolo-camping": [
+   "AUT-13"
+  ],
+  "autobus-piazzale-il-david": [
+   "AUT-13"
+  ],
+  "autobus-galileo-monte-alle-croci": [
+   "AUT-13"
+  ],
+  "autobus-galileo-erta-canina": [
+   "AUT-13"
+  ],
+  "autobus-galileo-forte-di-belvedere": [
+   "AUT-13"
+  ],
+  "autobus-galileo-machiavelli": [
+   "AUT-13"
+  ],
+  "autobus-machiavelli-da-castiglione": [
+   "AUT-13"
+  ],
+  "autobus-machiavelli-bobolino": [
+   "AUT-13"
+  ],
+  "autobus-aleardi-monte-oliveto": [
+   "AUT-13",
+   "AUT-39"
+  ],
+  "autobus-t1-porta-al-prato-leopolda": [
+   "AUT-13"
+  ],
+  "autobus-fratelli-rosselli": [
+   "AUT-13"
+  ],
+  "autobus-fortezza-t1-strozzi": [
+   "AUT-13",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-venti-settembre-ruffini": [
+   "AUT-13"
+  ],
+  "autobus-borgo-ognissanti": [
+   "AUT-13",
+   "AUT-C2",
+   "AUT-C4"
+  ],
+  "autobus-santa-lucia": [
+   "AUT-13",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39",
+   "AUT-C2",
+   "AUT-C4"
+  ],
+  "autobus-stazione-orti-oricellari": [
+   "AUT-13",
+   "AUT-36",
+   "AUT-37",
+   "AUT-39",
+   "AUT-C2",
+   "AUT-C4"
+  ],
+  "autobus-santa-maria-maggiore": [
+   "AUT-14",
+   "AUT-C4"
+  ],
+  "autobus-piazza-piave": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-arnolfo-cimabue": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-arnolfo-orcagna": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-sella-campofiore": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-sella-de-sanctis": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-sella-bellariva": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-minghetti-rosadi": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "gtfs-139798": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-monzani": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-de-nicola": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-varlungo": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-salandra": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-bonomi": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-orlando-dalla-chiesa": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-dalla-chiesa-arno": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-dalla-chiesa-campeggio": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "gtfs-139555": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-sant-andrea": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "gtfs-139567": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-loretino": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "gtfs-139613": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-dalla-chiesa-aretina": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-dalla-chiesa-orlando": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-orlando-aretina": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-rocca-tedalda-ripa": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-rocca-tedalda-aretina": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-gignoro": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-casaccia": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-mari": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-aretina-minghetti": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-bellariva": [
+   "AUT-14",
+   "AUT-18"
+  ],
+  "autobus-lanza-madonnone": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-lanza-de-sanctis": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-piagentina-beato-angelico": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-beato-angelico-ghirlandaio": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-beato-angelico-amendola": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-duca-degli-abruzzi": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23"
+  ],
+  "autobus-agnolo": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-salvemini": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-C1",
+   "AUT-C2"
+  ],
+  "autobus-sant-egidio": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-C1"
+  ],
+  "autobus-santa-maria-nuova": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-C1"
+  ],
+  "autobus-pucci-duomo": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-C1"
+  ],
+  "autobus-cavour-guelfa": [
+   "AUT-14",
+   "AUT-18",
+   "AUT-23",
+   "AUT-C1"
+  ],
+  "autobus-stazione-via-panzani": [
+   "AUT-14",
+   "AUT-C2",
+   "AUT-C4"
+  ],
+  "autobus-verga-tozzi": [
+   "AUT-17"
+  ],
+  "autobus-duse-d-annunzio": [
+   "AUT-17"
+  ],
+  "autobus-duse-lungo-l-affrico": [
+   "AUT-17"
+  ],
+  "gtfs-173191": [
+   "AUT-17"
+  ],
+  "autobus-saffi": [
+   "AUT-17"
+  ],
+  "autobus-mille-sette-santi": [
+   "AUT-17"
+  ],
+  "autobus-porte-nuove-belfiore": [
+   "AUT-17",
+   "AUT-23"
+  ],
+  "autobus-porte-nuove-marcello": [
+   "AUT-17"
+  ],
+  "autobus-toselli-bellini": [
+   "AUT-17"
+  ],
+  "autobus-toselli-veracini": [
+   "AUT-17"
+  ],
+  "autobus-piazza-puccini": [
+   "AUT-17"
+  ],
+  "autobus-tartini-puccini": [
+   "AUT-17"
+  ],
+  "autobus-tartini-manifattura": [
+   "AUT-17"
+  ],
+  "autobus-boito-pergolesi": [
+   "AUT-17"
+  ],
+  "autobus-boito": [
+   "AUT-17"
+  ],
+  "autobus-pergolesi-tartini": [
+   "AUT-17"
+  ],
+  "autobus-ponte-alle-mosse-puccini": [
+   "AUT-17"
+  ],
+  "autobus-ponte-alle-mosse-doni": [
+   "AUT-17"
+  ],
+  "autobus-ponte-alle-mosse-marcello": [
+   "AUT-17"
+  ],
+  "autobus-ponte-alle-mosse-leopolda": [
+   "AUT-17",
+   "AUT-23"
+  ],
+  "autobus-stazione-t1": [
+   "AUT-17",
+   "AUT-23",
+   "AUT-39"
+  ],
+  "autobus-stazione-abside-smn": [
+   "AUT-17",
+   "AUT-23"
+  ],
+  "autobus-la-marmora-t2": [
+   "AUT-17",
+   "AUT-C1"
+  ],
+  "autobus-fra-bartolommeo-capponi": [
+   "AUT-17",
+   "AUT-C1"
+  ],
+  "autobus-mille-cairoli": [
+   "AUT-17"
+  ],
+  "autobus-sette-santi-dupr": [
+   "AUT-17"
+  ],
+  "autobus-san-gervasio-carnesecchi": [
+   "AUT-17"
+  ],
+  "autobus-san-gervasio-antonelli": [
+   "AUT-17"
+  ],
+  "autobus-duse-arcolaio": [
+   "AUT-17"
+  ],
+  "autobus-duse-verga": [
+   "AUT-17"
+  ],
+  "autobus-verga-d-orso": [
+   "AUT-17"
+  ],
+  "autobus-verga-gignoro": [
+   "AUT-17"
+  ],
+  "autobus-verga-centro-tecnico-coverciano": [
+   "AUT-17"
+  ],
+  "autobus-certosa-di-firenze": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "autobus-senese-certosa": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "autobus-bottai-colle-ramole": [
+   "AUT-18",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-cassia-parcheggio": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140027": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140153": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140025": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140030": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140151": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140023": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140024": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140152": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140031": [
+   "AUT-18",
+   "AUT-37"
+  ],
+  "gtfs-140026": [
+   "AUT-18",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "gtfs-140032": [
+   "AUT-18",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-cassia-le-rose": [
+   "AUT-18",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-senese-ponte-bailey": [
+   "AUT-18",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-calza-romana": [
+   "AUT-18",
+   "AUT-C1"
+  ],
+  "autobus-romana-boboli": [
+   "AUT-18",
+   "AUT-C1"
+  ],
+  "autobus-piazza-san-felice": [
+   "AUT-18",
+   "AUT-C1"
+  ],
+  "autobus-frescobaldi": [
+   "AUT-18",
+   "AUT-C1",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-guicciardini-carraia": [
+   "AUT-18",
+   "AUT-C3"
+  ],
+  "autobus-croce-a-varliano": [
+   "AUT-23"
+  ],
+  "autobus-roma-martellina": [
+   "AUT-23"
+  ],
+  "autobus-roma-borrani": [
+   "AUT-23"
+  ],
+  "autobus-roma-dallapiccola": [
+   "AUT-23"
+  ],
+  "autobus-roma-mattei": [
+   "AUT-23"
+  ],
+  "autobus-roma-fratelli-orsi": [
+   "AUT-23"
+  ],
+  "autobus-roma-robinson": [
+   "AUT-23"
+  ],
+  "autobus-roma-volta-gobetti": [
+   "AUT-23"
+  ],
+  "autobus-roma-olmi": [
+   "AUT-23"
+  ],
+  "autobus-roma-rodolico": [
+   "AUT-23"
+  ],
+  "autobus-rodolico": [
+   "AUT-23"
+  ],
+  "autobus-cimitero-del-pino": [
+   "AUT-23"
+  ],
+  "autobus-olanda-francia": [
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-cellini-fornace": [
+   "AUT-23",
+   "AUT-C4"
+  ],
+  "autobus-serristori-terrazza-marasco": [
+   "AUT-23",
+   "AUT-C4"
+  ],
+  "autobus-serristori-grazie": [
+   "AUT-23",
+   "AUT-C4"
+  ],
+  "autobus-lungarno-alle-grazie": [
+   "AUT-23"
+  ],
+  "autobus-zecca-vecchia-cavalleggeri": [
+   "AUT-23"
+  ],
+  "autobus-carra-scarlatti": [
+   "AUT-23"
+  ],
+  "autobus-san-iacopino": [
+   "AUT-23"
+  ],
+  "autobus-corsica-circondaria": [
+   "AUT-23"
+  ],
+  "autobus-massaio-ponte-di-mezzo": [
+   "AUT-23"
+  ],
+  "autobus-ponte-di-mezzo-mariti": [
+   "AUT-23"
+  ],
+  "autobus-del-prete-terzolle": [
+   "AUT-23"
+  ],
+  "autobus-del-prete-caciolle": [
+   "AUT-23"
+  ],
+  "autobus-magellano-dei": [
+   "AUT-23"
+  ],
+  "autobus-magellano-panciatichi": [
+   "AUT-23"
+  ],
+  "autobus-panciatichi-tre-pietre": [
+   "AUT-23"
+  ],
+  "autobus-panciatichi-fanfani": [
+   "AUT-23"
+  ],
+  "autobus-ricasoli-fanfani": [
+   "AUT-23"
+  ],
+  "autobus-ricasoli-petrocchi": [
+   "AUT-23"
+  ],
+  "gtfs-139774": [
+   "AUT-23"
+  ],
+  "autobus-nuova-scuola-carabinieri": [
+   "AUT-23"
+  ],
+  "autobus-t2-guidoni": [
+   "AUT-23"
+  ],
+  "autobus-xi-agosto-scuola-carabinieri": [
+   "AUT-23"
+  ],
+  "autobus-ricasoli-famiglia-benini": [
+   "AUT-23"
+  ],
+  "autobus-ricasoli-nuovo-pignone": [
+   "AUT-23"
+  ],
+  "autobus-panciatichi-perfetti-ricasoli": [
+   "AUT-23"
+  ],
+  "autobus-piazza-mattei": [
+   "AUT-23"
+  ],
+  "autobus-panciatichi-pancaldo": [
+   "AUT-23"
+  ],
+  "autobus-campo-sportivo-rifredi": [
+   "AUT-23"
+  ],
+  "autobus-magellano-caciolle": [
+   "AUT-23"
+  ],
+  "autobus-del-prete-maddalena": [
+   "AUT-23"
+  ],
+  "autobus-del-prete-guidoni": [
+   "AUT-23"
+  ],
+  "autobus-ponte-di-mezzo-marignolli": [
+   "AUT-23"
+  ],
+  "autobus-massaio-corsica": [
+   "AUT-23"
+  ],
+  "autobus-maragliano-san-iacopino": [
+   "AUT-23"
+  ],
+  "autobus-benedetto-marcello": [
+   "AUT-23"
+  ],
+  "autobus-zecca-vecchia-nazionale": [
+   "AUT-23"
+  ],
+  "autobus-corso-dei-tintori": [
+   "AUT-23",
+   "AUT-C3"
+  ],
+  "autobus-serristori-demidoff": [
+   "AUT-23",
+   "AUT-C4"
+  ],
+  "autobus-serristori-piazza-poggi": [
+   "AUT-23",
+   "AUT-C4"
+  ],
+  "autobus-cellini-ferrucci": [
+   "AUT-23",
+   "AUT-C4"
+  ],
+  "autobus-piazza-francia": [
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-olanda-europa": [
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-danimarca": [
+   "AUT-23",
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-ripoli-spagna": [
+   "AUT-23"
+  ],
+  "autobus-sorgane-piazza-rodolico": [
+   "AUT-23"
+  ],
+  "autobus-roma-pieve-a-ripoli": [
+   "AUT-23"
+  ],
+  "autobus-roma-bocci": [
+   "AUT-23"
+  ],
+  "autobus-roma-i-ponti": [
+   "AUT-23"
+  ],
+  "autobus-roma-procacci": [
+   "AUT-23"
+  ],
+  "autobus-roma-agnoletti": [
+   "AUT-23"
+  ],
+  "autobus-roma-due-giugno": [
+   "AUT-23"
+  ],
+  "autobus-roma-otto-marzo": [
+   "AUT-23"
+  ],
+  "autobus-roma-giusiani": [
+   "AUT-23"
+  ],
+  "autobus-roma-parcheggio": [
+   "AUT-23"
+  ],
+  "gtfs-139848": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-beslan-t1-fortezza": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-scuole": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-san-marcellino": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-della-torre": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-fortini-gualdrada": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-fortini-chiantigiana": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-circolo": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-ferrero": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-longo": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-dell-antella": [
+   "AUT-31",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-alighieri": [
+   "AUT-31",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-borgo-sani": [
+   "AUT-31",
+   "AUT-60"
+  ],
+  "autobus-grassina-umberto-i": [
+   "AUT-31",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-bartolini": [
+   "AUT-31",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-campigliano": [
+   "AUT-31",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-belmonte": [
+   "AUT-31",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-ponte-a-niccheri": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-da-feltre": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-ponte-a-ema": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-diacceto": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-buia": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-chiantigiana-impianti-sport": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-badia-a-ripoli": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-spadolini-t1-strozzi": [
+   "AUT-31",
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-belmonte": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-ospedale-annunziata": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-05": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-torricella": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-brigate-partigiane-torricella": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-brigate-partigiane-giardini": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "gtfs-175214": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-antella": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-peruzzi": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-pertini": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-romanelli": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-06": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-di-antella-ponte-a-niccheri": [
+   "AUT-32",
+   "AUT-60"
+  ],
+  "autobus-ariosto-aleardi": [
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-san-gaggio-da-castiglione": [
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-san-gaggio-mascagni": [
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-san-gaggio-due-strade": [
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-acciaioli-silvani": [
+   "AUT-36",
+   "AUT-39"
+  ],
+  "autobus-silvani-monna-data": [
+   "AUT-36",
+   "AUT-39"
+  ],
+  "autobus-silvani-migliorini": [
+   "AUT-36",
+   "AUT-39"
+  ],
+  "autobus-silvani-san-felice-a-ema": [
+   "AUT-36",
+   "AUT-39"
+  ],
+  "autobus-silvani-campi-lunghi": [
+   "AUT-36",
+   "AUT-39"
+  ],
+  "autobus-cave-di-monteripaldi-mulino": [
+   "AUT-36"
+  ],
+  "autobus-cave-di-monteripaldi-fiume-ema": [
+   "AUT-36"
+  ],
+  "autobus-cascine-del-riccio": [
+   "AUT-36"
+  ],
+  "autobus-guido-rossa": [
+   "AUT-36"
+  ],
+  "autobus-ponte-a-iozzi": [
+   "AUT-36"
+  ],
+  "autobus-cave-di-monteripaldi-arcetri": [
+   "AUT-36"
+  ],
+  "autobus-cave-di-monteripaldi-silvani": [
+   "AUT-36"
+  ],
+  "autobus-silvani-vecchia-pozzolatico": [
+   "AUT-36"
+  ],
+  "autobus-silvani-borghetto": [
+   "AUT-36"
+  ],
+  "autobus-silvani-val-d-ema": [
+   "AUT-36"
+  ],
+  "autobus-acciaioli-senese": [
+   "AUT-36"
+  ],
+  "autobus-san-gaggio-scuole": [
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "autobus-san-gaggio-castelli": [
+   "AUT-36",
+   "AUT-37",
+   "AUT-39"
+  ],
+  "gtfs-147990": [
+   "AUT-39"
+  ],
+  "gtfs-147985": [
+   "AUT-39"
+  ],
+  "gtfs-146080": [
+   "AUT-39"
+  ],
+  "gtfs-173003": [
+   "AUT-39"
+  ],
+  "gtfs-146097": [
+   "AUT-39"
+  ],
+  "gtfs-146089": [
+   "AUT-39"
+  ],
+  "gtfs-146090": [
+   "AUT-39"
+  ],
+  "gtfs-146091": [
+   "AUT-39"
+  ],
+  "gtfs-146096": [
+   "AUT-39"
+  ],
+  "gtfs-146095": [
+   "AUT-39"
+  ],
+  "gtfs-146103": [
+   "AUT-39"
+  ],
+  "gtfs-146102": [
+   "AUT-39"
+  ],
+  "autobus-olivuzzo": [
+   "AUT-39"
+  ],
+  "gtfs-146078": [
+   "AUT-39"
+  ],
+  "gtfs-146076": [
+   "AUT-39"
+  ],
+  "gtfs-146077": [
+   "AUT-39"
+  ],
+  "gtfs-146075": [
+   "AUT-39"
+  ],
+  "gtfs-146092": [
+   "AUT-39"
+  ],
+  "gtfs-146085": [
+   "AUT-39"
+  ],
+  "gtfs-146093": [
+   "AUT-39"
+  ],
+  "gtfs-146094": [
+   "AUT-39"
+  ],
+  "gtfs-146084": [
+   "AUT-39"
+  ],
+  "gtfs-146100": [
+   "AUT-39"
+  ],
+  "gtfs-146083": [
+   "AUT-39"
+  ],
+  "gtfs-146086": [
+   "AUT-39"
+  ],
+  "gtfs-146082": [
+   "AUT-39"
+  ],
+  "gtfs-146081": [
+   "AUT-39"
+  ],
+  "gtfs-146099": [
+   "AUT-39"
+  ],
+  "gtfs-146088": [
+   "AUT-39"
+  ],
+  "gtfs-146098": [
+   "AUT-39"
+  ],
+  "autobus-parterre": [
+   "AUT-C1"
+  ],
+  "autobus-ponte-rosso": [
+   "AUT-C1"
+  ],
+  "autobus-cavour-palazzo-medici": [
+   "AUT-C1"
+  ],
+  "autobus-piazza-di-san-lorenzo": [
+   "AUT-C1"
+  ],
+  "autobus-cappelle-medicee": [
+   "AUT-C1"
+  ],
+  "autobus-pecori-vecchietti": [
+   "AUT-C1"
+  ],
+  "autobus-roma-duomo": [
+   "AUT-C1",
+   "AUT-C2"
+  ],
+  "autobus-studio": [
+   "AUT-C1",
+   "AUT-C2"
+  ],
+  "autobus-proconsolo-2": [
+   "AUT-C1",
+   "AUT-C2"
+  ],
+  "autobus-galleria-degli-uffizi": [
+   "AUT-C1"
+  ],
+  "autobus-saponai": [
+   "AUT-C1"
+  ],
+  "autobus-santa-maria-soprarno": [
+   "AUT-C1",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-borgo-san-iacopo": [
+   "AUT-C1",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-san-giusto-della-calza": [
+   "AUT-C1"
+  ],
+  "autobus-pitti": [
+   "AUT-C1",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-bardi": [
+   "AUT-C1",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-torrigiani-chiesa-luterana": [
+   "AUT-C1",
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-benci": [
+   "AUT-C1",
+   "AUT-C3"
+  ],
+  "autobus-verdi": [
+   "AUT-C1",
+   "AUT-C3"
+  ],
+  "autobus-fra-bartolommeo-masaccio": [
+   "AUT-C1"
+  ],
+  "autobus-leopolda-t1-porta-al-prato": [
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-il-prato": [
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-ghibellina-bargello": [
+   "AUT-C2"
+  ],
+  "autobus-ghibellina-pepi": [
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-malborghetto": [
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-piazza-annigoni": [
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-piazza-beccaria": [
+   "AUT-C2",
+   "AUT-C3"
+  ],
+  "autobus-oriuolo-duomo": [
+   "AUT-C2"
+  ],
+  "autobus-condotta": [
+   "AUT-C2"
+  ],
+  "autobus-porta-rossa": [
+   "AUT-C2"
+  ],
+  "autobus-piazza-della-repubblica": [
+   "AUT-C2"
+  ],
+  "autobus-olio-duomo": [
+   "AUT-C2"
+  ],
+  "autobus-palazzuolo": [
+   "AUT-C2"
+  ],
+  "autobus-rotonda-barbetti": [
+   "AUT-C2"
+  ],
+  "autobus-solferino": [
+   "AUT-C2"
+  ],
+  "autobus-sant-agostino": [
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-santo-spirito": [
+   "AUT-C3",
+   "AUT-C4"
+  ],
+  "autobus-pepi": [
+   "AUT-C3"
+  ],
+  "autobus-magliabechi": [
+   "AUT-C3"
+  ],
+  "autobus-vittorio-veneto": [
+   "AUT-C3"
+  ],
+  "autobus-presidio-ospedaliero-palagi-villa-margherita": [
+   "AUT-C4"
+  ],
+  "autobus-presidio-ospedaliero-palagi": [
+   "AUT-C4"
+  ],
+  "autobus-piazza-piattellina": [
+   "AUT-C4"
+  ]
+ }
 }
