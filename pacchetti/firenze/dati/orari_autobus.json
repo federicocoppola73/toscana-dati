@@ -1,5 +1,5 @@
 {
- "_nota": "Orari programmati Autolinee Toscane (open data Regione Toscana, feed GTFS), feriale, sabato e festivo, dal 20/11/2026 al 10/12/2026. Generato da strumenti/converti_autobus_at.py. Verificare sul sito Autolinee Toscane.",
+ "_nota": "Orari programmati Autolinee Toscane (open data Regione Toscana, feed GTFS), feriale, sabato e festivo, dal 20/11/2026 al 10/12/2026. Generato da strumenti/converti_autobus_at.py. Verificare sul sito Autolinee Toscane. Tramvia: GEST (open data Regione Toscana, CC BY).",
  "validita": [
   "20261120",
   "20261210"
@@ -112,6 +112,90 @@
        1
       ],
       "10v,11p,12j,13f,14b,155,15z"
+     ]
+    ]
+   },
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "y,1e,1u,28,2s,3c,87,8h,8y,96,9h,9p,9x,a5,ac,ah,am,ar,ax,b2,b7,bc,bi,bn,bs,bx,c3,c8,cd,ci,co,ct,cy,d4,d9,de,dj,dp,du,dz,e4,ea,ef,ek,eq,ev,f1,f6,fc,fh,fn,ft,fy,g4,ga,gg,gm,gs,gx,h3,h9,hf,hl,hr,hx,i3,i9,ie,ik,iq,iw,j2,j8,je,jk,jp,jv,k1,k7,kd,kj,kp,kv,l1,l6,lc,li,lo,lu,m0,m6,mc,mh,mn,mt,mz,n5,nb,nh,nn,nt,ny,o4,oa,og,om,os,oy,p4,p9,pf,pl,pq,pv,q0,q6,qb,qg,qm,qr,qw,r1,r7,rc,rh,rm,rs,rx,s2,s7,sd,si,sn,st,sy,t3,t8,te,tj,to,tt,tz,u4,u9,ue,uk,up,uu,v0,v5,va,vf,vl,vq,vv,w0,w6,wb,wg,wl,wr,ww,x1,x7,xc,xh,xm,xs,xx,y2,yd,yo,yz,zb,zm,zx,108,10j,10u,115,11g,11s,123,12e,12p,130,13b,13m,142,14i"
+     ],
+     [
+      [
+       0
+      ],
+      "s,y,14,1g,1z,2o,3c,87,8g,8q,8y,99,9h,9s,9y,a2,a3,a6,a7,aa,ab,af,aj,ak,an,ao,as,aw,ax,b0,b1,b5,b9,ba,bd,be,bh,bi,bm,bq,br,bu,bv,bz,c3,c4,c7,c8,cc,cg,ck,cl,co,cp,ct,cx,cy,d1,d2,d6,da,db,de,df,dj,dn,dr,ds,dv,dw,e0,e4,e5,e8,e9,ed,eh,ei,el,em,eq,eu,ez,f3,f4,f7,f9,fc,fe,fh,fj,fm,fo,fr,ft,fw,fy,g1,g3,g6,g8,gb,gd,gg,gi,gl,gn,gq,gs,gv,gx,h0,h2,h5,h7,ha,hc,hf,hh,hk,hl,ho,hq,ht,hv,hy,i0,i3,i5,i8,ia,id,if,ii,ik,in,ip,is,iu,ix,iz,j2,j4,j7,j9,jc,je,jh,jj,jm,jo,jr,jt,jw,jy,k1,k3,k6,k8,kb,kc,kf,kh,kk,km,kp,kr,ku,kw,kz,l1,l4,l6,l9,lb,le,lg,lj,ll,lo,lq,lt,lv,ly,m0,m3,m5,m8,ma,md,mf,mi,mk,mn,mp,ms,mu,mx,mz,n2,n3,n6,n8,nb,nd,ng,ni,nl,nn,nq,ns,nv,nx,o0,o2,o5,o7,oa,oc,of,oh,ok,om,op,or,ou,ow,oz,p1,p4,p6,p9,pb,pe,pg,pj,pl,po,pq,pt,pu,px,pz,q2,q4,q7,q9,qc,qe,qh,qj,qm,qo,qr,qt,qw,qy,r1,r3,r6,r8,rb,rd,rf,ri,rk,rn,ro,rs,rt,rx,s2,s6,s7,sb,sc,sf,sh,sk,sl,so,sq,st,sv,sx,t0,t2,t5,t6,ta,tb,tf,tk,to,tp,tt,tu,tx,tz,u2,u4,u6,u9,ub,ue,uf,uj,uk,uo,ut,ux,uy,v2,v3,v6,v8,vb,vc,vf,vh,vk,vm,vo,vr,vt,vw,vx,w1,w2,w6,wb,wf,wg,wk,wl,wo,wq,wt,wv,wx,x0,x2,x5,x6,xa,xb,xf,xk,xu,y3,y4,yd,ye,yn,yo,yx,z7,zh,zr,101,10b,10l,10m,10u,10x,114,118,11e,11j,11o,11u,11y,125,128,12g,12i,12r,12s,132,13e,13n,13q,143,14d,14f"
+     ],
+     [
+      [
+       2
+      ],
+      "y,87,8j,8y,98,9h,9x,a9,am,ay,bb,bn,bz,cc,co,d0,dd,dp,e2,e8,ef,el,es,ez,f5,fc,fi,fp,fw,g2,g9,gf,gm,gt,gz,h6,hc,hj,hq,hw,i3,i9,ig,in,it,j0,j6,jd,jk,jq,jx,k3,ka,kh,kn,ku,l0,l7,le,lk,lr,lx,m4,mb,mh,mo,mu,n1,n8,ne,nl,nr,ny,o5,ob,oi,oo,ov,p2,p8,pf,pl,ps,pz,q5,qc,qi,qp,qw,r2,r9,rf,rm,rt,rz,s6,sc,sj,sq,sw,t3,t9,tg,tn,tt,u0,u6,ud,uk,uq,ux,v3,va,vh,vn,vu,w0,w7,we,wk,wr,wx,x4,xb,xh,xo,xu,y1,y8,yk,yw,z9,zl,zx,10a,10m,10z,11b,11n,120,12c,12p,131,13d,13q,14b"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "l,w,1b,1r,27,2n,30,3c,8f,8x,9g,9r,a2,ad,ao,az,ba,bg,bl,bq,bv,c1,c6,cb,cg,cm,cr,cw,d1,d7,dc,dh,dn,ds,dx,e2,e8,ed,ei,en,et,ey,f3,f8,fe,fj,fo,fu,fz,g5,ga,gg,gm,gr,gx,h2,h8,he,hk,hp,hv,i1,i7,id,ij,ip,iv,j0,j6,jc,ji,jo,ju,k0,k6,kc,kh,kn,kt,kz,l5,lb,lh,ln,ls,ly,m4,ma,mg,mm,ms,my,n4,n9,nf,nl,nr,nx,o3,o9,of,ol,oq,ow,p2,p8,pe,pk,pq,pw,q1,q7,qd,qj,qp,qu,r0,r5,ra,rf,rl,rq,rv,s0,s6,sb,sg,sl,sr,sw,t1,t7,tc,th,tm,ts,tx,u2,u7,ud,ui,un,us,uy,v3,v8,ve,vj,vo,vt,vz,w4,w9,we,wk,wp,wu,wz,x5,xa,xf,xl,xq,xv,y0,y6,yb,yg,yl,yr,yw,z1,z6,zc,zn,zy,109,10k,10v,116,11i,11t,124,12f,12q,131,13c,13n,13y,14a"
+     ],
+     [
+      [
+       0
+      ],
+      "l,v,y,1a,1n,1z,2b,2s,3c,8f,8x,9g,9p,9z,a8,ai,ar,b1,b5,b7,b9,bb,bd,bg,bi,bk,bm,bo,bq,bt,bv,bx,bz,c1,c3,c6,c8,ca,cc,ce,cg,ci,ck,cn,cp,cr,ct,cv,cx,d0,d2,d4,d6,d8,da,dd,df,dh,dj,dl,dn,dp,dr,du,dw,dy,e0,e2,e4,e7,e9,eb,ed,ef,eh,ek,em,eo,eq,es,eu,ew,ey,f1,f3,f5,f7,f9,fb,fe,fg,fi,fk,fm,fo,fr,ft,fv,fx,fz,g2,g3,g7,g8,gc,gg,gh,gl,gm,gq,gr,gv,gw,h0,h5,ha,hf,hk,hp,hu,hz,i4,i9,ie,ij,io,is,it,ix,iy,j2,j3,j7,j8,jc,jd,jh,ji,jm,jn,jr,jw,k1,k6,kb,kg,kl,kq,kv,l0,l5,la,lf,lj,lk,lo,lp,lt,lu,ly,lz,m3,m4,m8,m9,md,me,mi,mn,ms,mx,n2,n7,nc,nh,nm,nr,nw,o1,o6,oa,ob,of,og,ok,ol,op,oq,ou,ov,oz,p0,p4,p5,p9,pe,pj,po,pt,py,q3,q8,qd,qi,qn,qs,qx,r1,r2,r6,r7,rb,rc,rg,rh,rl,rm,rq,rr,rv,rw,s0,s5,sa,sf,sk,so,sp,st,su,sx,sz,t2,t4,t6,t9,tb,te,tf,tj,tk,to,tt,tx,ty,u2,u3,u6,u8,ub,ud,uf,ui,uk,un,uo,ur,ut,uw,ux,v1,v2,v6,vb,vf,vg,vk,vl,vo,vq,vt,vv,vx,w0,w2,w5,w6,wa,wb,wf,wk,wo,wp,wt,wu,wx,wz,x2,x4,x6,x9,xb,xe,xf,xi,xk,xn,xo,xs,xt,xx,y2,y6,y7,yb,yc,yf,yh,yk,ym,yo,yr,yt,z1,z3,zb,zd,zl,zn,zv,zx,105,106,10e,10g,10o,10q,10y,110,118,11a,11i,11k,11s,11v,122,126,12c,12h,12m,12s,12w,133,135,13e,13f,13p,13z,140,149,14b"
+     ],
+     [
+      [
+       2
+      ],
+      "l,v,8f,8w,9e,9r,a3,af,as,b4,bh,bt,c5,ci,cu,d6,dj,dv,e8,ek,ew,f2,f9,fi,fm,fq,fz,g8,gc,gh,gq,gy,h3,h7,hg,hp,ht,hy,i6,if,ij,io,ix,j6,ja,je,jn,jw,k0,k5,ke,km,kr,kv,l4,ld,lh,lm,lu,m3,m7,mc,ml,mu,my,n2,nb,nk,no,nt,o2,oa,of,oj,os,p1,p5,pa,pi,pr,pv,q0,q9,qi,qm,qq,qz,r8,rc,rh,rq,ry,s3,s7,sg,sp,st,sy,t6,tf,tj,to,tx,u6,ua,ue,un,uw,v0,v5,ve,vm,vr,vv,w4,wd,wh,wm,wu,x3,x7,xc,xl,xu,xy,y2,yb,yk,yt,z2,z8,zf,zr,104,10g,10s,115,11h,11t,126,12i,12v,137,13j,13w,148"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "i,o,w,16,1t,2g,2z,3f,85,86,8d,8e,8f,8i,8l,8o,8q,8t,8v,8z,91,93,99,9a,9c,9e,9i,9k,9l,9n,9s,9t,9u,9w,a1,a2,a3,a5,aa,ae,aj,ao,as,ax,b1,b6,bb,bf,bk,bo,bt,bx,c2,c7,cb,cg,ck,cp,cu,cy,d3,d7,dc,dg,dl,dq,du,dz,e3,e8,ed,eh,em,eq,ev,ez,f4,f9,fd,fe,fi,fj,fo,ft,fu,fz,g4,g5,g9,ga,gf,gg,gk,gl,gq,gr,gv,gx,h1,h2,h6,h8,hc,hd,hi,hj,hn,ho,ht,hu,hy,hz,i4,i5,i9,ib,if,ig,il,im,iq,ir,iw,ix,j1,j2,j7,j8,jc,je,ji,jj,jn,jp,jt,ju,jz,k0,k4,k5,ka,kb,kf,kh,kl,km,kq,ks,kw,kx,l2,l3,l7,l8,ld,le,li,lk,lo,lp,lt,lv,lz,m0,m5,m6,ma,mb,mg,mh,ml,mm,mr,ms,mw,my,n2,n3,n8,n9,nd,ne,nj,nk,no,np,nu,nv,nz,o1,o5,o6,oa,oc,og,oh,om,on,or,os,ox,oy,p2,p4,p8,p9,pd,pf,pj,pk,pp,pq,pu,pv,q0,q1,q5,q7,qb,qc,qg,qi,ql,qn,qq,qt,qv,qy,r0,r4,r5,r9,ra,rf,rj,rl,ro,rq,rt,rw,ry,s1,s3,s6,s8,sa,sd,sf,si,sk,sn,sp,sr,su,sw,sz,t1,t4,t6,t9,tb,td,tg,ti,tl,tn,tq,ts,tv,tx,tz,u2,u4,u7,u9,uc,ue,uh,uj,ul,uo,uq,ut,uv,uy,v0,v2,v5,v7,va,vc,vf,vh,vk,vm,vo,vr,vt,vw,vy,w1,w3,w6,w8,wa,wd,wf,wi,wk,wn,wp,ws,wu,ww,wz,x1,x4,x6,x9,xb,xd,xg,xi,xl,xn,xq,xs,xv,xx,xz,y2,y4,y7,y9,yd,yf,yj,yl,yp,yr,yv,yx,z1,z3,z9,zf,zg,zn,zo,zv,zw,103,104,10a,10c,10i,10j,10q,10r,10y,10z,116,117,11d,11f,11l,11m,11t,11u,121,122,129,12d,12g,12o,12t,12y,136,139,13j,13n,13w,142,149"
+     ],
+     [
+      [
+       1
+      ],
+      "e,u,1d,1v,2i,2z,3f,85,86,8e,8f,8q,8z,99,9k,9u,a4,af,aq,b0,b1,b8,be,bf,bn,bp,bu,c1,c7,cd,cj,cp,cv,d1,d7,dd,dj,dp,dv,e1,e7,ed,ej,ep,ev,f1,f7,fe,fk,fr,fx,g4,ga,gh,gn,gu,h0,h7,hd,hk,hq,hx,i3,ia,ig,in,it,j0,j6,jd,jj,jq,jw,k3,k9,kg,km,kt,kz,l6,lc,lj,lp,lw,m2,m9,mf,mm,ms,mz,n5,nc,ni,np,nv,o2,o8,of,ol,os,oy,p5,pb,pi,po,pv,q1,q8,qe,ql,qr,qx,r2,r8,rd,rj,rp,ru,s0,s5,sb,sg,sm,ss,sx,t3,t8,te,tj,tp,tv,u0,u6,ub,uh,um,us,uy,v3,v9,ve,vk,vp,vv,w0,w6,wc,wh,wn,ws,wy,x3,x9,xf,xk,xr,xy,y9,yl,yw,z7,zi,zt,104,10g,10r,112,11d,11o,11z,12a,12m,12x,138,13j,13z"
+     ],
+     [
+      [
+       2
+      ],
+      "i,x,85,86,8e,8f,8m,8r,8z,9a,9l,9w,a7,ai,at,b5,bg,br,c2,cd,co,cz,db,dm,dx,e8,ej,eu,f5,fh,fs,g3,ge,gp,h0,hc,hn,hy,i9,ik,iv,j6,ji,jt,k4,kf,kq,l1,lc,lo,lz,ma,mh,mo,mv,n2,n9,ng,no,nv,o2,o9,og,on,ou,p1,p8,pf,pm,pt,q1,q8,qf,qm,qt,r0,r7,re,rl,rs,rz,s6,se,sl,ss,sz,t6,td,tk,tr,ty,u5,uc,uj,ur,uy,v5,vc,vj,vq,vx,w4,wb,wi,wp,ww,x4,xb,xi,xp,xw,y3,ya,yh,yo,yy,z8,zh,zr,101,10b,10k,10u,114,11e,11n,11x,127,12h,12q,136,13m,143"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "f,n,t,u,y,17,19,1g,1m,24,25,2l,37,3d,8v,94,9e,9o,9y,a6,ab,ag,ak,ap,at,ay,b2,b3,b7,bc,bg,bl,bp,bu,bz,c3,c8,cc,ch,cl,cm,cq,cv,cz,d4,d8,dd,di,dm,dr,dv,e0,e4,e5,e9,ee,ei,ej,en,eo,et,ey,ez,f3,f4,f8,f9,fd,fe,fj,fo,fp,ft,fu,fy,fz,g3,g4,g9,ge,gf,gj,gk,go,gp,gt,gu,gz,h3,h4,h5,ha,hf,hk,hl,ho,hq,hv,hw,i1,i2,i6,i7,ic,id,ii,in,io,it,iy,iz,j4,j5,j9,ja,jf,jg,jl,jq,jr,jw,k1,k2,k7,k8,kc,kd,ki,kj,kn,ko,kt,ku,kz,l4,l5,la,lb,lf,lg,ll,lm,lq,lr,lw,lx,m2,m7,m8,md,mi,mj,mo,mp,mt,mu,mz,n0,n5,na,nb,ng,nl,nm,nr,ns,nw,nx,o2,o3,o8,od,oe,oj,oo,op,ou,ov,oz,p0,p5,p6,pa,pb,pg,ph,pm,pq,ps,pv,py,q0,q3,q5,q9,qa,qe,qf,qk,qp,qu,qv,qy,r0,r3,r5,r8,ra,rd,rf,ri,rk,rn,rp,rs,ru,rx,rz,s2,s4,s6,s8,sb,sd,sg,si,sl,sn,sq,ss,sv,sx,t0,t2,t5,t7,t9,tb,te,tg,tj,tl,to,tq,tt,tv,ty,u0,u3,u5,u8,ua,ud,uf,uh,uj,um,uo,ur,ut,uw,uy,v1,v3,v6,v8,vb,vd,vg,vi,vk,vn,vp,vr,vu,vw,vz,w1,w4,w6,w9,wb,we,wg,wj,wl,wo,wq,ws,wu,wx,wz,x2,x4,x7,x9,xc,xe,xi,xk,xo,xq,xu,xw,y0,y2,y6,y8,yc,ye,yi,yk,yo,yq,yu,yw,z0,z2,z6,z8,zc,ze,zi,zk,zo,zq,zu,zw,100,102,106,108,10c,10e,10k,10q,10s,10t,10y,10z,116,117,11d,11e,11f,11l,11n,11t,11v,121,122,129,12a,12g,12i,12o,12q,12w,12x,12y,134,135,13c,13d,13j,13m,13r,13u,13z,144,145,148,14h"
+     ],
+     [
+      [
+       1
+      ],
+      "g,o,10,1d,1h,1q,26,2l,37,3d,8v,99,9m,9x,a8,aj,au,b5,bh,br,c1,c7,cd,cj,cp,cv,d1,d7,dd,dj,dp,dv,e1,e7,ed,ek,eq,ex,f3,fa,fg,fn,ft,g0,g6,gd,gj,gq,gw,h3,h9,hg,hm,ht,hz,i6,ic,ij,ip,iw,j2,j9,jf,jm,js,jz,k5,kc,ki,kp,kv,l2,l8,lf,ll,ls,ly,m5,mb,mi,mo,mv,n1,n8,ne,nl,nr,ny,o4,ob,oh,oo,ou,p1,p7,pe,pk,pr,px,q3,q9,qe,qj,qp,qv,r0,r6,rb,rh,rn,rs,ry,s3,s9,se,sk,sq,sv,t1,t6,tc,th,tn,tt,ty,u4,u9,uf,uk,uq,uw,v1,v7,vc,vi,vn,vt,vy,w4,wa,wf,wl,wq,wx,x4,xc,xj,xq,xx,y4,yb,yi,yp,yw,yx,z3,za,zi,zm,zw,zx,108,10j,10u,115,11g,11s,123,12e,12p,130,13b,13m,13y,14b"
+     ],
+     [
+      [
+       2
+      ],
+      "o,t,z,19,8v,9c,9o,9z,aa,al,aw,b7,bi,bu,c5,cg,cr,d2,dd,do,e0,eb,em,ex,f8,fj,fu,g6,gh,gs,h3,he,hp,i1,ic,in,iy,j9,jk,jv,k7,ki,kt,l4,lf,lm,lt,m0,m8,mf,mm,mt,n0,n7,ne,nl,ns,nz,o6,od,ol,os,oz,p6,pd,pk,pr,py,q5,qc,qj,qq,qy,r5,rc,rj,rq,rx,s4,sb,si,sp,sw,t3,tb,ti,tp,tw,u3,ua,uh,uo,uv,v2,v9,vg,vo,vv,w2,w9,wg,wn,wu,x1,x8,xf,xm,xt,y3,yd,yn,yw,z6,zg,zq,zz,109,10j,10t,112,11c,11m,11w,125,12f,12p,12z,138,139,13k,13r,13v,145,14h"
      ]
     ]
    }
@@ -6704,6 +6788,48 @@
        0
       ],
       "c4,ce,cn,cx,d6,dg,dq,dz,e9,ei,er,f0,f9,fi,fs,g2,gb,gk,gt,h2,hb,hk,ht,i2,ib,ik,it,j2,jc,jl,ju,k3,kc,km,kw,l5,le,lo,lx,m6,mf,mp,my,n7,nh,nr,o1,oa,oj,os,p1,pb,pl,pu,q4,qe,qo,qx,r7,rh,rr,s1,sb,sl,sw,t6,tg,tp,ty,u7,uh,uq,uz,v8,vi,vs,w2,wc,wl,wu,x3,xb,xj,xs,y1,yb,yk"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "5,b,k,u,1g,23,2n,32,8i,8m,8q,8r,8v,8w,8y,91,92,95,98,9a,9e,9f,9j,9n,9o,9p,9s,9w,9x,a1,a6,a7,ab,af,ag,ak,ao,at,ay,b2,b7,bb,bg,bk,bp,bu,by,c3,c7,cc,ch,cl,cq,cu,cz,d3,d8,dd,dh,dm,dq,dv,e0,e4,e9,ed,ei,em,er,ew,f0,f1,f5,f6,fb,fg,fh,fm,fr,fs,fw,fx,g2,g3,g7,g8,gd,ge,gi,gk,go,gp,gt,gv,gz,h0,h5,h6,ha,hb,hg,hh,hl,hm,hr,hs,hw,hy,i2,i3,i8,i9,id,ie,ij,ik,io,ip,iu,iv,iz,j1,j5,j6,jb,jc,jg,jh,jm,jn,jr,js,jx,jy,k2,k4,k8,k9,kd,kf,kj,kk,kp,kq,ku,kv,l0,l1,l5,l7,lb,lc,lg,li,lm,ln,ls,lt,lx,ly,m3,m4,m8,m9,me,mf,mj,ml,mp,mq,mv,mw,n0,n1,n6,n7,nb,nc,nh,ni,nm,no,ns,nt,ny,nz,o3,o4,o9,oa,oe,of,ok,ol,op,or,ov,ow,p0,p2,p6,p7,pc,pd,ph,pi,pn,po,ps,pu,py,pz,q3,q5,q8,qa,qd,qg,qi,ql,qn,qr,qs,qw,qx,r2,r7,r8,rb,rd,rg,rj,rl,ro,rq,rt,rv,rx,s0,s2,s5,s7,sa,sc,se,sh,sj,sm,so,sr,st,sw,sy,t0,t3,t5,t8,ta,td,tf,ti,tk,tm,tp,tr,tu,tw,tz,u1,u4,u6,u8,ub,ud,ug,ui,ul,un,up,us,uu,ux,uz,v2,v4,v7,v9,vb,ve,vg,vj,vl,vo,vq,vt,vv,vx,w0,w2,w5,w7,wa,wc,wf,wh,wj,wm,wo,wr,wt,ww,wy,x0,x3,x5,x8,xa,xd,xf,xi,xk,xn,xp,xr,xu,xw,y0,y2,y6,y8,yc,ye,yi,yk,yo,yq,yw,z2,z3,za,zb,zi,zj,zq,zr,zx,zz,105,106,10d,10e,10l,10m,10t,10u,110,112,118,119,11g,11h,11o,11p,11w,120,123,12b,12g,12l,12t,12w,136,13a,13j,13p,13w"
+     ],
+     [
+      [
+       1
+      ],
+      "1,h,10,1i,25,2n,32,8i,8m,8s,8x,93,98,9h,9r,a2,ad,ao,ar,av,b2,ba,bd,bh,bo,bq,bu,c0,c1,c6,cc,ci,co,cu,d0,d6,dc,di,do,du,e0,e6,ec,ei,eo,eu,f1,f7,fe,fk,fr,fx,g4,ga,gh,gn,gu,h0,h7,hd,hk,hq,hx,i3,ia,ig,in,it,j0,j6,jd,jj,jq,jw,k3,k9,kg,km,kt,kz,l6,lc,lj,lp,lw,m2,m9,mf,mm,ms,mz,n5,nc,ni,np,nv,o2,o8,of,ol,os,oy,p5,pb,pi,po,pv,q1,q8,qe,qk,qp,qv,r0,r6,rc,rh,rn,rs,ry,s3,s9,sf,sk,sq,sv,t1,t6,tc,ti,tn,tt,ty,u4,u9,uf,ul,uq,uw,v1,v7,vc,vi,vn,vt,vz,w4,wa,wf,wl,wq,ww,x2,x7,xe,xl,xw,y8,yj,yu,z5,zg,zr,103,10e,10p,110,11b,11m,11x,129,12k,12v,136,13m"
+     ],
+     [
+      [
+       2
+      ],
+      "5,k,8i,8m,8s,8x,94,98,9j,9u,a5,ag,as,b3,be,bp,c0,cb,cm,cy,d9,dk,dv,e6,eh,et,f4,ff,fq,g1,gc,gn,gz,ha,hl,hw,i7,ii,it,j5,jg,jr,k2,kd,ko,l0,lb,lm,lx,m4,mb,mi,mp,mw,n3,nb,ni,np,nw,o3,oa,oh,oo,ov,p2,p9,pg,po,pv,q2,q9,qg,qn,qu,r1,r8,rf,rm,rt,s1,s8,sf,sm,st,t0,t7,te,tl,ts,tz,u6,ue,ul,us,uz,v6,vd,vk,vr,vy,w5,wc,wj,wr,wy,x5,xc,xj,xq,xx,y4,yb,yl,yv,z4,ze,zo,zy,107,10h,10r,111,11a,11k,11u,124,12d,12t,139,13q"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "2,a,w,13,17,1k,1s,1z,2g,2y,98,9h,9r,a1,ab,aj,ao,as,at,ax,b2,b6,bb,bf,bk,bp,bt,by,c2,c7,cb,cc,cg,cl,cp,cu,cy,d3,d8,dc,dh,dl,dq,du,dv,dz,e4,e8,ed,eh,em,er,ev,ew,f0,f1,f5,f6,fb,fg,fh,fl,fm,fq,fr,fv,fw,g1,g6,g7,gb,gc,gg,gh,gl,gm,gq,gr,gw,gx,h1,h2,h6,h7,hb,hc,hh,hn,hs,hx,hy,i3,i8,i9,ie,ij,ik,ip,iq,iu,iv,j0,j1,j6,jb,jc,jh,jm,jn,js,jt,jx,jy,k3,k4,k8,k9,ke,kf,kk,kp,kq,kv,kw,l0,l1,l6,l7,lb,lc,lh,li,ln,ls,lt,ly,m3,m4,m9,ma,me,mf,mk,ml,mq,mv,mw,n1,n6,n7,nc,nd,nh,ni,nn,no,nt,ny,nz,o4,o9,oa,of,og,ok,ol,oq,or,ov,ow,p1,p2,p7,pc,pd,pi,pj,pn,po,pt,pu,py,pz,q3,q5,q8,qa,qd,qg,qi,ql,qn,qr,qs,qx,r2,r6,r8,rb,rd,rg,ri,rl,rn,rq,rs,rv,rx,s0,s2,s5,s7,s9,sc,se,sg,sj,sl,so,sq,st,sv,sy,t0,t3,t5,t8,ta,td,tf,th,tj,tm,to,tr,tt,tw,ty,u1,u3,u6,u8,ub,ud,ug,ui,uk,un,up,ur,uu,uw,uz,v1,v4,v6,v9,vb,ve,vg,vj,vl,vo,vq,vs,vu,vx,vz,w2,w4,w7,w9,wc,we,wh,wj,wm,wo,wr,wt,ww,wy,x0,x2,x5,x7,xa,xc,xf,xh,xk,xm,xp,xr,xv,xx,y1,y3,y7,y9,yd,yf,yj,yl,yp,yr,yv,yx,z1,z3,z5,z7,z9,zd,zf,zj,zl,zp,zr,zt,zv,zx,101,103,107,109,10d,10f,10g,10j,10l,10p,10r,10x,111,113,114,11b,11c,11i,11k,11q,11s,11y,120,123,126,127,12e,12f,12k,12l,12n,12t,12v,12z,130,131,133,139,13a,13e,13h,13i,13m,13o,13q,13v,13w,13z,144,147,14h,14i,14u"
+     ],
+     [
+      [
+       1
+      ],
+      "3,11,14,1d,1q,1t,23,2j,2y,98,9m,9z,aa,al,aw,b7,bi,bt,c4,ce,ck,cq,cw,d2,d8,de,dk,dq,dw,e2,e8,ee,ek,eq,ex,f3,fa,fg,fn,ft,g0,g6,gd,gj,gq,gw,h3,h9,hg,hm,ht,hz,i6,ic,ij,ip,iw,j2,j9,jf,jm,js,jz,k5,kc,ki,kp,kv,l2,l8,lf,ll,ls,ly,m5,mb,mi,mo,mv,n1,n8,ne,nl,nr,ny,o4,ob,oh,oo,ou,p1,p7,pe,pk,pr,px,q4,qa,qg,ql,qr,qw,r2,r8,rd,rj,ro,ru,rz,s5,sb,sg,sm,sr,sx,t2,t8,te,tj,tp,tu,u0,u5,ub,uh,um,us,ux,v3,v8,ve,vj,vp,vv,w0,w6,wb,wh,wm,ws,wy,x3,xa,xh,xo,xv,xy,y3,ya,yh,yk,yo,yv,z2,z5,z9,zg,zj,zn,zy,10a,10l,10w,117,11i,11t,124,12g,12r,132,13d,13o,13z,14a,14o"
+     ],
+     [
+      [
+       2
+      ],
+      "b,w,98,9p,a0,ac,an,ay,b9,bk,bv,c6,ci,ct,d4,df,dq,e1,ec,eo,ez,fa,fl,fw,g7,gj,gu,h5,hg,hr,i2,id,ip,j0,jb,jm,jx,k8,kj,kv,l6,lh,ls,lz,m6,md,mk,mr,mz,n6,nd,nk,nr,ny,o5,oc,oj,oq,ox,p4,pc,pj,pq,px,q4,qb,qi,qp,qw,r3,ra,rh,rp,rw,s3,sa,sh,so,sv,t2,t9,tg,tn,tu,u2,u9,ug,un,uu,v1,v8,vf,vm,vt,w0,w7,wf,wm,wt,x0,x7,xe,xl,xs,xz,y6,yg,yq,z0,z9,zj,zt,103,10c,10m,10w,116,11f,11p,11z,129,12i,12s,12w,132,13c,13e,13l,13x,148,14i,14u"
      ]
     ]
    }
@@ -16909,6 +17035,48 @@
       "aw,b7,bj,bw,c5,ci,ct,d3,de,dp,e3,ef,es,f5,fi,fv,g7,gk,gx,h8,hj,hw,i9,in,j1,jg,jv,k9,ko,l3,li,lx,md,mr,n5,nl,o1,og,ov,pa,pp,q4,qk,qz,re,ru,sa,sq,t6,tm,u2,ui,ux,vc,vs,w7,wk,x0,xg,xv,yb,yv,zs,10i,11d"
      ]
     ]
+   },
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "15,1l,21,2f,2z,3j,8e,8o,95,9d,9o,9w,a4,ac,ai,ao,at,ay,b3,b9,be,bj,bp,bu,bz,c4,ca,cf,ck,cp,cv,d0,d5,da,dg,dl,dq,dw,e1,e6,eb,eh,em,er,ex,f2,f8,fd,fj,fo,fu,g0,g5,gb,gh,gn,gt,gy,h4,ha,hg,hm,hs,hy,i4,ia,if,il,ir,ix,j3,j9,jf,jl,jq,jw,k2,k8,ke,kk,kq,kw,l2,l7,ld,lj,lp,lv,m1,m7,md,mj,mo,mu,n0,n6,nc,ni,no,nu,nz,o5,ob,oh,on,ot,oz,p5,pb,pg,pm,ps,px,q2,q7,qd,qi,qn,qs,qy,r3,r8,rd,rj,ro,rt,rz,s4,s9,se,sk,sp,su,sz,t5,ta,tf,tk,tq,tv,u0,u6,ub,ug,ul,ur,uw,v1,v7,vc,vh,vm,vr,vx,w2,w7,wd,wi,wn,ws,wy,x3,x8,xd,xj,xo,xt,xy,y4,y9,yk,yv,z6,zh,zt,104,10f,10q,111,11c,11n,11y,12a,12l,12w,137,13i,13t,149,14p"
+     ],
+     [
+      [
+       0
+      ],
+      "z,15,1b,1n,26,2v,3j,8e,8n,8x,95,9g,9o,9z,a4,a9,ad,ae,ah,ai,am,aq,ar,au,av,ay,az,b3,b7,b8,bb,bc,bg,bk,bl,bo,bp,bt,bx,by,c1,c2,c6,ca,ce,cf,ci,cj,cn,cr,cs,cv,cw,d0,d4,d5,d8,d9,dd,dh,dl,dm,dp,dq,du,dy,dz,e2,e3,e7,eb,ec,ef,eg,ek,eo,es,et,ew,ex,f1,f6,fa,fb,fe,fg,fj,fl,fo,fq,ft,fv,fy,g0,g3,g5,g8,ga,gd,gf,gi,gk,gn,gp,gs,gu,gx,gz,h2,h4,h7,h9,hc,he,hh,hi,hl,hn,hq,hs,hv,hx,i0,i2,i5,i7,ia,ic,if,ih,ik,im,ip,ir,iu,iw,iz,j1,j4,j6,j9,jb,je,jg,jj,jl,jo,jq,jt,jv,jy,k0,k3,k5,k8,k9,kc,ke,kh,kj,km,ko,kr,kt,kw,ky,l1,l3,l6,l8,lb,ld,lg,li,ll,ln,lq,ls,lv,lx,m0,m2,m5,m7,ma,mc,mf,mh,mk,mm,mp,mr,mu,mw,mz,n0,n3,n5,n8,na,nd,nf,ni,nk,nn,np,ns,nu,nx,nz,o2,o4,o7,o9,oc,oe,oh,oj,om,oo,or,ot,ow,oy,p1,p3,p6,p8,pb,pd,pg,pi,pl,pn,pq,pr,pu,pw,pz,q1,q4,q6,q9,qb,qe,qg,qj,ql,qo,qq,qt,qv,qy,r0,r3,r5,r8,ra,rd,rf,ri,rk,rm,rp,rr,ru,rv,rz,s0,s4,s9,sd,se,si,sm,sn,sr,ss,sv,sx,t0,t2,t4,t7,t9,tc,td,th,ti,tm,tr,tv,tw,u0,u1,u4,u6,u9,ub,ud,ug,ui,ul,um,uq,ur,uv,v0,v4,v5,v9,vd,ve,vi,vj,vm,vo,vr,vt,vv,vy,w0,w3,w4,w8,w9,wd,wi,wm,wn,wr,ws,wv,wx,x0,x2,x4,x7,x9,xc,xd,xh,xi,xm,xr,y0,y1,ya,yb,yk,yl,yu,z4,ze,zo,zy,108,10i,10r,10t,111,114,11b,11f,11l,11q,11v,121,125,12c,12f,12n,12p,12y,12z,139,13l,13u,13x,14a,14k,14m"
+     ],
+     [
+      [
+       2
+      ],
+      "15,8e,8q,95,9f,9o,a4,ag,at,b5,bh,bu,c6,cj,cv,d7,dk,dw,e9,ef,em,ez,f6,fc,fp,fw,g3,gg,gm,gt,h6,hd,hj,hx,i3,ia,in,iu,j0,jd,jk,jr,k4,ka,kh,ku,l1,l7,ll,lr,ly,mb,mi,mo,n1,n8,nf,ns,ny,o5,oi,op,ov,p9,pf,pm,pz,q6,qc,qp,qw,r3,rg,rm,rt,s6,sd,sj,sx,t3,ta,tn,tu,u0,ud,uk,ur,v4,va,vh,vu,w1,w7,wl,wr,wy,xb,xi,xo,y1,y8,yf,yr,z3,zg,zs,104,10h,10t,116,11i,11u,127,12j,12w,138,13k,13x,14i"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "e,p,14,1k,20,2g,2t,35,88,8r,9a,9l,9w,a7,ai,at,b4,b9,be,bj,bp,bu,bz,c5,ca,cf,ck,cq,cv,d0,d5,db,dg,dl,dq,dw,e1,e6,ec,eh,em,er,ex,f2,f7,fc,fi,fn,ft,fy,g4,g9,gf,gk,gq,gw,h1,h7,hd,hj,hp,hv,i0,i6,ic,ii,io,iu,j0,j6,jc,jh,jn,jt,jz,k5,kb,kh,kn,ks,ky,l4,la,lg,lm,ls,ly,m4,m9,mf,ml,mr,mx,n3,n9,nf,nk,nq,nw,o2,o8,oe,ok,oq,ow,p1,p7,pd,pj,pp,pv,q1,q7,qc,qi,qo,qt,qy,r3,r9,re,rj,rp,ru,rz,s4,sa,sf,sk,sp,sv,t0,t5,ta,tg,tl,tq,tw,u1,u6,ub,uh,um,ur,uw,v2,v7,vc,vh,vn,vs,vx,w3,w8,wd,wi,wo,wt,wy,x3,x9,xe,xj,xo,xu,xz,y4,ya,yf,yk,yp,yv,z0,z5,zg,zr,102,10e,10p,110,11b,11m,11x,128,12j,12v,136,13h,13s,143"
+     ],
+     [
+      [
+       0
+      ],
+      "f,o,r,14,1g,1s,25,2m,35,88,8q,99,9j,9s,a2,ab,al,au,ay,b1,b3,b5,b7,b9,bb,bd,bf,bi,bk,bm,bo,bq,bs,bv,bx,bz,c1,c3,c5,c8,ca,cc,ce,cg,ci,ck,cm,cp,cr,ct,cv,cx,cz,d2,d4,d6,d8,da,dc,df,dh,dj,dl,dn,dp,dr,dt,dw,dy,e0,e2,e4,e6,e9,eb,ed,ef,eh,ej,em,eo,eq,es,eu,ew,ey,f0,f3,f5,f7,f9,fb,fd,fg,fi,fk,fm,fo,fq,ft,fv,fx,g0,g1,g5,ga,gf,gk,gp,gu,gy,gz,h3,h4,h8,h9,hd,he,hi,hj,hn,ho,hs,ht,hx,i2,i7,ic,ih,im,ir,iw,j1,j6,jb,jg,jl,jp,jq,ju,jv,jz,k0,k4,k5,k9,ka,ke,kf,kj,kk,ko,kt,ky,l3,l8,ld,li,ln,ls,lx,m2,m7,mc,mg,mh,ml,mm,mq,mr,mv,mw,n0,n1,n5,n6,na,nb,nf,nk,np,nu,nz,o4,o9,oe,oj,oo,ot,oy,p3,p7,p8,pc,pd,ph,pi,pm,pn,pr,ps,pw,px,q1,q2,q6,qb,qg,ql,qq,qv,r0,r5,ra,rf,rk,rp,ru,ry,rz,s3,s4,s8,s9,sd,se,si,sj,sm,so,sr,st,sv,sx,t0,t2,t4,t7,t9,tc,td,th,ti,tm,tr,tv,tw,u0,u1,u4,u6,u9,ub,ud,ug,ui,ul,um,uq,ur,uv,v0,v4,v5,v9,va,vd,vf,vi,vk,vm,vo,vr,vt,vv,vy,w0,w3,w4,w8,w9,wd,wi,wm,wn,wr,ws,wv,wx,x0,x2,x4,x7,x9,xc,xd,xh,xi,xm,xr,xv,xw,y0,y1,y4,y6,y9,yb,yd,yf,yi,yk,ym,yu,yw,z4,z6,ze,zg,zo,zq,zy,100,108,10a,10i,10k,10s,10u,112,113,11b,11d,11l,11o,11v,11z,125,12a,12f,12l,12p,12w,12z,137,139,13i,13j,13t,142,144"
+     ],
+     [
+      [
+       2
+      ],
+      "e,o,88,8q,98,9k,9w,a9,al,ay,ba,bm,bz,cb,cn,d0,dc,dp,e1,ed,eq,f2,fb,fk,ft,g1,ga,gj,gs,h1,h9,hi,hr,i0,i9,ih,iq,iz,j8,jh,jp,jy,k7,kg,kp,kx,l6,lf,lo,lx,m5,me,mn,mw,n5,nd,nm,nv,o4,od,ol,ou,p3,pc,pl,pt,q2,qb,qk,qt,r1,ra,rj,rs,s1,s9,si,sr,t0,t9,th,tq,tz,u8,uh,up,uy,v7,vg,vp,vx,w6,wf,wo,wx,x5,xe,xn,xw,y5,yd,ym,yv,z2,z8,zl,zx,109,10m,10y,11a,11n,11z,12c,12o,130,13d,13p,142"
+     ]
+    ]
    }
   },
   "autobus-pier-capponi-valori": {
@@ -17721,6 +17889,90 @@
        1
       ],
       "10p,11j,12i,13h,14g,15f"
+     ]
+    ]
+   },
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "12,1i,1z,2d,2w,3g,8c,8m,92,9b,9m,9u,a2,aa,ag,al,ar,aw,b1,b6,bc,bh,bm,bs,bx,c2,c7,cd,ci,cn,cs,cy,d3,d8,dd,dj,do,dt,dy,e4,e9,ee,ek,ep,eu,f0,f5,fb,fh,fm,fs,fx,g3,g9,gf,gk,gq,gw,h2,h8,he,hk,hq,hv,i1,i7,id,ij,ip,iv,j1,j7,jc,ji,jo,ju,k0,k6,kc,ki,ko,kt,kz,l5,lb,lh,ln,lt,lz,m4,ma,mg,mm,ms,my,n4,na,ng,nl,nr,nx,o3,o9,of,ol,or,ow,p2,p8,pe,pk,pp,pv,q0,q5,qa,qg,ql,qq,qv,r1,r6,rb,rg,rm,rr,rw,s2,s7,sc,sh,sn,ss,sx,t2,t8,td,ti,tn,tt,ty,u3,u9,ue,uj,uo,uu,uz,v4,v9,vf,vk,vp,vu,w0,w5,wa,wg,wl,wq,wv,x1,x6,xb,xg,xm,xr,xw,y1,y7,yi,yt,z4,zf,zq,101,10d,10o,10z,11a,11l,11w,127,12i,12t,135,13g,13r,146,14m"
+     ],
+     [
+      [
+       0
+      ],
+      "w,12,19,1l,23,2t,3g,8c,8l,8u,92,9d,9m,9w,a2,a6,a7,ab,af,ag,aj,ak,ao,as,at,aw,ax,b1,b5,b6,b9,ba,bd,be,bi,bm,bn,bq,br,bv,bz,c0,c3,c4,c8,cc,cg,ch,ck,cl,cp,ct,cu,cx,cy,d2,d6,d7,da,db,df,dj,dn,do,dr,ds,dw,e0,e1,e4,e5,e9,ed,ee,eh,ei,em,eq,eu,ev,ez,f3,f4,f8,f9,fc,fe,fh,fj,fm,fo,fr,ft,fw,fy,g1,g3,g6,g8,gb,gd,gg,gi,gl,gn,gp,gr,gu,gw,gz,h1,h4,h6,h9,hb,he,hg,hj,hl,ho,hq,ht,hv,hy,i0,i3,i5,i8,ia,id,if,ii,ik,in,ip,is,iu,ix,iz,j2,j4,j7,j9,jc,je,jg,ji,jl,jn,jq,js,jv,jx,k0,k2,k5,k7,ka,kc,kf,kh,kk,km,kp,kr,ku,kw,kz,l1,l4,l6,l9,lb,le,lg,lj,ll,lo,lq,lt,lv,ly,m0,m3,m5,m7,m9,mc,me,mh,mj,mm,mo,mr,mt,mw,my,n1,n3,n6,n8,nb,nd,ng,ni,nl,nn,nq,ns,nv,nx,o0,o2,o5,o7,oa,oc,of,oh,ok,om,op,or,ou,ow,oy,p0,p3,p5,p8,pa,pd,pf,pi,pk,pn,pp,ps,pu,px,pz,q2,q4,q7,q9,qc,qe,qh,qj,qm,qo,qr,qt,qw,qy,r1,r3,r6,r8,rb,rd,rg,ri,rk,rn,rp,rr,rt,rw,ry,s1,s2,s6,s7,sb,sg,sk,sl,sp,sq,st,sv,sy,t0,t2,t5,t7,ta,tb,tf,tg,tk,tp,tt,tu,ty,tz,u2,u4,u7,u9,ub,ue,ug,ui,uk,un,up,us,ut,ux,uy,v2,v7,vb,vc,vg,vh,vk,vm,vp,vr,vt,vw,vy,w1,w2,w6,w7,wb,wg,wk,wl,wp,wq,wt,wv,wy,x0,x2,x5,x7,x9,xb,xe,xg,xj,xk,xo,xp,xy,y8,yi,ys,z2,zc,zm,zw,105,106,10f,10g,10p,10r,10z,112,119,11d,11j,11o,11t,11z,123,12a,12d,12l,12n,12w,136,137,13j,13s,13v,147,14i,14k"
+     ],
+     [
+      [
+       2
+      ],
+      "12,8c,8o,92,9d,9m,a2,ae,aq,b3,bf,bs,c4,cg,ct,d5,dh,du,e6,ed,ej,ex,f3,fa,fn,fu,g0,gd,gk,gr,h4,ha,hh,hu,i1,i7,il,ir,iy,jb,ji,jo,k1,k8,kf,ks,ky,l5,li,lp,lv,m9,mf,mm,mz,n6,nc,np,nw,o3,og,om,ot,p6,pd,pj,px,q3,qa,qn,qu,r0,re,rk,rr,s4,sa,sh,su,t1,t7,tl,tr,ty,ub,ui,uo,v1,v8,vf,vs,vy,w5,wi,wp,wv,x9,xf,xm,xz,y6,yc,yp,z1,zd,zq,102,10f,10r,113,11g,11s,124,12h,12t,136,13i,13v,14g"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "g,s,17,1n,23,2j,2w,37,8a,8t,9c,9n,9y,a9,ak,av,b6,bb,bh,bm,br,bw,c2,c7,cc,ch,cn,cs,cx,d2,d8,dd,di,do,dt,dy,e3,e9,ee,ej,eo,eu,ez,f4,f9,ff,fk,fq,fv,g1,g6,gc,gh,gn,gs,gy,h3,h9,hf,hl,hr,hx,i3,i9,if,ik,iq,iw,j2,j8,je,jk,jq,jw,k1,k7,kd,kj,kp,kv,l1,l7,lc,li,lo,lu,m0,m6,mc,mi,mo,mt,mz,n5,nb,nh,nn,nt,nz,o4,oa,og,om,os,oy,p4,pa,pg,pl,pr,px,q3,q9,qf,ql,qq,qv,r1,r6,rb,rg,rm,rr,rw,s1,s7,sc,sh,sm,ss,sx,t2,t8,td,ti,tn,tt,ty,u3,u8,ue,uj,uo,ut,uz,v4,v9,vf,vk,vp,vu,w0,w5,wa,wf,wl,wq,wv,x0,x6,xb,xg,xm,xr,xw,y1,y7,yc,yh,ym,ys,yx,z2,z7,zj,zu,105,10g,10r,112,11d,11o,120,12b,12m,12x,138,13j,13u,145"
+     ],
+     [
+      [
+       0
+      ],
+      "h,q,u,16,1i,1v,27,2o,37,8a,8b,8t,9b,9l,9u,a4,ad,an,aw,b1,b3,b5,b7,b9,bb,be,bg,bi,bk,bm,bo,bq,bt,bv,bx,bz,c1,c3,c6,c8,ca,cc,ce,cg,ci,cl,cn,cp,cr,ct,cv,cx,d0,d2,d4,d6,d8,da,dd,df,dh,dj,dl,dn,dp,ds,du,dw,dy,e0,e2,e4,e7,e9,eb,ed,ef,eh,ek,em,eo,eq,es,eu,ew,ez,f1,f3,f5,f7,f9,fb,fe,fg,fi,fk,fm,fo,fr,ft,fv,fy,fz,g3,g7,g8,gc,gh,gm,gr,gw,h1,h6,hb,hg,hl,hq,hv,hz,i0,i4,i5,i9,ia,ie,if,ij,ik,io,ip,it,iu,iy,j3,j8,jd,ji,jn,js,jx,k2,k7,kc,kh,km,kq,kr,kv,kw,l0,l1,l5,l6,la,lb,lf,lg,lk,ll,lp,lu,lz,m4,m9,me,mj,mo,mt,my,n3,n8,nd,nh,ni,nm,nn,nr,ns,nw,nx,o1,o2,o6,o7,ob,oc,og,ol,oq,ov,p0,p5,pa,pf,pk,pp,pu,pz,q4,q8,q9,qd,qe,qi,qj,qn,qo,qs,qt,qx,qy,r2,r3,r7,rc,rh,rm,rr,rw,s1,s6,sb,sg,sk,sl,sp,sq,st,sv,sy,t0,t2,t5,t7,ta,tb,tf,tg,tk,tp,tt,tu,ty,u2,u3,u7,u8,ub,ud,ug,ui,uk,un,up,us,ut,ux,uy,v2,v7,vb,vc,vg,vh,vk,vm,vp,vr,vt,vw,vy,w1,w2,w6,w7,wb,wg,wk,wl,wp,wt,wu,wy,wz,x2,x4,x7,x9,xb,xe,xg,xj,xk,xo,xp,xt,xy,y2,y3,y7,y8,yb,yd,yg,yi,yk,yn,yp,yx,yz,z7,z8,zg,zi,zq,zs,100,102,10a,10c,10k,10m,10u,10w,114,116,11e,11g,11o,11r,11y,122,127,12d,12h,12o,12r,12z,131,13a,13b,13l,13v,13w,145,147"
+     ],
+     [
+      [
+       2
+      ],
+      "g,q,8a,8s,9a,9m,9z,ab,ao,b0,bc,bp,c1,cd,cq,d2,df,dr,e3,eg,es,f5,fd,fm,fv,g4,gd,gl,gu,h3,hc,hl,ht,i2,ib,ik,it,j1,ja,jj,js,k1,k9,ki,kr,l0,l9,lh,lq,lz,m8,mh,mp,my,n7,ng,np,nx,o6,of,oo,ox,p5,pe,pn,pw,q5,qd,qm,qv,r4,rd,rl,ru,s3,sc,sl,st,t2,tb,tk,tt,u1,ua,uj,us,v1,v9,vi,vr,w0,w9,wh,wq,wz,x8,xh,xp,xy,y7,yg,yp,yx,z4,zb,zn,zz,10c,10o,110,11d,11p,122,12e,12q,133,13f,13r,144"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "e,k,s,12,1p,2c,2v,3b,89,8i,8j,8n,8p,8t,8u,8v,8x,90,95,97,9a,9e,9f,9g,9j,9n,9o,9p,9s,9w,9y,9z,a1,a6,a7,a8,aa,af,aj,ao,at,ax,b2,b6,bb,bf,bk,bp,bt,by,c2,c7,cc,cg,cl,cp,cu,cy,d3,d8,dc,dh,dl,dq,dv,dz,e4,e8,ed,eh,em,er,ev,f0,f4,f9,fa,fe,ff,fk,fp,fu,fv,g0,g5,g6,ga,gc,gg,gh,gl,gn,gr,gs,gx,gy,h2,h3,h8,h9,hd,hf,hj,hk,ho,hq,hu,hv,i0,i1,i5,i6,ib,ic,ig,ih,im,in,ir,it,ix,iy,j3,j4,j8,j9,je,jf,jj,jk,jp,jq,ju,jw,k0,k1,k5,k7,kb,kc,kh,ki,km,kn,ks,kt,kx,kz,l3,l4,l8,la,le,lf,lk,ll,lp,lq,lv,lw,m0,m2,m6,m7,mb,md,mh,mi,mn,mo,ms,mt,my,mz,n3,n4,n9,na,ne,ng,nk,nl,nq,nr,nv,nw,o1,o2,o6,o7,oc,od,oh,oj,on,oo,os,ou,oy,oz,p4,p5,p9,pa,pf,pg,pk,pm,pq,pr,pv,px,q1,q2,q7,q8,qc,qd,qh,qj,qm,qp,qr,qu,qw,r0,r1,r5,ra,rb,rf,rg,rk,rm,rp,rr,ru,rw,rz,s1,s4,s6,s9,sb,sd,sg,si,sl,sn,sq,ss,sv,sx,sz,t2,t4,t7,t9,tc,te,tg,tj,tl,to,tq,tt,tv,ty,u0,u2,u5,u7,ua,uc,uf,uh,uk,um,uo,ur,ut,uw,uy,v1,v3,v6,v8,va,vd,vf,vi,vk,vn,vp,vr,vu,vw,vz,w1,w4,w6,w9,wb,we,wg,wi,wl,wn,wq,ws,wv,wx,wz,x2,x4,x7,x9,xc,xe,xh,xj,xl,xo,xq,xt,xv,xy,y0,y3,y5,y9,yb,yf,yh,yl,yn,yr,yt,yx,yz,z4,z5,zb,zc,zj,zk,zr,zs,zy,100,106,107,10e,10f,10m,10n,10u,10v,111,113,119,11a,11h,11i,11p,11q,11x,11y,124,129,12c,12k,12p,12u,132,135,13f,13i,13s,13y,145"
+     ],
+     [
+      [
+       1
+      ],
+      "a,q,19,1r,2d,2v,3b,89,8k,8v,95,9g,9q,a0,ab,aj,am,ax,b4,b5,bb,bi,bp,bt,bw,c2,c8,ce,ck,cq,cw,d2,d8,de,dk,dq,dw,e2,e8,ee,ek,eq,ew,f3,f9,fg,fm,ft,fz,g6,gc,gj,gp,gw,h2,h9,hf,hm,hs,hz,i5,ic,ii,ip,iv,j2,j8,jf,jl,js,jy,k5,kb,ki,ko,kv,l1,l8,le,ll,lr,ly,m4,mb,mh,mo,mu,n1,n7,ne,nk,nr,nx,o4,oa,oh,on,ou,p0,p7,pd,pk,pq,px,q3,qa,qg,qn,qt,qy,r4,r9,rf,rk,rq,rv,s1,s7,sc,si,sn,st,sy,t4,ta,tf,tl,tq,tw,u1,u7,ud,ui,uo,ut,uz,v4,va,vg,vl,vr,vw,w2,w7,wd,wi,wo,wu,wz,x5,xa,xg,xn,xu,y5,yg,yr,z3,ze,zp,100,10b,10m,10y,119,11k,11v,126,12h,12s,134,13f,13u"
+     ],
+     [
+      [
+       2
+      ],
+      "e,t,8a,8k,8v,8w,95,9h,9s,a3,ae,ap,b0,bb,bn,by,c9,ck,cv,d6,dh,dt,e4,ef,eq,f1,fc,fo,fz,ga,gl,gw,h7,hi,hu,i5,ig,ir,j2,jd,jo,k0,kb,km,kx,l8,lj,lv,m6,md,mk,mr,my,n5,nc,nj,nq,nx,o5,oc,oj,oq,ox,p4,pb,pi,pp,pw,q3,qa,qi,qp,qw,r3,ra,rh,ro,rv,s2,s9,sg,sn,sv,t2,t9,tg,tn,tu,u1,u8,uf,um,ut,v0,v8,vf,vm,vt,w0,w7,we,wl,ws,wz,x6,xd,xl,xs,xz,y6,yd,yk,yu,z3,zd,zn,zx,106,10g,10q,110,119,11j,11t,123,12c,12m,132,13i,13z"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "a,j,z,15,1c,1r,21,28,2q,8z,99,9j,9t,a2,ab,ag,ak,ap,at,ay,b3,b7,bc,bg,bl,bp,bq,bu,bz,c3,c8,cc,ch,cm,cq,cv,cz,d4,d8,d9,dd,di,dm,dr,dv,e0,e5,e9,ee,ei,en,eo,es,et,ex,ey,f2,f3,f8,fd,fe,fi,fj,fn,fo,fs,ft,fy,g3,g4,g8,g9,gd,ge,gi,gj,go,gt,gu,gy,gz,h3,h4,h9,he,hk,hp,hq,hu,hv,i0,i1,i5,i6,ib,ic,ih,im,in,is,it,ix,iy,j3,j4,j8,j9,je,jf,jk,jp,jq,jv,k0,k1,k6,k7,kb,kc,kh,ki,kn,ks,kt,ky,l3,l4,l9,la,le,lf,lk,ll,lq,lv,lw,m1,m6,m7,mc,md,mh,mi,mn,mo,ms,mt,my,mz,n4,n9,na,nf,ng,nk,nl,nq,nr,nv,nw,o1,o2,o7,oc,od,oi,on,oo,ot,ou,oy,oz,p4,p5,pa,pf,pg,pl,pq,pr,pv,px,q0,q2,q5,q8,qa,qd,qf,qj,qk,qo,qt,qu,qy,r0,r3,r5,r8,ra,rd,rf,ri,rk,rn,rp,rr,ru,rw,ry,s1,s3,s6,s8,sb,sd,sg,si,sl,sn,sq,ss,sv,sx,sz,t1,t4,t6,t9,tb,te,tg,tj,tl,to,tq,tt,tv,ty,u0,u3,u5,u7,u9,uc,ue,uh,uj,um,uo,ur,ut,uw,uy,v1,v3,v6,v8,va,vc,vf,vh,vk,vm,vp,vr,vu,vw,vz,w1,w4,w6,w9,wb,we,wg,wi,wk,wn,wp,ws,wu,wx,wz,x2,x4,x7,x9,xc,xe,xh,xj,xn,xp,xt,xv,xz,y1,y5,y7,yb,yd,yh,yj,yn,yp,yt,yv,yz,z1,z5,z7,zb,zd,ze,zh,zj,zn,zp,zs,zt,zv,zz,101,102,105,107,10b,10d,10g,10h,10j,10o,10p,10v,10w,112,114,11a,11c,11i,11k,11q,11r,11y,11z,125,127,12c,12d,12f,12l,12n,12t,12u,131,132,138,139,13a,13g,13i,13n,13o,13q,13u,13w,13z,143,149,14l,14m"
+     ],
+     [
+      [
+       1
+      ],
+      "c,s,15,1c,1h,1v,21,2b,2q,8z,9e,9q,a1,ad,ao,az,ba,bl,bw,c6,cc,ci,co,cu,d0,d6,dc,di,do,du,e0,e6,ec,ei,ep,ev,f2,f8,ff,fl,fs,fy,g5,gb,gi,go,gv,h1,h8,he,hl,hr,hy,i4,ib,ih,io,iu,j1,j7,je,jk,jr,jx,k4,ka,kh,kn,ku,l0,l7,ld,lk,lq,lx,m3,ma,mg,mn,mt,n0,n6,nd,nj,nq,nw,o3,o9,og,om,ot,oz,p6,pc,pj,pp,pw,q2,q8,qd,qj,qo,qu,qz,r5,rb,rg,rm,rr,rx,s2,s8,se,sj,sp,su,t0,t5,tb,tg,tm,ts,tx,u3,u8,ue,uj,up,uv,v0,v6,vb,vh,vm,vs,vy,w3,w9,we,wk,wp,wv,x2,x9,xg,xn,xu,y1,y7,y9,yg,yn,ys,yu,z1,z8,ze,zf,zq,zs,101,10c,10o,10z,11a,11l,11w,127,12j,12u,135,13g,13r,142,14g"
+     ],
+     [
+      [
+       2
+      ],
+      "k,14,8z,9h,9s,a3,ae,aq,b1,bc,bn,by,c9,ck,cw,d7,di,dt,e4,ef,er,f2,fd,fo,fz,ga,gl,gx,h8,hj,hu,i5,ig,ir,j3,je,jp,k0,kb,km,ky,l9,lk,lr,ly,m5,mc,mj,mq,mx,n5,nc,nj,nq,nx,o4,ob,oi,op,ow,p3,pa,pi,pp,pw,q3,qa,qh,qo,qv,r2,r9,rg,rn,rv,s2,s9,sg,sn,su,t1,t8,tf,tm,tt,u0,u8,uf,um,ut,v0,v7,ve,vl,vs,vz,w6,wd,wl,ws,wz,x6,xd,xk,xr,xy,y8,yi,yr,z1,zb,zl,zu,104,10e,10o,10x,117,11h,11r,120,12a,12k,12u,133,134,13d,13m,13p,140,149,14m"
      ]
     ]
    }
@@ -24821,6 +25073,90 @@
       "bv,c5,ce,cn,cx,d8,dh,dq,dx,e6,ef,ep,ey,f6,ff,fo,fy,g8,gh,gp,gx,h6,hf,hp,i0,i8,ig,io,ix,j7,ji,jr,jz,k8,kh,kr,l1,lc,lr,m4,mh,mv,nb,nn,o0,oe,os,p0,p8,ph,pr,q1,q9,qh,qq,qy,r8,rj,rw,s6,sf,sp,sy,t8,ti,tr,u1,ua,ui,ur,v1,vb,vm,vu,w2,wb,wl,wv,x6,xg,xo"
      ]
     ]
+   },
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "u,1a,1q,24,2n,38,83,8d,8u,92,9d,9l,9t,a1,a7,ad,ai,an,as,ay,b3,b8,bd,bj,bo,bt,by,c4,c9,ce,ck,cp,cu,cz,d5,da,df,dk,dq,dv,e0,e5,eb,eg,em,er,ex,f2,f8,fd,fj,fo,fu,g0,g6,gc,gh,gn,gt,gz,h5,hb,hh,hn,ht,hy,i4,ia,ig,im,is,iy,j4,j9,jf,jl,jr,jx,k3,k9,kf,kl,kr,kw,l2,l8,le,lk,lq,lw,m1,m7,md,mj,mp,mv,n1,n7,nd,ni,no,nu,o0,o6,oc,oi,oo,ou,oz,p5,pb,pg,pm,pr,pw,q1,q7,qc,qh,qn,qs,qx,r2,r8,rd,ri,rn,rt,ry,s3,s8,se,sj,so,su,sz,t4,t9,tf,tk,tp,tu,u0,u5,ua,uf,ul,uq,uv,v1,v6,vb,vg,vm,vr,vw,w1,w7,wc,wh,wm,ws,wx,x2,x8,xd,xi,xn,xt,xy,y9,yk,yv,z6,zh,zt,104,10f,10q,111,11c,11n,11y,12a,12l,12w,137,13i,13y,14e"
+     ],
+     [
+      [
+       0
+      ],
+      "n,u,10,1c,1u,2k,38,83,8c,8l,8u,94,9d,9n,9t,9y,a2,a3,a6,a7,ab,af,aj,ak,an,ao,as,aw,ax,b0,b1,b5,b9,ba,bd,be,bh,bi,bm,bq,br,bu,bv,bz,c3,c4,c7,c8,cc,cg,ch,ck,cl,cp,ct,cx,cy,d1,d2,d6,da,db,de,df,dj,dn,do,dr,ds,dw,e0,e4,e5,e8,e9,ed,eh,ei,el,em,eq,eu,ev,ez,f0,f3,f5,f8,fa,fd,ff,fi,fk,fn,fp,fs,fu,fx,fz,g2,g4,g7,g9,gc,ge,gh,gj,gm,go,gr,gt,gv,gx,h0,h2,h5,h7,ha,hc,hf,hh,hk,hm,hp,hr,hu,hw,hz,i1,i4,i6,i9,ib,ie,ig,ij,il,io,iq,it,iv,iy,j0,j3,j5,j8,ja,jd,jf,ji,jk,jm,jo,jr,jt,jw,jy,k1,k3,k6,k8,kb,kd,kg,ki,kl,kn,kq,ks,kv,kx,l0,l2,l5,l7,la,lc,lf,lh,lk,lm,lp,lr,lu,lw,lz,m1,m4,m6,m9,mb,md,mf,mi,mk,mn,mp,ms,mu,mx,mz,n2,n4,n7,n9,nc,ne,nh,nj,nm,no,nr,nt,nw,ny,o1,o3,o6,o8,ob,od,og,oi,ol,on,oq,os,ov,ox,p0,p2,p4,p6,p9,pb,pe,pg,pj,pl,po,pq,pt,pv,py,q0,q3,q5,q8,qa,qd,qf,qi,qk,qn,qp,qs,qu,qx,qz,r2,r4,r7,r9,rb,re,rg,rj,rk,ro,rp,rt,rx,ry,s2,s7,sb,sc,sg,sh,sk,sm,sp,sr,st,sw,sy,t1,t2,t6,t7,tb,tg,tk,tl,tp,tq,tt,tv,ty,u0,u2,u5,u7,ua,ub,uf,ug,uk,uo,up,ut,uy,v2,v3,v7,v8,vb,vd,vg,vi,vk,vn,vp,vs,vt,vx,vy,w2,w7,wb,wc,wg,wh,wk,wm,wp,wr,wt,ww,wy,x1,x2,x6,x7,xb,xf,xg,xp,xq,xz,y0,y9,yj,yt,z3,zd,zn,zx,106,107,10g,10i,10q,10t,110,114,11a,11f,11k,11q,11u,121,124,12c,12e,12n,12o,12x,12y,13a,13j,13m,13z,149,14b"
+     ],
+     [
+      [
+       2
+      ],
+      "u,83,8f,8u,94,9d,9t,a5,ai,au,b6,bj,bv,c7,ck,cw,d9,dl,dx,e4,eb,eh,eo,eu,f1,f8,fe,fl,fr,fy,g5,gb,gi,go,gv,h2,h8,hf,hl,hs,hz,i5,ic,ii,ip,iw,j2,j9,jf,jm,jt,jz,k6,kc,kj,kq,kw,l3,l9,lg,ln,lt,m0,m6,md,mk,mq,mx,n3,na,nh,nn,nu,o0,o7,oe,ok,or,ox,p4,pb,ph,po,pu,q1,q8,qe,ql,qr,qy,r5,rb,ri,ro,rv,s2,s8,sf,sl,ss,sz,t5,tc,ti,tp,tw,u2,u9,uf,um,ut,uz,v6,vc,vj,vq,vw,w3,w9,wg,wn,wt,x0,x6,xd,xk,xq,xx,y3,yg,ys,z5,zh,zt,106,10i,10u,117,11j,11w,128,12k,12x,139,13m,147"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "p,10,1f,1v,2b,2r,34,3g,8j,91,9k,9v,a6,ah,as,b3,be,bk,bp,bu,bz,c5,ca,cf,ck,cq,cv,d0,d6,db,dg,dl,dr,dw,e1,e6,ec,eh,em,er,ex,f2,f7,fd,fi,fn,fs,fy,g3,g9,gf,gk,gq,gv,h1,h6,hc,hi,ho,hu,hz,i5,ib,ih,in,it,iz,j5,ja,jg,jm,js,jy,k4,ka,kg,km,kr,kx,l3,l9,lf,ll,lr,lx,m2,m8,me,mk,mq,mw,n2,n8,ne,nj,np,nv,o1,o7,od,oj,op,ou,p0,p6,pc,pi,po,pu,q0,q6,qb,qh,qn,qt,qy,r4,r9,re,rj,rp,ru,rz,s4,sa,sf,sk,sq,sv,t0,t5,tb,tg,tl,tq,tw,u1,u6,ub,uh,um,ur,ux,v2,v7,vc,vi,vn,vs,vx,w3,w8,wd,wi,wo,wt,wy,x4,x9,xe,xj,xp,xu,xz,y4,ya,yf,yk,yp,yv,z0,z5,zb,zg,zr,102,10d,10o,10z,11b,11m,11x,128,12j,12u,135,13g,13r,143,14e"
+     ],
+     [
+      [
+       0
+      ],
+      "q,z,12,1e,1r,23,2f,2w,3g,8j,91,9k,9t,a3,ac,am,av,b5,b9,bb,bd,bg,bi,bk,bm,bo,bq,bs,bu,bx,bz,c1,c3,c5,c7,ca,cc,ce,cg,ci,ck,cn,cp,cr,ct,cv,cx,cz,d1,d4,d6,d8,da,dc,de,dh,dj,dl,dn,dp,dr,du,dw,dy,e0,e2,e4,e6,e8,eb,ed,ef,eh,ej,el,eo,eq,es,eu,ew,ey,f1,f3,f5,f7,f9,fb,fd,ff,fi,fk,fm,fo,fq,fs,fv,fx,fz,g1,g3,g6,g8,gb,gc,gg,gk,gl,gp,gq,gu,gv,gz,h0,h4,h5,h9,ha,he,hj,ho,ht,hy,i3,i8,id,ii,in,is,ix,j2,j6,j7,jb,jc,jg,jh,jl,jm,jq,jr,jv,jw,k0,k1,k5,ka,kf,kk,kp,ku,kz,l4,l9,le,lj,lo,lt,lx,ly,m2,m3,m7,m8,mc,md,mh,mi,mm,mn,mr,ms,mw,n1,n6,nb,ng,nl,nq,nv,o0,o5,oa,of,ok,oo,op,ot,ou,oy,oz,p3,p4,p8,p9,pd,pe,pi,pj,pn,ps,px,q2,q7,qc,qh,qm,qr,qw,r1,r6,rb,rf,rg,rk,rl,rp,rq,ru,rv,rz,s0,s4,s5,s9,sa,se,sj,so,st,sx,sy,t2,t3,t6,t8,tb,td,tf,ti,tk,tn,to,ts,tt,tx,u2,u6,u7,ub,uc,uf,uh,uk,um,uo,ur,ut,uw,ux,v1,v2,v5,v6,va,vb,vf,vk,vo,vp,vt,vu,vx,vz,w2,w4,w6,w9,wb,we,wf,wj,wk,wo,wt,wx,wy,x2,x3,x6,x8,xb,xd,xf,xi,xk,xn,xo,xs,xt,xw,xx,y1,y2,y6,yb,yf,yg,yk,yl,yo,yq,yt,yv,yx,z5,z7,zf,zh,zp,zr,zz,101,109,10b,10j,10k,10s,10u,112,114,11c,11e,11m,11o,11w,11z,126,12a,12g,12l,12q,12w,130,137,13a,13i,13j,13t,143,144,14d,14f"
+     ],
+     [
+      [
+       2
+      ],
+      "p,z,8j,90,9i,9v,a7,ak,aw,b8,bl,bx,c9,cm,cy,db,dn,dz,ec,eo,f0,f6,fd,fm,fq,fu,g3,gc,gg,gl,gu,h2,h7,hb,hk,ht,hx,i2,ia,ij,io,is,j1,ja,je,ji,jr,k0,k4,k9,ki,kq,kv,kz,l8,lh,ll,lq,ly,m7,mc,mg,mp,my,n2,n6,nf,no,ns,nx,o6,oe,oj,on,ow,p5,p9,pe,pm,pv,q0,q4,qd,qm,qq,qu,r3,rc,rg,rl,ru,s2,s7,sb,sk,st,sx,t2,ta,tj,to,ts,u1,ua,ue,ui,ur,v0,v4,v9,vi,vq,vv,vz,w8,wh,wl,wq,wy,x7,xc,xg,xp,xy,y2,y6,yf,yo,yx,z6,zc,zj,zv,108,10k,10w,119,11l,11y,12a,12m,12z,13b,13n,140,14c"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "80,82,89,8a,8e,8h,8k,8l,8o,8r,8x,8y,96,98,9f,9g,9p,9q,9y,9z"
+     ],
+     [
+      [
+       1
+      ],
+      "80,82,8b,8m,aa,aw,b9,bk"
+     ],
+     [
+      [
+       2
+      ],
+      "81,82,8a,8b,8n"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "j,r,12,1d,1k,29,3h,h7,hs,zm,100,10a,10o,10y,11i,12k,131,13g,13h,13v,143,14c"
+     ],
+     [
+      [
+       1
+      ],
+      "k,1l,2a,3h,yg,z1,zm,100"
+     ],
+     [
+      [
+       2
+      ],
+      "s,13,1d,13d,13v"
+     ]
+    ]
    }
   },
   "autobus-il-prato": {
@@ -26365,6 +26701,1666 @@
        2
       ],
       "11v,12v,13u,14t,15r,16o"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9004_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "e,u,1a,1p,28,2s,7n,7x,8e,8m,8x,95,9d,9l,9r,9x,a2,a7,ad,ai,an,as,ay,b3,b8,bd,bj,bo,bt,bz,c4,c9,ce,ck,cp,cu,cz,d5,da,df,dl,dq,dv,e0,e6,eb,eh,en,es,ey,f3,f9,fe,fk,fq,fw,g2,g8,ge,gj,gp,gv,h1,h7,hd,hj,hp,hv,i0,i6,ic,ii,io,iu,j0,j6,jb,jh,jn,jt,jz,k5,kb,kh,kn,ks,ky,l4,la,lg,lm,ls,ly,m3,m9,mf,ml,mr,mx,n3,n9,nf,nk,nq,nw,o2,o8,oe,ok,oq,ov,p1,p6,pb,ph,pm,pr,pw,q2,q7,qc,qh,qn,qs,qx,r2,r8,rd,ri,ro,rt,ry,s3,s9,se,sj,so,su,sz,t4,t9,tf,tk,tp,tv,u0,u5,ua,ug,ul,uq,uv,v1,v6,vb,vg,vm,vr,vw,w2,w7,wc,wh,wn,ws,wx,x2,x8,xd,xi,xt,y4,yg,yr,z2,zd,zo,zz,10a,10l,10x,118,11j,11u,125,12g,12r,132,13i,13y"
+     ],
+     [
+      [
+       0
+      ],
+      "8,e,k,w,1f,25,2s,7n,7w,86,8e,8p,8x,98,9e,9i,9m,9n,9q,9r,9v,9z,a0,a3,a4,a7,a8,ac,ad,ag,ah,ak,al,ap,at,au,ay,b2,b6,b7,ba,bb,bf,bj,bn,bo,bs,bw,bx,c0,c1,c5,c9,cd,ce,ch,ci,cm,cq,cr,cu,cv,cz,d3,d4,d7,d8,dc,dg,dk,dl,do,dp,dt,dx,dy,e1,e2,e6,eb,ef,eg,ej,ek,en,ep,es,eu,ex,ez,f2,f4,f7,f9,fc,fe,fh,fj,fm,fo,fr,ft,fw,fy,g1,g3,g6,g8,gb,gd,gg,gi,gl,gn,gq,gs,gv,gx,h0,h2,h5,h7,ha,hb,he,hg,hj,hl,ho,hq,ht,hv,hy,i0,i3,i5,i8,ia,id,if,ii,ik,in,ip,is,iu,ix,iz,j2,j4,j7,j9,jc,je,jh,jj,jm,jo,jr,jt,jw,jy,k1,k2,k5,k7,ka,kc,kf,kh,kk,km,kp,kr,ku,kw,kz,l1,l4,l6,l9,lb,le,lg,lj,ll,lo,lq,lt,lv,ly,m0,m3,m5,m8,ma,md,mf,mi,mk,mn,mp,ms,mt,mw,my,n1,n3,n6,n8,nb,nd,ng,ni,nl,nn,nq,ns,nv,nx,o0,o2,o5,o7,oa,oc,of,oh,ok,om,op,or,ou,ow,oz,p1,p4,p6,p9,pb,pe,pg,pj,pk,pn,pp,ps,pu,px,pz,q2,q4,q7,q9,qc,qe,qh,qj,qm,qo,qr,qt,qw,qy,r0,r3,r5,r8,r9,rd,re,ri,rm,rn,rr,rs,rw,rx,s0,s2,s5,s7,s9,sb,se,sg,si,sl,sm,sq,sr,sv,sw,t0,t5,t9,ta,te,tf,ti,tk,tn,tp,tr,tu,tw,tz,u0,u4,u5,u9,ue,ui,uj,un,uo,ur,ut,uw,uy,v0,v2,v5,v7,v9,vc,ve,vh,vi,vm,vn,vr,vw,w0,w1,w5,w6,w9,wb,we,wg,wi,wl,wn,wq,wr,wv,ww,x0,xa,xk,xt,xu,y3,y4,yd,ye,yn,yx,z7,zh,zr,101,102,10b,10d,10k,10o,10u,10z,114,11a,11e,11l,11o,11w,11y,127,128,12i,12u,133,137,13j,13t,13v"
+     ],
+     [
+      [
+       2
+      ],
+      "e,7n,7z,8e,8o,8x,9d,9q,a2,ae,ar,b3,bf,bs,c4,ch,ct,d5,di,do,dv,e1,e8,ef,el,es,ez,f5,fc,fi,fp,fw,g2,g9,gf,gm,gt,gz,h6,hc,hj,hp,hw,i3,i9,ig,in,it,j0,j6,jd,jk,jq,jx,k3,ka,kh,kn,ku,l0,l7,ld,lk,lr,lx,m4,mb,mh,mo,mu,n1,n8,ne,nl,nr,ny,o5,ob,oi,oo,ov,p1,p8,pf,pl,ps,pz,q5,qc,qi,qp,qw,r2,r9,rf,rm,rt,rz,s6,sc,sj,sp,sw,t3,t9,tg,tn,tt,u0,u6,ud,uk,uq,ux,v3,va,vh,vn,vu,w0,w7,wd,wk,wr,wx,x4,xb,xh,xo,y0,yd,yp,z1,ze,zq,102,10f,10r,114,11g,11s,125,12h,12t,136,13r"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "14,1f,1u,2a,2q,36,3j,3v,8y,9g,9z,aa,al,aw,b7,bi,bt,bz,c4,c9,cf,ck,cp,cu,d0,d5,da,df,dl,dq,dv,e0,e6,eb,eg,em,er,ew,f1,f7,fc,fh,fm,fs,fx,g2,g7,gd,gj,go,gu,gz,h5,ha,hg,hl,hr,hx,i3,i9,ie,ik,iq,iw,j2,j8,je,jk,jq,jv,k1,k7,kd,kj,kp,kv,l1,l6,lc,li,lo,lu,m0,m6,mc,mi,mn,mt,mz,n5,nb,nh,nn,nt,nz,o4,oa,og,om,os,oy,p4,pa,pf,pl,pr,px,q3,q9,qf,ql,qr,qw,r2,r8,rd,rj,ro,rt,rz,s4,s9,se,sk,sp,su,sz,t5,ta,tf,tk,tq,tv,u0,u6,ub,ug,ul,ur,uw,v1,v6,vc,vh,vm,vr,vx,w2,w7,wd,wi,wn,ws,wy,x3,x8,xd,xj,xo,xt,xy,y4,y9,ye,yk,yp,yu,yz,z5,za,zf,zk,zq,zv,106,10h,10s,113,11e,11q,121,12c,12n,12y,139,13k,13v,147,14i,14t"
+     ],
+     [
+      [
+       0
+      ],
+      "15,1e,1h,1t,26,2i,2v,3c,3v,8y,9g,9z,a8,ai,ar,b1,ba,bk,bo,bq,bs,bv,bx,bz,c1,c3,c5,c8,ca,cc,ce,cg,ci,ck,cm,cp,cr,ct,cv,cx,cz,d2,d4,d6,d8,da,dc,df,dh,dj,dl,dn,dp,dr,dt,dw,dy,e0,e2,e4,e6,e9,eb,ed,ef,eh,ej,em,eo,eq,es,eu,ew,ey,f0,f3,f5,f7,f9,fb,fd,fg,fi,fk,fm,fo,fq,ft,fv,fx,fz,g1,g3,g5,g7,ga,gc,ge,gg,gi,gl,gn,gq,gr,gv,h0,h4,h5,h9,ha,he,hf,hj,hk,ho,hp,ht,hu,hy,hz,i3,i8,id,ii,in,is,ix,j2,j7,jc,jh,jm,jr,jv,jw,k0,k1,k5,k6,ka,kb,kf,kg,kk,kl,kp,kq,ku,kz,l4,l9,le,lj,lo,lt,ly,m3,m8,md,mi,mm,mn,mr,ms,mw,mx,n1,n2,n6,n7,nb,nc,ng,nh,nl,nq,nv,o0,o5,oa,of,ok,op,ou,oz,p4,p9,pd,pe,pi,pj,pn,po,ps,pt,px,py,q2,q3,q7,q8,qc,qh,qm,qr,qw,r1,r6,rb,rg,rl,rq,rv,s0,s4,s5,s9,sa,se,sf,sj,sk,so,sp,st,su,sy,sz,t3,t8,tc,td,th,ti,tl,tn,tq,ts,tu,tx,tz,u2,u3,u7,u8,uc,uh,ul,um,uq,ur,uu,uw,uz,v1,v3,v6,v8,vb,vc,vg,vh,vl,vq,vu,vz,w3,w4,w8,w9,wc,we,wh,wj,wl,wo,wq,wt,wu,wy,wz,x3,x8,xc,xd,xh,xi,xl,xn,xq,xs,xu,xx,xz,y2,y3,y7,y8,yc,yh,yl,yq,yu,yv,yz,z0,z3,z5,z8,za,zc,zk,zm,zu,zw,104,106,10e,10g,10o,10q,10y,110,118,119,11h,11j,11r,11t,121,123,12b,12e,12l,12p,12v,130,135,13b,13f,13m,13p,13x,13z,148,14i,14j,14s,14u"
+     ],
+     [
+      [
+       2
+      ],
+      "14,1e,8y,9f,9x,aa,am,az,bb,bn,c0,cc,cp,d1,dd,dq,e2,ee,er,f3,fg,fm,fs,g1,g5,ga,gi,gr,gw,h0,h9,hi,hm,hq,hz,i8,ic,ih,iq,iy,j3,j7,jg,jp,jt,jy,k6,kf,kk,ko,kx,l6,la,le,ln,lw,m0,m5,me,mm,mr,mv,n4,nd,nh,nm,nu,o3,o8,oc,ol,ou,oy,p2,pb,pk,po,pt,q2,qa,qf,qj,qs,r1,r5,ra,ri,rr,rw,s0,s9,si,sm,sq,sz,t8,tc,th,tq,ty,u3,u7,ug,up,ut,uy,v6,vf,vk,vo,vx,w6,wa,we,wn,ww,x0,x5,xe,xm,xr,xv,y4,yd,yh,ym,yu,z3,zc,zl,zr,zy,10a,10n,10z,11b,11o,120,12d,12p,131,13e,13q,143,14f,14r"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7l,7m,7t,7u,7y,81,84,85,88,8b,8h,8i,8q,8s,8z,90,99,9a,9i,9j"
+     ],
+     [
+      [
+       1
+      ],
+      "7l,7m,7v,86,9v,ag,au,b5"
+     ],
+     [
+      [
+       2
+      ],
+      "7l,7m,7u,7v,87"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "y,16,1h,1s,20,2o,3x,hm,i7,101,10f,10q,114,11d,11y,130,13h,13v,13w,14a,14i,14r"
+     ],
+     [
+      [
+       1
+      ],
+      "z,20,2p,3w,yv,zg,101,10f"
+     ],
+     [
+      [
+       2
+      ],
+      "18,1j,1s,13s,14a"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9006_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "f,v,1b,1q,29,2t,7o,7y,8f,8n,8y,96,9e,9m,9t,9y,a3,a8,ae,aj,ao,at,az,b4,b9,bf,bk,bp,bu,c0,c5,ca,cf,cl,cq,cv,d0,d6,db,dg,dm,dr,dw,e1,e7,ec,ei,eo,et,ez,f4,fa,ff,fl,fr,fx,g3,g9,gf,gk,gq,gw,h2,h8,he,hk,hq,hw,i1,i7,id,ij,ip,iv,j1,j7,jc,ji,jo,ju,k0,k6,kc,ki,ko,kt,kz,l5,lb,lh,ln,lt,lz,m4,ma,mg,mm,ms,my,n4,na,ng,nl,nr,nx,o3,o9,of,ol,or,ow,p2,p7,pc,pi,pn,ps,px,q3,q8,qd,qi,qo,qt,qy,r3,r9,re,rj,rp,ru,rz,s4,sa,sf,sk,sp,sv,t0,t5,ta,tg,tl,tq,tw,u1,u6,ub,uh,um,ur,uw,v2,v7,vc,vh,vn,vs,vx,w3,w8,wd,wi,wo,wt,wy,x3,x9,xe,xj,xu,y5,yh,ys,z3,ze,zp,100,10b,10m,10y,119,11k,11v,126,12h,12s,133,13j,13z"
+     ],
+     [
+      [
+       0
+      ],
+      "9,f,l,x,1g,26,2t,7o,7x,87,8f,8q,8y,99,9f,9j,9k,9n,9o,9s,9w,a0,a1,a4,a5,a9,ad,ae,ah,ai,am,aq,ar,au,av,az,b3,b4,b7,b8,bb,bc,bg,bk,bl,bo,bp,bt,bx,by,c1,c2,c6,ca,ce,cf,ci,cj,cn,cr,cs,cv,cw,d0,d4,d5,d8,d9,dd,dh,dl,dm,dp,dq,du,dy,dz,e2,e3,e7,ec,eg,eh,ek,el,eo,eq,et,ev,ey,f0,f3,f5,f8,fa,fd,ff,fi,fk,fn,fp,fs,fu,fx,fz,g2,g4,g7,g9,gc,ge,gh,gj,gm,go,gr,gt,gw,gy,h1,h3,h6,h8,hb,hc,hf,hh,hk,hm,hp,hr,hu,hw,hz,i1,i4,i6,i9,ib,ie,ig,ij,il,io,iq,it,iv,iy,j0,j3,j5,j8,ja,jd,jf,ji,jk,jn,jp,js,ju,jx,jz,k2,k3,k6,k8,kb,kd,kg,ki,kl,kn,kq,ks,kv,kx,l0,l2,l5,l7,la,lc,lf,lh,lk,lm,lp,lr,lu,lw,lz,m1,m4,m6,m9,mb,me,mg,mj,ml,mo,mq,mt,mu,mx,mz,n2,n4,n7,n9,nc,ne,nh,nj,nm,no,nr,nt,nw,ny,o1,o3,o6,o8,ob,od,og,oi,ol,on,oq,os,ov,ox,p0,p2,p5,p7,pa,pc,pf,ph,pk,pl,po,pq,pt,pv,py,q0,q3,q5,q8,qa,qd,qf,qi,qk,qn,qp,qs,qu,qx,qz,r1,r4,r6,r9,ra,re,rf,rj,rn,ro,rs,rt,rx,ry,s1,s3,s6,s8,sa,sc,sf,sh,sj,sm,so,sr,ss,sw,sx,t1,t6,ta,tb,tf,tg,tj,tl,to,tq,ts,tv,tx,u0,u1,u5,u6,ua,uf,uj,uk,uo,up,us,uu,ux,uz,v1,v3,v6,v8,va,vd,vf,vi,vj,vn,vo,vs,vx,w1,w2,w6,w7,wa,wc,wf,wh,wj,wm,wo,wr,ws,ww,wx,x1,xb,xl,xu,xv,y4,y5,ye,yf,yo,yy,z8,zi,zs,102,103,10c,10e,10l,10p,10v,110,115,11b,11f,11m,11p,11x,11z,128,129,12j,12v,134,138,13k,13u,13w"
+     ],
+     [
+      [
+       2
+      ],
+      "f,7o,81,8f,8p,8y,9e,9r,a3,af,as,b4,bg,bt,c5,ci,cu,d6,dj,dp,dw,e3,e9,eg,em,et,f0,f6,fd,fj,fq,fx,g3,ga,gg,gn,gu,h0,h7,hd,hk,hr,hx,i4,ia,ih,io,iu,j1,j7,je,jl,jr,jy,k4,kb,ki,ko,kv,l1,l8,lf,ll,ls,ly,m5,mc,mi,mp,mv,n2,n9,nf,nm,ns,nz,o6,oc,oj,op,ow,p3,p9,pg,pm,pt,q0,q6,qd,qj,qq,qx,r3,ra,rg,rn,ru,s0,s7,sd,sk,sr,sx,t4,ta,th,to,tu,u1,u7,ue,ul,ur,uy,v4,vb,vi,vo,vv,w1,w8,wf,wl,ws,wy,x5,xc,xi,xp,y1,ye,yq,z2,zf,zr,103,10g,10s,115,11h,11t,126,12i,12u,137,13s"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7m,7n,7u,7w,7z,82,85,87,8a,8d,8i,8k,8r,8t,91,92,9a,9b,9j,9k"
+     ],
+     [
+      [
+       1
+      ],
+      "7m,7n,7w,87,9w,ah,av,b6"
+     ],
+     [
+      [
+       2
+      ],
+      "7m,7n,7v,7w,88"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9008_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "g,w,1d,1r,2a,2u,7q,80,8g,8p,90,98,9g,9o,9u,9z,a5,aa,af,ak,aq,av,b0,b5,bb,bg,bl,br,bw,c1,c6,cc,ch,cm,cr,cx,d2,d7,dc,di,dn,ds,dx,e3,e8,ee,ej,ep,eu,f0,f6,fb,fh,fn,fs,fy,g4,ga,gg,gm,gs,gy,h4,h9,hf,hl,hr,hx,i3,i9,if,ik,iq,iw,j2,j8,je,jk,jq,jw,k1,k7,kd,kj,kp,kv,l1,l7,lc,li,lo,lu,m0,m6,mc,mi,mo,mt,mz,n5,nb,nh,nn,nt,nz,o4,oa,og,om,os,oy,p3,p8,pe,pj,po,pu,pz,q4,q9,qf,qk,qp,qu,r0,r5,ra,rf,rl,rq,rv,s1,s6,sb,sg,sm,sr,sw,t1,t7,tc,th,tm,ts,tx,u2,u8,ud,ui,un,ut,uy,v3,v8,ve,vj,vo,vt,vz,w4,w9,wf,wk,wp,wu,x0,x5,xa,xf,xl,xw,y7,yi,yt,z4,zf,zq,102,10d,10o,10z,11a,11l,11w,127,12j,12u,135,13k,140"
+     ],
+     [
+      [
+       0
+      ],
+      "a,g,n,z,1h,27,2u,7q,7z,88,8g,8r,90,9a,9g,9k,9l,9p,9t,9u,9x,9y,a2,a6,a7,aa,ab,ae,af,aj,an,ao,ar,as,aw,b0,b1,b4,b5,b9,bd,be,bh,bi,bl,bm,bq,bu,bv,by,bz,c3,c7,c8,cb,cc,cg,ck,co,cp,cs,ct,cx,d1,d2,d5,d6,da,de,df,di,dj,dn,dr,dv,dw,dz,e0,e4,e8,e9,ed,eh,ei,em,en,eq,es,ev,ex,f0,f2,f5,f7,fa,fc,ff,fh,fk,fm,fp,fr,ft,fv,fy,g0,g3,g5,g8,ga,gd,gf,gi,gk,gn,gp,gs,gu,gx,gz,h2,h4,h7,h9,hc,he,hh,hj,hm,ho,hr,ht,hw,hy,i1,i3,i6,i8,ib,id,ig,ii,ik,im,ip,ir,iu,iw,iz,j1,j4,j6,j9,jb,je,jg,jj,jl,jo,jq,jt,jv,jy,k0,k3,k5,k8,ka,kd,kf,ki,kk,kn,kp,ks,ku,kx,kz,l2,l4,l7,l9,lb,ld,lg,li,ll,ln,lq,ls,lv,lx,m0,m2,m5,m7,ma,mc,mf,mh,mk,mm,mp,mr,mu,mw,mz,n1,n4,n6,n9,nb,ne,ng,nj,nl,no,nq,nt,nv,ny,o0,o2,o4,o7,o9,oc,oe,oh,oj,om,oo,or,ot,ow,oy,p1,p3,p6,p8,pb,pd,pg,pi,pl,pn,pq,ps,pv,px,q0,q2,q5,q7,qa,qc,qf,qh,qk,qm,qp,qr,qt,qv,qy,r0,r2,r5,r7,ra,rb,rf,rg,rk,rp,rt,ru,ry,rz,s2,s4,s7,s9,sb,se,sg,sj,sk,so,sp,st,sy,t2,t3,t7,t8,tb,td,tg,ti,tk,tm,tp,tr,tt,tw,ty,u1,u2,u6,u7,ub,ug,uk,ul,up,uq,ut,uv,uy,v0,v2,v5,v7,va,vb,vf,vg,vk,vp,vt,vu,vy,vz,w2,w4,w7,w9,wb,wd,wg,wi,wk,wn,wp,ws,wt,wx,wy,x2,xc,xm,xw,y6,yg,yq,z0,z9,za,zj,zk,zt,103,104,10d,10f,10n,10q,10x,111,117,11c,11h,11n,11r,11y,120,129,12a,12k,12x,136,139,13l,13w,13y"
+     ],
+     [
+      [
+       2
+      ],
+      "g,7q,82,8g,8r,90,9g,9s,a4,ah,at,b5,bi,bu,c7,cj,cv,d8,dk,dr,dx,e4,eb,eh,eo,eu,f1,f8,fe,fl,fr,fy,g5,gb,gi,go,gv,h2,h8,hf,hl,hs,hz,i5,ic,ij,ip,iw,j2,j9,jf,jm,jt,jz,k6,kc,kj,kq,kw,l3,l9,lg,ln,lt,m0,m6,md,mk,mq,mx,n3,na,nh,nn,nu,o0,o7,oe,ok,or,ox,p4,pb,ph,po,pu,q1,q8,qe,ql,qr,qy,r5,rb,ri,ro,rv,s2,s8,sf,sl,ss,sz,t5,tc,ti,tp,tw,u2,u9,uf,um,ut,uz,v6,vc,vj,vq,vw,w3,w9,wg,wn,wt,x0,x6,xd,xk,xq,y3,yf,yr,z4,zg,zs,105,10h,10u,116,11i,11v,127,12k,12w,139,13u"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7n,7p,7w,7x,81,83,87,88,8b,8e,8j,8l,8t,8u,92,93,9b,9d,9l,9m"
+     ],
+     [
+      [
+       1
+      ],
+      "7n,7p,7y,89,9x,ai,aw,b7"
+     ],
+     [
+      [
+       2
+      ],
+      "7o,7p,7x,7y,89"
+     ]
+    ]
+   }
+  },
+  "autobus-nenni-centro-commerciale": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "i,y,1f,1t,2c,2w,7s,82,8i,8r,92,9a,9i,9q,9w,a1,a6,ac,ah,am,as,ax,b2,b7,bd,bi,bn,bs,by,c3,c8,cd,cj,co,ct,cz,d4,d9,de,dk,dp,du,dz,e5,ea,eg,el,er,ew,f2,f7,fd,fj,fo,fu,g0,g6,gc,gi,go,gu,h0,h5,hb,hh,hn,ht,hz,i5,ib,ig,im,is,iy,j4,ja,jg,jm,js,jx,k3,k9,kf,kl,kr,kx,l3,l9,le,lk,lq,lw,m2,m8,me,mk,mp,mv,n1,n7,nd,nj,np,nu,o1,o6,oc,oi,oo,ou,p0,p5,pa,pg,pl,pq,pv,q1,q6,qb,qh,qm,qr,qw,r2,r7,rc,rh,rn,rs,rx,s2,s8,sd,si,sn,st,sy,t3,t9,te,tj,to,tu,tz,u4,u9,uf,uk,up,uu,v0,v5,va,vg,vl,vq,vv,w1,w6,wb,wg,wm,wr,ww,x1,x7,xc,xh,xn,xy,y9,yk,yv,z6,zh,zs,103,10f,10q,111,11c,11n,11y,129,12k,12w,137,13m,142"
+     ],
+     [
+      [
+       0
+      ],
+      "c,i,o,11,1j,29,2w,7s,81,8a,8i,8t,92,9c,9i,9m,9n,9r,9v,9w,9z,a0,a4,a8,ac,ad,ag,ah,al,ap,aq,at,au,ay,b2,b3,b6,b7,ba,bb,bf,bj,bk,bn,bo,bs,bw,bx,c0,c1,c5,c9,ca,cd,ce,ch,ci,cm,cq,cr,cu,cv,cz,d3,d4,d7,d8,dc,dg,dh,dk,dl,do,dp,dt,dx,dy,e1,e2,e6,ea,eb,ef,ej,ek,eo,ep,es,eu,ex,ez,f2,f4,f7,f9,fc,fe,fh,fj,fm,fn,fq,fs,fv,fx,g0,g2,g5,g7,ga,gc,gf,gh,gk,gm,gp,gr,gu,gw,gz,h1,h4,h6,h9,hb,he,hg,hj,hl,ho,hq,ht,hv,hy,i0,i3,i5,i8,ia,id,ie,ih,ij,im,io,ir,it,iw,iy,j1,j3,j6,j8,jb,jd,jg,ji,jl,jn,jq,js,jv,jx,k0,k2,k5,k7,ka,kc,kf,kh,kk,km,kp,kr,ku,kw,kz,l1,l4,l5,l8,la,ld,lf,li,lk,ln,lp,ls,lu,lx,lz,m2,m4,m7,m9,mc,me,mh,mj,mm,mo,mr,mt,mw,my,n1,n3,n6,n8,nb,nd,ng,ni,nl,nn,nq,ns,nv,nw,nz,o1,o4,o6,o9,ob,oe,og,oj,ol,oo,oq,ot,ov,oy,p0,p3,p5,p8,pa,pd,pf,pi,pk,pn,pp,ps,pu,px,pz,q2,q4,q7,q9,qc,qe,qh,qj,qm,qn,qq,qs,qv,qx,r0,r2,r4,r7,r9,rc,rd,rh,ri,rm,rr,rv,rw,s0,s1,s4,s6,s9,sb,sd,sg,si,sl,sm,sq,sr,sv,t0,t4,t5,t9,ta,td,te,ti,tj,tm,to,tr,tt,tv,ty,u0,u3,u4,u8,u9,ud,ui,um,un,ur,us,uv,ux,v0,v2,v4,v7,v9,vc,vd,vh,vi,vm,vr,vv,vw,w0,w1,w4,w5,w9,wa,wd,wf,wi,wk,wm,wp,wr,wu,wv,wz,x0,x4,xe,xo,xy,y8,yi,ys,z1,z2,zb,zc,zl,zm,zv,105,106,10f,10h,10p,10s,10z,113,119,11e,11j,11p,11s,120,122,12b,12c,12m,12z,137,13b,13n,13y,140"
+     ],
+     [
+      [
+       2
+      ],
+      "i,7s,84,8i,8t,92,9h,9u,a6,aj,av,b7,bk,bw,c9,cl,cx,da,dm,dt,dz,e6,ec,ej,eq,ew,f3,f9,fg,fn,ft,g0,g6,gd,gk,gq,gx,h3,ha,hh,hn,hu,i0,i7,ie,ik,ir,ix,j4,jb,jh,jo,ju,k1,k8,ke,kl,kr,ky,l5,lb,li,lo,lv,m2,m8,mf,ml,ms,mz,n5,nc,ni,np,nw,o2,o9,of,om,ot,oz,p6,pc,pj,pq,pw,q3,q9,qg,qn,qt,r0,r6,rd,rk,rq,rx,s3,sa,sh,sn,su,t0,t7,te,tk,tr,tx,u4,ub,uh,uo,uu,v1,v8,ve,vl,vr,vy,w5,wb,wi,wo,wv,x2,x8,xf,xl,xs,y4,yh,yt,z6,zi,zu,107,10j,10w,118,11k,11x,129,12l,12y,13b,13w"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "10,1b,1q,26,2m,32,3f,3r,8u,9c,9v,a6,ah,as,b3,be,bp,bv,c0,c5,ca,cg,cl,cq,cv,d1,d6,db,dh,dm,dr,dw,e2,e7,ec,eh,en,es,ex,f2,f8,fd,fi,fo,ft,fy,g3,g9,ge,gk,gq,gv,h1,h6,hc,hh,hn,ht,hz,i4,ia,ig,im,is,iy,j4,ja,jg,jl,jr,jx,k3,k9,kf,kl,kr,kw,l2,l8,le,lk,lq,lw,m2,m8,md,mj,mp,mv,n1,n7,nd,nj,np,nu,o0,o6,oc,oi,oo,ou,p0,p5,pb,ph,pn,pt,pz,q5,qb,qh,qm,qs,qy,r4,r9,rf,rk,rp,ru,s0,s5,sa,sf,sl,sq,sv,t1,t6,tb,tg,tm,tr,tw,u1,u7,uc,uh,um,us,ux,v2,v8,vd,vi,vn,vt,vy,w3,w8,we,wj,wo,wt,wz,x4,x9,xf,xk,xp,xu,y0,y5,ya,yf,yl,yq,yv,z0,z6,zb,zg,zm,zr,102,10d,10o,10z,11a,11l,11x,128,12j,12u,135,13g,13r,142,14e,14p"
+     ],
+     [
+      [
+       0
+      ],
+      "10,1a,1d,1p,22,2e,2q,37,3r,8u,9c,9v,a4,ae,an,ax,b6,bg,bk,bm,bo,br,bt,bv,bx,bz,c1,c3,c5,c8,ca,cc,ce,cg,ci,cl,cn,cp,cr,ct,cv,cy,d0,d2,d4,d6,d8,da,dc,df,dh,dj,dl,dn,dp,ds,du,dw,dy,e0,e2,e5,e7,e9,eb,ed,ef,eh,ej,em,eo,eq,es,eu,ew,ez,f1,f3,f5,f7,f9,fc,fe,fg,fi,fk,fm,fo,fq,ft,fv,fx,fz,g1,g3,g6,g8,ga,gc,ge,gh,gj,gm,gn,gr,gv,gw,h0,h1,h5,h6,ha,hb,hf,hg,hk,hp,hu,hz,i4,i9,ie,ij,io,it,iy,j3,j8,jd,jh,ji,jm,jn,jr,js,jw,jx,k1,k2,k6,k7,kb,kg,kl,kq,kv,l0,l5,la,lf,lk,lp,lu,lz,m4,m8,m9,md,me,mi,mj,mn,mo,ms,mt,mx,my,n2,n7,nc,nh,nm,nr,nw,o1,o6,ob,og,ol,oq,ov,oz,p0,p4,p5,p9,pa,pe,pf,pj,pk,po,pp,pt,py,q3,q8,qd,qi,qn,qs,qx,r2,r7,rc,rh,rm,rq,rr,rv,rw,s0,s1,s5,s6,sa,sb,sf,sg,sk,sp,su,sz,t4,t8,t9,td,te,th,tj,tm,to,tq,tt,tv,ty,tz,u3,u4,u8,ud,uh,ui,um,un,uq,us,uv,ux,uz,v2,v4,v7,v8,vb,vd,vg,vh,vl,vm,vq,vv,vz,w0,w4,w5,w8,wa,wd,wf,wh,wk,wm,wp,wq,wu,wv,wz,x4,x8,x9,xd,xe,xh,xj,xm,xo,xq,xt,xv,xy,xz,y2,y4,y7,y8,yc,yd,yh,ym,yq,yr,yv,yw,yz,z1,z4,z6,z8,zg,zi,zq,zs,100,102,10a,10c,10k,10m,10t,10v,113,115,11d,11f,11n,11p,11x,11z,127,12a,12h,12l,12r,12w,131,137,13b,13i,13k,13t,13u,144,14e,14f,14o,14q"
+     ],
+     [
+      [
+       2
+      ],
+      "10,1a,8u,9b,9t,a6,ai,au,b7,bj,bw,c8,ck,cx,d9,dm,dy,ea,en,ez,fb,fh,fo,fx,g1,g5,ge,gn,gr,gw,h5,hd,hi,hm,hv,i4,i8,id,il,iu,iz,j3,jc,jl,jp,jt,k2,kb,kf,kk,kt,l1,l6,la,lj,ls,lw,m1,m9,mi,mn,mr,n0,n9,nd,nh,nq,nz,o3,o8,oh,op,ou,oy,p7,pg,pk,pp,px,q6,qb,qf,qo,qx,r1,r5,re,rn,rr,rw,s5,sd,si,sm,sv,t4,t8,td,tl,tu,tz,u3,uc,ul,up,ut,v2,vb,vf,vk,vt,w1,w6,wa,wj,ws,ww,x1,x9,xi,xn,xr,y0,y9,yd,yh,yq,yz,z8,zh,zn,zu,106,10j,10v,117,11k,11w,129,12l,12x,13a,13m,13y,14b,14n"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7p,7q,7y,7z,82,85,89,8a,8d,8g,8l,8n,8v,8w,94,95,9d,9f,9n,9o"
+     ],
+     [
+      [
+       1
+      ],
+      "7p,7q,80,8b,9z,ak,ay,b9"
+     ],
+     [
+      [
+       2
+      ],
+      "7q,7z,80,8b"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "u,12,1d,1o,1v,2k,3s,hi,i3,zx,10b,10l,10z,119,11t,12v,13c,13r,13s,146,14e,14n"
+     ],
+     [
+      [
+       1
+      ],
+      "v,1w,2l,3s,yr,zc,zx,10b"
+     ],
+     [
+      [
+       2
+      ],
+      "13,1e,1o,13o,146"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9012_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "k,10,1h,1v,2e,2y,7u,84,8k,8t,94,9c,9k,9s,9y,a3,a8,ae,aj,ao,at,az,b4,b9,bf,bk,bp,bu,c0,c5,ca,cf,cl,cq,cv,d0,d6,db,dg,dm,dr,dw,e1,e7,ec,ei,en,et,ey,f4,f9,ff,fl,fq,fw,g2,g8,ge,gk,gq,gw,h2,h7,hd,hj,hp,hv,i1,i7,id,ii,io,iu,j0,j6,jc,ji,jo,ju,jz,k5,kb,kh,kn,kt,kz,l5,la,lg,lm,ls,ly,m4,ma,mg,mm,mr,mx,n3,n9,nf,nl,nr,nw,o3,o8,oe,ok,oq,ow,p2,p7,pc,pi,pn,ps,px,q3,q8,qd,qj,qo,qt,qy,r4,r9,re,rj,rp,ru,rz,s4,sa,sf,sk,sp,sv,t0,t5,tb,tg,tl,tq,tw,u1,u6,ub,uh,um,ur,uw,v2,v7,vc,vi,vn,vs,vx,w3,w8,wd,wi,wo,wt,wy,x3,x9,xe,xj,xp,y0,yb,ym,yx,z8,zj,zu,105,10h,10s,113,11e,11p,120,12b,12m,12y,139,13o,144"
+     ],
+     [
+      [
+       0
+      ],
+      "e,k,q,13,1l,2b,2y,7u,83,8c,8k,8v,94,9e,9k,9o,9p,9t,9x,9y,a1,a2,a6,aa,ae,af,ai,aj,an,ar,as,av,aw,b0,b4,b8,b9,bc,bd,bh,bl,bm,bp,bq,bu,by,bz,c2,c3,c7,cb,cf,cg,cj,ck,co,cs,ct,cw,cx,d1,d5,d6,d9,da,de,di,dm,dn,dq,dr,dv,dz,e0,e3,e4,e8,ec,ed,eh,el,em,ep,er,eu,ew,ez,f1,f4,f6,f9,fb,fe,fg,fj,fl,fn,fp,fs,fu,fx,fz,g2,g4,g7,g9,gc,ge,gh,gj,gm,go,gr,gt,gw,gy,h1,h3,h6,h8,hb,hd,hg,hi,hl,hn,hq,hs,hv,hx,i0,i2,i5,i7,ia,ic,ie,ig,ij,il,io,iq,it,iv,iy,j0,j3,j5,j8,ja,jd,jf,ji,jk,jn,jp,js,ju,jx,jz,k2,k4,k7,k9,kc,ke,kh,kj,km,ko,kr,kt,kw,ky,l1,l3,l5,l7,la,lc,lf,lh,lk,lm,lp,lr,lu,lw,lz,m1,m4,m6,m9,mb,me,mg,mj,ml,mo,mq,mt,mv,my,n0,n3,n5,n8,na,nd,nf,ni,nk,nn,np,ns,nu,nw,ny,o1,o3,o6,o8,ob,od,og,oi,ol,on,oq,os,ov,ox,p0,p2,p5,p7,pa,pc,pf,ph,pk,pm,pp,pr,pu,pw,pz,q1,q4,q6,q9,qb,qe,qg,qj,ql,qn,qp,qs,qu,qx,qz,r2,r4,r6,r9,rb,re,rf,rj,rk,ro,rt,rx,ry,s2,s3,s6,s8,sb,sd,sf,si,sk,sn,so,ss,st,sx,t2,t6,t7,tb,tc,tf,tg,tk,tl,to,tq,tt,tv,tx,u0,u2,u5,u6,ua,ub,uf,uk,uo,up,ut,uu,ux,uz,v2,v4,v6,v9,vb,ve,vf,vj,vk,vo,vt,vx,vy,w2,w3,w6,w7,wb,wc,wf,wh,wk,wm,wo,wr,wt,ww,wx,x1,x2,x6,xg,xq,y0,ya,yk,yu,z3,z4,zd,ze,zn,zx,107,108,10h,10j,10r,10u,111,115,11b,11g,11l,11r,11u,122,124,12d,12e,12o,130,139,13d,13p,140,142"
+     ],
+     [
+      [
+       2
+      ],
+      "k,7u,86,8k,8v,94,9j,9w,a8,al,ax,b9,bm,by,cb,cn,cz,dc,do,dv,e1,e8,ee,el,es,ey,f5,fb,fi,fp,fv,g2,g8,gf,gm,gs,gz,h5,hc,hj,hp,hw,i2,i9,ig,im,it,iz,j6,jd,jj,jq,jw,k3,ka,kg,kn,kt,l0,l7,ld,lk,lq,lx,m4,ma,mh,mn,mu,n1,n7,ne,nk,nr,ny,o4,ob,oh,oo,ov,p1,p8,pe,pl,ps,py,q5,qb,qi,qp,qv,r2,r8,rf,rm,rs,rz,s5,sc,sj,sp,sw,t2,t9,tg,tm,tt,tz,u6,ud,uj,uq,uw,v3,va,vg,vn,vt,w0,w7,wd,wk,wq,wx,x4,xa,xh,xn,xu,y6,yj,yv,z8,zk,zw,109,10l,10y,11a,11m,11z,12b,12n,130,13d,13y"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7r,7s,80,81,84,87,8b,8c,8f,8i,8n,8p,8x,8y,96,97,9f,9g,9p,9q"
+     ],
+     [
+      [
+       1
+      ],
+      "7r,7s,82,8d,a1,am,b0,bb"
+     ],
+     [
+      [
+       2
+      ],
+      "7s,81,82,8d"
+     ]
+    ]
+   }
+  },
+  "autobus-foggini-talenti": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "m,12,1i,1w,2g,30,7v,85,8m,8u,95,9d,9l,9t,9z,a5,aa,af,ak,aq,av,b0,b5,bb,bg,bl,br,bw,c1,c6,cc,ch,cm,cr,cx,d2,d7,dc,di,dn,ds,dy,e3,e8,ee,ej,ep,eu,f0,f5,fb,fg,fm,fs,fy,g4,ga,gf,gl,gr,gx,h3,h9,hf,hl,hr,hw,i2,i8,ie,ik,iq,iw,j2,j7,jd,jj,jp,jv,k1,k7,kd,kj,ko,ku,l0,l6,lc,li,lo,lu,lz,m5,mb,mh,mn,mt,mz,n5,nb,ng,nm,ns,ny,o4,oa,og,om,or,ox,p3,p9,pe,pj,po,pu,pz,q4,q9,qf,qk,qp,qu,r0,r5,ra,rg,rl,rq,rv,s1,s6,sb,sg,sm,sr,sw,t1,t7,tc,th,tn,ts,tx,u2,u8,ud,ui,uo,ut,uy,v3,v8,ve,vj,vo,vu,vz,w4,w9,wf,wk,wp,wu,x0,x5,xa,xf,xl,xq,y1,yc,yn,yy,za,zl,zw,107,10i,10t,114,11f,11r,122,12d,12o,12z,13a,13q,146"
+     ],
+     [
+      [
+       0
+      ],
+      "f,m,s,14,1n,2c,30,7v,84,8e,8m,8x,95,9g,9l,9q,9u,9v,9y,9z,a3,a7,a8,ab,ac,af,ag,ak,ao,ap,as,at,ax,b1,b2,b5,b6,ba,be,bf,bi,bj,bn,br,bv,bw,bz,c0,c4,c8,c9,cc,cd,ch,cl,cm,cp,cq,cu,cy,d2,d3,d6,d7,db,df,dg,dj,dk,do,ds,dt,dw,dx,e1,e5,e9,ea,ed,ee,ei,em,en,er,es,ev,ex,f0,f2,f5,f7,fa,fc,ff,fh,fk,fm,fp,fr,fu,fw,fz,g1,g4,g6,g9,gb,ge,gg,gj,gl,go,gq,gt,gv,gx,gz,h2,h4,h7,h9,hc,he,hh,hj,hm,ho,hr,ht,hw,hy,i1,i3,i6,i8,ib,id,ig,ii,il,in,iq,is,iv,ix,j0,j2,j5,j7,ja,jc,jf,jh,jk,jm,jo,jq,jt,jv,jy,k0,k3,k5,k8,ka,kd,kf,ki,kk,kn,kp,ks,ku,kx,kz,l2,l4,l7,l9,lc,le,lh,lj,lm,lo,lr,lt,lw,ly,m1,m3,m6,m8,mb,md,mf,mh,mk,mm,mp,mr,mu,mw,mz,n1,n4,n6,n9,nb,ne,ng,nj,nl,no,nq,nt,nv,ny,o0,o3,o5,o8,oa,od,of,oi,ok,on,op,os,ou,ox,oz,p2,p4,p6,p8,pb,pd,pg,pi,pl,pn,pq,ps,pv,px,q0,q2,q5,q7,qa,qc,qf,qh,qk,qm,qp,qr,qu,qw,qz,r1,r3,r6,r8,rb,rc,rg,rh,rl,rq,ru,rv,rz,s3,s4,s8,s9,sc,se,sh,sj,sl,so,sq,st,su,sy,sz,t3,t8,tc,td,th,ti,tl,tn,tq,ts,tu,tx,tz,u2,u3,u7,u8,uc,uh,ul,um,uq,uu,uv,uz,v0,v3,v5,v8,va,vc,vf,vh,vk,vl,vp,vq,vu,vz,w3,w4,w8,w9,wc,we,wh,wj,wl,wo,wq,wt,wu,wy,wz,x3,x8,xh,xi,xr,xs,y1,y2,yb,yl,yv,z5,zf,zp,zz,108,10a,10i,10l,10s,10w,112,117,11c,11i,11m,11t,11w,124,126,12f,12g,12q,132,13b,13e,13r,141,143"
+     ],
+     [
+      [
+       2
+      ],
+      "m,7v,87,8m,8w,95,9l,9x,aa,am,ay,bb,bn,c0,cc,co,d1,dd,dq,dw,e3,e9,eg,en,et,f0,f6,fd,fk,fq,fx,g3,ga,gh,gn,gu,h0,h7,he,hk,hr,hx,i4,ib,ih,io,iu,j1,j8,je,jl,jr,jy,k5,kb,ki,ko,kv,l2,l8,lf,ll,ls,lz,m5,mc,mi,mp,mw,n2,n9,nf,nm,nt,nz,o6,oc,oj,oq,ow,p3,p9,pg,pn,pt,q0,q6,qd,qk,qq,qx,r3,ra,rh,rn,ru,s0,s7,se,sk,sr,sx,t4,tb,th,to,tu,u1,u8,ue,ul,ur,uy,v5,vb,vi,vo,vv,w2,w8,wf,wl,ws,wz,x5,xc,xi,xp,xw,y8,yk,yx,z9,zl,zy,10a,10n,10z,11b,11o,120,12c,12p,131,13e,13z"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "w,18,1n,23,2j,2z,3c,3o,8r,99,9s,a3,ae,ap,b0,bb,bm,br,bx,c2,c7,cc,ci,cn,cs,cx,d3,d8,dd,di,do,dt,dy,e4,e9,ee,ej,ep,eu,ez,f4,fa,ff,fk,fp,fv,g0,g6,gb,gh,gm,gs,gx,h3,h8,he,hk,hp,hv,i1,i7,id,ij,ip,iv,j0,j6,jc,ji,jo,ju,k0,k6,kc,kh,kn,kt,kz,l5,lb,lh,ln,ls,ly,m4,ma,mg,mm,ms,my,n4,n9,nf,nl,nr,nx,o3,o9,of,ok,oq,ow,p2,p8,pe,pk,pq,pw,q1,q7,qd,qj,qp,qv,r1,r6,rb,rh,rm,rr,rw,s2,s7,sc,sh,sn,ss,sx,t2,t8,td,ti,to,tt,ty,u3,u9,ue,uj,uo,uu,uz,v4,v9,vf,vk,vp,vv,w0,w5,wa,wg,wl,wq,wv,x1,x6,xb,xg,xm,xr,xw,y2,y7,yc,yh,yn,ys,yx,z2,z8,zd,zi,zn,zz,10a,10l,10w,117,11i,11t,124,12g,12r,132,13d,13o,13z,14a,14l"
+     ],
+     [
+      [
+       0
+      ],
+      "x,17,1a,1m,1y,2b,2n,34,3o,8r,99,9s,a1,ab,ak,au,b3,bd,bh,bj,bl,bn,bp,br,bu,bw,by,c0,c2,c4,c6,c9,cb,cd,cf,ch,cj,cm,co,cq,cs,cu,cw,cy,d1,d3,d5,d7,d9,db,dd,dg,di,dk,dm,do,dq,dt,dv,dx,dz,e1,e3,e5,e8,ea,ec,ee,eg,ei,ek,en,ep,er,et,ev,ex,f0,f2,f4,f6,f8,fa,fc,ff,fh,fj,fl,fn,fp,fr,fu,fw,fy,g0,g2,g4,g7,g9,gb,ge,gf,gj,gn,go,gs,gx,h2,h7,hc,hh,hm,hr,hw,i1,i6,ib,if,ig,ik,il,ip,iq,iu,iv,iz,j0,j4,j5,j9,ja,je,jj,jo,jt,jy,k3,k8,kd,ki,kn,ks,kx,l2,l6,l7,lb,lc,lg,lh,ll,lm,lq,lr,lv,lw,m0,m1,m5,ma,mf,mk,mp,mu,mz,n4,n9,ne,nj,no,nt,nx,ny,o2,o3,o7,o8,oc,od,oh,oi,om,on,or,os,ow,p1,p6,pb,pg,pl,pq,pv,q0,q5,qa,qf,qk,qo,qp,qt,qu,qy,qz,r3,r4,r8,r9,rd,re,ri,rj,rn,rs,rx,s2,s7,sc,sh,sm,sr,sw,t0,t1,t5,t6,t9,tb,te,tg,ti,tl,tn,tq,tr,tv,tw,u0,u5,u9,ua,ue,ui,uj,un,uo,ur,ut,uw,uy,v0,v3,v5,v8,v9,vd,ve,vi,vn,vr,vs,vw,vx,w0,w2,w5,w7,w9,wc,we,wh,wi,wm,wn,wr,ww,x0,x1,x5,x9,xa,xe,xf,xi,xk,xn,xp,xr,xu,xw,xz,y0,y4,y5,y9,ye,yi,yj,yn,yo,yr,yt,yw,yy,z0,z3,z5,zd,zf,zn,zo,zw,zy,106,108,10g,10i,10q,10s,110,112,11a,11c,11k,11m,11u,11w,124,127,12e,12i,12n,12t,12x,134,137,13f,13h,13q,13r,141,14b,14c,14l,14n"
+     ],
+     [
+      [
+       2
+      ],
+      "w,17,8r,98,9q,a2,af,ar,b4,bg,bs,c5,ch,ct,d6,di,dv,e7,ej,ew,f8,fe,fl,ft,fy,g2,gb,gk,go,gt,h1,ha,he,hj,hs,i1,i5,i9,ii,ir,iv,j0,j9,jh,jm,jq,jz,k8,kc,kh,kp,ky,l2,l7,lg,lp,lt,lx,m6,mf,mj,mo,mx,n5,na,ne,nn,nw,o0,o5,od,om,oq,ov,p4,pd,ph,pl,pu,q3,q7,qc,ql,qt,qy,r2,rb,rk,ro,rt,s1,sa,se,sj,ss,t1,t5,t9,ti,tr,tv,u0,u9,uh,um,uq,uz,v8,vc,vh,vp,vy,w2,w7,wg,wp,wt,wx,x6,xf,xj,xo,xx,y5,ya,ye,yn,yw,z5,zd,zk,zr,103,10f,10s,114,11g,11t,125,12i,12u,136,13j,13v,148,14k"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7t,7u,81,82,86,89,8c,8d,8g,8j,8p,8q,8y,90,97,98,9h,9i,9q,9r"
+     ],
+     [
+      [
+       1
+      ],
+      "7t,7u,83,8e,a3,ao,b2,bd"
+     ],
+     [
+      [
+       2
+      ],
+      "7t,7u,82,83,8f"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "q,z,1a,1l,1s,2h,3p,he,i0,zu,108,10i,10w,115,11q,12s,139,13o,13p,143,14a,14j"
+     ],
+     [
+      [
+       1
+      ],
+      "s,1s,2h,3o,yn,z8,zu,108"
+     ],
+     [
+      [
+       2
+      ],
+      "10,1b,1k,13k,142"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9016_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "n,13,1j,1y,2h,31,7w,86,8n,8w,97,9e,9m,9u,a1,a6,ab,ah,am,ar,aw,b2,b7,bc,bh,bn,bs,bx,c3,c8,cd,ci,co,ct,cy,d3,d9,de,dj,do,du,dz,e4,e9,ef,el,eq,ew,f1,f7,fc,fi,fn,ft,fz,g5,gb,gh,gn,gt,gy,h4,ha,hg,hm,hs,hy,i4,ia,if,il,ir,ix,j3,j9,jf,jl,jq,jw,k2,k8,ke,kk,kq,kw,l2,l7,ld,lj,lp,lv,m1,m7,md,mj,mo,mu,n0,n6,nc,ni,no,nu,nz,o5,ob,oh,on,ot,oz,p5,pa,pf,pk,pq,pv,q0,q6,qb,qg,ql,qr,qw,r1,r6,rc,rh,rm,rr,rx,s2,s7,sd,si,sn,ss,sy,t3,t8,td,tj,to,tt,ty,u4,u9,ue,uk,up,uu,uz,v5,va,vf,vk,vq,vv,w0,w5,wb,wg,wl,wr,ww,x1,x6,xc,xh,xm,xr,y2,ye,yp,z0,zb,zm,zx,108,10j,10v,116,11h,11s,123,12e,12p,130,13b,13r,147"
+     ],
+     [
+      [
+       0
+      ],
+      "h,n,t,16,1o,2e,31,7w,85,8f,8n,8y,97,9h,9n,9r,9s,9v,9w,a0,a4,a5,a8,a9,ad,ah,ai,al,am,ap,aq,au,ay,az,b2,b3,b7,bb,bc,bf,bg,bk,bo,bp,bs,bt,bx,c1,c2,c5,c6,c9,ca,ce,ci,cj,cm,cn,cr,cv,cw,cz,d0,d3,d4,d8,dc,dd,dg,dh,dl,dp,dq,dt,du,dy,e2,e3,e6,e7,ea,eb,ef,ek,eo,ep,es,eu,ex,ez,f2,f4,f7,f8,fb,fd,fg,fi,fl,fn,fq,fs,fv,fx,g0,g2,g5,g7,ga,gc,gf,gh,gk,gm,gp,gr,gu,gw,gz,h1,h4,h6,h9,hb,he,hg,hj,hl,ho,hq,ht,hv,hy,hz,i2,i4,i7,i9,ic,ie,ih,ij,im,io,ir,it,iw,iy,j1,j3,j6,j8,jb,jd,jg,ji,jl,jn,jq,js,jv,jx,k0,k2,k5,k7,ka,kc,kf,kh,kk,km,kp,kq,kt,kv,ky,l0,l3,l5,l8,la,ld,lf,li,lk,ln,lp,ls,lu,lx,lz,m2,m4,m7,m9,mc,me,mh,mj,mm,mo,mr,mt,mw,my,n1,n3,n6,n8,nb,nd,ng,nh,nk,nm,np,nr,nu,nw,nz,o1,o4,o6,o9,ob,oe,og,oj,ol,oo,oq,ot,ov,oy,p0,p3,p5,p8,pa,pd,pf,pi,pk,pn,pp,ps,pu,px,pz,q2,q4,q7,q8,qb,qd,qg,qi,ql,qn,qq,qs,qv,qx,r0,r2,r5,r7,r9,rc,re,rh,ri,rm,rn,rr,rw,s0,s1,s5,s6,s9,sb,se,sg,si,sl,sn,sq,sr,sv,sw,sz,t0,t4,t5,t9,te,ti,tj,tn,to,tr,tt,tw,ty,u0,u3,u5,u8,u9,ud,ue,ui,un,ur,us,uw,ux,v0,v2,v5,v7,v9,vc,ve,vh,vi,vm,vn,vq,vr,vv,vw,w0,w5,w9,wa,we,wf,wi,wk,wn,wp,wr,wu,ww,wz,x0,x4,x5,x9,xj,xt,y3,yd,ym,yn,yw,yx,z6,z7,zg,zq,100,10a,10b,10k,10m,10u,10x,114,118,11d,11j,11n,11u,11x,125,127,12g,12h,12r,133,13c,13g,13s,142,144"
+     ],
+     [
+      [
+       2
+      ],
+      "n,7w,89,8n,8y,97,9m,9z,ab,an,b0,bc,bp,c1,cd,cq,d2,df,dr,dx,e4,eb,eh,eo,eu,f1,f8,fe,fl,fr,fy,g5,gb,gi,go,gv,h2,h8,hf,hl,hs,hz,i5,ic,ii,ip,iw,j2,j9,jf,jm,jt,jz,k6,kc,kj,kq,kw,l3,l9,lg,ln,lt,m0,m6,md,mk,mq,mx,n3,na,nh,nn,nu,o0,o7,oe,ok,or,ox,p4,pb,ph,po,pu,q1,q8,qe,ql,qr,qy,r5,rb,ri,ro,rv,s2,s8,sf,sl,ss,sz,t5,tc,ti,tp,tw,u2,u9,uf,um,ut,uz,v6,vc,vj,vq,vw,w3,w9,wg,wn,wt,x0,x6,xd,xk,xq,xx,y9,ym,yy,za,zn,zz,10c,10o,110,11d,11p,121,12e,12q,133,13f,140"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7u,7v,82,84,87,8a,8d,8f,8i,8l,8q,8s,8z,91,99,9a,9i,9j,9s"
+     ],
+     [
+      [
+       1
+      ],
+      "7u,7v,85,8g,a4,ap,b3,be"
+     ],
+     [
+      [
+       2
+      ],
+      "7u,7v,83,85,8g"
+     ]
+    ]
+   }
+  },
+  "autobus-piazza-batoni": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "o,14,1l,1z,2i,32,7y,88,8o,8x,98,9g,9o,9w,a2,a7,ac,ai,an,as,ay,b3,b8,bd,bj,bo,bt,by,c4,c9,ce,cj,cp,cu,cz,d5,da,df,dk,dq,dv,e0,e5,eb,eg,em,er,ex,f2,f8,fd,fj,fp,fu,g0,g6,gc,gi,go,gu,h0,h6,hb,hh,hn,ht,hz,i5,ib,ih,im,is,iy,j4,ja,jg,jm,js,jy,k3,k9,kf,kl,kr,kx,l3,l9,lf,lk,lq,lw,m2,m8,me,mk,mq,mv,n1,n7,nd,nj,np,nv,o0,o7,oc,oi,oo,ou,p0,p6,pb,pg,pm,pr,pw,q1,q7,qc,qh,qn,qs,qx,r2,r8,rd,ri,rn,rt,ry,s3,s8,se,sj,so,st,sz,t4,t9,tf,tk,tp,tu,u0,u5,ua,uf,ul,uq,uv,v0,v6,vb,vg,vm,vr,vw,w1,w7,wc,wh,wm,ws,wx,x2,x7,xd,xi,xn,xt,y4,yf,yq,z1,zc,zn,zy,109,10l,10w,117,11i,11t,124,12f,12q,132,13d,13s,148"
+     ],
+     [
+      [
+       0
+      ],
+      "i,o,u,17,1p,2f,32,7y,87,8g,8o,8z,98,9i,9o,9s,9t,9x,a1,a2,a5,a6,aa,ae,ai,aj,am,an,ar,av,aw,az,b0,b4,b8,b9,bc,bd,bg,bh,bl,bp,bq,bt,bu,by,c2,c3,c6,c7,cb,cf,cg,cj,ck,cn,co,cs,cw,cx,d0,d1,d5,d9,da,dd,de,di,dm,dn,dq,dr,du,dv,dz,e3,e4,e7,e8,ec,eg,eh,el,ep,eq,eu,ev,ey,f0,f3,f5,f8,fa,fd,ff,fi,fk,fn,fp,fs,ft,fw,fy,g1,g3,g6,g8,gb,gd,gg,gi,gl,gn,gq,gs,gv,gx,h0,h2,h5,h7,ha,hc,hf,hh,hk,hm,hp,hr,hu,hw,hz,i1,i4,i6,i9,ib,ie,ig,ij,ik,in,ip,is,iu,ix,iz,j2,j4,j7,j9,jc,je,jh,jj,jm,jo,jr,jt,jw,jy,k1,k3,k6,k8,kb,kd,kg,ki,kl,kn,kq,ks,kv,kx,l0,l2,l5,l7,la,lb,le,lg,lj,ll,lo,lq,lt,lv,ly,m0,m3,m5,m8,ma,md,mf,mi,mk,mn,mp,ms,mu,mx,mz,n2,n4,n7,n9,nc,ne,nh,nj,nm,no,nr,nt,nw,ny,o1,o2,o5,o7,oa,oc,of,oh,ok,om,op,or,ou,ow,oz,p1,p4,p6,p9,pb,pe,pg,pj,pl,po,pq,pt,pv,py,q0,q3,q5,q8,qa,qd,qf,qi,qk,qn,qp,qs,qt,qw,qy,r1,r3,r6,r8,ra,rd,rf,ri,rj,rn,ro,rs,rx,s1,s2,s6,s7,sa,sc,sf,sh,sj,sm,so,sr,ss,sw,sx,t1,t6,ta,tb,tf,tg,tj,tk,to,tp,ts,tu,tx,tz,u1,u4,u6,u9,ua,ue,uf,uj,uo,us,ut,ux,uy,v1,v3,v6,v8,va,vd,vf,vi,vj,vn,vo,vs,vx,w1,w2,w6,w7,wa,wb,wf,wg,wj,wl,wo,wq,ws,wv,wx,x0,x1,x5,x6,xa,xk,xu,y4,ye,yo,yy,z7,z8,zh,zi,zr,zs,101,10b,10c,10l,10n,10v,10y,115,119,11f,11k,11p,11v,11y,126,128,12h,12i,12s,135,13d,13h,13t,144,146"
+     ],
+     [
+      [
+       2
+      ],
+      "o,7y,8a,8o,8z,98,9n,a0,ac,ap,b1,bd,bq,c2,cf,cr,d3,dg,ds,dz,e5,ec,ei,ep,ew,f2,f9,ff,fm,ft,fz,g6,gc,gj,gq,gw,h3,h9,hg,hn,ht,i0,i6,id,ik,iq,ix,j3,ja,jh,jn,ju,k0,k7,ke,kk,kr,kx,l4,lb,lh,lo,lu,m1,m8,me,ml,mr,my,n5,nb,ni,no,nv,o2,o8,of,ol,os,oz,p5,pc,pi,pp,pw,q2,q9,qf,qm,qt,qz,r6,rc,rj,rq,rw,s3,s9,sg,sn,st,t0,t6,td,tk,tq,tx,u3,ua,uh,un,uu,v0,v7,ve,vk,vr,vx,w4,wb,wh,wo,wu,x1,x8,xe,xl,xr,xy,ya,yn,yz,zc,zo,100,10d,10p,112,11e,11q,123,12f,12r,134,13h,142"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "u,15,1k,20,2g,2w,39,3l,8o,97,9q,a1,ac,an,ay,b9,bk,bp,bu,bz,c5,ca,cf,ck,cq,cv,d0,d6,db,dg,dl,dr,dw,e1,e6,ec,eh,em,er,ex,f2,f7,fd,fi,fn,fs,fy,g3,g9,ge,gk,gp,gv,h0,h6,hc,hh,hn,ht,hz,i5,ib,ig,im,is,iy,j4,ja,jg,jm,jr,jx,k3,k9,kf,kl,kr,kx,l3,l8,le,lk,lq,lw,m2,m8,me,mj,mp,mv,n1,n7,nd,nj,np,nv,o0,o6,oc,oi,oo,ou,p0,p6,pc,ph,pn,pt,pz,q5,qb,qh,qn,qs,qy,r4,r9,re,rj,rp,ru,rz,s4,sa,sf,sk,sq,sv,t0,t5,tb,tg,tl,tq,tw,u1,u6,ub,uh,um,ur,ux,v2,v7,vc,vi,vn,vs,vx,w3,w8,wd,wi,wo,wt,wy,x4,x9,xe,xj,xp,xu,xz,y4,ya,yf,yk,yp,yv,z0,z5,zb,zg,zl,zw,107,10i,10u,115,11g,11r,122,12d,12o,12z,13a,13m,13x,148,14j"
+     ],
+     [
+      [
+       0
+      ],
+      "v,14,17,1k,1w,28,2l,32,3l,8o,96,9p,9z,a8,ai,ar,b1,ba,be,bg,bj,bl,bn,bp,br,bt,bv,by,c0,c2,c4,c6,c8,cb,cd,cf,ch,cj,cl,cn,cq,cs,cu,cw,cy,d0,d2,d5,d7,d9,db,dd,df,di,dk,dm,do,dq,ds,du,dx,dz,e1,e3,e5,e7,e9,ec,ee,eg,ei,ek,em,ep,er,et,ev,ex,ez,f1,f4,f6,f8,fa,fc,fe,fg,fj,fl,fn,fp,fr,ft,fw,fy,g0,g2,g4,g6,g8,gb,gd,gg,gh,gl,gq,gv,h0,h5,h9,ha,he,hf,hj,hk,ho,hp,ht,hu,hy,hz,i3,i4,i8,id,ii,in,is,ix,j2,j7,jc,jh,jm,jr,jw,k0,k1,k5,k6,ka,kb,kf,kg,kk,kl,kp,kq,ku,kv,kz,l4,l9,le,lj,lo,lt,ly,m3,m8,md,mi,mn,mr,ms,mw,mx,n1,n2,n6,n7,nb,nc,ng,nh,nl,nm,nq,nv,o0,o5,oa,of,ok,op,ou,oz,p4,p9,pe,pi,pj,pn,po,ps,pt,px,py,q2,q3,q7,q8,qc,qd,qh,qm,qr,qw,r1,r6,rb,rg,rl,rq,rv,s0,s5,s9,sa,se,sf,sj,sk,so,sp,st,su,sy,sz,t2,t4,t7,t8,tb,td,tg,ti,tk,tn,tp,ts,tt,tx,ty,u2,u7,ub,uc,ug,uh,uk,um,up,ur,ut,uw,uy,v1,v2,v6,v7,vb,vg,vk,vl,vp,vq,vt,vv,vy,vz,w2,w4,w7,w9,wb,we,wg,wj,wk,wo,wp,wt,wy,x2,x3,x7,x8,xb,xd,xg,xi,xk,xn,xp,xs,xt,xx,xy,y2,y7,yb,yc,yg,yh,yk,ym,yp,yq,yt,yv,yy,z0,z2,za,zc,zk,zm,zu,zw,104,106,10e,10g,10o,10q,10y,110,118,119,11h,11j,11r,11t,121,124,12b,12f,12l,12q,12v,131,135,13c,13f,13n,13p,13y,13z,148,149,14i,14k"
+     ],
+     [
+      [
+       2
+      ],
+      "u,14,8o,96,9o,a0,ac,ap,b1,be,bq,c2,cf,cr,d3,dg,ds,e5,eh,et,f6,fc,fi,fr,fv,g0,g9,gh,gm,gq,gz,h8,hc,hh,hp,hy,i2,i7,ig,ip,it,ix,j6,jf,jj,jo,jx,k5,ka,ke,kn,kw,l0,l5,ld,lm,lq,lv,m4,md,mh,ml,mu,n3,n7,nc,nl,nt,ny,o2,ob,ok,oo,ot,p1,pa,pe,pj,ps,q1,q5,q9,qi,qr,qv,r0,r9,rh,rm,rq,rz,s8,sc,sh,sp,sy,t2,t7,tg,tp,tt,tx,u6,uf,uj,uo,ux,v5,va,ve,vn,vw,w0,w5,wd,wm,wq,wv,x4,xd,xh,xl,xu,y3,y7,yc,yl,yt,z2,zb,zi,zo,101,10d,10p,112,11e,11q,123,12f,12s,134,13g,13t,145,14h"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7v,7w,84,85,88,8b,8f,8g,8j,8m,8r,8t,91,92,9a,9b,9j,9l,9t,9u"
+     ],
+     [
+      [
+       1
+      ],
+      "7v,7w,86,8h,a5,aq,b4,bf"
+     ],
+     [
+      [
+       2
+      ],
+      "7w,85,86,8h"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "o,w,17,1i,1q,2e,3n,hc,hx,zr,105,10g,10u,113,11o,12q,137,13l,13m,140,148,14h"
+     ],
+     [
+      [
+       1
+      ],
+      "p,1q,2f,3m,yl,z6,zr,105"
+     ],
+     [
+      [
+       2
+      ],
+      "y,19,1i,13i,140"
+     ]
+    ]
+   }
+  },
+  "autobus-t1-sansovino-02": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "p,15,1m,20,2j,33,7y,89,8p,8y,99,9h,9p,9x,a3,a8,ad,aj,ao,at,ay,b4,b9,be,bk,bp,bu,bz,c5,ca,cf,ck,cq,cv,d0,d5,db,dg,dl,dr,dw,e1,e6,ec,eh,en,es,ey,f3,f9,fe,fk,fq,fv,g1,g7,gd,gj,gp,gv,h1,h6,hc,hi,ho,hu,i0,i6,ic,ii,in,it,iz,j5,jb,jh,jn,jt,jy,k4,ka,kg,km,ks,ky,l4,la,lf,ll,lr,lx,m3,m9,mf,ml,mr,mw,n2,n8,ne,nk,nq,nw,o1,o7,od,oj,op,ov,p1,p7,pc,ph,pn,ps,px,q2,q8,qd,qi,qn,qt,qy,r3,r8,re,rj,ro,ru,rz,s4,s9,sf,sk,sp,su,t0,t5,ta,tf,tl,tq,tv,u1,u6,ub,ug,um,ur,uw,v1,v7,vc,vh,vm,vs,vx,w2,w8,wd,wi,wn,wt,wy,x3,x8,xe,xj,xo,xt,y5,yg,yr,z2,zd,zo,zz,10a,10m,10x,118,11j,11u,125,12g,12r,132,13e,13t,149"
+     ],
+     [
+      [
+       0
+      ],
+      "j,p,v,18,1q,2g,33,7y,88,8h,8p,90,99,9j,9p,9t,9u,9x,9y,a2,a3,a6,a7,aa,ab,af,aj,ak,an,ao,as,aw,ax,b0,b1,b4,b5,b9,bd,be,bh,bi,bm,bq,br,bu,bv,bz,c3,c4,c7,c8,cc,cg,ck,cl,co,cp,ct,cx,cy,d1,d2,d6,da,db,de,df,dj,dn,dr,ds,dv,dw,e0,e4,e5,e8,e9,ed,eh,ei,em,eq,er,eu,ew,ez,f1,f4,f6,f9,fb,fe,fg,fj,fl,fn,fp,fs,fu,fx,fz,g2,g4,g7,g9,gc,ge,gh,gj,gm,go,gr,gt,gw,gy,h1,h3,h6,h8,hb,hd,hg,hi,hl,hn,hq,hs,hv,hx,i0,i2,i5,i7,ia,ic,ie,ig,ij,il,io,iq,it,iv,iy,j0,j3,j5,j8,ja,jd,jf,ji,jk,jn,jp,js,ju,jx,jz,k2,k4,k7,k9,kc,ke,kh,kj,km,ko,kr,kt,kw,ky,l1,l3,l5,l7,la,lc,lf,lh,lk,lm,lp,lr,lu,lw,lz,m1,m4,m6,m9,mb,me,mg,mj,ml,mo,mq,mt,mv,my,n0,n3,n5,n8,na,nd,nf,ni,nk,nn,np,ns,nu,nw,ny,o1,o3,o6,o8,ob,od,og,oi,ol,on,oq,os,ov,ox,p0,p2,p5,p7,pa,pc,pf,ph,pk,pm,pp,pr,pu,pw,pz,q1,q4,q6,q9,qb,qe,qg,qj,ql,qn,qp,qs,qu,qx,qz,r2,r4,r7,r9,rb,re,rg,rj,rk,ro,rp,rt,ry,s2,s3,s7,s8,sb,sd,sg,si,sk,sn,sp,ss,st,sx,sy,t2,t7,tb,tc,tg,tk,tl,tp,tq,tt,tv,ty,u0,u2,u5,u7,ua,ub,uf,ug,uk,up,ut,uu,uy,uz,v2,v4,v7,v9,vb,ve,vg,vj,vk,vo,vp,vt,vy,w2,w3,w7,wb,wc,wg,wh,wk,wm,wp,wr,wt,ww,wy,x1,x2,x6,x7,xb,xl,xv,y5,yf,yp,yy,yz,z8,z9,zi,zj,zs,102,10c,10d,10m,10o,10w,10z,116,11a,11g,11l,11p,11w,11z,127,129,12i,12j,12t,135,13e,13i,13u,145,147"
+     ],
+     [
+      [
+       2
+      ],
+      "p,7y,8b,8p,90,99,9o,a1,ad,aq,b2,be,br,c3,cf,cs,d4,dh,dt,e0,e6,ed,ej,eq,ex,f3,fa,fg,fn,fu,g0,g7,gd,gk,gr,gx,h4,ha,hh,ho,hu,i1,i7,ie,il,ir,iy,j4,jb,ji,jo,jv,k1,k8,kf,kl,ks,ky,l5,lc,li,lp,lv,m2,m9,mf,mm,ms,mz,n6,nc,nj,np,nw,o3,o9,og,om,ot,p0,p6,pd,pj,pq,px,q3,qa,qg,qn,qu,r0,r7,rd,rk,rr,rx,s4,sa,sh,so,su,t1,t7,te,tl,tr,ty,u4,ub,ui,uo,uv,v1,v8,vf,vl,vs,vy,w5,wc,wi,wp,wv,x2,x9,xf,xm,xs,xz,yb,yo,z0,zd,zp,101,10e,10q,112,11f,11r,124,12g,12s,135,13i,143"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "t,14,1j,1z,2f,2v,38,3k,8n,96,9p,a0,ab,am,ax,b8,bj,bo,bt,by,c4,c9,ce,cj,cp,cu,cz,d4,da,df,dk,dq,dv,e0,e5,eb,eg,el,eq,ew,f1,f6,fb,fh,fm,fr,fx,g2,g8,gd,gj,go,gu,gz,h5,ha,hg,hm,hs,hy,i4,i9,if,il,ir,ix,j3,j9,jf,jl,jq,jw,k2,k8,ke,kk,kq,kw,l1,l7,ld,lj,lp,lv,m1,m7,md,mi,mo,mu,n0,n6,nc,ni,no,nt,nz,o5,ob,oh,on,ot,oz,p5,pa,pg,pm,ps,py,q4,qa,qg,qm,qr,qx,r3,r8,rd,ri,ro,rt,ry,s3,s9,se,sj,so,su,sz,t4,ta,tf,tk,tp,tv,u0,u5,ua,ug,ul,uq,uv,v1,v6,vb,vh,vm,vr,vw,w2,w7,wc,wh,wn,ws,wx,x2,x8,xd,xi,xo,xt,xy,y3,y9,ye,yj,yo,yu,yz,z4,z9,zf,zk,zv,106,10h,10s,114,11f,11q,121,12c,12n,12y,139,13l,13w,147,14i"
+     ],
+     [
+      [
+       0
+      ],
+      "u,13,16,1i,1v,27,2k,31,3k,8n,95,9o,9y,a7,ah,aq,b0,b9,bd,bf,bh,bk,bm,bo,bq,bs,bu,bx,bz,c1,c3,c5,c7,ca,cc,ce,cg,ci,ck,cm,co,cr,ct,cv,cx,cz,d1,d4,d6,d8,da,dc,de,dh,dj,dl,dn,dp,dr,dt,dv,dy,e0,e2,e4,e6,e8,eb,ed,ef,eh,ej,el,eo,eq,es,eu,ew,ey,f0,f2,f5,f7,f9,fb,fd,ff,fi,fk,fm,fo,fq,fs,fv,fx,fz,g1,g3,g5,g7,ga,gc,gf,gg,gk,gp,gu,gz,h3,h4,h8,h9,hd,he,hi,hj,hn,ho,hs,ht,hx,hy,i2,i7,ic,ih,im,ir,iw,j1,j6,jb,jg,jl,jq,ju,jv,jz,k0,k4,k5,k9,ka,ke,kf,kj,kk,ko,kp,kt,ky,l3,l8,ld,li,ln,ls,lx,m2,m7,mc,mh,ml,mm,mq,mr,mv,mw,n0,n1,n5,n6,na,nb,nf,ng,nk,np,nu,nz,o4,o9,oe,oj,oo,ot,oy,p3,p8,pc,pd,ph,pi,pm,pn,pr,ps,pw,px,q1,q2,q6,q7,qb,qg,ql,qq,qv,r0,r5,ra,rf,rk,rp,ru,rz,s3,s4,s8,s9,sd,se,si,sj,sn,so,ss,st,sx,sy,t1,t2,t6,t7,ta,tc,tf,th,tj,tm,to,tr,ts,tw,tx,u1,u6,ua,ub,uf,ug,uj,ul,uo,uq,us,uv,ux,v0,v1,v5,v6,va,vf,vj,vk,vo,vp,vs,vt,vx,vy,w1,w3,w6,w8,wa,wd,wf,wi,wj,wn,wo,ws,wx,x1,x2,x6,x7,xa,xc,xf,xh,xj,xm,xo,xr,xs,xw,xx,y1,y6,ya,yb,yf,yg,yj,yk,yo,yp,ys,yu,yx,yz,z1,z9,zb,zj,zl,zt,zv,103,105,10d,10f,10n,10p,10x,10z,117,118,11g,11i,11q,11s,120,123,12a,12e,12k,12p,12u,130,134,13b,13e,13m,13o,13x,13y,147,148,14h,14j"
+     ],
+     [
+      [
+       2
+      ],
+      "t,13,8n,95,9n,9z,ab,ao,b0,bc,bp,c1,ce,cq,d2,df,dr,e4,eg,es,f5,fb,fh,fq,fu,fz,g7,gg,gl,gp,gy,h7,hb,hf,ho,hx,i1,i6,if,in,is,iw,j5,je,ji,jn,jv,k4,k9,kd,km,kv,kz,l3,lc,ll,lp,lu,m3,mb,mg,mk,mt,n2,n6,nb,nj,ns,nx,o1,oa,oj,on,or,p0,p9,pd,pi,pr,pz,q4,q8,qh,qq,qu,qz,r7,rg,rl,rp,ry,s7,sb,sf,so,sx,t1,t6,tf,tn,ts,tw,u5,ue,ui,un,uv,v4,v9,vd,vm,vv,vz,w3,wc,wl,wp,wu,x3,xb,xg,xk,xt,y2,y6,yb,yj,ys,z1,za,zg,zn,zz,10c,10o,111,11d,11p,122,12e,12r,133,13f,13s,144,14g"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7w,7x,84,86,89,8c,8f,8h,8k,8n,8s,8u,92,93,9b,9c,9k,9l,9u,9v"
+     ],
+     [
+      [
+       1
+      ],
+      "7w,7x,87,8i,a6,ar,b5,bg"
+     ],
+     [
+      [
+       2
+      ],
+      "7w,7x,85,87,8i"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "n,v,16,1h,1p,2d,3l,hb,hw,zq,104,10f,10t,112,11n,12p,136,13k,13l,13z,147,14g"
+     ],
+     [
+      [
+       1
+      ],
+      "o,1p,2e,3l,yk,z5,zq,104"
+     ],
+     [
+      [
+       2
+      ],
+      "w,18,1h,13h,13z"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9022_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "q,16,1m,21,2k,34,7z,8a,8q,8z,9a,9i,9q,9y,a4,a9,ae,ak,ap,au,az,b5,ba,bf,bk,bq,bv,c0,c6,cb,cg,cl,cr,cw,d1,d6,dc,dh,dm,dr,dx,e2,e7,ed,ei,eo,et,ez,f4,fa,ff,fl,fq,fw,g2,g8,ge,gk,gq,gw,h2,h7,hd,hj,hp,hv,i1,i7,id,ii,io,iu,j0,j6,jc,ji,jo,ju,jz,k5,kb,kh,kn,kt,kz,l5,la,lg,lm,ls,ly,m4,ma,mg,mm,mr,mx,n3,n9,nf,nl,nr,nx,o2,o8,oe,ok,oq,ow,p2,p8,pd,pi,po,pt,py,q3,q9,qe,qj,qo,qu,qz,r4,r9,rf,rk,rp,ru,s0,s5,sa,sg,sl,sq,sv,t1,t6,tb,tg,tm,tr,tw,u1,u7,uc,uh,un,us,ux,v2,v8,vd,vi,vn,vt,vy,w3,w8,we,wj,wo,wu,wz,x4,x9,xf,xk,xp,xu,y6,yh,ys,z3,ze,zp,100,10b,10m,10y,119,11k,11v,126,12h,12s,133,13f,13u,14a"
+     ],
+     [
+      [
+       0
+      ],
+      "k,q,w,19,1r,2h,34,7z,89,8i,8q,91,9a,9k,9q,9u,9v,9y,9z,a3,a7,a8,ab,ac,ag,ak,al,ao,ap,as,at,ax,b1,b2,b5,b6,ba,be,bf,bi,bj,bn,br,bs,bv,bw,c0,c4,c5,c8,c9,cc,cd,ch,cl,cm,cp,cq,cu,cy,cz,d2,d3,d7,db,df,dg,dj,dk,do,ds,dt,dw,dx,e1,e5,e6,e9,ea,ee,ei,en,er,es,ev,ex,f0,f2,f5,f7,fa,fc,ff,fg,fj,fl,fo,fq,ft,fv,fy,g0,g3,g5,g8,ga,gd,gf,gi,gk,gn,gp,gs,gu,gx,gz,h2,h4,h7,h9,hc,he,hh,hj,hm,ho,hr,ht,hw,hy,i1,i3,i6,i7,ia,ic,if,ih,ik,im,ip,ir,iu,iw,iz,j1,j4,j6,j9,jb,je,jg,jj,jl,jo,jq,jt,jv,jy,k0,k3,k5,k8,ka,kd,kf,ki,kk,kn,kp,ks,ku,kx,ky,l1,l3,l6,l8,lb,ld,lg,li,ll,ln,lq,ls,lv,lx,m0,m2,m5,m7,ma,mc,mf,mh,mk,mm,mp,mr,mu,mw,mz,n1,n4,n6,n9,nb,ne,ng,nj,nl,no,np,ns,nu,nx,nz,o2,o4,o7,o9,oc,oe,oh,oj,om,oo,or,ot,ow,oy,p1,p3,p6,p8,pb,pd,pg,pi,pl,pn,pq,ps,pv,px,q0,q2,q5,q7,qa,qc,qf,qg,qj,ql,qo,qq,qt,qv,qy,r0,r3,r5,r8,ra,rc,rf,rh,rk,rl,rp,rq,ru,rz,s3,s4,s8,s9,sc,se,sh,sj,sl,so,sq,st,su,sy,sz,t3,t7,t8,tc,th,tl,tm,tq,tr,tu,tw,tz,u1,u3,u6,u8,ub,uc,ug,uh,ul,uq,uu,uv,uz,v0,v3,v5,v8,va,vc,vf,vh,vk,vl,vp,vq,vu,vy,vz,w3,w8,wc,wd,wh,wi,wl,wn,wq,ws,wu,wx,wz,x2,x3,x7,x8,xc,xm,xw,y6,yg,yp,yq,yz,z0,z9,za,zj,zt,103,10d,10e,10n,10p,10x,110,117,11b,11g,11m,11q,11x,120,128,12a,12j,12k,12u,136,13f,13j,13v,145,148"
+     ],
+     [
+      [
+       2
+      ],
+      "q,7z,8c,8q,91,9a,9p,a2,ae,aq,b3,bf,bs,c4,cg,ct,d5,di,du,e1,e7,ee,ek,er,ey,f4,fb,fh,fo,fv,g1,g8,ge,gl,gs,gy,h5,hb,hi,hp,hv,i2,i8,if,im,is,iz,j5,jc,jj,jp,jw,k2,k9,kg,km,kt,kz,l6,ld,lj,lq,lw,m3,ma,mg,mn,mt,n0,n7,nd,nk,nq,nx,o4,oa,oh,on,ou,p1,p7,pe,pk,pr,py,q4,qb,qh,qo,qv,r1,r8,re,rl,rs,ry,s5,sb,si,sp,sv,t2,t8,tf,tm,ts,tz,u5,uc,uj,up,uw,v2,v9,vg,vm,vt,vz,w6,wd,wj,wq,ww,x3,xa,xg,xn,xt,y0,yc,yp,z1,zd,zq,102,10f,10r,113,11g,11s,125,12h,12t,136,13j,144"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7x,7y,85,87,8a,8d,8g,8i,8l,8o,8t,8v,92,94,9c,9d,9l,9m,9v,9w"
+     ],
+     [
+      [
+       1
+      ],
+      "7x,7y,88,8j,a7,as,b6,bh"
+     ],
+     [
+      [
+       2
+      ],
+      "7x,7y,86,88,8j"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9024_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "s,18,1o,22,2l,35,81,8b,8r,90,9b,9j,9r,9z,a5,aa,ag,al,aq,aw,b1,b6,bb,bh,bm,br,bw,c2,c7,cc,ch,cn,cs,cx,d2,d8,dd,di,do,dt,dy,e3,e9,ee,ej,ep,ev,f0,f6,fb,fh,fm,fs,fy,g4,g9,gf,gl,gr,gx,h3,h9,hf,hl,hq,hw,i2,i8,ie,ik,iq,iw,j1,j7,jd,jj,jp,jv,k1,k7,kd,ki,ko,ku,l0,l6,lc,li,lo,lt,lz,m5,mb,mh,mn,mt,mz,n5,na,ng,nm,ns,ny,o4,oa,og,om,or,ox,p3,p9,pe,pk,pp,pu,pz,q5,qa,qf,qk,qq,qv,r0,r6,rb,rg,rl,rr,rw,s1,s6,sc,sh,sm,sr,sx,t2,t7,td,ti,tn,ts,ty,u3,u8,ud,uj,uo,ut,uy,v4,v9,ve,vk,vp,vu,vz,w5,wa,wf,wk,wq,wv,x0,x5,xb,xg,xl,xr,xw,y7,yi,yt,z4,zf,zq,102,10d,10o,10z,11a,11l,11w,127,12j,12u,135,13g,13w,14c"
+     ],
+     [
+      [
+       0
+      ],
+      "l,r,y,1a,1s,2i,35,81,8a,8j,8r,92,9b,9l,9r,9v,9w,a0,a4,a5,a8,a9,ad,ah,ai,al,am,aq,au,av,ay,az,b2,b3,b7,bb,bc,bf,bg,bk,bo,bp,bs,bt,bx,c1,c2,c5,c6,c9,ca,ce,ci,cj,cm,cn,cr,cv,cw,cz,d0,d4,d8,d9,dc,dd,dg,dh,dl,dp,dq,dt,du,dy,e2,e3,e6,e7,eb,ef,eg,ej,ek,eo,es,et,ex,ey,f1,f3,f6,f8,fb,fd,fg,fi,fl,fn,fq,fs,fv,fx,g0,g2,g5,g7,ga,gc,gf,gg,gj,gl,go,gq,gt,gv,gy,h0,h3,h5,h8,ha,hd,hf,hi,hk,hn,hp,hs,hu,hx,hz,i2,i4,i7,i9,ic,ie,ih,ij,im,io,ir,it,iw,iy,j1,j3,j6,j7,ja,jc,jf,jh,jk,jm,jp,jr,ju,jw,jz,k1,k4,k6,k9,kb,ke,kg,kj,kl,ko,kq,kt,kv,ky,l0,l3,l5,l8,la,ld,lf,li,lk,ln,lp,ls,lu,lx,ly,m1,m3,m6,m8,mb,md,mg,mi,ml,mn,mq,ms,mv,mx,n0,n2,n5,n7,na,nc,nf,nh,nk,nm,np,nr,nu,nw,nz,o1,o4,o6,o9,ob,oe,og,oj,ol,oo,op,os,ou,ox,oz,p2,p4,p7,p9,pc,pe,ph,pj,pm,po,pr,pt,pw,py,q1,q3,q6,q8,qb,qd,qg,qi,ql,qn,qq,qs,qv,qx,r0,r2,r5,r7,r9,rc,re,rg,ri,rl,rn,rq,rr,rv,rw,s0,s5,s9,sa,se,sf,si,sk,sn,sp,sr,su,sw,sz,t0,t4,t5,t9,te,ti,tj,tn,to,tr,tt,tw,ty,u0,u3,u5,u7,u9,uc,ue,uh,ui,um,un,ur,uw,v0,v1,v5,v6,v9,vb,ve,vg,vi,vl,vn,vq,vr,vv,vw,w0,w5,w9,wa,we,wf,wi,wk,wn,wp,wr,wu,ww,wy,x0,x3,x5,x8,x9,xd,xe,xn,xo,xx,y7,yh,yr,z1,zb,zl,zu,zv,104,105,10e,10g,10o,10r,10y,112,118,11d,11i,11o,11s,11z,122,12a,12c,12l,12v,12w,138,13h,13k,13w,147,149"
+     ],
+     [
+      [
+       2
+      ],
+      "r,81,8d,8r,92,9b,9r,a3,af,as,b4,bh,bt,c5,ci,cu,d7,dj,dv,e2,e8,ef,em,es,ez,f5,fc,fj,fp,fw,g2,g9,gg,gm,gt,gz,h6,hd,hj,hq,hw,i3,ia,ig,in,iu,j0,j7,jd,jk,jq,jx,k4,ka,kh,kn,ku,l1,l7,le,lk,lr,ly,m4,mb,mh,mo,mv,n1,n8,ne,nl,ns,ny,o5,ob,oi,op,ov,p2,p8,pf,pm,ps,pz,q5,qc,qj,qp,qw,r3,r9,rg,rm,rt,rz,s6,sd,sj,sq,sw,t3,ta,tg,tn,tt,u0,u7,ud,uk,uq,ux,v4,va,vh,vn,vu,w1,w7,we,wk,wr,wy,x4,xb,xh,xo,xv,y1,ye,yq,z2,zf,zr,104,10g,10s,115,11h,11u,126,12i,12v,137,13k,145"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7y,80,87,88,8c,8e,8i,8j,8m,8p,8u,8w,94,95,9d,9e,9n,9o,9w,9x"
+     ],
+     [
+      [
+       1
+      ],
+      "7y,80,89,8k,a8,au,b7,bi"
+     ],
+     [
+      [
+       2
+      ],
+      "7z,80,88,89,8l"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9028_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "10,1g,1w,2b,2u,3e,89,8j,90,98,9j,9r,9z,a7,ae,aj,ao,at,az,b4,b9,be,bk,bp,bu,c0,c5,ca,cf,cl,cq,cv,d0,d6,db,dg,dl,dr,dw,e1,e6,ec,eh,em,es,ex,f3,f8,fe,fk,fp,fv,g0,g6,gc,gi,go,gu,h0,h5,hb,hh,hn,ht,hz,i5,ib,ig,im,is,iy,j4,ja,jg,jm,js,jx,k3,k9,kf,kl,kr,kx,l3,l8,le,lk,lq,lw,m2,m8,me,mk,mp,mv,n1,n7,nd,nj,np,nv,o0,o6,oc,oi,oo,ou,p0,p6,pc,ph,pn,ps,px,q3,q8,qd,qi,qo,qt,qy,r3,r9,re,rj,ro,ru,rz,s4,sa,sf,sk,sp,sv,t0,t5,ta,tg,tl,tq,tv,u1,u6,ub,uh,um,ur,uw,v2,v7,vc,vh,vn,vs,vx,w2,w8,wd,wi,wo,wt,wy,x3,x9,xe,xj,xo,xu,xz,y4,yf,yq,z2,zd,zo,zz,10a,10l,10w,117,11i,11u,125,12g,12r,132,13d,13o,144,14k"
+     ],
+     [
+      [
+       0
+      ],
+      "u,10,16,1i,21,2r,3e,89,8i,8s,90,9b,9j,9u,a0,a4,a5,a8,a9,ad,ah,al,am,ap,aq,au,ay,az,b2,b3,b7,bb,bc,bf,bg,bj,bk,bo,bs,bt,bw,bx,c1,c5,c6,c9,ca,ce,ci,cj,cm,cn,cq,cr,cv,cz,d0,d3,d4,d8,dc,dd,dg,dh,dl,dp,dq,dt,du,dx,dy,e2,e6,e7,ea,eb,ef,ej,ek,en,eo,es,ex,f1,f5,f6,f9,fb,fe,fg,fj,fl,fo,fq,ft,fv,fy,g0,g3,g5,g8,ga,gd,gf,gi,gk,gn,gp,gs,gu,gx,gz,h2,h4,h7,h9,hc,he,hh,hj,hm,ho,hr,hs,hv,hx,i0,i2,i5,i7,ia,ic,if,ih,ik,im,ip,ir,iu,iw,iz,j1,j4,j6,j9,jb,je,jg,jj,jl,jo,jq,jt,jv,jy,k0,k3,k5,k8,ka,kd,kf,ki,kj,km,ko,kr,kt,kw,ky,l1,l3,l6,l8,lb,ld,lg,li,ll,ln,lq,ls,lv,lx,m0,m2,m5,m7,ma,mc,mf,mh,mk,mm,mp,mr,mu,mw,mz,n1,n4,n6,n9,na,nd,nf,ni,nk,nn,np,ns,nu,nx,nz,o2,o4,o7,o9,oc,oe,oh,oj,om,oo,or,ot,ow,oy,p1,p3,p6,p8,pb,pd,pg,pi,pl,pn,pq,ps,pv,px,q0,q1,q4,q6,q9,qb,qe,qg,qj,ql,qo,qq,qt,qv,qy,r0,r3,r5,r8,ra,rd,rf,ri,rk,rm,rp,rr,ru,rv,rz,s0,s4,s8,s9,sd,se,si,sj,sm,so,sr,ss,sv,sx,t0,t2,t4,t7,t9,tc,td,th,ti,tm,tr,tv,tw,u0,u1,u4,u6,u9,ub,ud,ug,ui,ul,um,uq,ur,uv,v0,v4,v5,v9,va,vd,vf,vi,vj,vm,vo,vr,vt,vv,vy,w0,w3,w4,w8,w9,wd,wi,wm,wn,wr,ws,wv,wx,x0,x2,x4,x7,x9,xc,xd,xh,xi,xm,xw,y6,yf,yg,yp,yq,yz,z0,z9,zj,zt,103,10d,10n,10o,10x,10z,116,11a,11g,11l,11q,11w,120,127,12a,12i,12k,12t,12u,134,13g,13p,13t,145,14f,14h"
+     ],
+     [
+      [
+       2
+      ],
+      "10,89,8m,90,9a,9j,9z,ab,ao,b0,bd,bp,c1,ce,cq,d3,df,dr,e4,ea,eh,eu,f1,f7,fk,fr,fy,gb,gh,go,h1,h8,he,hs,hy,i5,ii,ip,iv,j8,jf,jm,jz,k5,kc,kp,kw,l2,lg,lm,lt,m6,md,mj,mw,n3,na,nn,nt,o0,od,ok,oq,p4,pa,ph,pu,q1,q7,qk,qr,qy,rb,rh,ro,s1,s8,se,ss,sy,t5,ti,tp,tv,u8,uf,um,uz,v5,vc,vp,vw,w2,wg,wm,wt,x6,xd,xj,xw,y3,ya,ym,yy,zb,zn,zz,10c,10o,111,11d,11q,122,12e,12r,133,13f,13s,14d"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "j,u,19,1p,25,2l,2y,3a,8d,8v,9e,9p,a0,ab,am,ax,b8,be,bj,bo,bt,bz,c4,c9,cf,ck,cp,cu,d0,d5,da,df,dl,dq,dv,e0,e6,eb,eg,em,er,ew,f1,f7,fc,fh,fm,fs,fx,g3,g9,ge,gk,gp,gv,h0,h6,hc,hi,ho,ht,hz,i5,ib,ih,in,it,iz,j4,ja,jg,jm,js,jy,k4,ka,kg,kl,kr,kx,l3,l9,lf,ll,lr,lw,m2,m8,me,mk,mq,mw,n2,n8,nd,nj,np,nv,o1,o7,od,oj,op,ou,p0,p6,pc,pi,po,pu,q0,q5,qb,qh,qn,qs,qy,r3,r8,rd,rj,ro,rt,rz,s4,s9,se,sk,sp,su,sz,t5,ta,tf,tk,tq,tv,u0,u6,ub,ug,ul,ur,uw,v1,v6,vc,vh,vm,vr,vx,w2,w7,wd,wi,wn,ws,wy,x3,x8,xd,xj,xo,xt,xy,y4,y9,ye,yk,yp,yu,yz,z5,za,zl,zw,107,10i,10t,115,11g,11r,122,12d,12o,12z,13a,13l,13x,148"
+     ],
+     [
+      [
+       0
+      ],
+      "k,t,w,18,1l,1x,29,2q,3a,8d,8v,9e,9n,9x,a6,ag,ap,az,b3,b5,b7,ba,bc,be,bg,bi,bk,bm,bo,br,bt,bv,bx,bz,c1,c4,c6,c8,ca,cc,ce,ch,cj,cl,cn,cp,cr,ct,cv,cy,d0,d2,d4,d6,d8,db,dd,df,dh,dj,dl,do,dq,ds,du,dw,dy,e0,e2,e5,e7,e9,eb,ed,ef,ei,ek,em,eo,eq,es,ev,ex,ez,f1,f3,f5,f7,f9,fc,fe,fg,fi,fk,fm,fp,fr,ft,fv,fx,g0,g2,g5,g6,ga,ge,gf,gj,gk,go,gp,gt,gu,gy,gz,h3,h4,h8,hd,hi,hn,hs,hx,i2,i7,ic,ih,im,ir,iw,j1,j5,j6,ja,jb,jf,jg,jk,jl,jp,jq,ju,jv,jz,k4,k9,ke,kj,ko,kt,ky,l3,l8,ld,li,ln,ls,lw,lx,m1,m2,m6,m7,mb,mc,mg,mh,ml,mm,mq,mv,n0,n5,na,nf,nk,np,nu,nz,o4,o9,oe,oj,on,oo,os,ot,ox,oy,p2,p3,p7,p8,pc,pd,ph,pm,pr,pw,q1,q6,qb,qg,ql,qq,qv,r0,r5,ra,re,rf,rj,rk,ro,rp,rt,ru,ry,rz,s3,s4,s8,sd,si,sn,sr,ss,sw,sx,t0,t2,t5,t7,t9,tc,te,th,ti,tm,tn,tr,tw,u0,u1,u5,u6,u9,ub,ue,ug,ui,ul,un,uq,ur,uv,uw,uz,v0,v4,v5,v9,ve,vi,vj,vn,vo,vr,vt,vw,vy,w0,w3,w5,w8,w9,wd,we,wi,wn,wr,ws,ww,wx,x0,x2,x5,x7,x9,xc,xe,xh,xi,xm,xn,xq,xr,xv,xw,y0,y5,y9,ya,ye,yf,yi,yk,yn,yp,yr,yz,z1,z9,zb,zj,zl,zt,zv,103,105,10d,10e,10m,10o,10w,10y,116,118,11g,11i,11q,11t,120,124,12a,12f,12k,12q,12u,131,134,13c,13d,13n,13x,13y,147,149"
+     ],
+     [
+      [
+       2
+      ],
+      "j,t,8d,8u,9c,9p,a1,ae,aq,b2,bf,br,c3,cg,cs,d5,dh,dt,e6,ei,ev,f7,fg,fo,fx,g6,gf,go,gw,h5,he,hn,hw,i4,id,im,iv,j4,jc,jl,ju,k3,kc,kk,kt,l2,lb,lk,ls,m1,ma,mj,ms,n0,n9,ni,nr,o0,o8,oh,oq,oz,p8,pg,pp,py,q7,qg,qo,qx,r6,rf,ro,rw,s5,se,sn,sw,t4,td,tm,tv,u4,uc,ul,uu,v3,vc,vk,vt,w2,wb,wk,ws,x1,xa,xj,xs,y0,y9,yi,yr,z0,z6,zd,zp,102,10e,10q,113,11f,11s,124,12g,12t,135,13h,13u,146"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "g,m,v,15,1r,2e,2y,3d,87,8f,8h,8k,8n,8q,8s,8v,8x,8y,93,95,97,9c,9e,9g,9l,9m,9n,9q,9u,9v,9w,9z,a3,a4,a5,a8,ad,ah,am,aq,av,az,b4,b9,bd,bi,bm,br,bw,c0,c5,c9,ce,ci,cn,cs,cw,d1,d5,da,df,dj,do,ds,dx,e1,e6,eb,ef,ek,eo,et,ey,f2,f7,fb,fc,fh,fm,fs,fx,g2,g3,g7,g8,gd,ge,gi,gj,go,gp,gt,gv,gz,h0,h5,h6,ha,hb,hg,hh,hl,hm,hr,hs,hw,hy,i2,i3,i8,i9,id,ie,ij,ik,io,ip,iu,iv,iz,j1,j5,j6,ja,jc,jg,jh,jm,jn,jr,js,jx,jy,k2,k4,k8,k9,kd,kf,kj,kk,kp,kq,ku,kv,l0,l1,l5,l6,lb,lc,lg,li,lm,ln,ls,lt,lx,ly,m3,m4,m8,m9,me,mf,mj,ml,mp,mq,mv,mw,n0,n1,n6,n7,nb,nc,nh,ni,nm,no,ns,nt,nx,nz,o3,o4,o9,oa,oe,of,ok,ol,op,or,ov,ow,p0,p2,p6,p7,pc,pd,ph,pi,pn,po,ps,pt,py,pz,q3,q5,q9,qa,qf,qg,qj,ql,qo,qr,qt,qw,qy,r2,r3,r8,rd,ri,rj,rm,ro,rr,ru,rw,rz,s1,s4,s6,s9,sb,sd,sg,si,sl,sn,sq,ss,su,sx,sz,t2,t4,t7,t9,tc,te,tg,tj,tl,to,tq,tt,tv,ty,u0,u2,u5,u7,ua,uc,uf,uh,uk,um,uo,ur,ut,uw,uy,v1,v3,v5,v8,va,vd,vf,vi,vk,vn,vp,vr,vu,vw,vz,w1,w4,w6,w9,wb,wd,wg,wi,wl,wn,wq,ws,wv,wx,wz,x2,x4,x7,x9,xc,xe,xg,xj,xl,xo,xq,xt,xv,xy,y0,y2,y5,y7,yb,yd,yh,yj,yn,yp,yt,yv,yz,z1,z7,zd,ze,zl,zm,zt,zu,101,102,109,10a,10g,10h,10o,10p,10w,10x,114,115,11c,11d,11j,11k,11r,11s,11z,120,127,12b,12f,12m,12s,12w,135,137,13i,13l,13v,141,148"
+     ],
+     [
+      [
+       1
+      ],
+      "c,s,1b,1t,2g,2y,3d,87,8h,8s,8x,98,9j,9s,a2,ad,ah,ao,az,b2,b6,be,bg,bl,br,bs,bz,c5,cb,ch,cn,ct,cz,d5,db,dh,dn,dt,dz,e5,eb,eh,en,et,ez,f5,fc,fi,fp,fv,g2,g8,gf,gl,gs,gy,h5,hb,hi,ho,hv,i1,i8,ie,il,ir,iy,j4,jb,jh,jo,ju,k1,k7,ke,kk,kr,kx,l4,la,lh,ln,lu,m0,m7,md,mk,mq,mx,n3,na,ng,nn,nt,o0,o6,od,oj,oq,ow,p3,p9,pg,pm,pt,pz,q6,qc,qj,qp,qv,r0,r6,rc,rh,rn,rs,ry,s3,s9,sf,sk,sq,sv,t1,t6,tc,ti,tn,tt,ty,u4,u9,uf,uk,uq,uw,v1,v7,vc,vi,vn,vt,vz,w4,wa,wf,wl,wq,ww,x2,x7,xd,xi,xp,xw,y8,yj,yu,z5,zg,zr,102,10e,10p,110,11b,11m,11x,129,12k,12v,136,13h,13x"
+     ],
+     [
+      [
+       2
+      ],
+      "g,v,87,8h,8t,8x,98,9j,9u,a5,ag,as,b3,be,bp,c0,cb,cm,cy,d9,dk,dv,e6,eh,es,f4,ff,fq,g1,gc,gn,gz,ha,hl,hw,i7,ii,it,j5,jg,jr,k2,kd,ko,kz,lb,lm,lx,m8,mf,mm,mt,n0,n7,nf,nm,nt,o0,o7,oe,ol,os,oz,p6,pd,pk,ps,pz,q6,qd,qk,qr,qy,r5,rc,rj,rq,rx,s5,sc,sj,sq,sx,t4,tb,ti,tp,tw,u3,ua,ui,up,uw,v3,va,vh,vo,vv,w2,w9,wg,wn,wv,x2,x9,xg,xn,xu,y1,y8,yf,ym,yw,z6,zg,zp,zz,109,10j,10s,112,11c,11m,11v,125,12f,12p,134,13l,142"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "d,l,w,17,19,1e,1o,23,26,2o,8x,96,9g,9q,a0,a8,a9,ad,ai,am,ar,av,b0,b5,b9,be,bi,bn,br,bs,bw,c1,c5,ca,ce,cj,co,cs,cx,d1,d6,da,db,df,dk,do,dt,dx,e2,e7,eb,eg,ek,el,eq,ev,f0,f1,f5,f6,fa,fb,fg,fl,fq,fr,fv,fw,g0,g1,g6,gb,gg,gh,gl,gm,gq,gr,gw,h1,h6,h7,hc,hh,hm,hn,hs,ht,hx,hy,i3,i4,i8,i9,ie,if,ik,ip,iq,iv,iw,j0,j1,j6,j7,jb,jc,jh,ji,jn,js,jt,jy,k3,k4,k9,ka,ke,kf,kk,kl,kq,kv,kw,l1,l6,l7,lc,ld,lh,li,ln,lo,lt,ly,lz,m4,m9,ma,mf,mg,mk,ml,mq,mr,mv,mw,n1,n2,n7,nc,nd,ni,nj,nn,no,nt,nu,ny,nz,o4,o5,oa,of,og,ol,oq,or,ow,ox,p1,p2,p7,p8,pd,pi,pj,po,pt,pu,px,q0,q2,q5,q7,qb,qc,qg,qh,qm,qr,qw,qx,r1,r3,r5,r7,ra,rc,rf,rh,rk,rm,rp,rr,ru,rw,rz,s1,s4,s6,s8,sa,sd,sf,si,sk,sn,sp,ss,su,sx,sz,t2,t4,t7,t9,tc,te,tg,ti,tl,tn,tq,ts,tv,tx,u0,u2,u5,u7,ua,uc,uf,uh,uj,um,uo,uq,ut,uv,uy,v0,v3,v5,v8,va,vd,vf,vi,vk,vn,vp,vr,vt,vw,vy,w1,w3,w6,w8,wb,wd,wg,wi,wl,wn,wq,ws,wu,wx,wz,x1,x4,x6,x9,xb,xe,xg,xk,xm,xq,xs,xw,xy,y2,y4,y8,ya,ye,yg,yk,ym,yq,ys,yw,yy,z2,z4,z8,za,ze,zg,zk,zm,zq,zs,zu,zw,zy,102,104,108,10a,10e,10g,10i,10m,10s,10u,110,111,118,119,11c,11f,11h,11n,11p,11v,11x,123,124,12b,12c,12e,12i,12k,12q,12s,12v,12y,130,136,137,13a,13b,13e,13f,13l,13o,13p,13t,13x,146,147,14j"
+     ],
+     [
+      [
+       1
+      ],
+      "e,q,12,1f,1s,24,28,2n,8x,9b,9o,9z,aa,al,aw,b7,bj,bt,c3,c9,cf,cl,cr,cx,d3,d9,df,dl,dr,dx,e3,e9,ef,em,es,ez,f5,fc,fi,fp,fv,g2,g8,gf,gl,gs,gy,h5,hb,hi,ho,hv,i1,i8,ie,il,ir,iy,j4,jb,jh,jo,ju,k1,k7,ke,kk,kr,kx,l4,la,lh,ln,lu,m0,m7,md,mk,mq,mx,n3,na,ng,nn,nt,o0,o6,od,oj,oq,ow,p3,p9,pg,pm,pt,pz,q5,qb,qg,qm,qr,qx,r2,r8,re,rj,rp,ru,s0,s5,sb,sh,sm,ss,sx,t3,t8,te,tj,tp,tv,u0,u6,ub,uh,um,us,uy,v3,v9,ve,vk,vp,vv,w1,w6,wc,wh,wn,ws,wz,x7,xe,xl,xs,xz,y6,ya,yd,yk,yr,yv,yy,z5,zc,zg,zo,zu,zz,10a,10l,10w,117,11j,11u,125,12g,12r,132,13d,13p,140,14d"
+     ],
+     [
+      [
+       2
+      ],
+      "m,17,8x,9e,9q,a1,ac,an,ay,b9,bk,bw,c7,ci,ct,d4,df,dr,e2,ed,eo,ez,fa,fl,fw,g8,gj,gu,h5,hg,hr,i3,ie,ip,j0,jb,jm,jy,k9,kk,kv,l6,lh,lo,lv,m3,ma,mh,mo,mv,n2,n9,ng,nn,nu,o1,o8,og,on,ou,p1,p8,pf,pm,pt,q0,q7,qe,ql,qt,r0,r7,re,rl,rs,rz,s6,sd,sk,sr,sy,t6,td,tk,tr,ty,u5,uc,uj,uq,ux,v4,vb,vj,vq,vx,w4,wb,wi,wp,ww,x3,xa,xh,xo,xw,y5,yf,yp,yz,z8,zi,zs,102,10b,10l,10v,115,11e,11o,11y,128,12h,12r,131,137,13b,13n,13p,13y,147,14j"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9031_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "16,1m,22,2h,30,3k,8f,8p,96,9f,9q,9x,a5,ad,ak,ap,au,b0,b5,ba,bf,bl,bq,bv,c0,c6,cb,cg,cm,cr,cw,d1,d7,dc,dh,dm,ds,dx,e2,e7,ed,ei,en,es,ey,f4,f9,ff,fk,fq,fv,g1,g6,gc,gi,go,gu,h0,h6,hc,hh,hn,ht,hz,i5,ib,ih,in,it,iy,j4,ja,jg,jm,js,jy,k4,ka,kf,kl,kr,kx,l3,l9,lf,ll,lq,lw,m2,m8,me,mk,mq,mw,n2,n7,nd,nj,np,nv,o1,o7,od,oi,oo,ou,p0,p6,pc,pi,po,pt,py,q4,q9,qe,qj,qp,qu,qz,r4,ra,rf,rk,rp,rv,s0,s5,sa,sg,sl,sq,sw,t1,t6,tb,th,tm,tr,tw,u2,u7,uc,uh,un,us,ux,v3,v8,vd,vi,vo,vt,vy,w3,w9,we,wj,wo,wu,wz,x4,xa,xf,xk,xp,xv,y0,y5,ya,ym,yx,z8,zj,zu,105,10g,10r,112,11e,11p,120,12b,12m,12x,138,13j,13u,14a,14q"
+     ],
+     [
+      [
+       0
+      ],
+      "10,16,1c,1p,27,2x,3k,8f,8o,8y,96,9h,9q,a0,a6,aa,ab,ae,af,aj,an,ao,ar,as,aw,b0,b1,b4,b5,b8,b9,bd,bh,bi,bl,bm,bq,bu,bv,by,bz,c3,c7,c8,cb,cc,cg,ck,cl,co,cp,cs,ct,cx,d1,d2,d5,d6,da,de,df,di,dj,dn,dr,dv,dw,dz,e0,e4,e8,e9,ec,ed,eh,el,em,ep,eq,eu,ey,f3,f7,f8,fb,fd,fg,fi,fl,fn,fq,fs,fu,fw,fz,g1,g4,g6,g9,gb,ge,gg,gj,gl,go,gq,gt,gv,gy,h0,h3,h5,h8,ha,hd,hf,hi,hk,hn,hp,hs,hu,hx,hz,i2,i4,i7,i9,ic,ie,ih,ij,il,in,iq,is,iv,ix,j0,j2,j5,j7,ja,jc,jf,jh,jk,jm,jp,jr,ju,jw,jz,k1,k4,k6,k9,kb,ke,kg,kj,kl,ko,kq,kt,kv,ky,l0,l3,l5,l8,la,lc,le,lh,lj,lm,lo,lr,lt,lw,ly,m1,m3,m6,m8,mb,md,mg,mi,ml,mn,mq,ms,mv,mx,n0,n2,n5,n7,na,nc,nf,nh,nk,nm,np,nr,nu,nw,nz,o1,o3,o5,o8,oa,od,of,oi,ok,on,op,os,ou,ox,oz,p2,p4,p7,p9,pc,pe,ph,pj,pm,po,pr,pt,pw,py,q1,q3,q6,q8,qb,qd,qg,qi,ql,qn,qq,qs,qu,qw,qz,r1,r4,r6,r9,rb,re,rg,rj,rl,ro,rq,rs,rv,rx,s0,s1,s5,s6,sa,sf,sj,sk,so,sp,ss,su,sx,sz,t1,t4,t6,t9,ta,te,tf,tj,tn,to,ts,tx,u1,u2,u6,u7,ua,uc,uf,uh,uj,um,uo,ur,us,uw,ux,v1,v6,va,vb,vf,vg,vj,vl,vo,vq,vs,vv,vx,w0,w1,w5,w6,wa,we,wf,wj,wo,ws,wt,wx,wy,x1,x3,x6,x8,xa,xd,xf,xi,xj,xn,xo,xs,y2,yc,ym,yw,z5,z6,zf,zg,zp,zq,zz,109,10j,10t,10u,113,115,11d,11g,11n,11r,11w,122,126,12d,12g,12o,12q,12z,130,13a,13m,13v,13z,14b,14l,14n"
+     ],
+     [
+      [
+       2
+      ],
+      "16,8f,8s,96,9h,9q,a5,ai,au,b6,bj,bv,c8,ck,cw,d9,dl,dy,ea,eh,en,f0,f7,fe,fr,fx,g4,gh,go,gu,h8,he,hl,hy,i5,ib,io,iv,j2,jf,jl,js,k5,kc,ki,kw,l2,l9,lm,lt,lz,mc,mj,mq,n3,n9,ng,nt,o0,o6,ok,oq,ox,pa,ph,pn,q0,q7,qe,qr,qx,r4,rh,ro,ru,s8,se,sl,sy,t5,tb,to,tv,u2,uf,ul,us,v5,vc,vi,vw,w2,w9,wm,wt,wz,xc,xj,xq,y3,y9,yg,ys,z5,zh,zt,106,10i,10v,117,11j,11w,128,12l,12x,139,13m,13z,14j"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9032_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "17,1n,24,2i,31,3l,8h,8r,97,9g,9r,9z,a7,af,al,aq,aw,b1,b6,bb,bh,bm,br,bx,c2,c7,cc,ci,cn,cs,cx,d3,d8,dd,di,do,dt,dy,e3,e9,ee,ej,ep,eu,ez,f5,fa,fg,fm,fr,fx,g2,g8,ge,gk,gp,gv,h1,h7,hd,hj,hp,hv,i0,i6,ic,ii,io,iu,j0,j6,jc,jh,jn,jt,jz,k5,kb,kh,kn,kt,ky,l4,la,lg,lm,ls,ly,m4,m9,mf,ml,mr,mx,n3,n9,nf,nl,nq,nw,o2,o8,oe,ok,oq,ow,p1,p7,pd,pj,pp,pu,q0,q5,qa,qf,ql,qq,qv,r0,r6,rb,rg,rl,rr,rw,s1,s7,sc,sh,sm,ss,sx,t2,t7,td,ti,tn,ts,ty,u3,u8,ue,uj,uo,ut,uz,v4,v9,ve,vk,vp,vu,vz,w5,wa,wf,wl,wq,wv,x0,x6,xb,xg,xl,xr,xw,y1,y6,yc,yn,yy,z9,zk,zv,106,10i,10t,114,11f,11q,121,12c,12n,12y,13a,13l,13w,14b,14r"
+     ],
+     [
+      [
+       0
+      ],
+      "11,17,1e,1q,28,2y,3l,8h,8q,8z,97,9i,9r,a1,a7,ab,ac,ag,ak,al,ao,ap,at,ax,ay,b1,b2,b6,ba,bb,be,bf,bi,bj,bn,br,bs,bv,bw,c0,c4,c5,c8,c9,cd,ch,cl,cm,cp,cq,cu,cy,cz,d2,d3,d7,db,dc,df,dg,dk,do,ds,dt,dw,dx,e1,e5,e6,e9,ea,ee,ei,ej,em,en,er,ev,ez,f0,f4,f8,f9,fd,fe,fh,fj,fm,fo,fr,ft,fw,fy,g1,g3,g6,g8,gb,gd,gg,gi,gl,gn,gq,gs,gu,gw,gz,h1,h4,h6,h9,hb,he,hg,hj,hl,ho,hq,ht,hv,hy,i0,i3,i5,i8,ia,id,if,ii,ik,in,ip,is,iu,ix,iz,j2,j4,j7,j9,jc,je,jh,jj,jl,jn,jq,js,jv,jx,k0,k2,k5,k7,ka,kc,kf,kh,kk,km,kp,kr,ku,kw,kz,l1,l4,l6,l9,lb,le,lg,lj,ll,lo,lq,lt,lv,ly,m0,m3,m5,m8,ma,mc,me,mh,mj,mm,mo,mr,mt,mw,my,n1,n3,n6,n8,nb,nd,ng,ni,nl,nn,nq,ns,nv,nx,o0,o2,o5,o7,oa,oc,of,oh,ok,om,op,or,ou,ow,oz,p1,p3,p5,p8,pa,pd,pf,pi,pk,pn,pp,ps,pu,px,pz,q2,q4,q7,q9,qc,qe,qh,qj,qm,qo,qr,qt,qw,qy,r1,r3,r6,r8,rb,rd,rg,ri,rl,rn,rp,rs,ru,rw,ry,s1,s3,s6,s7,sb,sc,sg,sl,sp,sq,su,sv,sy,t0,t3,t5,t7,ta,tc,tf,tg,tk,tl,tp,tu,ty,tz,u3,u4,u7,u9,uc,ue,ug,uj,ul,un,up,us,uu,ux,uy,v2,v3,v7,vc,vg,vh,vl,vm,vp,vr,vu,vw,vy,w1,w3,w6,w7,wb,wc,wg,wl,wp,wq,wu,wv,wy,x0,x3,x5,x7,xa,xc,xe,xg,xj,xl,xo,xp,xt,xu,y3,yd,yn,yx,z7,zh,zr,101,10a,10b,10k,10l,10u,10w,114,117,11e,11i,11o,11t,11y,124,128,12f,12i,12q,12s,131,13b,13c,13o,13x,140,14c,14n,14p"
+     ],
+     [
+      [
+       2
+      ],
+      "17,8h,8t,97,9i,9r,a7,aj,av,b8,bk,bx,c9,cl,cy,da,dm,dz,eb,ei,eo,f2,f8,ff,fs,fz,g5,gi,gp,gw,h9,hf,hm,hz,i6,ic,iq,iw,j3,jg,jn,jt,k6,kd,kk,kx,l3,la,ln,lu,m0,me,mk,mr,n4,nb,nh,nu,o1,o8,ol,or,oy,pb,pi,po,q2,q8,qf,qs,qz,r5,rj,rp,rw,s9,sf,sm,sz,t6,tc,tq,tw,u3,ug,un,ut,v6,vd,vk,vx,w3,wa,wn,wu,x0,xe,xk,xr,y4,yb,yh,yu,z6,zi,zv,107,10k,10w,118,11l,11x,129,12m,12y,13b,13n,140,14l"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9033_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "19,1p,25,2k,33,3n,8i,8s,99,9i,9t,a0,a8,ag,an,as,ax,b3,b8,bd,bi,bo,bt,by,c3,c9,ce,cj,cp,cu,cz,d4,da,df,dk,dp,dv,e0,e5,ea,eg,el,eq,ev,f1,f7,fc,fi,fn,ft,fy,g4,g9,gf,gl,gr,gx,h3,h9,hf,hk,hq,hw,i2,i8,ie,ik,iq,iw,j1,j7,jd,jj,jp,jv,k1,k7,kd,ki,ko,ku,l0,l6,lc,li,lo,lt,lz,m5,mb,mh,mn,mt,mz,n5,na,ng,nm,ns,ny,o4,oa,og,ol,or,ox,p3,p9,pf,pl,pr,pw,q1,q7,qc,qh,qm,qs,qx,r2,r7,rd,ri,rn,rs,ry,s3,s8,sd,sj,so,st,sz,t4,t9,te,tk,tp,tu,tz,u5,ua,uf,uk,uq,uv,v0,v6,vb,vg,vl,vr,vw,w1,w6,wc,wh,wm,wr,wx,x2,x7,xd,xi,xn,xs,xy,y3,y8,yd,yp,z0,zb,zm,zx,108,10j,10u,115,11h,11s,123,12e,12p,130,13b,13m,13x,14d,14t"
+     ],
+     [
+      [
+       0
+      ],
+      "13,19,1f,1s,2a,30,3n,8i,8r,91,99,9k,9t,a3,a9,ad,ae,ah,ai,am,aq,ar,au,av,az,b3,b4,b7,b8,bb,bc,bg,bk,bl,bo,bp,bt,bx,by,c1,c2,c6,ca,cb,ce,cf,cj,cn,co,cr,cs,cv,cw,d0,d4,d5,d8,d9,dd,dh,di,dl,dm,dq,du,dy,dz,e2,e3,e7,eb,ec,ef,eg,ek,eo,ep,es,et,ex,f1,f6,fa,fb,fe,fg,fj,fl,fo,fq,ft,fv,fx,fz,g2,g4,g7,g9,gc,ge,gh,gj,gm,go,gr,gt,gw,gy,h1,h3,h6,h8,hb,hd,hg,hi,hl,hn,hq,hs,hv,hx,i0,i2,i5,i7,ia,ic,if,ih,ik,im,io,iq,it,iv,iy,j0,j3,j5,j8,ja,jd,jf,ji,jk,jn,jp,js,ju,jx,jz,k2,k4,k7,k9,kc,ke,kh,kj,km,ko,kr,kt,kw,ky,l1,l3,l6,l8,lb,ld,lf,lh,lk,lm,lp,lr,lu,lw,lz,m1,m4,m6,m9,mb,me,mg,mj,ml,mo,mq,mt,mv,my,n0,n3,n5,n8,na,nd,nf,ni,nk,nn,np,ns,nu,nx,nz,o2,o4,o6,o8,ob,od,og,oi,ol,on,oq,os,ov,ox,p0,p2,p5,p7,pa,pc,pf,ph,pk,pm,pp,pr,pu,pw,pz,q1,q4,q6,q9,qb,qe,qg,qj,ql,qo,qq,qt,qv,qx,qz,r2,r4,r7,r9,rc,re,rh,rj,rm,ro,rr,rt,rv,ry,s0,s3,s4,s8,s9,sd,si,sm,sn,sr,ss,sv,sx,t0,t2,t4,t7,t9,tc,td,th,ti,tm,tq,tr,tv,u0,u4,u5,u9,ua,ud,uf,ui,uk,um,up,ur,uu,uv,uz,v0,v4,v9,vd,ve,vi,vj,vm,vo,vr,vt,vv,vy,w0,w3,w4,w8,w9,wd,wh,wi,wm,wr,wv,ww,x0,x1,x4,x6,x9,xb,xd,xg,xi,xl,xm,xq,xr,xv,y5,yf,yp,yz,z8,z9,zi,zj,zs,zt,102,10c,10m,10w,10x,116,118,11g,11j,11q,11u,11z,125,129,12g,12j,12r,12t,132,133,13d,13p,13y,142,14e,14o,14q"
+     ],
+     [
+      [
+       2
+      ],
+      "19,8i,8v,99,9k,9t,a8,al,ax,b9,bm,by,cb,cn,cz,dc,do,e1,ed,ek,eq,f3,fa,fh,fu,g0,g7,gk,gr,gx,hb,hh,ho,i1,i8,ie,ir,iy,j5,ji,jo,jv,k8,kf,kl,kz,l5,lc,lp,lw,m2,mf,mm,mt,n6,nc,nj,nw,o3,o9,on,ot,p0,pd,pk,pq,q3,qa,qh,qu,r0,r7,rk,rr,rx,sb,sh,so,t1,t8,te,tr,ty,u5,ui,uo,uv,v8,vf,vl,vz,w5,wc,wp,ww,x2,xf,xm,xt,y6,yc,yj,yv,z8,zk,zw,109,10l,10y,11a,11m,11z,12b,12o,130,13c,13p,142,14m"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9034_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "1b,1r,27,2l,35,3p,8k,8u,9b,9j,9u,a2,aa,ai,ao,au,az,b4,b9,bf,bk,bp,bv,c0,c5,ca,cg,cl,cq,cv,d1,d6,db,dg,dm,dr,dw,e2,e7,ec,eh,en,es,ex,f3,f8,fe,fj,fp,fu,g0,g6,gb,gh,gn,gt,gz,h4,ha,hg,hm,hs,hy,i4,ia,ig,il,ir,ix,j3,j9,jf,jl,jr,jw,k2,k8,ke,kk,kq,kw,l2,l8,ld,lj,lp,lv,m1,m7,md,mj,mp,mu,n0,n6,nc,ni,no,nu,o0,o5,ob,oh,on,ot,oz,p5,pb,ph,pm,ps,py,q3,q8,qd,qj,qo,qt,qy,r4,r9,re,rj,rp,ru,rz,s5,sa,sf,sk,sq,sv,t0,t5,tb,tg,tl,tq,tw,u1,u6,uc,uh,um,ur,ux,v2,v7,vd,vi,vn,vs,vx,w3,w8,wd,wj,wo,wt,wy,x4,x9,xe,xj,xp,xu,xz,y4,ya,yf,yq,z1,zc,zn,zz,10a,10l,10w,117,11i,11t,124,12g,12r,132,13d,13o,13z,14f,14v"
+     ],
+     [
+      [
+       0
+      ],
+      "15,1b,1h,1t,2c,31,3p,8k,8t,93,9b,9m,9u,a5,aa,af,aj,ak,an,ao,as,aw,ax,b0,b1,b4,b5,b9,bd,be,bh,bi,bm,bq,br,bu,bv,bz,c3,c4,c7,c8,cc,cg,ck,cl,co,cp,ct,cx,cy,d1,d2,d6,da,db,de,df,dj,dn,dr,ds,dv,dw,e0,e4,e5,e8,e9,ed,eh,ei,el,em,eq,eu,ey,ez,f2,f3,f7,fc,fg,fh,fk,fm,fp,fr,fu,fw,fz,g1,g4,g6,g9,gb,ge,gg,gj,gl,go,gq,gt,gv,gy,h0,h3,h5,h8,ha,hd,hf,hi,hk,hn,ho,hr,ht,hw,hy,i1,i3,i6,i8,ib,id,ig,ii,il,in,iq,is,iv,ix,j0,j2,j5,j7,ja,jc,jf,jh,jk,jm,jp,jr,ju,jw,jz,k1,k4,k6,k9,kb,ke,kf,ki,kk,kn,kp,ks,ku,kx,kz,l2,l4,l7,l9,lc,le,lh,lj,lm,lo,lr,lt,lw,ly,m1,m3,m6,m8,mb,md,mg,mi,ml,mn,mq,ms,mv,mx,n0,n2,n5,n6,n9,nb,ne,ng,nj,nl,no,nq,nt,nv,ny,o0,o3,o5,o8,oa,od,of,oi,ok,on,op,os,ou,ox,oz,p2,p4,p7,p9,pc,pe,ph,pj,pm,po,pr,pt,pw,px,q0,q2,q5,q7,qa,qc,qf,qh,qk,qm,qp,qr,qu,qw,qz,r1,r4,r6,r9,rb,re,rg,rj,rl,ro,rq,rs,rv,rx,s0,s1,s5,s6,sa,sf,sj,sk,so,ss,st,sx,sy,t1,t3,t6,t8,ta,td,tf,ti,tj,tn,to,ts,tx,u1,u2,u6,u7,ua,uc,uf,uh,uj,um,uo,ur,us,uw,ux,v1,v6,va,vb,vf,vj,vk,vo,vp,vs,vu,vx,vz,w1,w4,w6,w9,wa,we,wf,wj,wo,ws,wt,wx,wy,x1,x3,x6,x8,xa,xd,xf,xi,xj,xn,xo,xs,xx,y6,y7,yg,yh,yq,yr,z0,za,zk,zu,104,10e,10o,10x,10z,117,11a,11h,11l,11r,11w,121,127,12b,12i,12l,12t,12v,134,135,13f,13r,140,143,14g,14q,14s"
+     ],
+     [
+      [
+       2
+      ],
+      "1b,8k,8w,9b,9l,9u,aa,am,az,bb,bn,c0,cc,cp,d1,dd,dq,e2,ef,el,es,f5,fc,fi,fv,g2,g9,gm,gs,gz,hc,hj,hp,i3,i9,ig,it,j0,j6,jj,jq,jx,ka,kg,kn,l0,l7,ld,lr,lx,m4,mh,mo,mu,n7,ne,nl,ny,o4,ob,oo,ov,p1,pf,pl,ps,q5,qc,qi,qv,r2,r9,rm,rs,rz,sc,sj,sp,t3,t9,tg,tt,u0,u6,uj,uq,ux,va,vg,vn,w0,w7,wd,wr,wx,x4,xh,xo,xu,y7,ye,yl,yx,z9,zm,zy,10a,10n,10z,11c,11o,120,12d,12p,132,13e,13q,143,14o"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9035_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "1c,1s,29,2n,36,3q,8m,8w,9c,9l,9w,a4,ac,ak,aq,av,b1,b6,bb,bg,bm,br,bw,c1,c7,cc,ch,cn,cs,cx,d2,d8,dd,di,dn,dt,dy,e3,e8,ee,ej,eo,et,ez,f4,fa,ff,fl,fq,fw,g2,g7,gd,gj,go,gu,h0,h6,hc,hi,ho,hu,i0,i5,ib,ih,in,it,iz,j5,jb,jg,jm,js,jy,k4,ka,kg,km,ks,kx,l3,l9,lf,ll,lr,lx,m3,m8,me,mk,mq,mw,n2,n8,ne,nk,np,nv,o1,o7,od,oj,op,ov,p0,p6,pc,pi,po,pu,pz,q4,qa,qf,qk,qq,qv,r0,r5,rb,rg,rl,rq,rw,s1,s6,sb,sh,sm,sr,sx,t2,t7,tc,ti,tn,ts,tx,u3,u8,ud,ui,uo,ut,uy,v4,v9,ve,vj,vp,vu,vz,w4,wa,wf,wk,wp,wv,x0,x5,xb,xg,xl,xq,xw,y1,y6,yb,yh,ys,z3,ze,zp,100,10b,10m,10y,119,11k,11v,126,12h,12s,133,13f,13q,141,14g,14w"
+     ],
+     [
+      [
+       0
+      ],
+      "16,1c,1j,1v,2d,33,3q,8m,8v,94,9c,9n,9w,a6,ac,ag,ah,al,ap,aq,at,au,ay,b2,b3,b6,b7,ba,bb,bf,bj,bk,bn,bo,bs,bw,bx,c0,c1,c5,c9,ca,cd,ce,ch,ci,cm,cq,cr,cu,cv,cz,d3,d4,d7,d8,dc,dg,dk,dl,do,dp,dt,dx,dy,e1,e2,e6,ea,eb,ee,ef,ej,en,er,es,ev,ew,f0,f4,f5,f9,fd,fe,fi,fj,fm,fo,fr,ft,fw,fy,g1,g3,g6,g8,gb,gd,gg,gi,gl,gn,gp,gr,gu,gw,gz,h1,h4,h6,h9,hb,he,hg,hj,hl,ho,hq,ht,hv,hy,i0,i3,i5,i8,ia,id,if,ii,ik,in,ip,is,iu,ix,iz,j2,j4,j7,j9,jc,je,jg,ji,jl,jn,jq,js,jv,jx,k0,k2,k5,k7,ka,kc,kf,kh,kk,km,kp,kr,ku,kw,kz,l1,l4,l6,l9,lb,le,lg,lj,ll,lo,lq,lt,lv,ly,m0,m3,m5,m7,m9,mc,me,mh,mj,mm,mo,mr,mt,mw,my,n1,n3,n6,n8,nb,nd,ng,ni,nl,nn,nq,ns,nv,nx,o0,o2,o5,o7,oa,oc,of,oh,ok,om,op,or,ou,ow,oy,p0,p3,p5,p8,pa,pd,pf,pi,pk,pn,pp,ps,pu,px,pz,q2,q4,q7,q9,qc,qe,qh,qj,qm,qo,qr,qt,qw,qy,r1,r3,r6,r8,rb,rd,rg,ri,rl,rn,rp,rr,ru,rw,ry,s1,s3,s6,s7,sb,sc,sg,sl,sp,sq,su,sv,sy,t0,t3,t5,t7,ta,tc,tf,tg,tk,tl,tp,tu,ty,tz,u3,u4,u7,u9,uc,ue,ug,ui,ul,un,up,us,uu,ux,uy,v2,v3,v7,vc,vg,vh,vl,vm,vp,vr,vu,vw,vy,w1,w3,w6,w7,wb,wc,wg,wl,wp,wq,wu,wv,wy,x0,x3,x5,x7,x9,xc,xe,xg,xj,xl,xo,xp,xt,xu,xy,y8,yi,ys,z2,zc,zm,zw,105,106,10f,10g,10p,10z,110,119,11b,11j,11m,11t,11x,123,128,12d,12j,12n,12u,12w,135,136,13g,13t,142,145,14h,14s,14u"
+     ],
+     [
+      [
+       2
+      ],
+      "1c,8m,8y,9c,9n,9w,ac,ao,b0,bd,bp,c1,ce,cq,d3,df,dr,e4,eg,en,et,f7,fd,fk,fx,g4,ga,gn,gu,h1,he,hk,hr,i4,ib,ih,iv,j1,j8,jl,js,jy,kb,ki,kp,l2,l8,lf,ls,lz,m5,mj,mp,mw,n9,ng,nm,nz,o6,od,oq,ow,p3,pg,pn,pt,q7,qd,qk,qx,r4,ra,rn,ru,s1,se,sk,sr,t4,tb,th,tv,u1,u8,ul,us,uy,vb,vi,vp,w2,w8,wf,ws,wz,x5,xj,xp,xw,y9,yg,ym,yz,zb,zn,100,10c,10o,111,11d,11q,122,12e,12r,133,13g,13s,145,14q"
+     ]
+    ]
+   }
+  },
+  "autobus-morgagni-casa-studente": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "1f,1v,2b,2p,38,3s,8o,8y,9e,9n,9y,a6,ae,am,as,ax,b3,b8,bd,bj,bo,bt,by,c4,c9,ce,cj,cp,cu,cz,d4,da,df,dk,dp,dv,e0,e5,eb,eg,el,eq,ew,f1,f6,fc,fi,fn,ft,fy,g4,g9,gf,gl,gr,gw,h2,h8,he,hk,hq,hw,i2,i8,id,ij,ip,iv,j1,j7,jd,jj,jp,ju,k0,k6,kc,ki,ko,ku,l0,l5,lb,lh,ln,lt,lz,m5,mb,mh,mm,ms,my,n4,na,ng,nm,ns,nx,o3,o9,of,ol,or,ox,p3,p9,pe,pk,pq,pw,q1,q7,qc,qh,qm,qs,qx,r2,r7,rd,ri,rn,rt,ry,s3,s8,se,sj,so,st,sz,t4,t9,te,tk,tp,tu,u0,u5,ua,uf,ul,uq,uv,v0,v6,vb,vg,vl,vr,vw,w1,w7,wc,wh,wm,ws,wx,x2,x7,xd,xi,xn,xs,xy,y3,y8,ye,yj,yu,z5,zg,zr,102,10e,10p,110,11b,11m,11x,128,12j,12u,136,13h,13s,143,14j,14z"
+     ],
+     [
+      [
+       0
+      ],
+      "18,1e,1l,1x,2f,35,3s,8o,8x,96,9e,9p,9y,a8,ae,aj,an,ao,ar,as,av,aw,b0,b4,b5,b8,b9,bd,bh,bi,bl,bm,bq,bu,bv,by,bz,c2,c3,c7,cb,cc,cf,cg,ck,co,cp,cs,ct,cw,cx,d1,d2,d5,d6,d9,da,de,di,dj,dm,dn,dr,dv,dw,dz,e0,e4,e8,ec,ed,eg,eh,el,ep,eq,et,eu,ey,f2,f3,f6,f7,fb,ff,fg,fk,fl,fo,fq,ft,fv,fy,g0,g3,g5,g8,ga,gd,gf,gi,gk,gn,gp,gs,gu,gx,gz,h2,h4,h7,h8,hb,hd,hg,hi,hl,hn,hq,hs,hv,hx,i0,i2,i5,i7,ia,ic,if,ih,ik,im,ip,ir,iu,iw,iz,j1,j4,j6,j9,jb,je,jg,jj,jl,jo,jq,jt,jv,jy,jz,k2,k4,k7,k9,kc,ke,kh,kj,km,ko,kr,kt,kw,ky,l1,l3,l6,l8,lb,ld,lg,li,ll,ln,lq,ls,lv,lx,m0,m2,m5,m7,ma,mc,mf,mh,mk,mm,mp,mq,mt,mv,my,n0,n3,n5,n8,na,nd,nf,ni,nk,nn,np,ns,nu,nx,nz,o2,o4,o7,o9,oc,oe,oh,oj,om,oo,or,ot,ow,oy,p1,p3,p6,p8,pb,pd,pg,ph,pk,pm,pp,pr,pu,pw,pz,q1,q4,q6,q9,qb,qe,qg,qj,ql,qo,qq,qt,qv,qy,r0,r3,r5,r8,ra,rd,rf,ri,rk,rn,rp,rs,ru,rw,rz,s1,s4,s5,s8,sa,sd,se,si,sj,sn,ss,sw,sx,t1,t2,t5,t7,ta,tc,te,th,tj,tm,tn,tr,ts,tw,u1,u5,u6,ua,ub,ue,ug,uj,ul,un,uq,us,uv,uw,uz,v1,v4,v5,v9,va,ve,vj,vn,vo,vs,vt,vw,vy,w1,w3,w5,w8,wa,wd,we,wi,wj,wn,ws,ww,wx,x1,x2,x5,x7,xa,xc,xe,xh,xj,xm,xn,xq,xs,xv,xw,y0,y1,ya,yb,yk,yu,z4,ze,zo,zy,108,10h,10i,10r,10s,111,113,11b,11e,11l,11p,11v,120,125,12b,12f,12m,12p,12x,12z,138,13i,13j,13v,144,147,14k,14u,14w"
+     ],
+     [
+      [
+       2
+      ],
+      "1e,8o,90,9e,9p,9y,ae,aq,b2,bf,br,c4,cg,cs,d5,dh,du,e6,ei,ep,ew,f9,ff,fm,fz,g6,gc,gq,gw,h3,hg,hn,ht,i6,id,ik,ix,j3,ja,jn,ju,k0,ke,kk,kr,l4,lb,lh,lu,m1,m8,ml,mr,my,nb,ni,no,o2,o8,of,os,oz,p5,pi,pp,pw,q9,qf,qm,qz,r6,rc,rq,rw,s3,sg,sn,st,t6,td,tk,tx,u3,ua,un,uu,v0,ve,vk,vr,w4,wb,wh,wu,x1,x8,xl,xr,xy,yb,yi,yo,z1,zd,zp,102,10e,10r,113,11f,11s,124,12h,12t,135,13i,13u,147,14s"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "4,f,u,1a,1q,26,2j,2v,7y,8g,8z,9a,9l,9w,a7,ai,at,az,b4,b9,bf,bk,bp,bu,c0,c5,ca,cf,cl,cq,cv,d0,d6,db,dg,dm,dr,dw,e1,e7,ec,eh,em,es,ex,f2,f7,fd,fj,fo,fu,fz,g5,ga,gg,gl,gr,gx,h3,h9,hf,hk,hq,hw,i2,i8,ie,ik,iq,iv,j1,j7,jd,jj,jp,jv,k1,k7,kc,ki,ko,ku,l0,l6,lc,li,ln,lt,lz,m5,mb,mh,mn,mt,mz,n4,na,ng,nm,ns,ny,o4,oa,of,ol,or,ox,p3,p9,pf,pl,pr,pw,q2,q8,qd,qj,qo,qt,qz,r4,r9,re,rk,rp,ru,rz,s5,sa,sf,sk,sq,sv,t0,t6,tb,tg,tl,tr,tw,u1,u6,uc,uh,um,ur,ux,v2,v7,vd,vi,vn,vs,vy,w3,w8,wd,wj,wo,wt,wy,x4,x9,xe,xk,xp,xu,xz,y5,ya,yf,yk,yq,yv,z6,zh,zs,103,10f,10q,111,11c,11n,11y,129,12k,12v,137,13i,13t"
+     ],
+     [
+      [
+       0
+      ],
+      "5,e,h,t,16,1i,1v,2c,2v,7y,8g,8z,98,9i,9r,a1,aa,ak,ao,aq,as,av,ax,az,b1,b3,b5,b8,ba,bc,be,bg,bi,bk,bm,bp,br,bt,bv,bx,bz,c2,c4,c6,c8,ca,cc,cf,ch,cj,cl,cn,cp,cr,ct,cw,cy,d0,d2,d4,d6,d9,db,dd,df,dh,dj,dm,do,dq,ds,du,dw,dy,e0,e3,e5,e7,e9,eb,ed,eg,ei,ek,em,eo,eq,et,ev,ex,ez,f1,f3,f5,f7,fa,fc,fe,fg,fi,fl,fn,fq,fr,fv,g0,g5,g9,ga,ge,gf,gj,gk,go,gp,gt,gu,gy,gz,h3,h8,hd,hi,hn,hs,hx,i2,i7,ic,ih,im,ir,iw,j0,j1,j5,j6,ja,jb,jf,jg,jk,jl,jp,jq,ju,jz,k4,k9,ke,kj,ko,kt,ky,l3,l8,ld,li,ln,lr,ls,lw,lx,m1,m2,m6,m7,mb,mc,mg,mh,ml,mq,mv,n0,n5,na,nf,nk,np,nu,nz,o4,o9,oe,oi,oj,on,oo,os,ot,ox,oy,p2,p3,p7,p8,pc,ph,pm,pr,pw,q1,q6,qb,qg,ql,qq,qv,r0,r5,r9,ra,re,rf,rj,rk,ro,rp,rt,ru,ry,rz,s3,s8,sc,sd,sh,si,sl,sn,sq,ss,su,sx,sz,t2,t3,t7,t8,tc,th,tl,tm,tq,tr,tu,tw,tz,u1,u3,u6,u8,ub,uc,ug,uh,ul,uq,uu,uz,v3,v4,v8,v9,vc,ve,vh,vj,vl,vo,vq,vt,vu,vy,vz,w3,w8,wc,wd,wh,wi,wl,wn,wq,ws,wu,wx,wz,x2,x3,x7,x8,xc,xh,xl,xq,xu,xv,xz,y0,y3,y5,y8,ya,yc,yk,ym,yu,yw,z4,z6,ze,zg,zo,zq,zy,100,108,109,10h,10j,10r,10t,111,113,11b,11e,11l,11p,11v,120,125,12b,12f,12m,12p,12x,12z,138,13i,13j,13s,13u"
+     ],
+     [
+      [
+       2
+      ],
+      "4,e,7y,8f,8x,9a,9m,9z,ab,an,b0,bc,bp,c1,cd,cq,d2,de,dr,e3,eg,es,f1,fa,fi,fr,g0,g9,gi,gq,gz,h8,hh,hq,hy,i7,ig,ip,iy,j6,jf,jo,jx,k6,ke,kn,kw,l5,le,lm,lv,m4,md,mm,mu,n3,nc,nl,nu,o2,ob,ok,ot,p2,pa,pj,ps,q1,qa,qi,qr,r0,r9,ri,rq,rz,s8,sh,sq,sy,t7,tg,tp,ty,u6,uf,uo,ux,v6,ve,vn,vw,w5,we,wm,wv,x4,xd,xm,xu,y3,yc,yl,yr,yy,za,zn,zz,10c,10o,110,11d,11p,121,12e,12q,133,13f,13r"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9037_103": {
+   "TRAM-T1.3": {
+    "0": [
+     [
+      [
+       1
+      ],
+      "1g,1w,2c,2r,3a,3u,8p,90,9g,9p,a0,a8,ag,ao,au,az,b4,ba,bf,bk,bp,bv,c0,c5,ca,cg,cl,cq,cw,d1,d6,db,dh,dm,dr,dw,e2,e7,ec,eh,en,es,ex,f3,f8,fe,fj,fp,fu,g0,g5,gb,gg,gm,gs,gy,h4,ha,hg,hm,hs,hx,i3,i9,if,il,ir,ix,j3,j8,je,jk,jq,jw,k2,k8,ke,kk,kp,kv,l1,l7,ld,lj,lp,lv,m0,m6,mc,mi,mo,mu,n0,n6,nc,nh,nn,nt,nz,o5,ob,oh,on,os,oy,p4,pa,pg,pm,ps,py,q3,q8,qe,qj,qo,qt,qz,r4,r9,re,rk,rp,ru,rz,s5,sa,sf,sk,sq,sv,t0,t6,tb,tg,tl,tr,tw,u1,u6,uc,uh,um,ur,ux,v2,v7,vd,vi,vn,vs,vy,w3,w8,wd,wj,wo,wt,wy,x4,x9,xe,xk,xp,xu,xz,y5,ya,yf,yk,yw,z7,zi,zt,104,10f,10q,111,11c,11o,11z,12a,12l,12w,137,13i,13t,145,14k,150"
+     ],
+     [
+      [
+       0
+      ],
+      "1a,1g,1m,1z,2h,37,3u,8p,8z,98,9g,9r,a0,aa,ag,ak,al,ao,ap,at,ax,ay,b1,b2,b6,ba,bb,be,bf,bi,bj,bn,br,bs,bv,bw,c0,c4,c5,c8,c9,cd,ch,ci,cl,cm,cq,cu,cv,cy,cz,d2,d3,d7,db,dc,df,dg,dk,do,dp,ds,dt,dx,e1,e5,e6,e9,ea,ee,ei,ej,em,en,er,ev,ew,ez,f0,f4,f8,fd,fh,fi,fl,fn,fq,fs,fv,fx,g0,g2,g5,g6,g9,gb,ge,gg,gj,gl,go,gq,gt,gv,gy,h0,h3,h5,h8,ha,hd,hf,hi,hk,hn,hp,hs,hu,hx,hz,i2,i4,i7,i9,ic,ie,ih,ij,im,io,ir,it,iw,ix,j0,j2,j5,j7,ja,jc,jf,jh,jk,jm,jp,jr,ju,jw,jz,k1,k4,k6,k9,kb,ke,kg,kj,kl,ko,kq,kt,kv,ky,l0,l3,l5,l8,la,ld,lf,li,lk,ln,lo,lr,lt,lw,ly,m1,m3,m6,m8,mb,md,mg,mi,ml,mn,mq,ms,mv,mx,n0,n2,n5,n7,na,nc,nf,nh,nk,nm,np,nr,nu,nw,nz,o1,o4,o6,o9,ob,oe,of,oi,ok,on,op,os,ou,ox,oz,p2,p4,p7,p9,pc,pe,ph,pj,pm,po,pr,pt,pw,py,q1,q3,q6,q8,qb,qd,qg,qi,ql,qn,qq,qs,qv,qx,r0,r2,r5,r6,r9,rb,re,rg,rj,rl,ro,rq,rt,rv,ry,s0,s2,s5,s7,sa,sb,sf,sg,sk,sp,st,su,sy,sz,t2,t4,t7,t9,tb,te,tg,tj,tk,to,tp,tt,tx,ty,u2,u7,ub,uc,ug,uh,uk,um,up,ur,ut,uw,uy,v1,v2,v6,v7,vb,vg,vk,vl,vp,vq,vt,vv,vy,w0,w2,w5,w7,wa,wb,wf,wg,wk,wo,wp,wt,wy,x2,x3,x7,x8,xb,xd,xg,xi,xk,xn,xp,xs,xt,xx,xy,y2,yc,ym,yw,z6,zf,zg,zp,zq,zz,100,109,10j,10t,113,114,11d,11f,11n,11q,11x,121,126,12c,12g,12n,12q,12y,130,139,13a,13k,13w,145,149,14l,14v,14y"
+     ],
+     [
+      [
+       2
+      ],
+      "1g,8p,92,9g,9r,a0,af,as,b4,bg,bt,c5,ci,cu,d6,dj,dv,e8,ek,er,ex,fa,fh,fo,g1,g7,ge,gr,gy,h4,hi,ho,hv,i8,if,il,iy,j5,jc,jp,jv,k2,kf,km,ks,l6,lc,lj,lw,m3,m9,mm,mt,n0,nd,nj,nq,o3,oa,og,ou,p0,p7,pk,pr,px,qa,qh,qo,r1,r7,re,rr,ry,s4,si,so,sv,t8,tf,tl,ty,u5,uc,up,uv,v2,vf,vm,vs,w6,wc,wj,ww,x3,x9,xm,xt,y0,yd,yj,yq,z2,zf,zr,103,10g,10s,115,11h,11t,126,12i,12v,137,13j,13w,149,14u"
+     ]
+    ],
+    "1": [
+     [
+      [
+       1
+      ],
+      "2,d,s,18,1o,24,2h,2t,7w,8f,8y,99,9k,9v,a6,ah,as,ax,b2,b7,bd,bi,bn,bs,by,c3,c8,cd,cj,co,ct,cz,d4,d9,de,dk,dp,du,dz,e5,ea,ef,ek,eq,ev,f0,f6,fb,fh,fm,fs,fx,g3,g8,ge,gj,gp,gv,h1,h7,hd,hi,ho,hu,i0,i6,ic,ii,io,it,iz,j5,jb,jh,jn,jt,jz,k5,ka,kg,km,ks,ky,l4,la,lg,lm,lr,lx,m3,m9,mf,ml,mr,mx,n2,n8,ne,nk,nq,nw,o2,o8,oe,oj,op,ov,p1,p7,pd,pj,pp,pu,q0,q6,qc,qh,qm,qr,qx,r2,r7,rc,ri,rn,rs,rx,s3,s8,sd,sj,so,st,sy,t4,t9,te,tj,tp,tu,tz,u4,ua,uf,uk,uq,uv,v0,v5,vb,vg,vl,vq,vw,w1,w6,wb,wh,wm,wr,wx,x2,x7,xc,xi,xn,xs,xx,y3,y8,yd,yi,yo,yt,z4,zf,zq,101,10d,10o,10z,11a,11l,11w,127,12i,12t,135,13g,13r"
+     ],
+     [
+      [
+       0
+      ],
+      "3,c,f,r,14,1g,1t,2a,2t,7w,8e,8x,97,9g,9q,9z,a9,ai,am,ao,aq,at,av,ax,az,b1,b3,b6,b8,ba,bc,be,bg,bi,bl,bn,bp,br,bt,bv,bx,c0,c2,c4,c6,c8,ca,cd,cf,ch,cj,cl,cn,cp,cs,cu,cw,cy,d0,d2,d4,d7,d9,db,dd,df,dh,dk,dm,do,dq,ds,du,dw,dz,e1,e3,e5,e7,e9,eb,ee,eg,ei,ek,em,eo,er,et,ev,ex,ez,f1,f3,f6,f8,fa,fc,fe,fg,fj,fl,fo,fp,ft,fy,g3,g7,g8,gc,gd,gh,gi,gm,gn,gr,gs,gw,gx,h1,h2,h6,hb,hg,hl,hq,hv,i0,i5,ia,if,ik,ip,iu,iy,iz,j3,j4,j8,j9,jd,je,ji,jj,jn,jo,js,jt,jx,k2,k7,kc,kh,km,kr,kw,l1,l6,lb,lg,ll,lp,lq,lu,lv,lz,m0,m4,m5,m9,ma,me,mf,mj,mk,mo,mt,my,n3,n8,nd,ni,nn,ns,nx,o2,o7,oc,og,oh,ol,om,oq,or,ov,ow,p0,p1,p5,p6,pa,pb,pf,pk,pp,pu,pz,q4,q9,qe,qj,qo,qt,qy,r3,r7,r8,rc,rd,rh,ri,rm,rn,rr,rs,rw,rx,s1,s2,s6,sa,sb,sf,sg,sj,sl,so,sq,ss,sv,sx,t0,t1,t5,t6,ta,tf,tj,tk,to,tp,ts,tu,tx,tz,u1,u4,u6,u9,ua,ue,uf,uj,uo,us,ut,ux,v1,v2,v6,v7,va,vc,vf,vh,vj,vm,vo,vr,vs,vw,vx,w1,w6,wa,wb,wf,wg,wj,wl,wo,wq,ws,wv,wx,x0,x1,x5,x6,xa,xf,xj,xk,xo,xs,xt,xx,xy,y1,y3,y6,y8,ya,yi,yk,ys,yu,z2,z4,zc,ze,zm,zo,zw,zy,106,107,10f,10h,10p,10r,10z,111,119,11c,11j,11n,11t,11y,123,129,12d,12k,12n,12v,12x,136,13g,13h,13q,13s"
+     ],
+     [
+      [
+       2
+      ],
+      "2,c,7w,8e,8w,98,9k,9x,a9,al,ay,ba,bn,bz,cb,co,d0,dc,dp,e1,ee,eq,ez,f8,fg,fp,fy,g7,gg,go,gx,h6,hf,ho,hw,i5,ie,in,iw,j4,jd,jm,jv,k4,kc,kl,ku,l3,lc,lk,lt,m2,mb,mk,ms,n1,na,nj,ns,o0,o9,oi,or,p0,p8,ph,pq,pz,q8,qg,qp,qy,r7,rg,ro,rx,s6,sf,so,sw,t5,te,tn,tw,u4,ud,um,uv,v4,vc,vl,vu,w3,wc,wk,wt,x2,xb,xk,xs,y1,ya,yj,yp,yw,z8,zl,zx,10a,10m,10y,11b,11n,11z,12c,12o,131,13d,13p"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9038_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "6,h,w,1c,1s,28,2l,2x,80,8j,92,9d,9o,9z,aa,al,aw,b1,b6,bb,bh,bm,br,bx,c2,c7,cc,ci,cn,cs,cx,d3,d8,dd,di,do,dt,dy,e4,e9,ee,ej,ep,eu,ez,f4,fa,ff,fl,fq,fw,g1,g7,gd,gi,go,gt,gz,h5,hb,hh,hn,hs,hy,i4,ia,ig,im,is,iy,j4,j9,jf,jl,jr,jx,k3,k9,kf,kk,kq,kw,l2,l8,le,lk,lq,lw,m1,m7,md,mj,mp,mv,n1,n7,nc,ni,no,nu,o0,o6,oc,oi,oo,ot,oz,p5,pb,ph,pn,pt,pz,q5,qa,qg,ql,qq,qv,r1,r6,rb,rh,rm,rr,rw,s2,s7,sc,sh,sn,ss,sx,t2,t8,td,ti,to,tt,ty,u3,u9,ue,uj,uo,uu,uz,v4,v9,vf,vk,vp,vv,w0,w5,wa,wg,wl,wq,wv,x1,x6,xb,xg,xm,xr,xw,y2,y7,yc,yh,yn,ys,yx,z8,zj,zu,106,10h,10s,113,11e,11p,120,12b,12n,12y,139,13k,13v"
+     ],
+     [
+      [
+       0
+      ],
+      "7,g,j,w,18,1k,1x,2e,2x,80,8i,91,9b,9k,9u,a3,ad,am,aq,at,av,ax,az,b1,b3,b5,b7,ba,bc,be,bg,bi,bk,bn,bp,br,bt,bv,bx,c0,c2,c4,c6,c8,ca,cc,ce,ch,cj,cl,cn,cp,cr,cu,cw,cy,d0,d2,d4,d7,d9,db,dd,df,dh,dj,dl,do,dq,ds,du,dw,dy,e1,e3,e5,e7,e9,eb,ee,eg,ei,ek,em,eo,eq,es,ev,ex,ez,f1,f3,f5,f8,fa,fc,fe,fg,fi,fl,fn,fp,fs,ft,fx,g2,g7,gc,gh,gm,gq,gr,gv,gw,h0,h1,h5,h6,ha,hb,hf,hg,hk,hl,hp,hu,hz,i4,i9,ie,ij,io,it,iy,j3,j8,jd,jh,ji,jm,jn,jr,js,jw,jx,k1,k2,k6,k7,kb,kc,kg,kl,kq,kv,l0,l5,la,lf,lk,lp,lu,lz,m4,m8,m9,md,me,mi,mj,mn,mo,ms,mt,mx,my,n2,n3,n7,nc,nh,nm,nr,nw,o1,o6,ob,og,ol,oq,ov,oz,p0,p4,p5,p9,pa,pe,pf,pj,pk,po,pp,pt,pu,py,q3,q8,qd,qi,qn,qs,qx,r2,r7,rc,rh,rm,rq,rr,rv,rw,s0,s1,s5,s6,sa,sb,se,sg,sj,sl,sn,sp,ss,su,sw,sz,t1,t4,t5,t9,ta,te,tj,tn,to,ts,tt,tw,ty,u1,u3,u5,u8,ua,ud,ue,ui,uj,un,us,uw,ux,v1,v2,v5,v7,va,vc,ve,vg,vj,vl,vn,vq,vs,vv,vw,w0,w1,w5,wa,we,wf,wj,wk,wn,wp,ws,wu,ww,wz,x1,x4,x5,x9,xa,xe,xj,xn,xo,xs,xt,xw,xy,y1,y3,y5,y7,ya,yc,ye,ym,yo,yw,yy,z6,z8,zg,zi,zq,zs,100,102,10a,10c,10k,10m,10u,10v,113,115,11d,11g,11n,11r,11x,122,127,12d,12h,12o,12r,12z,131,13a,13b,13l,13u,13w"
+     ],
+     [
+      [
+       2
+      ],
+      "6,g,80,8i,90,9c,9o,a1,ad,aq,b2,be,br,c3,cf,cs,d4,dh,dt,e5,ei,eu,f3,fc,fl,ft,g2,gb,gk,gt,h1,ha,hj,hs,i1,i9,ii,ir,j0,j9,jh,jq,jz,k8,kh,kp,ky,l7,lg,lp,lx,m6,mf,mo,mx,n5,ne,nn,nw,o5,od,om,ov,p4,pd,pl,pu,q3,qc,ql,qt,r2,rb,rk,rt,s1,sa,sj,ss,t1,t9,ti,tr,u0,u9,uh,uq,uz,v8,vh,vp,vy,w7,wg,wp,wx,x6,xf,xo,xx,y5,ye,yn,yu,z0,zd,zp,101,10e,10q,112,11f,11r,124,12g,12s,135,13h,13u"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9039_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "8,j,y,1e,1u,2a,2n,2z,82,8l,94,9f,9q,a1,ac,an,ay,b3,b8,bd,bj,bo,bt,bz,c4,c9,ce,ck,cp,cu,cz,d5,da,df,dk,dq,dv,e0,e6,eb,eg,el,er,ew,f1,f6,fc,fh,fn,fs,fy,g3,g9,gf,gk,gq,gv,h1,h7,hd,hj,hp,hu,i0,i6,ic,ii,io,iu,j0,j6,jb,jh,jn,jt,jz,k5,kb,kh,km,ks,ky,l4,la,lg,lm,ls,ly,m3,m9,mf,ml,mr,mx,n3,n9,nf,nk,nq,nw,o2,o8,oe,ok,oq,ov,p1,p7,pd,pj,pp,pv,q1,q7,qc,qi,qn,qs,qx,r3,r8,rd,rj,ro,rt,ry,s4,s9,se,sj,sp,su,sz,t4,ta,tf,tk,tq,tv,u0,u5,ub,ug,ul,uq,uw,v1,v6,vb,vh,vm,vr,vx,w2,w7,wc,wi,wn,ws,wx,x3,x8,xd,xi,xo,xt,xy,y4,y9,ye,yj,yp,yu,yz,za,zl,zw,108,10j,10u,115,11g,11r,122,12d,12p,130,13b,13m,13x"
+     ],
+     [
+      [
+       0
+      ],
+      "9,i,l,y,1a,1m,1z,2g,2z,82,8k,93,9d,9m,9w,a5,af,ao,as,av,ax,az,b1,b3,b5,b7,b9,bc,be,bg,bi,bk,bm,bp,br,bt,bv,bx,bz,c2,c4,c6,c8,ca,cc,ce,cg,cj,cl,cn,cp,cr,ct,cw,cy,d0,d2,d4,d6,d9,db,dd,df,dh,dj,dl,dn,dq,ds,du,dw,dy,e0,e3,e5,e7,e9,eb,ed,eg,ei,ek,em,eo,eq,es,eu,ex,ez,f1,f3,f5,f7,fa,fc,fe,fg,fi,fk,fn,fp,fr,fu,fv,fz,g4,g9,ge,gj,go,gt,gx,gy,h2,h3,h7,h8,hc,hd,hh,hi,hm,hn,hr,hw,i1,i6,ib,ig,il,iq,iv,j0,j5,ja,jf,jk,jo,jp,jt,ju,jy,jz,k3,k4,k8,k9,kd,ke,ki,kn,ks,kx,l2,l7,lc,lh,lm,lr,lw,m1,m6,mb,mf,mg,mk,ml,mp,mq,mu,mv,mz,n0,n4,n5,n9,ne,nj,no,nt,ny,o3,o8,od,oi,on,os,ox,p2,p6,p7,pb,pc,pg,ph,pl,pm,pq,pr,pv,pw,q0,q5,qa,qf,qk,qp,qu,qz,r4,r9,re,rj,ro,rt,rx,ry,s2,s3,s7,s8,sc,sd,sg,si,sl,sn,sp,sr,su,sw,sy,t1,t3,t6,t7,tb,tc,tg,tl,tp,tq,tu,tv,ty,u0,u3,u5,u7,ua,uc,uf,ug,uk,ul,up,uu,uy,uz,v3,v4,v7,v9,vc,ve,vg,vi,vl,vn,vp,vs,vu,vx,vy,w2,w3,w7,wc,wg,wh,wl,wm,wp,wr,wu,ww,wy,x1,x3,x6,x7,xb,xc,xg,xl,xp,xq,xu,xv,xy,y0,y3,y5,y7,y9,yc,ye,yg,yo,yq,yy,z0,z8,za,zi,zk,zs,zu,102,104,10c,10e,10m,10o,10w,10x,115,117,11f,11i,11p,11t,11z,124,129,12f,12j,12q,12t,131,133,13c,13d,13n,13w,13y"
+     ],
+     [
+      [
+       2
+      ],
+      "8,i,82,8k,92,9e,9q,a3,af,as,b4,bg,bt,c5,ci,cu,d6,dj,dv,e7,ek,ew,f5,fe,fn,fv,g4,gd,gm,gv,h3,hc,hl,hu,i3,ib,ik,it,j2,jb,jj,js,k1,ka,kj,kr,l0,l9,li,lr,lz,m8,mh,mq,mz,n7,ng,np,ny,o7,of,oo,ox,p6,pf,pn,pw,q5,qe,qn,qv,r4,rd,rm,rv,s3,sc,sl,su,t3,tb,tk,tt,u2,ub,uj,us,v1,va,vj,vr,w0,w9,wi,wr,wz,x8,xh,xq,xz,y7,yg,yp,yw,z2,zf,zr,103,10g,10s,114,11h,11t,126,12i,12u,137,13j,13w"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9042_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "a,l,10,1g,1w,2c,2p,31,84,8m,95,9g,9r,a2,ad,ao,az,b5,ba,bf,bk,bq,bv,c0,c5,cb,cg,cl,cq,cw,d1,d6,dc,dh,dm,dr,dx,e2,e7,ec,ei,en,es,ex,f3,f8,fd,fj,fo,fu,fz,g5,gb,gg,gm,gr,gx,h3,h9,he,hk,hq,hw,i2,i8,ie,ik,iq,iv,j1,j7,jd,jj,jp,jv,k1,k6,kc,ki,ko,ku,l0,l6,lc,li,ln,lt,lz,m5,mb,mh,mn,mt,my,n4,na,ng,nm,ns,ny,o4,oa,of,ol,or,ox,p3,p9,pf,pl,pq,pw,q2,q8,qe,qj,qp,qu,qz,r4,ra,rf,rk,rp,rv,s0,s5,sa,sg,sl,sq,sw,t1,t6,tb,th,tm,tr,tw,u2,u7,uc,uh,un,us,ux,v3,v8,vd,vi,vo,vt,vy,w3,w9,we,wj,wo,wu,wz,x4,xa,xf,xk,xp,xv,y0,y5,ya,yg,yl,yq,yv,z1,zc,zn,zy,109,10k,10v,117,11i,11t,124,12f,12q,131,13c,13o,13z"
+     ],
+     [
+      [
+       0
+      ],
+      "a,k,n,z,1c,1o,20,2h,31,84,8m,95,9e,9o,9x,a7,ag,aq,au,aw,ay,b0,b3,b5,b7,b9,bb,bd,bf,bi,bk,bm,bo,bq,bs,bv,bx,bz,c1,c3,c5,c7,ca,cc,ce,cg,ci,ck,cm,cp,cr,ct,cv,cx,cz,d2,d4,d6,d8,da,dc,de,dh,dj,dl,dn,dp,dr,dt,dw,dy,e0,e2,e4,e6,e9,eb,ed,ef,eh,ej,el,eo,eq,es,eu,ew,ey,f0,f3,f5,f7,f9,fb,fd,fg,fi,fk,fm,fo,fr,fs,fw,fx,g1,g5,g6,ga,gb,gf,gg,gk,gl,gp,gq,gu,gz,h4,h9,he,hj,ho,ht,hy,i3,i8,id,ii,im,in,ir,is,iw,ix,j1,j2,j6,j7,jb,jc,jg,jh,jl,jq,jv,k0,k5,ka,kf,kk,kp,ku,kz,l4,l9,ld,le,li,lj,ln,lo,ls,lt,lx,ly,m2,m3,m7,m8,mc,mh,mm,mr,mw,n1,n6,nb,ng,nl,nq,nv,o0,o4,o5,o9,oa,oe,of,oj,ok,oo,op,ot,ou,oy,oz,p3,p8,pd,pi,pn,ps,px,q2,q7,qc,qh,qm,qr,qv,qw,r0,r1,r5,r6,ra,rb,rf,rg,rk,rl,rp,rq,ru,rz,s4,s9,sd,se,si,sj,sm,so,sr,st,sv,sy,t0,t3,t4,t8,t9,td,ti,tm,tn,tr,ts,tv,tx,u0,u2,u4,u7,u9,uc,ud,uh,ui,ul,um,uq,ur,uv,v0,v4,v5,v9,va,vd,vf,vi,vk,vm,vp,vr,vu,vv,vz,w0,w4,w9,wd,we,wi,wj,wm,wo,wr,wt,wv,wy,x0,x3,x4,x8,x9,xc,xd,xh,xi,xm,xr,xv,xw,y0,y1,y4,y6,y9,yb,yd,yg,yi,yq,ys,z0,z2,za,zc,zk,zm,zu,zv,103,105,10d,10f,10n,10p,10x,10z,117,119,11h,11k,11r,11v,121,126,12b,12h,12l,12s,12u,133,134,13e,13o,13p,13y,140"
+     ],
+     [
+      [
+       2
+      ],
+      "a,k,84,8l,93,9g,9s,a4,ah,at,b6,bi,bu,c7,cj,cw,d8,dk,dx,e9,el,ey,f7,ff,fo,fx,g6,gf,gn,gw,h5,he,hn,hv,i4,id,im,iv,j3,jc,jl,ju,k3,kb,kk,kt,l2,lb,lj,ls,m1,ma,mj,mr,n0,n9,ni,nr,nz,o8,oh,oq,oz,p7,pg,pp,py,q7,qf,qo,qx,r6,rf,rn,rw,s5,se,sn,sv,t4,td,tm,tv,u3,uc,ul,uu,v3,vb,vk,vt,w2,wb,wj,ws,x1,xa,xj,xr,y0,y9,yi,yr,yx,z4,zg,zt,105,10h,10u,116,11i,11v,127,12k,12w,138,13l,13x"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9043_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "b,m,12,1i,1y,2e,2r,32,85,8o,97,9i,9t,a4,af,aq,b1,b6,bb,bh,bm,br,bx,c2,c7,cc,ci,cn,cs,cx,d3,d8,dd,di,do,dt,dy,e4,e9,ee,ej,ep,eu,ez,f4,fa,ff,fk,fq,fw,g1,g7,gc,gi,gn,gt,gy,h4,ha,hg,hm,hs,hy,i4,i9,if,il,ir,ix,j3,j9,jf,jl,jq,jw,k2,k8,ke,kk,kq,kw,l2,l7,ld,lj,lp,lv,m1,m7,md,mi,mo,mu,n0,n6,nc,ni,no,nu,nz,o5,ob,oh,on,ot,oz,p5,pa,pg,pm,ps,py,q4,qa,qg,ql,qq,qv,r1,r6,rb,rh,rm,rr,rw,s2,s7,sc,sh,sn,ss,sx,t2,t8,td,ti,to,tt,ty,u3,u9,ue,uj,uo,uu,uz,v4,v9,vf,vk,vp,vv,w0,w5,wa,wg,wl,wq,wv,x1,x6,xb,xg,xm,xr,xw,y2,y7,yc,yh,yn,ys,yx,z2,ze,zp,100,10b,10m,10x,118,11j,11u,126,12h,12s,133,13e,13p,140"
+     ],
+     [
+      [
+       0
+      ],
+      "c,l,o,11,1d,1q,22,2j,32,85,8o,96,9g,9p,9z,a8,ai,ar,aw,ay,b0,b2,b4,b6,b8,bb,bd,bf,bh,bj,bl,bo,bq,bs,bu,bw,by,c1,c3,c5,c7,c9,cb,cd,cf,ci,ck,cm,co,cq,cs,cv,cx,cz,d1,d3,d5,d8,da,dc,de,dg,di,dk,dm,dp,dr,dt,dv,dx,dz,e2,e4,e6,e8,ea,ec,ef,eh,ej,el,en,ep,er,et,ew,ey,f0,f2,f4,f6,f9,fb,fd,ff,fh,fj,fm,fo,fq,fs,fu,fx,fy,g2,g3,g7,gc,gh,gm,gr,gw,h1,h6,hb,hg,hl,hp,hq,hu,hv,hz,i0,i4,i5,i9,ia,ie,if,ij,io,it,iy,j3,j8,jd,ji,jn,js,jx,k2,k7,kc,kg,kh,kl,km,kq,kr,kv,kw,l0,l1,l5,l6,la,lf,lk,lp,lu,lz,m4,m9,me,mj,mo,mt,my,n3,n7,n8,nc,nd,nh,ni,nm,nn,nr,ns,nw,nx,o1,o6,ob,og,ol,oq,ov,p0,p5,pa,pf,pk,pp,pu,py,pz,q3,q4,q8,q9,qd,qe,qi,qj,qn,qo,qs,qx,r2,r7,rc,rh,rm,rr,rw,s1,s6,sb,sf,sg,sk,sl,so,sq,st,sv,sx,t0,t2,t5,t6,ta,tb,tf,tj,tk,to,tt,tx,ty,u2,u3,u6,u8,ub,ud,uf,ui,uk,un,uo,us,ut,ux,v2,v6,v7,vb,vc,vf,vh,vk,vm,vo,vr,vt,vw,vx,w1,w2,w6,wa,wb,wf,wk,wo,wp,wt,wu,wx,wz,x2,x4,x6,x9,xb,xe,xf,xj,xk,xo,xt,xx,xy,y2,y3,y6,y8,yb,yd,yf,yi,yk,ys,yu,z1,z3,zb,zd,zl,zn,zv,zx,105,107,10f,10h,10p,10r,10z,111,119,11b,11j,11m,11s,11x,122,128,12c,12j,12m,12u,12w,135,136,13g,13q,13r,140,142"
+     ],
+     [
+      [
+       2
+      ],
+      "b,l,85,8n,95,9h,9u,a6,ai,av,b7,bk,bw,c8,cl,cx,da,dm,dy,eb,en,ez,f8,fh,fq,fz,g7,gg,gp,gy,h7,hf,ho,hx,i6,if,in,iw,j5,je,jn,jv,k4,kd,km,kv,l3,lc,ll,lu,m3,mb,mk,mt,n2,nb,nj,ns,o1,oa,oj,or,p0,p9,pi,pr,pz,q8,qh,qq,qz,r7,rg,rp,ry,s7,sf,so,sx,t6,tf,tn,tw,u5,ue,un,uv,v4,vd,vm,vv,w3,wc,wl,wu,x3,xb,xk,xt,y2,yb,yj,ys,yz,z5,zi,zu,107,10j,10v,118,11k,11x,129,12l,12y,13a,13m,13z"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9044_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "d,o,13,1j,1z,2f,2s,34,87,8p,98,9j,9u,a5,ag,ar,b2,b8,bd,bi,bn,bt,by,c3,c8,ce,cj,co,ct,cz,d4,d9,df,dk,dp,du,e0,e5,ea,ef,el,eq,ev,f0,f6,fb,fg,fm,fr,fx,g2,g8,ge,gj,gp,gu,h0,h6,hc,hh,hn,ht,hz,i5,ib,ih,in,is,iy,j4,ja,jg,jm,js,jy,k4,k9,kf,kl,kr,kx,l3,l9,lf,ll,lq,lw,m2,m8,me,mk,mq,mw,n1,n7,nd,nj,np,nv,o1,o7,od,oi,oo,ou,p0,p6,pc,pi,po,pt,pz,q5,qb,qh,qm,qs,qx,r2,r7,rd,ri,rn,rs,ry,s3,s8,sd,sj,so,st,sz,t4,t9,te,tk,tp,tu,tz,u5,ua,uf,uk,uq,uv,v0,v6,vb,vg,vl,vr,vw,w1,w6,wc,wh,wm,wr,wx,x2,x7,xd,xi,xn,xs,xy,y3,y8,yd,yj,yo,yt,yy,z4,zf,zq,101,10c,10n,10y,11a,11l,11w,127,12i,12t,134,13f,13q,142"
+     ],
+     [
+      [
+       0
+      ],
+      "d,n,q,12,1f,1r,23,2k,34,87,8p,98,9h,9r,a0,aa,aj,at,ax,az,b1,b3,b5,b8,ba,bc,be,bg,bi,bl,bn,bp,br,bt,bv,by,c0,c2,c4,c6,c8,ca,cc,cf,ch,cj,cl,cn,cp,cs,cu,cw,cy,d0,d2,d5,d7,d9,db,dd,df,dh,dj,dm,do,dq,ds,du,dw,dz,e1,e3,e5,e7,e9,ec,ee,eg,ei,ek,em,eo,eq,et,ev,ex,ez,f1,f3,f6,f8,fa,fc,fe,fg,fj,fl,fn,fp,fr,fu,fv,fz,g0,g4,g8,g9,gd,ge,gi,gj,gn,go,gs,gx,h2,h7,hc,hh,hm,hr,hw,i1,i6,ib,ig,il,ip,iq,iu,iv,iz,j0,j4,j5,j9,ja,je,jf,jj,jo,jt,jy,k3,k8,kd,ki,kn,ks,kx,l2,l7,lc,lg,lh,ll,lm,lq,lr,lv,lw,m0,m1,m5,m6,ma,mf,mk,mp,mu,mz,n4,n9,ne,nj,no,nt,ny,o3,o7,o8,oc,od,oh,oi,om,on,or,os,ow,ox,p1,p6,pb,pg,pl,pq,pv,q0,q5,qa,qf,qk,qp,qu,qy,qz,r3,r4,r8,r9,rd,re,ri,rj,rn,ro,rs,rx,s2,s7,sc,sg,sh,sl,sm,sp,sr,su,sw,sy,t1,t3,t6,t7,tb,tc,tg,tl,tp,tq,tu,tv,ty,u0,u3,u5,u7,ua,uc,uf,ug,uj,ul,uo,up,ut,uu,uy,v3,v7,v8,vc,vd,vg,vi,vl,vn,vp,vs,vu,vx,vy,w2,w3,w7,wc,wg,wh,wl,wm,wp,wr,wu,ww,wy,x1,x3,x6,x7,xa,xc,xf,xg,xk,xl,xp,xu,xy,xz,y3,y4,y7,y9,yc,ye,yg,yj,yl,yt,yv,z3,z5,zd,zf,zn,zp,zx,zy,106,108,10g,10i,10q,10s,110,112,11a,11c,11k,11n,11u,11y,124,129,12e,12k,12o,12v,12x,136,137,13h,13r,13s,141,143"
+     ],
+     [
+      [
+       2
+      ],
+      "d,n,87,8o,96,9j,9v,a7,ak,aw,b9,bl,bx,ca,cm,cy,db,dn,e0,ec,eo,f1,fa,fi,fr,g0,g9,gi,gq,gz,h8,hh,hq,hy,i7,ig,ip,iy,j6,jf,jo,jx,k6,ke,kn,kw,l5,le,lm,lv,m4,md,mm,mu,n3,nc,nl,nu,o2,ob,ok,ot,p2,pa,pj,ps,q1,qa,qi,qr,r0,r9,ri,rq,rz,s8,sh,sq,sy,t7,tg,tp,ty,u6,uf,uo,ux,v6,ve,vn,vw,w5,we,wm,wv,x4,xd,xm,xu,y3,yc,yl,yu,z0,z7,zj,zw,108,10k,10x,119,11l,11y,12a,12n,12z,13b,13o,140"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9023_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "r,12,1h,1x,2d,2t,36,3i,8l,93,9m,9x,a8,aj,au,b5,bg,bl,br,bw,c1,c7,cc,ch,cm,cs,cx,d2,d7,dd,di,dn,ds,dy,e3,e8,ee,ej,eo,et,ez,f4,f9,fe,fk,fp,fu,g0,g5,gb,gg,gm,gs,gx,h3,h8,he,hk,hp,hv,i1,i7,id,ij,ip,iv,j1,j6,jc,ji,jo,ju,k0,k6,kc,ki,kn,kt,kz,l5,lb,lh,ln,lt,ly,m4,ma,mg,mm,ms,my,n4,na,nf,nl,nr,nx,o3,o9,of,ol,oq,ow,p2,p8,pe,pk,pq,pw,q2,q7,qd,qj,qp,qv,r0,r5,rb,rg,rl,rr,rw,s1,s6,sc,sh,sm,sr,sx,t2,t7,tc,ti,tn,ts,ty,u3,u8,ud,uj,uo,ut,uy,v4,v9,ve,vj,vp,vu,vz,w5,wa,wf,wk,wq,wv,x0,x5,xb,xg,xl,xq,xw,y1,y6,yc,yh,ym,yr,yx,z2,z7,zc,zi,zt,104,10f,10q,111,11c,11o,11z,12a,12l,12w,137,13i,13t,144,14g"
+     ],
+     [
+      [
+       0
+      ],
+      "r,11,14,1g,1t,25,2h,2y,3i,8l,93,9m,9v,a5,ae,ao,ax,b7,bb,bd,bf,bh,bj,bm,bo,bq,bs,bu,bw,bz,c1,c3,c5,c7,c9,cc,ce,cg,ci,ck,cm,co,cq,ct,cv,cx,cz,d1,d3,d6,d8,da,dc,de,dg,dj,dl,dn,dp,dr,dt,dv,dx,e0,e2,e4,e6,e8,ea,ed,ef,eh,ej,el,en,eq,es,eu,ew,ey,f0,f2,f4,f7,f9,fb,fd,ff,fh,fk,fm,fo,fq,fs,fu,fx,fz,g1,g3,g5,g8,g9,gd,ge,gi,gm,gn,gr,gs,gw,gx,h1,h6,hb,hg,hl,hq,hv,i0,i5,ia,if,ik,ip,iu,iy,iz,j3,j4,j8,j9,jd,je,ji,jj,jn,jo,js,jx,k2,k7,kc,kh,km,kr,kw,l1,l6,lb,lg,ll,lp,lq,lu,lv,lz,m0,m4,m5,m9,ma,me,mf,mj,mo,mt,my,n3,n8,nd,ni,nn,ns,nx,o2,o7,oc,og,oh,ol,om,oq,or,ov,ow,p0,p1,p5,p6,pa,pf,pk,pp,pu,pz,q4,q9,qe,qj,qo,qt,qy,r3,r7,r8,rc,rd,rh,ri,rm,rn,rr,rs,rw,rx,s1,s6,sb,sg,sl,sq,su,sv,sz,t0,t3,t5,t8,ta,tc,tf,th,tk,tl,tp,tq,tu,tz,u3,u4,u8,u9,uc,ue,uh,uj,ul,uo,uq,us,uu,ux,uz,v2,v3,v7,v8,vc,vh,vl,vm,vq,vr,vu,vw,vz,w1,w3,w6,w8,wb,wc,wg,wh,wl,wq,wu,wv,wz,x0,x3,x5,x8,xa,xc,xf,xh,xj,xl,xo,xq,xt,xu,xy,xz,y3,y8,yc,yd,yh,yi,yl,yn,yq,ys,yu,yx,yz,z7,z9,zh,zj,zr,zt,101,103,10a,10c,10k,10m,10u,10w,114,116,11e,11g,11o,11q,11y,121,128,12c,12i,12n,12s,12y,131,139,13b,13k,13l,13v,145,146,14f,14h"
+     ],
+     [
+      [
+       2
+      ],
+      "q,11,8l,92,9k,9x,a9,al,ay,ba,bn,bz,cb,co,d0,dc,dp,e1,ee,eq,f2,f8,ff,fo,fs,fw,g5,ge,gi,gn,gw,h4,h9,hd,hm,hv,hz,i4,ic,il,ip,iu,j3,jc,jg,jk,jt,k2,k6,kb,kk,ks,kx,l1,la,lj,ln,ls,m0,m9,md,mi,mr,n0,n4,n8,nh,nq,nu,nz,o8,og,ol,op,oy,p7,pb,pg,po,px,q1,q6,qf,qo,qs,qw,r5,re,ri,rn,rw,s4,s9,sd,sm,sv,sz,t4,tc,tl,tp,tu,u3,uc,ug,uk,ut,v2,v6,vb,vk,vs,vx,w1,wa,wj,wn,ws,x0,x9,xd,xi,xr,y0,y4,y8,yh,yq,yz,z8,ze,zl,zx,10a,10m,10y,11b,11n,11z,12c,12o,131,13d,13p,142,14e"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "1": [
+     [
+      [
+       0
+      ],
+      "l,t,14,1f,1m,2b,3j,h9,hu,zo,102,10c,10q,10z,11k,12m,133,13i,13j,13x,145,14e"
+     ],
+     [
+      [
+       1
+      ],
+      "m,1n,2c,3j,yh,z3,zo,102"
+     ],
+     [
+      [
+       2
+      ],
+      "u,15,1f,13f,13x"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9021_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "s,13,1i,1y,2e,2u,37,3j,8m,95,9o,9z,aa,al,aw,b7,bi,bn,bs,bx,c3,c8,cd,ci,co,ct,cy,d4,d9,de,dj,dp,du,dz,e4,ea,ef,ek,ep,ev,f0,f5,fb,fg,fl,fq,fw,g1,g7,gc,gi,gn,gt,gy,h4,ha,hf,hl,hr,hx,i3,i9,ie,ik,iq,iw,j2,j8,je,jk,jp,jv,k1,k7,kd,kj,kp,kv,l1,l6,lc,li,lo,lu,m0,m6,mc,mh,mn,mt,mz,n5,nb,nh,nn,nt,ny,o4,oa,og,om,os,oy,p4,p9,pf,pl,pr,px,q3,q9,qf,ql,qq,qw,r2,r7,rc,rh,rn,rs,rx,s2,s8,sd,si,so,st,sy,t3,t9,te,tj,to,tu,tz,u4,u9,uf,uk,up,uv,v0,v5,va,vg,vl,vq,vv,w1,w6,wb,wg,wm,wr,ww,x2,x7,xc,xh,xn,xs,xx,y2,y8,yd,yi,yn,yt,yy,z3,z9,ze,zj,zu,105,10g,10s,113,11e,11p,120,12b,12m,12x,138,13k,13v,146,14h"
+     ],
+     [
+      [
+       0
+      ],
+      "t,12,15,1i,1u,26,2j,30,3j,8m,94,9n,9x,a6,ag,ap,az,b8,bc,be,bh,bj,bl,bn,bp,br,bt,bw,by,c0,c2,c4,c6,c9,cb,cd,cf,ch,cj,cl,co,cq,cs,cu,cw,cy,d0,d3,d5,d7,d9,db,dd,dg,di,dk,dm,do,dq,ds,dv,dx,dz,e1,e3,e5,e7,ea,ec,ee,eg,ei,ek,en,ep,er,et,ev,ex,ez,f2,f4,f6,f8,fa,fc,fe,fh,fj,fl,fn,fp,fr,fu,fw,fy,g0,g2,g4,g6,g9,gb,ge,gf,gj,go,gt,gy,h3,h7,h8,hc,hd,hh,hi,hm,hn,hr,hs,hw,hx,i1,i2,i6,ib,ig,il,iq,iv,j0,j5,ja,jf,jk,jp,ju,jy,jz,k3,k4,k8,k9,kd,ke,ki,kj,kn,ko,ks,kt,kx,l2,l7,lc,lh,lm,lr,lw,m1,m6,mb,mg,ml,mp,mq,mu,mv,mz,n0,n4,n5,n9,na,ne,nf,nj,nk,no,nt,ny,o3,o8,od,oi,on,os,ox,p2,p7,pc,pg,ph,pl,pm,pq,pr,pv,pw,q0,q1,q5,q6,qa,qb,qf,qk,qp,qu,qz,r4,r9,re,rj,ro,rt,ry,s3,s7,s8,sc,sd,sh,si,sm,sn,sr,ss,sw,sx,t0,t2,t5,t6,t9,tb,te,tg,ti,tl,tn,tq,tr,tv,tw,u0,u5,u9,ua,ue,uf,ui,uk,un,up,ur,uu,uw,uz,v0,v4,v5,v9,ve,vi,vj,vn,vo,vr,vt,vw,vx,w0,w2,w5,w7,w9,wc,we,wh,wi,wm,wn,wr,ww,x0,x1,x5,x6,x9,xb,xe,xg,xi,xl,xn,xq,xr,xv,xw,y0,y5,y9,ya,ye,yf,yi,yk,yn,yo,yr,yt,yw,yy,z0,z8,za,zi,zk,zs,zu,102,104,10c,10e,10m,10o,10w,10y,116,117,11f,11h,11p,11r,11z,122,129,12d,12j,12o,12t,12z,133,13a,13d,13l,13n,13w,13x,146,147,14g,14i"
+     ],
+     [
+      [
+       2
+      ],
+      "s,12,8m,94,9m,9y,aa,an,az,bc,bo,c0,cd,cp,d1,de,dq,e3,ef,er,f4,fa,fg,fp,ft,fy,g7,gf,gk,go,gx,h6,ha,hf,hn,hw,i0,i5,ie,in,ir,iv,j4,jd,jh,jm,jv,k3,k8,kc,kl,ku,ky,l3,lb,lk,lo,lt,m2,mb,mf,mj,ms,n1,n5,na,nj,nr,nw,o0,o9,oi,om,or,oz,p8,pc,ph,pq,pz,q3,q7,qg,qp,qt,qy,r7,rf,rk,ro,rx,s6,sa,sf,sn,sw,t0,t5,te,tn,tr,tv,u4,ud,uh,um,uv,v3,v8,vc,vl,vu,vy,w3,wb,wk,wo,wt,x2,xb,xf,xj,xs,y1,y5,ya,yj,yr,z0,z9,zg,zm,zy,10b,10n,110,11c,11o,121,12d,12q,132,13e,13r,143,14f"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "1": [
+     [
+      [
+       0
+      ],
+      "m,u,15,1g,1o,2c,3l,ha,hv,zp,103,10e,10s,111,11m,12o,135,13j,13k,13y,146,14f"
+     ],
+     [
+      [
+       1
+      ],
+      "n,1o,2d,3k,yj,z4,zp,103"
+     ],
+     [
+      [
+       2
+      ],
+      "w,17,1g,13g,13y"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9015_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "v,16,1l,21,2h,2x,3a,3m,8p,98,9r,a2,ad,ao,az,ba,bl,bq,bv,c0,c6,cb,cg,cm,cr,cw,d1,d7,dc,dh,dm,ds,dx,e2,e7,ed,ei,en,et,ey,f3,f8,fe,fj,fo,ft,fz,g4,ga,gf,gl,gq,gw,h2,h7,hd,hi,ho,hu,i0,i6,ic,ih,in,it,iz,j5,jb,jh,jn,jt,jy,k4,ka,kg,km,ks,ky,l4,l9,lf,ll,lr,lx,m3,m9,mf,ml,mq,mw,n2,n8,ne,nk,nq,nw,o1,o7,od,oj,op,ov,p1,p7,pd,pi,po,pu,q0,q6,qc,qi,qo,qu,qz,r5,ra,rf,rk,rq,rv,s0,s6,sb,sg,sl,sr,sw,t1,t6,tc,th,tm,tr,tx,u2,u7,ud,ui,un,us,uy,v3,v8,vd,vj,vo,vt,vy,w4,w9,we,wk,wp,wu,wz,x5,xa,xf,xk,xq,xv,y0,y5,yb,yg,yl,yr,yw,z1,z6,zc,zh,zm,zx,108,10j,10v,116,11h,11s,123,12e,12p,130,13c,13n,13y,149,14k"
+     ],
+     [
+      [
+       0
+      ],
+      "w,15,18,1l,1x,29,2m,33,3m,8p,97,9q,a0,a9,aj,as,b2,bb,bf,bi,bk,bm,bo,bq,bs,bu,bw,bz,c1,c3,c5,c7,c9,cc,ce,cg,ci,ck,cm,cp,cr,ct,cv,cx,cz,d1,d3,d6,d8,da,dc,de,dg,dj,dl,dn,dp,dr,dt,dw,dy,e0,e2,e4,e6,e8,ea,ed,ef,eh,ej,el,en,eq,es,eu,ew,ey,f0,f3,f5,f7,f9,fb,fd,ff,fh,fk,fm,fo,fq,fs,fu,fx,fz,g1,g3,g5,g7,ga,gc,ge,gh,gi,gm,gr,gw,h1,h6,hb,hf,hg,hk,hl,hp,hq,hu,hv,hz,i0,i4,i5,i9,ia,ie,ij,io,it,iy,j3,j8,jd,ji,jn,js,jx,k2,k6,k7,kb,kc,kg,kh,kl,km,kq,kr,kv,kw,l0,l1,l5,la,lf,lk,lp,lu,lz,m4,m9,me,mj,mo,mt,mx,my,n2,n3,n7,n8,nc,nd,nh,ni,nm,nn,nr,ns,nw,o1,o6,ob,og,ol,oq,ov,p0,p5,pa,pf,pk,po,pp,pt,pu,py,pz,q3,q4,q8,q9,qd,qe,qi,qj,qn,qs,qx,r2,r7,rc,rh,rm,rr,rw,s1,s6,sb,sf,sg,sk,sl,sp,sq,su,sv,sz,t0,t3,t5,t8,ta,tc,te,th,tj,tl,to,tq,tt,tu,ty,tz,u3,u8,uc,ud,uh,ui,ul,un,uq,us,uu,ux,uz,v2,v3,v7,v8,vc,vh,vl,vm,vq,vr,vu,vw,vz,w1,w3,w5,w8,wa,wc,wf,wh,wk,wl,wp,wq,wu,wz,x3,x4,x8,x9,xc,xe,xh,xj,xl,xo,xq,xt,xu,xy,xz,y3,y8,yc,yd,yh,yi,yl,yn,yq,ys,yu,yw,yz,z1,z3,zb,zd,zl,zn,zv,zx,105,107,10f,10h,10p,10r,10z,111,119,11b,11j,11k,11s,11u,122,125,12c,12g,12m,12r,12w,132,136,13d,13g,13o,13q,13z,140,14a,14j,14l"
+     ],
+     [
+      [
+       2
+      ],
+      "v,15,8p,97,9p,a1,ad,aq,b2,bf,br,c3,cg,cs,d4,dh,dt,e6,ei,eu,f7,fd,fj,fs,fw,g1,ga,gi,gn,gr,h0,h9,hd,hi,hq,hz,i3,i8,ih,iq,iu,iy,j7,jg,jk,jp,jy,k6,kb,kf,ko,kx,l1,l6,le,ln,lr,lw,m5,me,mi,mm,mv,n4,n8,nd,nm,nu,nz,o3,oc,ol,op,ou,p2,pb,pf,pk,pt,q2,q6,qa,qj,qs,qw,r1,ra,ri,rn,rr,s0,s9,sd,si,sq,sz,t3,t8,th,tq,tu,ty,u7,ug,uk,up,uy,v6,vb,vf,vo,vx,w1,w6,we,wn,wr,ww,x5,xe,xi,xm,xv,y4,y8,yd,ym,yu,z3,zc,zj,zp,102,10e,10q,113,11f,11r,124,12g,12t,135,13h,13u,146,14j"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "1": [
+     [
+      [
+       0
+      ],
+      "p,x,19,1j,1r,2f,3o,hd,hz,zt,106,10h,10v,114,11p,12r,138,13m,13n,141,149,14i"
+     ],
+     [
+      [
+       1
+      ],
+      "q,1r,2g,3n,ym,z7,zs,107"
+     ],
+     [
+      [
+       2
+      ],
+      "z,1a,1j,13j,141"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9011_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "y,19,1o,24,2k,30,3d,3p,8s,9a,9t,a4,af,aq,b1,bc,bn,bt,by,c3,c8,ce,cj,co,cu,cz,d4,d9,df,dk,dp,du,e0,e5,ea,ef,el,eq,ev,f1,f6,fb,fg,fm,fr,fw,g1,g7,gc,gi,go,gt,gz,h4,ha,hf,hl,hr,hx,i3,i8,ie,ik,iq,iw,j2,j8,je,jj,jp,jv,k1,k7,kd,kj,kp,kv,l0,l6,lc,li,lo,lu,m0,m6,mc,mh,mn,mt,mz,n5,nb,nh,nn,ns,ny,o4,oa,og,om,os,oy,p4,p9,pf,pl,pr,px,q3,q9,qf,qk,qq,qw,r2,r7,rd,ri,rn,rs,ry,s3,s8,se,sj,so,st,sz,t4,t9,te,tk,tp,tu,tz,u5,ua,uf,ul,uq,uv,v0,v6,vb,vg,vl,vr,vw,w1,w6,wc,wh,wm,ws,wx,x2,x7,xd,xi,xn,xs,xy,y3,y8,yd,yj,yo,yt,yz,z4,z9,ze,zk,zp,100,10b,10m,10x,118,11k,11v,126,12h,12s,133,13e,13p,140,14c,14n"
+     ],
+     [
+      [
+       0
+      ],
+      "z,18,1b,1n,20,2c,2o,35,3p,8s,9a,9t,a2,ac,al,av,b4,be,bi,bk,bm,bp,br,bt,bv,bx,bz,c1,c4,c6,c8,ca,cc,ce,cg,cj,cl,cn,cp,cr,ct,cw,cy,d0,d2,d4,d6,d8,db,dd,df,dh,dj,dl,dn,dq,ds,du,dw,dy,e0,e3,e5,e7,e9,eb,ed,ef,ei,ek,em,eo,eq,es,eu,ex,ez,f1,f3,f5,f7,fa,fc,fe,fg,fi,fk,fm,fp,fr,ft,fv,fx,fz,g1,g4,g6,g8,ga,gc,gf,gh,gk,gl,gp,gt,gu,gy,gz,h3,h4,h8,h9,hd,he,hi,hj,hn,ho,hs,hx,i2,i7,ic,ih,im,ir,iw,j1,j6,jb,jg,jk,jl,jp,jq,ju,jv,jz,k0,k4,k5,k9,ka,ke,kf,kj,ko,kt,ky,l3,l8,ld,li,ln,ls,lx,m2,m7,mb,mc,mg,mh,ml,mm,mq,mr,mv,mw,n0,n1,n5,n6,na,nf,nk,np,nu,nz,o4,o9,oe,oj,oo,ot,oy,p2,p3,p7,p8,pc,pd,ph,pi,pm,pn,pr,ps,pw,px,q1,q6,qb,qg,ql,qq,qv,r0,r5,ra,rf,rk,rp,rt,ru,ry,rz,s3,s4,s8,s9,sd,se,si,sj,sn,so,ss,sx,t2,t6,t7,tb,tc,tf,th,tk,tm,to,tr,tt,tw,tx,u1,u2,u6,ub,uf,ug,uk,ul,uo,uq,ut,uv,ux,v0,v2,v5,v6,va,vb,vf,vj,vk,vo,vt,vx,vy,w2,w3,w6,w8,wb,wd,wf,wi,wk,wn,wo,ws,wt,wx,x2,x6,x7,xb,xc,xf,xh,xk,xm,xo,xr,xt,xw,xx,y1,y2,y6,ya,yb,yf,yk,yo,yp,yt,yu,yx,yz,z2,z4,z6,ze,zg,zo,zq,zy,100,108,10a,10i,10k,10s,10t,111,113,11b,11d,11l,11n,11v,11x,125,128,12f,12j,12p,12u,12z,135,139,13g,13j,13r,13s,142,14c,14d,14m,14o"
+     ],
+     [
+      [
+       2
+      ],
+      "y,18,8s,99,9r,a4,ag,at,b5,bh,bu,c6,ci,cv,d7,dk,dw,e8,el,ex,fa,ff,fm,fv,fz,g4,gc,gl,gp,gu,h3,hc,hg,hk,ht,i2,i6,ib,ik,is,ix,j1,ja,jj,jn,js,k0,k9,kd,ki,kr,l0,l4,l8,lh,lq,lu,lz,m8,mg,ml,mp,my,n7,nb,ng,no,nx,o1,o6,of,oo,os,ow,p5,pe,pi,pn,pw,q4,q9,qd,qm,qv,qz,r4,rc,rl,rp,ru,s3,sc,sg,sk,st,t2,t6,tb,tk,ts,tx,u1,ua,uj,un,us,v0,v9,vd,vi,vr,w0,w4,w8,wh,wq,wu,wz,x8,xg,xl,xp,xy,y7,yb,yg,yo,yx,z6,zf,zl,zs,104,10h,10t,115,11i,11u,127,12j,12v,138,13k,13x,149,14l"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "1": [
+     [
+      [
+       0
+      ],
+      "s,10,1b,1m,1t,2i,3q,hg,i1,zv,109,10j,10x,117,11r,12t,13a,13p,13q,144,14c,14l"
+     ],
+     [
+      [
+       1
+      ],
+      "t,1u,2j,3q,yp,za,zv,109"
+     ],
+     [
+      [
+       2
+      ],
+      "11,1c,1m,13m,144"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9007_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "11,1d,1s,28,2o,34,3h,3s,8v,9e,9x,a8,aj,au,b5,bg,br,bw,c2,c7,cc,ch,cn,cs,cx,d2,d8,dd,di,dn,dt,dy,e3,e9,ee,ej,eo,eu,ez,f4,f9,ff,fk,fp,fu,g0,g5,gb,gg,gm,gr,gx,h2,h8,hd,hj,ho,hu,i0,i6,ic,ii,io,iu,j0,j5,jb,jh,jn,jt,jz,k5,kb,kg,km,ks,ky,l4,la,lg,lm,ls,lx,m3,m9,mf,ml,mr,mx,n3,n9,ne,nk,nq,nw,o2,o8,oe,ok,op,ov,p1,p7,pd,pj,pp,pv,q1,q6,qc,qi,qo,qu,r0,r6,rb,rg,rm,rr,rw,s1,s7,sc,sh,sm,ss,sx,t2,t7,td,ti,tn,tt,ty,u3,u8,ue,uj,uo,ut,uz,v4,v9,ve,vk,vp,vu,w0,w5,wa,wf,wl,wq,wv,x0,x6,xb,xg,xl,xr,xw,y1,y7,yc,yh,ym,ys,yx,z2,z7,zd,zi,zn,zs,104,10f,10q,111,11c,11n,11y,129,12k,12w,137,13i,13t,144,14f,14q"
+     ],
+     [
+      [
+       0
+      ],
+      "12,1b,1f,1r,23,2g,2s,39,3s,8v,9e,9w,a6,af,ap,ay,b8,bh,bm,bo,bq,bs,bu,bw,by,c1,c3,c5,c7,c9,cb,ce,cg,ci,ck,cm,co,cr,ct,cv,cx,cz,d1,d3,d5,d8,da,dc,de,dg,di,dl,dn,dp,dr,dt,dv,dy,e0,e2,e4,e6,e8,ea,ec,ef,eh,ej,el,en,ep,es,eu,ew,ey,f0,f2,f5,f7,f9,fb,fd,ff,fh,fj,fm,fo,fq,fs,fu,fw,fz,g1,g3,g5,g7,g9,gc,ge,gg,gj,gk,gn,go,gs,gt,gx,h2,h7,hc,hh,hm,hr,hw,i1,i6,ib,ig,ik,il,ip,iq,iu,iv,iz,j0,j4,j5,j9,ja,je,jj,jo,jt,jy,k3,k8,kd,ki,kn,ks,kx,l2,l7,lb,lc,lg,lh,ll,lm,lq,lr,lv,lw,m0,m1,m5,ma,mf,mk,mp,mu,mz,n4,n9,ne,nj,no,nt,ny,o2,o3,o7,o8,oc,od,oh,oi,om,on,or,os,ow,p1,p6,pb,pg,pl,pq,pv,q0,q5,qa,qf,qk,qp,qt,qu,qy,qz,r3,r4,r8,r9,rd,re,ri,rj,rn,rs,rx,s2,s7,sc,sh,sm,sr,sw,t1,t5,t6,ta,tb,te,tg,tj,tl,tn,tq,ts,tv,tw,u0,u1,u5,ua,ue,uj,un,uo,us,ut,uw,uy,v1,v3,v5,v8,va,vd,ve,vi,vj,vn,vs,vw,vx,w1,w2,w5,w7,wa,wc,we,wh,wj,wm,wn,wr,ws,ww,x1,x5,xa,xe,xf,xj,xk,xn,xp,xs,xu,xw,xz,y1,y4,y5,y9,ya,ye,yj,yn,yo,ys,yt,yw,yy,z1,z3,z5,z8,za,zi,zk,zs,zt,101,103,10b,10d,10l,10n,10v,10x,115,117,11f,11h,11p,11r,11z,121,129,12c,12j,12n,12s,12y,132,139,13c,13k,13m,13v,13w,146,14g,14h,14q,14s"
+     ],
+     [
+      [
+       2
+      ],
+      "11,1b,8v,9d,9v,a7,ak,aw,b9,bl,bx,ca,cm,cy,db,dn,e0,ec,eo,f1,fd,fj,fp,fy,g3,g7,gg,gp,gt,gx,h6,hf,hj,ho,hx,i5,ia,ie,in,iw,j0,j5,jd,jm,jr,jv,k4,kd,kh,kl,ku,l3,l7,lc,ll,lt,ly,m2,mb,mk,mo,mt,n1,na,nf,nj,ns,o1,o5,o9,oi,or,ov,p0,p9,ph,pm,pq,pz,q8,qc,qh,qp,qy,r3,r7,rg,rp,rt,rx,s6,sf,sj,so,sx,t5,ta,te,tn,tw,u0,u5,ud,um,ur,uv,v4,vd,vh,vl,vu,w3,w7,wc,wl,wt,wy,x2,xb,xk,xo,xt,y1,ya,yf,yj,ys,z1,z9,zi,zp,zv,108,10k,10x,119,11l,11y,12a,12n,12z,13b,13o,140,14c,14p"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "1": [
+     [
+      [
+       0
+      ],
+      "v,14,1f,1q,1x,2m,3u,hj,i5,zz,10d,10n,111,11a,11v,12x,13e,13t,13u,148,14f,14o"
+     ],
+     [
+      [
+       1
+      ],
+      "x,1x,2m,3t,ys,zd,zz,10d"
+     ],
+     [
+      [
+       2
+      ],
+      "15,1g,1p,13p,147"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9005_103": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "13,1e,1t,29,2p,35,3i,3u,8x,9f,9y,a9,ak,av,b6,bh,bs,by,c3,c8,ce,cj,co,ct,cz,d4,d9,de,dk,dp,du,dz,e5,ea,ef,el,eq,ev,f0,f6,fb,fg,fl,fr,fw,g1,g6,gc,gi,gn,gt,gy,h4,h9,hf,hk,hq,hw,i2,i8,id,ij,ip,iv,j1,j7,jd,jj,jp,ju,k0,k6,kc,ki,ko,ku,l0,l5,lb,lh,ln,lt,lz,m5,mb,mh,mm,ms,my,n4,na,ng,nm,ns,ny,o3,o9,of,ol,or,ox,p3,p9,pe,pk,pq,pw,q2,q8,qe,qk,qq,qv,r1,r7,rc,ri,rn,rs,ry,s3,s8,sd,sj,so,st,sy,t4,t9,te,tj,tp,tu,tz,u5,ua,uf,uk,uq,uv,v0,v5,vb,vg,vl,vq,vw,w1,w6,wc,wh,wm,wr,wx,x2,x7,xc,xi,xn,xs,xx,y3,y8,yd,yj,yo,yt,yy,z4,z9,ze,zj,zp,zu,105,10g,10r,112,11d,11p,120,12b,12m,12x,138,13j,13u,146,14h,14s"
+     ],
+     [
+      [
+       0
+      ],
+      "14,1d,1g,1s,25,2h,2u,3b,3u,8x,9f,9y,a7,ah,aq,b0,b9,bj,bn,bp,br,bu,bw,by,c0,c2,c4,c7,c9,cb,cd,cf,ch,cj,cl,co,cq,cs,cu,cw,cy,d1,d3,d5,d7,d9,db,de,dg,di,dk,dm,do,dq,ds,dv,dx,dz,e1,e3,e5,e8,ea,ec,ee,eg,ei,el,en,ep,er,et,ev,ex,ez,f2,f4,f6,f8,fa,fc,ff,fh,fj,fl,fn,fp,fs,fu,fw,fy,g0,g2,g4,g6,g9,gb,gd,gf,gh,gk,gm,gp,gq,gu,gz,h3,h4,h8,h9,hd,he,hi,hj,hn,ho,hs,ht,hx,hy,i2,i7,ic,ih,im,ir,iw,j1,j6,jb,jg,jl,jq,ju,jv,jz,k0,k4,k5,k9,ka,ke,kf,kj,kk,ko,kp,kt,ky,l3,l8,ld,li,ln,ls,lx,m2,m7,mc,mh,ml,mm,mq,mr,mv,mw,n0,n1,n5,n6,na,nb,nf,ng,nk,np,nu,nz,o4,o9,oe,oj,oo,ot,oy,p3,p8,pc,pd,ph,pi,pm,pn,pr,ps,pw,px,q1,q2,q6,q7,qb,qg,ql,qq,qv,r0,r5,ra,rf,rk,rp,ru,rz,s3,s4,s8,s9,sd,se,si,sj,sn,so,ss,st,sx,sy,t2,t7,tb,tc,tg,th,tk,tm,tp,tr,tt,tw,ty,u1,u2,u6,u7,ub,ug,uk,ul,up,uq,ut,uv,uy,v0,v2,v5,v7,va,vb,vf,vg,vk,vp,vt,vy,w2,w3,w7,w8,wb,wd,wg,wi,wk,wn,wp,ws,wt,wx,wy,x2,x7,xb,xc,xg,xh,xk,xm,xp,xr,xt,xw,xy,y1,y2,y6,y7,yb,yg,yk,yp,yt,yu,yy,yz,z2,z4,z7,z9,zb,zj,zl,zt,zv,103,105,10d,10f,10n,10p,10x,10z,117,118,11g,11i,11q,11s,120,122,12a,12d,12k,12o,12u,12z,134,13a,13e,13l,13o,13w,13y,147,14h,14i,14r,14t"
+     ],
+     [
+      [
+       2
+      ],
+      "13,1d,8x,9e,9w,a9,al,ay,ba,bm,bz,cb,co,d0,dc,dp,e1,ed,eq,f2,ff,fk,fr,g0,g4,g9,gh,gq,gu,gz,h8,hh,hl,hp,hy,i7,ib,ig,ip,ix,j2,j6,jf,jo,js,jx,k5,ke,ki,kn,kw,l5,l9,ld,lm,lv,lz,m4,md,ml,mq,mu,n3,nc,ng,nl,nt,o2,o6,ob,ok,ot,ox,p1,pa,pj,pn,ps,q1,q9,qe,qi,qr,r0,r4,r9,rh,rq,ru,rz,s8,sh,sl,sp,sy,t7,tb,tg,tp,tx,u2,u6,uf,uo,us,ux,v5,ve,vi,vn,vw,w5,w9,wd,wm,wv,wz,x4,xd,xl,xq,xu,y3,yc,yg,yl,yt,z2,zb,zk,zq,zx,109,10m,10y,11a,11n,11z,12c,12o,130,13d,13p,142,14e,14q"
+     ]
+    ]
+   },
+   "TRAM-T2": {
+    "1": [
+     [
+      [
+       0
+      ],
+      "x,15,1g,1r,1y,2n,3v,hl,i6,100,10e,10o,112,11c,11w,12z,13g,13u,13v,149,14h,14q"
+     ],
+     [
+      [
+       1
+      ],
+      "y,1z,2o,3v,yu,zf,100,10e"
+     ],
+     [
+      [
+       2
+      ],
+      "16,1h,1r,13r,149"
+     ]
+    ]
+   }
+  },
+  "autobus-costituzione-sette-regole": {
+   "TRAM-T1.3": {
+    "1": [
+     [
+      [
+       1
+      ],
+      "16,1h,1w,2c,2s,38,3l,3x,90,9i,a1,ac,an,ay,b9,bk,bv,c1,c6,cb,cg,cm,cr,cw,d2,d7,dc,dh,dn,ds,dx,e2,e8,ed,ei,en,et,ey,f3,f9,fe,fj,fo,fu,fz,g4,g9,gf,gl,gq,gw,h1,h7,hc,hi,hn,ht,hz,i5,ib,ig,im,is,iy,j4,ja,jg,jm,js,jx,k3,k9,kf,kl,kr,kx,l3,l8,le,lk,lq,lw,m2,m8,me,mk,mp,mv,n1,n7,nd,nj,np,nv,o0,o6,oc,oi,oo,ou,p0,p6,pc,ph,pn,pt,pz,q5,qb,qh,qn,qs,qy,r4,ra,rf,rl,rq,rv,s0,s6,sb,sg,sm,sr,sw,t1,t7,tc,th,tm,ts,tx,u2,u7,ud,ui,un,ut,uy,v3,v8,ve,vj,vo,vt,vz,w4,w9,we,wk,wp,wu,x0,x5,xa,xf,xl,xq,xv,y0,y6,yb,yg,yl,yr,yw,z1,z7,zc,zh,zm,zs,zx,108,10j,10u,115,11g,11s,123,12e,12p,130,13b,13m,13x,149,14k,14v"
+     ],
+     [
+      [
+       0
+      ],
+      "17,1g,1j,1v,28,2k,2w,3d,3x,90,9i,a1,aa,ak,at,b3,bc,bm,bq,bs,bu,bx,bz,c1,c3,c5,c7,c9,cc,ce,cg,ci,ck,cm,co,cr,ct,cv,cx,cz,d1,d4,d6,d8,da,dc,de,dg,dj,dl,dn,dp,dr,dt,dv,dy,e0,e2,e4,e6,e8,eb,ed,ef,eh,ej,el,en,eq,es,eu,ew,ey,f0,f2,f5,f7,f9,fb,fd,ff,fi,fk,fm,fo,fq,fs,fu,fx,fz,g1,g3,g5,g7,g9,gc,ge,gg,gi,gk,gn,gp,gs,gt,gx,h1,h2,h6,h7,hb,hc,hg,hh,hl,hm,hq,hr,hv,hw,i0,i5,ia,if,ik,ip,iu,iz,j4,j9,je,jj,jo,js,jt,jx,jy,k2,k3,k7,k8,kc,kd,kh,ki,km,kn,kr,kw,l1,l6,lb,lg,ll,lq,lv,m0,m5,ma,mf,mj,mk,mo,mp,mt,mu,my,mz,n3,n4,n8,n9,nd,ne,ni,nn,ns,nx,o2,o7,oc,oh,om,or,ow,p1,p6,pa,pb,pf,pg,pk,pl,pp,pq,pu,pv,pz,q0,q4,q5,q9,qe,qj,qo,qt,qy,r3,r8,rd,ri,rn,rs,rx,s1,s2,s6,s7,sb,sc,sg,sh,sl,sm,sq,sr,sv,sw,t0,t5,ta,te,tf,tj,tk,tn,tp,ts,tu,tw,tz,u1,u4,u5,u9,ua,ue,uj,un,uo,us,ut,uw,uy,v1,v3,v5,v8,va,vd,ve,vi,vj,vn,vr,vs,vw,w1,w5,w6,wa,wb,we,wg,wj,wl,wn,wq,ws,wv,ww,x0,x1,x5,xa,xe,xf,xj,xk,xn,xp,xs,xu,xw,xz,y1,y4,y5,y9,ya,ye,yi,yj,yn,ys,yw,yx,z1,z2,z5,z7,za,zc,ze,zm,zo,zw,zy,106,108,10g,10i,10q,10s,110,111,119,11b,11j,11l,11t,11v,123,125,12d,12g,12n,12r,12x,132,137,13d,13h,13o,13r,13z,140,14a,14k,14l,14u,14w"
+     ],
+     [
+      [
+       2
+      ],
+      "16,1g,90,9h,9z,ac,ao,b1,bd,bp,c2,ce,cq,d3,df,ds,e4,eg,et,f5,fi,fn,fu,g3,g7,gc,gk,gt,gx,h2,hb,hk,ho,hs,i1,ia,ie,ij,is,j0,j5,j9,ji,jr,jv,k0,k8,kh,kl,kq,kz,l8,lc,lg,lp,ly,m2,m7,mg,mo,mt,mx,n6,nf,nj,no,nw,o5,o9,oe,on,ow,p0,p4,pd,pm,pq,pv,q4,qc,qh,ql,qu,r3,r7,rc,rk,rt,rx,s2,sb,sk,so,ss,t1,ta,te,tj,ts,u0,u5,u9,ui,ur,uv,v0,v8,vh,vl,vq,vz,w8,wc,wg,wp,wy,x2,x7,xg,xo,xt,xx,y6,yf,yj,yo,yw,z5,ze,zn,zt,100,10c,10p,111,11d,11q,122,12f,12r,133,13g,13s,145,14h,14t"
+     ]
+    ],
+    "0": [
+     [
+      [
+       1
+      ],
+      "c,s,18,1n,26,2q,8c,8w,9b,9v,ab,al,aw,b6,bh,bx,c7,cc,ci,cn,cs,cy,d3,d8,dd,dj,do,dt,dy,e4,ea,ef,el,eq,ew,f1,f7,fc,fi,fo,fu,g0,g6,gc,gi,gn,gt,gz,h5,hb,hh,hn,ht,hy,i4,ia,ig,im,is,iy,j4,ja,jf,jl,jr,jx,k3,k9,kf,kl,kr,kw,l2,l8,le,lk,lq,lw,m2,m7,md,mj,mp,mv,n1,n7,nd,nj,no,nu,o0,o6,oc,oi,oo,ou,oz,p4,pf,pk,pp,pu,q0,q5,qg,ql,qq,qv,r1,r6,rb,rg,rm,rr,rw,s1,s7,sc,sh,sn,ss,sx,t2,t8,td,ti,tn,tt,ty,u3,u8,ue,uj,uo,uu,uz,v4,v9,vf,vk,vp,vu,w0,w5,wa,wf,wl,wq,wv,x1,x6,xb,xg,xr,y3,ye,yp,z0,zb,zm,zx,108,10j,10v,116,11h,11s,123,12e,12p,130,13g,13w"
+     ],
+     [
+      [
+       0
+      ],
+      "6,c,i,v,1d,23,2q,8c,8w,9c,9t,9u,aa,ab,aj,an,aw,b4,b5,bd,bm,bq,bv,by,c3,c7,c8,cb,cc,cg,ck,co,cp,cs,ct,cx,d1,d2,d5,d6,da,de,df,di,dj,dn,dr,dv,dw,dz,e0,e4,e9,ed,ee,eh,ej,em,eo,er,es,ev,ex,f0,f2,f5,f7,fa,fc,ff,fh,fk,fm,fp,fr,fu,fw,fz,g1,g4,g6,g9,gb,ge,gg,gj,gl,go,gq,gt,gv,gy,h0,h3,h5,h8,ha,hd,hf,hi,hj,hm,ho,hr,ht,hw,hy,i1,i3,i6,i8,ib,id,ig,ii,il,in,iq,is,iv,ix,j0,j2,j5,j7,ja,jc,jf,jh,jk,jm,jp,jr,ju,jw,jz,k1,k4,k6,k9,ka,kd,kf,ki,kk,kn,kp,ks,ku,kx,kz,l2,l4,l7,l9,lc,le,lh,lj,lm,lo,lr,lt,lw,ly,m1,m3,m6,m8,mb,md,mg,mi,ml,mn,mq,ms,mv,mx,n0,n1,n4,n6,n9,nb,ne,ng,nj,nl,no,nq,nt,nv,ny,o0,o3,o5,o8,oa,od,of,oi,ok,on,op,os,ou,ox,oz,p2,p4,p7,p9,pc,pe,ph,pj,pm,po,pr,ps,pv,px,q0,q2,q5,q7,qa,qc,qf,qh,qk,qm,qp,qr,qu,qw,qy,r1,r3,r6,r7,rb,rc,rg,rl,rp,rq,ru,rv,ry,s0,s3,s5,s7,sa,sc,sf,sg,sj,so,sp,st,su,sy,t3,t7,t8,tc,td,tg,ti,tl,tn,tp,ts,tu,tx,ty,u2,u3,u7,uc,ug,uh,ul,um,up,ur,uu,uw,uy,v1,v3,v6,v7,va,vc,vf,vg,vk,vl,vp,vu,vy,vz,w3,w4,w7,w9,wc,we,wg,wj,wl,wo,wp,wt,wu,wy,x8,xi,xs,y1,y2,yb,yc,yl,ym,yv,z5,zf,zp,zz,100,109,10b,10j,10m,10s,10x,112,118,11c,11j,11m,11u,11w,125,126,12g,12s,131,135,13h,13r,13t"
+     ],
+     [
+      [
+       2
+      ],
+      "c,8c,8w,9o,a0,ac,ap,b1,be,bq,c2,cf,cr,d3,dg,dm,dt,e0,e6,ed,ej,eq,ex,f3,fa,fg,fn,fu,g0,g7,gd,gk,gr,gx,h4,ha,hh,ho,hu,i1,i7,ie,il,ir,iy,j4,jb,ji,jo,jv,k1,k8,kf,kl,ks,ky,l5,lc,li,lp,lv,m2,m9,mf,mm,ms,mz,n6,nc,nj,np,nw,o3,o9,og,om,ot,p0,p6,pd,pj,pq,px,q3,qa,qg,qn,qu,r0,r7,rd,rk,rr,rx,s4,sa,sh,so,su,t1,t7,te,tl,tr,ty,u4,ub,ui,uo,uv,v1,v8,vf,vl,vs,vy,w5,wc,wi,wp,wv,x2,x9,xf,xm,xy,yb,yn,yz,zc,zo,101,10d,10p,112,11e,11q,123,12f,12s,134,13p"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9061_103": {
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "c,i,q,10,1n,2a,2t,39,8b,8k,8l,8p,8r,8t,8v,8w,8z,92,93,97,98,99,9c,9h,9i,9l,9q,9r,9v,9z,a1,a4,a8,a9,aa,ad,ah,am,ar,av,b0,b4,b9,be,bi,bn,br,bw,c0,c5,ca,ce,cj,cn,cs,cx,d1,d6,da,df,dj,do,dt,dx,e2,e6,eb,eg,ek,ep,et,ey,f2,f7,f8,fc,fd,fi,fn,fs,ft,fy,fz,g3,g4,g8,ga,ge,gf,gk,gl,gp,gq,gv,gw,h0,h1,h6,h7,hb,hd,hh,hi,hn,ho,hs,ht,hy,hz,i3,i4,i9,ia,ie,ig,ik,il,iq,ir,iv,iw,j1,j2,j6,j7,jc,jd,jh,jj,jn,jo,js,ju,jy,jz,k4,k5,k9,ka,kf,kg,kk,km,kq,kr,kv,kx,l1,l2,l7,l8,lc,ld,li,lj,ln,lo,lt,lu,ly,m0,m4,m5,ma,mb,mf,mg,ml,mm,mq,mr,mw,mx,n1,n3,n7,n8,nd,ne,ni,nj,no,np,nt,nu,nz,o0,o4,o6,oa,ob,of,oh,ol,om,or,os,ow,ox,p2,p3,p7,p9,pd,pe,pi,pk,po,pp,pu,pv,pz,q0,q5,q6,qa,qb,qf,qh,qk,qn,qp,qs,qu,qy,qz,r3,r4,r8,r9,rd,re,ri,rk,rn,rq,rs,ru,rx,rz,s2,s4,s7,s9,sc,se,sg,sj,sl,so,sq,st,sv,sy,t0,t2,t5,t7,ta,tc,tf,th,tj,tm,to,tr,tt,tw,ty,u1,u3,u5,u8,ua,ud,uf,ui,uk,un,up,ur,uu,uw,uz,v1,v4,v6,v9,vb,vd,vg,vi,vl,vn,vq,vs,vu,vx,vz,w2,w4,w7,w9,wc,we,wh,wj,wl,wo,wq,wt,wv,wy,x0,x2,x5,x7,xa,xc,xf,xh,xk,xm,xo,xr,xt,xw,xy,y1,y3,y7,y9,yd,yf,yj,yl,yp,yr,yv,yx,z2,z3,z9,za,zh,zi,zp,zq,zx,zy,104,105,10c,10d,10k,10l,10s,10t,110,111,117,118,11f,11g,11n,11o,11v,11w,123,127,12a,12i,12n,12s,130,133,13d,13g,13q,13w,143"
+     ],
+     [
+      [
+       1
+      ],
+      "8,o,17,1p,2c,2t,39,8b,8m,8t,8x,93,9e,9o,9y,a9,ak,al,av,b2,b6,b9,bg,bk,bn,bv,c1,c7,cd,cj,cp,cv,d1,d7,dd,dj,dp,dv,e1,e7,ed,ej,ep,ev,f1,f8,fe,fl,fr,fy,g4,gb,gh,go,gu,h1,h7,he,hk,hr,hx,i4,ia,ih,in,iu,j0,j7,jd,jk,jq,jx,k3,ka,kg,kn,kt,l0,l6,ld,lj,lq,lw,m3,m9,mg,mm,mt,mz,n6,nc,nj,np,nw,o2,o9,of,om,os,oz,p5,pc,pi,pp,pv,q2,q8,qf,ql,qr,qw,r2,r7,rd,ri,ro,ru,rz,s5,sa,sg,sl,sr,sx,t2,t8,td,tj,to,tu,u0,u5,ub,ug,um,ur,ux,v2,v8,ve,vj,vp,vu,w0,w5,wb,wh,wm,ws,wx,x3,x8,xe,xl,xs,y3,ye,yq,z1,zc,zn,zy,109,10l,10w,117,11i,11t,124,12f,12r,132,13d,13s"
+     ],
+     [
+      [
+       2
+      ],
+      "c,r,8c,8m,8t,8x,93,9f,9q,a1,ac,an,ay,ba,bl,bw,c7,ci,ct,d4,dg,dr,e2,ed,eo,ez,fa,fm,fx,g8,gj,gu,h5,hh,hs,i3,ie,ip,j0,jb,jn,jy,k9,kk,kv,l6,lh,lt,m4,mb,mi,mp,mw,n3,na,nh,no,nw,o3,oa,oh,oo,ov,p2,p9,pg,pn,pu,q1,q9,qg,qn,qu,r1,r8,rf,rm,rt,s0,s7,se,sm,st,t0,t7,te,tl,ts,tz,u6,ud,uk,ur,uz,v6,vd,vk,vr,vy,w5,wc,wj,wq,wx,x4,xc,xj,xq,xx,y4,yb,yi,ys,z2,zb,zl,zv,105,10e,10o,10y,118,11h,11r,121,12b,12k,130,13g,13x"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "8,h,11,13,1a,1e,1t,1z,2a,2s,91,9b,9l,9u,a4,ad,ah,ai,am,ar,av,b0,b4,b9,be,bi,bn,br,bw,c0,c1,c5,ca,ce,cj,cn,cs,cx,d1,d6,da,df,dj,dk,do,dt,dx,e2,e6,eb,eg,ek,ep,eu,ev,ez,f0,f4,f5,fa,ff,fk,fl,fp,fq,fu,fv,g0,g5,ga,gb,gf,gg,gk,gl,gq,gv,gx,h0,h1,h5,h6,hb,hg,hi,hl,hm,hr,hw,hx,i2,i3,i7,i8,id,ie,ii,ij,io,ip,iu,iz,j0,j5,j6,ja,jb,jg,jh,jl,jm,jr,js,jx,k2,k3,k8,kd,ke,kj,kk,ko,kp,ku,kv,l0,l5,l6,lb,lg,lh,lm,ln,lr,ls,lx,ly,m3,m8,m9,me,mj,mk,mp,mq,mu,mv,n0,n1,n5,n6,nb,nc,nh,nm,nn,ns,nt,nx,ny,o3,o4,o8,o9,oe,of,ok,op,oq,ov,p0,p1,p6,p7,pb,pc,ph,pi,pn,ps,pt,px,py,q2,q4,q7,qa,qc,qf,qh,ql,qq,qv,qw,r0,r1,r5,r7,ra,rc,rf,rh,rk,rm,ro,rr,rt,rv,ry,s0,s3,s5,s8,sa,sd,sf,si,sk,sn,sp,ss,su,sw,sy,t1,t3,t6,t8,tb,td,tg,ti,tl,tn,tq,ts,tv,tx,tz,u2,u4,u6,u9,ub,ue,ug,uj,ul,uo,uq,ut,uv,uy,v0,v3,v5,v7,v9,vc,ve,vh,vj,vm,vo,vr,vt,vw,vy,w1,w3,w6,w8,wb,wd,wf,wh,wk,wm,wp,wr,wu,ww,wz,x1,x4,x6,x9,xb,xe,xg,xi,xk,xo,xq,xu,xw,y0,y2,y6,y8,yc,ye,yi,yk,yo,yq,yu,yw,z0,z2,z6,z8,zc,ze,zi,zk,zo,zq,zu,zw,100,102,106,108,10c,10e,10i,10k,10n,10q,10w,10y,114,116,118,11c,11e,11k,11l,11s,11t,11z,121,127,129,12a,12f,12h,12n,12o,12r,12v,12w,132,134,136,137,13a,13c,13i,13k,13l,13q,13s,13t,13y,141,14b,14n,14o"
+     ],
+     [
+      [
+       1
+      ],
+      "a,u,17,1a,1j,1w,1z,2d,2s,91,9g,9s,a3,ae,aq,b1,bc,bn,bx,c7,cd,cj,cp,cv,d1,d7,dd,dj,dp,dv,e1,e7,ed,ek,eq,ex,f4,fa,fg,fn,ft,g0,g6,gd,gj,gq,gw,h3,h9,hg,hm,ht,hz,i6,ic,ij,ip,iw,j2,j9,jf,jm,js,jz,k5,kc,ki,kp,kv,l2,l8,lf,ll,ls,ly,m5,mb,mi,mo,mv,n1,n8,ne,nl,nr,ny,o4,ob,oh,oo,ou,p1,p7,pe,pk,pr,px,q4,q9,qf,ql,qq,qw,r1,r7,rc,ri,ro,rt,rz,s4,sa,sf,sl,sr,sw,t2,t7,td,ti,to,tt,tz,u5,ua,ug,ul,ur,uw,v2,v8,vd,vj,vo,vu,vz,w5,wb,wg,wm,wr,wx,x4,xb,xi,xp,xw,y3,y5,ya,yh,yp,yr,yw,z3,za,zc,zh,zq,zs,103,10e,10p,111,11c,11n,11y,129,12k,12w,137,13i,13t,144,14i"
+     ],
+     [
+      [
+       2
+      ],
+      "i,13,91,9j,9u,a5,ag,ar,b3,be,bp,c0,cb,cm,cy,d9,dk,dv,e6,eh,es,f4,ff,fq,g1,gc,gn,gy,ha,hl,hw,i7,ii,it,j5,jg,jr,k2,kd,ko,kz,lb,lm,lt,m0,m7,me,ml,ms,mz,n6,nd,nl,ns,nz,o6,od,ok,or,oy,p5,pc,pj,pq,py,q5,qc,qj,qq,qx,r4,rb,ri,rp,rw,s3,sb,si,sp,sw,t3,ta,th,to,tv,u2,u9,ug,uo,uv,v2,v9,vg,vn,vu,w1,w8,wf,wm,wt,x1,x8,xf,xm,xt,y0,ya,yj,yt,z3,zd,zm,zw,106,10g,10p,10z,119,11j,11s,122,12c,12m,12v,132,135,13f,13k,13r,142,14b,14n"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9062_103": {
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "a,h,p,z,1m,28,2s,38,8c,8l,8m,8q,8s,8w,8x,90,92,93,96,98,9a,9b,9f,9g,9i,9j,9k,9p,9r,9s,9t,9y,a1,a2,a7,aa,ab,ac,ag,al,ap,au,az,b3,b8,bc,bh,bl,bq,bv,bz,c4,c8,cd,ci,cm,cr,cv,d0,d4,d9,de,di,dn,dr,dw,e1,e5,ea,ee,ej,en,es,ex,f1,f6,fb,fc,fh,fm,fr,fs,fw,fx,g2,g3,g7,g8,gd,ge,gi,gk,go,gp,gt,gv,gz,h0,h5,h6,ha,hb,hg,hh,hl,hm,hr,hs,hw,hy,i2,i3,i8,i9,id,ie,ij,ik,io,ip,iu,iv,iz,j1,j5,j6,ja,jc,jg,jh,jm,jn,jr,js,jx,jy,k2,k4,k8,k9,kd,kf,kj,kk,kp,kq,ku,kv,l0,l1,l5,l7,lb,lc,lg,li,lm,ln,ls,lt,lx,ly,m3,m4,m8,m9,me,mf,mj,ml,mp,mq,mv,mw,n0,n1,n6,n7,nb,nc,nh,ni,nm,no,ns,nt,nx,nz,o3,o4,o9,oa,oe,of,ok,ol,op,or,ov,ow,p0,p2,p6,p7,pc,pd,ph,pi,pn,po,ps,pu,py,pz,q3,q5,q9,qa,qe,qg,qj,ql,qo,qr,qt,qw,qx,r2,r7,r8,rc,rd,rh,rj,rm,ro,rr,rt,rw,ry,s0,s3,s5,s8,sa,sd,sf,si,sk,sm,sp,sr,su,sw,sz,t1,t4,t6,t8,tb,td,tg,ti,tl,tn,tq,ts,tu,tx,tz,u2,u4,u7,u9,ub,ue,ug,uj,ul,uo,uq,ut,uv,uy,v0,v2,v5,v7,va,vc,vf,vh,vj,vm,vo,vr,vt,vw,vy,w1,w3,w5,w8,wa,wd,wf,wi,wk,wn,wp,wr,wu,ww,wz,x1,x4,x6,x9,xb,xd,xg,xi,xl,xn,xq,xs,xu,xx,xz,y2,y5,y8,yb,ye,yh,yk,yn,yq,yt,yw,z1,z2,z8,z9,zg,zh,zn,zp,zv,zw,103,104,10b,10c,10j,10k,10q,10s,10y,10z,116,117,11e,11f,11m,11n,11t,11v,121,126,129,12h,12m,12r,12z,132,13c,13f,13p,13v,142"
+     ],
+     [
+      [
+       1
+      ],
+      "7,m,15,1o,2a,2s,38,8c,8n,8s,8y,92,9d,9n,9x,a8,aj,am,au,b1,b8,bf,bl,bm,bt,bw,bz,c5,cb,ch,cn,ct,cz,d5,db,dh,dn,dt,dz,e5,eb,eh,en,et,f0,f6,fd,fj,fq,fw,g3,g9,gg,gm,gt,gz,h6,hc,hj,hp,hw,i2,i9,if,im,is,iz,j5,jc,ji,jp,jv,k2,k8,kf,kl,ks,ky,l5,lb,li,lo,lv,m1,m8,me,ml,mr,my,n4,nb,nh,no,nu,o1,o7,oe,ok,or,ox,p4,pa,ph,pn,pu,q0,q7,qd,qk,qp,qv,r0,r6,rc,rh,rn,rs,ry,s3,s9,sf,sk,sq,sv,t1,t6,tc,ti,tn,tt,ty,u4,u9,uf,ul,uq,uw,v1,v7,vc,vi,vn,vt,vz,w4,wa,wf,wl,wq,ww,x2,x7,xd,xk,xr,y2,yd,yo,yz,zb,zm,zx,108,10j,10v,116,11h,11s,123,12e,12p,130,13c,13r"
+     ],
+     [
+      [
+       2
+      ],
+      "a,q,8d,8n,8s,8z,92,9d,9p,a0,ab,am,ax,b8,bj,bv,c6,ch,cs,d3,de,dp,e1,ec,en,ey,f9,fk,fw,g7,gi,gt,h4,hf,hq,i2,id,io,iz,ja,jl,jw,k8,kj,ku,l5,lg,lr,m3,ma,mh,mo,mv,n2,n9,ng,nn,nu,o1,o8,og,on,ou,p1,p8,pf,pm,pt,q0,q7,qe,ql,qt,r0,r7,re,rl,rs,rz,s6,sd,sk,sr,sy,t6,td,tk,tr,ty,u5,uc,uj,uq,ux,v4,vb,vj,vq,vx,w4,wb,wi,wp,ww,x3,xa,xh,xo,xw,y3,ya,yh,yr,z0,za,zk,zu,103,10d,10n,10x,116,11g,11q,120,129,12j,12z,13f,13w"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "7,g,11,12,19,1f,1u,1x,2b,2t,92,9c,9m,9w,a5,ae,aj,an,as,aw,b1,b6,ba,bf,bj,bo,bs,bt,bx,c2,c6,cb,cf,ck,cp,ct,cy,d2,d7,db,dc,dg,dl,dp,du,dy,e3,e8,ec,eh,el,eq,er,ev,ew,f0,f1,f5,f6,fb,fg,fh,fl,fm,fq,fr,fv,fw,g1,g6,g7,gb,gc,gg,gh,gl,gm,gr,gv,gw,gx,h1,h2,h6,h7,hc,hh,hn,hs,ht,hx,hy,i3,i4,i8,i9,ie,if,ik,ip,iq,iv,iw,j0,j1,j6,j7,jb,jc,jh,ji,jn,js,jt,jy,k3,k4,k9,ka,ke,kf,kk,kl,kq,kv,kw,l1,l6,l7,lc,ld,lh,li,ln,lo,lt,ly,lz,m4,m9,ma,mf,mg,mk,ml,mq,mr,mv,mw,n1,n2,n7,nc,nd,ni,nj,nn,no,nt,nu,ny,nz,o4,o5,oa,of,og,ol,oq,or,ow,ox,p1,p2,p7,p8,pd,pi,pj,po,pt,pu,py,q0,q3,q5,q8,qb,qd,qg,qi,qm,qn,qr,qw,qx,r1,r3,r6,r8,rb,rd,rg,ri,rl,rn,rq,rs,rv,rx,rz,s1,s4,s6,s9,sb,se,sg,sj,sl,so,sq,st,sv,sy,t0,t2,t4,t7,t9,tc,te,th,tj,tm,to,tr,tt,tw,ty,u1,u3,u6,u8,ua,uc,uf,uh,uk,um,up,ur,uu,uw,uz,v1,v4,v6,v9,vb,vd,vg,vi,vk,vn,vp,vs,vu,vx,vz,w2,w4,w7,w9,wc,we,wh,wj,wl,wn,wq,ws,wv,wx,x0,x2,x5,x7,xa,xc,xf,xh,xk,xm,xq,xs,xw,xy,y2,y4,y8,ya,ye,yg,yk,ym,yq,ys,yw,yy,z2,z4,z8,za,zb,ze,zg,zk,zm,zp,zq,zs,zw,zy,zz,102,104,108,10a,10d,10e,10g,10k,10m,10r,10s,10y,10z,115,117,11d,11f,11l,11n,11t,11u,121,122,128,129,12a,12g,12i,12o,12q,12w,12x,134,135,13b,13d,13j,13l,13r,13t,13z,140,142,14c,14o,14p"
+     ],
+     [
+      [
+       1
+      ],
+      "9,v,18,19,1k,1y,2e,2t,92,9h,9t,a4,ag,ar,b2,bd,bo,bz,c9,cf,cl,cr,cx,d3,d9,df,dl,dr,dx,e3,e9,ef,el,es,ey,f5,fb,fi,fo,fv,g1,g8,ge,gl,gr,gy,h4,hb,hh,ho,hu,i1,i7,ie,ik,ir,ix,j4,ja,jh,jn,ju,k0,k7,kd,kk,kq,kx,l3,la,lg,ln,lt,m0,m6,md,mj,mq,mw,n3,n9,ng,nm,nt,nz,o6,oc,oj,op,ow,p2,p9,pf,pm,ps,pz,q5,qb,qg,qm,qr,qx,r2,r8,re,rj,rp,ru,s0,s5,sb,sh,sm,ss,sx,t3,t8,te,tj,tp,tv,u0,u6,ub,uh,um,us,uy,v3,v9,ve,vk,vp,vv,w1,w6,wc,wh,wn,ws,wy,x5,xc,xj,xq,xx,y4,yc,yj,yp,yq,yx,z4,zb,zi,zp,zt,104,10f,10r,112,11d,11o,11z,12a,12m,12x,138,13j,13u,145,14j"
+     ],
+     [
+      [
+       2
+      ],
+      "h,11,92,9k,9v,a6,ah,at,b4,bf,bq,c1,cc,co,cz,da,dl,dw,e7,ei,eu,f5,fg,fr,g2,gd,go,h0,hb,hm,hx,i8,ij,iv,j6,jh,js,k3,ke,kp,l1,lc,ln,lu,m1,m8,mf,mm,mt,n0,n8,nf,nm,nt,o0,o7,oe,ol,os,oz,p6,pd,pl,ps,pz,q6,qd,qk,qr,qy,r5,rc,rj,rq,ry,s5,sc,sj,sq,sx,t4,tb,ti,tp,tw,u3,ub,ui,up,uw,v3,va,vh,vo,vv,w2,w9,wg,wo,wv,x2,x9,xg,xn,xu,y1,yb,yl,yu,z4,ze,zo,zx,107,10h,10r,111,11a,11k,11u,123,12d,12n,12x,131,136,13g,13j,13s,143,14c,14p"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9063_103": {
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "9,f,o,y,1k,27,2r,36,8e,8m,8o,8q,8r,8u,8x,8z,90,92,95,9a,9c,9e,9j,9l,9n,9s,9t,9u,9w,a1,a2,a3,a6,aa,ab,ac,af,aj,ao,at,ax,b2,b6,bb,bf,bk,bp,bt,by,c2,c7,cc,cg,cl,cp,cu,cy,d3,d8,dc,dh,dl,dq,dv,dz,e4,e8,ed,eh,em,er,ev,f0,f4,f5,fa,ff,fl,fq,fv,fw,g0,g1,g6,g7,gb,gd,gh,gi,gm,go,gs,gt,gy,gz,h3,h4,h9,ha,he,hf,hk,hl,hp,hr,hv,hw,i1,i2,i6,i7,ic,id,ih,ii,in,io,is,iu,iy,iz,j3,j5,j9,ja,jf,jg,jk,jl,jq,jr,jv,jx,k1,k2,k6,k8,kc,kd,ki,kj,kn,ko,kt,ku,ky,l0,l4,l5,l9,lb,lf,lg,ll,lm,lq,lr,lw,lx,m1,m2,m7,m8,mc,me,mi,mj,mo,mp,mt,mu,mz,n0,n4,n5,na,nb,nf,nh,nl,nm,nq,ns,nw,nx,o2,o3,o7,o8,od,oe,oi,ok,oo,op,ot,ov,oz,p0,p5,p6,pa,pb,pg,ph,pl,pn,pr,ps,pw,py,q2,q3,q8,q9,qc,qe,qh,qk,qm,qp,qr,qv,qw,r1,r6,rb,rc,rg,rh,rk,rn,rp,rs,ru,rx,rz,s2,s4,s6,s9,sb,se,sg,sj,sl,sn,sq,ss,sv,sx,t0,t2,t5,t7,t9,tc,te,th,tj,tm,to,tr,tt,tv,ty,u0,u3,u5,u8,ua,ud,uf,uh,uk,um,up,ur,uu,uw,uy,v1,v3,v6,v8,vb,vd,vg,vi,vk,vn,vp,vs,vu,vx,vz,w2,w4,w6,w9,wb,we,wg,wj,wl,wo,wq,ws,wv,wx,x0,x2,x5,x7,x9,xc,xe,xh,xj,xm,xo,xr,xt,xw,xy,y0,y4,y6,ya,yc,yg,yi,ym,yo,ys,yu,z0,z6,z8,ze,zf,zm,zn,zu,zv,102,103,109,10b,10h,10i,10p,10q,10x,10y,115,116,11c,11e,11k,11l,11s,11t,120,124,128,12f,12l,12p,12y,130,13b,13e,13o,13u,141"
+     ],
+     [
+      [
+       1
+      ],
+      "5,l,14,1m,29,2r,36,8e,8o,8q,8z,91,9c,9l,9v,a6,ah,ao,as,b0,b7,b9,be,bl,bn,bs,by,c4,ca,cg,cm,cs,cy,d4,da,dg,dm,ds,dy,e4,ea,eg,em,es,ey,f5,fb,fi,fo,fv,g1,g8,ge,gl,gr,gy,h4,hb,hh,ho,hu,i1,i7,ie,ik,ir,ix,j4,ja,jh,jn,ju,k0,k7,kd,kk,kq,kx,l3,la,lg,ln,lt,m0,m6,md,mj,mq,mw,n3,n9,ng,nm,nt,nz,o6,oc,oj,op,ow,p2,p9,pf,pm,ps,pz,q5,qc,qi,qo,qt,qz,r5,ra,rg,rl,rr,rw,s2,s8,sd,sj,so,su,sz,t5,tb,tg,tm,tr,tx,u2,u8,ue,uj,up,uu,v0,v5,vb,vg,vm,vs,vx,w3,w8,we,wj,wp,wv,x0,x6,xb,xi,xp,y1,yc,yn,yy,z9,zk,zv,107,10i,10t,114,11f,11q,122,12d,12o,12z,13a,13q"
+     ],
+     [
+      [
+       2
+      ],
+      "9,o,8e,8o,8q,90,91,9c,9n,9y,a9,al,aw,b7,bi,bt,c4,cf,cr,d2,dd,do,dz,ea,el,ex,f8,fj,fu,g5,gg,gs,h3,he,hp,i0,ib,im,iy,j9,jk,jv,k6,kh,ks,l4,lf,lq,m1,m8,mf,mm,mt,n0,n8,nf,nm,nt,o0,o7,oe,ol,os,oz,p6,pd,pl,ps,pz,q6,qd,qk,qr,qy,r5,rc,rj,rq,ry,s5,sc,sj,sq,sx,t4,tb,ti,tp,tw,u3,ub,ui,up,uw,v3,va,vh,vo,vv,w2,w9,wg,wo,wv,x2,x9,xg,xn,xu,y1,y8,yf,yp,yz,z9,zi,zs,102,10c,10l,10v,115,11f,11o,11y,128,12i,12x,13e,13v"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "6,e,10,13,17,1g,1v,1w,2d,2v,94,9d,9n,9x,a7,af,ag,ak,ap,at,ay,b2,b7,bc,bg,bl,bp,bu,by,bz,c3,c8,cc,ch,cl,cq,cv,cz,d4,d8,dd,dh,di,dm,dr,dv,e0,e4,e9,ee,ei,en,er,es,ex,f2,f7,f8,fc,fd,fh,fi,fn,fs,fx,fy,g2,g3,g7,g8,gd,gi,gn,go,gs,gt,gu,gx,gy,h3,h8,hd,he,hf,hj,ho,ht,hu,hz,i0,i4,i5,ia,ib,if,ig,il,im,ir,iw,ix,j2,j3,j7,j8,jd,je,ji,jj,jo,jp,ju,jz,k0,k5,ka,kb,kg,kh,kl,km,kr,ks,kx,l2,l3,l8,ld,le,lj,lk,lo,lp,lu,lv,m0,m5,m6,mb,mg,mh,mm,mn,mr,ms,mx,my,n2,n3,n8,n9,ne,nj,nk,np,nq,nu,nv,o0,o1,o5,o6,ob,oc,oh,om,on,os,ox,oy,p3,p4,p8,p9,pe,pf,pk,pp,pq,pv,q0,q1,q4,q7,q9,qc,qe,qi,qj,qn,qo,qt,qy,r3,r4,r8,ra,rc,re,rh,rj,rm,ro,rr,rt,rw,ry,s1,s3,s6,s8,sb,sd,sf,sh,sk,sm,sp,sr,su,sw,sz,t1,t4,t6,t9,tb,te,tg,tj,tl,tn,tp,ts,tu,tx,tz,u2,u4,u7,u9,uc,ue,uh,uj,um,uo,uq,ut,uv,ux,v0,v2,v5,v7,va,vc,vf,vh,vk,vm,vp,vr,vu,vw,vy,w0,w3,w5,w8,wa,wd,wf,wi,wk,wn,wp,ws,wu,wx,wz,x1,x4,x6,x8,xb,xd,xg,xi,xl,xn,xr,xt,xx,xz,y3,y5,y9,yb,yf,yh,yl,yn,yr,yt,yx,yz,z3,z5,z9,zb,zf,zh,zl,zn,zr,zt,zx,zz,103,105,109,10b,10f,10h,10l,10n,10t,10z,111,115,117,118,11f,11g,11m,11o,11u,11w,122,124,127,12a,12b,12i,12j,12o,12p,12r,12x,12z,133,134,135,137,13d,13e,13i,13l,13m,13q,13s,13v,13z,140,144,14d,14e,14q"
+     ],
+     [
+      [
+       1
+      ],
+      "7,x,18,19,1m,1x,1z,2f,2u,94,9i,9v,a6,ah,as,b3,be,bq,c0,ca,cg,cm,cs,cy,d4,da,dg,dm,ds,dy,e4,ea,eg,em,et,ez,f6,fc,fj,fp,fw,g2,g9,gf,gm,gs,gz,h5,hc,hi,hp,hv,i2,i8,if,il,is,iy,j5,jb,ji,jo,jv,k1,k8,ke,kl,kr,ky,l4,lb,lh,lo,lu,m1,m7,me,mk,mr,mx,n4,na,nh,nn,nu,o0,o7,od,ok,oq,ox,p3,pa,pg,pn,pt,q0,q6,qc,qi,qn,qt,qy,r4,r9,rf,rl,rq,rw,s1,s7,sc,si,so,st,sz,t4,ta,tf,tl,tq,tw,u2,u7,ud,ui,uo,ut,uz,v5,va,vg,vl,vr,vw,w2,w8,wd,wj,wo,wu,wz,x6,xe,xl,xs,xz,y3,y6,yd,yk,yo,yr,yy,z5,z9,zc,zj,zn,zv,106,10h,10s,113,11e,11q,121,12c,12n,12y,139,13k,13w,147,14k"
+     ],
+     [
+      [
+       2
+      ],
+      "f,10,94,9l,9x,a8,aj,au,b5,bg,br,c3,ce,cp,d0,db,dm,dy,e9,ek,ev,f6,fh,fs,g3,gf,gq,h1,hc,hn,hy,ia,il,iw,j7,ji,jt,k5,kg,kr,l2,ld,lo,lv,m2,ma,mh,mo,mv,n2,n9,ng,nn,nu,o1,o8,of,on,ou,p1,p8,pf,pm,pt,q0,q7,qe,ql,qs,r0,r7,re,rl,rs,rz,s6,sd,sk,sr,sy,t5,td,tk,tr,ty,u5,uc,uj,uq,ux,v4,vb,vi,vq,vx,w4,wb,wi,wp,ww,x3,xa,xh,xo,xv,y3,yc,ym,yw,z6,zf,zp,zz,109,10i,10s,112,11c,11l,11v,125,12f,12o,12y,130,138,13i,13u,145,14e,14q"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9066_103": {
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "8f,8o,8p,8t,8v,8z,90,93,96,9c,9d,9l,9m,9u,9v,a4,a5,ad,ae"
+     ],
+     [
+      [
+       1
+      ],
+      "8f,8q,91,ap,bb,bo,bz"
+     ],
+     [
+      [
+       2
+      ],
+      "8g,8q,92"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "15,1i,1x,2e,2w,95,9f,9p,9z,a8,ah,am,aq,av,az,b0,b4,b9,bd,bi,bm,br,bw,c0,c5,c9,ce,ci,cj,cn,cs,cw,d1,d5,da,df,dj,do,ds,dx,e1,e2,e6,eb,ef,ek,eo,et,eu,ey,ez,f3,f4,f9,fe,fj,fk,fo,fp,ft,fu,fz,g4,g9,ga,ge,gf,gj,gk,gp,gu,gz,h0,h4,h5,h9,ha,hf,hk,hq,hv,hw,i0,i1,i6,i7,ic,ih,ii,in,is,it,iy,iz,j3,j4,j9,ja,jf,jk,jl,jq,jv,jw,k1,k2,k6,k7,kc,kd,kh,ki,kn,ko,kt,ky,kz,l4,l5,l9,la,lf,lg,lk,ll,lq,lr,lw,m1,m2,m7,mc,md,mi,mj,mn,mo,mt,mu,mz,n4,n5,na,nf,ng,nl,nm,nq,nr,nw,nx,o2,o7,o8,od,oi,oj,oo,op,ot,ou,oz,p0,p4,p5,pa,pb,pg,pl,pm,pr,ps,pw,px,q1,q3,q6,q8,qb,qe,qg,qj,ql,qp,qq,qu,qv,qz,r0,r4,r6,r9,rb,re,rg,rj,rl,ro,rq,rt,rv,ry,s0,s2,s4,s7,s9,sc,se,sh,sj,sm,so,sr,st,sw,sy,t1,t3,t6,t8,ta,tc,tf,th,tk,tm,tp,tr,tu,tw,tz,u1,u4,u6,u9,ub,ud,ug,ui,uk,un,up,us,uu,ux,uz,v2,v4,v7,v9,vc,ve,vh,vj,vl,vn,vq,vs,vv,vx,w0,w2,w5,w7,wa,wc,wf,wh,wk,wm,wo,wr,wt,wv,wy,x0,x3,x5,x8,xa,xd,xf,xi,xk,xn,xp,xt,xv,xz,y1,y5,y7,yb,yd,yh,yj,yn,yp,yt,yv,yz,z1,z5,z7,zb,zd,zh,zj,zn,zp,zt,zv,zz,101,105,107,10b,10d,10h,10j,10n,10p,10u,10v,111,112,119,11a,11g,11i,11o,11q,11w,11x,124,125,12c,12d,12j,12l,12r,12t,12z,130,137,138,13f,13g,13m,13o,13u,13x,142,145,14f,14r,14s"
+     ],
+     [
+      [
+       1
+      ],
+      "z,1b,1o,21,2h,2w,95,9k,9w,a8,aj,au,b5,bg,br,c2,cc,ci,co,cu,d0,d6,dc,di,do,du,e0,e6,ec,ei,eo,ev,f1,f8,fe,fl,fr,fy,g4,gb,gh,go,gu,h1,h7,he,hk,hr,hx,i4,ia,ih,in,iu,j0,j7,jd,jk,jq,jx,k3,ka,kg,kn,kt,l0,l6,ld,lj,lq,lw,m3,m9,mg,mm,mt,mz,n6,nc,nj,np,nw,o2,o9,of,om,os,oz,p5,pc,pi,pp,pv,q2,q8,qe,qj,qp,qu,r0,r5,rb,rh,rm,rs,rx,s3,s8,se,sk,sp,sv,t0,t6,tb,th,tn,ts,ty,u3,u9,ue,uk,uq,uv,v1,v6,vc,vh,vn,vs,vy,w4,w9,wf,wk,wq,wv,x1,x8,xf,xm,xt,y0,y8,yf,ym,yt,z0,z7,ze,zl,zw,107,10j,10u,115,11g,11r,122,12d,12p,130,13b,13m,13x,148,14m"
+     ],
+     [
+      [
+       2
+      ],
+      "95,9n,9y,a9,al,aw,b7,bi,bt,c4,cf,cr,d2,dd,do,dz,ea,el,ex,f8,fj,fu,g5,gg,gs,h3,he,hp,i0,ib,im,iy,j9,jk,jv,k6,kh,ks,l4,lf,lq,lx,m4,mb,mi,mp,mw,n4,nb,ni,np,nw,o3,oa,oh,oo,ov,p2,p9,ph,po,pv,q2,q9,qg,qn,qu,r1,r8,rf,rm,ru,s1,s8,sf,sm,st,t0,t7,te,tl,ts,tz,u7,ue,ul,us,uz,v6,vd,vk,vr,vy,w5,wc,wk,wr,wy,x5,xc,xj,xq,xx,y4,ye,yo,yx,z7,zh,zr,100,10a,10k,10u,114,11d,11n,11x,126,12g,12q,130,139,13j,13v,146,14f,14s"
+     ]
+    ]
+   }
+  },
+  "gtfs-FM9064_103": {
+   "TRAM-T2": {
+    "0": [
+     [
+      [
+       0
+      ],
+      "7,d,l,v,1i,25,2o,34,8o,8y,93,97,9c,9h,9l,9q,9u,9z,a3,a8,ad,ah,am,aq,av,b0,b4,b9,bd,bi,bm,br,bw,c0,c5,c9,ce,cj,cn,cs,cw,d1,d5,da,df,dj,do,ds,dx,e2,e6,eb,ef,ek,eo,et,ey,f2,f3,f7,f8,fd,fi,fj,fo,ft,fu,fy,fz,g4,g5,g9,ga,gf,gg,gk,gm,gq,gr,gv,gx,h1,h2,h7,h8,hc,hd,hi,hj,hn,ho,ht,hu,hy,i0,i4,i5,ia,ib,if,ig,il,im,iq,ir,iw,ix,j1,j3,j7,j8,jc,je,ji,jj,jo,jp,jt,ju,jz,k0,k4,k6,ka,kb,kf,kh,kl,km,kr,ks,kw,kx,l2,l3,l7,l9,ld,le,li,lk,lo,lp,lu,lv,lz,m0,m5,m6,ma,mb,mg,mh,ml,mn,mr,ms,mx,my,n2,n3,n8,n9,nd,ne,nj,nk,no,nq,nu,nv,nz,o1,o5,o6,ob,oc,og,oh,om,on,or,ot,ox,oy,p2,p4,p8,p9,pe,pf,pj,pk,pp,pq,pu,pw,q0,q1,q5,q7,qa,qc,qf,qi,qk,qn,qp,qt,qu,qy,qz,r4,r8,ra,rd,rf,ri,rl,rn,rq,rs,rv,rx,rz,s2,s4,s7,s9,sc,se,sg,sj,sl,so,sq,st,sv,sy,t0,t2,t5,t7,ta,tc,tf,th,tk,tm,to,tr,tt,tw,ty,u1,u3,u6,u8,ua,ud,uf,ui,uk,un,up,ur,uu,uw,uz,v1,v4,v6,v9,vb,vd,vg,vi,vl,vn,vq,vs,vv,vx,vz,w2,w4,w7,w9,wc,we,wh,wj,wl,wo,wq,wt,wv,wy,x0,x2,x5,x7,xa,xc,xf,xh,xk,xm,xo,xr,xt,xw,xy,y2,y4,y8,ya,ye,yg,yk,ym,yq,ys,yy,z4,z5,zc,zd,zk,zl,zs,zt,zz,101,107,108,10f,10g,10n,10o,10v,10w,112,114,11a,11b,11i,11j,11q,11r,11y,122,125,12d,12i,12n,12v,12y,138,13c,13l,13r,13y"
+     ],
+     [
+      [
+       1
+      ],
+      "3,j,12,1k,27,2o,34,8o,8y,99,9j,9t,a4,af,aq,ax,b4,bc,bj,bq,bw,c2,c8,ce,ck,cq,cw,d2,d8,de,dk,dq,dw,e2,e8,ee,ek,eq,ew,f3,f9,fg,fm,ft,fz,g6,gc,gj,gp,gw,h2,h9,hf,hm,hs,hz,i5,ic,ii,ip,iv,j2,j8,jf,jl,js,jy,k5,kb,ki,ko,kv,l1,l8,le,ll,lr,ly,m4,mb,mh,mo,mu,n1,n7,ne,nk,nr,nx,o4,oa,oh,on,ou,p0,p7,pd,pk,pq,px,q3,qa,qg,qm,qr,qx,r2,r8,re,rj,rp,ru,s0,s5,sb,sh,sm,ss,sx,t3,t8,te,tk,tp,tv,u0,u6,ub,uh,un,us,uy,v3,v9,ve,vk,vp,vv,w1,w6,wc,wh,wn,ws,wy,x4,x9,xg,xn,xy,ya,yl,yw,z7,zi,zt,105,10g,10r,112,11d,11o,11z,12b,12m,12x,138,13o"
+     ],
+     [
+      [
+       2
+      ],
+      "7,m,8o,8z,9a,9l,9w,a7,ai,au,b5,bg,br,c2,cd,co,d0,db,dm,dx,e8,ej,eu,f6,fh,fs,g3,ge,gp,h1,hc,hn,hy,i9,ik,iv,j7,ji,jt,k4,kf,kq,l1,ld,lo,lz,m6,md,mk,mr,my,n5,nd,nk,nr,ny,o5,oc,oj,oq,ox,p4,pb,pi,pq,px,q4,qb,qi,qp,qw,r3,ra,rh,ro,rv,s3,sa,sh,so,sv,t2,t9,tg,tn,tu,u1,u8,ug,un,uu,v1,v8,vf,vm,vt,w0,w7,we,wl,wt,x0,x7,xe,xl,xs,xz,y6,yd,yn,yx,z6,zg,zq,100,109,10j,10t,113,11c,11m,11w,126,12f,12v,13b,13s"
+     ]
+    ],
+    "1": [
+     [
+      [
+       0
+      ],
+      "4,c,y,15,1u,gs,hd,z7,zl,zv,109,10i,113,125,12m,131,132,13g,13o,13x"
+     ],
+     [
+      [
+       1
+      ],
+      "5,16,1v,y0,ym,z7,zl"
+     ],
+     [
+      [
+       2
+      ],
+      "d,y,12y,13g"
      ]
     ]
    }

@@ -1,5 +1,5 @@
 {
- "versione": "dc8c643ffc60",
+ "versione": "825729a96281",
  "tipo": "prova",
  "file": [
   {
@@ -3059,8 +3059,8 @@
   {
    "path": "dati/autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/autobus.json",
-   "sha256": "5edb798606fcdfa8d0b86aebfa1cb5a481b6b41707fa5f85b0460d61e10ad4bd",
-   "byte": 167342
+   "sha256": "559bc00dc1b6215fb7729dd135c77871e301badb2508c2fb2ec7302f631a09c9",
+   "byte": 178829
   },
   {
    "path": "dati/cibi.json",
@@ -3113,8 +3113,8 @@
   {
    "path": "dati/orari_autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/orari_autobus.json",
-   "sha256": "3e7a9dc7d4ad35d1c2ff4451d2170da0bf5485e274fc13aff816f13d3f8b2d30",
-   "byte": 986346
+   "sha256": "1ee72f0f79b086a97e97603fff6adb2195bd735a2e9c5380d1b3ce10bb1237d4",
+   "byte": 1141852
   },
   {
    "path": "dati/orari_vaporetti.json",

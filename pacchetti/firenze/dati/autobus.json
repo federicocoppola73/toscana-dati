@@ -1,5 +1,5 @@
 {
- "_nota": "Orari programmati Autolinee Toscane (open data Regione Toscana, feed GTFS), feriale, sabato e festivo, dal 20/11/2026 al 10/12/2026. Generato da strumenti/converti_autobus_at.py. Verificare sul sito Autolinee Toscane.",
+ "_nota": "Orari programmati Autolinee Toscane (open data Regione Toscana, feed GTFS), feriale, sabato e festivo, dal 20/11/2026 al 10/12/2026. Generato da strumenti/converti_autobus_at.py. Verificare sul sito Autolinee Toscane. Tramvia: GEST (open data Regione Toscana, CC BY).",
  "validita": [
   "20261120",
   "20261210"
@@ -1745,6 +1745,150 @@
      "titolo": "Presidio Ospedaliero Palagi → Santa Maria Maggiore"
     }
    ]
+  },
+  {
+   "id": "TRAM-T1.3",
+   "etichetta": "T1.3",
+   "mezzo": "tram",
+   "colore": "#15AC96",
+   "testo": "#000000",
+   "notturna": false,
+   "gestore": "GEST",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "autobus-costituzione-sette-regole",
+      "gtfs-FM9004_103",
+      "gtfs-FM9006_103",
+      "gtfs-FM9008_103",
+      "autobus-nenni-centro-commerciale",
+      "gtfs-FM9012_103",
+      "autobus-foggini-talenti",
+      "gtfs-FM9016_103",
+      "autobus-piazza-batoni",
+      "autobus-t1-sansovino-02",
+      "gtfs-FM9022_103",
+      "gtfs-FM9024_103",
+      "autobus-leopolda-t1-porta-al-prato",
+      "autobus-stazione-t1",
+      "gtfs-FM9028_103",
+      "autobus-beslan-t1-fortezza",
+      "autobus-martiri-foibe-t1-strozzi",
+      "gtfs-FM9031_103",
+      "gtfs-FM9032_103",
+      "gtfs-FM9033_103",
+      "gtfs-FM9034_103",
+      "gtfs-FM9035_103",
+      "autobus-morgagni-casa-studente",
+      "gtfs-FM9037_103"
+     ],
+     "richiesta": [],
+     "titolo": "Villa Costanza → Careggi - Ospedale"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "gtfs-FM9037_103",
+      "autobus-morgagni-casa-studente",
+      "gtfs-FM9038_103",
+      "gtfs-FM9039_103",
+      "gtfs-FM9042_103",
+      "gtfs-FM9043_103",
+      "gtfs-FM9044_103",
+      "autobus-martiri-foibe-t1-strozzi",
+      "autobus-beslan-t1-fortezza",
+      "gtfs-FM9028_103",
+      "autobus-stazione-t1",
+      "autobus-leopolda-t1-porta-al-prato",
+      "gtfs-FM9023_103",
+      "gtfs-FM9021_103",
+      "autobus-t1-sansovino-02",
+      "autobus-piazza-batoni",
+      "gtfs-FM9015_103",
+      "autobus-foggini-talenti",
+      "gtfs-FM9011_103",
+      "autobus-nenni-centro-commerciale",
+      "gtfs-FM9007_103",
+      "gtfs-FM9005_103",
+      "gtfs-FM9004_103",
+      "autobus-costituzione-sette-regole"
+     ],
+     "richiesta": [],
+     "titolo": "Careggi - Ospedale → Villa Costanza"
+    }
+   ]
+  },
+  {
+   "id": "TRAM-T2",
+   "etichetta": "T2",
+   "mezzo": "tram",
+   "colore": "#15AC96",
+   "testo": "#000000",
+   "notturna": false,
+   "gestore": "GEST",
+   "pdf": "https://www.at-bus.it/it/viaggia/linee-e-orari/firenze",
+   "direzioni": [
+    {
+     "direzione": 0,
+     "circolare": false,
+     "fermate": [
+      "gtfs-FM9004_103",
+      "gtfs-FM9006_103",
+      "gtfs-FM9008_103",
+      "autobus-nenni-centro-commerciale",
+      "gtfs-FM9012_103",
+      "autobus-foggini-talenti",
+      "gtfs-FM9016_103",
+      "autobus-piazza-batoni",
+      "autobus-t1-sansovino-02",
+      "gtfs-FM9022_103",
+      "gtfs-FM9024_103",
+      "autobus-leopolda-t1-porta-al-prato",
+      "autobus-stazione-t1",
+      "gtfs-FM9028_103",
+      "autobus-beslan-t1-fortezza",
+      "gtfs-FM9061_103",
+      "gtfs-FM9062_103",
+      "gtfs-FM9063_103",
+      "gtfs-FM9066_103",
+      "autobus-san-marco-piazza"
+     ],
+     "richiesta": [],
+     "titolo": "De Andre → San Marco Piazza"
+    },
+    {
+     "direzione": 1,
+     "circolare": false,
+     "fermate": [
+      "autobus-san-marco-piazza",
+      "gtfs-FM9064_103",
+      "gtfs-FM9063_103",
+      "gtfs-FM9062_103",
+      "gtfs-FM9061_103",
+      "autobus-beslan-t1-fortezza",
+      "gtfs-FM9028_103",
+      "autobus-stazione-t1",
+      "autobus-leopolda-t1-porta-al-prato",
+      "gtfs-FM9023_103",
+      "gtfs-FM9021_103",
+      "autobus-t1-sansovino-02",
+      "autobus-piazza-batoni",
+      "gtfs-FM9015_103",
+      "autobus-foggini-talenti",
+      "gtfs-FM9011_103",
+      "autobus-nenni-centro-commerciale",
+      "gtfs-FM9007_103",
+      "gtfs-FM9005_103",
+      "gtfs-FM9004_103"
+     ],
+     "richiesta": [],
+     "titolo": "San Marco Piazza → De Andre"
+    }
+   ]
   }
  ],
  "fermate": {
@@ -2364,7 +2508,8 @@
     "AUT-31",
     "AUT-32",
     "AUT-60",
-    "AUT-C1"
+    "AUT-C1",
+    "TRAM-T2"
    ]
   },
   "autobus-colonna-pergola": {
@@ -2495,7 +2640,8 @@
    "lat": 43.783552,
    "lon": 11.252297,
    "linee": [
-    "AUT-8"
+    "AUT-8",
+    "TRAM-T1.3"
    ]
   },
   "autobus-lorenzo-il-magnifico-libert": {
@@ -4404,7 +4550,9 @@
    "linee": [
     "AUT-17",
     "AUT-23",
-    "AUT-39"
+    "AUT-39",
+    "TRAM-T1.3",
+    "TRAM-T2"
    ]
   },
   "autobus-stazione-abside-smn": {
@@ -5283,7 +5431,9 @@
    "linee": [
     "AUT-31",
     "AUT-32",
-    "AUT-60"
+    "AUT-60",
+    "TRAM-T1.3",
+    "TRAM-T2"
    ]
   },
   "autobus-chiantigiana-scuole": {
@@ -6240,7 +6390,9 @@
    "lon": 11.239017,
    "linee": [
     "AUT-C2",
-    "AUT-C3"
+    "AUT-C3",
+    "TRAM-T1.3",
+    "TRAM-T2"
    ]
   },
   "autobus-il-prato": {
@@ -6424,6 +6576,312 @@
    "lon": 11.24299,
    "linee": [
     "AUT-C4"
+   ]
+  },
+  "autobus-costituzione-sette-regole": {
+   "nome": "Villa Costanza",
+   "lat": 43.7551625040049,
+   "lon": 11.1740735348452,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9004_103": {
+   "nome": "De Andre",
+   "lat": 43.7547865043581,
+   "lon": 11.1790362683518,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9006_103": {
+   "nome": "Resistenza",
+   "lat": 43.7580441494077,
+   "lon": 11.1822068713052,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9008_103": {
+   "nome": "Aldo Moro",
+   "lat": 43.7619682749082,
+   "lon": 11.1873419175934,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "autobus-nenni-centro-commerciale": {
+   "nome": "Nenni - Torregalli",
+   "lat": 43.7641872919888,
+   "lon": 11.1979666747965,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9012_103": {
+   "nome": "Arcipressi",
+   "lat": 43.7674905214594,
+   "lon": 11.2092288520609,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "autobus-foggini-talenti": {
+   "nome": "Federiga",
+   "lat": 43.7715372922208,
+   "lon": 11.2119899411974,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9016_103": {
+   "nome": "Talenti",
+   "lat": 43.7736444172694,
+   "lon": 11.2170229421015,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "autobus-piazza-batoni": {
+   "nome": "Batoni",
+   "lat": 43.7741704165673,
+   "lon": 11.2212307101707,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "autobus-t1-sansovino-02": {
+   "nome": "Sansovino",
+   "lat": 43.7746852318428,
+   "lon": 11.2251588133065,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9022_103": {
+   "nome": "Paolo Uccello",
+   "lat": 43.7754640444154,
+   "lon": 11.2287239031713,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9024_103": {
+   "nome": "Cascine",
+   "lat": 43.7771125683548,
+   "lon": 11.2324391421117,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9028_103": {
+   "nome": "Valfonda - Stazione SMN",
+   "lat": 43.7765679848619,
+   "lon": 11.2493574723213,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9031_103": {
+   "nome": "Statuto",
+   "lat": 43.7857715416239,
+   "lon": 11.2508058097828,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9032_103": {
+   "nome": "Muratori-Stazione Statuto",
+   "lat": 43.7883226967672,
+   "lon": 11.24940609698,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9033_103": {
+   "nome": "Leopoldo",
+   "lat": 43.7913286730823,
+   "lon": 11.2472659102731,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9034_103": {
+   "nome": "Poggetto",
+   "lat": 43.7939701054963,
+   "lon": 11.2447980174432,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9035_103": {
+   "nome": "Vittorio Emanuele II",
+   "lat": 43.7958712112307,
+   "lon": 11.2415139153139,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "autobus-morgagni-casa-studente": {
+   "nome": "Morgagni-Universita",
+   "lat": 43.7995953955465,
+   "lon": 11.2439861801234,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9037_103": {
+   "nome": "Careggi - Ospedale",
+   "lat": 43.8033027414408,
+   "lon": 11.2465976104274,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9038_103": {
+   "nome": "Dalmazia",
+   "lat": 43.7957187575488,
+   "lon": 11.2405055032793,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9039_103": {
+   "nome": "Pisacane",
+   "lat": 43.7931788976951,
+   "lon": 11.2439676941197,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9042_103": {
+   "nome": "Leopoldo",
+   "lat": 43.7913160046272,
+   "lon": 11.24718676063,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9043_103": {
+   "nome": "Muratori-Stazione Statuto",
+   "lat": 43.7882894972726,
+   "lon": 11.2493500427983,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9044_103": {
+   "nome": "Statuto",
+   "lat": 43.785752620609,
+   "lon": 11.2507333915945,
+   "linee": [
+    "TRAM-T1.3"
+   ]
+  },
+  "gtfs-FM9023_103": {
+   "nome": "Cascine",
+   "lat": 43.7770805909658,
+   "lon": 11.2324374423107,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9021_103": {
+   "nome": "Paolo Uccello",
+   "lat": 43.7754529303216,
+   "lon": 11.2287674767487,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9015_103": {
+   "nome": "Talenti",
+   "lat": 43.7736047602538,
+   "lon": 11.2169833309815,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9011_103": {
+   "nome": "Arcipressi",
+   "lat": 43.767481727545,
+   "lon": 11.2092831935633,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9007_103": {
+   "nome": "Aldo Moro",
+   "lat": 43.7619280184762,
+   "lon": 11.1873518791996,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9005_103": {
+   "nome": "Resistenza",
+   "lat": 43.7579847316209,
+   "lon": 11.1822112945389,
+   "linee": [
+    "TRAM-T1.3",
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9061_103": {
+   "nome": "Lavagnini Fortezza",
+   "lat": 43.7820159189467,
+   "lon": 11.2541528276936,
+   "linee": [
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9062_103": {
+   "nome": "Lavagnini Poliziano",
+   "lat": 43.7831969339301,
+   "lon": 11.2584181158419,
+   "linee": [
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9063_103": {
+   "nome": "Liberta' Parterre",
+   "lat": 43.7842480777606,
+   "lon": 11.2621318663943,
+   "linee": [
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9066_103": {
+   "nome": "Cavour a",
+   "lat": 43.7825102238855,
+   "lon": 11.2618273326244,
+   "linee": [
+    "TRAM-T2"
+   ]
+  },
+  "gtfs-FM9064_103": {
+   "nome": "La Marmora",
+   "lat": 43.7815995161581,
+   "lon": 11.2623323064642,
+   "linee": [
+    "TRAM-T2"
    ]
   }
  },
@@ -6735,7 +7193,8 @@
    "AUT-31",
    "AUT-32",
    "AUT-60",
-   "AUT-C1"
+   "AUT-C1",
+   "TRAM-T2"
   ],
   "autobus-colonna-pergola": [
    "AUT-6",
@@ -6801,7 +7260,8 @@
    "AUT-6"
   ],
   "autobus-martiri-foibe-t1-strozzi": [
-   "AUT-8"
+   "AUT-8",
+   "TRAM-T1.3"
   ],
   "autobus-lorenzo-il-magnifico-libert": [
    "AUT-8",
@@ -7705,7 +8165,9 @@
   "autobus-stazione-t1": [
    "AUT-17",
    "AUT-23",
-   "AUT-39"
+   "AUT-39",
+   "TRAM-T1.3",
+   "TRAM-T2"
   ],
   "autobus-stazione-abside-smn": [
    "AUT-17",
@@ -8069,7 +8531,9 @@
   "autobus-beslan-t1-fortezza": [
    "AUT-31",
    "AUT-32",
-   "AUT-60"
+   "AUT-60",
+   "TRAM-T1.3",
+   "TRAM-T2"
   ],
   "autobus-chiantigiana-scuole": [
    "AUT-31",
@@ -8481,7 +8945,9 @@
   ],
   "autobus-leopolda-t1-porta-al-prato": [
    "AUT-C2",
-   "AUT-C3"
+   "AUT-C3",
+   "TRAM-T1.3",
+   "TRAM-T2"
   ],
   "autobus-il-prato": [
    "AUT-C2",
@@ -8555,6 +9021,132 @@
   ],
   "autobus-piazza-piattellina": [
    "AUT-C4"
+  ],
+  "autobus-costituzione-sette-regole": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9004_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9006_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9008_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "autobus-nenni-centro-commerciale": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9012_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "autobus-foggini-talenti": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9016_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "autobus-piazza-batoni": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "autobus-t1-sansovino-02": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9022_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9024_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9028_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9031_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9032_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9033_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9034_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9035_103": [
+   "TRAM-T1.3"
+  ],
+  "autobus-morgagni-casa-studente": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9037_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9038_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9039_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9042_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9043_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9044_103": [
+   "TRAM-T1.3"
+  ],
+  "gtfs-FM9023_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9021_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9015_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9011_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9007_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9005_103": [
+   "TRAM-T1.3",
+   "TRAM-T2"
+  ],
+  "gtfs-FM9061_103": [
+   "TRAM-T2"
+  ],
+  "gtfs-FM9062_103": [
+   "TRAM-T2"
+  ],
+  "gtfs-FM9063_103": [
+   "TRAM-T2"
+  ],
+  "gtfs-FM9066_103": [
+   "TRAM-T2"
+  ],
+  "gtfs-FM9064_103": [
+   "TRAM-T2"
   ]
  }
 }
