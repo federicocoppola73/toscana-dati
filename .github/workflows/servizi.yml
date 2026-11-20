@@ -54,17 +54,17 @@ jobs:
           import json, os, sys, time, urllib.parse, urllib.request
           sys.path.insert(0, 'strumenti')
           from servizi_osm import QUERY_OVERPASS
-          q = QUERY_OVERPASS
+          q = QUERY_OVERPASS.replace('timeout:300', 'timeout:100')
           for k in ('SUD', 'OVEST', 'NORD', 'EST'):
               q = q.replace(k, os.environ[k])
           dati = urllib.parse.urlencode({'data': q}).encode()
           server = ['https://overpass-api.de/api/interpreter', 'https://overpass.kumi.systems/api/interpreter',
                     'https://overpass.private.coffee/api/interpreter']
-          for t in range(4):
+          for t in range(5):
               for url in server:
                   try:
                       req = urllib.request.Request(url, data=dati, headers={'User-Agent': 'toscana-app-servizi/1.0'})
-                      with urllib.request.urlopen(req, timeout=300) as r:
+                      with urllib.request.urlopen(req, timeout=120) as r:
                           risposta = json.load(r)
                       json.dump(risposta, open('/tmp/servizi-osm.json', 'w'))
                       print('scaricati', len(risposta['elements']), 'elementi da', url)
@@ -73,7 +73,7 @@ jobs:
                       raise
                   except Exception as e:
                       print('errore', url, str(e)[:100], flush=True)
-              time.sleep(30)
+              time.sleep(20)
           raise SystemExit('Overpass non risponde')
           PY
       - name: Reti di autobus trovate
@@ -99,6 +99,7 @@ jobs:
           CITTA: ${{ inputs.citta }}
           RETI: ${{ inputs.reti }}
         run: |
+          mkdir -p grezzi && cp /tmp/servizi-osm.json "grezzi/$CITTA-servizi-osm.json"
           python3 strumenti/servizi_osm.py /tmp/servizi-osm.json "$CITTA" "$RETI"
           python3 strumenti/prepara_pacchetto.py "pacchetti/$CITTA"
       - name: Pubblica
@@ -108,7 +109,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add -A pacchetti "catalogo.json"
+          git add -A pacchetti grezzi "catalogo.json"
           if git diff --cached --quiet; then echo "Niente di nuovo"; exit 0; fi
           git commit -q -m "Servizi $CITTA: da OpenStreetMap"
           for i in 1 2 3 4; do
