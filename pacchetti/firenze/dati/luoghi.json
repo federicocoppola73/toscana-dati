@@ -1,4 +1,691 @@
 {
  "versione": 1,
- "luoghi": []
+ "luoghi": [
+  {
+   "id": "cattedrale-di-santa-maria-del-fiore",
+   "nome": "Cattedrale di Santa Maria del Fiore",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.7731,
+   "longitudine": 11.256,
+   "descrizione": {
+    "it": "La Cattedrale di Santa Maria del Fiore è il simbolo religioso e architettonico di Firenze. La costruzione iniziò nel 1296 su progetto di Arnolfo di Cambio e proseguì per oltre un secolo. La sua caratteristica più spettacolare è la grande cupola progettata da Filippo Brunelleschi e completata nel 1436, un'opera ingegneristica che segnò una svolta nella storia dell'architettura. La facciata, rivestita di marmi bianchi, verdi e rosa, è un'opera ottocentesca su progetto di Emilio De Fabris. All'interno si trova il grandioso affresco del Giudizio Universale, di Giorgio Vasari e Federico Zuccari.",
+    "en": "The Cathedral of Santa Maria del Fiore is the religious and architectural symbol of Florence. Construction began in 1296 to a design by Arnolfo di Cambio and continued for over a century. Its most spectacular feature is the great dome designed by Filippo Brunelleschi and completed in 1436, an engineering feat that marked a turning point in the history of architecture. The façade, clad in white, green and pink marble, is a nineteenth-century work by Emilio De Fabris. Inside is the grand fresco of the Last Judgement by Giorgio Vasari and Federico Zuccari.",
+    "fr": "La cathédrale Santa Maria del Fiore est le symbole religieux et architectural de Florence. Sa construction commença en 1296 sur un projet d'Arnolfo di Cambio et se poursuivit pendant plus d'un siècle. Son élément le plus spectaculaire est la grande coupole conçue par Filippo Brunelleschi et achevée en 1436, une prouesse d'ingénierie qui marqua un tournant dans l'histoire de l'architecture. La façade, revêtue de marbres blanc, vert et rose, est une œuvre du XIXe siècle d'Emilio De Fabris. À l'intérieur se trouve la grandiose fresque du Jugement dernier, de Giorgio Vasari et Federico Zuccari.",
+    "de": "Der Dom Santa Maria del Fiore ist das religiöse und architektonische Wahrzeichen von Florenz. Der Bau begann 1296 nach einem Entwurf von Arnolfo di Cambio und dauerte über ein Jahrhundert. Sein spektakulärstes Merkmal ist die große Kuppel von Filippo Brunelleschi, die 1436 vollendet wurde, eine technische Meisterleistung, die einen Wendepunkt in der Architekturgeschichte markierte. Die Fassade mit weißem, grünem und rosafarbenem Marmor stammt aus dem 19. Jahrhundert und geht auf Emilio De Fabris zurück. Im Inneren befindet sich das monumentale Fresko des Jüngsten Gerichts von Giorgio Vasari und Federico Zuccari.",
+    "es": "La catedral de Santa María del Fiore es el símbolo religioso y arquitectónico de Florencia. La construcción comenzó en 1296 según un proyecto de Arnolfo di Cambio y se prolongó durante más de un siglo. Su rasgo más espectacular es la gran cúpula diseñada por Filippo Brunelleschi y terminada en 1436, una hazaña de ingeniería que marcó un punto de inflexión en la historia de la arquitectura. La fachada, revestida de mármoles blancos, verdes y rosas, es una obra del siglo XIX de Emilio De Fabris. En el interior se encuentra el grandioso fresco del Juicio Final, de Giorgio Vasari y Federico Zuccari."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Una cupola senza impalcature",
+      "en": "A dome without scaffolding",
+      "fr": "Une coupole sans échafaudage",
+      "de": "Eine Kuppel ohne Gerüst",
+      "es": "Una cúpula sin andamios"
+     },
+     "testo": {
+      "it": "La cupola di Brunelleschi fu costruita senza ricorrere a una tradizionale armatura lignea completa, grazie a un ingegnoso sistema costruttivo ideato dall'architetto. È composta da due calotte sovrapposte, collegate da strutture di sostegno.",
+      "en": "Brunelleschi's dome was built without a full traditional wooden framework, thanks to an ingenious building system devised by the architect. It consists of two overlapping shells joined by supporting structures.",
+      "fr": "La coupole de Brunelleschi fut construite sans l'armature en bois complète habituelle, grâce à un ingénieux système de construction imaginé par l'architecte. Elle se compose de deux calottes superposées, reliées par des structures de soutien.",
+      "de": "Brunelleschis Kuppel wurde ohne das übliche vollständige Holzgerüst errichtet, dank eines genialen Bausystems des Architekten. Sie besteht aus zwei übereinanderliegenden Schalen, die durch tragende Strukturen verbunden sind.",
+      "es": "La cúpula de Brunelleschi se construyó sin recurrir a una armadura de madera completa y tradicional, gracias a un ingenioso sistema constructivo ideado por el arquitecto. Está formada por dos casquetes superpuestos, unidos por estructuras de soporte."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "10:15–15:45"
+    }
+   ],
+   "chiuso": [
+    "dom"
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Ingresso in Cattedrale gratuito e senza prenotazione; abbigliamento adeguato (spalle e ginocchia coperte). Cupola, Campanile, Battistero, Museo e Santa Reparata solo con pass: Brunelleschi 30 €, Giotto 20 €, Ghiberti 15 € (7–14 anni: 12, 7, 5 €; 0–6 anni gratis). Chiusa la domenica e nelle festività religiose. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Entry to the Cathedral is free and needs no booking; appropriate dress required (shoulders and knees covered). Dome, Bell Tower, Baptistery, Museum and Santa Reparata require a pass: Brunelleschi €30, Giotto €20, Ghiberti €15 (ages 7–14: €12, €7, €5; ages 0–6 free). Closed on Sundays and religious holidays. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "L'entrée dans la cathédrale est gratuite, sans réservation ; tenue adaptée exigée (épaules et genoux couverts). Coupole, campanile, baptistère, musée et Santa Reparata uniquement avec un pass : Brunelleschi 30 €, Giotto 20 €, Ghiberti 15 € (7–14 ans : 12, 7, 5 € ; 0–6 ans gratuit). Fermée le dimanche et les jours de fêtes religieuses. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Der Eintritt in den Dom ist frei und ohne Reservierung; angemessene Kleidung erforderlich (Schultern und Knie bedeckt). Kuppel, Campanile, Baptisterium, Museum und Santa Reparata nur mit Pass: Brunelleschi 30 €, Giotto 20 €, Ghiberti 15 € (7–14 Jahre: 12, 7, 5 €; 0–6 Jahre frei). Sonntags und an kirchlichen Feiertagen geschlossen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "La entrada a la catedral es gratuita y sin reserva; se exige vestimenta adecuada (hombros y rodillas cubiertos). Cúpula, campanario, baptisterio, museo y Santa Reparata solo con pase: Brunelleschi 30 €, Giotto 20 €, Ghiberti 15 € (7–14 años: 12, 7, 5 €; 0–6 años gratis). Cerrada los domingos y festivos religiosos. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://duomo.firenze.it/it/visita/organizza-la-tua-visita",
+   "accessibilita": {
+    "fonte": "https://duomo.firenze.it/it/scopri/cattedrale-di-santa-maria-del-fiore",
+    "verificato": "2026-11-20",
+    "voci": {
+     "motoria": {
+      "it": "L'ingresso per le persone con difficoltà motoria è sul lato destro della Cattedrale; all'ingresso sono disponibili sedie a rotelle. La salita alla Cupola (463 gradini, senza ascensore) non è accessibile.",
+      "en": "The entrance for people with reduced mobility is on the right-hand side of the Cathedral; wheelchairs are available at the entrance. The climb to the Dome (463 steps, no lift) is not accessible.",
+      "fr": "L'entrée pour les personnes à mobilité réduite se trouve sur le côté droit de la cathédrale ; des fauteuils roulants sont disponibles à l'entrée. La montée à la coupole (463 marches, sans ascenseur) n'est pas accessible.",
+      "de": "Der Zugang für Menschen mit eingeschränkter Mobilität befindet sich an der rechten Seite des Doms; am Eingang stehen Rollstühle bereit. Der Aufstieg zur Kuppel (463 Stufen, kein Aufzug) ist nicht barrierefrei.",
+      "es": "La entrada para personas con movilidad reducida está en el lado derecho de la catedral; en la entrada hay sillas de ruedas disponibles. La subida a la cúpula (463 escalones, sin ascensor) no es accesible."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Florence Cathedral"
+   }
+  },
+  {
+   "id": "battistero-di-san-giovanni",
+   "nome": "Battistero di San Giovanni",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.7732,
+   "longitudine": 11.2549,
+   "descrizione": {
+    "it": "Situato di fronte alla Cattedrale, il Battistero di San Giovanni è uno degli edifici più antichi e importanti di Firenze. La sua pianta ottagonale e il rivestimento marmoreo bianco e verde lo rendono immediatamente riconoscibile. Fu consacrato nel 1059 da papa Niccolò II. È celebre soprattutto per le sue porte bronzee, tra cui la Porta del Paradiso di Lorenzo Ghiberti. Le porte originali sono conservate nel Museo dell'Opera del Duomo; quelle visibili all'esterno sono copie.",
+    "en": "Standing opposite the Cathedral, the Baptistery of St John is one of the oldest and most important buildings in Florence. Its octagonal plan and white and green marble cladding make it instantly recognisable. It was consecrated in 1059 by Pope Nicholas II. It is famous above all for its bronze doors, including Lorenzo Ghiberti's Gates of Paradise. The original doors are kept in the Museo dell'Opera del Duomo; those seen outside are copies.",
+    "fr": "Situé face à la cathédrale, le baptistère Saint-Jean est l'un des édifices les plus anciens et les plus importants de Florence. Son plan octogonal et son revêtement de marbre blanc et vert le rendent immédiatement reconnaissable. Il fut consacré en 1059 par le pape Nicolas II. Il est surtout célèbre pour ses portes de bronze, dont la Porte du Paradis de Lorenzo Ghiberti. Les portes originales sont conservées au Museo dell'Opera del Duomo ; celles que l'on voit à l'extérieur sont des copies.",
+    "de": "Das Baptisterium San Giovanni liegt gegenüber dem Dom und gehört zu den ältesten und wichtigsten Bauwerken von Florenz. Der achteckige Grundriss und die Marmorverkleidung in Weiß und Grün machen es sofort erkennbar. Es wurde 1059 von Papst Nikolaus II. geweiht. Berühmt ist es vor allem für seine Bronzetüren, darunter die Paradiesestür von Lorenzo Ghiberti. Die Originaltüren befinden sich im Museo dell'Opera del Duomo; die außen sichtbaren sind Kopien.",
+    "es": "Situado frente a la catedral, el Baptisterio de San Juan es uno de los edificios más antiguos e importantes de Florencia. Su planta octogonal y su revestimiento de mármol blanco y verde lo hacen inconfundible. Fue consagrado en 1059 por el papa Nicolás II. Es célebre sobre todo por sus puertas de bronce, entre ellas la Puerta del Paraíso de Lorenzo Ghiberti. Las puertas originales se conservan en el Museo dell'Opera del Duomo; las que se ven en el exterior son copias."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Il nome “Porta del Paradiso”",
+      "en": "The name “Gates of Paradise”",
+      "fr": "Le nom « Porte du Paradis »",
+      "de": "Der Name „Paradiesestür“",
+      "es": "El nombre “Puerta del Paraíso”"
+     },
+     "testo": {
+      "it": "Secondo la tradizione, fu Michelangelo a chiamarla “del Paradiso”, colpito dalla sua bellezza. Le dieci formelle raccontano episodi dell'Antico Testamento con rilievi di straordinaria profondità prospettica.",
+      "en": "According to tradition, it was Michelangelo who called it the “Gates of Paradise”, struck by its beauty. Its ten panels tell stories from the Old Testament in reliefs of extraordinary perspective depth.",
+      "fr": "Selon la tradition, c'est Michel-Ange qui l'appela « du Paradis », frappé par sa beauté. Ses dix panneaux racontent des épisodes de l'Ancien Testament dans des reliefs d'une extraordinaire profondeur de perspective.",
+      "de": "Der Überlieferung nach nannte Michelangelo sie „Paradiesestür“, beeindruckt von ihrer Schönheit. Ihre zehn Felder erzählen Episoden des Alten Testaments in Reliefs von außergewöhnlicher perspektivischer Tiefe.",
+      "es": "Según la tradición, fue Miguel Ángel quien la llamó “del Paraíso”, impresionado por su belleza. Sus diez paneles narran episodios del Antiguo Testamento con relieves de extraordinaria profundidad de perspectiva."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "8:30–19:30"
+    }
+   ],
+   "biglietto": {
+    "intero": 15,
+    "ridotto": 5
+   },
+   "nota": {
+    "it": "Non esiste un biglietto solo per il Battistero: è incluso nei pass (Ghiberti 15 €, Giotto 20 €, Brunelleschi 30 €; ridotto 7–14 anni 5 €, 0–6 anni gratis). La prima domenica del mese chiude alle 13:30. I mosaici della volta non sono visibili per restauro. Abbigliamento adeguato richiesto. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "There is no ticket for the Baptistery alone: it is included in the passes (Ghiberti €15, Giotto €20, Brunelleschi €30; ages 7–14 €5, ages 0–6 free). On the first Sunday of the month it closes at 1:30 pm. The vault mosaics are not visible because of restoration work. Appropriate dress required. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Il n'existe pas de billet pour le seul baptistère : il est inclus dans les pass (Ghiberti 15 €, Giotto 20 €, Brunelleschi 30 € ; 7–14 ans 5 €, 0–6 ans gratuit). Le premier dimanche du mois, il ferme à 13 h 30. Les mosaïques de la voûte ne sont pas visibles en raison de travaux de restauration. Tenue adaptée exigée. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Für das Baptisterium allein gibt es kein Ticket: Es ist in den Pässen enthalten (Ghiberti 15 €, Giotto 20 €, Brunelleschi 30 €; 7–14 Jahre 5 €, 0–6 Jahre frei). Am ersten Sonntag des Monats schließt es um 13.30 Uhr. Die Gewölbemosaiken sind wegen Restaurierung nicht sichtbar. Angemessene Kleidung erforderlich. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "No hay entrada solo para el Baptisterio: está incluido en los pases (Ghiberti 15 €, Giotto 20 €, Brunelleschi 30 €; 7–14 años 5 €, 0–6 años gratis). El primer domingo de cada mes cierra a las 13:30. Los mosaicos de la bóveda no se ven por obras de restauración. Se exige vestimenta adecuada. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://duomo.firenze.it/it/scopri/battistero-di-san-giovanni",
+   "accessibilita": {
+    "fonte": "https://duomo.firenze.it/it/scopri/battistero-di-san-giovanni",
+    "verificato": "2026-11-20",
+    "voci": {
+     "motoria": {
+      "it": "Il Battistero è accessibile anche per le persone con difficoltà motoria. L'ingresso gratuito per la persona con difficoltà si può riservare scrivendo a accessibilita@duomo.firenze.it o alla cassa di Piazza San Giovanni 7, con documento di certificazione.",
+      "en": "The Baptistery is accessible to people with reduced mobility. Free entry for the person concerned can be reserved by writing to accessibilita@duomo.firenze.it or at the ticket office in Piazza San Giovanni 7, with a certification document.",
+      "fr": "Le baptistère est accessible aux personnes à mobilité réduite. L'entrée gratuite pour la personne concernée peut être réservée en écrivant à accessibilita@duomo.firenze.it ou à la caisse de la Piazza San Giovanni 7, sur présentation d'un justificatif.",
+      "de": "Das Baptisterium ist auch für Menschen mit eingeschränkter Mobilität zugänglich. Der freie Eintritt für die betroffene Person kann per E-Mail an accessibilita@duomo.firenze.it oder an der Kasse in der Piazza San Giovanni 7 reserviert werden, gegen Vorlage eines Nachweises.",
+      "es": "El Baptisterio es accesible para personas con movilidad reducida. La entrada gratuita para la persona afectada puede reservarse escribiendo a accessibilita@duomo.firenze.it o en la taquilla de Piazza San Giovanni 7, con un documento acreditativo."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Florence Baptistery"
+   }
+  },
+  {
+   "id": "campanile-di-giotto",
+   "nome": "Campanile di Giotto",
+   "categoria": "altri",
+   "sestiere": "Centro",
+   "latitudine": 43.7734,
+   "longitudine": 11.2557,
+   "descrizione": {
+    "it": "Il Campanile di Giotto è una delle più importanti testimonianze dell'architettura gotica fiorentina. Si trova accanto alla Cattedrale ed è alto circa 85 metri. La costruzione iniziò nel 1334 sotto la direzione di Giotto, proseguì con Andrea Pisano e fu completata da Francesco Talenti nel 1359. La torre è rivestita di marmi bianchi, verdi e rossi e presenta decorazioni scultoree che raccontano il lavoro, le arti e la vita dell'uomo.",
+    "en": "Giotto's Bell Tower is one of the most important examples of Florentine Gothic architecture. It stands beside the Cathedral and is about 85 metres tall. Construction began in 1334 under Giotto, continued with Andrea Pisano and was completed by Francesco Talenti in 1359. The tower is clad in white, green and red marble and features sculpted decoration illustrating work, the arts and human life.",
+    "fr": "Le campanile de Giotto est l'un des témoignages les plus importants de l'architecture gothique florentine. Il se dresse à côté de la cathédrale et mesure environ 85 mètres. Sa construction commença en 1334 sous la direction de Giotto, se poursuivit avec Andrea Pisano et fut achevée par Francesco Talenti en 1359. La tour est revêtue de marbres blanc, vert et rouge et présente des décors sculptés qui évoquent le travail, les arts et la vie de l'homme.",
+    "de": "Der Campanile von Giotto ist eines der wichtigsten Zeugnisse der florentinischen Gotik. Er steht neben dem Dom und ist etwa 85 Meter hoch. Der Bau begann 1334 unter Giotto, wurde von Andrea Pisano fortgeführt und 1359 von Francesco Talenti vollendet. Der Turm ist mit weißem, grünem und rotem Marmor verkleidet und trägt Skulpturenschmuck, der Arbeit, Künste und das menschliche Leben darstellt.",
+    "es": "El campanario de Giotto es uno de los testimonios más importantes de la arquitectura gótica florentina. Se alza junto a la catedral y mide unos 85 metros. La construcción comenzó en 1334 bajo la dirección de Giotto, continuó con Andrea Pisano y fue terminada por Francesco Talenti en 1359. La torre está revestida de mármoles blancos, verdes y rojos y presenta una decoración escultórica que narra el trabajo, las artes y la vida del hombre."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Un'opera che Giotto non vide finita",
+      "en": "A work Giotto never saw finished",
+      "fr": "Une œuvre que Giotto ne vit jamais achevée",
+      "de": "Ein Werk, das Giotto nie vollendet sah",
+      "es": "Una obra que Giotto no vio terminada"
+     },
+     "testo": {
+      "it": "Giotto morì nel 1337, appena tre anni dopo l'inizio dei lavori. Non riuscì quindi a vedere completata la sua opera, che venne portata a termine da altri architetti.",
+      "en": "Giotto died in 1337, only three years after work began. He therefore never saw his creation finished; it was completed by other architects.",
+      "fr": "Giotto mourut en 1337, à peine trois ans après le début des travaux. Il ne vit donc jamais son œuvre achevée, qui fut menée à terme par d'autres architectes.",
+      "de": "Giotto starb 1337, nur drei Jahre nach Baubeginn. Er sah sein Werk daher nie vollendet; andere Architekten führten es zu Ende.",
+      "es": "Giotto murió en 1337, apenas tres años después del inicio de las obras. No llegó, por tanto, a ver terminada su obra, que fue completada por otros arquitectos."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "8:15–18:45"
+    }
+   ],
+   "biglietto": {
+    "intero": 20,
+    "ridotto": 7
+   },
+   "nota": {
+    "it": "Solo con pass: Giotto Pass 20 € (ridotto 7–14 anni 7 €), oppure Brunelleschi Pass 30 €. Salita di 414 gradini, senza ascensore; sconsigliata a chi soffre di problemi cardiaci, vertigini o claustrofobia e in gravidanza. Minori di 18 anni solo con un adulto. Con il Giotto Pass è obbligatorio prenotare lo slot orario. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Pass only: Giotto Pass €20 (ages 7–14 €7), or Brunelleschi Pass €30. 414 steps, no lift; not recommended for people with heart problems, vertigo or claustrophobia, or during pregnancy. Under-18s only with an adult. With the Giotto Pass you must book a time slot. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Uniquement avec un pass : Giotto Pass 20 € (7–14 ans 7 €) ou Brunelleschi Pass 30 €. 414 marches, sans ascenseur ; déconseillé en cas de problèmes cardiaques, de vertige, de claustrophobie ou de grossesse. Moins de 18 ans uniquement avec un adulte. Avec le Giotto Pass, la réservation d'un créneau est obligatoire. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Nur mit Pass: Giotto Pass 20 € (7–14 Jahre 7 €) oder Brunelleschi Pass 30 €. 414 Stufen, kein Aufzug; nicht empfohlen bei Herzproblemen, Höhenangst, Klaustrophobie oder Schwangerschaft. Unter 18 Jahren nur in Begleitung eines Erwachsenen. Mit dem Giotto Pass ist die Reservierung eines Zeitfensters Pflicht. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Solo con pase: Giotto Pass 20 € (7–14 años 7 €) o Brunelleschi Pass 30 €. 414 escalones, sin ascensor; no recomendado con problemas cardíacos, vértigo o claustrofobia, ni en el embarazo. Menores de 18 años solo con un adulto. Con el Giotto Pass es obligatorio reservar un horario. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://duomo.firenze.it/it/visita/organizza-la-tua-visita",
+   "accessibilita": {
+    "fonte": "https://duomo.firenze.it/it/visita/organizza-la-tua-visita",
+    "verificato": "2026-11-20",
+    "voci": {
+     "non_accessibile": {
+      "it": "La salita (414 gradini, senza ascensore) non è accessibile alle persone con mobilità ridotta.",
+      "en": "The climb (414 steps, no lift) is not accessible to people with reduced mobility.",
+      "fr": "La montée (414 marches, sans ascenseur) n'est pas accessible aux personnes à mobilité réduite.",
+      "de": "Der Aufstieg (414 Stufen, kein Aufzug) ist für Menschen mit eingeschränkter Mobilität nicht zugänglich.",
+      "es": "La subida (414 escalones, sin ascensor) no es accesible para personas con movilidad reducida."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Giotto's Campanile"
+   }
+  },
+  {
+   "id": "piazza-della-signoria-e-palazzo-vecchio",
+   "nome": "Piazza della Signoria e Palazzo Vecchio",
+   "categoria": "piazze",
+   "sestiere": "Centro",
+   "latitudine": 43.7696,
+   "longitudine": 11.2558,
+   "descrizione": {
+    "it": "Piazza della Signoria è il cuore politico e civile della Firenze medievale e rinascimentale. Da secoli è il luogo delle principali manifestazioni pubbliche e della vita istituzionale della città. Su di essa si affaccia Palazzo Vecchio, costruito a partire dal 1299 come sede del governo della Repubblica fiorentina. La sua imponente torre di Arnolfo, alta circa 95 metri, domina il panorama urbano. Nella piazza si trovano inoltre la Fontana del Nettuno, la Loggia dei Lanzi e la copia del David di Michelangelo, collocata dove un tempo stava l'originale.",
+    "en": "Piazza della Signoria is the political and civic heart of medieval and Renaissance Florence. For centuries it has been the setting of the city's main public events and institutional life. Palazzo Vecchio overlooks it, built from 1299 as the seat of the government of the Florentine Republic. Its imposing Arnolfo Tower, about 95 metres high, dominates the city skyline. The square also holds the Fountain of Neptune, the Loggia dei Lanzi and the copy of Michelangelo's David, placed where the original once stood.",
+    "fr": "La Piazza della Signoria est le cœur politique et civique de la Florence médiévale et Renaissance. Depuis des siècles, elle accueille les grandes manifestations publiques et la vie institutionnelle de la ville. Le Palazzo Vecchio, construit à partir de 1299 comme siège du gouvernement de la République florentine, la domine. Sa puissante tour d'Arnolfo, haute d'environ 95 mètres, domine le panorama urbain. On y trouve aussi la fontaine de Neptune, la Loggia dei Lanzi et la copie du David de Michel-Ange, placée là où se trouvait autrefois l'original.",
+    "de": "Die Piazza della Signoria ist das politische und bürgerliche Herz des mittelalterlichen und Renaissance-Florenz. Seit Jahrhunderten ist sie Schauplatz der wichtigsten öffentlichen Ereignisse und des institutionellen Lebens der Stadt. Am Platz liegt der Palazzo Vecchio, ab 1299 als Sitz der Regierung der Florentiner Republik erbaut. Sein mächtiger Arnolfo-Turm, etwa 95 Meter hoch, beherrscht das Stadtbild. Auf dem Platz stehen außerdem der Neptunbrunnen, die Loggia dei Lanzi und die Kopie von Michelangelos David, dort aufgestellt, wo einst das Original stand.",
+    "es": "La Piazza della Signoria es el corazón político y cívico de la Florencia medieval y renacentista. Durante siglos ha sido escenario de las principales manifestaciones públicas y de la vida institucional de la ciudad. En ella se alza el Palazzo Vecchio, construido a partir de 1299 como sede del gobierno de la República florentina. Su imponente torre de Arnolfo, de unos 95 metros, domina el panorama urbano. En la plaza se encuentran también la Fuente de Neptuno, la Loggia dei Lanzi y la copia del David de Miguel Ángel, situada donde antes estaba el original."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Il rogo di Savonarola",
+      "en": "Savonarola's execution",
+      "fr": "Le bûcher de Savonarole",
+      "de": "Savonarolas Hinrichtung",
+      "es": "La hoguera de Savonarola"
+     },
+     "testo": {
+      "it": "In questa piazza, il 23 maggio 1498, fu giustiziato Girolamo Savonarola. Una targa nella pavimentazione ricorda il luogo del rogo.",
+      "en": "In this square, on 23 May 1498, Girolamo Savonarola was executed. A plaque in the paving marks the spot of the pyre.",
+      "fr": "Sur cette place, le 23 mai 1498, Girolamo Savonarole fut exécuté. Une plaque dans le pavage rappelle l'endroit du bûcher.",
+      "de": "Auf diesem Platz wurde am 23. Mai 1498 Girolamo Savonarola hingerichtet. Eine Platte im Pflaster erinnert an die Stelle des Scheiterhaufens.",
+      "es": "En esta plaza, el 23 de mayo de 1498, fue ejecutado Girolamo Savonarola. Una placa en el pavimento recuerda el lugar de la hoguera."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-mer, ven-dom",
+     "ore": "9:00–19:00"
+    },
+    {
+     "giorni": "gio",
+     "ore": "9:00–14:00"
+    }
+   ],
+   "biglietto": {
+    "intero": 18,
+    "ridotto": 12
+   },
+   "nota": {
+    "it": "Orari e prezzi del Museo di Palazzo Vecchio (biglietteria chiusa un'ora prima). La piazza è sempre accessibile e gratuita. Torre di Arnolfo: 20 € intero, 13 € ridotto (18–25 anni e studenti universitari), 9:00–17:00, giovedì 9:00–14:00; vietata ai minori di 6 anni, sospesa in caso di pioggia. Gratis fino a 18 anni. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Hours and prices of the Palazzo Vecchio Museum (ticket office closes one hour earlier). The square is always open and free. Arnolfo Tower: €20 full, €13 reduced (ages 18–25 and university students), 9 am–5 pm, Thursday 9 am–2 pm; not allowed under 6, closed in rain. Free up to age 18. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Horaires et tarifs du musée de Palazzo Vecchio (billetterie fermée une heure avant). La place est toujours accessible et gratuite. Tour d'Arnolfo : 20 € plein tarif, 13 € réduit (18–25 ans et étudiants), 9 h–17 h, jeudi 9 h–14 h ; interdite aux moins de 6 ans, fermée en cas de pluie. Gratuit jusqu'à 18 ans. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Öffnungszeiten und Preise des Museums im Palazzo Vecchio (Kasse schließt eine Stunde früher). Der Platz ist immer zugänglich und kostenlos. Arnolfo-Turm: 20 € voll, 13 € ermäßigt (18–25 Jahre und Studierende), 9–17 Uhr, donnerstags 9–14 Uhr; unter 6 Jahren nicht erlaubt, bei Regen geschlossen. Bis 18 Jahre frei. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Horarios y precios del Museo de Palazzo Vecchio (la taquilla cierra una hora antes). La plaza es siempre accesible y gratuita. Torre de Arnolfo: 20 € entrada, 13 € reducida (18–25 años y universitarios), 9:00–17:00, jueves 9:00–14:00; prohibida a menores de 6 años, cerrada con lluvia. Gratis hasta los 18 años. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://musefirenze.it/musei/museo-di-palazzo-vecchio/",
+   "accessibilita": {
+    "fonte": "https://cultura.comune.fi.it/pagina/musei-civici-fiorentini/museo-di-palazzo-vecchio",
+    "verificato": "2026-11-20",
+    "voci": {
+     "motoria": {
+      "it": "Il museo è accessibile dall'ingresso laterale su via dei Gondi, ad eccezione del Mezzanino, del Camminamento di ronda, della Torre e di alcune sale didattiche. Due sedie a rotelle gratuite al guardaroba. Ingresso gratuito per i disabili e un accompagnatore.",
+      "en": "The museum is accessible via the side entrance on via dei Gondi, except for the Mezzanine, the Walkway, the Tower and some educational rooms. Two wheelchairs are available free at the cloakroom. Free entry for disabled visitors and one companion.",
+      "fr": "Le musée est accessible par l'entrée latérale de la via dei Gondi, à l'exception de l'entresol, du chemin de ronde, de la tour et de certaines salles pédagogiques. Deux fauteuils roulants gratuits à la consigne. Entrée gratuite pour les personnes handicapées et un accompagnateur.",
+      "de": "Das Museum ist über den Seiteneingang in der Via dei Gondi zugänglich, mit Ausnahme von Zwischengeschoss, Wehrgang, Turm und einigen Räumen für Bildungsaktivitäten. Zwei Rollstühle stehen kostenlos an der Garderobe bereit. Freier Eintritt für Menschen mit Behinderung und eine Begleitperson.",
+      "es": "El museo es accesible por la entrada lateral de via dei Gondi, salvo el entresuelo, el camino de ronda, la torre y algunas salas didácticas. Hay dos sillas de ruedas gratuitas en el guardarropa. Entrada gratuita para personas con discapacidad y un acompañante."
+     },
+     "ascensore": {
+      "it": "Ascensore al piano terra (Cortile della Dogana, porta di 75 cm) per raggiungere il Salone dei Cinquecento e le altre aree.",
+      "en": "Lift on the ground floor (Cortile della Dogana, 75 cm door) to reach the Salone dei Cinquecento and other areas.",
+      "fr": "Ascenseur au rez-de-chaussée (Cortile della Dogana, porte de 75 cm) pour accéder au Salone dei Cinquecento et aux autres zones.",
+      "de": "Aufzug im Erdgeschoss (Cortile della Dogana, Tür 75 cm) zum Salone dei Cinquecento und zu den anderen Bereichen.",
+      "es": "Ascensor en la planta baja (Cortile della Dogana, puerta de 75 cm) para llegar al Salone dei Cinquecento y a las demás áreas."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Palazzo Vecchio"
+   }
+  },
+  {
+   "id": "ponte-vecchio",
+   "nome": "Ponte Vecchio",
+   "categoria": "ponti",
+   "sestiere": "Centro",
+   "latitudine": 43.7679,
+   "longitudine": 11.2531,
+   "descrizione": {
+    "it": "Ponte Vecchio è uno dei simboli più famosi di Firenze e uno dei ponti più caratteristici d'Europa. Attraversa l'Arno collegando il centro storico con il quartiere dell'Oltrarno. La struttura attuale risale al 1345 ed è caratterizzata da tre grandi arcate e da una serie di botteghe costruite direttamente sul ponte. Nel corso dei secoli queste attività sono cambiate: un tempo ospitavano soprattutto macellai e commercianti, mentre oggi sono note per le gioiellerie e le botteghe orafe. Sopra le botteghe passa il Corridoio Vasariano, realizzato nel 1565 per consentire ai Medici di spostarsi tra Palazzo Vecchio e Palazzo Pitti senza attraversare le strade pubbliche.",
+    "en": "Ponte Vecchio is one of the most famous symbols of Florence and one of the most characteristic bridges in Europe. It crosses the Arno, linking the historic centre with the Oltrarno district. The present structure dates from 1345 and has three great arches and a row of shops built directly on the bridge. Over the centuries these businesses have changed: once mostly butchers and traders, today they are known for jewellers and goldsmiths. Above the shops runs the Vasari Corridor, built in 1565 so that the Medici could move between Palazzo Vecchio and Palazzo Pitti without crossing public streets.",
+    "fr": "Le Ponte Vecchio est l'un des symboles les plus célèbres de Florence et l'un des ponts les plus caractéristiques d'Europe. Il enjambe l'Arno et relie le centre historique au quartier de l'Oltrarno. La structure actuelle date de 1345 ; elle se distingue par trois grandes arches et une série de boutiques construites directement sur le pont. Au fil des siècles, ces activités ont changé : autrefois surtout des bouchers et des marchands, aujourd'hui des bijouteries et des ateliers d'orfèvres. Au-dessus des boutiques passe le corridor de Vasari, réalisé en 1565 pour permettre aux Médicis de se déplacer entre le Palazzo Vecchio et le Palazzo Pitti sans traverser les rues publiques.",
+    "de": "Die Ponte Vecchio ist eines der berühmtesten Wahrzeichen von Florenz und eine der charakteristischsten Brücken Europas. Sie überspannt den Arno und verbindet die Altstadt mit dem Viertel Oltrarno. Die heutige Konstruktion stammt von 1345 und zeichnet sich durch drei große Bögen und eine Reihe von Läden aus, die direkt auf der Brücke gebaut wurden. Im Lauf der Jahrhunderte haben sich diese Geschäfte gewandelt: Früher waren es vor allem Metzger und Händler, heute sind es Juweliere und Goldschmiede. Über den Läden verläuft der Vasari-Korridor, 1565 erbaut, damit die Medici zwischen Palazzo Vecchio und Palazzo Pitti wechseln konnten, ohne öffentliche Straßen zu betreten.",
+    "es": "El Ponte Vecchio es uno de los símbolos más famosos de Florencia y uno de los puentes más característicos de Europa. Cruza el Arno y une el centro histórico con el barrio del Oltrarno. La estructura actual data de 1345 y se caracteriza por tres grandes arcos y una serie de tiendas construidas directamente sobre el puente. A lo largo de los siglos estas actividades han cambiado: antes eran sobre todo carniceros y comerciantes, hoy son conocidas las joyerías y los talleres de orfebres. Sobre las tiendas discurre el Corredor Vasariano, realizado en 1565 para que los Médici pudieran desplazarse entre el Palazzo Vecchio y el Palazzo Pitti sin atravesar las calles públicas."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "L'unico ponte risparmiato",
+      "en": "The only bridge spared",
+      "fr": "Le seul pont épargné",
+      "de": "Die einzige verschonte Brücke",
+      "es": "El único puente que se salvó"
+     },
+     "testo": {
+      "it": "Ponte Vecchio fu l'unico ponte di Firenze a non essere distrutto durante la ritirata tedesca dell'agosto 1944.",
+      "en": "Ponte Vecchio was the only bridge in Florence not destroyed during the German retreat of August 1944.",
+      "fr": "Le Ponte Vecchio fut le seul pont de Florence à ne pas être détruit lors du repli allemand d'août 1944.",
+      "de": "Die Ponte Vecchio war die einzige Brücke von Florenz, die beim deutschen Rückzug im August 1944 nicht zerstört wurde.",
+      "es": "El Ponte Vecchio fue el único puente de Florencia que no fue destruido durante la retirada alemana de agosto de 1944."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "sempre aperto"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Il ponte è sempre accessibile e non serve prenotare. Le botteghe seguono i propri orari commerciali. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The bridge is always open and no booking is needed. The shops keep their own business hours. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Le pont est toujours accessible et il n'est pas nécessaire de réserver. Les boutiques suivent leurs propres horaires. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Die Brücke ist immer zugänglich, eine Reservierung ist nicht nötig. Die Läden haben eigene Öffnungszeiten. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "El puente es siempre accesible y no hace falta reservar. Las tiendas tienen sus propios horarios. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://www.visittuscany.com/it/attrazioni/ponte-vecchio/",
+   "wikipedia": {
+    "en": "Ponte Vecchio"
+   }
+  },
+  {
+   "id": "basilica-di-santa-croce",
+   "nome": "Basilica di Santa Croce",
+   "categoria": "chiese",
+   "sestiere": "Santa Croce",
+   "latitudine": 43.7686,
+   "longitudine": 11.2623,
+   "descrizione": {
+    "it": "La Basilica di Santa Croce è una delle più importanti chiese francescane d'Italia. La costruzione iniziò nel 1294, probabilmente su progetto di Arnolfo di Cambio. La facciata neogotica, rivestita di marmi policromi, fu completata nell'Ottocento. È conosciuta come il Tempio delle Itale Glorie perché ospita le tombe e i monumenti commemorativi di numerosi personaggi illustri, tra cui Michelangelo, Galileo Galilei, Niccolò Machiavelli e Ugo Foscolo. È inoltre ricca di opere d'arte, affreschi di Giotto e testimonianze del Rinascimento fiorentino.",
+    "en": "The Basilica of Santa Croce is one of the most important Franciscan churches in Italy. Construction began in 1294, probably to a design by Arnolfo di Cambio. The neo-Gothic façade, clad in polychrome marble, was completed in the nineteenth century. It is known as the Temple of Italian Glories because it holds the tombs and memorials of many illustrious figures, including Michelangelo, Galileo Galilei, Niccolò Machiavelli and Ugo Foscolo. It is also rich in works of art, frescoes by Giotto and evidence of the Florentine Renaissance.",
+    "fr": "La basilique Santa Croce est l'une des plus importantes églises franciscaines d'Italie. Sa construction commença en 1294, probablement sur un projet d'Arnolfo di Cambio. La façade néogothique, revêtue de marbres polychromes, fut achevée au XIXe siècle. Elle est connue comme le Temple des gloires italiennes, car elle abrite les tombeaux et monuments commémoratifs de nombreux personnages illustres, dont Michel-Ange, Galilée, Machiavel et Ugo Foscolo. Elle est aussi riche en œuvres d'art, en fresques de Giotto et en témoignages de la Renaissance florentine.",
+    "de": "Die Basilika Santa Croce ist eine der bedeutendsten Franziskanerkirchen Italiens. Der Bau begann 1294, wahrscheinlich nach einem Entwurf von Arnolfo di Cambio. Die neugotische Fassade aus mehrfarbigem Marmor wurde im 19. Jahrhundert vollendet. Sie ist als Tempel der italienischen Ruhmesgrößen bekannt, weil sie Gräber und Gedenkmäler zahlreicher berühmter Persönlichkeiten birgt, darunter Michelangelo, Galileo Galilei, Niccolò Machiavelli und Ugo Foscolo. Außerdem ist sie reich an Kunstwerken, Fresken von Giotto und Zeugnissen der florentinischen Renaissance.",
+    "es": "La basílica de Santa Croce es una de las iglesias franciscanas más importantes de Italia. La construcción comenzó en 1294, probablemente según un proyecto de Arnolfo di Cambio. La fachada neogótica, revestida de mármoles policromos, se terminó en el siglo XIX. Es conocida como el Templo de las Glorias Italianas porque alberga las tumbas y monumentos conmemorativos de numerosos personajes ilustres, entre ellos Miguel Ángel, Galileo Galilei, Nicolás Maquiavelo y Ugo Foscolo. Es además rica en obras de arte, frescos de Giotto y testimonios del Renacimiento florentino."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "La tomba vuota di Dante",
+      "en": "Dante's empty tomb",
+      "fr": "Le tombeau vide de Dante",
+      "de": "Dantes leeres Grab",
+      "es": "La tumba vacía de Dante"
+     },
+     "testo": {
+      "it": "Dante Alighieri è ricordato all'interno della basilica con un monumento funebre, ma la sua tomba è vuota: le sue spoglie si trovano a Ravenna, dove morì in esilio nel 1321.",
+      "en": "Dante Alighieri is commemorated inside the basilica with a funerary monument, but his tomb is empty: his remains lie in Ravenna, where he died in exile in 1321.",
+      "fr": "Dante Alighieri est commémoré dans la basilique par un monument funéraire, mais son tombeau est vide : sa dépouille repose à Ravenne, où il mourut en exil en 1321.",
+      "de": "Dante Alighieri wird in der Basilika durch ein Grabmal geehrt, doch das Grab ist leer: Seine sterblichen Überreste liegen in Ravenna, wo er 1321 im Exil starb.",
+      "es": "Dante Alighieri está recordado en la basílica con un monumento funerario, pero su tumba está vacía: sus restos se encuentran en Rávena, donde murió en el exilio en 1321."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "9:30–17:30"
+    },
+    {
+     "giorni": "dom",
+     "ore": "14:00–17:30"
+    }
+   ],
+   "biglietto": {
+    "intero": 10,
+    "ridotto": 6
+   },
+   "nota": {
+    "it": "Ultimo ingresso alle 17:00. La domenica e nelle festività di precetto apre alle 14:00. Chiusa il 25 dicembre. Gratis fino a 11 anni, residenti a Firenze e disabili con accompagnatore. Prenotazione online: +1 €. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Last entry 5 pm. On Sundays and holy days of obligation it opens at 2 pm. Closed on 25 December. Free for ages up to 11, Florence residents and disabled visitors with a companion. Online booking: +€1. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Dernière entrée à 17 h. Le dimanche et les fêtes d'obligation, ouverture à 14 h. Fermée le 25 décembre. Gratuit jusqu'à 11 ans, pour les résidents de Florence et les personnes handicapées avec accompagnateur. Réservation en ligne : +1 €. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Letzter Einlass 17 Uhr. Sonntags und an kirchlichen Feiertagen öffnet sie um 14 Uhr. Am 25. Dezember geschlossen. Frei bis 11 Jahre, für Einwohner von Florenz und Menschen mit Behinderung mit Begleitperson. Online-Reservierung: +1 €. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Última entrada a las 17:00. Los domingos y festivos de precepto abre a las 14:00. Cerrada el 25 de diciembre. Gratis hasta los 11 años, residentes en Florencia y personas con discapacidad con acompañante. Reserva en línea: +1 €. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://www.santacroceopera.it/organizza-la-visita/",
+   "accessibilita": {
+    "fonte": "https://www.santacroceopera.it/organizza-la-visita/",
+    "verificato": "2026-11-20",
+    "voci": {
+     "motoria": {
+      "it": "Rampa in Largo Bargellini e pedana all'uscita del chiostro su Piazza Santa Croce. Le navate sono agevoli; cappelle del transetto, corridoio del Noviziato e Sagrestia hanno scalini non accessibili in sedia a rotelle. Ingresso gratuito e prioritario per le persone con disabilità e i loro accompagnatori, senza prenotazione.",
+      "en": "Ramp in Largo Bargellini and a platform at the cloister exit on Piazza Santa Croce. The naves are easy to move around; the transept chapels, the Novitiate corridor and the Sacristy have steps that are not wheelchair-accessible. Free, priority entry for people with disabilities and their companions, no booking required.",
+      "fr": "Rampe à Largo Bargellini et plateforme à la sortie du cloître sur la Piazza Santa Croce. Les nefs se parcourent aisément ; les chapelles du transept, le couloir du Noviciat et la sacristie comportent des marches inaccessibles en fauteuil roulant. Entrée gratuite et prioritaire pour les personnes handicapées et leurs accompagnateurs, sans réservation.",
+      "de": "Rampe am Largo Bargellini und Plattform am Kreuzgangausgang zur Piazza Santa Croce. Die Kirchenschiffe sind gut begehbar; Querhauskapellen, Noviziatsgang und Sakristei haben Stufen, die mit Rollstuhl nicht zugänglich sind. Freier Vorrangeintritt für Menschen mit Behinderung und Begleitpersonen, ohne Reservierung.",
+      "es": "Rampa en Largo Bargellini y plataforma en la salida del claustro hacia Piazza Santa Croce. Las naves se recorren con facilidad; las capillas del transepto, el pasillo del Noviciado y la sacristía tienen escalones no accesibles en silla de ruedas. Entrada gratuita y prioritaria para personas con discapacidad y sus acompañantes, sin reserva."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Basilica of Santa Croce, Florence"
+   }
+  },
+  {
+   "id": "basilica-di-santa-maria-novella",
+   "nome": "Basilica di Santa Maria Novella",
+   "categoria": "chiese",
+   "sestiere": "Santa Maria Novella",
+   "latitudine": 43.7748,
+   "longitudine": 11.2496,
+   "descrizione": {
+    "it": "La Basilica di Santa Maria Novella è uno dei più importanti complessi religiosi e artistici di Firenze. Fu costruita dai frati domenicani a partire dal XIII secolo e presenta una straordinaria facciata marmorea progettata da Leon Battista Alberti, completata nel 1470. All'interno custodisce opere fondamentali della storia dell'arte, tra cui la Trinità di Masaccio, il Crocifisso di Giotto e il Crocifisso di Brunelleschi. Il complesso comprende inoltre chiostri, cappelle e ambienti conventuali decorati da importanti cicli di affreschi.",
+    "en": "The Basilica of Santa Maria Novella is one of the most important religious and artistic complexes in Florence. It was built by the Dominican friars from the thirteenth century and has an extraordinary marble façade designed by Leon Battista Alberti, completed in 1470. Inside are works fundamental to the history of art, including Masaccio's Trinity, Giotto's Crucifix and Brunelleschi's Crucifix. The complex also includes cloisters, chapels and convent rooms decorated with major fresco cycles.",
+    "fr": "La basilique Santa Maria Novella est l'un des plus importants complexes religieux et artistiques de Florence. Elle fut construite par les frères dominicains à partir du XIIIe siècle et présente une extraordinaire façade de marbre conçue par Leon Battista Alberti, achevée en 1470. À l'intérieur, elle abrite des œuvres fondamentales de l'histoire de l'art, dont la Trinité de Masaccio, le Crucifix de Giotto et le Crucifix de Brunelleschi. Le complexe comprend aussi des cloîtres, des chapelles et des salles conventuelles ornées d'importants cycles de fresques.",
+    "de": "Die Basilika Santa Maria Novella ist einer der wichtigsten religiösen und künstlerischen Komplexe von Florenz. Sie wurde ab dem 13. Jahrhundert von den Dominikanern erbaut und hat eine außergewöhnliche Marmorfassade nach Plänen von Leon Battista Alberti, 1470 vollendet. Im Inneren bewahrt sie grundlegende Werke der Kunstgeschichte, darunter Masaccios Dreifaltigkeit, Giottos Kruzifix und Brunelleschis Kruzifix. Zum Komplex gehören außerdem Kreuzgänge, Kapellen und Klosterräume mit bedeutenden Freskenzyklen.",
+    "es": "La basílica de Santa Maria Novella es uno de los complejos religiosos y artísticos más importantes de Florencia. Fue construida por los frailes dominicos a partir del siglo XIII y presenta una extraordinaria fachada de mármol diseñada por Leon Battista Alberti, terminada en 1470. En su interior custodia obras fundamentales de la historia del arte, entre ellas la Trinidad de Masaccio, el Crucifijo de Giotto y el Crucifijo de Brunelleschi. El complejo incluye además claustros, capillas y estancias conventuales decoradas con importantes ciclos de frescos."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "La prospettiva di Masaccio",
+      "en": "Masaccio's perspective",
+      "fr": "La perspective de Masaccio",
+      "de": "Masaccios Perspektive",
+      "es": "La perspectiva de Masaccio"
+     },
+     "testo": {
+      "it": "La Trinità di Masaccio è considerata una delle prime grandi applicazioni della prospettiva lineare nella pittura rinascimentale. L'opera crea l'illusione di una cappella che sembra aprirsi realmente nella parete.",
+      "en": "Masaccio's Trinity is considered one of the first great applications of linear perspective in Renaissance painting. The work creates the illusion of a chapel that seems to open into the wall.",
+      "fr": "La Trinité de Masaccio est considérée comme l'une des premières grandes applications de la perspective linéaire dans la peinture de la Renaissance. L'œuvre crée l'illusion d'une chapelle qui semble s'ouvrir réellement dans le mur.",
+      "de": "Masaccios Dreifaltigkeit gilt als eine der ersten großen Anwendungen der Linearperspektive in der Malerei der Renaissance. Das Werk erzeugt die Illusion einer Kapelle, die sich tatsächlich in der Wand zu öffnen scheint.",
+      "es": "La Trinidad de Masaccio se considera una de las primeras grandes aplicaciones de la perspectiva lineal en la pintura renacentista. La obra crea la ilusión de una capilla que parece abrirse realmente en la pared."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-gio",
+     "ore": "9:00–17:30"
+    },
+    {
+     "giorni": "ven",
+     "ore": "11:00–17:30"
+    },
+    {
+     "giorni": "sab",
+     "ore": "9:00–17:00"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:00–17:00"
+    }
+   ],
+   "biglietto": {
+    "intero": 10,
+    "ridotto": 8
+   },
+   "nota": {
+    "it": "Il biglietto comprende basilica e museo (chiostri, Cappellone degli Spagnoli). Tariffe in vigore dal 1° novembre 2026; previste esenzioni per alcune categorie. Ultimo ingresso un'ora prima della chiusura; gli orari possono variare per motivi liturgici. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The ticket covers the basilica and the museum (cloisters, Spanish Chapel). Rates in force from 1 November 2026; exemptions apply to some categories. Last entry one hour before closing; hours may vary for liturgical reasons. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Le billet comprend la basilique et le musée (cloîtres, chapelle des Espagnols). Tarifs en vigueur depuis le 1er novembre 2026 ; exonérations pour certaines catégories. Dernière entrée une heure avant la fermeture ; les horaires peuvent varier pour des raisons liturgiques. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Das Ticket umfasst Basilika und Museum (Kreuzgänge, Spanische Kapelle). Tarife gültig ab 1. November 2026; für einige Gruppen gibt es Befreiungen. Letzter Einlass eine Stunde vor Schließung; die Zeiten können aus liturgischen Gründen abweichen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "La entrada incluye la basílica y el museo (claustros, Capilla de los Españoles). Tarifas en vigor desde el 1 de noviembre de 2026; hay exenciones para algunas categorías. Última entrada una hora antes del cierre; los horarios pueden variar por motivos litúrgicos. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://www.smn.it/it/visita/",
+   "wikipedia": {
+    "en": "Santa Maria Novella"
+   }
+  },
+  {
+   "id": "palazzo-pitti",
+   "nome": "Palazzo Pitti",
+   "categoria": "palazzi",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7652,
+   "longitudine": 11.2501,
+   "descrizione": {
+    "it": "Palazzo Pitti è uno dei più grandi e imponenti palazzi storici di Firenze. Situato nel quartiere dell'Oltrarno, fu costruito a partire dalla metà del Quattrocento per volere del banchiere Luca Pitti. Nel 1550 fu acquistato da Cosimo I de' Medici e da Eleonora di Toledo, diventando la principale residenza granducale della famiglia. In seguito ospitò anche gli Asburgo-Lorena e i Savoia. Oggi accoglie diversi musei, tra cui la Galleria Palatina, la Galleria d'Arte Moderna e il Museo della Moda e del Costume. Alle sue spalle si estende il Giardino di Boboli.",
+    "en": "Palazzo Pitti is one of the largest and most imposing historic palaces in Florence. Located in the Oltrarno district, it was built from the mid-fifteenth century at the behest of the banker Luca Pitti. In 1550 it was bought by Cosimo I de' Medici and Eleonora of Toledo, becoming the family's main grand-ducal residence. It later housed the Habsburg-Lorraine and the Savoy dynasties too. Today it holds several museums, including the Palatine Gallery, the Modern Art Gallery and the Museum of Fashion and Costume. The Boboli Gardens extend behind it.",
+    "fr": "Le palais Pitti est l'un des plus grands et des plus imposants palais historiques de Florence. Situé dans le quartier de l'Oltrarno, il fut construit à partir du milieu du XVe siècle à la demande du banquier Luca Pitti. En 1550, il fut acheté par Cosme Ier de Médicis et Éléonore de Tolède, devenant la principale résidence grand-ducale de la famille. Il accueillit ensuite les Habsbourg-Lorraine et les Savoie. Il abrite aujourd'hui plusieurs musées, dont la galerie Palatine, la galerie d'Art moderne et le musée de la Mode et du Costume. Le jardin de Boboli s'étend derrière lui.",
+    "de": "Der Palazzo Pitti ist einer der größten und eindrucksvollsten historischen Paläste von Florenz. Im Viertel Oltrarno gelegen, wurde er ab der Mitte des 15. Jahrhunderts im Auftrag des Bankiers Luca Pitti erbaut. 1550 kauften ihn Cosimo I. de' Medici und Eleonora von Toledo, und er wurde zur wichtigsten großherzoglichen Residenz der Familie. Später beherbergte er auch die Habsburg-Lothringer und die Savoyer. Heute birgt er mehrere Museen, darunter die Galleria Palatina, die Galleria d'Arte Moderna und das Museum für Mode und Kostüm. Dahinter erstrecken sich die Boboli-Gärten.",
+    "es": "El Palazzo Pitti es uno de los palacios históricos más grandes e imponentes de Florencia. Situado en el barrio del Oltrarno, se construyó a partir de mediados del siglo XV por voluntad del banquero Luca Pitti. En 1550 lo compraron Cosme I de Médici y Leonor de Toledo, y se convirtió en la principal residencia granducal de la familia. Después acogió también a los Habsburgo-Lorena y a los Saboya. Hoy alberga varios museos, entre ellos la Galería Palatina, la Galería de Arte Moderno y el Museo de la Moda y del Traje. Tras él se extiende el Jardín de Bóboli."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Reggia dei re d'Italia",
+      "en": "Palace of the kings of Italy",
+      "fr": "Palais des rois d'Italie",
+      "de": "Residenz der Könige von Italien",
+      "es": "Palacio de los reyes de Italia"
+     },
+     "testo": {
+      "it": "Palazzo Pitti fu per un periodo anche residenza dei sovrani d'Italia. I Savoia vi abitarono quando Firenze fu capitale del Regno d'Italia, tra il 1865 e il 1871.",
+      "en": "For a time Palazzo Pitti was also the residence of the kings of Italy. The Savoy family lived here when Florence was the capital of the Kingdom of Italy, between 1865 and 1871.",
+      "fr": "Pendant un temps, le palais Pitti fut aussi la résidence des souverains d'Italie. Les Savoie y vécurent lorsque Florence était la capitale du Royaume d'Italie, entre 1865 et 1871.",
+      "de": "Eine Zeit lang war der Palazzo Pitti auch Residenz der Könige von Italien. Die Savoyer wohnten hier, als Florenz zwischen 1865 und 1871 Hauptstadt des Königreichs Italien war.",
+      "es": "Durante un tiempo el Palazzo Pitti fue también residencia de los reyes de Italia. Los Saboya vivieron aquí cuando Florencia fue capital del Reino de Italia, entre 1865 y 1871."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "mar-dom",
+     "ore": "8:15–18:30"
+    }
+   ],
+   "chiuso": [
+    "lun"
+   ],
+   "biglietto": {
+    "intero": 16,
+    "ridotto": 2
+   },
+   "nota": {
+    "it": "Intero 16 € se acquistato il giorno della visita, 19 € in anticipo; Pitti + Giardino di Boboli 22 € (25 € in anticipo). Ridotto 2 € per le categorie previste. Ultimo ingresso alle 17:30. Chiuso il lunedì, il 1° gennaio e il 25 dicembre. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Full price €16 if bought on the day of the visit, €19 in advance; Pitti + Boboli Gardens €22 (€25 in advance). Reduced €2 for eligible categories. Last entry 5:30 pm. Closed on Mondays, 1 January and 25 December. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Plein tarif 16 € si acheté le jour de la visite, 19 € à l'avance ; Pitti + jardin de Boboli 22 € (25 € à l'avance). Réduit 2 € pour les catégories concernées. Dernière entrée à 17 h 30. Fermé le lundi, le 1er janvier et le 25 décembre. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Voller Preis 16 € bei Kauf am Besuchstag, 19 € im Voraus; Pitti + Boboli-Garten 22 € (25 € im Voraus). Ermäßigt 2 € für berechtigte Gruppen. Letzter Einlass 17.30 Uhr. Montags, am 1. Januar und am 25. Dezember geschlossen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Entrada completa 16 € si se compra el día de la visita, 19 € por adelantado; Pitti + Jardín de Bóboli 22 € (25 € por adelantado). Reducida 2 € para las categorías previstas. Última entrada a las 17:30. Cerrado los lunes, el 1 de enero y el 25 de diciembre. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://www.uffizi.it/palazzo-pitti",
+   "accessibilita": {
+    "fonte": "https://www.uffizi.it/palazzo-pitti",
+    "verificato": "2026-11-20",
+    "voci": {
+     "motoria": {
+      "it": "Accesso da Piazza Pitti con pendenza del 20% circa. Servizi igienici per persone a ridotta mobilità nel cortile.",
+      "en": "Access from Piazza Pitti with a gradient of about 20%. Toilets for people with reduced mobility in the courtyard.",
+      "fr": "Accès depuis la Piazza Pitti avec une pente d'environ 20 %. Toilettes pour personnes à mobilité réduite dans la cour.",
+      "de": "Zugang von der Piazza Pitti mit etwa 20 % Steigung. Toiletten für Menschen mit eingeschränkter Mobilität im Hof.",
+      "es": "Acceso desde Piazza Pitti con una pendiente de aproximadamente el 20 %. Aseos para personas con movilidad reducida en el patio."
+     },
+     "ascensore": {
+      "it": "Ascensori per accedere ai musei al primo e al secondo piano; l'accesso è dal lato destro del cortile.",
+      "en": "Lifts give access to the museums on the first and second floors; access is from the right-hand side of the courtyard.",
+      "fr": "Des ascenseurs permettent d'accéder aux musées du premier et du deuxième étage ; l'accès se fait par le côté droit de la cour.",
+      "de": "Aufzüge führen zu den Museen im ersten und zweiten Obergeschoss; der Zugang liegt an der rechten Seite des Hofes.",
+      "es": "Ascensores dan acceso a los museos del primer y segundo piso; el acceso está en el lado derecho del patio."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Pitti Palace"
+   }
+  },
+  {
+   "id": "basilica-di-san-lorenzo",
+   "nome": "Basilica di San Lorenzo",
+   "categoria": "chiese",
+   "sestiere": "San Lorenzo",
+   "latitudine": 43.7748,
+   "longitudine": 11.2531,
+   "descrizione": {
+    "it": "La Basilica di San Lorenzo è una delle chiese più antiche di Firenze e uno dei luoghi più legati alla storia della famiglia Medici. L'attuale edificio fu ricostruito a partire dal Quattrocento sotto il patrocinio mediceo, con un progetto iniziale attribuito a Filippo Brunelleschi. L'interno è uno degli esempi più significativi dell'architettura rinascimentale, per le proporzioni armoniose, la luminosità e la semplicità delle forme. La basilica conserva importanti opere di Donatello e la Sagrestia Vecchia, progettata da Brunelleschi. Il complesso comprende anche chiostri e ambienti storici.",
+    "en": "The Basilica of San Lorenzo is one of the oldest churches in Florence and one of the places most closely tied to the history of the Medici family. The present building was rebuilt from the fifteenth century under Medici patronage, with an initial design attributed to Filippo Brunelleschi. The interior is one of the most significant examples of Renaissance architecture, thanks to its harmonious proportions, luminosity and simplicity of form. The basilica holds important works by Donatello and the Old Sacristy, designed by Brunelleschi. The complex also includes cloisters and historic rooms.",
+    "fr": "La basilique San Lorenzo est l'une des plus anciennes églises de Florence et l'un des lieux les plus liés à l'histoire de la famille Médicis. L'édifice actuel fut reconstruit à partir du XVe siècle sous le patronage des Médicis, d'après un projet initial attribué à Filippo Brunelleschi. L'intérieur est l'un des exemples les plus significatifs de l'architecture de la Renaissance, par ses proportions harmonieuses, sa luminosité et la simplicité de ses formes. La basilique conserve d'importantes œuvres de Donatello et la Vieille Sacristie, conçue par Brunelleschi. Le complexe comprend aussi des cloîtres et des salles historiques.",
+    "de": "Die Basilika San Lorenzo ist eine der ältesten Kirchen von Florenz und einer der Orte, die am engsten mit der Geschichte der Medici verbunden sind. Das heutige Gebäude wurde ab dem 15. Jahrhundert unter der Schirmherrschaft der Medici neu errichtet, nach einem ersten Entwurf, der Filippo Brunelleschi zugeschrieben wird. Der Innenraum ist eines der bedeutendsten Beispiele der Renaissance-Architektur, dank harmonischer Proportionen, Helligkeit und Einfachheit der Formen. Die Basilika bewahrt wichtige Werke von Donatello und die Alte Sakristei von Brunelleschi. Zum Komplex gehören auch Kreuzgänge und historische Räume.",
+    "es": "La basílica de San Lorenzo es una de las iglesias más antiguas de Florencia y uno de los lugares más ligados a la historia de la familia Médici. El edificio actual fue reconstruido a partir del siglo XV bajo el mecenazgo de los Médici, con un proyecto inicial atribuido a Filippo Brunelleschi. El interior es uno de los ejemplos más significativos de la arquitectura renacentista, por sus proporciones armoniosas, su luminosidad y la sencillez de sus formas. La basílica conserva importantes obras de Donatello y la Sacristía Vieja, proyectada por Brunelleschi. El complejo incluye también claustros y estancias históricas."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "La facciata incompiuta",
+      "en": "The unfinished façade",
+      "fr": "La façade inachevée",
+      "de": "Die unvollendete Fassade",
+      "es": "La fachada inacabada"
+     },
+     "testo": {
+      "it": "La facciata della basilica è rimasta incompiuta. Michelangelo elaborò un progetto per rivestirla con una monumentale decorazione marmorea, ma l'opera non fu mai realizzata.",
+      "en": "The basilica's façade was left unfinished. Michelangelo drew up a plan to clad it in monumental marble decoration, but it was never carried out.",
+      "fr": "La façade de la basilique est restée inachevée. Michel-Ange élabora un projet pour la revêtir d'un décor de marbre monumental, mais l'œuvre ne fut jamais réalisée.",
+      "de": "Die Fassade der Basilika blieb unvollendet. Michelangelo entwarf einen Plan, sie mit monumentalem Marmorschmuck zu verkleiden, der jedoch nie ausgeführt wurde.",
+      "es": "La fachada de la basílica quedó inacabada. Miguel Ángel elaboró un proyecto para revestirla con una decoración monumental de mármol, pero la obra nunca se realizó."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "10:00–17:30"
+    }
+   ],
+   "chiuso": [
+    "dom"
+   ],
+   "biglietto": {
+    "intero": 9
+   },
+   "nota": {
+    "it": "Il biglietto comprende basilica, Sagrestia Vecchia, chiostri, Museo del Tesoro, cripta e sotterranei. Cappelle Medicee e Biblioteca Laurenziana sono visite separate. Ultimo ingresso 16:30. Chiusa il 1° e 6 gennaio e il 10 agosto. Gratis fino a 12 anni e per i disabili con accompagnatore. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The ticket covers the basilica, Old Sacristy, cloisters, Treasury Museum, crypt and underground areas. The Medici Chapels and Laurentian Library are separate visits. Last entry 4:30 pm. Closed on 1 and 6 January and 10 August. Free up to age 12 and for disabled visitors with a companion. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Le billet comprend la basilique, la Vieille Sacristie, les cloîtres, le musée du Trésor, la crypte et les souterrains. Les chapelles des Médicis et la bibliothèque Laurentienne sont des visites distinctes. Dernière entrée à 16 h 30. Fermée les 1er et 6 janvier et le 10 août. Gratuit jusqu'à 12 ans et pour les personnes handicapées avec accompagnateur. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Das Ticket umfasst Basilika, Alte Sakristei, Kreuzgänge, Schatzmuseum, Krypta und Untergeschosse. Die Medici-Kapellen und die Biblioteca Laurenziana sind separate Besuche. Letzter Einlass 16.30 Uhr. Am 1. und 6. Januar sowie am 10. August geschlossen. Frei bis 12 Jahre und für Menschen mit Behinderung mit Begleitperson. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "La entrada incluye la basílica, la Sacristía Vieja, los claustros, el Museo del Tesoro, la cripta y los subterráneos. Las Capillas Medicea y la Biblioteca Laurenciana son visitas aparte. Última entrada a las 16:30. Cerrada el 1 y 6 de enero y el 10 de agosto. Gratis hasta los 12 años y para personas con discapacidad con acompañante. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://sanlorenzofirenze.it/info-visite/",
+   "accessibilita": {
+    "fonte": "https://sanlorenzofirenze.it/info-visite/",
+    "verificato": "2026-11-20",
+    "voci": {
+     "motoria": {
+      "it": "Il sito ufficiale dichiara che l'accesso al complesso è garantito a tutte le persone con mobilità ridotta; ingresso gratuito anche per gli accompagnatori.",
+      "en": "The official website states that access to the complex is guaranteed for all people with reduced mobility; free entry for companions too.",
+      "fr": "Le site officiel indique que l'accès au complexe est garanti à toutes les personnes à mobilité réduite ; entrée gratuite également pour les accompagnateurs.",
+      "de": "Laut offizieller Website ist der Zugang zum Komplex für alle Menschen mit eingeschränkter Mobilität gewährleistet; auch Begleitpersonen haben freien Eintritt.",
+      "es": "El sitio oficial indica que el acceso al complejo está garantizado a todas las personas con movilidad reducida; entrada gratuita también para los acompañantes."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Basilica of San Lorenzo, Florence"
+   }
+  },
+  {
+   "id": "chiesa-e-museo-di-orsanmichele",
+   "nome": "Chiesa e Museo di Orsanmichele",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.77,
+   "longitudine": 11.2552,
+   "descrizione": {
+    "it": "Orsanmichele è uno degli edifici più particolari del centro storico di Firenze. Nato come loggia per il mercato del grano, fu trasformato in chiesa nel XIV secolo, diventando un importante luogo di culto e di rappresentanza delle corporazioni delle arti e dei mestieri. All'esterno, le nicchie ospitavano le statue dei santi protettori delle corporazioni fiorentine. All'interno si trova il grande tabernacolo marmoreo di Andrea Orcagna, realizzato per custodire un'immagine sacra della Madonna. Ai piani superiori è allestito il museo, dove sono conservate le sculture originali provenienti dalle nicchie esterne, con opere di Donatello, Ghiberti e altri grandi artisti.",
+    "en": "Orsanmichele is one of the most unusual buildings in Florence's historic centre. Born as a loggia for the grain market, it was turned into a church in the fourteenth century, becoming an important place of worship and of representation for the arts and crafts guilds. Outside, the niches held the statues of the patron saints of the Florentine guilds. Inside is Andrea Orcagna's great marble tabernacle, made to house a sacred image of the Madonna. The museum on the upper floors keeps the original sculptures from the outer niches, with works by Donatello, Ghiberti and other great artists.",
+    "fr": "Orsanmichele est l'un des édifices les plus singuliers du centre historique de Florence. Né comme loggia du marché au blé, il fut transformé en église au XIVe siècle, devenant un important lieu de culte et de représentation des corporations des arts et métiers. À l'extérieur, les niches abritaient les statues des saints patrons des corporations florentines. À l'intérieur se trouve le grand tabernacle de marbre d'Andrea Orcagna, réalisé pour abriter une image sacrée de la Vierge. Aux étages supérieurs, le musée conserve les sculptures originales des niches extérieures, avec des œuvres de Donatello, Ghiberti et d'autres grands artistes.",
+    "de": "Orsanmichele ist eines der außergewöhnlichsten Gebäude der Florentiner Altstadt. Ursprünglich als Loggia des Getreidemarktes erbaut, wurde es im 14. Jahrhundert in eine Kirche umgewandelt und wurde zu einem wichtigen Ort des Gottesdienstes und der Selbstdarstellung der Zünfte. Außen standen in den Nischen die Statuen der Schutzheiligen der Florentiner Zünfte. Im Inneren befindet sich das große Marmortabernakel von Andrea Orcagna, geschaffen für ein heiliges Marienbild. In den oberen Geschossen zeigt das Museum die Originalskulpturen der Außennischen mit Werken von Donatello, Ghiberti und anderen großen Künstlern.",
+    "es": "Orsanmichele es uno de los edificios más singulares del centro histórico de Florencia. Nacido como lonja del mercado del grano, fue transformado en iglesia en el siglo XIV, convirtiéndose en un importante lugar de culto y de representación de los gremios de artes y oficios. En el exterior, las hornacinas albergaban las estatuas de los santos patronos de los gremios florentinos. En el interior se encuentra el gran tabernáculo de mármol de Andrea Orcagna, realizado para custodiar una imagen sagrada de la Virgen. En los pisos superiores se ha instalado el museo, que conserva las esculturas originales de las hornacinas exteriores, con obras de Donatello, Ghiberti y otros grandes artistas."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Da mercato a chiesa a museo",
+      "en": "From market to church to museum",
+      "fr": "De marché à église puis musée",
+      "de": "Vom Markt zur Kirche zum Museum",
+      "es": "De mercado a iglesia y a museo"
+     },
+     "testo": {
+      "it": "Il nome Orsanmichele deriva da San Michele in Orto, riferimento all'antico luogo di culto che sorgeva in questa zona. L'edificio conserva quindi la memoria di una trasformazione sorprendente: da mercato del grano a chiesa e poi museo.",
+      "en": "The name Orsanmichele comes from San Michele in Orto, a reference to the ancient place of worship that stood in this area. The building thus preserves the memory of a surprising transformation: from grain market to church and then museum.",
+      "fr": "Le nom Orsanmichele vient de San Michele in Orto, en référence à l'ancien lieu de culte qui s'élevait dans ce secteur. L'édifice conserve ainsi la mémoire d'une transformation surprenante : de marché au blé à église, puis musée.",
+      "de": "Der Name Orsanmichele leitet sich von San Michele in Orto ab, eine Anspielung auf den alten Kultort, der hier stand. Das Gebäude bewahrt so die Erinnerung an eine erstaunliche Verwandlung: vom Getreidemarkt zur Kirche und dann zum Museum.",
+      "es": "El nombre Orsanmichele deriva de San Michele in Orto, en referencia al antiguo lugar de culto que se alzaba en esta zona. El edificio conserva así la memoria de una transformación sorprendente: de mercado del grano a iglesia y luego museo."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "mar-dom",
+     "ore": "8:30–18:30"
+    }
+   ],
+   "chiuso": [
+    "lun"
+   ],
+   "biglietto": {
+    "intero": 10
+   },
+   "nota": {
+    "it": "Museo: intero 10 €; prenotazione facoltativa 4 €. Ultimo ingresso 40 minuti prima della chiusura. Ingresso gratuito la prima domenica del mese e il 25 aprile, il 2 giugno e il 4 novembre. Chiuso il lunedì. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Museum: full price €10; optional booking €4. Last entry 40 minutes before closing. Free entry on the first Sunday of the month and on 25 April, 2 June and 4 November. Closed on Mondays. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Musée : plein tarif 10 € ; réservation facultative 4 €. Dernière entrée 40 minutes avant la fermeture. Entrée gratuite le premier dimanche du mois et les 25 avril, 2 juin et 4 novembre. Fermé le lundi. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Museum: voller Preis 10 €; Reservierung optional 4 €. Letzter Einlass 40 Minuten vor Schließung. Freier Eintritt am ersten Sonntag des Monats sowie am 25. April, 2. Juni und 4. November. Montags geschlossen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Museo: entrada 10 €; reserva opcional 4 €. Última entrada 40 minutos antes del cierre. Entrada gratuita el primer domingo de cada mes y el 25 de abril, el 2 de junio y el 4 de noviembre. Cerrado los lunes. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://bargellomusei.it/musei/orsanmichele/",
+   "accessibilita": {
+    "fonte": "https://bargellomusei.it/musei/orsanmichele/",
+    "verificato": "2026-11-20",
+    "voci": {
+     "non_accessibile": {
+      "it": "Il museo non è dotato di dispositivi per l'accesso alle persone con disabilità motorie e non è provvisto di servizi igienici.",
+      "en": "The museum has no equipment for access by people with motor disabilities and has no toilets.",
+      "fr": "Le musée n'est pas équipé de dispositifs d'accès pour les personnes à mobilité réduite et ne dispose pas de toilettes.",
+      "de": "Das Museum verfügt über keine Einrichtungen für den Zugang von Menschen mit Bewegungseinschränkungen und hat keine Toiletten.",
+      "es": "El museo no dispone de dispositivos de acceso para personas con discapacidad motora y no tiene aseos."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Orsanmichele"
+   }
+  }
+ ]
 }
