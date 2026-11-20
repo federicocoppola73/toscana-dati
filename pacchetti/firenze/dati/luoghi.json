@@ -907,7 +907,34 @@
    },
    "wikipedia": {
     "en": "Basilica of San Lorenzo, Florence"
-   }
+   },
+   "immagine": {
+    "autore": "Teo Pollastrini",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Teo_Pollastrini_2004"
+   },
+   "galleria": [
+    {
+     "autore": "Thomas Oboe Lee",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:TOLmusic"
+    },
+    {
+     "autore": "Txllxt TxllxT",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    }
+   ]
   },
   {
    "id": "chiesa-e-museo-di-orsanmichele",
