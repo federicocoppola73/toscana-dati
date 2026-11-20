@@ -73,7 +73,29 @@
     "autore": "Clément Bardot",
     "licenza": "CC BY-SA 4.0",
     "fonte": "https://commons.wikimedia.org/wiki/File:Duomo,_Firenze.jpg"
-   }
+   },
+   "galleria": [
+    {
+     "autore": "PROPOLI87",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:DUOMO_FIRENZE_15042015.jpg"
+    },
+    {
+     "autore": "Photo2023",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Cupola_Duomo_Firenze.jpg"
+    },
+    {
+     "autore": "Photo2023",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Affresco_Duomo_Firenze.jpg"
+    },
+    {
+     "autore": "RoseHAN",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/File:Duomo_di_Firenze,_Firenze,_Tuscany.jpg"
+    }
+   ]
   },
   {
    "id": "battistero-di-san-giovanni",
