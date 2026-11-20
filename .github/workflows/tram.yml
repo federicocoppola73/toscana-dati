@@ -1,0 +1,64 @@
+# Tramvia di Firenze (GEST): scarica il feed GTFS, lo esamina oppure lo aggiunge a linee e orari della città e pubblica il pacchetto.
+# Si lancia a mano: GitHub → Actions → "Tramvia GEST" → Run workflow.
+name: Tramvia GEST
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'URL del GTFS GEST (zip)'
+        required: false
+        default: 'https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/1f62d551-65f4-49f8-9a99-e19b02077be3/download/gest.gtfs'
+      citta:
+        description: 'Città'
+        required: false
+        default: 'firenze'
+      azione:
+        description: 'esamina oppure converti'
+        required: false
+        default: 'esamina'
+      festivi:
+        description: 'Festivi infrasettimanali AAAAMMGG separati da virgola'
+        required: false
+        default: '20261208'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orari
+  cancel-in-progress: false
+
+jobs:
+  tram:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scarica
+        run: |
+          curl -sSL --retry 3 -o /tmp/gtfs.zip "${{ inputs.url }}"
+          mkdir -p /tmp/gtfs && unzip -o -q /tmp/gtfs.zip -d /tmp/gtfs
+      - name: Converti
+        env:
+          CITTA: ${{ inputs.citta }}
+          AZIONE: ${{ inputs.azione }}
+          FESTIVI: ${{ inputs.festivi }}
+        run: |
+          python3 strumenti/converti_tram_gest.py /tmp/gtfs "pacchetti/$CITTA/dati" "$AZIONE" "$FESTIVI"
+          if [ "$AZIONE" = "converti" ]; then python3 strumenti/prepara_pacchetto.py "pacchetti/$CITTA"; fi
+      - name: Pubblica
+        if: ${{ inputs.azione == 'converti' }}
+        env:
+          CITTA: ${{ inputs.citta }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A pacchetti "catalogo.json"
+          if git diff --cached --quiet; then echo "Niente di nuovo"; exit 0; fi
+          git commit -q -m "Tramvia $CITTA: linee e orari GEST"
+          for i in 1 2 3 4; do
+            git pull -q --rebase && git push -q && exit 0
+            echo "Tentativo $i non riuscito, riprovo tra 20 secondi"; sleep 20
+          done
+          exit 1
