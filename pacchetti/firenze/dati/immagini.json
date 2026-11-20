@@ -1,6 +1,18 @@
 {
  "_nota": "Generato da strumenti/prepara_pacchetto.py: foto presenti in assets/",
- "luoghi": {},
+ "luoghi": {
+  "basilica-di-san-lorenzo": 4,
+  "basilica-di-santa-croce": 4,
+  "basilica-di-santa-maria-novella": 4,
+  "battistero-di-san-giovanni": 4,
+  "campanile-di-giotto": 4,
+  "cattedrale-di-santa-maria-del-fiore": 4,
+  "chiesa-e-museo-di-orsanmichele": 4,
+  "palazzo-pitti": 4,
+  "palazzo-vecchio": 4,
+  "piazza-della-signoria": 4,
+  "ponte-vecchio": 3
+ },
  "cibi": [],
  "aguzza": []
 }

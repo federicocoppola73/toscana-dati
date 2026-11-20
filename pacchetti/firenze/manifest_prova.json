@@ -1,0 +1,3168 @@
+{
+ "versione": "c6983ec72edb",
+ "tipo": "prova",
+ "file": [
+  {
+   "path": "assets/luoghi/basilica-di-san-lorenzo.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-lorenzo.webp",
+   "sha256": "b53698c592df361cd39188ab09818aa36754d2a878631ca6087c5476c514cac1",
+   "byte": 189412
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-lorenzo_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-lorenzo_2.webp",
+   "sha256": "fd9cac9706c1a3d0d1036932d3a2dbc0333039a1f103e292908df07e30c25fda",
+   "byte": 162148
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-lorenzo_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-lorenzo_3.webp",
+   "sha256": "e4e531cf06b4cd5dcf3e3bdc3dbf049ea0e37557945e1e7dba0f967d1a555e86",
+   "byte": 147422
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-lorenzo_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-lorenzo_4.webp",
+   "sha256": "e2eb9a9498ebce4c6cf0db3c426cfcc6e744d0d4e112987f44e27ddcdfcd2947",
+   "byte": 182704
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-lorenzo_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-lorenzo_5.webp",
+   "sha256": "aa69183ed20c6fd58eeecf368c0f6a97643dd5d5618477f2cd6614f2b25e7ac9",
+   "byte": 84034
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-croce.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-croce.webp",
+   "sha256": "bcba8ee58b8d77a587055355a7d10ae03b544b918cca38f7059076fb7aac5ea4",
+   "byte": 121820
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-croce_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-croce_2.webp",
+   "sha256": "7f76ce2dd6d96fc204d292ef3ab25a73ac55a975216c1aa71134f07183694f28",
+   "byte": 375998
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-croce_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-croce_3.webp",
+   "sha256": "b33641b229ab1def0034f09904d8543e5d8ae7cb4c94a81f57ea154153e74a33",
+   "byte": 177422
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-croce_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-croce_4.webp",
+   "sha256": "0710a43a30482910730ac163018f122a762d9f15d6459fd14a2291900e244750",
+   "byte": 138080
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-croce_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-croce_5.webp",
+   "sha256": "4a8e1db2dcac9a236fa192106a1eec263d721a9fcaf8c5fbbd49528a67ec8214",
+   "byte": 163444
+  },
+  {
+   "path": "assets/luoghi/battistero-di-san-giovanni.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/battistero-di-san-giovanni.webp",
+   "sha256": "ffd3b6f6894c88e2456510d6adb881363e8c635b598d5f3d9b20082ea97c0ae2",
+   "byte": 339970
+  },
+  {
+   "path": "assets/luoghi/battistero-di-san-giovanni_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/battistero-di-san-giovanni_2.webp",
+   "sha256": "03d627f76d3cd55aaa7642bf4d1b954947c6e5f786b9b7111819cc9d8d6d68a3",
+   "byte": 306954
+  },
+  {
+   "path": "assets/luoghi/battistero-di-san-giovanni_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/battistero-di-san-giovanni_3.webp",
+   "sha256": "06308999b02b44150023c626a5eeec927c5b4537e7203a69360009976125faf5",
+   "byte": 747256
+  },
+  {
+   "path": "assets/luoghi/battistero-di-san-giovanni_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/battistero-di-san-giovanni_4.webp",
+   "sha256": "72295729d6694f26cd60c939cfc5014914d007ac7113158c03cec5ac6169b70a",
+   "byte": 594648
+  },
+  {
+   "path": "assets/luoghi/battistero-di-san-giovanni_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/battistero-di-san-giovanni_5.webp",
+   "sha256": "9657d73476c8459c033385949af033baa617220b771139d34fbb7388fe674d57",
+   "byte": 169430
+  },
+  {
+   "path": "assets/luoghi/campanile-di-giotto.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/campanile-di-giotto.webp",
+   "sha256": "893cb49c11e99b142be8231f9b98d424fb5047be90c41eb8e140579837eaa29a",
+   "byte": 523168
+  },
+  {
+   "path": "assets/luoghi/campanile-di-giotto_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/campanile-di-giotto_2.webp",
+   "sha256": "c93ea81106e5057c6e8947f088af92d784882b3e65bcffd435372aaabd5d8af5",
+   "byte": 278246
+  },
+  {
+   "path": "assets/luoghi/campanile-di-giotto_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/campanile-di-giotto_3.webp",
+   "sha256": "9b01b890612284b4f705022f3dfcdffbaeea0f843739ed815135c9c80165f607",
+   "byte": 496850
+  },
+  {
+   "path": "assets/luoghi/campanile-di-giotto_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/campanile-di-giotto_4.webp",
+   "sha256": "70630a0511c0bd025e8a7ac0c20433a1097a82e2e2c51fbeab8660c8d8bb82a7",
+   "byte": 178274
+  },
+  {
+   "path": "assets/luoghi/campanile-di-giotto_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/campanile-di-giotto_5.webp",
+   "sha256": "c2a60be0ba544535a5dd41b0498e2e92f106df1ba1ce1959dd8e035c5abebcc3",
+   "byte": 237100
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-del-fiore.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore.webp",
+   "sha256": "5f1573e6f58186da0fed44ec9eb213fdc828bcf1bc83963f180cd7d6cd5dc070",
+   "byte": 277358
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-del-fiore_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore_2.webp",
+   "sha256": "14b6e81259f2cf282b1f96623fd7e0e623f16440320edcead1925c268814b9d7",
+   "byte": 122844
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-del-fiore_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore_3.webp",
+   "sha256": "bef440fbc93c8f93f15ab9b85b60af625d45a406714e8f375d68472b9dd3276b",
+   "byte": 309838
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-del-fiore_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore_4.webp",
+   "sha256": "5fcb02dad267a4033879755947078893633160b4fe214eb0387348b7f9e88384",
+   "byte": 459410
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-del-fiore_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore_5.webp",
+   "sha256": "02f8995233c5e6baa21fd5b61bb5d7a108bd0acfd05dc6c44197a93023faa2a1",
+   "byte": 308624
+  },
+  {
+   "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele.webp",
+   "sha256": "44cf98add96d4885624b5d8f68c19c0da7240211ceed2d3758d54d82e45ebe64",
+   "byte": 139380
+  },
+  {
+   "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele_2.webp",
+   "sha256": "9562d9928c133d9abe52b48d8e13d909404a7640560c4b3f2f849e218da64bea",
+   "byte": 185238
+  },
+  {
+   "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele_3.webp",
+   "sha256": "b4e28541a48cbe6e98a6e920cb170f51a73c1622516ce1c7b82848c0dbbce9fc",
+   "byte": 169790
+  },
+  {
+   "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele_4.webp",
+   "sha256": "ce19cb6846b8fe848684619e75f8352b25a5b2eb572ce69d6b3110e860e67463",
+   "byte": 353610
+  },
+  {
+   "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele_5.webp",
+   "sha256": "3b66961996f1b7b131031fb276ae51996dd61b1ace529dfdc87c0c09ebcb619d",
+   "byte": 249302
+  },
+  {
+   "path": "assets/luoghi/palazzo-pitti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-pitti.webp",
+   "sha256": "e24d365e9bcf3ab17e9fa1fb03fb9555a93ae0b369be564ceda62daff8123379",
+   "byte": 241228
+  },
+  {
+   "path": "assets/luoghi/palazzo-pitti_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-pitti_2.webp",
+   "sha256": "2b763b9aded48686b0a9b6b5d80461be8f67c808aa2845b9c1372dcb7970274a",
+   "byte": 122902
+  },
+  {
+   "path": "assets/luoghi/palazzo-pitti_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-pitti_3.webp",
+   "sha256": "4748b3a649069f166daf3e7905dc4293edd5a8dd4bbb31ac8d872719480b1d93",
+   "byte": 377450
+  },
+  {
+   "path": "assets/luoghi/palazzo-pitti_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-pitti_4.webp",
+   "sha256": "3c0d2bc759914bc7688653c0885e9f782365fbb5e253cd6eb93d504813347be5",
+   "byte": 91830
+  },
+  {
+   "path": "assets/luoghi/palazzo-pitti_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-pitti_5.webp",
+   "sha256": "0daea1344b77be91e29289229bb8fe6cffdc63100159921b47271071c432a46a",
+   "byte": 158454
+  },
+  {
+   "path": "assets/luoghi/palazzo-vecchio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-vecchio.webp",
+   "sha256": "05358b5c5ce29147b319e7105e0a46d31cb5fc07f598d2ac68f3a4939a7463ec",
+   "byte": 221826
+  },
+  {
+   "path": "assets/luoghi/palazzo-vecchio_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-vecchio_2.webp",
+   "sha256": "7a8f74af98b765bc57bf62eb21fb54e39141bc71752fff2fd67e0a113f349128",
+   "byte": 336786
+  },
+  {
+   "path": "assets/luoghi/palazzo-vecchio_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-vecchio_3.webp",
+   "sha256": "a5264ae20991b3eb47d0169bf879e68ec142fd4161ac8496ec2841aba4bfe33d",
+   "byte": 101194
+  },
+  {
+   "path": "assets/luoghi/palazzo-vecchio_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-vecchio_4.webp",
+   "sha256": "901bd3942de2a45b00166f2e693e111ae5c3b1e9d57fa89cdbd9a456ccdd4086",
+   "byte": 188130
+  },
+  {
+   "path": "assets/luoghi/palazzo-vecchio_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-vecchio_5.webp",
+   "sha256": "a72be11ea9aab36d3e9e47d3f5486853b67551d6e0d94f13626ee6dcc34c803c",
+   "byte": 215848
+  },
+  {
+   "path": "assets/luoghi/piazza-della-signoria.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria.webp",
+   "sha256": "dc1d113a2a70beeee45385b537541dd5241d31f7e983129adbaf3bc8f0f468d8",
+   "byte": 71978
+  },
+  {
+   "path": "assets/luoghi/piazza-della-signoria_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria_2.webp",
+   "sha256": "43f030513573ce0427df72f4248b9e1f6b2c781115d8a9259ba65354e2b152a6",
+   "byte": 192032
+  },
+  {
+   "path": "assets/luoghi/piazza-della-signoria_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria_3.webp",
+   "sha256": "2c74879066561b4c00d61d2b2133a38bee81cfa83eaf6a32176c4f9e33361198",
+   "byte": 164820
+  },
+  {
+   "path": "assets/luoghi/piazza-della-signoria_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria_4.webp",
+   "sha256": "37717a69fec26b8d7a95f5cabe3d5128552af82b184ee1ec9065f377ade503a7",
+   "byte": 161564
+  },
+  {
+   "path": "assets/luoghi/piazza-della-signoria_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria_5.webp",
+   "sha256": "f258c07fd683853859b65b5c3b2d0dcf5203da588eb91ffb07818661f512b17c",
+   "byte": 97574
+  },
+  {
+   "path": "assets/luoghi/ponte-vecchio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ponte-vecchio.webp",
+   "sha256": "e1c7a35c08040db57f4c14a558a3267d32b1d872a3b1c5bee27e2341a0a94c3c",
+   "byte": 114606
+  },
+  {
+   "path": "assets/luoghi/ponte-vecchio_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ponte-vecchio_2.webp",
+   "sha256": "11b52ee1e4c247353a4c0f3c75fe94aa18d7e0f9bef7c2d942bbf8fccd9c3840",
+   "byte": 113016
+  },
+  {
+   "path": "assets/luoghi/ponte-vecchio_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ponte-vecchio_3.webp",
+   "sha256": "25d234e0961f7f14641ff8a991ff955d814f62742a2df131334bc204a0c17d3c",
+   "byte": 113160
+  },
+  {
+   "path": "assets/luoghi/ponte-vecchio_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ponte-vecchio_4.webp",
+   "sha256": "d8e2d8e531aebd18fd88ce88f29fdc6e5aa42817bcb8d102bdc5fc648369ea44",
+   "byte": 85552
+  },
+  {
+   "path": "assets/mappa-firenze.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa-firenze.webp",
+   "sha256": "4d00ad433a1027db929da3be4cca3f055f1b27e6f757206f2c48a18447c57fce",
+   "byte": 2224814
+  },
+  {
+   "path": "assets/mappa/.gitkeep",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/.gitkeep",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "byte": 0
+  },
+  {
+   "path": "assets/mappa/1/0_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_0.webp",
+   "sha256": "f2ce94cba12ea28a4288d4a59e30bb1e53e820846df9cffe60402a205b08af81",
+   "byte": 14456
+  },
+  {
+   "path": "assets/mappa/1/0_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_1.webp",
+   "sha256": "0b0c97cc8b5bf5ead76427f1451f62696da83ced6082a623b21ea130b0e5132a",
+   "byte": 19454
+  },
+  {
+   "path": "assets/mappa/1/0_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_10.webp",
+   "sha256": "8712aa33271529361be72f0de2f68adfeb7fdb4148e9f12fbdf9031300633151",
+   "byte": 8556
+  },
+  {
+   "path": "assets/mappa/1/0_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_11.webp",
+   "sha256": "e739fb4c9c4b33d68df90dfc4afad2d19a7f28f3cd20b4eeea1a34e84afda0bf",
+   "byte": 5050
+  },
+  {
+   "path": "assets/mappa/1/0_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_12.webp",
+   "sha256": "1064b22b5fa802ab2cf7320f332b66c78832ece9bf38a3a8faf6862cafd637a8",
+   "byte": 2526
+  },
+  {
+   "path": "assets/mappa/1/0_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_13.webp",
+   "sha256": "a9e39b191b0e45c419df5b044e80da989044f82759a2b626a33be9ccba2c2823",
+   "byte": 5318
+  },
+  {
+   "path": "assets/mappa/1/0_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_14.webp",
+   "sha256": "7c7a70e589d2e468ef92bfc2a95cafb396b6a3855b0b6b5c38e6f85c5eb7d3bd",
+   "byte": 3742
+  },
+  {
+   "path": "assets/mappa/1/0_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_15.webp",
+   "sha256": "e8587d8244d4687e683bbbd9c682526082a0e505447e05aefb7092be13e98626",
+   "byte": 3348
+  },
+  {
+   "path": "assets/mappa/1/0_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_16.webp",
+   "sha256": "dd81b0f3bb64356eeb5b165a7be3848309b9cffa3eba845d5a0e6b0976f5cedc",
+   "byte": 4172
+  },
+  {
+   "path": "assets/mappa/1/0_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_17.webp",
+   "sha256": "1bd36bbeb45a74a4033d07694b90d229998a15c67c5e80130b3a53fff17e38d8",
+   "byte": 3650
+  },
+  {
+   "path": "assets/mappa/1/0_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_18.webp",
+   "sha256": "548329874b80b07f2dcb56824e6cd1c2816b41cd0398aa4f69aa9aedde60545c",
+   "byte": 4514
+  },
+  {
+   "path": "assets/mappa/1/0_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_2.webp",
+   "sha256": "bb2fd459cffce1462a221e3418f0ab1197fc4963e7ec772079cca1d0896b020f",
+   "byte": 17488
+  },
+  {
+   "path": "assets/mappa/1/0_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_3.webp",
+   "sha256": "29176fa68d1cba2060ff8980245c94048b5c79172f23d589bf3679fb191a6266",
+   "byte": 8988
+  },
+  {
+   "path": "assets/mappa/1/0_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_4.webp",
+   "sha256": "aaf8bd31ba9730066bbec02cd8838249a5d4fcf7d3d4b0f3fd2cdf328e715737",
+   "byte": 6618
+  },
+  {
+   "path": "assets/mappa/1/0_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_5.webp",
+   "sha256": "be8f91e6a88b2f6c78338924ad1f3673169e9258ee55efdf845295d6861671ca",
+   "byte": 10542
+  },
+  {
+   "path": "assets/mappa/1/0_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_6.webp",
+   "sha256": "f3555f89f27916b4dd42a63b665a2c1dfef70b534169254943d7cf5f895732f7",
+   "byte": 10794
+  },
+  {
+   "path": "assets/mappa/1/0_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_7.webp",
+   "sha256": "3c91f947663197a35cd8cc8d502af88427804776c619fe8991f70c052df79d94",
+   "byte": 14708
+  },
+  {
+   "path": "assets/mappa/1/0_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_8.webp",
+   "sha256": "079864c308a1830426544f2029cb90e43dd4e43fba7a978713db0f8c64ce8659",
+   "byte": 10842
+  },
+  {
+   "path": "assets/mappa/1/0_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/0_9.webp",
+   "sha256": "628b7a134a169a88a0c4da789f39cdae711713021fd8fa5d8139a143cc6e1540",
+   "byte": 11636
+  },
+  {
+   "path": "assets/mappa/1/10_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_0.webp",
+   "sha256": "ea0d7421a6bbb55a134b42d6a2ac5ffd6ef2c5f9346bf51a10704af8749b62b9",
+   "byte": 20236
+  },
+  {
+   "path": "assets/mappa/1/10_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_1.webp",
+   "sha256": "473fed34ec0ffeeae0aa2c86b9f0ecab2322e45bb05d92dbe024e23914fd3d3d",
+   "byte": 20954
+  },
+  {
+   "path": "assets/mappa/1/10_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_10.webp",
+   "sha256": "8ea9c90375073ec38af71365b8281994158229908bb490731918b052b5954144",
+   "byte": 27280
+  },
+  {
+   "path": "assets/mappa/1/10_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_11.webp",
+   "sha256": "748c073a58049a6d8c67b16ac060059a48752051b3f595c2b39aaa10fefcff7e",
+   "byte": 15180
+  },
+  {
+   "path": "assets/mappa/1/10_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_12.webp",
+   "sha256": "bcd5702ee5572eedf06323a205bf98efaee160e66e50d7f7ca09ada0197f0911",
+   "byte": 12454
+  },
+  {
+   "path": "assets/mappa/1/10_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_13.webp",
+   "sha256": "d8a29eeb03d7222ab90a2aa6aa08b10656789047d2ef0162854663758671f549",
+   "byte": 12740
+  },
+  {
+   "path": "assets/mappa/1/10_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_14.webp",
+   "sha256": "d9a73c34d162faaa983f08045c3a558f0be2c84a13de325315c01626fab175f8",
+   "byte": 4972
+  },
+  {
+   "path": "assets/mappa/1/10_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_15.webp",
+   "sha256": "8d74e1f9dd349fa5445846802fa083caa9ff3882f00e0350c601518f42be7858",
+   "byte": 5988
+  },
+  {
+   "path": "assets/mappa/1/10_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_16.webp",
+   "sha256": "81fe9408409c35fe68841bf9ba5a763057746df67627f190668002fb0d085e1b",
+   "byte": 5834
+  },
+  {
+   "path": "assets/mappa/1/10_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_17.webp",
+   "sha256": "c4405ee1de0de96b32465019baf02ea1876b3e179636a2c54aca8ff7d4ffb2cb",
+   "byte": 6164
+  },
+  {
+   "path": "assets/mappa/1/10_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_18.webp",
+   "sha256": "e9d26438be43d03802fea8a358e3abc084c957c3af324a8def3003da32c3460b",
+   "byte": 5696
+  },
+  {
+   "path": "assets/mappa/1/10_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_2.webp",
+   "sha256": "814234a0e9b8107eda5451dec0ba15343a1634c3a09e4ef4a787b93221429d50",
+   "byte": 17432
+  },
+  {
+   "path": "assets/mappa/1/10_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_3.webp",
+   "sha256": "1511d41f0c470d84ad452b6d4079f3fde0f9d8fb8bdd7f7170c90c7f21ff1c2c",
+   "byte": 15068
+  },
+  {
+   "path": "assets/mappa/1/10_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_4.webp",
+   "sha256": "c0374fea00e5a6bb4e59bf12e71468e75ff73cfb1bed13c6ea437af1b50529a8",
+   "byte": 17092
+  },
+  {
+   "path": "assets/mappa/1/10_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_5.webp",
+   "sha256": "dc8525b281e0d114bbc7f87e30e6000253dd70dcd74c671ff72db0b64aa4ab54",
+   "byte": 16166
+  },
+  {
+   "path": "assets/mappa/1/10_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_6.webp",
+   "sha256": "918e7eac3f8a5e7553b410242b15961c30c403fc047a59254dd3ecd16e3f7afe",
+   "byte": 20694
+  },
+  {
+   "path": "assets/mappa/1/10_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_7.webp",
+   "sha256": "1df5d74879fb52280b2e0f6626a0cbd2573590c797dc2cd7ec392947dbc9e60d",
+   "byte": 15808
+  },
+  {
+   "path": "assets/mappa/1/10_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_8.webp",
+   "sha256": "47383c26b7ef6a2591cdbb27d0e460f40b9fec277df4deb642fce234ff338f53",
+   "byte": 17872
+  },
+  {
+   "path": "assets/mappa/1/10_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/10_9.webp",
+   "sha256": "4109b778c3f10f1e18e1ca9f114372a1e0d6e716bb4c29577208091e455225b6",
+   "byte": 17224
+  },
+  {
+   "path": "assets/mappa/1/11_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_0.webp",
+   "sha256": "d77da043b090f2de3981e867854f04158a9deeb7ba4f51b544c6cefa5f69db6e",
+   "byte": 21090
+  },
+  {
+   "path": "assets/mappa/1/11_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_1.webp",
+   "sha256": "5bd3c80012e21014b01342ae466c02303aa5ad0471f9c1465aedb1f5a9d08c05",
+   "byte": 21820
+  },
+  {
+   "path": "assets/mappa/1/11_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_10.webp",
+   "sha256": "fe1a316f4bbd4e6934c9ba14c6b4cf9e90577b8964afb820c4eaffba345182a6",
+   "byte": 16284
+  },
+  {
+   "path": "assets/mappa/1/11_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_11.webp",
+   "sha256": "75324a82edff5b0d2ef9cfd7f3fa0c1fa4410cd307814f5a42458e53937fbc2e",
+   "byte": 13066
+  },
+  {
+   "path": "assets/mappa/1/11_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_12.webp",
+   "sha256": "8c19a658dcd72ba7be56d28e92fc98314d8bcc6e5ff98008eddb8ddd6e2ec1db",
+   "byte": 16864
+  },
+  {
+   "path": "assets/mappa/1/11_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_13.webp",
+   "sha256": "0d9b3bde157fe610839697e32116c18e3f300ace0f878f0dba410b4c3f7399c5",
+   "byte": 11072
+  },
+  {
+   "path": "assets/mappa/1/11_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_14.webp",
+   "sha256": "cc42f52737d82b1f72c4219ccdb69a7e4a8ccdb29b17762cd5941bd794a23584",
+   "byte": 2530
+  },
+  {
+   "path": "assets/mappa/1/11_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_15.webp",
+   "sha256": "0fdfa27558d493911d10ba673efcf140a3e6452fd33ac90b964dd17ef197f731",
+   "byte": 8276
+  },
+  {
+   "path": "assets/mappa/1/11_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_16.webp",
+   "sha256": "acbf8282c1134336dcce965571fa1007f36ea6244fb826220e897abfaef47dad",
+   "byte": 7144
+  },
+  {
+   "path": "assets/mappa/1/11_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_17.webp",
+   "sha256": "75f72c1bcc506b772b89e7b9bf4d1676a51a544c3bfddb5371e6cd779d83e7f8",
+   "byte": 4034
+  },
+  {
+   "path": "assets/mappa/1/11_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_18.webp",
+   "sha256": "68b5edf7ecceaeb75f7389f50033619c5c326fee640d8eeb4ca41da44921ed3e",
+   "byte": 3784
+  },
+  {
+   "path": "assets/mappa/1/11_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_2.webp",
+   "sha256": "ed8cf130dd9c793719a49f0e8b607fab7cd2dd7ba4f5cbbd85586d46f263b3d2",
+   "byte": 18982
+  },
+  {
+   "path": "assets/mappa/1/11_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_3.webp",
+   "sha256": "4f69107aa21eb14845a7e72547b64bc32859d805de4f72df367ed9222056176b",
+   "byte": 18388
+  },
+  {
+   "path": "assets/mappa/1/11_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_4.webp",
+   "sha256": "18914f44a693d816884e58fa0a0d6e5290c0da0fad38d2b8c23980e500b1a669",
+   "byte": 16910
+  },
+  {
+   "path": "assets/mappa/1/11_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_5.webp",
+   "sha256": "54dda6e2450a2b0499bce8a7aef324b58d3bed8ea81804ae546b179bb515fdee",
+   "byte": 16994
+  },
+  {
+   "path": "assets/mappa/1/11_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_6.webp",
+   "sha256": "f69b91575133948299ec584eca20171ad78f838da9d0bd88bb2683e2c11e0a7f",
+   "byte": 14294
+  },
+  {
+   "path": "assets/mappa/1/11_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_7.webp",
+   "sha256": "eae0ba0b4e23392684eee793811705f6c3219a1eef1372f0e6768130e7589e55",
+   "byte": 12214
+  },
+  {
+   "path": "assets/mappa/1/11_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_8.webp",
+   "sha256": "0c7865cfa3cd9e22c3a56ab4101767f9415312a7b06a86a6e9f45b7f31e9a7b3",
+   "byte": 13860
+  },
+  {
+   "path": "assets/mappa/1/11_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/11_9.webp",
+   "sha256": "2aa6f627df8d58579a42c653a0ea026df3865acb6605382a6e0c2decb5b5b51b",
+   "byte": 18834
+  },
+  {
+   "path": "assets/mappa/1/12_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_0.webp",
+   "sha256": "3515ff56d8f3e81b0895cad626c80c96ce7c4c646a636d823bd8331d3e355896",
+   "byte": 8886
+  },
+  {
+   "path": "assets/mappa/1/12_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_1.webp",
+   "sha256": "3301c753d492bef4318f23143fbb294dfdeb25d7e4bb6c4beec6339f36d31343",
+   "byte": 19786
+  },
+  {
+   "path": "assets/mappa/1/12_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_10.webp",
+   "sha256": "bd5f2bf5e1cbdfe29e7838f86c9edbc7d42e15a31973b666f79d073054e91d17",
+   "byte": 23160
+  },
+  {
+   "path": "assets/mappa/1/12_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_11.webp",
+   "sha256": "cf16aa53e3b8026519daa446e6aa703639e352d9b7369556ae82e7ea93100799",
+   "byte": 16080
+  },
+  {
+   "path": "assets/mappa/1/12_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_12.webp",
+   "sha256": "433f2b237b300528be9049f2a28103d765ac9f48239a54862a126d179865326b",
+   "byte": 14514
+  },
+  {
+   "path": "assets/mappa/1/12_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_13.webp",
+   "sha256": "b4064b097d21f447896d929f45191691bd3fd26f16a1512411a7278e37b684dc",
+   "byte": 8774
+  },
+  {
+   "path": "assets/mappa/1/12_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_14.webp",
+   "sha256": "619aacb309d9b2ee02d8eb472cc028bd3b6eac71bd2252c1b00dc72bdeb0599b",
+   "byte": 9622
+  },
+  {
+   "path": "assets/mappa/1/12_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_15.webp",
+   "sha256": "2dc557fa4c5b2b6674de60f0346463b417d743a25f596eaa4e38a558f672965a",
+   "byte": 6150
+  },
+  {
+   "path": "assets/mappa/1/12_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_16.webp",
+   "sha256": "79fd4fd7a2e9092e6e7b6d7d27ec5803a0dee6839c607723621b9e6c07dd400e",
+   "byte": 8756
+  },
+  {
+   "path": "assets/mappa/1/12_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_17.webp",
+   "sha256": "1016801c357ad99da8104aab2462e34a194377fe38dfb9916d2c7da64975a552",
+   "byte": 5730
+  },
+  {
+   "path": "assets/mappa/1/12_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_18.webp",
+   "sha256": "c0a0c82f1a8eb506468142067c5478a9a92b2771bf77197b774db0e62de4a190",
+   "byte": 4480
+  },
+  {
+   "path": "assets/mappa/1/12_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_2.webp",
+   "sha256": "211bbb3c9b8333b2331249aca8a8e8e0b9e2a68dbf38018a0da62108d88d7040",
+   "byte": 18014
+  },
+  {
+   "path": "assets/mappa/1/12_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_3.webp",
+   "sha256": "24f591187005b6d72ce2755ee934b31a03b8223769ea8ef2cf548324dbe1ae84",
+   "byte": 16386
+  },
+  {
+   "path": "assets/mappa/1/12_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_4.webp",
+   "sha256": "0c70afc2b098d8a5337ca2fbea62995c350f91020c8d033def50d33f9852c891",
+   "byte": 15608
+  },
+  {
+   "path": "assets/mappa/1/12_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_5.webp",
+   "sha256": "9fe37329a8acddbbd73b17e859238f9b595d5754ae52193705eb1ef9e20b4072",
+   "byte": 15190
+  },
+  {
+   "path": "assets/mappa/1/12_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_6.webp",
+   "sha256": "5a5a519af7c48b7e6308add21a8a14e42868e8b7010ba76d4ae1cd7b5b8d805e",
+   "byte": 14110
+  },
+  {
+   "path": "assets/mappa/1/12_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_7.webp",
+   "sha256": "0812901546d603e1f8aa9cbc7ab88961820399395aa55eda2505b87ca924fa36",
+   "byte": 13148
+  },
+  {
+   "path": "assets/mappa/1/12_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_8.webp",
+   "sha256": "2bd2d2c01c26bba6a4f52d0a499b29b000ba4767083e78bd8843971a7a78e8d4",
+   "byte": 12252
+  },
+  {
+   "path": "assets/mappa/1/12_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/12_9.webp",
+   "sha256": "58fdc8ac4de461913b6f0648e87fbed9aa124203ef20959a95823313c923340e",
+   "byte": 15644
+  },
+  {
+   "path": "assets/mappa/1/13_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_0.webp",
+   "sha256": "947dcc4bb54702723d54fda2ffcd5ef596e95109efa85ce11cd3c4d50513c015",
+   "byte": 9420
+  },
+  {
+   "path": "assets/mappa/1/13_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_1.webp",
+   "sha256": "788597a707aa8bb1c01733901523d28138d1a15cd9c0e130c1193496619f5d8e",
+   "byte": 20118
+  },
+  {
+   "path": "assets/mappa/1/13_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_10.webp",
+   "sha256": "481ad7ac61d869dfc845337d05f279937028866c1d2e672df52694eb30fb7ec6",
+   "byte": 17188
+  },
+  {
+   "path": "assets/mappa/1/13_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_11.webp",
+   "sha256": "9d0950f7d5825d7d77e647b6ab616751258bc3e9b99f8ed6b231ccddf664cf2d",
+   "byte": 11002
+  },
+  {
+   "path": "assets/mappa/1/13_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_12.webp",
+   "sha256": "2b65fd4aa8cd31defbbe43fa0830df92602bd586c88315b2c600a161098ee9ea",
+   "byte": 10880
+  },
+  {
+   "path": "assets/mappa/1/13_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_13.webp",
+   "sha256": "02c28025b4de5c26fc905edce29cd94a93af0e20e0cc0f8fed819c80c9968ef2",
+   "byte": 17790
+  },
+  {
+   "path": "assets/mappa/1/13_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_14.webp",
+   "sha256": "de0e88bac6c8e1a4388608eedbf6cf45c64fe7fc3029a68e2fc52498cc36379f",
+   "byte": 7140
+  },
+  {
+   "path": "assets/mappa/1/13_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_15.webp",
+   "sha256": "864f5ebe429d8932f383c644e89fe31e1dcca8c897665039debc19908573c4d6",
+   "byte": 12014
+  },
+  {
+   "path": "assets/mappa/1/13_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_16.webp",
+   "sha256": "37c70d6e70cb557309cf3643d9dcfa603c8adf06786f9da983c6b9ee3c500806",
+   "byte": 8060
+  },
+  {
+   "path": "assets/mappa/1/13_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_17.webp",
+   "sha256": "4010703bf34adcd830c3e331451570074f0b11897ae07b777fbe2b05c72d04b4",
+   "byte": 4208
+  },
+  {
+   "path": "assets/mappa/1/13_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_18.webp",
+   "sha256": "29912d8144621120c21cdc3e5088e302b1eefd9fdc17893a2fa4ab91ac0fa856",
+   "byte": 7408
+  },
+  {
+   "path": "assets/mappa/1/13_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_2.webp",
+   "sha256": "9cecf2ad8509c84cbfac941eb30bd9dd5a920fe90bfdf25c9f63ab596ab97406",
+   "byte": 18094
+  },
+  {
+   "path": "assets/mappa/1/13_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_3.webp",
+   "sha256": "288cd97dab77ede85c40bcad43c6249f15974f9593364d78b3c52dc1d2f23a2e",
+   "byte": 15904
+  },
+  {
+   "path": "assets/mappa/1/13_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_4.webp",
+   "sha256": "b5d9a2d46a0988de5744349e81ca6504d4684135a2d61bf9b613356dbbf797e1",
+   "byte": 13940
+  },
+  {
+   "path": "assets/mappa/1/13_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_5.webp",
+   "sha256": "d101e2ea25c6019626c7282f8516870ba547e9d30942ee6b4b4d19b3795a4ed5",
+   "byte": 16954
+  },
+  {
+   "path": "assets/mappa/1/13_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_6.webp",
+   "sha256": "9ee03851ed74fae2e8e13c3ba3e6a455d430c769d5a869f2d20619104695ddb2",
+   "byte": 12052
+  },
+  {
+   "path": "assets/mappa/1/13_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_7.webp",
+   "sha256": "c1968780d2ac4b901ab4e1bf0d7f382971494aa7ef761c6f64fc318068f794e5",
+   "byte": 12804
+  },
+  {
+   "path": "assets/mappa/1/13_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_8.webp",
+   "sha256": "ca678af585d5c6c3bda484042a44a900d72103dca62dc0ec8e3b63c13c82d02a",
+   "byte": 16874
+  },
+  {
+   "path": "assets/mappa/1/13_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/13_9.webp",
+   "sha256": "11b7c4694b9697f380bdd1358a79ced7c11c4d4547d4d04f3a4476830753e972",
+   "byte": 21522
+  },
+  {
+   "path": "assets/mappa/1/14_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_0.webp",
+   "sha256": "1e40e47bc517ee41f7bd45707461169087a79ff32dcb877814c22c2dd237993f",
+   "byte": 18488
+  },
+  {
+   "path": "assets/mappa/1/14_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_1.webp",
+   "sha256": "298d6f612e18ba4595a7e18817bf4ae5650bc8b158b7c148510e629cfab22244",
+   "byte": 21106
+  },
+  {
+   "path": "assets/mappa/1/14_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_10.webp",
+   "sha256": "66bc95e1e8848fc70c24121ab77810c369594f9dd5e4a950a3ff3fb866565d29",
+   "byte": 19966
+  },
+  {
+   "path": "assets/mappa/1/14_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_11.webp",
+   "sha256": "8160219bb0c2357a3b73644832017d1f36c2a1620d98ccd9a388eafbf8ee6d13",
+   "byte": 8468
+  },
+  {
+   "path": "assets/mappa/1/14_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_12.webp",
+   "sha256": "680b0a6393f63dc1268535cd57902bac75097cbb0961642b53d71aaa9d312ab8",
+   "byte": 9732
+  },
+  {
+   "path": "assets/mappa/1/14_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_13.webp",
+   "sha256": "f69bdfbb6a3eb6b28f01ff7f76586b3e436687909ed6ddcb4f381aeb7c8e6333",
+   "byte": 13684
+  },
+  {
+   "path": "assets/mappa/1/14_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_14.webp",
+   "sha256": "3a0160dae310113edd868cbf64be0d92cc5e3203011458fccfdb46e8725108c5",
+   "byte": 15224
+  },
+  {
+   "path": "assets/mappa/1/14_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_15.webp",
+   "sha256": "765024ccf0618f377439a60a37de0e6c6c4d9f26649faeceed42abd4c41c6215",
+   "byte": 22358
+  },
+  {
+   "path": "assets/mappa/1/14_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_16.webp",
+   "sha256": "ef7ae1605765ff30027adddf45ac049b9623cbc40da6e0cc7a794087e79886d2",
+   "byte": 8152
+  },
+  {
+   "path": "assets/mappa/1/14_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_17.webp",
+   "sha256": "0bd889fd977382e9f5490891f8f94c2357295dcfa0f2d8f1de41ba10b8b42e42",
+   "byte": 3904
+  },
+  {
+   "path": "assets/mappa/1/14_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_18.webp",
+   "sha256": "9e26600149b6a8e7c9bd35acf0cd477767c902546cd81aca483c2e78c8c43e19",
+   "byte": 7850
+  },
+  {
+   "path": "assets/mappa/1/14_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_2.webp",
+   "sha256": "df44a5474ffb5d49238113974e71453aed19fbf9bd80e5bcbb2298027708fbee",
+   "byte": 20572
+  },
+  {
+   "path": "assets/mappa/1/14_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_3.webp",
+   "sha256": "c8516ae9e78d3c36e7f197a10f1f803f3177439eb55af8da0f8c36f029e8bb67",
+   "byte": 16638
+  },
+  {
+   "path": "assets/mappa/1/14_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_4.webp",
+   "sha256": "514d8e4559ae996666ea5d224cb52be4dce2bd9e95fac148ee5a3faade4ce829",
+   "byte": 18552
+  },
+  {
+   "path": "assets/mappa/1/14_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_5.webp",
+   "sha256": "cddf91d67c37115efdf81da14a8e6ebe066dbbdfc1fd670d0e4be27c95e26d1a",
+   "byte": 11050
+  },
+  {
+   "path": "assets/mappa/1/14_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_6.webp",
+   "sha256": "731e1bd0fef633eab43f0d2b8dbe6d53526851945d362b2a1f5085c6d9c500b5",
+   "byte": 11280
+  },
+  {
+   "path": "assets/mappa/1/14_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_7.webp",
+   "sha256": "6022365dcd0e9cf1236ffd140b6e0b512d57a549d0a5a58d81c142b896bdf285",
+   "byte": 13504
+  },
+  {
+   "path": "assets/mappa/1/14_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_8.webp",
+   "sha256": "673e57e570c3f5de6344e272dc4537d6a0a723485d18cd1f7ccff7ad35a51f2e",
+   "byte": 14408
+  },
+  {
+   "path": "assets/mappa/1/14_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/14_9.webp",
+   "sha256": "759c67a73e7211c813d6c3fe6b78bbd61dff4f21abf2b0cd8e65efc2ed315587",
+   "byte": 18810
+  },
+  {
+   "path": "assets/mappa/1/15_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_0.webp",
+   "sha256": "e760db7dffc87d68340e702caa1e467ffdbdd1ab4b39839eda1fe86c07eb3853",
+   "byte": 19604
+  },
+  {
+   "path": "assets/mappa/1/15_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_1.webp",
+   "sha256": "5fe0ee0ad0520e70c4dde2307a82d45d39f8010cc307154fced7ed5c5c4a54af",
+   "byte": 27358
+  },
+  {
+   "path": "assets/mappa/1/15_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_10.webp",
+   "sha256": "d15067b824fa7d7e649c7a77ec869d28c7f9501f3b463ecf989f99a6b419c27c",
+   "byte": 17702
+  },
+  {
+   "path": "assets/mappa/1/15_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_11.webp",
+   "sha256": "1daffa64e4acabd37950270d7339c17578845bad1d8a11ccc08d5e792b0ea6cd",
+   "byte": 12784
+  },
+  {
+   "path": "assets/mappa/1/15_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_12.webp",
+   "sha256": "c3c156159efc1ee079a11566d23baa4264b2d2df5c8854dd040e01165011ae08",
+   "byte": 7630
+  },
+  {
+   "path": "assets/mappa/1/15_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_13.webp",
+   "sha256": "e46edc75fa9b82d5f9bc9feeb6c2d3a2f3c8763cd1516b15a6af95f10b52abe0",
+   "byte": 13620
+  },
+  {
+   "path": "assets/mappa/1/15_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_14.webp",
+   "sha256": "22f50499094ec1c1e21da5e2dfa9c81ca5cc440f9f59eeac9e1b1b123fccf75a",
+   "byte": 10202
+  },
+  {
+   "path": "assets/mappa/1/15_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_15.webp",
+   "sha256": "5bdce8f75139077e0c9289e2f91e79d3bd5e6c223ee493138c662c62ab0d9722",
+   "byte": 6202
+  },
+  {
+   "path": "assets/mappa/1/15_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_16.webp",
+   "sha256": "768df9b4d204c23faca56a2d64b9a1e87db5f51610c579f06e32821cea0463c3",
+   "byte": 5194
+  },
+  {
+   "path": "assets/mappa/1/15_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_17.webp",
+   "sha256": "420ba68549995eaace78a170d2a1fbd1fbbdc4a699268f283d6e07826e4384af",
+   "byte": 5672
+  },
+  {
+   "path": "assets/mappa/1/15_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_18.webp",
+   "sha256": "d99a1b3469ff7d5dded7d6145e31ce66d3b445837fb70bed2b443072cd13e818",
+   "byte": 8272
+  },
+  {
+   "path": "assets/mappa/1/15_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_2.webp",
+   "sha256": "993cfe560a41ae6afebc934ecd9f2d78233d666776e7327def0ad45aef094eab",
+   "byte": 20692
+  },
+  {
+   "path": "assets/mappa/1/15_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_3.webp",
+   "sha256": "3d6118a1cb15a77f7d8cae58ef610ca7e802bd8aaa17b108c5e5847200c82c17",
+   "byte": 17304
+  },
+  {
+   "path": "assets/mappa/1/15_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_4.webp",
+   "sha256": "f2adfe613d39559783361ec8e4ec5ad4a2d7362acb5a747554ce928463c0a111",
+   "byte": 16914
+  },
+  {
+   "path": "assets/mappa/1/15_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_5.webp",
+   "sha256": "c494abfa27529cd7fd3107c39d11c19ad984dba1e3c23f361337ab4c29192f4a",
+   "byte": 16262
+  },
+  {
+   "path": "assets/mappa/1/15_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_6.webp",
+   "sha256": "f0b4a257a679cd2aad86cac601b7b34335cd5bbce63d3823a23d60d496d8b3a6",
+   "byte": 12600
+  },
+  {
+   "path": "assets/mappa/1/15_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_7.webp",
+   "sha256": "9cc498601a8c14a572ce63799cf5e09d2e802cd709ba60c93deb24cd19ff8452",
+   "byte": 17318
+  },
+  {
+   "path": "assets/mappa/1/15_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_8.webp",
+   "sha256": "69c336596cf3bdaa3958323037146b3bb3bf2213a50d6eceff78191ef5102f68",
+   "byte": 17116
+  },
+  {
+   "path": "assets/mappa/1/15_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/15_9.webp",
+   "sha256": "2f4a480e2dd9b5e6a0ebe6a62acdf729fc0b3a0b57e7fc9b96d8157c01855955",
+   "byte": 16082
+  },
+  {
+   "path": "assets/mappa/1/16_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_0.webp",
+   "sha256": "fc08ca9802005b0e948e618475306afbdc0fdfc2e935d2384dbdca832a2cd92d",
+   "byte": 20646
+  },
+  {
+   "path": "assets/mappa/1/16_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_1.webp",
+   "sha256": "4a3783ef0e7f1881b64550d2f8334835e2a844d2e57c7fe8607227fd7a792da6",
+   "byte": 18542
+  },
+  {
+   "path": "assets/mappa/1/16_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_10.webp",
+   "sha256": "2b61b6dd41c45cb6e75c9852ddf1f811d06031cffb95a24e5ab6487d32cdc246",
+   "byte": 13948
+  },
+  {
+   "path": "assets/mappa/1/16_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_11.webp",
+   "sha256": "a5bc1463d590aa5ca2ce1a355dd8439db32a02c5fc7fa2d52acb430c60b40680",
+   "byte": 13244
+  },
+  {
+   "path": "assets/mappa/1/16_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_12.webp",
+   "sha256": "fec5121ab131714c03ecd3f1e1a0e21593f779c3f02f1552a3a0538310ce8c04",
+   "byte": 11216
+  },
+  {
+   "path": "assets/mappa/1/16_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_13.webp",
+   "sha256": "b7149f7279399819d97cd39d5805af55bb9acecc436baf67e4fd106a7261760c",
+   "byte": 15134
+  },
+  {
+   "path": "assets/mappa/1/16_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_14.webp",
+   "sha256": "d24f07bb90feec0e9bf86d105cf047f82b795a8644f70e8682a495dab45f3790",
+   "byte": 4766
+  },
+  {
+   "path": "assets/mappa/1/16_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_15.webp",
+   "sha256": "f9a051aa7b81d4ceb18f0b1e8bc5f9e8dce37772001b55a2a97378de5131ee0d",
+   "byte": 6432
+  },
+  {
+   "path": "assets/mappa/1/16_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_16.webp",
+   "sha256": "3647fee3a079554cac38991c6c629713cf40a23a6cfb046ad76cecc0f48184ac",
+   "byte": 9898
+  },
+  {
+   "path": "assets/mappa/1/16_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_17.webp",
+   "sha256": "63adff6fd0d1070b9ea78c04b7a2d76f1501ae9a6ab897e994d36c0bbca92cd5",
+   "byte": 5682
+  },
+  {
+   "path": "assets/mappa/1/16_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_18.webp",
+   "sha256": "3b7f85de8e560fe2ef1408d496396f7cc72c45014aa6af545a774b35e78b0c38",
+   "byte": 4088
+  },
+  {
+   "path": "assets/mappa/1/16_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_2.webp",
+   "sha256": "1e282a04046e55f9d0bce452c37a4aaf7cfb25588749a98966af5e4976535de1",
+   "byte": 21432
+  },
+  {
+   "path": "assets/mappa/1/16_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_3.webp",
+   "sha256": "e6c0f5ec21e18f9c2d780702487b5cf52a698ee7c486c1b74972794292620d74",
+   "byte": 24236
+  },
+  {
+   "path": "assets/mappa/1/16_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_4.webp",
+   "sha256": "2f2632bc8fc7cb6bbf5cbdc77fd4a9da52bdc438f804f244ff1c9f7a8757bfab",
+   "byte": 15854
+  },
+  {
+   "path": "assets/mappa/1/16_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_5.webp",
+   "sha256": "bb181c768b25d3988eaef551bdfece93622513bec76dd6ad918e5040159c7f51",
+   "byte": 16580
+  },
+  {
+   "path": "assets/mappa/1/16_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_6.webp",
+   "sha256": "4277f13dc5badc51668be784a9227de80c613925444ab3244114e4a9c158940e",
+   "byte": 16258
+  },
+  {
+   "path": "assets/mappa/1/16_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_7.webp",
+   "sha256": "9fc92953cb0d0057538a152a105d33e32266382f5a5694d28cd5c4e4ce8e35d1",
+   "byte": 15524
+  },
+  {
+   "path": "assets/mappa/1/16_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_8.webp",
+   "sha256": "5f0cce4536ec36099c54bd22518210c3f9c15b8dd017a00e096453ac3a8fbbcb",
+   "byte": 12926
+  },
+  {
+   "path": "assets/mappa/1/16_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/16_9.webp",
+   "sha256": "0dfa8f86960361b91943e734be64b2ef91b2a15544626d42a2258b8369dc1f96",
+   "byte": 14394
+  },
+  {
+   "path": "assets/mappa/1/17_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_0.webp",
+   "sha256": "7e4a1da8fda0f68327a6a43c5c5c9eda093f460582afabbd5c927032a3078cf0",
+   "byte": 16112
+  },
+  {
+   "path": "assets/mappa/1/17_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_1.webp",
+   "sha256": "12fc8e90bda4d2cc8308e9700973856aed317eca43162dc20161cc99364a0c96",
+   "byte": 19380
+  },
+  {
+   "path": "assets/mappa/1/17_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_10.webp",
+   "sha256": "4677b04c1d71833478b7ddd9123f85bdba0cbd28e0c2ee1001e85673699b13d4",
+   "byte": 14306
+  },
+  {
+   "path": "assets/mappa/1/17_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_11.webp",
+   "sha256": "d79164068677fa52a15d644399f7fcd1c412397ff2a8eb8292b03efc1bb4c188",
+   "byte": 10966
+  },
+  {
+   "path": "assets/mappa/1/17_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_12.webp",
+   "sha256": "54861d6d78ebca25213b2d5c41e10e5998115482efa3701357e3987bc9c9e5fe",
+   "byte": 5596
+  },
+  {
+   "path": "assets/mappa/1/17_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_13.webp",
+   "sha256": "f6b8fa80b47ef8ab7c6cbc22aefcc7e2fe44c200eb06affc194121eb2b741fb4",
+   "byte": 12724
+  },
+  {
+   "path": "assets/mappa/1/17_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_14.webp",
+   "sha256": "354f980827138802a74f1441dfcee381db57d2df2d39b16e8bd21c9a8e67bb43",
+   "byte": 7946
+  },
+  {
+   "path": "assets/mappa/1/17_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_15.webp",
+   "sha256": "ad6eeed8af37fd6d300425a355f52259b86d7f092f23c14cbb6db78f755c8879",
+   "byte": 4480
+  },
+  {
+   "path": "assets/mappa/1/17_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_16.webp",
+   "sha256": "158e5af46d3ea58051d906d5e3612e0c3e1934e6e82c42eba01ae01d1685a0ec",
+   "byte": 8552
+  },
+  {
+   "path": "assets/mappa/1/17_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_17.webp",
+   "sha256": "343cfa945541bddfe517584ee384442ee11469f46bf41a12b9f46c0c30e448ef",
+   "byte": 5218
+  },
+  {
+   "path": "assets/mappa/1/17_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_18.webp",
+   "sha256": "149559c62b71e493aec903f27ecaf5984a2fb025cd9c16434304a89280431915",
+   "byte": 4520
+  },
+  {
+   "path": "assets/mappa/1/17_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_2.webp",
+   "sha256": "9fede29c6e56c10086431beecc139854ede0dd619e128e61200ea1c502a65845",
+   "byte": 13428
+  },
+  {
+   "path": "assets/mappa/1/17_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_3.webp",
+   "sha256": "eff7179f486f5228915585d7656588e6d9f8ebe507a05a474020421d39127275",
+   "byte": 17582
+  },
+  {
+   "path": "assets/mappa/1/17_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_4.webp",
+   "sha256": "5e97120f71dfc082e26ec3e4ce5f045b798f9737801403334251c8359b87e5e1",
+   "byte": 21934
+  },
+  {
+   "path": "assets/mappa/1/17_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_5.webp",
+   "sha256": "3b376aa4834993a8c9d19a22f5667912ddb215c12f9dcc318ea7d7cd1babac65",
+   "byte": 20530
+  },
+  {
+   "path": "assets/mappa/1/17_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_6.webp",
+   "sha256": "81a583bc0ffca2465071d0bc16d3f78c7530589793852a4bde5466c9cd3a94d6",
+   "byte": 15618
+  },
+  {
+   "path": "assets/mappa/1/17_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_7.webp",
+   "sha256": "9d97394ff6276a04e7a5fbe9e442c3605ee75e6d439c05778a25d83050b2ea8c",
+   "byte": 20642
+  },
+  {
+   "path": "assets/mappa/1/17_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_8.webp",
+   "sha256": "c07c0cd54fa6e8ebac55062ec82fd6b37c8f233bbccc3a4900b2c08e1e41aa56",
+   "byte": 18160
+  },
+  {
+   "path": "assets/mappa/1/17_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/17_9.webp",
+   "sha256": "51ecad2b62f84e7cbe6fe01d6fd1ece8c46c7289972bd2c76ef63e9db9c4d34f",
+   "byte": 14918
+  },
+  {
+   "path": "assets/mappa/1/18_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_0.webp",
+   "sha256": "f0bb3e526672d27ef78250e13322541d8826b434122c952a73293ed85e2e039a",
+   "byte": 6876
+  },
+  {
+   "path": "assets/mappa/1/18_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_1.webp",
+   "sha256": "305163c29c27700b696dfbc09fa03fe0f6f0a8fdad2375211e0eab0fdf55fb4a",
+   "byte": 9812
+  },
+  {
+   "path": "assets/mappa/1/18_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_10.webp",
+   "sha256": "96bf200a8cf9e4a75ba43381f7a0b5da2b2aeaec7f3e07347f11a9cfe8c55570",
+   "byte": 12756
+  },
+  {
+   "path": "assets/mappa/1/18_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_11.webp",
+   "sha256": "140da2d81dfa99780fb3a13deef81161786896c6a816f784e9ad9d09dc9ab5a2",
+   "byte": 14330
+  },
+  {
+   "path": "assets/mappa/1/18_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_12.webp",
+   "sha256": "854bfd2b63fb065bb0a0614ed1cd980a7ab69278c69ebf33d3bc23f242c74ceb",
+   "byte": 8332
+  },
+  {
+   "path": "assets/mappa/1/18_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_13.webp",
+   "sha256": "e65d3561623622a11d7548e6e7aa7c7f2672950d08f16b78ed2860205a3ff56c",
+   "byte": 11942
+  },
+  {
+   "path": "assets/mappa/1/18_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_14.webp",
+   "sha256": "e2c75f5fc57511da1ad7d38a1776c4c2d3a0a5476bd1d83d592abda9e17eeaa4",
+   "byte": 9774
+  },
+  {
+   "path": "assets/mappa/1/18_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_15.webp",
+   "sha256": "3e4f36ff859b4ec2475a1656ffa52990524adf8375d1b76d16c5d012e6b29fee",
+   "byte": 3714
+  },
+  {
+   "path": "assets/mappa/1/18_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_16.webp",
+   "sha256": "c0dda5fa1b18b6a2b6194fc08a47c25029ba789b0af70c367e219e733965444a",
+   "byte": 5958
+  },
+  {
+   "path": "assets/mappa/1/18_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_17.webp",
+   "sha256": "15b569ea260c0b7fd178d9ebe35e65b01fa1de2982294f52f77e23a58a1299c6",
+   "byte": 3436
+  },
+  {
+   "path": "assets/mappa/1/18_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_18.webp",
+   "sha256": "85ce41e05de0d173502f4a7d82a1fcdf6b6f03418220081c601dbb309cfbdf3f",
+   "byte": 3900
+  },
+  {
+   "path": "assets/mappa/1/18_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_2.webp",
+   "sha256": "a7939cd11d150b7e8c7df3608a24739e33c57415f304e0437cdf3585f792c757",
+   "byte": 9932
+  },
+  {
+   "path": "assets/mappa/1/18_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_3.webp",
+   "sha256": "f78c0d84a71bc9ee5a22519357a35730f0870d01db577cdad4e09a15381d770c",
+   "byte": 17394
+  },
+  {
+   "path": "assets/mappa/1/18_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_4.webp",
+   "sha256": "c73efa02c7b1e8d6aa99e4d3ac61edc5c44c4ccc2196f66fa3fbfdfd391a120a",
+   "byte": 13806
+  },
+  {
+   "path": "assets/mappa/1/18_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_5.webp",
+   "sha256": "6368a09151cc06d7b53e3f7e332c7c4eed8754bfa6097783ca3c7968535d2291",
+   "byte": 20628
+  },
+  {
+   "path": "assets/mappa/1/18_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_6.webp",
+   "sha256": "b956ae9363a1293826e07234879be71f24cd2ba514000e6dd8045d34fe727909",
+   "byte": 26328
+  },
+  {
+   "path": "assets/mappa/1/18_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_7.webp",
+   "sha256": "eae12ac220d4384618384fbc7f007e63010f4c62f18df90a0a55332d8a1422d6",
+   "byte": 16504
+  },
+  {
+   "path": "assets/mappa/1/18_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_8.webp",
+   "sha256": "6acf8be8cb9837397bc678949f7b599fb5c4f4436ef0fb30de9d9f2fbc960b70",
+   "byte": 18704
+  },
+  {
+   "path": "assets/mappa/1/18_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/18_9.webp",
+   "sha256": "7a7f73a2ec0e3e2247b0b70d735459c9a6db261b3352cb5b4c389283b33ddaf4",
+   "byte": 17722
+  },
+  {
+   "path": "assets/mappa/1/19_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_0.webp",
+   "sha256": "095f169bac73c75d49f3b9394ff00143f31173597aa7e9c84614e46278a8f6e0",
+   "byte": 4866
+  },
+  {
+   "path": "assets/mappa/1/19_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_1.webp",
+   "sha256": "03b4a49b3afa8a1eb015436da65cf7b9bb00828cd28a61ac868f0d6327fd08ec",
+   "byte": 7802
+  },
+  {
+   "path": "assets/mappa/1/19_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_10.webp",
+   "sha256": "2bdb18c0f24da3ebcf14ce2404b2e81dd24a78ba3e82a97179ad0e1abe1a8f76",
+   "byte": 13528
+  },
+  {
+   "path": "assets/mappa/1/19_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_11.webp",
+   "sha256": "ef1936d49f52b2e97bee01309bde026e2423cf965ace7f47c58f59af5c42b3a1",
+   "byte": 12708
+  },
+  {
+   "path": "assets/mappa/1/19_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_12.webp",
+   "sha256": "6ecacaa8583a50bcb14d2bdc37b148d38f1e2f7533d2941267e5cc54d62396a7",
+   "byte": 8792
+  },
+  {
+   "path": "assets/mappa/1/19_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_13.webp",
+   "sha256": "5bd0995c27de2c7385f05b495239c9c60e4b13b6620c9fa8647bc87797c219e4",
+   "byte": 9446
+  },
+  {
+   "path": "assets/mappa/1/19_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_14.webp",
+   "sha256": "0579ad15156b368c16573f924d3b42deea6c840b39af9c1bd295142a3ca912af",
+   "byte": 8296
+  },
+  {
+   "path": "assets/mappa/1/19_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_15.webp",
+   "sha256": "07dcc1620a314a794997ef20963a9cc6e6a3228a00729e77b3f2ccfcac7778df",
+   "byte": 6492
+  },
+  {
+   "path": "assets/mappa/1/19_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_16.webp",
+   "sha256": "ba1ec1bf76e911323a59ea66cb7786b13cb458bb03eb673a1aae1065cc8197a9",
+   "byte": 8274
+  },
+  {
+   "path": "assets/mappa/1/19_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_17.webp",
+   "sha256": "c98c8a4b5b42c868ab8dc1d953fb0a3a0a6823f04a1967c89f39cef770de537d",
+   "byte": 3968
+  },
+  {
+   "path": "assets/mappa/1/19_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_18.webp",
+   "sha256": "be56fc94a838ee9d158442c20eb4581734ceb460590018d5356e122e76510b37",
+   "byte": 5210
+  },
+  {
+   "path": "assets/mappa/1/19_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_2.webp",
+   "sha256": "8a8fc35e901b36bca4436997194f23c640b2f90a842d4a23e97e0e5a4a60364d",
+   "byte": 19756
+  },
+  {
+   "path": "assets/mappa/1/19_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_3.webp",
+   "sha256": "1a92209b584c7b1a43226a91d44acc994318e41441ae4b1bf1ab517764567f37",
+   "byte": 19082
+  },
+  {
+   "path": "assets/mappa/1/19_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_4.webp",
+   "sha256": "122b8bf3edef044687d03275bd82244ef5351fa498d086afb7e0653138be4b7d",
+   "byte": 15610
+  },
+  {
+   "path": "assets/mappa/1/19_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_5.webp",
+   "sha256": "9802605fde65f1987585b2bab2ec1a952a386404cf643a78a5c14cc9d958bb43",
+   "byte": 12658
+  },
+  {
+   "path": "assets/mappa/1/19_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_6.webp",
+   "sha256": "5c7feeed3fb6f54b2f3ed5d9b25065982dc576830772e7b3f20cfa937bd2cb83",
+   "byte": 16402
+  },
+  {
+   "path": "assets/mappa/1/19_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_7.webp",
+   "sha256": "620f0f630be69cb2c4a90647816e9704583fab75ddabc2104b2678c1b893e177",
+   "byte": 25422
+  },
+  {
+   "path": "assets/mappa/1/19_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_8.webp",
+   "sha256": "0248cb99ca401610766f131084335a756cf061941f913b21a4c46ec31dcf2a9c",
+   "byte": 18846
+  },
+  {
+   "path": "assets/mappa/1/19_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/19_9.webp",
+   "sha256": "76e36568d608b65c46b6e454a2fd01714b1f226a15968dae1b3daf6d9e89d86d",
+   "byte": 17856
+  },
+  {
+   "path": "assets/mappa/1/1_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_0.webp",
+   "sha256": "8f66075c2da6bb1876330fdac3a02ef5c8aef2e0229e625f914db4030ea76f2e",
+   "byte": 16742
+  },
+  {
+   "path": "assets/mappa/1/1_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_1.webp",
+   "sha256": "19afd174b91cf668198ee23fa7d64b9b9c4171838b2438566d1f850f9b1031ec",
+   "byte": 16750
+  },
+  {
+   "path": "assets/mappa/1/1_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_10.webp",
+   "sha256": "f6e65f15e042ec8b7d1e644719e84e1b34b452d57efcdc9322dd35ed73b2359b",
+   "byte": 4212
+  },
+  {
+   "path": "assets/mappa/1/1_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_11.webp",
+   "sha256": "a84704eba3b715fd1ace032386ae69ad2893813c31172a530c6db278a2ad042c",
+   "byte": 6558
+  },
+  {
+   "path": "assets/mappa/1/1_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_12.webp",
+   "sha256": "dbf0ef02449b5b8847e14c60b45cce7c4c72683cd61fb0a0d556536102236fc1",
+   "byte": 2786
+  },
+  {
+   "path": "assets/mappa/1/1_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_13.webp",
+   "sha256": "f85bfee0229fbd428d8bad7f1b82303e948b71cae38424ea7b0026a38ff217c7",
+   "byte": 4440
+  },
+  {
+   "path": "assets/mappa/1/1_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_14.webp",
+   "sha256": "1f229dd5aac15c26c7e85c7bf8f3f4d115ac6b7b1a8c858a07e5db56d0ac4737",
+   "byte": 1534
+  },
+  {
+   "path": "assets/mappa/1/1_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_15.webp",
+   "sha256": "d76f783b453e9225eb026622d4c569252ad05c80869a318fee102807ee061f44",
+   "byte": 4774
+  },
+  {
+   "path": "assets/mappa/1/1_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_16.webp",
+   "sha256": "1f8546ba185a8e6ef1c1c5c550318810ce0d26932abab364dceedf8ba1128a72",
+   "byte": 3626
+  },
+  {
+   "path": "assets/mappa/1/1_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_17.webp",
+   "sha256": "eaaa5edf33faedf4aa1ddcb091cc6505b4ac6f4fcfe28b1302744b4c5a6bfbed",
+   "byte": 1982
+  },
+  {
+   "path": "assets/mappa/1/1_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_18.webp",
+   "sha256": "dab5cecedd868330cbb09864682b9ceda717d6bbcb64be690e2c4dc0b1e838a8",
+   "byte": 2650
+  },
+  {
+   "path": "assets/mappa/1/1_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_2.webp",
+   "sha256": "3d6d37f45d6961ab73d6e69147214812ed6cc27ab45c6da609f0f438867e6652",
+   "byte": 18434
+  },
+  {
+   "path": "assets/mappa/1/1_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_3.webp",
+   "sha256": "5eaaff01a581b19deac91a3110f50028eaa12d6a964bbc553e43b686160c4d9f",
+   "byte": 11664
+  },
+  {
+   "path": "assets/mappa/1/1_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_4.webp",
+   "sha256": "b2fca1b0176562fe9b7a63bda4157b4ffcf9abd79c0a47fe9c5faa35a6e95b2f",
+   "byte": 8804
+  },
+  {
+   "path": "assets/mappa/1/1_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_5.webp",
+   "sha256": "818ffffba9ebb4ca211d745926031370ee48e36621719cf555e61cee70800622",
+   "byte": 7496
+  },
+  {
+   "path": "assets/mappa/1/1_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_6.webp",
+   "sha256": "50154f094ec1276e5f51027b0b91cf1edd20ea369aad2b4f7e622cbe2a20e843",
+   "byte": 13456
+  },
+  {
+   "path": "assets/mappa/1/1_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_7.webp",
+   "sha256": "4389c041fb8df69e4ad954778b58e8d79e44a639b52ea2a3e8c07f624d1bafdb",
+   "byte": 16434
+  },
+  {
+   "path": "assets/mappa/1/1_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_8.webp",
+   "sha256": "f039c6fff6c4565df28828b764626530eeb18e1a52559df5661372c96053f1a9",
+   "byte": 11740
+  },
+  {
+   "path": "assets/mappa/1/1_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/1_9.webp",
+   "sha256": "224b8548049cd89a31a6e15f0a6aaba9debab78a1189d6245fb5d750445e094a",
+   "byte": 11878
+  },
+  {
+   "path": "assets/mappa/1/20_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_0.webp",
+   "sha256": "3d7855258a3306c2e628e3ad608c67da2e876bc53caa6c5fcd32265a66406b74",
+   "byte": 4618
+  },
+  {
+   "path": "assets/mappa/1/20_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_1.webp",
+   "sha256": "21b00d14175446bdf00f659eafa0fd992f7d9ff548efb33e5ecd3abb5615f1af",
+   "byte": 14370
+  },
+  {
+   "path": "assets/mappa/1/20_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_10.webp",
+   "sha256": "ce05db2e33a29b5d1760d7c2dcc8453cd14e6971fc72bf1840a06846ce60786b",
+   "byte": 16968
+  },
+  {
+   "path": "assets/mappa/1/20_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_11.webp",
+   "sha256": "43397198d99bf7ca3ac19439828fbab3d395e35cf2a00c57a9cf5569594528b3",
+   "byte": 16422
+  },
+  {
+   "path": "assets/mappa/1/20_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_12.webp",
+   "sha256": "43e548c5a3e540b5dd44c89c65f31084ddb62dd4bcb5e1724508680979688388",
+   "byte": 14676
+  },
+  {
+   "path": "assets/mappa/1/20_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_13.webp",
+   "sha256": "616a37e4dae8dad873c6569704c6f09ba6b0254d31939adcb9df9e73c5302eee",
+   "byte": 13926
+  },
+  {
+   "path": "assets/mappa/1/20_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_14.webp",
+   "sha256": "6cd745fa1ca9378b578873a46dc63904fe1c74c6d238c81040fc4361759c145c",
+   "byte": 14352
+  },
+  {
+   "path": "assets/mappa/1/20_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_15.webp",
+   "sha256": "de091313b4ef7686efd0a00a05c1002d816999bd5165bbe54fc45fb278f894de",
+   "byte": 10676
+  },
+  {
+   "path": "assets/mappa/1/20_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_16.webp",
+   "sha256": "c3fedb1ff92e173de186c8b78a3bb83298c2ec269ed9e7b423a7218f38332139",
+   "byte": 3780
+  },
+  {
+   "path": "assets/mappa/1/20_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_17.webp",
+   "sha256": "aa87fba33bf2a93d28ad5a15ff6a2a70396367f023d1cf5512c00f9d8375c0ec",
+   "byte": 3322
+  },
+  {
+   "path": "assets/mappa/1/20_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_18.webp",
+   "sha256": "cca6598fcb1d7665553c0b0e769c9dd1275b57b1a5024be8331cd4308e2e3990",
+   "byte": 5786
+  },
+  {
+   "path": "assets/mappa/1/20_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_2.webp",
+   "sha256": "a738f4819d58e7cb26b42222e4e4c9cf11cf80bc2ef336b26bae182d14f43888",
+   "byte": 17032
+  },
+  {
+   "path": "assets/mappa/1/20_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_3.webp",
+   "sha256": "e165b7a547cbc3b9e147f93a7d5d839ff25f7a40180f998891c487a2b714664d",
+   "byte": 16586
+  },
+  {
+   "path": "assets/mappa/1/20_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_4.webp",
+   "sha256": "3cc41b780db40c45d1cea86bf94d8ae4547894177f412b14efa57393dc725f3b",
+   "byte": 8138
+  },
+  {
+   "path": "assets/mappa/1/20_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_5.webp",
+   "sha256": "c33f9d86c776381bc5fadf8b31fb2d5e31f314c2b2be2383205f71cf46383b4c",
+   "byte": 9816
+  },
+  {
+   "path": "assets/mappa/1/20_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_6.webp",
+   "sha256": "c37adf0a9102baf7f1be509d3b96e66c37ddad49df8887c5f47a830747ca31e5",
+   "byte": 9146
+  },
+  {
+   "path": "assets/mappa/1/20_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_7.webp",
+   "sha256": "93a057ac5bbe1eb310c4f89031b3930e1b8df88c854e9b6d88954eebee3d3de8",
+   "byte": 13396
+  },
+  {
+   "path": "assets/mappa/1/20_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_8.webp",
+   "sha256": "1042ebda6ac6c2c7d53ef408692285860f2393ed1fad98d695625c4a535059b6",
+   "byte": 17314
+  },
+  {
+   "path": "assets/mappa/1/20_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/20_9.webp",
+   "sha256": "3ecdd01eb983ced38d4eaf7fd9bb084c5f59a2d78a8041d70e499786697250d5",
+   "byte": 19602
+  },
+  {
+   "path": "assets/mappa/1/21_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_0.webp",
+   "sha256": "a2af52dcbc5b3ac699e02708ac4d0f714aa228b7e0454b441b801e9499e41c24",
+   "byte": 8602
+  },
+  {
+   "path": "assets/mappa/1/21_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_1.webp",
+   "sha256": "5777aef73a2ef236e8dbb683ab0c739cf40d3a481c27fe10b623fa37026b4704",
+   "byte": 15202
+  },
+  {
+   "path": "assets/mappa/1/21_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_10.webp",
+   "sha256": "9c02492b98a89bbf68095fe3669954275b868a0efe5f3eeb863d6451e5be1617",
+   "byte": 16556
+  },
+  {
+   "path": "assets/mappa/1/21_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_11.webp",
+   "sha256": "d6c7dbba95dc4e579d76ffdf7db942419baa44ce9998f5a879787351aab8ca76",
+   "byte": 16304
+  },
+  {
+   "path": "assets/mappa/1/21_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_12.webp",
+   "sha256": "5ef4b43193ece67b3be2676d523beb273af5fcd9812cda6fdcb5733f84b588b2",
+   "byte": 10234
+  },
+  {
+   "path": "assets/mappa/1/21_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_13.webp",
+   "sha256": "27650caad92118839ffac682ca4c4c01202bfb86833dc9d5ec7c68e19d3e091a",
+   "byte": 16314
+  },
+  {
+   "path": "assets/mappa/1/21_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_14.webp",
+   "sha256": "c4d0356e25efab65aae6798dcdc811266941305f3fd36ba38131ed0acd08fdc2",
+   "byte": 16600
+  },
+  {
+   "path": "assets/mappa/1/21_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_15.webp",
+   "sha256": "6211d411faf3964a54ea8d703ab442de0287a73567acc556b4cf693b6a9de708",
+   "byte": 13364
+  },
+  {
+   "path": "assets/mappa/1/21_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_16.webp",
+   "sha256": "e4980003b4ca499a4f1c05e414ec3dbb3cd8abb183dec247cb54dc748167dde7",
+   "byte": 6922
+  },
+  {
+   "path": "assets/mappa/1/21_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_17.webp",
+   "sha256": "5429b35bd905be0e5f49444c15a6e0d53f1019bf034b89cfff9e0974ce8e538a",
+   "byte": 10310
+  },
+  {
+   "path": "assets/mappa/1/21_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_18.webp",
+   "sha256": "61a1957939e9aa2840cb39b5e04e1ea72510d226914bf546d69179558a84afe3",
+   "byte": 4512
+  },
+  {
+   "path": "assets/mappa/1/21_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_2.webp",
+   "sha256": "16cb3dcc5b1a2b8b7d25a884d357876c9fe2fe2741f697a30f123cd776ca17dd",
+   "byte": 14848
+  },
+  {
+   "path": "assets/mappa/1/21_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_3.webp",
+   "sha256": "3b51655405e8f993f1016f146d655ba9a7f699cd5174132656f0a17acdd6bc1f",
+   "byte": 19808
+  },
+  {
+   "path": "assets/mappa/1/21_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_4.webp",
+   "sha256": "950a316c2af3ea9d0ff62724f8b93eb34e09ef4e5c2601a27b5b86b6d5b2df72",
+   "byte": 9198
+  },
+  {
+   "path": "assets/mappa/1/21_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_5.webp",
+   "sha256": "5c526758199a1ce9b8cc7b4ccea83edfc01cfb2daf982bf0ac2abc7c3089d9a8",
+   "byte": 8460
+  },
+  {
+   "path": "assets/mappa/1/21_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_6.webp",
+   "sha256": "177181df299e3b2d80e79fbf3130e0d2b932998f6f054d8d9d7ddf1d2582d692",
+   "byte": 9164
+  },
+  {
+   "path": "assets/mappa/1/21_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_7.webp",
+   "sha256": "14714d7f9922055563ad5b4b1efdc2d9b232e09a6a630da5ddeca6a26d296444",
+   "byte": 15612
+  },
+  {
+   "path": "assets/mappa/1/21_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_8.webp",
+   "sha256": "70ed3c975ddbe62e5c45411d419d31569d8191a106fbac12b7c83d5c456a0b95",
+   "byte": 17848
+  },
+  {
+   "path": "assets/mappa/1/21_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/21_9.webp",
+   "sha256": "15ca6e2c40e8add1f9161a605fc20c05036c462a9de437020454b173b3aab86b",
+   "byte": 21514
+  },
+  {
+   "path": "assets/mappa/1/22_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_0.webp",
+   "sha256": "b7ad6d01a806d9bc364c8850f8a6a8c7927220866d1fed91c016a55cf17e7835",
+   "byte": 8016
+  },
+  {
+   "path": "assets/mappa/1/22_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_1.webp",
+   "sha256": "139d9f2fdff1ebb2073be24a3db2c18ecd26bde5dfda82baba47522feef8fbdd",
+   "byte": 5404
+  },
+  {
+   "path": "assets/mappa/1/22_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_10.webp",
+   "sha256": "7f5e6c083a8d7775a241a999bb189044b4c06f4960928abe10cbf2843f1e4bcf",
+   "byte": 19022
+  },
+  {
+   "path": "assets/mappa/1/22_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_11.webp",
+   "sha256": "a583698824599a58cc1b2f0cf4adf757236206ea75a2ee669c886ce176753f7f",
+   "byte": 16772
+  },
+  {
+   "path": "assets/mappa/1/22_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_12.webp",
+   "sha256": "d48969b7271c56421326618e864b61fce56bd1e848ade414aa4067a9be0fb89b",
+   "byte": 6510
+  },
+  {
+   "path": "assets/mappa/1/22_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_13.webp",
+   "sha256": "b37f0e0e276f930485bdd7f93bd8cd7e0786f11aa81560f59520fa87247f764f",
+   "byte": 12362
+  },
+  {
+   "path": "assets/mappa/1/22_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_14.webp",
+   "sha256": "7ecd476c916dc717cf29c5460b7f7a1e0abccb999add9550367a4eeffaca3e94",
+   "byte": 18364
+  },
+  {
+   "path": "assets/mappa/1/22_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_15.webp",
+   "sha256": "c210b438b6a56f0bd28e786698cd57c93effd6cb35fc151739727e86a9e03962",
+   "byte": 17742
+  },
+  {
+   "path": "assets/mappa/1/22_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_16.webp",
+   "sha256": "0b9e8847166e8ffa5797aee259199d815194597e73110a9bd42a2576223fae12",
+   "byte": 15020
+  },
+  {
+   "path": "assets/mappa/1/22_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_17.webp",
+   "sha256": "d212e3d6c3760147e62607847bd3187e02c8485fa6cfcbdf3616f38d6cd6e1ce",
+   "byte": 13208
+  },
+  {
+   "path": "assets/mappa/1/22_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_18.webp",
+   "sha256": "1dc41f78f3015dd26169cb1b9842a1e12b695b4fb40efc036256f81a3285e06f",
+   "byte": 7354
+  },
+  {
+   "path": "assets/mappa/1/22_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_2.webp",
+   "sha256": "644c766e2b326dbe7468d05e40cc981b5831a5c7c916af3f817557c83bdc7aa7",
+   "byte": 12494
+  },
+  {
+   "path": "assets/mappa/1/22_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_3.webp",
+   "sha256": "b936505bdc565572662ba2bbaa5e856a3ebd8ed731119f07a452de0ec3a37979",
+   "byte": 14536
+  },
+  {
+   "path": "assets/mappa/1/22_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_4.webp",
+   "sha256": "9075745f2d537057c67aebe91f4f98250d596e748be733c760b7db2ff80440ff",
+   "byte": 15706
+  },
+  {
+   "path": "assets/mappa/1/22_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_5.webp",
+   "sha256": "d509997c6b6ca6e4677372e2d9714c5e0868e066c8997c882553b3abef4374da",
+   "byte": 8594
+  },
+  {
+   "path": "assets/mappa/1/22_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_6.webp",
+   "sha256": "54c4afbcc350d9edf28048da5a40ae8c3f7d2649f91fdb7a5a8b0ef74fc7231f",
+   "byte": 14078
+  },
+  {
+   "path": "assets/mappa/1/22_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_7.webp",
+   "sha256": "8ae38fba35a6183b06704a6e0f2923314ba319b3d2d527eab16e5ce4f57427c8",
+   "byte": 16244
+  },
+  {
+   "path": "assets/mappa/1/22_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_8.webp",
+   "sha256": "6d20339f49640593fcba7fc47b2401172860517faee18b3ef4824f4eaf1a09f5",
+   "byte": 11822
+  },
+  {
+   "path": "assets/mappa/1/22_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/22_9.webp",
+   "sha256": "358748c518293b5c9185e793f48a1911a8b808c04c7da87901576d78b7e11f15",
+   "byte": 7662
+  },
+  {
+   "path": "assets/mappa/1/23_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_0.webp",
+   "sha256": "11acd4b05e379aed4da4cc9f14898a531bf10ece43c940df338646fc4e26170a",
+   "byte": 2708
+  },
+  {
+   "path": "assets/mappa/1/23_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_1.webp",
+   "sha256": "9d144545cca5287adb9badbc42461c2fb4014899d0d2da535a8e13c4dcd94db5",
+   "byte": 3062
+  },
+  {
+   "path": "assets/mappa/1/23_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_10.webp",
+   "sha256": "1529198a4b0df2db114cfa364b87b283463f0b0b5cfe5d43d406c0b9d61401b5",
+   "byte": 6002
+  },
+  {
+   "path": "assets/mappa/1/23_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_11.webp",
+   "sha256": "d0ff75011e84bdc91ae5b90522402b4b1e3649d6606192946e5e2f5b9dc8f411",
+   "byte": 6590
+  },
+  {
+   "path": "assets/mappa/1/23_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_12.webp",
+   "sha256": "430132952c1c92a6d9f5169a5e68d380889e8f568c022c83a1471c455c44644b",
+   "byte": 1938
+  },
+  {
+   "path": "assets/mappa/1/23_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_13.webp",
+   "sha256": "00f218775af0bc5bedc20f0693c085cf528de0a6cf5273fa648fa0d40420ad00",
+   "byte": 5472
+  },
+  {
+   "path": "assets/mappa/1/23_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_14.webp",
+   "sha256": "65bddd244b85528a68fdfebfbeb2946a0ee2bf21cedb4a30ff4eb3a5bf905992",
+   "byte": 8352
+  },
+  {
+   "path": "assets/mappa/1/23_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_15.webp",
+   "sha256": "56898081950d915cd2b7e4b1e33e45f5c3a995f98a81bf8f4c140ff463206c2e",
+   "byte": 8120
+  },
+  {
+   "path": "assets/mappa/1/23_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_16.webp",
+   "sha256": "707c0ff5e9c2cfe886e7319a5e32b488ab54feac13d3479e922333ec620e84e8",
+   "byte": 5556
+  },
+  {
+   "path": "assets/mappa/1/23_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_17.webp",
+   "sha256": "429a761543780abb06d0f207b4cb984d0014901fc78a5fec81973ce3a6c41deb",
+   "byte": 5832
+  },
+  {
+   "path": "assets/mappa/1/23_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_18.webp",
+   "sha256": "87049d76d1168a6ce04b35f8a7baaa8fc3a537aa8fde17dabcd1f22805509b29",
+   "byte": 3364
+  },
+  {
+   "path": "assets/mappa/1/23_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_2.webp",
+   "sha256": "5cc5eddbd6d93779dc57cb58e50549c29735bfc6c54fe5343aa67bc5bf4e5d67",
+   "byte": 4824
+  },
+  {
+   "path": "assets/mappa/1/23_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_3.webp",
+   "sha256": "b0c7900243b0ec2d799aaec8355756f3afbe60733027f2e30e53ee1cfea0999c",
+   "byte": 7212
+  },
+  {
+   "path": "assets/mappa/1/23_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_4.webp",
+   "sha256": "5c0e37b90e098e89fa13f3da1a35c608a1478e50c1907b6866298069b7035583",
+   "byte": 5630
+  },
+  {
+   "path": "assets/mappa/1/23_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_5.webp",
+   "sha256": "dbad159709f5b20d636716038d337786844764b7d3b0d2d8ab3900d358a64525",
+   "byte": 7548
+  },
+  {
+   "path": "assets/mappa/1/23_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_6.webp",
+   "sha256": "4ba36d06e1237d59b64d23b374221c55488669b572921c17eee63f5623487475",
+   "byte": 9220
+  },
+  {
+   "path": "assets/mappa/1/23_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_7.webp",
+   "sha256": "a02f25e4000453a0838b90883b6fa8c4d1466221fdf0b627c99bb6cfb107f19e",
+   "byte": 7378
+  },
+  {
+   "path": "assets/mappa/1/23_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_8.webp",
+   "sha256": "ab9b72b0ce6273f06dae1ce0b9a80bed099b4174988cfc5d45cfa2ae2c89fc25",
+   "byte": 3598
+  },
+  {
+   "path": "assets/mappa/1/23_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/23_9.webp",
+   "sha256": "0981d8c139297e6976701ba1dd3c6511f9bd1562bb4d9ecfc5786538c5641e8e",
+   "byte": 2912
+  },
+  {
+   "path": "assets/mappa/1/2_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_0.webp",
+   "sha256": "a2c0d1033ebad84d479a9749d03abd47ceeaa1848a7472ffafcb21e02e32d585",
+   "byte": 17798
+  },
+  {
+   "path": "assets/mappa/1/2_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_1.webp",
+   "sha256": "fb16518475272fb5d6e580d409dd9ab523741c7f50aacfa5014b4134e6724bd4",
+   "byte": 15966
+  },
+  {
+   "path": "assets/mappa/1/2_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_10.webp",
+   "sha256": "b054bb702e2a584e102fdefb2b46d0af96b828984791879cf77177b579ba11c0",
+   "byte": 7022
+  },
+  {
+   "path": "assets/mappa/1/2_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_11.webp",
+   "sha256": "5583b3d8a2edf841ec96c3dc9ed84e59d23cea1b3540e8e54ef4d5b569508334",
+   "byte": 7370
+  },
+  {
+   "path": "assets/mappa/1/2_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_12.webp",
+   "sha256": "558104bac06c2842dff8dc54dc825d93117fcd49c6f8b5dc08235d8ed895187b",
+   "byte": 6032
+  },
+  {
+   "path": "assets/mappa/1/2_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_13.webp",
+   "sha256": "0386092312cc310f3497c90c82ce5153cd6d9209a6cda5147108b031bc66dc4d",
+   "byte": 6174
+  },
+  {
+   "path": "assets/mappa/1/2_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_14.webp",
+   "sha256": "04f6aa71d07520e7b4b87379d69d1b1cfafcf98e2ba6fe193fdb96a096845d91",
+   "byte": 4538
+  },
+  {
+   "path": "assets/mappa/1/2_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_15.webp",
+   "sha256": "15663a9e3e85620f363bf7e678663fab76dd58b2fdd9ae7428374a33cba3ee07",
+   "byte": 3808
+  },
+  {
+   "path": "assets/mappa/1/2_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_16.webp",
+   "sha256": "4e989e30925041566053a2a7b27cfb282c676141b7a4dad49a877cc83926ff2d",
+   "byte": 2576
+  },
+  {
+   "path": "assets/mappa/1/2_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_17.webp",
+   "sha256": "505c85bb659340e0cc9ad90e6cc99e1bb91086dce0a63d24ece27a3a13157b90",
+   "byte": 3964
+  },
+  {
+   "path": "assets/mappa/1/2_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_18.webp",
+   "sha256": "133cdb6249c45ddc1d0230e7b14068069ced2feb9ac512551680e07a8480f2d2",
+   "byte": 11334
+  },
+  {
+   "path": "assets/mappa/1/2_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_2.webp",
+   "sha256": "8118e7156e43d81255dd21296c48902511e528d320bb3087f66e2562e1f00aca",
+   "byte": 14718
+  },
+  {
+   "path": "assets/mappa/1/2_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_3.webp",
+   "sha256": "cd9d3d6f97737c501a71b9597690fd889b9ef025764cf2c3e9c7180d9a884651",
+   "byte": 17020
+  },
+  {
+   "path": "assets/mappa/1/2_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_4.webp",
+   "sha256": "1a6e67e7482738fe03ca1d48a5aaaf44240914fd4afd8008f3f34ccc1fd9dec1",
+   "byte": 7474
+  },
+  {
+   "path": "assets/mappa/1/2_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_5.webp",
+   "sha256": "3c3940145554585d6d7e0ced2d731132075ec17490dbf1500c821f891432c760",
+   "byte": 8352
+  },
+  {
+   "path": "assets/mappa/1/2_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_6.webp",
+   "sha256": "97e13a0e7faba4b137e2312add5f0b8d0eceda1b5c4db0c6e3982e7055c762f4",
+   "byte": 13056
+  },
+  {
+   "path": "assets/mappa/1/2_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_7.webp",
+   "sha256": "a79dbe1c1b7bfcfa93a9c4027114b59327441799a9f1da13b9e53418ee86c3b3",
+   "byte": 13680
+  },
+  {
+   "path": "assets/mappa/1/2_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_8.webp",
+   "sha256": "fef093db6951b32bef31185c434fc012fc345d9ef2360e2e928a171a04596d3f",
+   "byte": 11492
+  },
+  {
+   "path": "assets/mappa/1/2_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/2_9.webp",
+   "sha256": "5295ca510ee5a88408d4c2f10bffc3d1f65e7d16fef18006a8bf552577c8cc73",
+   "byte": 12618
+  },
+  {
+   "path": "assets/mappa/1/3_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_0.webp",
+   "sha256": "98de19fdfabf46aadb2acfeaa05f921cc7ff11dfa414564e42e4326e3247c857",
+   "byte": 17672
+  },
+  {
+   "path": "assets/mappa/1/3_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_1.webp",
+   "sha256": "c4e270aa5e6a04b05c77f1c3a50fe50df3d8116292923d97fa31314b0e311591",
+   "byte": 16324
+  },
+  {
+   "path": "assets/mappa/1/3_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_10.webp",
+   "sha256": "1dba5c92982c732c69eaacb1b904d932a5dc4a091cd9c0f3a786f44dad6bf009",
+   "byte": 6658
+  },
+  {
+   "path": "assets/mappa/1/3_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_11.webp",
+   "sha256": "8b714f9d4c778decd4cfffa9660dc7cd33acd37092722716962f7c48700c83fe",
+   "byte": 4642
+  },
+  {
+   "path": "assets/mappa/1/3_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_12.webp",
+   "sha256": "1ee764564aaa9934e53cb26289f68b801e1f9a7cb9c09ec6d9d4b6c2f513980f",
+   "byte": 6100
+  },
+  {
+   "path": "assets/mappa/1/3_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_13.webp",
+   "sha256": "d53b1f87fd5b6ca20c23c68a05b26cfebf03b8d2a6843d6acd8d1dd71a304273",
+   "byte": 5012
+  },
+  {
+   "path": "assets/mappa/1/3_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_14.webp",
+   "sha256": "ad342214a1fd7fd08261b367d9dc63191d1cc2e755155fd8483ab08f53599346",
+   "byte": 5284
+  },
+  {
+   "path": "assets/mappa/1/3_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_15.webp",
+   "sha256": "3af2b787b232caf0d48c034142fa2d9229d895bc88790819f8f5fde48a5a7272",
+   "byte": 7994
+  },
+  {
+   "path": "assets/mappa/1/3_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_16.webp",
+   "sha256": "071d19e06e8759e5148f83f6eb1e86e57116a784947176177ae526e9fb0b2883",
+   "byte": 4498
+  },
+  {
+   "path": "assets/mappa/1/3_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_17.webp",
+   "sha256": "0573b1548f88732da8c1618aed697b2e377a625e6ec0324724eadb99254ebe0e",
+   "byte": 6022
+  },
+  {
+   "path": "assets/mappa/1/3_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_18.webp",
+   "sha256": "244d83d9ab0b84b90223432e910cbc8e1148ddf0dcf3de508d9b25af6a009804",
+   "byte": 9424
+  },
+  {
+   "path": "assets/mappa/1/3_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_2.webp",
+   "sha256": "8dbc06e9d9a98cc581e393d79e05b0746892336136da3bd684ff4a7f9b5995f3",
+   "byte": 14890
+  },
+  {
+   "path": "assets/mappa/1/3_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_3.webp",
+   "sha256": "cb1aafa74de412374aa0515a254b418c42b9839e7770dd19bc100e51695c406c",
+   "byte": 15930
+  },
+  {
+   "path": "assets/mappa/1/3_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_4.webp",
+   "sha256": "eea268a1e324ced84485de745f8d27e645c17f28c2cb0a5f3959753f7051a2e9",
+   "byte": 14256
+  },
+  {
+   "path": "assets/mappa/1/3_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_5.webp",
+   "sha256": "23761327386704ac482f1f81b73656c937be7fdead5ba1a35b1882c4a464cca1",
+   "byte": 6500
+  },
+  {
+   "path": "assets/mappa/1/3_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_6.webp",
+   "sha256": "efb46b2ea374b63cf0cd2a64fcf0e428bdd88f5e6ebd3f4d51f49716fac5c50f",
+   "byte": 15412
+  },
+  {
+   "path": "assets/mappa/1/3_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_7.webp",
+   "sha256": "14e3cfb4a6a1166072fd31b35d8ae142a7c881edfdb863d0101e3064da77faf9",
+   "byte": 12418
+  },
+  {
+   "path": "assets/mappa/1/3_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_8.webp",
+   "sha256": "40af676d548d0d85fe6e76fc98549dec2ec77a0dc79034ed40354eefa2b9283c",
+   "byte": 15794
+  },
+  {
+   "path": "assets/mappa/1/3_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/3_9.webp",
+   "sha256": "5e6b72af5a32dd6c72902aac518316d90227a4c40448892ffbd8141f97ee4869",
+   "byte": 15992
+  },
+  {
+   "path": "assets/mappa/1/4_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_0.webp",
+   "sha256": "38687173d0db669b14fdcf10724444c702b1bc36be122eef46fe0d90e8fe86d7",
+   "byte": 13018
+  },
+  {
+   "path": "assets/mappa/1/4_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_1.webp",
+   "sha256": "0826199e14b7ce96e30053223d2c698b465864b784ef82ae3ad08dc29b5021dc",
+   "byte": 13582
+  },
+  {
+   "path": "assets/mappa/1/4_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_10.webp",
+   "sha256": "40c1b213e14b8e3d2111cad1ed15f6473476898b86a01692b69b8a7352592a92",
+   "byte": 14634
+  },
+  {
+   "path": "assets/mappa/1/4_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_11.webp",
+   "sha256": "1081c1b4cd908f8714c144218156bef7f1c2667336ca1fc30e8ae25770f4d1df",
+   "byte": 10124
+  },
+  {
+   "path": "assets/mappa/1/4_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_12.webp",
+   "sha256": "5bd32c101489b8d1d8cf1c4c30cda82e8732f291342e62dfb5707f1e5bf8ecd6",
+   "byte": 10664
+  },
+  {
+   "path": "assets/mappa/1/4_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_13.webp",
+   "sha256": "7969f4b56c4c169144f68528ed35c5029ba44b0deb1115aac2c394b788ee58bc",
+   "byte": 7020
+  },
+  {
+   "path": "assets/mappa/1/4_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_14.webp",
+   "sha256": "73b0dfbc4df6a57098954b89c0a20efd7616d315f3d4f04391374eb8ede7c435",
+   "byte": 9802
+  },
+  {
+   "path": "assets/mappa/1/4_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_15.webp",
+   "sha256": "f41ded3c147593ee2016115790a2277bc1d368537d60596499d9c929eb7490c3",
+   "byte": 6060
+  },
+  {
+   "path": "assets/mappa/1/4_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_16.webp",
+   "sha256": "73eefa59daa51e2847d257a5371a723d79a732204aa2d537615d51e12762d781",
+   "byte": 3370
+  },
+  {
+   "path": "assets/mappa/1/4_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_17.webp",
+   "sha256": "72060969baee96dc1feb4c478007852a0c2e09e255e998f7280fa52624b20fc5",
+   "byte": 7444
+  },
+  {
+   "path": "assets/mappa/1/4_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_18.webp",
+   "sha256": "37edb28836dc108c714aa0fc9ed0463dfa16403bd7789994e750582c40ac993f",
+   "byte": 7872
+  },
+  {
+   "path": "assets/mappa/1/4_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_2.webp",
+   "sha256": "82c5ad96c7258dfe4e6e04114811e84c45bf131feb98f4dc04a24a0053502f0d",
+   "byte": 15890
+  },
+  {
+   "path": "assets/mappa/1/4_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_3.webp",
+   "sha256": "c54120c223f5b66da331372aa239ac592eac2a73a25768139e5485bf3b635873",
+   "byte": 16092
+  },
+  {
+   "path": "assets/mappa/1/4_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_4.webp",
+   "sha256": "2c7976d90c2c9630783d2d1ed08622bc2f6cdc48d6f6567852c643a6beb6aa7e",
+   "byte": 15972
+  },
+  {
+   "path": "assets/mappa/1/4_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_5.webp",
+   "sha256": "aefcd6eb58514dfefb8be5ecbba6ecfa54534cbaef40b34a26147b834f39c278",
+   "byte": 14686
+  },
+  {
+   "path": "assets/mappa/1/4_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_6.webp",
+   "sha256": "94b613d9bfc8388e33964cddad2e9a6854289fa58bb0c38151daa524cd8adf7b",
+   "byte": 18014
+  },
+  {
+   "path": "assets/mappa/1/4_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_7.webp",
+   "sha256": "cb3d84e040141862ce62977b98fd26945e16e949ee176cd76a51230f9b30606a",
+   "byte": 12614
+  },
+  {
+   "path": "assets/mappa/1/4_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_8.webp",
+   "sha256": "e2a869ff086628f8c829c3f9dd11bf88e13fde455c1d7e8a8129255238e396ee",
+   "byte": 14668
+  },
+  {
+   "path": "assets/mappa/1/4_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/4_9.webp",
+   "sha256": "ffbaba0da98811c43cc8383771495dfb47d5f9b74b1e792ce9064fc54c30b8e3",
+   "byte": 14208
+  },
+  {
+   "path": "assets/mappa/1/5_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_0.webp",
+   "sha256": "e3cf56d65d224ceab2116bc2d417374ed3231b095731c2791d7ae0422858a0dc",
+   "byte": 10080
+  },
+  {
+   "path": "assets/mappa/1/5_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_1.webp",
+   "sha256": "78c698013dc728d8c1ac15e3a6aa28361b2c44be57734cea45ca91706ec5bc4e",
+   "byte": 12394
+  },
+  {
+   "path": "assets/mappa/1/5_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_10.webp",
+   "sha256": "11e52b19e4d88d8405e9f7f46f72d8d6386ead10525a064699f308aa2783d614",
+   "byte": 15154
+  },
+  {
+   "path": "assets/mappa/1/5_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_11.webp",
+   "sha256": "1797b7fb557f620003ca6f06a03f55b2c1ec636056bb95cfa42d4dcd1bda8bcf",
+   "byte": 17654
+  },
+  {
+   "path": "assets/mappa/1/5_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_12.webp",
+   "sha256": "3b62147127259bc589119f6b66978b89210cf0953856b574997626eec1ef316b",
+   "byte": 11854
+  },
+  {
+   "path": "assets/mappa/1/5_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_13.webp",
+   "sha256": "8650511c6d4b1144a7cdbdebfdb9f974304c943ffb7e707de448227c48675f25",
+   "byte": 13152
+  },
+  {
+   "path": "assets/mappa/1/5_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_14.webp",
+   "sha256": "233f3f0320b89c2632bd290e975926d9559d440934a37fa0dfef9acae4f3f9c4",
+   "byte": 14210
+  },
+  {
+   "path": "assets/mappa/1/5_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_15.webp",
+   "sha256": "8a1cda7a87a8957efe25be71992c2889c1b9815451438d883b2631da9a0c4fcf",
+   "byte": 12642
+  },
+  {
+   "path": "assets/mappa/1/5_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_16.webp",
+   "sha256": "50d4e645964f53878499ddc00d8eeec94d7735489a3587aefc7a61ba8a03113c",
+   "byte": 9900
+  },
+  {
+   "path": "assets/mappa/1/5_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_17.webp",
+   "sha256": "ffcdc5bf0a2e23365727b5af950402fdc61e48969c8d945293eb50783c045f43",
+   "byte": 3180
+  },
+  {
+   "path": "assets/mappa/1/5_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_18.webp",
+   "sha256": "9de98a31061669917a0dc8af0feb5fe3aa060b51430ca5db57a324edfa9ab528",
+   "byte": 8212
+  },
+  {
+   "path": "assets/mappa/1/5_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_2.webp",
+   "sha256": "8d49fbb4b863bc107ffb8ccd8a1bfa124e849c3d18b0c11bee204d54cdd9248e",
+   "byte": 16348
+  },
+  {
+   "path": "assets/mappa/1/5_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_3.webp",
+   "sha256": "40ee45186cbd64028bc506ae4fd7546f5f4fa41d34d7d1b776576f53ad52a814",
+   "byte": 20030
+  },
+  {
+   "path": "assets/mappa/1/5_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_4.webp",
+   "sha256": "e7307ceb9bd434958c0467647d06275249ac6e61c51b2838ad7e08ede3b09fa5",
+   "byte": 14106
+  },
+  {
+   "path": "assets/mappa/1/5_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_5.webp",
+   "sha256": "228fab109d4dee08221a08431621849035bf637c4cc1a9830b7fe4c7a70ab68a",
+   "byte": 14864
+  },
+  {
+   "path": "assets/mappa/1/5_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_6.webp",
+   "sha256": "45a99ea7e54da83896858a01061bb2ec8e45bf8c8c93ce553566e2eb4c218114",
+   "byte": 15204
+  },
+  {
+   "path": "assets/mappa/1/5_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_7.webp",
+   "sha256": "5f0a932e3f8a0fb208d04405dbeac310c7b1f3d587a76ccb2b2608d6313e05a2",
+   "byte": 17316
+  },
+  {
+   "path": "assets/mappa/1/5_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_8.webp",
+   "sha256": "2243920ccf3c1495f9b1291fe977a15dcdecbc07fbf23c8ca09b465aa311c482",
+   "byte": 9070
+  },
+  {
+   "path": "assets/mappa/1/5_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/5_9.webp",
+   "sha256": "08132a51d703086e841e35c477e97b48369ab5d95d33865ac99c2b0b731eda07",
+   "byte": 21328
+  },
+  {
+   "path": "assets/mappa/1/6_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_0.webp",
+   "sha256": "1b6ad855b75e0903c257d61ba4d5314b7a48a56a5ad0c9246c6d15ef845995d5",
+   "byte": 25212
+  },
+  {
+   "path": "assets/mappa/1/6_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_1.webp",
+   "sha256": "710cf128329c6976c4fc04caa59e0bc726ca73566c144d4276767096cef88380",
+   "byte": 16080
+  },
+  {
+   "path": "assets/mappa/1/6_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_10.webp",
+   "sha256": "5d5a21710d6ab329656fa017893fecdda7285edea018029ef4caea56812b52a3",
+   "byte": 19494
+  },
+  {
+   "path": "assets/mappa/1/6_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_11.webp",
+   "sha256": "a54fa1ff2e41c5f5e55cc8dcc61465eec5673295f2dae9b09cb9990d0853e586",
+   "byte": 13998
+  },
+  {
+   "path": "assets/mappa/1/6_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_12.webp",
+   "sha256": "7b6b507f850e84e53dedcb8b2702a55accb50191c54a9b13f53c06217d727d1b",
+   "byte": 12782
+  },
+  {
+   "path": "assets/mappa/1/6_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_13.webp",
+   "sha256": "e919ab9033b49a87a30e382b7db4087320b6e7a291abb336909b3a7c97f5b32b",
+   "byte": 14060
+  },
+  {
+   "path": "assets/mappa/1/6_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_14.webp",
+   "sha256": "7a628681453d37b192b8d35f98450db9fa9be4360bd499555f5fc93a1be4c51e",
+   "byte": 18286
+  },
+  {
+   "path": "assets/mappa/1/6_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_15.webp",
+   "sha256": "aa6e85f3cbf216b6621cd7b5fe327ac756ad8b92b8cae9497917485d2b0edd2c",
+   "byte": 13294
+  },
+  {
+   "path": "assets/mappa/1/6_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_16.webp",
+   "sha256": "1f1fc933cc5a50bc53bed3fe1a505787360045fe9245ab1a1a39d6cc0cea8136",
+   "byte": 10350
+  },
+  {
+   "path": "assets/mappa/1/6_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_17.webp",
+   "sha256": "036a7efc17288b800b25091e7a2f11177f48c71b86efcae4c746576db6c7009d",
+   "byte": 2768
+  },
+  {
+   "path": "assets/mappa/1/6_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_18.webp",
+   "sha256": "b54bdf7a11d58d813e6919becfa41b54a4bebe3006aa6ff68dfa04d36314234a",
+   "byte": 10572
+  },
+  {
+   "path": "assets/mappa/1/6_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_2.webp",
+   "sha256": "3cf6c4d58a17341b771a2e19ec0ece48e464898e442e6c2f528fbd428f684408",
+   "byte": 13450
+  },
+  {
+   "path": "assets/mappa/1/6_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_3.webp",
+   "sha256": "57f7e5dfdab4296c133a78d80f0275b6c5910b231403d67875fe24d4c877d132",
+   "byte": 15458
+  },
+  {
+   "path": "assets/mappa/1/6_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_4.webp",
+   "sha256": "eaa300bd36219eaa2e60cbba9b2b788959a4c328aa10499547c9f90b710673e2",
+   "byte": 15738
+  },
+  {
+   "path": "assets/mappa/1/6_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_5.webp",
+   "sha256": "1c12fc60c4c018c3ba2949f8032bc7c5c8f0a49684fddeb64aef112d7c139189",
+   "byte": 13024
+  },
+  {
+   "path": "assets/mappa/1/6_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_6.webp",
+   "sha256": "c9ce450268541eac1da4ecb9f7dc5815453e038a3e26017e945abdba11a04fe8",
+   "byte": 13588
+  },
+  {
+   "path": "assets/mappa/1/6_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_7.webp",
+   "sha256": "16f14a80e97b3e6ccaaf04536d11aa7764939ad1ce46ee1230166f812584194c",
+   "byte": 16454
+  },
+  {
+   "path": "assets/mappa/1/6_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_8.webp",
+   "sha256": "8f1b59a46a7499cc9b3d24cb2b7b87292744cbd8006186b1e87a0bce6d8818f6",
+   "byte": 13380
+  },
+  {
+   "path": "assets/mappa/1/6_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/6_9.webp",
+   "sha256": "084b6e392b58c6d85f0a501704ebd56ebdefa373a298dd280b9e538e541c2da7",
+   "byte": 17498
+  },
+  {
+   "path": "assets/mappa/1/7_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_0.webp",
+   "sha256": "a8457e306f12fe18090a2203245f3f66f8c07112b67d83da8d7098e18ec2d328",
+   "byte": 14344
+  },
+  {
+   "path": "assets/mappa/1/7_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_1.webp",
+   "sha256": "63a4bdaa5e682828069bf2cdeff92bc579e741610fb7efedf7c8c73c3ce68f51",
+   "byte": 19366
+  },
+  {
+   "path": "assets/mappa/1/7_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_10.webp",
+   "sha256": "176d44228a5e8416d23e11e6278267a8a2ccacc43eacbae711fbb8dc8653c3d1",
+   "byte": 16828
+  },
+  {
+   "path": "assets/mappa/1/7_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_11.webp",
+   "sha256": "751ef5c88b8dd8de0f38229220a386233ede61935c7079eb0c365bcdaca91609",
+   "byte": 15790
+  },
+  {
+   "path": "assets/mappa/1/7_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_12.webp",
+   "sha256": "012c471ca096fcacdf75f3148f87540dc295814c82eaf72231698c6058766d53",
+   "byte": 17474
+  },
+  {
+   "path": "assets/mappa/1/7_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_13.webp",
+   "sha256": "6a98bdf196e403bff03c89b7c2f05fa015b60a460b033a20fe44a49be4e6e4a5",
+   "byte": 16078
+  },
+  {
+   "path": "assets/mappa/1/7_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_14.webp",
+   "sha256": "c59523c314bcc602dc42858a6bcf1169f9d14591285926445d4da7b373220b41",
+   "byte": 13314
+  },
+  {
+   "path": "assets/mappa/1/7_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_15.webp",
+   "sha256": "007f7d43d3c5bda0a9c9e63d1198a4589cb4fcdbfcf8178859f8c91b2a70bd2f",
+   "byte": 9008
+  },
+  {
+   "path": "assets/mappa/1/7_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_16.webp",
+   "sha256": "7842eb1eaf67c10cb5ec41cb8f72e5860956aa276260e851aec7c5de42e657f8",
+   "byte": 10894
+  },
+  {
+   "path": "assets/mappa/1/7_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_17.webp",
+   "sha256": "db3069659eac8d2d71a527a69bd64d78a8919c7ed783da095ab4b14baabe0924",
+   "byte": 4842
+  },
+  {
+   "path": "assets/mappa/1/7_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_18.webp",
+   "sha256": "0f00765436284be525c77bc72a1edaf35bd72cbb7890d6983545e0c1ac304abb",
+   "byte": 13278
+  },
+  {
+   "path": "assets/mappa/1/7_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_2.webp",
+   "sha256": "03fe900a58df435c9eb09150eb9165af937b4d367e166e271fbbe42296923ed7",
+   "byte": 19508
+  },
+  {
+   "path": "assets/mappa/1/7_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_3.webp",
+   "sha256": "0b4bf84d73f21798ca3118d396a4a90961d7c9f73f9e6c3e76e82c8ef6de5ca2",
+   "byte": 30844
+  },
+  {
+   "path": "assets/mappa/1/7_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_4.webp",
+   "sha256": "baefa5edd835ce149c6b88ee8221200411ca17de95e81086f71d56bcb6f80942",
+   "byte": 34544
+  },
+  {
+   "path": "assets/mappa/1/7_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_5.webp",
+   "sha256": "cc15dcdd7b6bda26c71093d1859a92a418b74c8ab8d99d8428c914143985af75",
+   "byte": 40540
+  },
+  {
+   "path": "assets/mappa/1/7_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_6.webp",
+   "sha256": "8d0a9866d004cbe94b3ff3827d53b77aa8159314f553064ac4ae472d06dbb238",
+   "byte": 24088
+  },
+  {
+   "path": "assets/mappa/1/7_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_7.webp",
+   "sha256": "ebc360992d9f64792b2adc7ac96f489703d20c7bf6e56dd205795efcf23b3550",
+   "byte": 17406
+  },
+  {
+   "path": "assets/mappa/1/7_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_8.webp",
+   "sha256": "e7dba11bc7be7aeaeac04cd66a2ddd24eab325ddb898185c92ca294d7fbc82a4",
+   "byte": 15212
+  },
+  {
+   "path": "assets/mappa/1/7_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/7_9.webp",
+   "sha256": "94adea1b3c7a35838be08b2bfdf2c84f867e6a94480c05819fa3bceddc1cbacd",
+   "byte": 7424
+  },
+  {
+   "path": "assets/mappa/1/8_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_0.webp",
+   "sha256": "0b03d49fe52de8d36ee7fda26f254e973adb3b7545eb20a576908eabe3269480",
+   "byte": 19278
+  },
+  {
+   "path": "assets/mappa/1/8_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_1.webp",
+   "sha256": "0afa3408a6bdcbbb78d7027f008da328ae006680755835c35d896e68a3ecadc6",
+   "byte": 26296
+  },
+  {
+   "path": "assets/mappa/1/8_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_10.webp",
+   "sha256": "0f15dbb53981b0b064187e32850928c2b6adad2d39b03f452e2eec9eba02c854",
+   "byte": 12516
+  },
+  {
+   "path": "assets/mappa/1/8_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_11.webp",
+   "sha256": "47887bf70ff353a271ed4011aa0d23250b57492522ca728361c923d872ff95db",
+   "byte": 19032
+  },
+  {
+   "path": "assets/mappa/1/8_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_12.webp",
+   "sha256": "859336cb9fb2a17bb16829b09f9e13d095610541ce314cbb5aa91736f309fd08",
+   "byte": 15432
+  },
+  {
+   "path": "assets/mappa/1/8_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_13.webp",
+   "sha256": "5384bdc0b994afc70b6cb9f4d1d9869ba7269d9614ba163023b84ba8d5fe23ce",
+   "byte": 19366
+  },
+  {
+   "path": "assets/mappa/1/8_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_14.webp",
+   "sha256": "fd87cca7ad09f6aea0f7d60af319a042f02a7985344eac39a2c6a5cedbf02ed5",
+   "byte": 14892
+  },
+  {
+   "path": "assets/mappa/1/8_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_15.webp",
+   "sha256": "8e25de2991f2e647e61ca1b1acc46d277cdf74c6d575285e36b610db7410334c",
+   "byte": 11366
+  },
+  {
+   "path": "assets/mappa/1/8_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_16.webp",
+   "sha256": "268b92dc326e057a34e8e78afbaaf43d10b1822f8c6de46162cba53170e2bdc5",
+   "byte": 12978
+  },
+  {
+   "path": "assets/mappa/1/8_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_17.webp",
+   "sha256": "434ec42c7eb648e95fd51f70cd434378db114a16463aa38441cab5a531be2626",
+   "byte": 3930
+  },
+  {
+   "path": "assets/mappa/1/8_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_18.webp",
+   "sha256": "3670a79c0b2fb84d29eb16915213be338a225a8d9d8f985de563093944230676",
+   "byte": 2836
+  },
+  {
+   "path": "assets/mappa/1/8_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_2.webp",
+   "sha256": "6a777ceccc4dd33bb2e41cca96905edb9931d1ab9f325873e819c8d0eb91cb15",
+   "byte": 14144
+  },
+  {
+   "path": "assets/mappa/1/8_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_3.webp",
+   "sha256": "2077a3c10bdbf55d3f1cd8617fc15707edd0200f1eeb36aa25890f966ff7415e",
+   "byte": 14052
+  },
+  {
+   "path": "assets/mappa/1/8_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_4.webp",
+   "sha256": "fef9d5b5271d6164abb543153812e2a643f9df458f0e1b13729da6170864c725",
+   "byte": 13176
+  },
+  {
+   "path": "assets/mappa/1/8_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_5.webp",
+   "sha256": "39b137a22125e934fa9165b41603cb0c25ced8ae1b80c07fe45a2e2b3bb50162",
+   "byte": 19370
+  },
+  {
+   "path": "assets/mappa/1/8_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_6.webp",
+   "sha256": "53c110da9b68bebb108c695cc3c21f97fb0476c9b14e616fa3f5a3d5f028a52e",
+   "byte": 30602
+  },
+  {
+   "path": "assets/mappa/1/8_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_7.webp",
+   "sha256": "3fa725ae5bb2c88dc8841c4f24ad00a85a3b2e67b5b2f2906fa70fc55923e722",
+   "byte": 11054
+  },
+  {
+   "path": "assets/mappa/1/8_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_8.webp",
+   "sha256": "c5a27cad769c95270787af80b086dda0b5bb2636cbb4ecd80429f08523f24d84",
+   "byte": 18014
+  },
+  {
+   "path": "assets/mappa/1/8_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/8_9.webp",
+   "sha256": "6b87bfddda5a60ebc9f39f816de325afe10021065afc0582fda9e78e5c694542",
+   "byte": 19976
+  },
+  {
+   "path": "assets/mappa/1/9_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_0.webp",
+   "sha256": "bde641160d61e9c8d46b25ee3438e783856dca54cad6b9edb9311d9765a6f12e",
+   "byte": 19284
+  },
+  {
+   "path": "assets/mappa/1/9_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_1.webp",
+   "sha256": "3397464ad6e49386b0a6a5b17a44c5d7423269046216525025cd2b7cc7d66155",
+   "byte": 22208
+  },
+  {
+   "path": "assets/mappa/1/9_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_10.webp",
+   "sha256": "6867831ff222d87fa931b8c552c9c43f76fc6189243db4e11d8efafcbd60fed3",
+   "byte": 17048
+  },
+  {
+   "path": "assets/mappa/1/9_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_11.webp",
+   "sha256": "5a298f7816444ebd6e2fcd805a8d78c5ddb3ba298cff28137ef1ecb829f0e162",
+   "byte": 20502
+  },
+  {
+   "path": "assets/mappa/1/9_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_12.webp",
+   "sha256": "a3d0ca2e84717bc3bd8d904ba38ae53c7c4f8d4e1bb0e886095f4c4c69aeebd7",
+   "byte": 20636
+  },
+  {
+   "path": "assets/mappa/1/9_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_13.webp",
+   "sha256": "b330df628ccf0586490833b6a13bcd8dc6827b8978a23308811088355ca1e326",
+   "byte": 19508
+  },
+  {
+   "path": "assets/mappa/1/9_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_14.webp",
+   "sha256": "bd398b434a329cce195449c0ad60ea427f2c41383a96154fa20b5ae01179c8ac",
+   "byte": 7776
+  },
+  {
+   "path": "assets/mappa/1/9_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_15.webp",
+   "sha256": "7c83bd42333600503e4f41122c645dd2963aad20950cac045af07e7378c69116",
+   "byte": 3940
+  },
+  {
+   "path": "assets/mappa/1/9_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_16.webp",
+   "sha256": "24707f57176374f3376caa20330d2a268429c3e9968f97973fd6c525730961e6",
+   "byte": 9316
+  },
+  {
+   "path": "assets/mappa/1/9_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_17.webp",
+   "sha256": "c55b74cf2745a1600954c4f59a7e1a5125ff7db6a36cfa52767e76930a3a54c5",
+   "byte": 8294
+  },
+  {
+   "path": "assets/mappa/1/9_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_18.webp",
+   "sha256": "ad88a0935782b1c0fa2cf6c1d2436591095fa7ab70d9305b4f37f7a77339dcd0",
+   "byte": 4380
+  },
+  {
+   "path": "assets/mappa/1/9_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_2.webp",
+   "sha256": "eb493c249c45a6f60fbf2a81246a68144a5aa8f5741052a7edf7d3bc9a08a428",
+   "byte": 15786
+  },
+  {
+   "path": "assets/mappa/1/9_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_3.webp",
+   "sha256": "51918b21f044bb06ff60f3dee7910bb22cbc8c1ec497ed893627cc53639f6740",
+   "byte": 15174
+  },
+  {
+   "path": "assets/mappa/1/9_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_4.webp",
+   "sha256": "2e100b0cda42fa1f3d578d946e417c0718b8b3997fc4a50a638baaaa1517c3eb",
+   "byte": 16000
+  },
+  {
+   "path": "assets/mappa/1/9_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_5.webp",
+   "sha256": "0e390d491577d647acaef8397013c351ec53584255548012f71f7829669ba02e",
+   "byte": 17588
+  },
+  {
+   "path": "assets/mappa/1/9_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_6.webp",
+   "sha256": "02ab9bab71a62fb5acc76ed12afa8acfa59582f3a0acf2b9dcb467212288497c",
+   "byte": 16030
+  },
+  {
+   "path": "assets/mappa/1/9_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_7.webp",
+   "sha256": "7202399de72802dcf22ac494eb94b7bc4691a0c1e85de40784101f566b4a6272",
+   "byte": 16892
+  },
+  {
+   "path": "assets/mappa/1/9_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_8.webp",
+   "sha256": "4b04d011d02bd228146bc867084a0aafb36f64d24358a36f0bd4c47a68fdb88b",
+   "byte": 18784
+  },
+  {
+   "path": "assets/mappa/1/9_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/mappa/1/9_9.webp",
+   "sha256": "3680f4b367f1b33d67e2a59d6d698f479c734ef887634441e254eacbd8cf9afe",
+   "byte": 19580
+  },
+  {
+   "path": "dati/aguzza.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/aguzza.json",
+   "sha256": "299baa0df5501f51221f3fdf73ff5f224a67bd68b2f156f52d572fc5462afda1",
+   "byte": 129
+  },
+  {
+   "path": "dati/app.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/app.json",
+   "sha256": "9d2c6b9c084d7757144bd9a3560b35957a01fb3851e652d2f69ddf2dc5c3bb17",
+   "byte": 60
+  },
+  {
+   "path": "dati/autobus.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/autobus.json",
+   "sha256": "4f1448d34819a767c2c0d72191bfda7ee028b3fb3a96e7c0fb9c5667fd5daad1",
+   "byte": 131
+  },
+  {
+   "path": "dati/cibi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/cibi.json",
+   "sha256": "f476b7751cf157e8403ab6da29e6a31398e33fcdba8fbbf615964e2fd7674b5c",
+   "byte": 108
+  },
+  {
+   "path": "dati/citta.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/citta.json",
+   "sha256": "6304cd36bcad750a65a398786cf515524e5a636b4eda74f910e1f2bcd8fca46f",
+   "byte": 294
+  },
+  {
+   "path": "dati/curiosita.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/curiosita.json",
+   "sha256": "b04c71d72a950a2530ee9a8b6ba6183bb6b4051a10d37013276122a10119fcfd",
+   "byte": 113
+  },
+  {
+   "path": "dati/eventi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/eventi.json",
+   "sha256": "2a35f5c02ba3b5574eb5665f3853a366e91bcf526eee7bdee3003f02ecafa0d4",
+   "byte": 74
+  },
+  {
+   "path": "dati/immagini.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/immagini.json",
+   "sha256": "aa70f9ddcb8febc8f82d2db9b94647c32a46c06f3b985dee0a99a17396e03642",
+   "byte": 436
+  },
+  {
+   "path": "dati/itinerari.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/itinerari.json",
+   "sha256": "cbd05404c6f7b2413e2da77e12074ce90321e6f08345599d7f642c1326050d8a",
+   "byte": 113
+  },
+  {
+   "path": "dati/luoghi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/luoghi.json",
+   "sha256": "58762352d62d89f069818e45a114e2eaddfcfd5e021180c1a49432350958b3f8",
+   "byte": 92023
+  },
+  {
+   "path": "dati/mappa.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/mappa.json",
+   "sha256": "e8c83700f705912a663968a77dc0df4ccf2701a190924429aff9d2860679f002",
+   "byte": 975
+  },
+  {
+   "path": "dati/orari_autobus.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/orari_autobus.json",
+   "sha256": "4c23fdda8f735726f592c35cfc6cf40ae8a691e834128cf4f2a3f6e76519d978",
+   "byte": 131
+  },
+  {
+   "path": "dati/orari_vaporetti.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/orari_vaporetti.json",
+   "sha256": "6727d03fea38bb4209563abae2a27a791c4381376b5b4dbba4ab90ece52b05d5",
+   "byte": 127
+  },
+  {
+   "path": "dati/personaggi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/personaggi.json",
+   "sha256": "33f39925897febf41239c94e9ed468789e79dcbac27d939f1d0ca84b751ca306",
+   "byte": 114
+  },
+  {
+   "path": "dati/principali.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/principali.json",
+   "sha256": "af2f385ac0041438a514f84c8b26851f904a9f0eaf31796f1aab98162c330457",
+   "byte": 404
+  },
+  {
+   "path": "dati/rete.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/rete.json",
+   "sha256": "ac354059b67230af38ff49899e852ef9b4563583588f00ad98141d05e33c0f30",
+   "byte": 92
+  },
+  {
+   "path": "dati/servizi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/servizi.json",
+   "sha256": "a0a9a72ea8ee84efa0c046c27492fa05d1edeb3c0051804981d69f744fe95d46",
+   "byte": 57
+  },
+  {
+   "path": "dati/storia.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
+   "sha256": "1157a1f365ac9b5caad213110f4f47224110fc74763c1d9a004b32a9b55dc837",
+   "byte": 19
+  },
+  {
+   "path": "dati/tessere.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/tessere.json",
+   "sha256": "e3a3fd5bb2dccb44800722139d55b2ee7d409f09bc6d4ee5863561552b458c35",
+   "byte": 5207
+  },
+  {
+   "path": "dati/vaporetti.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/vaporetti.json",
+   "sha256": "367c49326d50cae2445d67c630a4ec3194d2bc9dd429750124a95a62ca3f6e44",
+   "byte": 103
+  }
+ ]
+}
