@@ -811,7 +811,34 @@
    },
    "wikipedia": {
     "en": "Pitti Palace"
-   }
+   },
+   "immagine": {
+    "autore": "Diego Delso",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://www.wikidata.org/wiki/Q28147777"
+   },
+   "galleria": [
+    {
+     "autore": "Diego Delso",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://www.wikidata.org/wiki/Q28147777"
+    },
+    {
+     "autore": "Diego Delso",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://www.wikidata.org/wiki/Q28147777"
+    },
+    {
+     "autore": "LivornoDP",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:LivornoDP"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    }
+   ]
   },
   {
    "id": "basilica-di-san-lorenzo",
