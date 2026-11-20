@@ -1,0 +1,16 @@
+{
+ "_nota": "Dati generali della città: nome nei testi e funzioni",
+ "id": "firenze",
+ "nome": "Firenze",
+ "marea": false,
+ "centro": {
+  "latitudine": 43.7696,
+  "longitudine": 11.2558,
+  "zoom": 3
+ },
+ "riferimento": {
+  "latitudine": 43.7696,
+  "longitudine": 11.2558
+ },
+ "partenze": {}
+}

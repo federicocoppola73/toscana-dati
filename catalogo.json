@@ -2,5 +2,46 @@
   "_nota": "Catalogo delle città della Toscana. Fonte: repo toscana-dati (l'app ne tiene una copia, aggiornata da 'npm run sync:catalogo' prima di ogni build). 'stato': disponibile (dati pronti), in_preparazione. 'anteprima': monumenti gratuiti (id dei luoghi). Una zona con più località (es. 'localita') e senza 'pacchetto' compare come Prossimamente.",
   "versione": 1,
   "gratuito": "Servizi pratici completi, 10 monumenti di anteprima, linee dei mezzi con orario teorico",
-  "citta": []
+  "citta": [
+    {
+      "id": "firenze",
+      "nome": "Firenze",
+      "provincia": "Firenze",
+      "motto": {
+        "it": "Rinascimento, arte e storia",
+        "en": "Renaissance, art and history",
+        "fr": "Renaissance, art et histoire",
+        "de": "Renaissance, Kunst und Geschichte",
+        "es": "Renacimiento, arte e historia"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "coordinate": {
+        "latitudine": 43.7696,
+        "longitudine": 11.2558
+      }
+    },
+    {
+      "id": "siena",
+      "nome": "Siena",
+      "provincia": "Siena",
+      "motto": {
+        "it": "Gotico, Palio e colline",
+        "en": "Gothic, Palio and hills",
+        "fr": "Gothique, Palio et collines",
+        "de": "Gotik, Palio und Hügel",
+        "es": "Gótico, Palio y colinas"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "coordinate": {
+        "latitudine": 43.3188,
+        "longitudine": 11.3308
+      }
+    }
+  ]
 }

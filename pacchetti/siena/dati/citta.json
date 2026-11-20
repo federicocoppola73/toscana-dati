@@ -1,0 +1,16 @@
+{
+ "_nota": "Dati generali della città: nome nei testi e funzioni",
+ "id": "siena",
+ "nome": "Siena",
+ "marea": false,
+ "centro": {
+  "latitudine": 43.3188,
+  "longitudine": 11.3308,
+  "zoom": 3
+ },
+ "riferimento": {
+  "latitudine": 43.3188,
+  "longitudine": 11.3308
+ },
+ "partenze": {}
+}
