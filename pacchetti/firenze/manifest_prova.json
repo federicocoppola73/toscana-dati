@@ -1,5 +1,5 @@
 {
- "versione": "418ac56d6ac1",
+ "versione": "dc8c643ffc60",
  "tipo": "prova",
  "file": [
   {
@@ -3137,8 +3137,8 @@
   {
    "path": "dati/rete.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/rete.json",
-   "sha256": "ac354059b67230af38ff49899e852ef9b4563583588f00ad98141d05e33c0f30",
-   "byte": 92
+   "sha256": "f236460c8d64137403a87aef8e0ba6576fe5852be85454b0f2d73ab2983a6b63",
+   "byte": 1599826
   },
   {
    "path": "dati/servizi.json",

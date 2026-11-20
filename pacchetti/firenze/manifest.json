@@ -1,5 +1,5 @@
 {
- "versione": "90ea70238e58",
+ "versione": "97228679f40c",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3190,8 +3190,8 @@
   {
    "path": "dati/rete.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/rete.json",
-   "sha256": "59cfc8c31da7a20cda770691cdde9b2b0893b0bc9c70c3c9f80316167d90dd58",
-   "byte": 93
+   "sha256": "5b136886b2c2f7ce4ba6d3a0bcdbb9229c1c89d028ffe83fbbd988c53167c2b5",
+   "byte": 961377
   },
   {
    "path": "dati/servizi.json",
@@ -3239,6 +3239,13 @@
    "data": "2026-11-20",
    "mezzi": true,
    "byte": 167342
+  },
+  {
+   "versione": "97228679f40c",
+   "da": "90ea70238e58",
+   "data": "2026-11-20",
+   "mappa": true,
+   "byte": 961377
   }
  ]
 }
