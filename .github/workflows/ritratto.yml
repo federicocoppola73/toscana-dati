@@ -1,0 +1,100 @@
+# Ritratto personaggio – scarica da Wikimedia Commons una foto, la salva in pacchetti/<città>/assets/personaggi/<id>.webp
+# e scrive autore e licenza nel personaggio. Si lancia a mano: GitHub → Actions → "Ritratto personaggio" → Run workflow.
+name: Ritratto personaggio
+
+on:
+  workflow_dispatch:
+    inputs:
+      citta:
+        description: 'Città (es. firenze)'
+        required: true
+      id:
+        description: 'Id del personaggio (es. san-zanobi)'
+        required: true
+      titolo:
+        description: 'Titolo del file su Commons (es. File:Nome del file.jpg)'
+        required: true
+      autore:
+        description: 'Autore da mostrare'
+        required: true
+      licenza:
+        description: 'Licenza da mostrare (es. Pubblico dominio)'
+        required: true
+        default: 'Pubblico dominio'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ritratto
+  cancel-in-progress: false
+
+jobs:
+  ritratto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scarica il ritratto
+        env:
+          CITTA: ${{ inputs.citta }}
+          PID: ${{ inputs.id }}
+          TITOLO: ${{ inputs.titolo }}
+          AUTORE: ${{ inputs.autore }}
+          LICENZA: ${{ inputs.licenza }}
+        run: |
+          pip install -q requests pillow
+          python3 - <<'PY'
+          import io, json, os, time, requests
+          from PIL import Image
+          H = {'User-Agent': 'ToscanaAppBot/1.0 (https://github.com/federicocoppola73/toscana-dati) python-requests'}
+          def get(url, **kw):
+              for t in range(8):
+                  r = requests.get(url, headers=H, timeout=60, **kw)
+                  if r.status_code not in (429, 503):
+                      r.raise_for_status()
+                      return r
+                  attesa = int(r.headers.get('Retry-After', 0)) or 15 * (t + 1)
+                  print('Wikimedia chiede di rallentare, aspetto', attesa, 's', flush=True)
+                  time.sleep(attesa)
+              r.raise_for_status()
+          r = get('https://commons.wikimedia.org/w/api.php', params={
+              'action': 'query', 'format': 'json', 'prop': 'imageinfo', 'titles': os.environ['TITOLO'], 'iiprop': 'url|mime'})
+          info = list(r.json()['query']['pages'].values())[0]['imageinfo'][0]
+          print('file:', info['url'])
+          img = Image.open(io.BytesIO(get(info['url']).content)).convert('RGB')
+          print('dimensioni originali', img.size)
+          img.thumbnail((800, 800))
+          cartella = f"pacchetti/{os.environ['CITTA']}/assets/personaggi"
+          os.makedirs(cartella, exist_ok=True)
+          img.save(f"{cartella}/{os.environ['PID']}.webp", 'WEBP', quality=85)
+          percorso = f"pacchetti/{os.environ['CITTA']}/dati/personaggi.json"
+          dati = json.load(open(percorso, encoding='utf-8'))
+          trovato = False
+          for p in dati['personaggi']:
+              if p['id'] == os.environ['PID']:
+                  p['ritratto'] = {'autore': os.environ['AUTORE'], 'licenza': os.environ['LICENZA']}
+                  trovato = True
+          if not trovato:
+              raise SystemExit('personaggio non trovato: ' + os.environ['PID'])
+          json.dump(dati, open(percorso, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+          PY
+          python3 strumenti/prepara_pacchetto.py "pacchetti/$CITTA"
+      - name: Pubblica
+        env:
+          CITTA: ${{ inputs.citta }}
+          PID: ${{ inputs.id }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A pacchetti "catalogo.json"
+          if git diff --cached --quiet; then echo "Niente di nuovo"; exit 0; fi
+          git commit -q -m "Ritratto $PID ($CITTA): da Wikimedia Commons"
+          for i in 1 2 3 4; do
+            git pull -q --rebase && git push -q && exit 0
+            echo "Tentativo $i non riuscito, riprovo tra 20 secondi"; sleep 20
+          done
+          exit 1

@@ -1,3 +1,284 @@
 {
- "personaggi": []
+ "personaggi": [
+  {
+   "id": "san-zanobi",
+   "nome": "San Zanobi",
+   "ordine": 359,
+   "professione": {
+    "it": "Vescovo di Firenze",
+    "en": "Bishop of Florence",
+    "fr": "Évêque de Florence",
+    "de": "Bischof von Florenz",
+    "es": "Obispo de Florencia"
+   },
+   "luogoNascita": {
+    "it": "Firenze (secondo la tradizione)",
+    "en": "Florence (according to tradition)",
+    "fr": "Florence (selon la tradition)",
+    "de": "Florenz (der Überlieferung nach)",
+    "es": "Florencia (según la tradición)"
+   },
+   "dataNascita": {
+    "it": "IV secolo (data incerta)",
+    "en": "4th century (date uncertain)",
+    "fr": "IVe siècle (date incertaine)",
+    "de": "4. Jahrhundert (Datum unsicher)",
+    "es": "Siglo IV (fecha incierta)"
+   },
+   "luogoMorte": {
+    "it": "Firenze (secondo la tradizione)",
+    "en": "Florence (according to tradition)",
+    "fr": "Florence (selon la tradition)",
+    "de": "Florenz (der Überlieferung nach)",
+    "es": "Florencia (según la tradición)"
+   },
+   "dataMorte": {
+    "it": "Fine IV – inizio V secolo (data incerta)",
+    "en": "Late 4th – early 5th century (date uncertain)",
+    "fr": "Fin du IVe – début du Ve siècle (date incertaine)",
+    "de": "Ende 4. – Anfang 5. Jahrhundert (Datum unsicher)",
+    "es": "Finales del siglo IV – principios del V (fecha incierta)"
+   },
+   "biografia": {
+    "it": "San Zanobi è una delle figure religiose più importanti nella storia delle origini cristiane di Firenze. Venerato come vescovo della città, è considerato uno dei principali artefici della diffusione del cristianesimo nel territorio fiorentino e uno dei suoi santi protettori.\n\nLe notizie sulla sua vita sono in parte tramandate da fonti agiografiche, cioè racconti religiosi dedicati alla vita dei santi. Per questo motivo alcuni episodi della sua biografia, così come le date precise della nascita e della morte, non possono essere considerati storicamente accertati.\n\nLa sua memoria rimase profondamente legata alla città. Il culto si sviluppò soprattutto intorno alle sue reliquie, che secondo la tradizione furono conservate inizialmente nella basilica di San Lorenzo e successivamente trasferite nella cattedrale di Santa Reparata. La tradizione data il trasferimento al 429; le fonti storiche più sicure indicano invece il IX secolo.\n\nSan Zanobi divenne così una figura centrale della devozione fiorentina, tanto da essere ricordato ancora oggi come copatrono della città.",
+    "en": "Saint Zenobius, known in Florence as San Zanobi, is one of the most important religious figures in the story of Florence's Christian origins. Venerated as the city's bishop, he is regarded as one of the main architects of the spread of Christianity in the Florentine territory and as one of its patron saints.\n\nSome of what is known about his life comes from hagiographic sources, that is, religious accounts devoted to the lives of saints. For this reason some episodes of his biography, like the exact dates of his birth and death, cannot be considered historically established.\n\nHis memory remained deeply tied to the city. The cult developed above all around his relics, which according to tradition were first kept in the basilica of San Lorenzo and later moved to the cathedral of Santa Reparata. Tradition dates the move to 429; the most reliable historical sources point instead to the ninth century.\n\nSaint Zenobius thus became a central figure of Florentine devotion, so much so that he is still remembered today as a co-patron of the city.",
+    "fr": "Saint Zénobe, appelé à Florence San Zanobi, est l'une des figures religieuses les plus importantes de l'histoire des origines chrétiennes de la ville. Vénéré comme évêque de Florence, il est considéré comme l'un des principaux artisans de la diffusion du christianisme dans le territoire florentin et comme l'un de ses saints protecteurs.\n\nLes informations sur sa vie sont en partie transmises par des sources hagiographiques, c'est-à-dire des récits religieux consacrés à la vie des saints. C'est pourquoi certains épisodes de sa biographie, comme les dates précises de sa naissance et de sa mort, ne peuvent être tenus pour historiquement établis.\n\nSa mémoire resta profondément liée à la ville. Le culte se développa surtout autour de ses reliques, qui, selon la tradition, furent d'abord conservées dans la basilique de San Lorenzo, puis transférées dans la cathédrale de Santa Reparata. La tradition situe ce transfert en 429 ; les sources historiques les plus sûres indiquent plutôt le IXe siècle.\n\nSaint Zénobe devint ainsi une figure centrale de la dévotion florentine, au point d'être encore aujourd'hui rappelé comme co-patron de la ville.",
+    "de": "Der heilige Zenobius, in Florenz San Zanobi genannt, ist eine der wichtigsten religiösen Gestalten in der Geschichte der christlichen Anfänge von Florenz. Als Bischof der Stadt verehrt, gilt er als einer der wichtigsten Wegbereiter der Verbreitung des Christentums im florentinischen Gebiet und als einer ihrer Schutzheiligen.\n\nDie Nachrichten über sein Leben sind teilweise durch hagiografische Quellen überliefert, also religiöse Erzählungen über das Leben von Heiligen. Deshalb können einige Episoden seiner Biografie sowie die genauen Daten von Geburt und Tod nicht als historisch gesichert gelten.\n\nSein Andenken blieb eng mit der Stadt verbunden. Der Kult entwickelte sich vor allem um seine Reliquien, die der Überlieferung nach zunächst in der Basilika San Lorenzo aufbewahrt und später in die Kathedrale Santa Reparata überführt wurden. Die Überlieferung datiert die Überführung auf das Jahr 429; die zuverlässigeren historischen Quellen nennen dagegen das 9. Jahrhundert.\n\nSo wurde der heilige Zenobius zu einer zentralen Gestalt der florentinischen Frömmigkeit, sodass man sich noch heute an ihn als Mitpatron der Stadt erinnert.",
+    "es": "San Zenobio, en Florencia llamado San Zanobi, es una de las figuras religiosas más importantes en la historia de los orígenes cristianos de la ciudad. Venerado como obispo de Florencia, se le considera uno de los principales artífices de la difusión del cristianismo en el territorio florentino y uno de sus santos protectores.\n\nLas noticias sobre su vida se transmiten en parte por fuentes hagiográficas, es decir, relatos religiosos dedicados a la vida de los santos. Por este motivo, algunos episodios de su biografía, así como las fechas exactas de su nacimiento y muerte, no pueden considerarse históricamente comprobados.\n\nSu memoria quedó profundamente ligada a la ciudad. El culto se desarrolló sobre todo en torno a sus reliquias, que según la tradición se conservaron al principio en la basílica de San Lorenzo y después se trasladaron a la catedral de Santa Reparata. La tradición fecha el traslado en 429; las fuentes históricas más fiables indican, en cambio, el siglo IX.\n\nSan Zenobio se convirtió así en una figura central de la devoción florentina, hasta el punto de ser recordado todavía hoy como copatrono de la ciudad."
+   },
+   "curiosita": {
+    "it": [
+     "La festa di San Zanobi: il 26 gennaio Firenze celebra la traslazione delle sue reliquie, avvenuta secondo la tradizione nel 429 (le fonti storiche più sicure indicano il IX secolo).",
+     "L'olmo rifiorito: una leggenda racconta che, durante il passaggio delle sue spoglie in piazza San Giovanni, un olmo ormai secco sarebbe miracolosamente rifiorito. In ricordo dell'episodio fu eretta la Colonna di San Zanobi.",
+     "Come viene raffigurato: nell'iconografia religiosa è spesso rappresentato con gli abiti vescovili e con un ramo d'olmo fiorito; talvolta porta anche il giglio, simbolo della città di Firenze.",
+     "Una leggenda a due santi: secondo un'altra leggenda, Zanobi invocò Santa Reparata, che sarebbe accorsa in aiuto di Firenze assediata da Radagaiso. Per questo i due santi compaiono insieme in opere del Duomo, come una vetrata di Agnolo Gaddi (1394-1395)."
+    ],
+    "en": [
+     "The feast of Saint Zenobius: on 26 January Florence celebrates the translation of his relics, which according to tradition took place in 429 (the most reliable historical sources point to the ninth century).",
+     "The elm that flowered again: a legend tells that, as his remains passed through Piazza San Giovanni, a dried-up elm miraculously burst into bloom. The Column of San Zanobi was raised in memory of the episode.",
+     "How he is portrayed: in religious iconography he is often shown in bishop's robes with a flowering elm branch; sometimes he also bears the lily, the symbol of Florence.",
+     "A legend of two saints: according to another legend, Zenobius called on Saint Reparata, who came to the aid of Florence besieged by Radagaisus. For this reason the two saints appear together in works in the Duomo, such as a stained-glass window by Agnolo Gaddi (1394-1395)."
+    ],
+    "fr": [
+     "La fête de saint Zénobe : le 26 janvier, Florence célèbre la translation de ses reliques, qui eut lieu, selon la tradition, en 429 (les sources historiques les plus sûres indiquent le IXe siècle).",
+     "L'orme refleuri : une légende raconte que, lors du passage de sa dépouille sur la Piazza San Giovanni, un orme desséché refleurit miraculeusement. En souvenir de l'épisode fut érigée la Colonne de San Zanobi.",
+     "Comment on le représente : dans l'iconographie religieuse, il est souvent figuré en habits épiscopaux avec une branche d'orme fleurie ; il porte parfois aussi le lys, symbole de Florence.",
+     "Une légende à deux saints : selon une autre légende, Zénobe invoqua sainte Réparate, qui accourut au secours de Florence assiégée par Radagaise. C'est pourquoi les deux saints apparaissent ensemble dans des œuvres du Duomo, comme un vitrail d'Agnolo Gaddi (1394-1395)."
+    ],
+    "de": [
+     "Das Fest des heiligen Zenobius: Am 26. Januar feiert Florenz die Überführung seiner Reliquien, die der Überlieferung nach 429 stattfand (die zuverlässigeren historischen Quellen nennen das 9. Jahrhundert).",
+     "Die wieder erblühte Ulme: Eine Legende erzählt, dass beim Vorüberziehen seiner sterblichen Überreste auf der Piazza San Giovanni eine vertrocknete Ulme auf wundersame Weise wieder erblühte. Zur Erinnerung daran wurde die Säule des San Zanobi errichtet.",
+     "Wie er dargestellt wird: In der religiösen Ikonografie erscheint er oft in bischöflichem Gewand mit einem blühenden Ulmenzweig; manchmal trägt er auch die Lilie, das Symbol von Florenz.",
+     "Eine Legende mit zwei Heiligen: Einer anderen Legende zufolge rief Zenobius die heilige Reparata an, die dem von Radagaisus belagerten Florenz zu Hilfe eilte. Deshalb erscheinen die beiden Heiligen gemeinsam in Werken des Doms, etwa in einem Glasfenster von Agnolo Gaddi (1394-1395)."
+    ],
+    "es": [
+     "La fiesta de San Zenobio: el 26 de enero Florencia celebra el traslado de sus reliquias, que según la tradición tuvo lugar en 429 (las fuentes históricas más fiables indican el siglo IX).",
+     "El olmo que volvió a florecer: una leyenda cuenta que, al pasar sus restos por la Piazza San Giovanni, un olmo seco floreció milagrosamente. En recuerdo del episodio se erigió la Columna de San Zanobi.",
+     "Cómo se le representa: en la iconografía religiosa se le suele representar con hábitos episcopales y una rama de olmo florecida; a veces lleva también el lirio, símbolo de Florencia.",
+     "Una leyenda de dos santos: según otra leyenda, Zenobio invocó a Santa Reparata, que acudió en ayuda de Florencia asediada por Radagaiso. Por eso los dos santos aparecen juntos en obras del Duomo, como una vidriera de Agnolo Gaddi (1394-1395)."
+    ]
+   },
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore",
+    "basilica-di-san-lorenzo",
+    "battistero-di-san-giovanni"
+   ],
+   "luoghiNote": {
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "Legame diretto – culto",
+      "en": "Direct link – cult",
+      "fr": "Lien direct – culte",
+      "de": "Direkter Bezug – Kult",
+      "es": "Vínculo directo – culto"
+     },
+     "testo": {
+      "it": "Le reliquie di San Zanobi furono custodite nell'antica cattedrale di Santa Reparata, sul cui sito sorge oggi Santa Maria del Fiore. Il santo è ricordato anche nella decorazione del Duomo, ad esempio nella vetrata di Agnolo Gaddi con i santi Zanobi e Reparata.",
+      "en": "The relics of San Zanobi were kept in the old cathedral of Santa Reparata, on whose site Santa Maria del Fiore now stands. The saint is also remembered in the decoration of the Duomo, for example in Agnolo Gaddi's stained-glass window with Saints Zenobius and Reparata.",
+      "fr": "Les reliques de saint Zénobe furent conservées dans l'ancienne cathédrale de Santa Reparata, sur le site de laquelle s'élève aujourd'hui Santa Maria del Fiore. Le saint est aussi rappelé dans la décoration du Duomo, par exemple dans le vitrail d'Agnolo Gaddi avec les saints Zénobe et Réparate.",
+      "de": "Die Reliquien des San Zanobi wurden in der alten Kathedrale Santa Reparata aufbewahrt, an deren Stelle heute Santa Maria del Fiore steht. Der Heilige wird auch in der Ausstattung des Doms erwähnt, zum Beispiel im Glasfenster von Agnolo Gaddi mit den Heiligen Zenobius und Reparata.",
+      "es": "Las reliquias de San Zanobi se conservaron en la antigua catedral de Santa Reparata, en cuyo solar se alza hoy Santa Maria del Fiore. El santo se recuerda también en la decoración del Duomo, por ejemplo en la vidriera de Agnolo Gaddi con los santos Zenobio y Reparata."
+     }
+    },
+    "basilica-di-san-lorenzo": {
+     "tipo": {
+      "it": "Legame storico",
+      "en": "Historical link",
+      "fr": "Lien historique",
+      "de": "Historischer Bezug",
+      "es": "Vínculo histórico"
+     },
+     "testo": {
+      "it": "Secondo la tradizione, le reliquie del santo furono custodite inizialmente in questa basilica, dove sarebbe stato sepolto, prima del trasferimento a Santa Reparata.",
+      "en": "According to tradition, the saint's relics were first kept in this basilica, where he was buried, before being moved to Santa Reparata.",
+      "fr": "Selon la tradition, les reliques du saint furent d'abord conservées dans cette basilique, où il aurait été enterré, avant leur transfert à Santa Reparata.",
+      "de": "Der Überlieferung nach wurden die Reliquien des Heiligen zunächst in dieser Basilika aufbewahrt, wo er bestattet worden sein soll, bevor sie nach Santa Reparata überführt wurden.",
+      "es": "Según la tradición, las reliquias del santo se conservaron al principio en esta basílica, donde habría sido sepultado, antes de su traslado a Santa Reparata."
+     }
+    },
+    "battistero-di-san-giovanni": {
+     "tipo": {
+      "it": "Contesto urbano",
+      "en": "Urban setting",
+      "fr": "Cadre urbain",
+      "de": "Städtebaulicher Zusammenhang",
+      "es": "Contexto urbano"
+     },
+     "testo": {
+      "it": "Nella vicina Piazza San Giovanni sorge la Colonna di San Zanobi, che ricorda il miracolo dell'olmo rifiorito.",
+      "en": "In the nearby Piazza San Giovanni stands the Column of San Zanobi, which recalls the miracle of the elm that flowered again.",
+      "fr": "Sur la Piazza San Giovanni voisine s'élève la Colonne de San Zanobi, qui rappelle le miracle de l'orme refleuri.",
+      "de": "Auf der nahen Piazza San Giovanni steht die Säule des San Zanobi, die an das Wunder der wieder erblühten Ulme erinnert.",
+      "es": "En la cercana Piazza San Giovanni se alza la Columna de San Zanobi, que recuerda el milagro del olmo que volvió a florecer."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "flavio-stilicone",
+     "testo": {
+      "it": "La tradizione lega Zanobi alla vittoria su Radagaiso: secondo una leggenda, invocata da lui, Santa Reparata sarebbe accorsa in aiuto di Firenze assediata. A guidare le truppe romane che sconfissero gli invasori fu Stilicone.",
+      "en": "Tradition links Zenobius to the victory over Radagaisus: according to a legend, Saint Reparata, invoked by him, came to the aid of besieged Florence. The Roman troops that defeated the invaders were led by Stilicho.",
+      "fr": "La tradition lie Zénobe à la victoire sur Radagaise : selon une légende, sainte Réparate, invoquée par lui, serait accourue au secours de Florence assiégée. Les troupes romaines qui vainquirent les envahisseurs étaient conduites par Stilicon.",
+      "de": "Die Überlieferung verbindet Zenobius mit dem Sieg über Radagaisus: Einer Legende nach eilte die von ihm angerufene heilige Reparata dem belagerten Florenz zu Hilfe. Die römischen Truppen, die die Eindringlinge besiegten, führte Stilicho an.",
+      "es": "La tradición vincula a Zenobio con la victoria sobre Radagaiso: según una leyenda, Santa Reparata, invocada por él, acudió en ayuda de Florencia asediada. Las tropas romanas que derrotaron a los invasores estaban al mando de Estilicón."
+     }
+    }
+   ]
+  },
+  {
+   "id": "flavio-stilicone",
+   "nome": "Flavio Stilicone",
+   "nascita": 360,
+   "morte": 408,
+   "professione": {
+    "it": "Generale e uomo politico romano",
+    "en": "Roman general and statesman",
+    "fr": "Général et homme politique romain",
+    "de": "Römischer Feldherr und Politiker",
+    "es": "General y político romano"
+   },
+   "luogoNascita": {
+    "it": "Luogo non documentato",
+    "en": "Place not documented",
+    "fr": "Lieu non documenté",
+    "de": "Ort nicht belegt",
+    "es": "Lugar no documentado"
+   },
+   "dataNascita": {
+    "it": "Circa 360 d.C.",
+    "en": "Around AD 360",
+    "fr": "Vers 360 apr. J.-C.",
+    "de": "Um 360 n. Chr.",
+    "es": "Hacia el 360 d. C."
+   },
+   "luogoMorte": {
+    "it": "Ravenna",
+    "en": "Ravenna",
+    "fr": "Ravenne",
+    "de": "Ravenna",
+    "es": "Rávena"
+   },
+   "dataMorte": {
+    "it": "22 agosto 408 d.C.",
+    "en": "22 August AD 408",
+    "fr": "22 août 408 apr. J.-C.",
+    "de": "22. August 408 n. Chr.",
+    "es": "22 de agosto del 408 d. C."
+   },
+   "biografia": {
+    "it": "Flavio Stilicone fu uno dei più importanti generali dell'Impero romano d'Occidente durante il regno dell'imperatore Onorio. Di padre vandalo e madre probabilmente romana, riuscì a raggiungere le più alte cariche militari e politiche dell'Impero, diventando una delle figure più influenti della corte imperiale.\n\nDopo la morte dell'imperatore Teodosio nel 395, Stilicone assunse un ruolo fondamentale nella difesa dell'Impero d'Occidente e nella tutela del giovane Onorio. In un periodo caratterizzato da profonde difficoltà politiche e militari, dovette affrontare le incursioni di diverse popolazioni germaniche.\n\nIl suo nome è legato anche alla storia di Firenze. Tra il 405 e il 406 Radagaiso, alla guida di un esercito composto da diverse popolazioni barbariche, invase l'Italia e pose sotto assedio la città. Stilicone intervenne con le forze romane e, con l'aiuto di truppe ausiliarie unne e gote, riuscì a sconfiggere gli invasori nell'area di Fiesole, in una battaglia datata di solito al 406, liberando Firenze dalla minaccia.\n\nNonostante i successi militari, la sua posizione a corte divenne progressivamente più fragile. Accusato di ambiguità politica e di complotti contro la famiglia imperiale, fu arrestato e giustiziato a Ravenna nel 408.",
+    "en": "Flavius Stilicho was one of the most important generals of the Western Roman Empire during the reign of the emperor Honorius. Born to a Vandal father and a mother who was probably Roman, he rose to the highest military and political offices of the Empire, becoming one of the most influential figures at the imperial court.\n\nAfter the death of the emperor Theodosius in 395, Stilicho took on a fundamental role in the defence of the Western Empire and in the guardianship of the young Honorius. In a period of deep political and military difficulty, he had to face the incursions of several Germanic peoples.\n\nHis name is also tied to the history of Florence. Between 405 and 406 Radagaisus, leading an army made up of various barbarian peoples, invaded Italy and laid siege to the city. Stilicho intervened with the Roman forces and, helped by Hunnic and Gothic auxiliary troops, managed to defeat the invaders in the area of Fiesole, in a battle usually dated to 406, freeing Florence from the threat.\n\nDespite his military successes, his position at court grew steadily weaker. Accused of political ambiguity and of plots against the imperial family, he was arrested and executed at Ravenna in 408.",
+    "fr": "Flavius Stilicon fut l'un des plus importants généraux de l'Empire romain d'Occident sous le règne de l'empereur Honorius. D'un père vandale et d'une mère probablement romaine, il parvint aux plus hautes charges militaires et politiques de l'Empire, devenant l'une des figures les plus influentes de la cour impériale.\n\nAprès la mort de l'empereur Théodose en 395, Stilicon assuma un rôle fondamental dans la défense de l'Empire d'Occident et dans la tutelle du jeune Honorius. À une époque marquée par de profondes difficultés politiques et militaires, il dut affronter les incursions de plusieurs peuples germaniques.\n\nSon nom est aussi lié à l'histoire de Florence. Entre 405 et 406, Radagaise, à la tête d'une armée composée de diverses populations barbares, envahit l'Italie et assiégea la ville. Stilicon intervint avec les forces romaines et, avec l'aide de troupes auxiliaires huns et goths, parvint à vaincre les envahisseurs dans la région de Fiesole, lors d'une bataille datée généralement de 406, délivrant Florence de la menace.\n\nMalgré ses succès militaires, sa position à la cour devint progressivement plus fragile. Accusé d'ambiguïté politique et de complots contre la famille impériale, il fut arrêté et exécuté à Ravenne en 408.",
+    "de": "Flavius Stilicho war einer der bedeutendsten Feldherren des Weströmischen Reichs unter der Herrschaft des Kaisers Honorius. Als Sohn eines vandalischen Vaters und einer wohl römischen Mutter erreichte er die höchsten militärischen und politischen Ämter des Reiches und wurde zu einer der einflussreichsten Gestalten am kaiserlichen Hof.\n\nNach dem Tod des Kaisers Theodosius im Jahr 395 übernahm Stilicho eine zentrale Rolle bei der Verteidigung des Westreichs und bei der Vormundschaft über den jungen Honorius. In einer Zeit tiefer politischer und militärischer Schwierigkeiten musste er sich den Einfällen verschiedener germanischer Völker stellen.\n\nSein Name ist auch mit der Geschichte von Florenz verbunden. Zwischen 405 und 406 fiel Radagaisus an der Spitze eines Heeres aus verschiedenen barbarischen Völkern in Italien ein und belagerte die Stadt. Stilicho griff mit den römischen Truppen ein und besiegte die Eindringlinge mit Hilfe hunnischer und gotischer Hilfstruppen im Gebiet von Fiesole, in einer meist auf 406 datierten Schlacht, und befreite Florenz von der Bedrohung.\n\nTrotz seiner militärischen Erfolge wurde seine Stellung am Hof zunehmend brüchiger. Der politischen Zweideutigkeit und der Verschwörung gegen die Kaiserfamilie beschuldigt, wurde er 408 in Ravenna verhaftet und hingerichtet.",
+    "es": "Flavio Estilicón fue uno de los generales más importantes del Imperio romano de Occidente durante el reinado del emperador Honorio. De padre vándalo y madre probablemente romana, llegó a los más altos cargos militares y políticos del Imperio y se convirtió en una de las figuras más influyentes de la corte imperial.\n\nTras la muerte del emperador Teodosio en 395, Estilicón asumió un papel fundamental en la defensa del Imperio de Occidente y en la tutela del joven Honorio. En un período marcado por profundas dificultades políticas y militares, tuvo que hacer frente a las incursiones de varios pueblos germánicos.\n\nSu nombre está ligado también a la historia de Florencia. Entre 405 y 406 Radagaiso, al frente de un ejército compuesto por diversos pueblos bárbaros, invadió Italia y sitió la ciudad. Estilicón intervino con las fuerzas romanas y, con la ayuda de tropas auxiliares hunas y godas, logró derrotar a los invasores en la zona de Fiesole, en una batalla fechada por lo general en 406, liberando a Florencia de la amenaza.\n\nA pesar de sus éxitos militares, su posición en la corte se fue debilitando. Acusado de ambigüedad política y de conspirar contra la familia imperial, fue arrestado y ejecutado en Rávena en 408."
+   },
+   "curiosita": {
+    "it": [
+     "Origini vandale: Stilicone aveva origini vandale, ma raggiunse i vertici dell'apparato militare romano. La sua carriera testimonia quanto l'esercito imperiale fosse ormai composto anche da uomini provenienti da popolazioni esterne all'Impero.",
+     "Radagaiso a Palazzo Vecchio: Giorgio Vasari dipinse la «Sconfitta di Radagasio sotto Fiesole» tra il 1563 e il 1565. L'opera si trova a Palazzo Vecchio.",
+     "Una fine senza battaglia: la sua morte non avvenne in battaglia, ma fu conseguenza delle lotte politiche interne all'Impero.",
+     "Una vittoria e una santa: secondo una leggenda, la vittoria su Radagaiso sarebbe legata a Santa Reparata, a cui fu dedicata la chiesa che precedette l'attuale Duomo. Gli storici però considerano questa tradizione poco solida."
+    ],
+    "en": [
+     "Vandal origins: Stilicho was of Vandal descent yet reached the top of the Roman military apparatus. His career shows how far the imperial army was by then also made up of men from peoples outside the Empire.",
+     "Radagaisus in Palazzo Vecchio: Giorgio Vasari painted the Defeat of Radagaisus below Fiesole between 1563 and 1565. The work is in Palazzo Vecchio.",
+     "An end without battle: he did not die in battle; he was a victim of the Empire's internal political struggles.",
+     "A victory and a saint: according to a legend, the victory over Radagaisus is linked to Saint Reparata, to whom the church that preceded the present Duomo was dedicated. Historians, however, consider this tradition weakly founded."
+    ],
+    "fr": [
+     "Origines vandales : Stilicon était d'origine vandale, mais atteignit les sommets de l'appareil militaire romain. Sa carrière montre à quel point l'armée impériale était désormais composée aussi d'hommes issus de peuples extérieurs à l'Empire.",
+     "Radagaise à Palazzo Vecchio : Giorgio Vasari peignit la « Défaite de Radagaise sous Fiesole » entre 1563 et 1565. L'œuvre se trouve à Palazzo Vecchio.",
+     "Une fin sans bataille : il ne mourut pas au combat, mais fut victime des luttes politiques internes à l'Empire.",
+     "Une victoire et une sainte : selon une légende, la victoire sur Radagaise serait liée à sainte Réparate, à qui fut dédiée l'église qui précéda l'actuel Duomo. Les historiens jugent toutefois cette tradition peu solide."
+    ],
+    "de": [
+     "Vandalische Herkunft: Stilicho stammte aus vandalischer Familie, erreichte aber die Spitze des römischen Militärapparats. Seine Laufbahn zeigt, wie sehr das kaiserliche Heer inzwischen auch aus Männern von Völkern außerhalb des Reiches bestand.",
+     "Radagaisus im Palazzo Vecchio: Giorgio Vasari malte zwischen 1563 und 1565 die „Niederlage des Radagaisus bei Fiesole“. Das Werk befindet sich im Palazzo Vecchio.",
+     "Ein Ende ohne Schlacht: Er starb nicht im Kampf, sondern wurde Opfer der inneren politischen Auseinandersetzungen des Reiches.",
+     "Ein Sieg und eine Heilige: Einer Legende zufolge hängt der Sieg über Radagaisus mit der heiligen Reparata zusammen, der die Kirche geweiht wurde, die dem heutigen Dom voranging. Historiker halten diese Überlieferung allerdings für wenig gesichert."
+    ],
+    "es": [
+     "Orígenes vándalos: Estilicón era de origen vándalo, pero llegó a la cúspide del aparato militar romano. Su carrera demuestra hasta qué punto el ejército imperial estaba ya formado también por hombres de pueblos ajenos al Imperio.",
+     "Radagaiso en Palazzo Vecchio: Giorgio Vasari pintó la «Derrota de Radagaiso bajo Fiesole» entre 1563 y 1565. La obra se encuentra en Palazzo Vecchio.",
+     "Un final sin batalla: no murió en combate, sino que fue víctima de las luchas políticas internas del Imperio.",
+     "Una victoria y una santa: según una leyenda, la victoria sobre Radagaiso está ligada a Santa Reparata, a quien se dedicó la iglesia que precedió al actual Duomo. Los historiadores, sin embargo, consideran poco sólida esta tradición."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio",
+    "cattedrale-di-santa-maria-del-fiore"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "Opera conservata",
+      "en": "Work preserved here",
+      "fr": "Œuvre conservée",
+      "de": "Hier aufbewahrtes Werk",
+      "es": "Obra conservada"
+     },
+     "testo": {
+      "it": "Vi è conservato il dipinto di Giorgio Vasari «Sconfitta di Radagasio sotto Fiesole» (1563-1565), che raffigura la vittoria romana guidata da Stilicone.",
+      "en": "It houses Giorgio Vasari's painting Defeat of Radagaisus below Fiesole (1563-1565), which shows the Roman victory led by Stilicho.",
+      "fr": "Il abrite le tableau de Giorgio Vasari « Défaite de Radagaise sous Fiesole » (1563-1565), qui représente la victoire romaine conduite par Stilicon.",
+      "de": "Hier befindet sich Giorgio Vasaris Gemälde „Niederlage des Radagaisus bei Fiesole“ (1563-1565), das den von Stilicho angeführten römischen Sieg zeigt.",
+      "es": "Alberga el cuadro de Giorgio Vasari «Derrota de Radagaiso bajo Fiesole» (1563-1565), que representa la victoria romana dirigida por Estilicón."
+     }
+    },
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "Legame leggendario",
+      "en": "Legendary link",
+      "fr": "Lien légendaire",
+      "de": "Legendärer Bezug",
+      "es": "Vínculo legendario"
+     },
+     "testo": {
+      "it": "Secondo la leggenda, la vittoria sul re Radagaiso sarebbe legata a Santa Reparata, la chiesa che precedette l'attuale cattedrale. Gli storici però considerano questa tradizione poco solida.",
+      "en": "According to legend, the victory over King Radagaisus is linked to Santa Reparata, the church that preceded the present cathedral. Historians, however, consider this tradition weakly founded.",
+      "fr": "Selon la légende, la victoire sur le roi Radagaise serait liée à Santa Reparata, l'église qui précéda l'actuelle cathédrale. Les historiens jugent toutefois cette tradition peu solide.",
+      "de": "Der Legende nach hängt der Sieg über König Radagaisus mit Santa Reparata zusammen, der Kirche, die dem heutigen Dom voranging. Historiker halten diese Überlieferung allerdings für wenig gesichert.",
+      "es": "Según la leyenda, la victoria sobre el rey Radagaiso está ligada a Santa Reparata, la iglesia que precedió a la catedral actual. Los historiadores, sin embargo, consideran poco sólida esta tradición."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "san-zanobi",
+     "testo": {
+      "it": "Una leggenda collega la vittoria su Radagaiso a San Zanobi: invocata dal vescovo, Santa Reparata sarebbe accorsa in aiuto di Firenze assediata. È una tradizione devozionale, non un fatto storico accertato.",
+      "en": "A legend links the victory over Radagaisus to San Zanobi: invoked by the bishop, Saint Reparata came to the aid of besieged Florence. It is a devotional tradition, not an established historical fact.",
+      "fr": "Une légende relie la victoire sur Radagaise à San Zanobi : invoquée par l'évêque, sainte Réparate serait accourue au secours de Florence assiégée. C'est une tradition dévotionnelle, non un fait historique établi.",
+      "de": "Eine Legende verbindet den Sieg über Radagaisus mit San Zanobi: Von dem Bischof angerufen, eilte die heilige Reparata dem belagerten Florenz zu Hilfe. Es ist eine fromme Überlieferung, keine gesicherte historische Tatsache.",
+      "es": "Una leyenda vincula la victoria sobre Radagaiso con San Zanobi: invocada por el obispo, Santa Reparata acudió en ayuda de Florencia asediada. Es una tradición devocional, no un hecho histórico comprobado."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Anonimo, dittico eburneo di Stilicone (Monza); foto Marsyas",
+    "licenza": "Pubblico dominio"
+   }
+  }
+ ]
 }

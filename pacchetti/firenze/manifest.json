@@ -1,5 +1,5 @@
 {
- "versione": "8011472196fb",
+ "versione": "6278dff69397",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3098,6 +3098,12 @@
    "byte": 0
   },
   {
+   "path": "assets/personaggi/flavio-stilicone.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/flavio-stilicone.webp",
+   "sha256": "eb072863ddad074763e623e4a79b04963d9e57d42c087ac9da5182a8dcf4b42b",
+   "byte": 26970
+  },
+  {
    "path": "dati/aguzza.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/aguzza.json",
    "sha256": "b41f979eae34d942d318e43f45b62376b7d1630af61f0e76b5af4c1c1da6fb5d",
@@ -3178,8 +3184,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "eaa4a16774319c6e3b2c7c3bd9e3f8ebfb982cf9dd584983a07d572ade096650",
-   "byte": 22
+   "sha256": "13791efb4f36581a66a4ea15832128f5a5ef42bad2b611ad86471040579d98af",
+   "byte": 32431
   },
   {
    "path": "dati/principali.json",
@@ -3202,8 +3208,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "44ac139b36ce09ed05335dccb2f9a20fa42b283987f49f65015a7bf6c7e7d9e1",
-   "byte": 26152
+   "sha256": "8d6a7b85674a1d7b966cbe5f0fe9f4224e4b5f197e9e3185986333cd4a43d506",
+   "byte": 26218
   },
   {
    "path": "dati/tessere.json",
@@ -3305,6 +3311,12 @@
    "da": "21fa9ef5a949",
    "data": "2026-11-23",
    "byte": 26152
+  },
+  {
+   "versione": "6278dff69397",
+   "da": "8011472196fb",
+   "data": "2026-11-23",
+   "byte": 85619
   }
  ]
 }
