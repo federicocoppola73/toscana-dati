@@ -52,6 +52,38 @@
     "palazzo-vecchio",
     "basilica-di-san-lorenzo"
    ]
+  },
+  {
+   "id": "02",
+   "titolo": {
+    "it": "Firenze nell'Alto Medioevo",
+    "en": "Florence in the Early Middle Ages",
+    "fr": "Florence au haut Moyen Âge",
+    "de": "Florenz im Frühmittelalter",
+    "es": "Florencia en la Alta Edad Media"
+   },
+   "anni": {
+    "it": "VI–XII secolo",
+    "en": "6th–12th century",
+    "fr": "VIe–XIIe siècle",
+    "de": "6.–12. Jahrhundert",
+    "es": "siglos VI–XII"
+   },
+   "testo": {
+    "it": "Dopo la caduta dell'Impero romano, Firenze attraversò secoli di trasformazioni. Fu coinvolta nelle guerre tra Goti e Bizantini, passò sotto il dominio longobardo e poi nell'orbita franca. La città recuperò progressivamente importanza grazie al ruolo religioso, alla posizione lungo l'Arno e alla ripresa degli scambi. Tra l'XI secolo e l'inizio del successivo si prepararono le condizioni per la nascita del Comune.",
+    "en": "After the fall of the Roman Empire, Florence went through centuries of transformation. It was caught up in the wars between Goths and Byzantines, came under Lombard rule and then within the Frankish sphere. The city gradually regained importance thanks to its religious role, its position along the Arno and the revival of trade. Between the eleventh century and the beginning of the next, the conditions were prepared for the birth of the Commune.",
+    "fr": "Après la chute de l'Empire romain, Florence traversa des siècles de transformations. Elle fut impliquée dans les guerres entre Goths et Byzantins, passa sous la domination lombarde puis dans l'orbite franque. La ville retrouva progressivement de l'importance grâce à son rôle religieux, à sa position le long de l'Arno et à la reprise des échanges. Entre le XIe siècle et le début du suivant, les conditions de la naissance de la Commune se mirent en place.",
+    "de": "Nach dem Untergang des Römischen Reiches durchlebte Florenz Jahrhunderte des Wandels. Es wurde in die Kriege zwischen Goten und Byzantinern hineingezogen, geriet unter langobardische Herrschaft und dann in den fränkischen Einflussbereich. Die Stadt gewann allmählich wieder an Bedeutung, dank ihrer religiösen Rolle, ihrer Lage am Arno und des wiederbelebten Handels. Zwischen dem 11. Jahrhundert und dem Beginn des folgenden entstanden die Voraussetzungen für die Entstehung der Kommune.",
+    "es": "Tras la caída del Imperio romano, Florencia atravesó siglos de transformaciones. Se vio envuelta en las guerras entre godos y bizantinos, pasó bajo el dominio lombardo y después a la órbita franca. La ciudad recuperó progresivamente importancia gracias a su papel religioso, a su posición a orillas del Arno y a la reanudación de los intercambios. Entre el siglo XI y el comienzo del siguiente se prepararon las condiciones para el nacimiento del Comune."
+   },
+   "audio": "storia-02",
+   "luoghi": [
+    "battistero-di-san-giovanni",
+    "basilica-di-san-lorenzo"
+   ],
+   "approfondire": [
+    "cattedrale-di-santa-maria-del-fiore"
+   ]
   }
  ]
 }
