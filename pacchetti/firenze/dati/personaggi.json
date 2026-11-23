@@ -558,6 +558,16 @@
       "de": "Der Überlieferung nach war Giotto sein Schüler. Die vor allem von Vasari überlieferte Geschichte steht sinnbildlich für den Übergang von der mittelalterlichen Malerei byzantinischer Tradition zu den neuen Wegen des 14. Jahrhunderts.",
       "es": "Según la tradición, Giotto fue su discípulo. El relato, transmitido sobre todo por Vasari, representa simbólicamente el paso de la pintura medieval de tradición bizantina a las nuevas búsquedas del siglo XIV."
      }
+    },
+    {
+     "id": "dante-alighieri",
+     "testo": {
+      "it": "Lo cita nel Purgatorio (canto XI), riconoscendone la fama ma ricordando come la gloria artistica sia destinata a essere superata dalle generazioni successive.",
+      "en": "He cites him in the Purgatorio (canto XI), acknowledging his fame while recalling that artistic glory is destined to be surpassed by later generations.",
+      "fr": "Il le cite dans le Purgatoire (chant XI), reconnaissant sa renommée tout en rappelant que la gloire artistique est destinée à être dépassée par les générations suivantes.",
+      "de": "Er erwähnt ihn im Purgatorio (11. Gesang), erkennt seinen Ruhm an und erinnert zugleich daran, dass künstlerischer Ruhm von späteren Generationen übertroffen wird.",
+      "es": "Lo cita en el Purgatorio (canto XI), reconociendo su fama pero recordando que la gloria artística está destinada a ser superada por las generaciones siguientes."
+     }
     }
    ],
    "ritratto": {
@@ -709,11 +719,337 @@
       "de": "Der Überlieferung nach war er Cimabues Schüler. Die vor allem von Vasari überlieferte Geschichte dient dazu, die Erneuerung der mittelalterlichen Malerei zu erzählen.",
       "es": "Según la tradición fue discípulo de Cimabue. El relato, transmitido sobre todo por Vasari, sirve para narrar la renovación de la pintura medieval."
      }
+    },
+    {
+     "id": "arnolfo-di-cambio",
+     "testo": {
+      "it": "Furono contemporanei e protagonisti dei grandi cantieri artistici fiorentini. Non è però dimostrata una collaborazione diretta tra loro.",
+      "en": "They were contemporaries and protagonists of Florence's great artistic building projects. A direct collaboration between them, however, is not demonstrated.",
+      "fr": "Ils furent contemporains et protagonistes des grands chantiers artistiques florentins. Une collaboration directe entre eux n'est cependant pas démontrée.",
+      "de": "Sie waren Zeitgenossen und Protagonisten der großen florentinischen Kunstbaustellen. Eine direkte Zusammenarbeit zwischen ihnen ist jedoch nicht belegt.",
+      "es": "Fueron contemporáneos y protagonistas de las grandes obras artísticas florentinas. No está demostrada, sin embargo, una colaboración directa entre ellos."
+     }
+    },
+    {
+     "id": "dante-alighieri",
+     "testo": {
+      "it": "Lo cita nel Purgatorio (canto XI) come esempio di artista che ha superato la fama del proprio maestro.",
+      "en": "He cites him in the Purgatorio (canto XI) as an example of an artist who surpassed the fame of his own master.",
+      "fr": "Il le cite dans le Purgatoire (chant XI) comme exemple d'artiste ayant surpassé la renommée de son maître.",
+      "de": "Er erwähnt ihn im Purgatorio (11. Gesang) als Beispiel für einen Künstler, der den Ruhm seines Meisters übertroffen hat.",
+      "es": "Lo cita en el Purgatorio (canto XI) como ejemplo de artista que superó la fama de su maestro."
+     }
     }
    ],
    "ritratto": {
     "autore": "Attribuito a Paolo Uccello, Louvre",
     "licenza": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "arnolfo-di-cambio",
+   "nome": "Arnolfo di Cambio",
+   "nascita": 1245,
+   "morte": 1310,
+   "professione": {
+    "it": "Scultore e architetto",
+    "en": "Sculptor and architect",
+    "fr": "Sculpteur et architecte",
+    "de": "Bildhauer und Architekt",
+    "es": "Escultor y arquitecto"
+   },
+   "luogoNascita": {
+    "it": "Colle di Val d'Elsa",
+    "en": "Colle di Val d'Elsa",
+    "fr": "Colle di Val d'Elsa",
+    "de": "Colle di Val d'Elsa",
+    "es": "Colle di Val d'Elsa"
+   },
+   "dataNascita": {
+    "it": "Circa 1240–1245",
+    "en": "Around 1240–1245",
+    "fr": "Vers 1240–1245",
+    "de": "Um 1240–1245",
+    "es": "Hacia 1240–1245"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "Probabilmente tra il 1302 e il 1310 (anno non noto)",
+    "en": "Probably between 1302 and 1310 (exact year unknown)",
+    "fr": "Probablement entre 1302 et 1310 (année inconnue)",
+    "de": "Wahrscheinlich zwischen 1302 und 1310 (genaues Jahr unbekannt)",
+    "es": "Probablemente entre 1302 y 1310 (año desconocido)"
+   },
+   "biografia": {
+    "it": "Arnolfo di Cambio fu uno dei più importanti scultori e architetti del Medioevo italiano. Si formò nell'ambiente artistico di Nicola Pisano, dal quale apprese una concezione della scultura attenta alla monumentalità e al recupero dei modelli classici.\n\nLa sua attività si sviluppò tra Roma, Perugia e Firenze. A Firenze fu protagonista di una stagione di grandi trasformazioni artistiche e urbanistiche.\n\nNel 1296 iniziò il cantiere della nuova cattedrale di Santa Maria del Fiore, secondo un progetto tradizionalmente attribuito a lui, e ne fu capomastro fino alla morte. A lui viene inoltre ricondotto il progetto del Palazzo dei Priori, l'attuale Palazzo Vecchio, iniziato intorno al 1299.\n\nLa sua opera contribuì a definire l'immagine monumentale della Firenze comunale, una città che voleva rappresentare attraverso i propri edifici la forza delle istituzioni e la ricchezza della comunità.",
+    "en": "Arnolfo di Cambio was one of the most important sculptors and architects of the Italian Middle Ages. He trained in the artistic circle of Nicola Pisano, from whom he learned a conception of sculpture attentive to monumentality and to the revival of classical models.\n\nHis career unfolded between Rome, Perugia and Florence. In Florence he was a leading figure in a season of great artistic and urban transformation.\n\nIn 1296 work began on the new cathedral of Santa Maria del Fiore, to a design traditionally attributed to him, and he was its capomastro, or master builder, until his death. He is also credited with the design of the Palazzo dei Priori, today's Palazzo Vecchio, begun around 1299.\n\nHis work helped define the monumental image of communal Florence, a city that wished to express through its buildings the strength of its institutions and the wealth of its community.",
+    "fr": "Arnolfo di Cambio fut l'un des plus importants sculpteurs et architectes du Moyen Âge italien. Il se forma dans le milieu artistique de Nicola Pisano, dont il retint une conception de la sculpture attentive à la monumentalité et à la redécouverte des modèles classiques.\n\nSon activité se déploya entre Rome, Pérouse et Florence. À Florence, il fut l'un des acteurs d'une période de grandes transformations artistiques et urbaines.\n\nEn 1296 commença le chantier de la nouvelle cathédrale Santa Maria del Fiore, selon un projet traditionnellement attribué à lui, et il en fut le capomastro, c'est-à-dire le maître d'œuvre, jusqu'à sa mort. On lui attribue aussi le projet du Palazzo dei Priori, l'actuel Palazzo Vecchio, commencé vers 1299.\n\nSon œuvre contribua à définir l'image monumentale de la Florence communale, une ville qui voulait exprimer par ses édifices la force de ses institutions et la richesse de sa communauté.",
+    "de": "Arnolfo di Cambio war einer der bedeutendsten Bildhauer und Architekten des italienischen Mittelalters. Er bildete sich im künstlerischen Umfeld des Nicola Pisano aus, von dem er eine Auffassung der Bildhauerei übernahm, die auf Monumentalität und die Wiederentdeckung klassischer Vorbilder achtete.\n\nSeine Tätigkeit entfaltete sich zwischen Rom, Perugia und Florenz. In Florenz war er Protagonist einer Zeit großer künstlerischer und städtebaulicher Umwälzungen.\n\n1296 begann die Baustelle des neuen Doms Santa Maria del Fiore nach einem Entwurf, der traditionell ihm zugeschrieben wird; er war bis zu seinem Tod ihr Capomastro, also Baumeister. Ihm wird außerdem der Entwurf des Palazzo dei Priori, des heutigen Palazzo Vecchio, zugeschrieben, dessen Bau um 1299 begann.\n\nSein Werk trug dazu bei, das monumentale Bild des kommunalen Florenz zu prägen, einer Stadt, die durch ihre Bauten die Stärke ihrer Institutionen und den Reichtum ihrer Gemeinschaft zeigen wollte.",
+    "es": "Arnolfo di Cambio fue uno de los escultores y arquitectos más importantes de la Edad Media italiana. Se formó en el ambiente artístico de Nicola Pisano, de quien aprendió una concepción de la escultura atenta a la monumentalidad y a la recuperación de los modelos clásicos.\n\nSu actividad se desarrolló entre Roma, Perugia y Florencia. En Florencia fue protagonista de una etapa de grandes transformaciones artísticas y urbanas.\n\nEn 1296 comenzó la obra de la nueva catedral de Santa Maria del Fiore, según un proyecto que tradicionalmente se le atribuye, y fue su capomastro, es decir, maestro de obras, hasta su muerte. También se le atribuye el proyecto del Palazzo dei Priori, el actual Palazzo Vecchio, iniciado hacia 1299.\n\nSu obra contribuyó a definir la imagen monumental de la Florencia comunal, una ciudad que quería expresar a través de sus edificios la fuerza de sus instituciones y la riqueza de su comunidad."
+   },
+   "curiosita": {
+    "it": [
+     "Due simboli di Firenze: il suo nome è legato a due degli edifici più riconoscibili della città, il Duomo e Palazzo Vecchio.",
+     "Un Duomo molto diverso: il progetto originario della cattedrale era molto diverso dall'edificio che vediamo oggi, frutto di numerose modifiche e ampliamenti successivi.",
+     "Scultore e architetto: la sua attività comprendeva sia la scultura sia l'architettura, due discipline che nel Medioevo erano spesso strettamente collegate.",
+     "Attribuzioni incerte: non tutte le opere tradizionalmente attribuitegli sono documentate con certezza."
+    ],
+    "en": [
+     "Two symbols of Florence: his name is linked to two of the city's most recognisable buildings, the Duomo and Palazzo Vecchio.",
+     "A very different Duomo: the original design of the cathedral was quite different from the building we see today, the result of many later changes and enlargements.",
+     "Sculptor and architect: his work covered both sculpture and architecture, two disciplines that in the Middle Ages were often closely linked.",
+     "Uncertain attributions: not all the works traditionally attributed to him are documented with certainty."
+    ],
+    "fr": [
+     "Deux symboles de Florence : son nom est lié à deux des édifices les plus reconnaissables de la ville, le Duomo et le Palazzo Vecchio.",
+     "Un Duomo très différent : le projet d'origine de la cathédrale était très différent de l'édifice que nous voyons aujourd'hui, fruit de nombreuses modifications et agrandissements ultérieurs.",
+     "Sculpteur et architecte : son activité comprenait à la fois la sculpture et l'architecture, deux disciplines souvent étroitement liées au Moyen Âge.",
+     "Des attributions incertaines : toutes les œuvres qui lui sont traditionnellement attribuées ne sont pas documentées avec certitude."
+    ],
+    "de": [
+     "Zwei Wahrzeichen von Florenz: Sein Name ist mit zwei der bekanntesten Bauwerke der Stadt verbunden, dem Dom und dem Palazzo Vecchio.",
+     "Ein ganz anderer Dom: Der ursprüngliche Entwurf des Doms unterschied sich stark vom heutigen Bau, der das Ergebnis zahlreicher späterer Änderungen und Erweiterungen ist.",
+     "Bildhauer und Architekt: Seine Tätigkeit umfasste sowohl Bildhauerei als auch Architektur, zwei Disziplinen, die im Mittelalter oft eng miteinander verbunden waren.",
+     "Unsichere Zuschreibungen: Nicht alle traditionell ihm zugeschriebenen Werke sind sicher belegt."
+    ],
+    "es": [
+     "Dos símbolos de Florencia: su nombre está ligado a dos de los edificios más reconocibles de la ciudad, el Duomo y el Palazzo Vecchio.",
+     "Un Duomo muy distinto: el proyecto original de la catedral era muy diferente del edificio que vemos hoy, fruto de numerosas modificaciones y ampliaciones posteriores.",
+     "Escultor y arquitecto: su actividad abarcaba tanto la escultura como la arquitectura, dos disciplinas que en la Edad Media estaban a menudo estrechamente unidas.",
+     "Atribuciones inciertas: no todas las obras que tradicionalmente se le atribuyen están documentadas con certeza."
+    ]
+   },
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore",
+    "palazzo-vecchio",
+    "basilica-di-santa-croce"
+   ],
+   "luoghiNote": {
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "Progetto",
+      "en": "Design",
+      "fr": "Projet",
+      "de": "Entwurf",
+      "es": "Proyecto"
+     },
+     "testo": {
+      "it": "Il progetto originario della nuova cattedrale gli è tradizionalmente attribuito: ne avviò il cantiere nel 1296 e ne fu capomastro fino alla morte.",
+      "en": "The original design of the new cathedral is traditionally attributed to him: he started the works in 1296 and was its master builder until his death.",
+      "fr": "Le projet d'origine de la nouvelle cathédrale lui est traditionnellement attribué : il en lança le chantier en 1296 et en fut le maître d'œuvre jusqu'à sa mort.",
+      "de": "Der ursprüngliche Entwurf des neuen Doms wird traditionell ihm zugeschrieben: Er eröffnete 1296 die Baustelle und war bis zu seinem Tod ihr Baumeister.",
+      "es": "El proyecto original de la nueva catedral se le atribuye tradicionalmente: inició las obras en 1296 y fue su maestro de obras hasta su muerte."
+     }
+    },
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "Progetto",
+      "en": "Design",
+      "fr": "Projet",
+      "de": "Entwurf",
+      "es": "Proyecto"
+     },
+     "testo": {
+      "it": "A lui viene ricondotto il progetto originario del Palazzo dei Priori, iniziato intorno al 1299.",
+      "en": "The original design of the Palazzo dei Priori, begun around 1299, is credited to him.",
+      "fr": "Le projet d'origine du Palazzo dei Priori, commencé vers 1299, lui est attribué.",
+      "de": "Ihm wird der ursprüngliche Entwurf des Palazzo dei Priori zugeschrieben, dessen Bau um 1299 begann.",
+      "es": "Se le atribuye el proyecto original del Palazzo dei Priori, iniciado hacia 1299."
+     }
+    },
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "Progetto attribuito",
+      "en": "Attributed design",
+      "fr": "Projet attribué",
+      "de": "Zugeschriebener Entwurf",
+      "es": "Proyecto atribuido"
+     },
+     "testo": {
+      "it": "Il progetto della basilica è tradizionalmente attribuito ad Arnolfo.",
+      "en": "The design of the basilica is traditionally attributed to Arnolfo.",
+      "fr": "Le projet de la basilique est traditionnellement attribué à Arnolfo.",
+      "de": "Der Entwurf der Basilika wird traditionell Arnolfo zugeschrieben.",
+      "es": "El proyecto de la basílica se atribuye tradicionalmente a Arnolfo."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "giotto",
+     "testo": {
+      "it": "Furono contemporanei e protagonisti dei grandi cantieri artistici fiorentini. Non è però dimostrata una collaborazione diretta tra loro.",
+      "en": "They were contemporaries and protagonists of Florence's great artistic building projects. A direct collaboration between them, however, is not demonstrated.",
+      "fr": "Ils furent contemporains et protagonistes des grands chantiers artistiques florentins. Une collaboration directe entre eux n'est cependant pas démontrée.",
+      "de": "Sie waren Zeitgenossen und Protagonisten der großen florentinischen Kunstbaustellen. Eine direkte Zusammenarbeit zwischen ihnen ist jedoch nicht belegt.",
+      "es": "Fueron contemporáneos y protagonistas de las grandes obras artísticas florentinas. No está demostrada, sin embargo, una colaboración directa entre ellos."
+     }
+    },
+    {
+     "id": "dante-alighieri",
+     "testo": {
+      "it": "Appartengono alla stessa Firenze comunale, ma non è documentato un rapporto personale significativo tra i due.",
+      "en": "They belong to the same communal Florence, but no significant personal relationship between the two is documented.",
+      "fr": "Ils appartiennent à la même Florence communale, mais aucun rapport personnel significatif entre eux n'est documenté.",
+      "de": "Sie gehören demselben kommunalen Florenz an, doch ein bedeutsames persönliches Verhältnis zwischen beiden ist nicht belegt.",
+      "es": "Pertenecen a la misma Florencia comunal, pero no está documentada una relación personal significativa entre ambos."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Matrix1963mb (Wikipedia in italiano), busto a Colle di Val d'Elsa",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "dante-alighieri",
+   "nome": "Dante Alighieri",
+   "nascita": 1265,
+   "morte": 1321,
+   "professione": {
+    "it": "Poeta e uomo politico",
+    "en": "Poet and politician",
+    "fr": "Poète et homme politique",
+    "de": "Dichter und Politiker",
+    "es": "Poeta y político"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "Tra maggio e giugno 1265",
+    "en": "Between May and June 1265",
+    "fr": "Entre mai et juin 1265",
+    "de": "Zwischen Mai und Juni 1265",
+    "es": "Entre mayo y junio de 1265"
+   },
+   "luogoMorte": {
+    "it": "Ravenna",
+    "en": "Ravenna",
+    "fr": "Ravenne",
+    "de": "Ravenna",
+    "es": "Rávena"
+   },
+   "dataMorte": {
+    "it": "Notte tra il 13 e il 14 settembre 1321",
+    "en": "Night of 13–14 September 1321",
+    "fr": "Nuit du 13 au 14 septembre 1321",
+    "de": "Nacht vom 13. auf den 14. September 1321",
+    "es": "Noche del 13 al 14 de septiembre de 1321"
+   },
+   "biografia": {
+    "it": "Dante Alighieri è uno dei più grandi poeti della letteratura italiana e mondiale. Nato a Firenze in una famiglia della piccola nobiltà cittadina, visse in una città attraversata da rivalità politiche, lotte tra famiglie e profonde trasformazioni economiche e sociali.\n\nPartecipò direttamente alla vita pubblica fiorentina. Nel 1289 prese parte alla battaglia di Campaldino e nel 1300 raggiunse la carica di priore, una delle più importanti magistrature del Comune.\n\nLa sua attività politica fu segnata dal conflitto tra Guelfi Bianchi e Guelfi Neri. Dante apparteneva all'area dei Bianchi, favorevole a una maggiore autonomia della città rispetto alle ingerenze del papato.\n\nNel 1302, mentre si trovava lontano da Firenze per una missione diplomatica, fu condannato all'esilio. Non sarebbe mai più tornato nella sua città.\n\nDurante gli anni dell'esilio compose gran parte della Divina Commedia, un'opera monumentale che racconta il viaggio immaginario attraverso Inferno, Purgatorio e Paradiso. Attraverso la poesia, Dante rappresentò anche i personaggi, le vicende e i conflitti della Firenze che aveva conosciuto.\n\nMorì a Ravenna nel 1321, dopo aver trascorso gli ultimi anni della sua vita presso la corte di Guido Novello da Polenta.",
+    "en": "Dante Alighieri is one of the greatest poets of Italian and world literature. Born in Florence into a family of the city's lesser nobility, he lived in a city torn by political rivalries, feuds between families and deep economic and social change.\n\nHe took a direct part in Florentine public life. In 1289 he fought at the battle of Campaldino, and in 1300 he reached the office of prior, one of the most important magistracies of the Commune.\n\nHis political activity was marked by the conflict between White Guelphs and Black Guelphs. Dante belonged to the White camp, which favoured greater independence of the city from the interference of the papacy.\n\nIn 1302, while away from Florence on a diplomatic mission, he was sentenced to exile. He would never return to his city.\n\nDuring the years of exile he composed most of the Divine Comedy, a monumental work that tells of an imaginary journey through Inferno, Purgatorio and Paradiso. Through poetry, Dante also portrayed the people, events and conflicts of the Florence he had known.\n\nHe died in Ravenna in 1321, after spending the last years of his life at the court of Guido Novello da Polenta.",
+    "fr": "Dante Alighieri est l'un des plus grands poètes de la littérature italienne et mondiale. Né à Florence dans une famille de la petite noblesse de la ville, il vécut dans une cité traversée par des rivalités politiques, des luttes entre familles et de profondes transformations économiques et sociales.\n\nIl participa directement à la vie publique florentine. En 1289, il prit part à la bataille de Campaldino et, en 1300, il atteignit la charge de prieur, l'une des plus importantes magistratures de la Commune.\n\nSon activité politique fut marquée par le conflit entre Guelfes blancs et Guelfes noirs. Dante appartenait au camp des Blancs, favorable à une plus grande autonomie de la ville vis-à-vis des ingérences de la papauté.\n\nEn 1302, alors qu'il se trouvait loin de Florence pour une mission diplomatique, il fut condamné à l'exil. Il ne reviendrait jamais dans sa ville.\n\nPendant les années d'exil, il composa l'essentiel de la Divine Comédie, œuvre monumentale qui raconte le voyage imaginaire à travers l'Enfer, le Purgatoire et le Paradis. Par la poésie, Dante représenta aussi les personnages, les événements et les conflits de la Florence qu'il avait connue.\n\nIl mourut à Ravenne en 1321, après avoir passé les dernières années de sa vie à la cour de Guido Novello da Polenta.",
+    "de": "Dante Alighieri ist einer der größten Dichter der italienischen und der Weltliteratur. In Florenz in eine Familie des niederen Stadtadels geboren, lebte er in einer Stadt voller politischer Rivalitäten, Familienfehden und tiefgreifender wirtschaftlicher und sozialer Umbrüche.\n\nEr nahm unmittelbar am öffentlichen Leben von Florenz teil. 1289 kämpfte er in der Schlacht von Campaldino, und 1300 erreichte er das Amt des Priors, eines der wichtigsten Ämter der Kommune.\n\nSeine politische Tätigkeit war vom Konflikt zwischen Weißen und Schwarzen Guelfen geprägt. Dante gehörte dem Lager der Weißen an, das für eine größere Unabhängigkeit der Stadt von den Einmischungen des Papsttums eintrat.\n\n1302 wurde er, während er sich für eine diplomatische Mission fern von Florenz aufhielt, zur Verbannung verurteilt. Er sollte nie mehr in seine Stadt zurückkehren.\n\nIn den Jahren des Exils schrieb er den größten Teil der Göttlichen Komödie, eines monumentalen Werks, das von einer erdachten Reise durch Inferno, Purgatorio und Paradiso erzählt. Durch die Dichtung zeichnete Dante auch die Personen, Ereignisse und Konflikte des Florenz, das er gekannt hatte.\n\nEr starb 1321 in Ravenna, nachdem er die letzten Jahre seines Lebens am Hof von Guido Novello da Polenta verbracht hatte.",
+    "es": "Dante Alighieri es uno de los mayores poetas de la literatura italiana y universal. Nacido en Florencia en una familia de la pequeña nobleza de la ciudad, vivió en una urbe atravesada por rivalidades políticas, luchas entre familias y profundas transformaciones económicas y sociales.\n\nParticipó directamente en la vida pública florentina. En 1289 tomó parte en la batalla de Campaldino y en 1300 alcanzó el cargo de prior, una de las magistraturas más importantes del Común.\n\nSu actividad política estuvo marcada por el conflicto entre güelfos blancos y güelfos negros. Dante pertenecía al bando de los Blancos, partidario de una mayor autonomía de la ciudad frente a las injerencias del papado.\n\nEn 1302, mientras se encontraba lejos de Florencia en una misión diplomática, fue condenado al exilio. No volvería nunca más a su ciudad.\n\nDurante los años del exilio compuso gran parte de la Divina Comedia, una obra monumental que narra el viaje imaginario a través del Infierno, el Purgatorio y el Paraíso. A través de la poesía, Dante representó también a los personajes, los hechos y los conflictos de la Florencia que había conocido.\n\nMurió en Rávena en 1321, tras pasar los últimos años de su vida en la corte de Guido Novello da Polenta."
+   },
+   "curiosita": {
+    "it": [
+     "Campaldino: Dante partecipò alla battaglia di Campaldino del 1289, combattuta tra Firenze e i suoi alleati contro Arezzo.",
+     "Una Commedia fiorentina: la Divina Commedia è ricchissima di riferimenti alla storia fiorentina: molti personaggi realmente esistiti compaiono nell'Inferno, nel Purgatorio e nel Paradiso.",
+     "Il primo biografo: Boccaccio fu uno dei primi grandi studiosi della sua opera e scrisse il Trattatello in laude di Dante.",
+     "Il padre del volgare: il poeta è considerato uno dei principali artefici della diffusione del volgare italiano come lingua letteraria.",
+     "La tomba è a Ravenna: nonostante sia diventato il simbolo culturale di Firenze, la sua tomba si trova a Ravenna. Firenze conserva un cenotafio nella Basilica di Santa Croce."
+    ],
+    "en": [
+     "Campaldino: Dante took part in the battle of Campaldino in 1289, fought by Florence and its allies against Arezzo.",
+     "A Florentine Comedy: the Divine Comedy is full of references to Florentine history: many real people appear in the Inferno, the Purgatorio and the Paradiso.",
+     "The first biographer: Boccaccio was one of the first great scholars of his work and wrote the Trattatello in laude di Dante, a short treatise in praise of Dante.",
+     "The father of the vernacular: the poet is considered one of the main architects of the spread of Italian as a literary language.",
+     "His tomb is in Ravenna: although he has become the cultural symbol of Florence, his tomb is in Ravenna. Florence keeps a cenotaph in the Basilica of Santa Croce."
+    ],
+    "fr": [
+     "Campaldino : Dante participa à la bataille de Campaldino en 1289, livrée par Florence et ses alliés contre Arezzo.",
+     "Une Comédie florentine : la Divine Comédie est très riche en références à l'histoire florentine : de nombreux personnages ayant réellement existé apparaissent dans l'Enfer, le Purgatoire et le Paradis.",
+     "Le premier biographe : Boccace fut l'un des premiers grands spécialistes de son œuvre et écrivit le Trattatello in laude di Dante, un court traité à la louange de Dante.",
+     "Le père de la langue vulgaire : le poète est considéré comme l'un des principaux artisans de la diffusion de l'italien comme langue littéraire.",
+     "Son tombeau est à Ravenne : bien qu'il soit devenu le symbole culturel de Florence, son tombeau se trouve à Ravenne. Florence conserve un cénotaphe dans la basilique de Santa Croce."
+    ],
+    "de": [
+     "Campaldino: Dante nahm 1289 an der Schlacht von Campaldino teil, die Florenz und seine Verbündeten gegen Arezzo austrugen.",
+     "Eine florentinische Komödie: Die Göttliche Komödie ist reich an Bezügen zur Geschichte von Florenz: Viele real existierende Personen erscheinen im Inferno, im Purgatorio und im Paradiso.",
+     "Der erste Biograf: Boccaccio war einer der ersten großen Erforscher seines Werks und schrieb das Trattatello in laude di Dante, eine kurze Lobschrift auf Dante.",
+     "Der Vater der Volkssprache: Der Dichter gilt als einer der wichtigsten Wegbereiter der Verbreitung des Italienischen als Literatursprache.",
+     "Sein Grab ist in Ravenna: Obwohl er zum kulturellen Symbol von Florenz geworden ist, befindet sich sein Grab in Ravenna. Florenz bewahrt ein Kenotaph in der Basilika Santa Croce."
+    ],
+    "es": [
+     "Campaldino: Dante participó en la batalla de Campaldino de 1289, librada por Florencia y sus aliados contra Arezzo.",
+     "Una Comedia florentina: la Divina Comedia es riquísima en referencias a la historia florentina: muchos personajes realmente existentes aparecen en el Infierno, el Purgatorio y el Paraíso.",
+     "El primer biógrafo: Boccaccio fue uno de los primeros grandes estudiosos de su obra y escribió el Trattatello in laude di Dante, un breve tratado en alabanza de Dante.",
+     "El padre de la lengua vulgar: el poeta es considerado uno de los principales artífices de la difusión del italiano como lengua literaria.",
+     "Su tumba está en Rávena: aunque se ha convertido en el símbolo cultural de Florencia, su tumba se encuentra en Rávena. Florencia conserva un cenotafio en la basílica de Santa Croce."
+    ]
+   },
+   "luoghi": [
+    "battistero-di-san-giovanni",
+    "basilica-di-santa-croce",
+    "piazza-della-signoria"
+   ],
+   "luoghiNote": {
+    "battistero-di-san-giovanni": {
+     "tipo": {
+      "it": "Legame personale",
+      "en": "Personal link",
+      "fr": "Lien personnel",
+      "de": "Persönlicher Bezug",
+      "es": "Vínculo personal"
+     },
+     "testo": {
+      "it": "Luogo centrale nella vita religiosa della Firenze medievale, al quale Dante era particolarmente legato.",
+      "en": "A central place in the religious life of medieval Florence, to which Dante was particularly attached.",
+      "fr": "Lieu central de la vie religieuse de la Florence médiévale, auquel Dante était particulièrement attaché.",
+      "de": "Ein zentraler Ort des religiösen Lebens im mittelalterlichen Florenz, mit dem Dante besonders verbunden war.",
+      "es": "Lugar central en la vida religiosa de la Florencia medieval, al que Dante estaba particularmente unido."
+     }
+    },
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "Cenotafio",
+      "en": "Cenotaph",
+      "fr": "Cénotaphe",
+      "de": "Kenotaph",
+      "es": "Cenotafio"
+     },
+     "testo": {
+      "it": "Vi si trova il cenotafio dedicato al poeta, sepolto invece a Ravenna.",
+      "en": "It holds the cenotaph dedicated to the poet, who is buried instead in Ravenna.",
+      "fr": "Elle abrite le cénotaphe dédié au poète, qui est enterré à Ravenne.",
+      "de": "Hier befindet sich das dem Dichter gewidmete Kenotaph; er selbst ist in Ravenna bestattet.",
+      "es": "Alberga el cenotafio dedicado al poeta, que está sepultado en cambio en Rávena."
+     }
+    },
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Contesto politico",
+      "en": "Political setting",
+      "fr": "Cadre politique",
+      "de": "Politischer Zusammenhang",
+      "es": "Contexto político"
+     },
+     "testo": {
+      "it": "Contesto politico e istituzionale della Firenze in cui Dante svolse la propria attività pubblica.",
+      "en": "The political and institutional setting of the Florence in which Dante carried out his public activity.",
+      "fr": "Cadre politique et institutionnel de la Florence où Dante exerça son activité publique.",
+      "de": "Der politische und institutionelle Rahmen des Florenz, in dem Dante öffentlich wirkte.",
+      "es": "Contexto político e institucional de la Florencia en la que Dante desarrolló su actividad pública."
+     }
+    }
+   },
+   "collegati": [],
+   "ritratto": {
+    "autore": "Sandro Botticelli",
+    "licenza": "Pubblico dominio"
    }
   }
  ]
