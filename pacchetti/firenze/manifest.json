@@ -1,5 +1,5 @@
 {
- "versione": "1cda4aee96eb",
+ "versione": "11f19b94c628",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3176,6 +3176,12 @@
    "byte": 170686
   },
   {
+   "path": "assets/personaggi/girolamo-savonarola.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/girolamo-savonarola.webp",
+   "sha256": "053e379bdcfaf9dcea195e7aa4f59fe945fc7d37ce41e3f9755da39b84681ab1",
+   "byte": 18962
+  },
+  {
    "path": "assets/personaggi/leon-battista-alberti.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/leon-battista-alberti.webp",
    "sha256": "0ba52bba5aef3500a9dd0200ef6eb5c1d60476820279f1b77eb84fd12815beb0",
@@ -3192,6 +3198,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/lorenzo-il-magnifico.webp",
    "sha256": "dd083855c954c5287e48fc662d53fb9aade9a9bc9c84d68aed536b87778b09fc",
    "byte": 39188
+  },
+  {
+   "path": "assets/personaggi/marsilio-ficino.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/marsilio-ficino.webp",
+   "sha256": "3454ec13a55dcef253f92106aa2b4a8b01e15fd878bdb30d45367ab901c34189",
+   "byte": 28032
   },
   {
    "path": "assets/personaggi/masaccio.webp",
@@ -3216,6 +3228,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/michele-di-lando.webp",
    "sha256": "215aa6e5d3c0001debb0c333ec452e18cc67312c0e857b48081d954b1d69f61c",
    "byte": 78112
+  },
+  {
+   "path": "assets/personaggi/niccolo-machiavelli.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/niccolo-machiavelli.webp",
+   "sha256": "07e3fac868b5dae94a965c1d4db1f79cd53af8d4ccfa1b1962f76f82310e09d5",
+   "byte": 52970
   },
   {
    "path": "assets/personaggi/san-zanobi.webp",
@@ -3316,8 +3334,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "9b2b4cc067ef094cd5120defbd4d836e290314aaadce851b702d1041abeb4637",
-   "byte": 366830
+   "sha256": "6a443e7e0fc13328a10f0b8d083372c0ed9b6a7dfc0d6abab6fb759d12516056",
+   "byte": 421391
   },
   {
    "path": "dati/principali.json",
@@ -3340,8 +3358,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "f09cfb1a2445895c94ff49f21bfc0212ec1ef2ec80075d20cb470362c038efee",
-   "byte": 26785
+   "sha256": "565e1ae92d62ad4a18b0a2ee23a9a979ba3f06fb9c375e261aa1e469fc4d717e",
+   "byte": 26862
   },
   {
    "path": "dati/tessere.json",
@@ -3357,12 +3375,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4bd81bcdfdc2",
-   "da": "39132cab9b9b",
-   "data": "2026-11-23",
-   "byte": 13034
-  },
   {
    "versione": "9b7611269bd7",
    "da": "4bd81bcdfdc2",
@@ -3476,6 +3488,12 @@
    "da": "24111c33427d",
    "data": "2026-11-23",
    "byte": 609537
+  },
+  {
+   "versione": "11f19b94c628",
+   "da": "1cda4aee96eb",
+   "data": "2026-11-23",
+   "byte": 548217
   }
  ]
 }

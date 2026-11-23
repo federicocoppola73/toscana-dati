@@ -1960,6 +1960,16 @@
       "de": "Cosimo förderte die Erneuerung des Dominikanerklosters San Marco, in dem Beato Angelico den Freskenzyklus schuf: ein belegtes Beispiel für religiöses Mäzenatentum.",
       "es": "Cosme apoyó la renovación del convento dominico de San Marcos, donde Beato Angelico realizó el ciclo de frescos: un ejemplo documentado de mecenazgo religioso."
      }
+    },
+    {
+     "id": "marsilio-ficino",
+     "testo": {
+      "it": "Sostenne Marsilio Ficino, a cui affidò la traduzione di Platone e donò nel 1463 una proprietà presso Careggi.",
+      "en": "He supported Marsilio Ficino, to whom he entrusted the translation of Plato and gave in 1463 a property near Careggi.",
+      "fr": "Il soutint Marsile Ficin, à qui il confia la traduction de Platon et offrit en 1463 une propriété près de Careggi.",
+      "de": "Er förderte Marsilio Ficino, dem er die Übersetzung Platons anvertraute und dem er 1463 einen Besitz bei Careggi schenkte.",
+      "es": "Apoyó a Marsilio Ficino, a quien encargó la traducción de Platón y regaló en 1463 una propiedad cerca de Careggi."
+     }
     }
    ],
    "ritratto": {
@@ -2147,6 +2157,36 @@
       "fr": "Selon la tradition biographique, il accueillit dans sa propre maison le jeune Michel-Ange, qui avait fréquenté le jardin de San Marco, lieu d'étude lié aux Médicis.",
       "de": "Der biografischen Überlieferung zufolge nahm er den jungen Michelangelo, der den Garten von San Marco besucht hatte, einen mit den Medici verbundenen Ort des Studiums, in sein Haus auf.",
       "es": "Según la tradición biográfica, acogió en su propia casa al joven Miguel Ángel, que había frecuentado el jardín de San Marco, lugar de estudio ligado a los Médici."
+     }
+    },
+    {
+     "id": "marsilio-ficino",
+     "testo": {
+      "it": "Ficino fu una figura importante dell'ambiente culturale che Lorenzo sostenne, e contribuì alla diffusione del neoplatonismo nella Firenze del tempo.",
+      "en": "Ficino was an important figure in the cultural circle Lorenzo supported, and helped spread Neoplatonism in the Florence of the time.",
+      "fr": "Ficin fut une figure importante du milieu culturel que Laurent soutint, et contribua à la diffusion du néoplatonisme dans la Florence de l'époque.",
+      "de": "Ficino war eine wichtige Gestalt im von Lorenzo geförderten kulturellen Umfeld und trug zur Verbreitung des Neuplatonismus im damaligen Florenz bei.",
+      "es": "Ficino fue una figura importante del ambiente cultural que Lorenzo apoyó, y contribuyó a la difusión del neoplatonismo en la Florencia de la época."
+     }
+    },
+    {
+     "id": "girolamo-savonarola",
+     "testo": {
+      "it": "Savonarola tornò a Firenze nel 1490 su interessamento di Pico della Mirandola, amico del Magnifico. La tradizione che lo vuole al capezzale di Lorenzo, a porre condizioni alla sua confessione, è considerata dubbia o leggendaria.",
+      "en": "Savonarola returned to Florence in 1490 at the instance of Pico della Mirandola, a friend of the Magnificent. The tradition that places him at Lorenzo's deathbed, setting conditions for his confession, is regarded as doubtful or legendary.",
+      "fr": "Savonarole revint à Florence en 1490 à l'instigation de Pic de La Mirandole, ami du Magnifique. La tradition qui le place au chevet de Laurent, posant des conditions à sa confession, est considérée comme douteuse ou légendaire.",
+      "de": "Savonarola kehrte 1490 auf Betreiben von Pico della Mirandola, einem Freund des Prächtigen, nach Florenz zurück. Die Überlieferung, die ihn an Lorenzos Sterbebett sieht, wo er Bedingungen für dessen Beichte stellt, gilt als zweifelhaft oder legendär.",
+      "es": "Savonarola regresó a Florencia en 1490 a instancias de Pico della Mirandola, amigo del Magnífico. La tradición que lo sitúa junto al lecho de muerte de Lorenzo, poniendo condiciones a su confesión, se considera dudosa o legendaria."
+     }
+    },
+    {
+     "id": "niccolo-machiavelli",
+     "testo": {
+      "it": "Machiavelli, ancora giovane alla morte di Lorenzo (1492), gli dedicò nelle Istorie fiorentine (libro VIII) un celebre ritratto. Non appartenne al suo circolo.",
+      "en": "Machiavelli, still young at Lorenzo's death (1492), gave him a famous portrait in the Florentine Histories (book VIII). He did not belong to his circle.",
+      "fr": "Machiavel, encore jeune à la mort de Laurent (1492), lui consacra dans les Histoires florentines (livre VIII) un célèbre portrait. Il n'appartint pas à son cercle.",
+      "de": "Machiavelli, beim Tod Lorenzos (1492) noch jung, widmete ihm in der Florentinischen Geschichte (Buch VIII) ein berühmtes Porträt. Er gehörte nicht zu seinem Kreis.",
+      "es": "Maquiavelo, aún joven a la muerte de Lorenzo (1492), le dedicó en las Historias florentinas (libro VIII) un célebre retrato. No perteneció a su círculo."
      }
     }
    ],
@@ -3098,6 +3138,16 @@
       "de": "Im Florenz der ersten Jahre des 16. Jahrhunderts erhielten sie getrennte Aufträge für die Sala Grande des Palazzo Vecchio: die Schlacht von Anghiari für Leonardo (1503), die Schlacht von Cascina für Michelangelo (1504). Ihre Auseinandersetzung ist als künstlerische Rivalität in Erinnerung geblieben.",
       "es": "En la Florencia de los primeros años del siglo XVI recibieron encargos distintos para la Sala Grande del Palazzo Vecchio: la Batalla de Anghiari para Leonardo (1503), la Batalla de Cascina para Miguel Ángel (1504). Su confrontación se recuerda como una rivalidad artística."
      }
+    },
+    {
+     "id": "niccolo-machiavelli",
+     "testo": {
+      "it": "Si trovarono entrambi alla corte di Cesare Borgia e nel 1503-1504 furono coinvolti nel progetto di deviare l'Arno per isolare Pisa: Leonardo come esperto tecnico, Machiavelli tra i responsabili per la Repubblica. Non è documentata una collaborazione personale.",
+      "en": "Both were at the court of Cesare Borgia and in 1503-1504 both were involved in the plan to divert the Arno to isolate Pisa: Leonardo as technical expert, Machiavelli among those responsible for the Republic. No personal collaboration is documented.",
+      "fr": "Tous deux se trouvèrent à la cour de César Borgia et, en 1503-1504, furent impliqués dans le projet de détourner l'Arno pour isoler Pise : Léonard comme expert technique, Machiavel parmi les responsables pour la République. Aucune collaboration personnelle n'est documentée.",
+      "de": "Beide waren am Hof Cesare Borgias und waren 1503-1504 am Plan beteiligt, den Arno umzuleiten, um Pisa zu isolieren: Leonardo als technischer Experte, Machiavelli unter den Verantwortlichen der Republik. Eine persönliche Zusammenarbeit ist nicht belegt.",
+      "es": "Ambos estuvieron en la corte de César Borgia y en 1503-1504 participaron en el proyecto de desviar el Arno para aislar Pisa: Leonardo como experto técnico, Maquiavelo entre los responsables de la República. No está documentada una colaboración personal."
+     }
     }
    ],
    "ritratto": {
@@ -3447,6 +3497,473 @@
    ],
    "ritratto": {
     "autore": "Scuola fiorentina, ritratto di Leon Battista Alberti (tardo, non dal vero)",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "marsilio-ficino",
+   "nome": "Marsilio Ficino",
+   "nascita": 1433,
+   "morte": 1499,
+   "professione": {
+    "it": "Filosofo, traduttore e sacerdote",
+    "en": "Philosopher, translator and priest",
+    "fr": "Philosophe, traducteur et prêtre",
+    "de": "Philosoph, Übersetzer und Priester",
+    "es": "Filósofo, traductor y sacerdote"
+   },
+   "luogoNascita": {
+    "it": "Figline Valdarno",
+    "en": "Figline Valdarno",
+    "fr": "Figline Valdarno",
+    "de": "Figline Valdarno",
+    "es": "Figline Valdarno"
+   },
+   "dataNascita": {
+    "it": "19 ottobre 1433",
+    "en": "19 October 1433",
+    "fr": "19 octobre 1433",
+    "de": "19. Oktober 1433",
+    "es": "19 de octubre de 1433"
+   },
+   "luogoMorte": {
+    "it": "Careggi, presso Firenze",
+    "en": "Careggi, near Florence",
+    "fr": "Careggi, près de Florence",
+    "de": "Careggi bei Florenz",
+    "es": "Careggi, cerca de Florencia"
+   },
+   "dataMorte": {
+    "it": "1º ottobre 1499",
+    "en": "1 October 1499",
+    "fr": "1er octobre 1499",
+    "de": "1. Oktober 1499",
+    "es": "1 de octubre de 1499"
+   },
+   "biografia": {
+    "it": "Marsilio Ficino fu filosofo, traduttore e sacerdote, tra i principali protagonisti della cultura umanistica fiorentina. È ricordato soprattutto per aver contribuito alla riscoperta e alla diffusione del pensiero di Platone e della filosofia neoplatonica nell'Europa rinascimentale.\n\nFu sostenuto da Cosimo il Vecchio, che gli affidò il compito di tradurre le opere di Platone dal greco al latino e gli donò, nel 1463, una proprietà presso Careggi. La sua attività contribuì a rendere accessibile un patrimonio filosofico fondamentale per la cultura europea.\n\nTra le sue opere più importanti figura la Teologia platonica, nella quale cercò di conciliare il pensiero di Platone con la tradizione cristiana. Ordinato sacerdote nel 1473, fu anche una figura centrale dell'ambiente intellettuale legato a Lorenzo il Magnifico, nel quale si incontravano filosofi, poeti e studiosi.",
+    "en": "Marsilio Ficino was a philosopher, translator and priest, one of the leading figures of Florentine humanist culture. He is remembered above all for helping to rediscover and spread the thought of Plato and Neoplatonic philosophy in Renaissance Europe.\n\nHe was supported by Cosimo the Elder, who entrusted him with translating Plato's works from Greek into Latin and gave him, in 1463, a property near Careggi. His work helped make a philosophical heritage fundamental to European culture accessible.\n\nAmong his most important works is the Platonic Theology, in which he sought to reconcile Plato's thought with the Christian tradition. Ordained a priest in 1473, he was also a central figure in the intellectual circle linked to Lorenzo the Magnificent, where philosophers, poets and scholars met.",
+    "fr": "Marsile Ficin fut philosophe, traducteur et prêtre, l'un des principaux protagonistes de la culture humaniste florentine. Il est surtout connu pour avoir contribué à la redécouverte et à la diffusion de la pensée de Platon et de la philosophie néoplatonicienne dans l'Europe de la Renaissance.\n\nIl fut soutenu par Côme l'Ancien, qui lui confia la traduction des œuvres de Platon du grec au latin et lui donna, en 1463, une propriété près de Careggi. Son activité contribua à rendre accessible un patrimoine philosophique fondamental pour la culture européenne.\n\nParmi ses œuvres les plus importantes figure la Théologie platonicienne, dans laquelle il chercha à concilier la pensée de Platon avec la tradition chrétienne. Ordonné prêtre en 1473, il fut aussi une figure centrale du milieu intellectuel lié à Laurent le Magnifique, où se rencontraient philosophes, poètes et érudits.",
+    "de": "Marsilio Ficino war Philosoph, Übersetzer und Priester und einer der Hauptakteure der Florentiner humanistischen Kultur. Er ist vor allem dafür bekannt, zur Wiederentdeckung und Verbreitung des Denkens Platons und der neuplatonischen Philosophie im Europa der Renaissance beigetragen zu haben.\n\nEr wurde von Cosimo dem Älteren gefördert, der ihn mit der Übersetzung der Werke Platons aus dem Griechischen ins Lateinische beauftragte und ihm 1463 einen Besitz bei Careggi schenkte. Seine Tätigkeit trug dazu bei, ein für die europäische Kultur grundlegendes philosophisches Erbe zugänglich zu machen.\n\nZu seinen wichtigsten Werken zählt die Platonische Theologie, in der er versuchte, das Denken Platons mit der christlichen Tradition zu versöhnen. 1473 zum Priester geweiht, war er auch eine zentrale Gestalt im intellektuellen Umfeld um Lorenzo den Prächtigen, in dem sich Philosophen, Dichter und Gelehrte trafen.",
+    "es": "Marsilio Ficino fue filósofo, traductor y sacerdote, uno de los principales protagonistas de la cultura humanista florentina. Se le recuerda sobre todo por haber contribuido al redescubrimiento y la difusión del pensamiento de Platón y de la filosofía neoplatónica en la Europa renacentista.\n\nFue apoyado por Cosimo el Viejo, que le encargó traducir las obras de Platón del griego al latín y le regaló, en 1463, una propiedad cerca de Careggi. Su actividad contribuyó a hacer accesible un patrimonio filosófico fundamental para la cultura europea.\n\nEntre sus obras más importantes figura la Teología platónica, en la que intentó conciliar el pensamiento de Platón con la tradición cristiana. Ordenado sacerdote en 1473, fue también una figura central del ambiente intelectual ligado a Lorenzo el Magnífico, en el que se reunían filósofos, poetas y eruditos."
+   },
+   "curiosita": {
+    "it": [
+     "Platone, Plotino ed Ermete: tradusse in latino le opere di Platone, tradusse anche Plotino (edizione del 1492) e contribuì alla diffusione dei testi ermetici.",
+     "L'Accademia platonica: la cosiddetta «Accademia platonica fiorentina» è spesso associata al suo nome, ma non va immaginata come un'istituzione formale con un'organizzazione stabile. Più tardi lo stesso Ficino ricordò Cosimo come ispiratore del circolo.",
+     "Filosofo e sacerdote: cercò di conciliare la filosofia antica con la fede cristiana.",
+     "Careggi: la proprietà ricevuta da Cosimo divenne uno dei luoghi simbolici della cultura umanistica fiorentina."
+    ],
+    "en": [
+     "Plato, Plotinus and Hermes: he translated Plato's works into Latin, also translated Plotinus (edition of 1492) and helped spread the Hermetic texts.",
+     "The Platonic Academy: the so-called «Florentine Platonic Academy» is often associated with his name, but it should not be imagined as a formal institution with a stable organisation. Later Ficino himself remembered Cosimo as the inspirer of the circle.",
+     "Philosopher and priest: he sought to reconcile ancient philosophy with the Christian faith.",
+     "Careggi: the property he received from Cosimo became one of the symbolic places of Florentine humanist culture."
+    ],
+    "fr": [
+     "Platon, Plotin et Hermès : il traduisit en latin les œuvres de Platon, traduisit aussi Plotin (édition de 1492) et contribua à la diffusion des textes hermétiques.",
+     "L'Académie platonicienne : la soi-disant «Académie platonicienne florentine» est souvent associée à son nom, mais il ne faut pas l'imaginer comme une institution formelle à l'organisation stable. Plus tard, Ficin lui-même rappela Côme comme l'inspirateur du cercle.",
+     "Philosophe et prêtre : il chercha à concilier la philosophie antique avec la foi chrétienne.",
+     "Careggi : la propriété reçue de Côme devint l'un des lieux symboliques de la culture humaniste florentine."
+    ],
+    "de": [
+     "Platon, Plotin und Hermes: Er übersetzte die Werke Platons ins Lateinische, übersetzte auch Plotin (Ausgabe von 1492) und trug zur Verbreitung der hermetischen Texte bei.",
+     "Die Platonische Akademie: Die sogenannte «Florentiner Platonische Akademie» wird oft mit seinem Namen verbunden, ist aber nicht als formelle Institution mit fester Organisation zu verstehen. Später erinnerte Ficino selbst an Cosimo als Anreger des Kreises.",
+     "Philosoph und Priester: Er suchte die antike Philosophie mit dem christlichen Glauben zu versöhnen.",
+     "Careggi: Der von Cosimo erhaltene Besitz wurde zu einem der symbolischen Orte der Florentiner humanistischen Kultur."
+    ],
+    "es": [
+     "Platón, Plotino y Hermes: tradujo al latín las obras de Platón, tradujo también a Plotino (edición de 1492) y contribuyó a la difusión de los textos herméticos.",
+     "La Academia platónica: la llamada «Academia platónica florentina» se asocia a menudo a su nombre, pero no debe imaginarse como una institución formal con una organización estable. Más tarde el propio Ficino recordó a Cosimo como inspirador del círculo.",
+     "Filósofo y sacerdote: buscó conciliar la filosofía antigua con la fe cristiana.",
+     "Careggi: la propiedad recibida de Cosimo se convirtió en uno de los lugares simbólicos de la cultura humanista florentina."
+    ]
+   },
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore",
+    "basilica-di-santa-maria-novella"
+   ],
+   "luoghiNote": {
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "Il busto funebre",
+      "en": "The funerary bust",
+      "fr": "Le buste funéraire",
+      "de": "Die Grabbüste",
+      "es": "El busto funerario"
+     },
+     "testo": {
+      "it": "Nella navata destra si trova il suo monumento funebre, con il busto scolpito da Andrea Ferrucci nel 1521.",
+      "en": "In the right aisle stands his funerary monument, with the bust sculpted by Andrea Ferrucci in 1521.",
+      "fr": "Dans la nef de droite se trouve son monument funéraire, avec le buste sculpté par Andrea Ferrucci en 1521.",
+      "de": "Im rechten Seitenschiff befindet sich sein Grabmal mit der 1521 von Andrea Ferrucci geschaffenen Büste.",
+      "es": "En la nave derecha se encuentra su monumento funerario, con el busto esculpido por Andrea Ferrucci en 1521."
+     }
+    },
+    "basilica-di-santa-maria-novella": {
+     "tipo": {
+      "it": "Il ritratto di Ghirlandaio",
+      "en": "Ghirlandaio's portrait",
+      "fr": "Le portrait de Ghirlandaio",
+      "de": "Ghirlandaios Bildnis",
+      "es": "El retrato de Ghirlandaio"
+     },
+     "testo": {
+      "it": "Nella Cappella Tornabuoni, Ghirlandaio lo ritrasse insieme ad altri umanisti nell'affresco dell'Annuncio a Zaccaria (1485-1490 circa).",
+      "en": "In the Tornabuoni Chapel, Ghirlandaio portrayed him together with other humanists in the fresco of the Angel Appearing to Zacharias (around 1485-1490).",
+      "fr": "Dans la chapelle Tornabuoni, Ghirlandaio le représenta avec d'autres humanistes dans la fresque de l'Annonce à Zacharie (vers 1485-1490).",
+      "de": "In der Cappella Tornabuoni porträtierte ihn Ghirlandaio gemeinsam mit anderen Humanisten im Fresko der Verkündigung an Zacharias (um 1485-1490).",
+      "es": "En la Capilla Tornabuoni, Ghirlandaio lo retrató junto a otros humanistas en el fresco de la Anunciación a Zacarías (hacia 1485-1490)."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "cosimo-il-vecchio",
+     "testo": {
+      "it": "Fu il suo principale protettore: gli fornì i mezzi per dedicarsi allo studio e alla traduzione di Platone e nel 1463 gli donò una proprietà presso Careggi. Il rapporto di patronato è centrale per la sua formazione intellettuale.",
+      "en": "He was his main protector: he gave him the means to devote himself to the study and translation of Plato and in 1463 gave him a property near Careggi. The patronage is central to his intellectual formation.",
+      "fr": "Il fut son principal protecteur : il lui donna les moyens de se consacrer à l'étude et à la traduction de Platon et, en 1463, lui offrit une propriété près de Careggi. Le patronage est central dans sa formation intellectuelle.",
+      "de": "Er war sein wichtigster Förderer: Er gab ihm die Mittel, sich dem Studium und der Übersetzung Platons zu widmen, und schenkte ihm 1463 einen Besitz bei Careggi. Die Förderung ist zentral für seine intellektuelle Entwicklung.",
+      "es": "Fue su principal protector: le dio los medios para dedicarse al estudio y la traducción de Platón y en 1463 le regaló una propiedad cerca de Careggi. El patronazgo es central en su formación intelectual."
+     }
+    },
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Ficino fu una figura importante dell'ambiente culturale sostenuto da Lorenzo. Il rapporto contribuì alla diffusione del neoplatonismo nella Firenze della seconda metà del Quattrocento.",
+      "en": "Ficino was an important figure in the cultural circle supported by Lorenzo. The relationship helped spread Neoplatonism in Florence in the second half of the fifteenth century.",
+      "fr": "Ficin fut une figure importante du milieu culturel soutenu par Laurent. Le rapport contribua à la diffusion du néoplatonisme dans la Florence de la seconde moitié du XVe siècle.",
+      "de": "Ficino war eine wichtige Gestalt im von Lorenzo geförderten kulturellen Umfeld. Die Beziehung trug zur Verbreitung des Neuplatonismus im Florenz der zweiten Hälfte des 15. Jahrhunderts bei.",
+      "es": "Ficino fue una figura importante del ambiente cultural apoyado por Lorenzo. La relación contribuyó a la difusión del neoplatonismo en la Florencia de la segunda mitad del siglo XV."
+     }
+    },
+    {
+     "id": "girolamo-savonarola",
+     "testo": {
+      "it": "Rappresentarono due orientamenti diversi della cultura fiorentina di fine Quattrocento: Ficino era legato all'umanesimo neoplatonico, mentre Savonarola denunciava la corruzione morale e promuoveva una riforma religiosa. Non è opportuno ridurre il loro rapporto a uno scontro personale.",
+      "en": "They represented two different orientations of late fifteenth-century Florentine culture: Ficino was tied to Neoplatonic humanism, while Savonarola denounced moral corruption and promoted religious reform. Their relationship should not be reduced to a personal clash.",
+      "fr": "Ils représentèrent deux orientations différentes de la culture florentine de la fin du XVe siècle : Ficin était lié à l'humanisme néoplatonicien, tandis que Savonarole dénonçait la corruption morale et promouvait une réforme religieuse. Il n'est pas opportun de réduire leur rapport à un affrontement personnel.",
+      "de": "Sie vertraten zwei unterschiedliche Richtungen der Florentiner Kultur des späten 15. Jahrhunderts: Ficino war dem neuplatonischen Humanismus verbunden, während Savonarola die moralische Verderbtheit anprangerte und eine religiöse Reform betrieb. Ihr Verhältnis sollte nicht auf einen persönlichen Konflikt reduziert werden.",
+      "es": "Representaron dos orientaciones distintas de la cultura florentina de finales del siglo XV: Ficino estaba ligado al humanismo neoplatónico, mientras que Savonarola denunciaba la corrupción moral y promovía una reforma religiosa. No conviene reducir su relación a un enfrentamiento personal."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Domenico Ghirlandaio, Annuncio a Zaccaria (particolare), Cappella Tornabuoni",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "girolamo-savonarola",
+   "nome": "Girolamo Savonarola",
+   "nascita": 1452,
+   "morte": 1498,
+   "professione": {
+    "it": "Frate domenicano e predicatore",
+    "en": "Dominican friar and preacher",
+    "fr": "Frère dominicain et prédicateur",
+    "de": "Dominikanermönch und Prediger",
+    "es": "Fraile dominico y predicador"
+   },
+   "luogoNascita": {
+    "it": "Ferrara",
+    "en": "Ferrara",
+    "fr": "Ferrare",
+    "de": "Ferrara",
+    "es": "Ferrara"
+   },
+   "dataNascita": {
+    "it": "21 settembre 1452",
+    "en": "21 September 1452",
+    "fr": "21 septembre 1452",
+    "de": "21. September 1452",
+    "es": "21 de septiembre de 1452"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "23 maggio 1498",
+    "en": "23 May 1498",
+    "fr": "23 mai 1498",
+    "de": "23. Mai 1498",
+    "es": "23 de mayo de 1498"
+   },
+   "biografia": {
+    "it": "Girolamo Savonarola fu un frate domenicano e predicatore che esercitò una profonda influenza sulla vita religiosa e politica di Firenze alla fine del Quattrocento.\n\nDopo essere entrato nell'ordine domenicano nel 1475, fu inviato a Firenze nel 1482, presso il convento di San Marco. Dopo un periodo trascorso fuori città, vi tornò nel 1490, su interessamento di Pico della Mirandola, amico di Lorenzo il Magnifico, e nel 1491 fu eletto priore di San Marco.\n\nLe sue prediche denunciavano la corruzione della Chiesa, il lusso e i comportamenti ritenuti immorali della società del tempo. Dopo la morte di Lorenzo e la discesa di Carlo VIII in Italia, Savonarola divenne una figura centrale nella crisi politica fiorentina. Nel 1494, dopo la cacciata di Piero de' Medici, contribuì alla definizione del nuovo ordinamento repubblicano, fondato sul Consiglio Maggiore.\n\nIl suo potere religioso e politico entrò in conflitto con papa Alessandro VI, che lo scomunicò nel maggio 1497. Arrestato, fu processato e condannato a morte; venne impiccato e arso sul rogo in Piazza della Signoria il 23 maggio 1498.",
+    "en": "Girolamo Savonarola was a Dominican friar and preacher who exercised a profound influence on the religious and political life of Florence at the end of the fifteenth century.\n\nAfter entering the Dominican order in 1475, he was sent to Florence in 1482, to the convent of San Marco. After a period spent outside the city, he returned in 1490, at the instance of Pico della Mirandola, a friend of Lorenzo the Magnificent, and in 1491 he was elected prior of San Marco.\n\nHis sermons denounced the corruption of the Church, luxury and the behaviour regarded as immoral in the society of the time. After Lorenzo's death and the descent of Charles VIII into Italy, Savonarola became a central figure in the Florentine political crisis. In 1494, after the expulsion of Piero de' Medici, he helped shape the new republican order, based on the Great Council.\n\nHis religious and political power came into conflict with Pope Alexander VI, who excommunicated him in May 1497. Arrested, he was tried and sentenced to death; he was hanged and burned at the stake in Piazza della Signoria on 23 May 1498.",
+    "fr": "Jérôme Savonarole fut un frère dominicain et prédicateur qui exerça une profonde influence sur la vie religieuse et politique de Florence à la fin du XVe siècle.\n\nEntré dans l'ordre dominicain en 1475, il fut envoyé à Florence en 1482, au couvent de San Marco. Après une période passée hors de la ville, il y revint en 1490, à l'instigation de Pic de La Mirandole, ami de Laurent le Magnifique, et en 1491 il fut élu prieur de San Marco.\n\nSes sermons dénonçaient la corruption de l'Église, le luxe et les comportements jugés immoraux de la société de son temps. Après la mort de Laurent et la descente de Charles VIII en Italie, Savonarole devint une figure centrale de la crise politique florentine. En 1494, après l'expulsion de Pierre de Médicis, il contribua à définir le nouvel ordre républicain, fondé sur le Grand Conseil.\n\nSon pouvoir religieux et politique entra en conflit avec le pape Alexandre VI, qui l'excommunia en mai 1497. Arrêté, il fut jugé et condamné à mort ; il fut pendu et brûlé sur le bûcher sur la Piazza della Signoria le 23 mai 1498.",
+    "de": "Girolamo Savonarola war ein Dominikanermönch und Prediger, der Ende des 15. Jahrhunderts großen Einfluss auf das religiöse und politische Leben von Florenz ausübte.\n\nNach seinem Eintritt in den Dominikanerorden 1475 wurde er 1482 nach Florenz geschickt, in das Kloster San Marco. Nach einer Zeit außerhalb der Stadt kehrte er 1490 auf Betreiben von Pico della Mirandola, einem Freund Lorenzos des Prächtigen, zurück und wurde 1491 zum Prior von San Marco gewählt.\n\nSeine Predigten prangerten die Verderbtheit der Kirche, den Luxus und das als unmoralisch geltende Verhalten der Gesellschaft seiner Zeit an. Nach dem Tod Lorenzos und dem Einmarsch Karls VIII. in Italien wurde Savonarola zu einer zentralen Gestalt der Florentiner politischen Krise. 1494, nach der Vertreibung Pieros de' Medici, wirkte er an der neuen republikanischen Ordnung mit, die auf dem Großen Rat beruhte.\n\nSeine religiöse und politische Macht geriet in Konflikt mit Papst Alexander VI., der ihn im Mai 1497 exkommunizierte. Er wurde verhaftet, vor Gericht gestellt und zum Tode verurteilt; am 23. Mai 1498 wurde er auf der Piazza della Signoria gehängt und verbrannt.",
+    "es": "Girolamo Savonarola fue un fraile dominico y predicador que ejerció una profunda influencia en la vida religiosa y política de Florencia a finales del siglo XV.\n\nTras ingresar en la orden dominica en 1475, fue enviado a Florencia en 1482, al convento de San Marco. Después de un periodo fuera de la ciudad, regresó en 1490, a instancias de Pico della Mirandola, amigo de Lorenzo el Magnífico, y en 1491 fue elegido prior de San Marco.\n\nSus sermones denunciaban la corrupción de la Iglesia, el lujo y los comportamientos considerados inmorales de la sociedad de su tiempo. Tras la muerte de Lorenzo y la llegada de Carlos VIII a Italia, Savonarola se convirtió en una figura central de la crisis política florentina. En 1494, tras la expulsión de Piero de' Médici, contribuyó a definir el nuevo orden republicano, basado en el Consejo Mayor.\n\nSu poder religioso y político entró en conflicto con el papa Alejandro VI, que lo excomulgó en mayo de 1497. Arrestado, fue juzgado y condenado a muerte; fue ahorcado y quemado en la hoguera en la Piazza della Signoria el 23 de mayo de 1498."
+   },
+   "curiosita": {
+    "it": [
+     "Priore di San Marco: fu priore del convento di San Marco dal 1491.",
+     "Le folle: le sue prediche attiravano folle molto numerose.",
+     "I roghi delle vanità: durante il suo governo spirituale e politico si verificarono i cosiddetti «roghi delle vanità», come quello del carnevale del 1497, nei quali furono bruciati oggetti considerati simboli di lusso e corruzione.",
+     "Il rogo in piazza: fu giustiziato in Piazza della Signoria, la piazza del potere civico fiorentino."
+    ],
+    "en": [
+     "Prior of San Marco: he was prior of the convent of San Marco from 1491.",
+     "The crowds: his sermons drew very large crowds.",
+     "The bonfires of the vanities: during his spiritual and political rule took place the so-called «bonfires of the vanities», such as the one at the carnival of 1497, in which objects regarded as symbols of luxury and corruption were burned.",
+     "The pyre in the square: he was executed in Piazza della Signoria, the square of Florentine civic power."
+    ],
+    "fr": [
+     "Prieur de San Marco : il fut prieur du couvent de San Marco à partir de 1491.",
+     "Les foules : ses sermons attiraient des foules très nombreuses.",
+     "Les bûchers des vanités : pendant son gouvernement spirituel et politique eurent lieu les «bûchers des vanités», comme celui du carnaval de 1497, où furent brûlés des objets considérés comme des symboles de luxe et de corruption.",
+     "Le bûcher sur la place : il fut exécuté sur la Piazza della Signoria, la place du pouvoir civique florentin."
+    ],
+    "de": [
+     "Prior von San Marco: Er war ab 1491 Prior des Klosters San Marco.",
+     "Die Menschenmengen: Seine Predigten zogen sehr große Menschenmengen an.",
+     "Die Verbrennung der Eitelkeiten: Während seiner geistlichen und politischen Herrschaft fanden die sogenannten «Verbrennungen der Eitelkeiten» statt, etwa die im Karneval 1497, bei denen als Symbole von Luxus und Verderbtheit geltende Gegenstände verbrannt wurden.",
+     "Der Scheiterhaufen auf dem Platz: Er wurde auf der Piazza della Signoria hingerichtet, dem Platz der Florentiner bürgerlichen Macht."
+    ],
+    "es": [
+     "Prior de San Marco: fue prior del convento de San Marco desde 1491.",
+     "Las multitudes: sus sermones atraían a multitudes muy numerosas.",
+     "Las hogueras de las vanidades: durante su gobierno espiritual y político tuvieron lugar las llamadas «hogueras de las vanidades», como la del carnaval de 1497, en las que se quemaron objetos considerados símbolos de lujo y corrupción.",
+     "La hoguera en la plaza: fue ejecutado en la Piazza della Signoria, la plaza del poder cívico florentino."
+    ]
+   },
+   "luoghi": [
+    "piazza-della-signoria",
+    "palazzo-vecchio"
+   ],
+   "luoghiNote": {
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Il rogo",
+      "en": "The pyre",
+      "fr": "Le bûcher",
+      "de": "Der Scheiterhaufen",
+      "es": "La hoguera"
+     },
+     "testo": {
+      "it": "Qui fu impiccato e arso sul rogo il 23 maggio 1498.",
+      "en": "Here he was hanged and burned at the stake on 23 May 1498.",
+      "fr": "C'est ici qu'il fut pendu et brûlé sur le bûcher le 23 mai 1498.",
+      "de": "Hier wurde er am 23. Mai 1498 gehängt und verbrannt.",
+      "es": "Aquí fue ahorcado y quemado en la hoguera el 23 de mayo de 1498."
+     }
+    },
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "Il Salone dei Cinquecento",
+      "en": "The Salone dei Cinquecento",
+      "fr": "Le Salone dei Cinquecento",
+      "de": "Der Salone dei Cinquecento",
+      "es": "El Salone dei Cinquecento"
+     },
+     "testo": {
+      "it": "Nel 1495-1496 fu costruita la grande sala del Consiglio Maggiore, organo del nuovo ordinamento repubblicano sostenuto da Savonarola: è l'attuale Salone dei Cinquecento.",
+      "en": "In 1495-1496 the great hall of the Great Council was built, the body of the new republican order backed by Savonarola: it is today's Salone dei Cinquecento.",
+      "fr": "En 1495-1496 fut construite la grande salle du Grand Conseil, organe du nouvel ordre républicain soutenu par Savonarole : c'est l'actuel Salone dei Cinquecento.",
+      "de": "1495-1496 wurde der große Saal des Großen Rates errichtet, des Organs der von Savonarola unterstützten neuen republikanischen Ordnung: Es ist der heutige Salone dei Cinquecento.",
+      "es": "En 1495-1496 se construyó la gran sala del Consejo Mayor, órgano del nuevo orden republicano apoyado por Savonarola: es el actual Salone dei Cinquecento."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Savonarola era a Firenze negli ultimi anni di Lorenzo e vi era tornato nel 1490 su interessamento di Pico della Mirandola, amico del Magnifico. La tradizione che lo vuole al capezzale di Lorenzo, a porre condizioni alla sua confessione, è considerata dubbia o leggendaria: il rapporto tra i due va descritto con cautela.",
+      "en": "Savonarola was in Florence during Lorenzo's last years and had returned in 1490 at the instance of Pico della Mirandola, a friend of the Magnificent. The tradition that places him at Lorenzo's deathbed, setting conditions for his confession, is regarded as doubtful or legendary: the relationship between the two must be described with caution.",
+      "fr": "Savonarole était à Florence pendant les dernières années de Laurent et y était revenu en 1490 à l'instigation de Pic de La Mirandole, ami du Magnifique. La tradition qui le place au chevet de Laurent, posant des conditions à sa confession, est considérée comme douteuse ou légendaire : le rapport entre les deux doit être décrit avec prudence.",
+      "de": "Savonarola war in Lorenzos letzten Jahren in Florenz und war 1490 auf Betreiben von Pico della Mirandola, einem Freund des Prächtigen, zurückgekehrt. Die Überlieferung, die ihn an Lorenzos Sterbebett sieht, wo er Bedingungen für dessen Beichte stellt, gilt als zweifelhaft oder legendär: Das Verhältnis der beiden ist mit Vorsicht zu beschreiben.",
+      "es": "Savonarola estaba en Florencia durante los últimos años de Lorenzo y había regresado en 1490 a instancias de Pico della Mirandola, amigo del Magnífico. La tradición que lo sitúa junto al lecho de muerte de Lorenzo, poniendo condiciones a su confesión, se considera dudosa o legendaria: la relación entre ambos debe describirse con cautela."
+     }
+    },
+    {
+     "id": "marsilio-ficino",
+     "testo": {
+      "it": "I due rappresentano orientamenti culturali differenti nella Firenze di fine Quattrocento. Ficino promuoveva la filosofia neoplatonica e il dialogo con la cultura classica; Savonarola sosteneva una profonda riforma morale e religiosa.",
+      "en": "The two represent different cultural orientations in late fifteenth-century Florence. Ficino promoted Neoplatonic philosophy and dialogue with classical culture; Savonarola supported a profound moral and religious reform.",
+      "fr": "Les deux représentent des orientations culturelles différentes dans la Florence de la fin du XVe siècle. Ficin promouvait la philosophie néoplatonicienne et le dialogue avec la culture classique ; Savonarole soutenait une profonde réforme morale et religieuse.",
+      "de": "Die beiden vertreten unterschiedliche kulturelle Richtungen im Florenz des späten 15. Jahrhunderts. Ficino förderte die neuplatonische Philosophie und den Dialog mit der klassischen Kultur; Savonarola trat für eine tiefgreifende moralische und religiöse Reform ein.",
+      "es": "Los dos representan orientaciones culturales distintas en la Florencia de finales del siglo XV. Ficino promovía la filosofía neoplatónica y el diálogo con la cultura clásica; Savonarola defendía una profunda reforma moral y religiosa."
+     }
+    },
+    {
+     "id": "niccolo-machiavelli",
+     "testo": {
+      "it": "Machiavelli visse a Firenze durante il governo savonaroliano, ma non ne fu un seguace: entrò nella cancelleria della Repubblica poco dopo l'esecuzione del frate. Nel Principe (cap. VI) lo cita come esempio di «profeta disarmato».",
+      "en": "Machiavelli lived in Florence during Savonarola's rule but was not a follower: he entered the Republic's chancery shortly after the friar's execution. In The Prince (chap. VI) he cites him as an example of an «unarmed prophet».",
+      "fr": "Machiavel vécut à Florence pendant le gouvernement de Savonarole, mais n'en fut pas un disciple : il entra à la chancellerie de la République peu après l'exécution du frère. Dans Le Prince (chap. VI), il le cite comme exemple de «prophète désarmé».",
+      "de": "Machiavelli lebte während Savonarolas Herrschaft in Florenz, war aber kein Anhänger: Er trat kurz nach der Hinrichtung des Mönchs in die Kanzlei der Republik ein. Im Fürsten (Kap. VI) nennt er ihn als Beispiel für einen «unbewaffneten Propheten».",
+      "es": "Maquiavelo vivió en Florencia durante el gobierno de Savonarola, pero no fue un seguidor: entró en la cancillería de la República poco después de la ejecución del fraile. En El Príncipe (cap. VI) lo cita como ejemplo de «profeta desarmado»."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Anonimo",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "niccolo-machiavelli",
+   "nome": "Niccolò Machiavelli",
+   "nascita": 1469,
+   "morte": 1527,
+   "professione": {
+    "it": "Segretario della Repubblica, diplomatico, storico e scrittore politico",
+    "en": "Secretary of the Republic, diplomat, historian and political writer",
+    "fr": "Secrétaire de la République, diplomate, historien et écrivain politique",
+    "de": "Sekretär der Republik, Diplomat, Historiker und politischer Schriftsteller",
+    "es": "Secretario de la República, diplomático, historiador y escritor político"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "3 maggio 1469",
+    "en": "3 May 1469",
+    "fr": "3 mai 1469",
+    "de": "3. Mai 1469",
+    "es": "3 de mayo de 1469"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "21 giugno 1527",
+    "en": "21 June 1527",
+    "fr": "21 juin 1527",
+    "de": "21. Juni 1527",
+    "es": "21 de junio de 1527"
+   },
+   "biografia": {
+    "it": "Niccolò Machiavelli fu diplomatico, funzionario della Repubblica fiorentina, storico e autore politico. È considerato uno dei principali fondatori del pensiero politico moderno.\n\nNacque a Firenze in una famiglia di modeste condizioni economiche e ricevette una formazione umanistica basata soprattutto sullo studio dei classici latini. La sua carriera politica iniziò nel 1498, dopo la caduta di Savonarola, quando il 19 giugno fu nominato segretario della seconda cancelleria della Repubblica fiorentina.\n\nSvolse numerose missioni diplomatiche presso le principali corti italiane ed europee e si occupò di questioni militari e amministrative. Fu sostenitore della creazione di una milizia cittadina, alternativa alle truppe mercenarie, che nel 1509 partecipò alla riconquista di Pisa.\n\nNel 1512, con il ritorno dei Medici a Firenze, perse il proprio incarico e venne allontanato dalla vita politica. Nel 1513, sospettato di una congiura antimedicea, fu incarcerato e torturato; poi si ritirò a Sant'Andrea in Percussina, nel territorio di San Casciano Val di Pesa. Nel periodo successivo si dedicò alla scrittura delle sue opere più importanti, tra cui Il Principe, i Discorsi sopra la prima deca di Tito Livio e le Istorie fiorentine.",
+    "en": "Niccolò Machiavelli was a diplomat, an official of the Florentine Republic, a historian and a political writer. He is regarded as one of the main founders of modern political thought.\n\nHe was born in Florence into a family of modest means and received a humanist education based chiefly on the study of the Latin classics. His political career began in 1498, after the fall of Savonarola, when on 19 June he was appointed secretary of the second chancery of the Florentine Republic.\n\nHe carried out numerous diplomatic missions to the main Italian and European courts and dealt with military and administrative matters. He championed the creation of a citizen militia, as an alternative to mercenary troops, which in 1509 took part in the reconquest of Pisa.\n\nIn 1512, with the return of the Medici to Florence, he lost his post and was removed from political life. In 1513, suspected of an anti-Medici conspiracy, he was imprisoned and tortured; he then withdrew to Sant'Andrea in Percussina, in the territory of San Casciano Val di Pesa. In the following period he devoted himself to writing his most important works, including The Prince, the Discourses on the First Decade of Livy and the Florentine Histories.",
+    "fr": "Nicolas Machiavel fut diplomate, fonctionnaire de la République florentine, historien et auteur politique. Il est considéré comme l'un des principaux fondateurs de la pensée politique moderne.\n\nIl naquit à Florence dans une famille de condition modeste et reçut une formation humaniste fondée surtout sur l'étude des classiques latins. Sa carrière politique commença en 1498, après la chute de Savonarole, lorsque, le 19 juin, il fut nommé secrétaire de la seconde chancellerie de la République florentine.\n\nIl accomplit de nombreuses missions diplomatiques auprès des principales cours italiennes et européennes et s'occupa de questions militaires et administratives. Il fut partisan de la création d'une milice citoyenne, alternative aux troupes mercenaires, qui prit part en 1509 à la reconquête de Pise.\n\nEn 1512, avec le retour des Médicis à Florence, il perdit sa charge et fut écarté de la vie politique. En 1513, soupçonné d'une conjuration antimédicéenne, il fut emprisonné et torturé ; il se retira ensuite à Sant'Andrea in Percussina, sur le territoire de San Casciano Val di Pesa. Dans la période suivante, il se consacra à l'écriture de ses œuvres les plus importantes, dont Le Prince, les Discours sur la première décade de Tite-Live et les Histoires florentines.",
+    "de": "Niccolò Machiavelli war Diplomat, Beamter der Florentiner Republik, Historiker und politischer Autor. Er gilt als einer der Hauptbegründer des modernen politischen Denkens.\n\nEr wurde in Florenz in eine Familie bescheidener Verhältnisse geboren und erhielt eine humanistische Bildung, die vor allem auf dem Studium der lateinischen Klassiker beruhte. Seine politische Laufbahn begann 1498, nach dem Sturz Savonarolas, als er am 19. Juni zum Sekretär der zweiten Kanzlei der Florentiner Republik ernannt wurde.\n\nEr führte zahlreiche diplomatische Missionen an die wichtigsten italienischen und europäischen Höfe durch und befasste sich mit militärischen und administrativen Fragen. Er trat für die Schaffung einer Bürgermiliz als Alternative zu Söldnertruppen ein, die 1509 an der Rückeroberung Pisas teilnahm.\n\n1512, mit der Rückkehr der Medici nach Florenz, verlor er sein Amt und wurde aus dem politischen Leben entfernt. 1513, der Teilnahme an einer antimediceischen Verschwörung verdächtigt, wurde er eingekerkert und gefoltert; danach zog er sich nach Sant'Andrea in Percussina im Gebiet von San Casciano Val di Pesa zurück. In der folgenden Zeit widmete er sich dem Schreiben seiner wichtigsten Werke, darunter Der Fürst, die Discorsi über die erste Dekade des Livius und die Florentinische Geschichte.",
+    "es": "Nicolás Maquiavelo fue diplomático, funcionario de la República florentina, historiador y autor político. Se le considera uno de los principales fundadores del pensamiento político moderno.\n\nNació en Florencia en una familia de condición modesta y recibió una formación humanista basada sobre todo en el estudio de los clásicos latinos. Su carrera política comenzó en 1498, tras la caída de Savonarola, cuando el 19 de junio fue nombrado secretario de la segunda cancillería de la República florentina.\n\nRealizó numerosas misiones diplomáticas ante las principales cortes italianas y europeas y se ocupó de cuestiones militares y administrativas. Fue partidario de crear una milicia ciudadana, alternativa a las tropas mercenarias, que en 1509 participó en la reconquista de Pisa.\n\nEn 1512, con el regreso de los Médici a Florencia, perdió su cargo y fue apartado de la vida política. En 1513, sospechoso de una conjura antimediceana, fue encarcelado y torturado; después se retiró a Sant'Andrea in Percussina, en el territorio de San Casciano Val di Pesa. En el periodo siguiente se dedicó a escribir sus obras más importantes, entre ellas El Príncipe, los Discursos sobre la primera década de Tito Livio y las Historias florentinas."
+   },
+   "curiosita": {
+    "it": [
+     "Il Principe: fu scritto nella seconda metà del 1513, durante il periodo di allontanamento dalla vita politica, e pubblicato solo nel 1532, dopo la sua morte.",
+     "«Machiavellico»: il termine deriva dal suo nome, ma spesso viene usato in modo riduttivo rispetto alla complessità del suo pensiero.",
+     "La Mandragola: fu anche autore teatrale; la commedia La Mandragola, scritta intorno al 1518, è considerata uno dei capolavori del teatro rinascimentale italiano.",
+     "La milizia: nel 1506 contribuì alla costituzione di una milizia cittadina fiorentina, che fu poi impiegata nella riconquista di Pisa (1509).",
+     "La tomba a Santa Croce: fu sepolto in Santa Croce nel 1527, in una tomba senza particolare distinzione. Il monumento attuale, di Innocenzo Spinazzi, è del 1787 e porta l'iscrizione «Tanto nomini nullum par elogium» (nessun elogio è pari a un tale nome)."
+    ],
+    "en": [
+     "The Prince: it was written in the second half of 1513, during his removal from political life, and published only in 1532, after his death.",
+     "«Machiavellian»: the term derives from his name, but it is often used in a way that reduces the complexity of his thought.",
+     "The Mandrake: he was also a playwright; the comedy La Mandragola (The Mandrake), written around 1518, is considered one of the masterpieces of Italian Renaissance theatre.",
+     "The militia: in 1506 he helped create a Florentine citizen militia, which was later used in the reconquest of Pisa (1509).",
+     "The tomb in Santa Croce: he was buried in Santa Croce in 1527, in a grave of no particular distinction. The present monument, by Innocenzo Spinazzi, dates from 1787 and bears the inscription «Tanto nomini nullum par elogium» (no eulogy is equal to such a name)."
+    ],
+    "fr": [
+     "Le Prince : il fut écrit dans la seconde moitié de 1513, pendant sa mise à l'écart de la vie politique, et publié seulement en 1532, après sa mort.",
+     "«Machiavélique» : le terme dérive de son nom, mais il est souvent employé de façon réductrice par rapport à la complexité de sa pensée.",
+     "La Mandragore : il fut aussi auteur de théâtre ; la comédie La Mandragola (La Mandragore), écrite vers 1518, est considérée comme l'un des chefs-d'œuvre du théâtre de la Renaissance italienne.",
+     "La milice : en 1506, il contribua à la création d'une milice citoyenne florentine, qui fut ensuite employée dans la reconquête de Pise (1509).",
+     "Le tombeau à Santa Croce : il fut enterré à Santa Croce en 1527, dans une tombe sans distinction particulière. Le monument actuel, d'Innocenzo Spinazzi, date de 1787 et porte l'inscription «Tanto nomini nullum par elogium» (aucun éloge n'est égal à un tel nom)."
+    ],
+    "de": [
+     "Der Fürst: Er wurde in der zweiten Hälfte des Jahres 1513 geschrieben, während seiner Entfernung aus dem politischen Leben, und erst 1532, nach seinem Tod, veröffentlicht.",
+     "«Machiavellistisch»: Der Begriff leitet sich von seinem Namen ab, wird aber oft in einer die Komplexität seines Denkens verkürzenden Weise gebraucht.",
+     "Die Mandragola: Er war auch Bühnenautor; die um 1518 entstandene Komödie La Mandragola gilt als eines der Meisterwerke des italienischen Renaissancetheaters.",
+     "Die Miliz: 1506 trug er zur Aufstellung einer Florentiner Bürgermiliz bei, die später bei der Rückeroberung Pisas (1509) eingesetzt wurde.",
+     "Das Grab in Santa Croce: Er wurde 1527 in Santa Croce beigesetzt, in einem Grab ohne besondere Auszeichnung. Das heutige Grabmal von Innocenzo Spinazzi stammt von 1787 und trägt die Inschrift «Tanto nomini nullum par elogium» (kein Lob kommt einem solchen Namen gleich)."
+    ],
+    "es": [
+     "El Príncipe: se escribió en la segunda mitad de 1513, durante su alejamiento de la vida política, y se publicó solo en 1532, después de su muerte.",
+     "«Maquiavélico»: el término deriva de su nombre, pero a menudo se usa de forma reductora respecto a la complejidad de su pensamiento.",
+     "La Mandrágora: fue también autor teatral; la comedia La Mandragola (La Mandrágora), escrita hacia 1518, se considera una de las obras maestras del teatro renacentista italiano.",
+     "La milicia: en 1506 contribuyó a la creación de una milicia ciudadana florentina, que luego se empleó en la reconquista de Pisa (1509).",
+     "La tumba en Santa Croce: fue enterrado en Santa Croce en 1527, en una tumba sin particular distinción. El monumento actual, de Innocenzo Spinazzi, es de 1787 y lleva la inscripción «Tanto nomini nullum par elogium» (ningún elogio iguala a tal nombre)."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio",
+    "basilica-di-santa-croce"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "La cancelleria",
+      "en": "The chancery",
+      "fr": "La chancellerie",
+      "de": "Die Kanzlei",
+      "es": "La cancillería"
+     },
+     "testo": {
+      "it": "Qui, nel palazzo sede del governo repubblicano, lavorò come segretario della seconda cancelleria dal 1498 al 1512.",
+      "en": "Here, in the palace that housed the republican government, he worked as secretary of the second chancery from 1498 to 1512.",
+      "fr": "C'est ici, dans le palais siège du gouvernement républicain, qu'il travailla comme secrétaire de la seconde chancellerie de 1498 à 1512.",
+      "de": "Hier, im Palast, der Sitz der republikanischen Regierung war, arbeitete er von 1498 bis 1512 als Sekretär der zweiten Kanzlei.",
+      "es": "Aquí, en el palacio sede del gobierno republicano, trabajó como secretario de la segunda cancillería de 1498 a 1512."
+     }
+    },
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "Il monumento",
+      "en": "The monument",
+      "fr": "Le monument",
+      "de": "Das Grabmal",
+      "es": "El monumento"
+     },
+     "testo": {
+      "it": "Qui è sepolto. Il monumento di Innocenzo Spinazzi fu inaugurato nel 1787.",
+      "en": "He is buried here. Innocenzo Spinazzi's monument was inaugurated in 1787.",
+      "fr": "Il est enterré ici. Le monument d'Innocenzo Spinazzi fut inauguré en 1787.",
+      "de": "Hier ist er begraben. Das Grabmal von Innocenzo Spinazzi wurde 1787 eingeweiht.",
+      "es": "Aquí está enterrado. El monumento de Innocenzo Spinazzi se inauguró en 1787."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "girolamo-savonarola",
+     "testo": {
+      "it": "Machiavelli visse durante il governo politico-religioso del frate, ma non ne fu un seguace: entrò nella cancelleria della Repubblica poco dopo la sua esecuzione. Nel Principe (cap. VI) lo cita come esempio di «profeta disarmato».",
+      "en": "Machiavelli lived through the friar's political and religious rule but was not a follower: he entered the Republic's chancery shortly after his execution. In The Prince (chap. VI) he cites him as an example of an «unarmed prophet».",
+      "fr": "Machiavel vécut sous le gouvernement politique et religieux du frère, mais n'en fut pas un disciple : il entra à la chancellerie de la République peu après son exécution. Dans Le Prince (chap. VI), il le cite comme exemple de «prophète désarmé».",
+      "de": "Machiavelli lebte während der politisch-religiösen Herrschaft des Mönchs, war aber kein Anhänger: Er trat kurz nach dessen Hinrichtung in die Kanzlei der Republik ein. Im Fürsten (Kap. VI) nennt er ihn als Beispiel für einen «unbewaffneten Propheten».",
+      "es": "Maquiavelo vivió durante el gobierno político-religioso del fraile, pero no fue un seguidor: entró en la cancillería de la República poco después de su ejecución. En El Príncipe (cap. VI) lo cita como ejemplo de «profeta desarmado»."
+     }
+    },
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Machiavelli era ancora giovane quando Lorenzo morì, nel 1492, e non appartenne al suo circolo. Nelle Istorie fiorentine (libro VIII) gli dedicò però un celebre ritratto.",
+      "en": "Machiavelli was still young when Lorenzo died, in 1492, and did not belong to his circle. In the Florentine Histories (book VIII), however, he gave him a famous portrait.",
+      "fr": "Machiavel était encore jeune à la mort de Laurent, en 1492, et n'appartint pas à son cercle. Dans les Histoires florentines (livre VIII), il lui consacra cependant un célèbre portrait.",
+      "de": "Machiavelli war noch jung, als Lorenzo 1492 starb, und gehörte nicht zu seinem Kreis. In der Florentinischen Geschichte (Buch VIII) widmete er ihm jedoch ein berühmtes Porträt.",
+      "es": "Maquiavelo era aún joven cuando Lorenzo murió, en 1492, y no perteneció a su círculo. En las Historias florentinas (libro VIII) le dedicó, sin embargo, un célebre retrato."
+     }
+    },
+    {
+     "id": "leonardo-da-vinci",
+     "testo": {
+      "it": "Si trovarono entrambi alla corte di Cesare Borgia e nel 1503-1504 furono coinvolti nel progetto di deviare l'Arno per isolare Pisa: Leonardo come esperto tecnico, Machiavelli tra i responsabili per la Repubblica. Non è documentata una collaborazione personale.",
+      "en": "Both were at the court of Cesare Borgia and in 1503-1504 both were involved in the plan to divert the Arno to isolate Pisa: Leonardo as technical expert, Machiavelli among those responsible for the Republic. No personal collaboration is documented.",
+      "fr": "Tous deux se trouvèrent à la cour de César Borgia et, en 1503-1504, furent impliqués dans le projet de détourner l'Arno pour isoler Pise : Léonard comme expert technique, Machiavel parmi les responsables pour la République. Aucune collaboration personnelle n'est documentée.",
+      "de": "Beide waren am Hof Cesare Borgias und waren 1503-1504 am Plan beteiligt, den Arno umzuleiten, um Pisa zu isolieren: Leonardo als technischer Experte, Machiavelli unter den Verantwortlichen der Republik. Eine persönliche Zusammenarbeit ist nicht belegt.",
+      "es": "Ambos estuvieron en la corte de César Borgia y en 1503-1504 participaron en el proyecto de desviar el Arno para aislar Pisa: Leonardo como experto técnico, Maquiavelo entre los responsables de la República. No está documentada una colaboración personal."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Santi di Tito, ritratto postumo",
     "licenza": "Pubblico dominio"
    }
   }
