@@ -1,0 +1,189 @@
+{
+ "versione": "ff4f697bf0ba",
+ "voce": "fr-FR-Chirp3-HD-Kore",
+ "luoghi": {
+  "basilica-di-san-lorenzo": {
+   "byte": 1108412,
+   "secondi": 185,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-san-lorenzo.mp3",
+     "byte": 1108412,
+     "secondi": 185,
+     "sha256": "c02a561f0bf63ca28c2e98316207ba9692bf38fdddb3958472c7a8653a0bc753",
+     "testo": "213d3d1bd1091870"
+    }
+   ]
+  },
+  "basilica-di-santa-croce": {
+   "byte": 1369484,
+   "secondi": 228,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-santa-croce.mp3",
+     "byte": 1369484,
+     "secondi": 228,
+     "sha256": "bbca55345223d7fb5e3202894e5f5fdafda7407ba7ed201812cdfc320d58f8de",
+     "testo": "c34c5ff2696c7caf"
+    }
+   ]
+  },
+  "basilica-di-santa-maria-novella": {
+   "byte": 1561292,
+   "secondi": 260,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-santa-maria-novella.mp3",
+     "byte": 1561292,
+     "secondi": 260,
+     "sha256": "d1933da2a18363fb975c32655f37f06a959b7d256bd198ee768e66332c054de8",
+     "testo": "ccac0854f33b501f"
+    }
+   ]
+  },
+  "battistero-di-san-giovanni": {
+   "byte": 1366028,
+   "secondi": 228,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "battistero-di-san-giovanni.mp3",
+     "byte": 1366028,
+     "secondi": 228,
+     "sha256": "dfccfa6b4df5ae41696d464f1752f6ee3b69a6d6945a57297e7c98bd5e9c7ba7",
+     "testo": "ca70c7c0f6ea6aab"
+    }
+   ]
+  },
+  "campanile-di-giotto": {
+   "byte": 1251404,
+   "secondi": 209,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "campanile-di-giotto.mp3",
+     "byte": 1251404,
+     "secondi": 209,
+     "sha256": "0b458c82c246efebf81812bee55175ebaeeb0641ce2e7ad7816a79bcd6c8ae34",
+     "testo": "1fcfba4f8138d61d"
+    }
+   ]
+  },
+  "cattedrale-di-santa-maria-del-fiore": {
+   "byte": 2264776,
+   "secondi": 377,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur et coupole",
+     "file": "cattedrale-di-santa-maria-del-fiore__esterno.mp3",
+     "byte": 1208492,
+     "secondi": 201,
+     "sha256": "a46fc0af11513529f4bbe9cd67f2b62fbdf6995884c69fa5e22c634482bd3a81",
+     "testo": "673b0be2d1c68041"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "cattedrale-di-santa-maria-del-fiore__interno.mp3",
+     "byte": 1056284,
+     "secondi": 176,
+     "sha256": "291882b9403f0eb7e403347e921996ae44763be15aff064c07838792e6c2fa59",
+     "testo": "7f04c41b60606466"
+    }
+   ]
+  },
+  "chiesa-e-museo-di-orsanmichele": {
+   "byte": 1045772,
+   "secondi": 174,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "chiesa-e-museo-di-orsanmichele.mp3",
+     "byte": 1045772,
+     "secondi": 174,
+     "sha256": "a966c08bffeabe7ae4f6e144b7b5cb98a7468f3e13d9065072b8c6b0ce49c54c",
+     "testo": "2bd63919df3eec0f"
+    }
+   ]
+  },
+  "palazzo-pitti": {
+   "byte": 1256156,
+   "secondi": 209,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "palazzo-pitti.mp3",
+     "byte": 1256156,
+     "secondi": 209,
+     "sha256": "a6a76c5ffb764fa859748d0a50929163432bdc5eed7526683815c4536ed8212c",
+     "testo": "76a1ccf6750bdc6e"
+    }
+   ]
+  },
+  "palazzo-vecchio": {
+   "byte": 2579128,
+   "secondi": 430,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "palazzo-vecchio__esterno.mp3",
+     "byte": 1108412,
+     "secondi": 185,
+     "sha256": "71c53e9bc4ef4812e2f8cbb0568eebba1eaf37b9abd5a50545d97c9e4209253c",
+     "testo": "3ea32f2376612857"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "palazzo-vecchio__interno.mp3",
+     "byte": 1470716,
+     "secondi": 245,
+     "sha256": "ff7f40c25f2fdc313b7121851fbf5045b14238b00d61a080c62217472bb08e97",
+     "testo": "33389186b9b9a36d"
+    }
+   ]
+  },
+  "piazza-della-signoria": {
+   "byte": 1311596,
+   "secondi": 219,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "piazza-della-signoria.mp3",
+     "byte": 1311596,
+     "secondi": 219,
+     "sha256": "1052250706e9a795817498bea47c36f5dc456cfedd0ab2a3c12e9bb873dc5182",
+     "testo": "35657a09e473923e"
+    }
+   ]
+  },
+  "ponte-vecchio": {
+   "byte": 1152188,
+   "secondi": 192,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "ponte-vecchio.mp3",
+     "byte": 1152188,
+     "secondi": 192,
+     "sha256": "f191cdb3164d755f384ef5cb9767ee3a6557614e56dd7784154de37e8396c339",
+     "testo": "67aa2d966f35bb5f"
+    }
+   ]
+  }
+ }
+}
