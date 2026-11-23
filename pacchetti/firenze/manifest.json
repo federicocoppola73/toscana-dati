@@ -1,5 +1,5 @@
 {
- "versione": "1ecdd6c34526",
+ "versione": "bf712b34c9a5",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3176,6 +3176,12 @@
    "byte": 39188
   },
   {
+   "path": "assets/personaggi/masaccio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/masaccio.webp",
+   "sha256": "f50deea929fbe71efe6011aaa934d027dbfe64d3ada14161822504368269f1d4",
+   "byte": 145776
+  },
+  {
    "path": "assets/personaggi/matilde-di-canossa.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/matilde-di-canossa.webp",
    "sha256": "7a9184fedd98abc52e59e70e720759f88e8ffa21a4fbc56f2165c2d35d28a8a8",
@@ -3280,8 +3286,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "be6960fe2ac575aa58365781947f7af98b4fd97cb39886bc0b8632df4544af01",
-   "byte": 258450
+   "sha256": "2700fc865f11496e3180cbe5aa4ff221718d66fcaff1175f7110676bca4037d1",
+   "byte": 273763
   },
   {
    "path": "dati/principali.json",
@@ -3304,8 +3310,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "a24a37fd08f64fd1ca35dea693ba16c1b0a001cecd6e9240808dbe6e1d78500d",
-   "byte": 26637
+   "sha256": "0c9dfc33dffacb903eb683438576cc8d37109f681ab545793b75b27fc01bd983",
+   "byte": 26653
   },
   {
    "path": "dati/tessere.json",
@@ -3321,13 +3327,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "fde0af2ce124",
-   "da": "97228679f40c",
-   "data": "2026-11-20",
-   "mezzi": true,
-   "byte": 1320681
-  },
   {
    "versione": "35f58ce0a85d",
    "da": "fde0af2ce124",
@@ -3445,6 +3444,12 @@
    "da": "f6afe18b4a95",
    "data": "2026-11-23",
    "byte": 522871
+  },
+  {
+   "versione": "bf712b34c9a5",
+   "da": "1ecdd6c34526",
+   "data": "2026-11-23",
+   "byte": 446192
   }
  ]
 }

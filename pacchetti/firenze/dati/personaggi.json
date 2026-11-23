@@ -2279,6 +2279,16 @@
       "de": "Die Familie Medici förderte bedeutende Bauwerke Brunelleschis, darunter die Alte Sakristei von San Lorenzo, die ursprünglich von Giovanni di Bicci in Auftrag gegeben wurde.",
       "es": "La familia Médici apoyó importantes obras arquitectónicas de Brunelleschi, entre ellas la Sacristía Vieja de San Lorenzo, encargada inicialmente por Giovanni di Bicci."
      }
+    },
+    {
+     "id": "masaccio",
+     "testo": {
+      "it": "Masaccio applicò alla pittura le ricerche sulla prospettiva e sullo spazio associate a Brunelleschi. Le fonti parlano di un'amicizia, ma un rapporto personale diretto non è certo.",
+      "en": "Masaccio applied to painting the research on perspective and space associated with Brunelleschi. Sources speak of a friendship, but a direct personal relationship is not certain.",
+      "fr": "Masaccio appliqua à la peinture les recherches sur la perspective et l'espace associées à Brunelleschi. Les sources parlent d'une amitié, mais un rapport personnel direct n'est pas certain.",
+      "de": "Masaccio übertrug die mit Brunelleschi verbundenen Forschungen zu Perspektive und Raum auf die Malerei. Die Quellen sprechen von einer Freundschaft, eine direkte persönliche Beziehung ist jedoch nicht gesichert.",
+      "es": "Masaccio aplicó a la pintura las investigaciones sobre la perspectiva y el espacio asociadas a Brunelleschi. Las fuentes hablan de una amistad, pero una relación personal directa no es segura."
+     }
     }
    ],
    "ritratto": {
@@ -2440,11 +2450,148 @@
       "de": "Donatello wurde von der Familie Medici gefördert und schuf wichtige Werke für deren Mitglieder, darunter Arbeiten für San Lorenzo und wahrscheinlich den bronzenen David. Er wurde in San Lorenzo nahe bei Cosimo beigesetzt.",
       "es": "Donatello fue apoyado por la familia Médici y realizó obras importantes para sus miembros, entre ellas intervenciones en San Lorenzo y, probablemente, el David de bronce. Fue sepultado en San Lorenzo, cerca de Cosme."
      }
+    },
+    {
+     "id": "masaccio",
+     "testo": {
+      "it": "Fu contemporaneo di Masaccio e operò nello stesso ambiente artistico fiorentino; il suo modo di rendere la figura e lo spazio è vicino alle innovazioni del pittore.",
+      "en": "He was a contemporary of Masaccio and worked in the same Florentine artistic milieu; his way of rendering figure and space is close to the painter's innovations.",
+      "fr": "Il fut contemporain de Masaccio et évolua dans le même milieu artistique florentin ; sa manière de rendre la figure et l'espace est proche des innovations du peintre.",
+      "de": "Er war ein Zeitgenosse Masaccios und wirkte im selben Florentiner Künstlermilieu; seine Art, Figur und Raum darzustellen, steht den Neuerungen des Malers nahe.",
+      "es": "Fue contemporáneo de Masaccio y actuó en el mismo ambiente artístico florentino; su manera de representar la figura y el espacio es cercana a las innovaciones del pintor."
+     }
     }
    ],
    "ritratto": {
     "autore": "Foto: Sailko",
     "licenza": "CC BY 2.5"
+   }
+  },
+  {
+   "id": "masaccio",
+   "nome": "Masaccio",
+   "nascita": 1401,
+   "morte": 1428,
+   "professione": {
+    "it": "Pittore",
+    "en": "Painter",
+    "fr": "Peintre",
+    "de": "Maler",
+    "es": "Pintor"
+   },
+   "luogoNascita": {
+    "it": "San Giovanni Valdarno",
+    "en": "San Giovanni Valdarno",
+    "fr": "San Giovanni Valdarno",
+    "de": "San Giovanni Valdarno",
+    "es": "San Giovanni Valdarno"
+   },
+   "dataNascita": {
+    "it": "21 dicembre 1401",
+    "en": "21 December 1401",
+    "fr": "21 décembre 1401",
+    "de": "21. Dezember 1401",
+    "es": "21 de diciembre de 1401"
+   },
+   "luogoMorte": {
+    "it": "Roma",
+    "en": "Rome",
+    "fr": "Rome",
+    "de": "Rom",
+    "es": "Roma"
+   },
+   "dataMorte": {
+    "it": "1428 (data incerta)",
+    "en": "1428 (date uncertain)",
+    "fr": "1428 (date incertaine)",
+    "de": "1428 (Datum unsicher)",
+    "es": "1428 (fecha incierta)"
+   },
+   "biografia": {
+    "it": "Tommaso di Ser Giovanni Cassai, conosciuto come Masaccio, fu uno dei pittori più innovativi del primo Rinascimento. Nonostante una carriera brevissima, riuscì a trasformare profondamente la pittura fiorentina grazie alla rappresentazione tridimensionale delle figure, all'uso della prospettiva e a una nuova attenzione alla luce e alla naturalezza dei corpi.\n\nLa sua opera più importante è il ciclo di affreschi della Cappella Brancacci, nella chiesa di Santa Maria del Carmine, realizzato insieme a Masolino e lasciato incompiuto quando Masaccio partì per Roma. Fu completato negli anni Ottanta del Quattrocento da Filippino Lippi. Gli affreschi raccontano episodi della vita di San Pietro e costituiscono uno dei punti di riferimento della pittura rinascimentale.\n\nTra le sue opere più celebri si ricordano anche la Trinità in Santa Maria Novella e il polittico di Pisa.\n\nLa sua influenza fu enorme: artisti delle generazioni successive, tra cui Michelangelo, studiarono attentamente le sue opere.",
+    "en": "Tommaso di Ser Giovanni Cassai, known as Masaccio, was one of the most innovative painters of the early Renaissance. Despite a very short career, he profoundly transformed Florentine painting through the three-dimensional rendering of figures, the use of perspective and a new attention to light and to the naturalness of bodies.\n\nHis most important work is the fresco cycle in the Brancacci Chapel, in the church of Santa Maria del Carmine, made together with Masolino and left unfinished when Masaccio left for Rome. It was completed in the 1480s by Filippino Lippi. The frescoes tell episodes from the life of St Peter and are one of the landmarks of Renaissance painting.\n\nAmong his most famous works are also the Trinity in Santa Maria Novella and the Pisa polyptych.\n\nHis influence was enormous: artists of later generations, including Michelangelo, studied his works closely.",
+    "fr": "Tommaso di Ser Giovanni Cassai, connu sous le nom de Masaccio, fut l'un des peintres les plus novateurs de la première Renaissance. Malgré une carrière très brève, il transforma profondément la peinture florentine grâce à la représentation tridimensionnelle des figures, à l'usage de la perspective et à une attention nouvelle portée à la lumière et au naturel des corps.\n\nSon œuvre la plus importante est le cycle de fresques de la chapelle Brancacci, dans l'église Santa Maria del Carmine, réalisé avec Masolino et laissé inachevé lorsque Masaccio partit pour Rome. Il fut achevé dans les années 1480 par Filippino Lippi. Les fresques racontent des épisodes de la vie de saint Pierre et constituent l'un des points de repère de la peinture de la Renaissance.\n\nParmi ses œuvres les plus célèbres figurent aussi la Trinité de Santa Maria Novella et le polyptyque de Pise.\n\nSon influence fut immense : les artistes des générations suivantes, dont Michel-Ange, étudièrent attentivement ses œuvres.",
+    "de": "Tommaso di Ser Giovanni Cassai, genannt Masaccio, war einer der innovativsten Maler der Frührenaissance. Trotz einer sehr kurzen Laufbahn veränderte er die florentinische Malerei tiefgreifend durch die dreidimensionale Darstellung der Figuren, den Einsatz der Perspektive und eine neue Aufmerksamkeit für Licht und die Natürlichkeit der Körper.\n\nSein bedeutendstes Werk ist der Freskenzyklus der Brancacci-Kapelle in der Kirche Santa Maria del Carmine, den er gemeinsam mit Masolino schuf und der unvollendet blieb, als Masaccio nach Rom aufbrach. In den 1480er Jahren wurde er von Filippino Lippi vollendet. Die Fresken erzählen Episoden aus dem Leben des Heiligen Petrus und gehören zu den Richtpunkten der Renaissancemalerei.\n\nZu seinen berühmtesten Werken zählen auch die Dreifaltigkeit in Santa Maria Novella und das Polyptychon von Pisa.\n\nSein Einfluss war enorm: Künstler späterer Generationen, darunter Michelangelo, studierten seine Werke eingehend.",
+    "es": "Tommaso di Ser Giovanni Cassai, conocido como Masaccio, fue uno de los pintores más innovadores del primer Renacimiento. A pesar de una carrera brevísima, transformó profundamente la pintura florentina gracias a la representación tridimensional de las figuras, al uso de la perspectiva y a una nueva atención a la luz y a la naturalidad de los cuerpos.\n\nSu obra más importante es el ciclo de frescos de la Capilla Brancacci, en la iglesia de Santa Maria del Carmine, realizado junto con Masolino y dejado inconcluso cuando Masaccio partió hacia Roma. Fue completado en la década de 1480 por Filippino Lippi. Los frescos narran episodios de la vida de san Pedro y constituyen uno de los puntos de referencia de la pintura renacentista.\n\nEntre sus obras más célebres se recuerdan también la Trinidad de Santa Maria Novella y el políptico de Pisa.\n\nSu influencia fue enorme: artistas de las generaciones siguientes, entre ellos Miguel Ángel, estudiaron atentamente sus obras."
+   },
+   "curiosita": {
+    "it": [
+     "Morto giovanissimo: morì probabilmente a ventisei anni, forse nel 1428; la data e le circostanze esatte restano incerte.",
+     "Il soprannome: Masaccio significa approssimativamente «Tommasaccio» e, secondo la tradizione, deriva dalla sua trascuratezza e distrazione nelle faccende quotidiane.",
+     "Una scuola per pittori: la Cappella Brancacci divenne una sorta di scuola per artisti, e molti vi si recarono a studiare gli affreschi.",
+     "Il naso di Michelangelo: secondo un racconto di Benvenuto Cellini, il giovane Michelangelo disegnava gli affreschi di Masaccio al Carmine quando Pietro Torrigiano, dopo una lite, gli ruppe il naso con un pugno."
+    ],
+    "en": [
+     "Dead very young: he probably died aged twenty-six, perhaps in 1428; the exact date and circumstances remain uncertain.",
+     "The nickname: Masaccio roughly means «Big Tom» or «Clumsy Tom» and, according to tradition, comes from his carelessness and absent-mindedness in everyday matters.",
+     "A school for painters: the Brancacci Chapel became a sort of school for artists, and many went there to study the frescoes.",
+     "Michelangelo's nose: according to an account by Benvenuto Cellini, the young Michelangelo was drawing Masaccio's frescoes at the Carmine when Pietro Torrigiano, after a quarrel, broke his nose with a punch."
+    ],
+    "fr": [
+     "Mort très jeune : il mourut probablement à vingt-six ans, peut-être en 1428 ; la date et les circonstances exactes restent incertaines.",
+     "Le surnom : Masaccio signifie approximativement « gros Thomas » ou « Thomas le maladroit » et, selon la tradition, vient de sa négligence et de sa distraction dans les affaires quotidiennes.",
+     "Une école pour peintres : la chapelle Brancacci devint une sorte d'école pour les artistes, et beaucoup vinrent y étudier les fresques.",
+     "Le nez de Michel-Ange : selon un récit de Benvenuto Cellini, le jeune Michel-Ange dessinait les fresques de Masaccio au Carmine lorsque Pietro Torrigiano, après une dispute, lui cassa le nez d'un coup de poing."
+    ],
+    "de": [
+     "Sehr jung gestorben: Er starb wahrscheinlich mit sechsundzwanzig Jahren, vielleicht 1428; das genaue Datum und die Umstände bleiben ungewiss.",
+     "Der Spitzname: Masaccio bedeutet etwa «dicker Tommaso» oder «ungeschickter Tommaso» und geht der Überlieferung nach auf seine Nachlässigkeit und Zerstreutheit in alltäglichen Dingen zurück.",
+     "Eine Schule für Maler: Die Brancacci-Kapelle wurde zu einer Art Schule für Künstler, und viele kamen, um die Fresken zu studieren.",
+     "Michelangelos Nase: Nach einem Bericht von Benvenuto Cellini zeichnete der junge Michelangelo die Fresken Masaccios im Carmine, als Pietro Torrigiano ihm nach einem Streit mit der Faust die Nase brach."
+    ],
+    "es": [
+     "Muerto muy joven: murió probablemente a los veintiséis años, quizá en 1428; la fecha y las circunstancias exactas siguen siendo inciertas.",
+     "El apodo: Masaccio significa aproximadamente «Tomasón» o «Tomás el torpe» y, según la tradición, deriva de su descuido y distracción en los asuntos cotidianos.",
+     "Una escuela para pintores: la Capilla Brancacci se convirtió en una especie de escuela para artistas, y muchos acudieron a estudiar los frescos.",
+     "La nariz de Miguel Ángel: según un relato de Benvenuto Cellini, el joven Miguel Ángel dibujaba los frescos de Masaccio en el Carmine cuando Pietro Torrigiano, tras una discusión, le rompió la nariz de un puñetazo."
+    ]
+   },
+   "luoghi": [
+    "basilica-di-santa-maria-novella"
+   ],
+   "luoghiNote": {
+    "basilica-di-santa-maria-novella": {
+     "tipo": {
+      "it": "La Trinità",
+      "en": "The Trinity",
+      "fr": "La Trinité",
+      "de": "Die Dreifaltigkeit",
+      "es": "La Trinidad"
+     },
+     "testo": {
+      "it": "Nella navata sinistra si trova la Trinità, affresco dipinto intorno al 1425-1428, celebre per l'uso della prospettiva.",
+      "en": "In the left aisle stands the Trinity, a fresco painted around 1425-1428, famous for its use of perspective.",
+      "fr": "Dans la nef gauche se trouve la Trinité, fresque peinte vers 1425-1428, célèbre pour son usage de la perspective.",
+      "de": "Im linken Seitenschiff befindet sich die Dreifaltigkeit, ein um 1425-1428 gemaltes Fresko, berühmt für seine Perspektive.",
+      "es": "En la nave izquierda se encuentra la Trinidad, fresco pintado hacia 1425-1428, célebre por su uso de la perspectiva."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "filippo-brunelleschi",
+     "testo": {
+      "it": "Le ricerche di Brunelleschi sulla prospettiva e sulla costruzione geometrica dello spazio sono un riferimento fondamentale per capire il linguaggio pittorico di Masaccio. Le fonti parlano di un'amicizia, ma un rapporto personale diretto non è certo.",
+      "en": "Brunelleschi's research on perspective and the geometric construction of space is a fundamental reference for understanding Masaccio's pictorial language. Sources speak of a friendship, but a direct personal relationship is not certain.",
+      "fr": "Les recherches de Brunelleschi sur la perspective et la construction géométrique de l'espace sont une référence fondamentale pour comprendre le langage pictural de Masaccio. Les sources parlent d'une amitié, mais un rapport personnel direct n'est pas certain.",
+      "de": "Brunelleschis Forschungen zur Perspektive und zur geometrischen Konstruktion des Raums sind ein grundlegender Bezugspunkt, um Masaccios Bildsprache zu verstehen. Die Quellen sprechen von einer Freundschaft, eine direkte persönliche Beziehung ist jedoch nicht gesichert.",
+      "es": "Las investigaciones de Brunelleschi sobre la perspectiva y la construcción geométrica del espacio son una referencia fundamental para entender el lenguaje pictórico de Masaccio. Las fuentes hablan de una amistad, pero una relación personal directa no es segura."
+     }
+    },
+    {
+     "id": "donatello",
+     "testo": {
+      "it": "I due furono contemporanei e operarono nella stessa cerchia artistica fiorentina. Donatello contribuì a definire un nuovo modo di rappresentare la figura umana e lo spazio, vicino alle innovazioni di Masaccio.",
+      "en": "The two were contemporaries and worked in the same Florentine artistic circle. Donatello helped define a new way of representing the human figure and space, close to Masaccio's innovations.",
+      "fr": "Les deux étaient contemporains et évoluaient dans le même cercle artistique florentin. Donatello contribua à définir une nouvelle manière de représenter la figure humaine et l'espace, proche des innovations de Masaccio.",
+      "de": "Die beiden waren Zeitgenossen und bewegten sich im selben Florentiner Künstlerkreis. Donatello trug dazu bei, eine neue Art der Darstellung von menschlicher Figur und Raum zu entwickeln, die den Neuerungen Masaccios nahestand.",
+      "es": "Los dos fueron contemporáneos y actuaron en el mismo círculo artístico florentino. Donatello contribuyó a definir una nueva manera de representar la figura humana y el espacio, cercana a las innovaciones de Masaccio."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Nicolas de Larmessin ed Esme de Boulonois, incisione",
+    "licenza": "Pubblico dominio"
    }
   }
  ]
