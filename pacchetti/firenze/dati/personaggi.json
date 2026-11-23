@@ -144,7 +144,11 @@
       "es": "La tradición vincula a Zenobio con la victoria sobre Radagaiso: según una leyenda, Santa Reparata, invocada por él, acudió en ayuda de Florencia asediada. Las tropas romanas que derrotaron a los invasores estaban al mando de Estilicón."
      }
     }
-   ]
+   ],
+   "ritratto": {
+    "autore": "Maestro del Bigallo",
+    "licenza": "Pubblico dominio"
+   }
   },
   {
    "id": "flavio-stilicone",

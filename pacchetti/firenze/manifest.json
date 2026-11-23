@@ -1,5 +1,5 @@
 {
- "versione": "6278dff69397",
+ "versione": "96cf6245336b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3104,6 +3104,12 @@
    "byte": 26970
   },
   {
+   "path": "assets/personaggi/san-zanobi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/san-zanobi.webp",
+   "sha256": "72c0a25272fd7ca9a62d6817473fca1be1b82549c490bd88144744a74f55b5b7",
+   "byte": 100710
+  },
+  {
    "path": "dati/aguzza.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/aguzza.json",
    "sha256": "b41f979eae34d942d318e43f45b62376b7d1630af61f0e76b5af4c1c1da6fb5d",
@@ -3184,8 +3190,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "13791efb4f36581a66a4ea15832128f5a5ef42bad2b611ad86471040579d98af",
-   "byte": 32431
+   "sha256": "98b405d91a619542760e8fc397942372f064b6d09f0432502d59c4ca338ba950",
+   "byte": 32525
   },
   {
    "path": "dati/principali.json",
@@ -3317,6 +3323,12 @@
    "da": "8011472196fb",
    "data": "2026-11-23",
    "byte": 85619
+  },
+  {
+   "versione": "96cf6245336b",
+   "da": "6278dff69397",
+   "data": "2026-11-23",
+   "byte": 133235
   }
  ]
 }
