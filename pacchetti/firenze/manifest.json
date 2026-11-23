@@ -1,5 +1,5 @@
 {
- "versione": "8668933670e9",
+ "versione": "04b15cec0dfb",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3116,6 +3116,12 @@
    "byte": 45178
   },
   {
+   "path": "assets/personaggi/farinata-degli-uberti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/farinata-degli-uberti.webp",
+   "sha256": "0abaa9d7d87cee7dd5f401ee75b207d38a6ed10f1debb2f5f58465a00cb5cd28",
+   "byte": 72962
+  },
+  {
    "path": "assets/personaggi/flavio-stilicone.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/flavio-stilicone.webp",
    "sha256": "eb072863ddad074763e623e4a79b04963d9e57d42c087ac9da5182a8dcf4b42b",
@@ -3144,6 +3150,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/matilde-di-canossa.webp",
    "sha256": "7a9184fedd98abc52e59e70e720759f88e8ffa21a4fbc56f2165c2d35d28a8a8",
    "byte": 36614
+  },
+  {
+   "path": "assets/personaggi/michele-di-lando.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/michele-di-lando.webp",
+   "sha256": "215aa6e5d3c0001debb0c333ec452e18cc67312c0e857b48081d954b1d69f61c",
+   "byte": 78112
   },
   {
    "path": "assets/personaggi/san-zanobi.webp",
@@ -3238,8 +3250,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "b18d9ee72625c8240e6d733b0172c9fc03c3947dcb61b6fa662cdeefea7f2078",
-   "byte": 141614
+   "sha256": "f64063a7aaa65832d7c498a9aaa7737089ed7068b47a814aeab5c19369fa1b40",
+   "byte": 178266
   },
   {
    "path": "dati/principali.json",
@@ -3262,8 +3274,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "0aa83033650f4b8a42f257426f45ca89291f2144cbe954aff0fafc08bf514b47",
-   "byte": 26442
+   "sha256": "62c120b188b95e831c1931c64fce1e1dfd3e2ac6beaaac93493c8328a1858384",
+   "byte": 26495
   },
   {
    "path": "dati/tessere.json",
@@ -3279,13 +3291,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "dde3f174e67c",
-   "da": "c7af099fa5d2",
-   "data": "2026-11-20",
-   "servizi": true,
-   "byte": 328895
-  },
   {
    "versione": "75ed58163fdc",
    "da": "dde3f174e67c",
@@ -3407,6 +3412,12 @@
    "da": "1947d6b27943",
    "data": "2026-11-23",
    "byte": 367028
+  },
+  {
+   "versione": "04b15cec0dfb",
+   "da": "8668933670e9",
+   "data": "2026-11-23",
+   "byte": 355835
   }
  ]
 }

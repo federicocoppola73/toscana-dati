@@ -1076,6 +1076,16 @@
       "de": "Dante lebte und wirkte in der Florentiner Politik nach den mit Giano verbundenen Reformen von 1293. Ein direktes persönliches Verhältnis zwischen beiden ist nicht belegt.",
       "es": "Dante vivió y participó en la vida política de Florencia después de las reformas de 1293, asociadas a Giano. No está documentada una relación personal directa entre ambos."
      }
+    },
+    {
+     "id": "farinata-degli-uberti",
+     "testo": {
+      "it": "Lo incontra tra gli eretici nell'Inferno (canto X), in uno dei dialoghi più celebri della Commedia. Non si conobbero: Farinata morì nel 1264, prima della nascita di Dante.",
+      "en": "He meets him among the heretics in the Inferno (canto X), in one of the most famous dialogues of the Comedy. They never met: Farinata died in 1264, before Dante was born.",
+      "fr": "Il le rencontre parmi les hérétiques dans l'Enfer (chant X), dans l'un des dialogues les plus célèbres de la Comédie. Ils ne se connurent pas : Farinata mourut en 1264, avant la naissance de Dante.",
+      "de": "Er begegnet ihm unter den Ketzern im Inferno (10. Gesang), in einem der berühmtesten Dialoge der Komödie. Sie lernten sich nie kennen: Farinata starb 1264, vor Dantes Geburt.",
+      "es": "Lo encuentra entre los herejes en el Infierno (canto X), en uno de los diálogos más célebres de la Comedia. No se conocieron: Farinata murió en 1264, antes del nacimiento de Dante."
+     }
     }
    ],
    "ritratto": {
@@ -1340,10 +1350,309 @@
       "de": "Dante lebte und wirkte in der Florentiner Politik nach den Reformen von 1293. Giano steht für eine wichtige Phase der institutionellen Entwicklung, in die sich die politische Laufbahn des Dichters einfügte. Ein direktes persönliches Verhältnis zwischen beiden ist nicht belegt.",
       "es": "Dante vivió y participó en la vida política de Florencia después de las reformas de 1293. Giano representa una fase importante de la evolución institucional en la que se inscribió la carrera política del poeta. No está documentada una relación personal directa entre ambos."
      }
+    },
+    {
+     "id": "michele-di-lando",
+     "testo": {
+      "it": "Entrambi sono legati alla partecipazione politica dei gruppi popolari, ma in momenti diversi: Giano con gli Ordinamenti di Giustizia del 1293, Michele di Lando con la rivolta dei Ciompi del 1378.",
+      "en": "Both are tied to the political participation of the popular groups, but at different moments: Giano with the Ordinances of Justice of 1293, Michele di Lando with the Revolt of the Ciompi in 1378.",
+      "fr": "Tous deux sont liés à la participation politique des groupes populaires, mais à des moments différents : Giano avec les Ordonnances de Justice de 1293, Michele di Lando avec la révolte des Ciompi de 1378.",
+      "de": "Beide sind mit der politischen Teilhabe der Volksgruppen verbunden, aber zu unterschiedlichen Zeiten: Giano mit den Ordinamenti di Giustizia von 1293, Michele di Lando mit dem Ciompi-Aufstand von 1378.",
+      "es": "Ambos están ligados a la participación política de los grupos populares, pero en momentos distintos: Giano con los Ordenamientos de Justicia de 1293, Michele di Lando con la revuelta de los Ciompi de 1378."
+     }
     }
    ],
    "ritratto": {
     "autore": "Autore sconosciuto, miniatura",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "michele-di-lando",
+   "nome": "Michele di Lando",
+   "ordine": 1378,
+   "professione": {
+    "it": "Cardatore di lana e capo popolare",
+    "en": "Wool carder and popular leader",
+    "fr": "Cardeur de laine et chef populaire",
+    "de": "Wollkämmer und Volksführer",
+    "es": "Cardador de lana y líder popular"
+   },
+   "luogoNascita": {
+    "it": "Probabilmente Firenze",
+    "en": "Probably Florence",
+    "fr": "Probablement Florence",
+    "de": "Wahrscheinlich Florenz",
+    "es": "Probablemente Florencia"
+   },
+   "dataNascita": {
+    "it": "Prima metà del XIV secolo (data non documentata)",
+    "en": "First half of the 14th century (date not documented)",
+    "fr": "Première moitié du XIVe siècle (date non documentée)",
+    "de": "Erste Hälfte des 14. Jahrhunderts (Datum nicht belegt)",
+    "es": "Primera mitad del siglo XIV (fecha no documentada)"
+   },
+   "luogoMorte": {
+    "it": "Non noto con certezza",
+    "en": "Not known with certainty",
+    "fr": "Non connu avec certitude",
+    "de": "Nicht sicher bekannt",
+    "es": "No conocido con certeza"
+   },
+   "dataMorte": {
+    "it": "Non nota con certezza (le fonti lo attestano anche dopo il 1378)",
+    "en": "Not known with certainty (sources attest him after 1378)",
+    "fr": "Non connue avec certitude (les sources l'attestent encore après 1378)",
+    "de": "Nicht sicher bekannt (die Quellen belegen ihn auch nach 1378)",
+    "es": "No conocida con certeza (las fuentes lo atestiguan también después de 1378)"
+   },
+   "biografia": {
+    "it": "Michele di Lando è una delle figure più significative della storia sociale della Firenze medievale. Il suo nome è legato al Tumulto dei Ciompi del 1378, una delle più importanti rivolte popolari della storia comunale italiana.\n\nI Ciompi erano lavoratori della lana, impiegati soprattutto nelle fasi più faticose della produzione tessile. Pur rappresentando una parte fondamentale dell'economia fiorentina, non avevano una propria Arte riconosciuta e non godevano degli stessi diritti politici dei gruppi mercantili e artigiani più influenti.\n\nNel luglio del 1378 la tensione sociale esplose in una rivolta che coinvolse i lavoratori più poveri e altri gruppi esclusi dal potere politico. Michele di Lando, un cardatore di lana, emerse come uno dei protagonisti del movimento e il 22 luglio fu nominato gonfaloniere di giustizia, una delle cariche più importanti del Comune.\n\nPer un breve periodo, circa sei settimane, la rivolta riuscì a modificare gli equilibri politici della città, permettendo anche ai lavoratori non organizzati nelle Arti tradizionali di ottenere una rappresentanza istituzionale.\n\nL'esperienza ebbe però vita breve. Le divisioni interne al movimento, i contrasti tra i diversi gruppi sociali e la reazione delle élite cittadine portarono alla progressiva sconfitta della rivolta.\n\nMichele di Lando rimase una figura controversa: per alcuni un protagonista dell'emancipazione popolare, per altri un uomo che finì per allontanarsi dalle istanze più radicali del movimento che lo aveva portato al potere.",
+    "en": "Michele di Lando is one of the most significant figures in the social history of medieval Florence. His name is tied to the Revolt of the Ciompi in 1378, one of the most important popular uprisings in the history of the Italian communes.\n\nThe Ciompi were wool workers, employed above all in the most gruelling stages of textile production. Although they were a fundamental part of the Florentine economy, they had no guild of their own and did not enjoy the same political rights as the more influential merchant and artisan groups.\n\nIn July 1378 social tension exploded into a revolt involving the poorest workers and other groups excluded from political power. Michele di Lando, a wool carder, emerged as one of the leaders of the movement and on 22 July was named gonfaloniere di giustizia, one of the most important offices of the Commune.\n\nFor a short time, about six weeks, the revolt managed to change the city's political balance, allowing even workers not organised in the traditional guilds to obtain institutional representation.\n\nThe experience was short-lived, however. Divisions within the movement, clashes between the different social groups and the reaction of the city's elites led to the gradual defeat of the revolt.\n\nMichele di Lando remained a controversial figure: for some a protagonist of popular emancipation, for others a man who ended up drifting away from the more radical demands of the movement that had brought him to power.",
+    "fr": "Michele di Lando est l'une des figures les plus significatives de l'histoire sociale de la Florence médiévale. Son nom est lié à la révolte des Ciompi de 1378, l'un des plus importants soulèvements populaires de l'histoire des communes italiennes.\n\nLes Ciompi étaient des ouvriers de la laine, employés surtout dans les phases les plus pénibles de la production textile. Bien qu'ils représentent une part fondamentale de l'économie florentine, ils n'avaient pas de corporation reconnue et ne jouissaient pas des mêmes droits politiques que les groupes de marchands et d'artisans les plus influents.\n\nEn juillet 1378, la tension sociale explosa en une révolte qui impliqua les travailleurs les plus pauvres et d'autres groupes exclus du pouvoir politique. Michele di Lando, un cardeur de laine, s'imposa comme l'un des protagonistes du mouvement et fut nommé, le 22 juillet, gonfalonier de justice, l'une des plus hautes charges de la Commune.\n\nPendant une brève période, environ six semaines, la révolte parvint à modifier les équilibres politiques de la ville, permettant même aux travailleurs non organisés dans les corporations traditionnelles d'obtenir une représentation institutionnelle.\n\nL'expérience fut toutefois de courte durée. Les divisions internes au mouvement, les conflits entre les différents groupes sociaux et la réaction des élites de la ville menèrent à la défaite progressive de la révolte.\n\nMichele di Lando resta une figure controversée : pour certains un protagoniste de l'émancipation populaire, pour d'autres un homme qui finit par s'éloigner des revendications les plus radicales du mouvement qui l'avait porté au pouvoir.",
+    "de": "Michele di Lando ist eine der bedeutendsten Gestalten der Sozialgeschichte des mittelalterlichen Florenz. Sein Name ist mit dem Ciompi-Aufstand von 1378 verbunden, einem der wichtigsten Volksaufstände in der Geschichte der italienischen Kommunen.\n\nDie Ciompi waren Wollarbeiter, die vor allem in den mühsamsten Phasen der Textilproduktion tätig waren. Obwohl sie einen grundlegenden Teil der Florentiner Wirtschaft ausmachten, hatten sie keine eigene anerkannte Zunft und genossen nicht dieselben politischen Rechte wie die einflussreicheren Kaufmanns- und Handwerkergruppen.\n\nIm Juli 1378 entlud sich die soziale Spannung in einem Aufstand, an dem die ärmsten Arbeiter und andere von der politischen Macht ausgeschlossene Gruppen beteiligt waren. Michele di Lando, ein Wollkämmer, trat als einer der Anführer der Bewegung hervor und wurde am 22. Juli zum Gonfaloniere di Giustizia ernannt, einem der wichtigsten Ämter der Kommune.\n\nFür kurze Zeit, etwa sechs Wochen, gelang es dem Aufstand, das politische Gleichgewicht der Stadt zu verändern, und auch Arbeiter, die nicht in den traditionellen Zünften organisiert waren, erhielten eine institutionelle Vertretung.\n\nDas Experiment währte jedoch nur kurz. Spaltungen innerhalb der Bewegung, Konflikte zwischen den verschiedenen sozialen Gruppen und die Reaktion der städtischen Eliten führten zur allmählichen Niederlage des Aufstands.\n\nMichele di Lando blieb eine umstrittene Gestalt: für die einen ein Protagonist der Volksemanzipation, für andere ein Mann, der sich am Ende von den radikaleren Forderungen der Bewegung entfernte, die ihn an die Macht gebracht hatte.",
+    "es": "Michele di Lando es una de las figuras más significativas de la historia social de la Florencia medieval. Su nombre está ligado al Tumulto de los Ciompi de 1378, una de las más importantes revueltas populares de la historia comunal italiana.\n\nLos Ciompi eran trabajadores de la lana, empleados sobre todo en las fases más penosas de la producción textil. Aunque representaban una parte fundamental de la economía florentina, no tenían un gremio propio reconocido y no gozaban de los mismos derechos políticos que los grupos de mercaderes y artesanos más influyentes.\n\nEn julio de 1378 la tensión social estalló en una revuelta que implicó a los trabajadores más pobres y a otros grupos excluidos del poder político. Michele di Lando, un cardador de lana, surgió como uno de los protagonistas del movimiento y el 22 de julio fue nombrado gonfaloniere di giustizia, uno de los cargos más importantes de la Comuna.\n\nDurante un breve periodo, unas seis semanas, la revuelta consiguió modificar los equilibrios políticos de la ciudad, permitiendo que también los trabajadores no organizados en los gremios tradicionales obtuvieran una representación institucional.\n\nLa experiencia fue, sin embargo, efímera. Las divisiones internas del movimiento, los enfrentamientos entre los distintos grupos sociales y la reacción de las élites de la ciudad llevaron a la progresiva derrota de la revuelta.\n\nMichele di Lando siguió siendo una figura controvertida: para unos, un protagonista de la emancipación popular; para otros, un hombre que acabó alejándose de las demandas más radicales del movimiento que lo había llevado al poder."
+   },
+   "curiosita": {
+    "it": [
+     "Chi erano i Ciompi: il nome indicava i lavoratori più umili dell'industria della lana, in particolare quelli addetti alle operazioni manuali più pesanti.",
+     "Dal basso al vertice: nel luglio 1378 un lavoratore proveniente dai ceti più bassi della società cittadina riuscì a raggiungere una delle più alte cariche politiche del Comune.",
+     "Una rivolta europea: il Tumulto dei Ciompi è spesso considerato uno dei primi grandi esempi europei di rivolta urbana legata alle condizioni del lavoro e all'esclusione politica.",
+     "Una cronaca d'epoca: la vicenda è raccontata anche nella Cronica di Marchionne di Coppo Stefani, una fonte importante per la storia fiorentina del Trecento."
+    ],
+    "en": [
+     "Who the Ciompi were: the name referred to the humblest workers of the wool industry, in particular those doing the heaviest manual tasks.",
+     "From the bottom to the top: in July 1378 a worker from the lowest ranks of city society managed to reach one of the highest political offices of the Commune.",
+     "A European revolt: the Revolt of the Ciompi is often considered one of the first great European examples of an urban uprising tied to working conditions and political exclusion.",
+     "A chronicle of the time: the story is also told in the Cronica of Marchionne di Coppo Stefani, an important source for fourteenth-century Florentine history."
+    ],
+    "fr": [
+     "Qui étaient les Ciompi : le nom désignait les travailleurs les plus humbles de l'industrie de la laine, en particulier ceux chargés des opérations manuelles les plus lourdes.",
+     "De la base au sommet : en juillet 1378, un ouvrier issu des couches les plus basses de la société urbaine réussit à atteindre l'une des plus hautes charges politiques de la Commune.",
+     "Une révolte européenne : la révolte des Ciompi est souvent considérée comme l'un des premiers grands exemples européens de soulèvement urbain lié aux conditions de travail et à l'exclusion politique.",
+     "Une chronique de l'époque : l'épisode est aussi raconté dans la Cronica de Marchionne di Coppo Stefani, source importante pour l'histoire florentine du XIVe siècle."
+    ],
+    "de": [
+     "Wer die Ciompi waren: Der Name bezeichnete die einfachsten Arbeiter der Wollindustrie, besonders jene, die die schwersten Handarbeiten verrichteten.",
+     "Von unten nach oben: Im Juli 1378 gelang es einem Arbeiter aus den untersten Schichten der Stadtgesellschaft, eines der höchsten politischen Ämter der Kommune zu erreichen.",
+     "Ein europäischer Aufstand: Der Ciompi-Aufstand gilt oft als eines der ersten großen europäischen Beispiele eines städtischen Aufstands, der mit den Arbeitsbedingungen und politischer Ausgrenzung zusammenhing.",
+     "Eine Chronik der Zeit: Die Geschichte wird auch in der Cronica des Marchionne di Coppo Stefani erzählt, einer wichtigen Quelle für die Florentiner Geschichte des 14. Jahrhunderts."
+    ],
+    "es": [
+     "Quiénes eran los Ciompi: el nombre designaba a los trabajadores más humildes de la industria de la lana, en particular a los encargados de las tareas manuales más pesadas.",
+     "De abajo a la cima: en julio de 1378 un trabajador procedente de los estratos más bajos de la sociedad urbana logró alcanzar uno de los más altos cargos políticos de la Comuna.",
+     "Una revuelta europea: el Tumulto de los Ciompi se considera a menudo uno de los primeros grandes ejemplos europeos de revuelta urbana ligada a las condiciones de trabajo y a la exclusión política.",
+     "Una crónica de la época: el episodio se narra también en la Cronica de Marchionne di Coppo Stefani, una fuente importante para la historia florentina del siglo XIV."
+    ]
+   },
+   "luoghi": [
+    "piazza-della-signoria",
+    "palazzo-vecchio",
+    "chiesa-e-museo-di-orsanmichele"
+   ],
+   "luoghiNote": {
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Centro del potere",
+      "en": "Seat of power",
+      "fr": "Centre du pouvoir",
+      "de": "Zentrum der Macht",
+      "es": "Centro del poder"
+     },
+     "testo": {
+      "it": "Centro del potere politico comunale e teatro delle vicende istituzionali che accompagnarono la rivolta.",
+      "en": "Centre of communal political power and stage of the institutional events that accompanied the revolt.",
+      "fr": "Centre du pouvoir politique communal et théâtre des événements institutionnels qui accompagnèrent la révolte.",
+      "de": "Zentrum der kommunalen politischen Macht und Schauplatz der institutionellen Ereignisse, die den Aufstand begleiteten.",
+      "es": "Centro del poder político comunal y escenario de los acontecimientos institucionales que acompañaron la revuelta."
+     }
+    },
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "Il luogo della rivolta",
+      "en": "Where the revolt peaked",
+      "fr": "Le lieu de la révolte",
+      "de": "Ort des Aufstands",
+      "es": "El lugar de la revuelta"
+     },
+     "testo": {
+      "it": "Il 22 luglio 1378 i rivoltosi occuparono il Palazzo dei Priori, oggi Palazzo Vecchio, sede del gonfaloniere di giustizia.",
+      "en": "On 22 July 1378 the rebels occupied the Palazzo dei Priori, today's Palazzo Vecchio, seat of the gonfaloniere di giustizia.",
+      "fr": "Le 22 juillet 1378, les insurgés occupèrent le Palazzo dei Priori, aujourd'hui Palazzo Vecchio, siège du gonfalonier de justice.",
+      "de": "Am 22. Juli 1378 besetzten die Aufständischen den Palazzo dei Priori, den heutigen Palazzo Vecchio, Sitz des Gonfaloniere di Giustizia.",
+      "es": "El 22 de julio de 1378 los rebeldes ocuparon el Palazzo dei Priori, hoy Palazzo Vecchio, sede del gonfaloniere di giustizia."
+     }
+    },
+    "chiesa-e-museo-di-orsanmichele": {
+     "tipo": {
+      "it": "Contesto sociale",
+      "en": "Social setting",
+      "fr": "Cadre social",
+      "de": "Sozialer Zusammenhang",
+      "es": "Contexto social"
+     },
+     "testo": {
+      "it": "Luogo simbolico dell'organizzazione delle Arti e della struttura sociale ed economica fiorentina.",
+      "en": "A symbolic place for the organisation of the Arti and for Florence's social and economic structure.",
+      "fr": "Lieu symbolique de l'organisation des Arti et de la structure sociale et économique florentine.",
+      "de": "Symbolischer Ort der Organisation der Arti und der sozialen und wirtschaftlichen Struktur von Florenz.",
+      "es": "Lugar simbólico de la organización de las Arti y de la estructura social y económica florentina."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "giano-della-bella",
+     "testo": {
+      "it": "Entrambi sono legati alla partecipazione politica dei gruppi popolari, ma in momenti diversi. Giano intervenne nell'organizzazione istituzionale del Comune alla fine del Duecento; Michele di Lando rappresentò invece le rivendicazioni dei lavoratori esclusi dalle Arti nel 1378.",
+      "en": "Both are tied to the political participation of the popular groups, but at different moments. Giano shaped the institutional organisation of the Commune at the end of the thirteenth century; Michele di Lando instead represented the demands of the workers excluded from the guilds in 1378.",
+      "fr": "Tous deux sont liés à la participation politique des groupes populaires, mais à des moments différents. Giano intervint dans l'organisation institutionnelle de la Commune à la fin du XIIIe siècle ; Michele di Lando représenta quant à lui les revendications des travailleurs exclus des corporations en 1378.",
+      "de": "Beide sind mit der politischen Teilhabe der Volksgruppen verbunden, aber zu unterschiedlichen Zeiten. Giano griff Ende des 13. Jahrhunderts in die institutionelle Ordnung der Kommune ein; Michele di Lando vertrat dagegen 1378 die Forderungen der von den Zünften ausgeschlossenen Arbeiter.",
+      "es": "Ambos están ligados a la participación política de los grupos populares, pero en momentos distintos. Giano intervino en la organización institucional de la Comuna a finales del siglo XIII; Michele di Lando representó en cambio las reivindicaciones de los trabajadores excluidos de los gremios en 1378."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Fabrizio Garrisi",
+    "licenza": "CC0"
+   }
+  },
+  {
+   "id": "farinata-degli-uberti",
+   "nome": "Farinata degli Uberti",
+   "nascita": 1212,
+   "morte": 1264,
+   "professione": {
+    "it": "Uomo politico e capo ghibellino",
+    "en": "Politician and Ghibelline leader",
+    "fr": "Homme politique et chef gibelin",
+    "de": "Politiker und ghibellinischer Anführer",
+    "es": "Político y jefe gibelino"
+   },
+   "luogoNascita": {
+    "it": "Probabilmente Firenze",
+    "en": "Probably Florence",
+    "fr": "Probablement Florence",
+    "de": "Wahrscheinlich Florenz",
+    "es": "Probablemente Florencia"
+   },
+   "dataNascita": {
+    "it": "Circa 1212",
+    "en": "Around 1212",
+    "fr": "Vers 1212",
+    "de": "Um 1212",
+    "es": "Hacia 1212"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "1264 (secondo molte fonti l'11 novembre)",
+    "en": "1264 (according to many sources 11 November)",
+    "fr": "1264 (selon de nombreuses sources, le 11 novembre)",
+    "de": "1264 (laut vielen Quellen am 11. November)",
+    "es": "1264 (según muchas fuentes, el 11 de noviembre)"
+   },
+   "biografia": {
+    "it": "Manente degli Uberti, detto Farinata, fu uno dei più importanti protagonisti delle lotte politiche tra Guelfi e Ghibellini nella Firenze del Duecento. Appartenente a una delle famiglie più influenti della città, divenne il principale esponente della parte ghibellina, sostenitrice dell'autorità imperiale.\n\nLe sue vicende politiche furono segnate da continui conflitti con i Guelfi, che portarono più volte all'espulsione e al ritorno delle famiglie appartenenti alle due fazioni.\n\nIl momento più importante della sua carriera fu la battaglia di Montaperti del 4 settembre 1260, nella quale le forze ghibelline, alleate con Siena e sostenute da Manfredi di Sicilia, sconfissero duramente l'esercito fiorentino guelfo.\n\nDopo la vittoria, Farinata partecipò alla riunione dei capi ghibellini a Empoli, durante la quale venne proposta la distruzione di Firenze, considerata il principale centro di opposizione guelfa in Toscana. Secondo la tradizione storica, Farinata si oppose con decisione al progetto e contribuì a salvare la città.\n\nMorì nel 1264 e fu sepolto nella chiesa di Santa Reparata, sul cui sito sorge oggi il Duomo. Nel 1283 fu condannato postumo per eresia. La sua fama fu consolidata da Dante Alighieri, che lo inserì nell'Inferno, nel cerchio degli eretici, dedicandogli uno dei dialoghi più celebri della Divina Commedia.",
+    "en": "Manente degli Uberti, known as Farinata, was one of the leading figures in the political struggles between Guelphs and Ghibellines in thirteenth-century Florence. Belonging to one of the city's most influential families, he became the main leader of the Ghibelline party, which supported imperial authority.\n\nHis political career was marked by constant conflicts with the Guelphs, which led several times to the expulsion and return of families belonging to the two factions.\n\nThe high point of his career was the battle of Montaperti on 4 September 1260, in which the Ghibelline forces, allied with Siena and backed by Manfred of Sicily, heavily defeated the Guelph Florentine army.\n\nAfter the victory, Farinata took part in the meeting of the Ghibelline leaders at Empoli, where the destruction of Florence, seen as the main centre of Guelph opposition in Tuscany, was proposed. According to historical tradition, Farinata firmly opposed the plan and helped save the city.\n\nHe died in 1264 and was buried in the church of Santa Reparata, on whose site the Duomo now stands. In 1283 he was posthumously condemned for heresy. His fame was cemented by Dante Alighieri, who placed him in the Inferno, in the circle of the heretics, giving him one of the most famous dialogues of the Divine Comedy.",
+    "fr": "Manente degli Uberti, dit Farinata, fut l'un des principaux protagonistes des luttes politiques entre guelfes et gibelins dans la Florence du XIIIe siècle. Issu de l'une des familles les plus influentes de la ville, il devint le principal chef du parti gibelin, partisan de l'autorité impériale.\n\nSa carrière politique fut marquée par des conflits continuels avec les guelfes, qui entraînèrent à plusieurs reprises l'expulsion et le retour des familles des deux factions.\n\nLe moment le plus important de sa carrière fut la bataille de Montaperti, le 4 septembre 1260, où les forces gibelines, alliées à Sienne et soutenues par Manfred de Sicile, infligèrent une lourde défaite à l'armée florentine guelfe.\n\nAprès la victoire, Farinata participa à la réunion des chefs gibelins à Empoli, au cours de laquelle fut proposée la destruction de Florence, considérée comme le principal centre d'opposition guelfe en Toscane. Selon la tradition historique, Farinata s'opposa fermement au projet et contribua à sauver la ville.\n\nIl mourut en 1264 et fut enterré dans l'église Santa Reparata, sur le site de laquelle s'élève aujourd'hui le Duomo. En 1283, il fut condamné à titre posthume pour hérésie. Sa renommée fut consolidée par Dante Alighieri, qui le plaça dans l'Enfer, dans le cercle des hérétiques, lui consacrant l'un des dialogues les plus célèbres de la Divine Comédie.",
+    "de": "Manente degli Uberti, genannt Farinata, war eine der Hauptfiguren der politischen Kämpfe zwischen Guelfen und Ghibellinen im Florenz des 13. Jahrhunderts. Als Angehöriger einer der einflussreichsten Familien der Stadt wurde er zum wichtigsten Anführer der ghibellinischen Partei, die die kaiserliche Autorität unterstützte.\n\nSeine politische Laufbahn war von ständigen Konflikten mit den Guelfen geprägt, die mehrfach zur Vertreibung und Rückkehr der Familien beider Parteien führten.\n\nDer wichtigste Moment seiner Laufbahn war die Schlacht von Montaperti am 4. September 1260, in der die ghibellinischen Truppen, im Bündnis mit Siena und unterstützt von Manfred von Sizilien, das guelfische Florentiner Heer schwer besiegten.\n\nNach dem Sieg nahm Farinata an der Versammlung der ghibellinischen Anführer in Empoli teil, bei der die Zerstörung von Florenz, dem wichtigsten Zentrum des guelfischen Widerstands in der Toskana, vorgeschlagen wurde. Nach der historischen Überlieferung widersetzte sich Farinata dem Plan entschieden und trug dazu bei, die Stadt zu retten.\n\nEr starb 1264 und wurde in der Kirche Santa Reparata beigesetzt, an deren Stelle heute der Dom steht. 1283 wurde er postum wegen Häresie verurteilt. Sein Ruhm wurde durch Dante Alighieri gefestigt, der ihn im Inferno in den Kreis der Ketzer versetzte und ihm einen der berühmtesten Dialoge der Göttlichen Komödie widmete.",
+    "es": "Manente degli Uberti, llamado Farinata, fue uno de los principales protagonistas de las luchas políticas entre güelfos y gibelinos en la Florencia del siglo XIII. Perteneciente a una de las familias más influyentes de la ciudad, se convirtió en el principal exponente del partido gibelino, defensor de la autoridad imperial.\n\nSu trayectoria política estuvo marcada por continuos conflictos con los güelfos, que provocaron varias veces la expulsión y el regreso de las familias de ambas facciones.\n\nEl momento más importante de su carrera fue la batalla de Montaperti, el 4 de septiembre de 1260, en la que las fuerzas gibelinas, aliadas con Siena y apoyadas por Manfredo de Sicilia, derrotaron duramente al ejército florentino güelfo.\n\nTras la victoria, Farinata participó en la reunión de los jefes gibelinos en Empoli, en la que se propuso la destrucción de Florencia, considerada el principal centro de oposición güelfa en la Toscana. Según la tradición histórica, Farinata se opuso con decisión al proyecto y contribuyó a salvar la ciudad.\n\nMurió en 1264 y fue sepultado en la iglesia de Santa Reparata, en cuyo solar se alza hoy el Duomo. En 1283 fue condenado póstumamente por herejía. Su fama fue consolidada por Dante Alighieri, que lo colocó en el Infierno, en el círculo de los herejes, dedicándole uno de los diálogos más célebres de la Divina Comedia."
+   },
+   "curiosita": {
+    "it": [
+     "Un soprannome biondo: il soprannome Farinata potrebbe derivare dal colore biondo dei suoi capelli.",
+     "Eretico dopo la morte: Dante lo colloca tra gli eretici perché, secondo le accuse dell'epoca, avrebbe sostenuto idee che negavano l'immortalità dell'anima. La condanna per eresia fu pronunciata postuma nel 1283.",
+     "Il consiglio di Empoli: il celebre episodio della riunione di Empoli, nella quale avrebbe difeso Firenze dalla distruzione, è diventato uno dei tratti più significativi della sua memoria storica.",
+     "Il canto X: il dialogo con Dante è ambientato tra le tombe infuocate degli eretici; Farinata si solleva dal sepolcro e parla al poeta con orgoglio e fierezza.",
+     "Una piazza non simmetrica: secondo la tradizione, Palazzo Vecchio non sorge al centro di Piazza della Signoria perché si evitò di costruire sull'area già occupata dalle case degli Uberti, fatte demolire dopo la loro cacciata."
+    ],
+    "en": [
+     "A blond nickname: the nickname Farinata may come from the blond colour of his hair.",
+     "A heretic after death: Dante places him among the heretics because, according to the accusations of the time, he held ideas denying the immortality of the soul. The condemnation for heresy was pronounced posthumously in 1283.",
+     "The council at Empoli: the famous episode of the meeting at Empoli, where he is said to have defended Florence from destruction, became one of the most significant features of his historical memory.",
+     "Canto X: the dialogue with Dante is set among the burning tombs of the heretics; Farinata rises from his tomb and speaks to the poet with pride and fierceness.",
+     "An asymmetrical square: according to tradition, Palazzo Vecchio does not stand in the middle of Piazza della Signoria because builders avoided the area once occupied by the Uberti houses, demolished after the family was expelled."
+    ],
+    "fr": [
+     "Un surnom blond : le surnom Farinata pourrait venir de la couleur blonde de ses cheveux.",
+     "Hérétique après sa mort : Dante le place parmi les hérétiques parce que, selon les accusations de l'époque, il aurait soutenu des idées niant l'immortalité de l'âme. La condamnation pour hérésie fut prononcée à titre posthume en 1283.",
+     "Le conseil d'Empoli : le célèbre épisode de la réunion d'Empoli, où il aurait défendu Florence contre la destruction, est devenu l'un des traits les plus marquants de sa mémoire historique.",
+     "Le chant X : le dialogue avec Dante se déroule parmi les tombeaux enflammés des hérétiques ; Farinata se dresse hors de son sépulcre et s'adresse au poète avec fierté et fermeté.",
+     "Une place asymétrique : selon la tradition, le Palazzo Vecchio ne s'élève pas au centre de la Piazza della Signoria parce qu'on évita de construire sur l'emplacement occupé par les maisons des Uberti, démolies après leur expulsion."
+    ],
+    "de": [
+     "Ein blonder Beiname: Der Beiname Farinata könnte von der blonden Haarfarbe herrühren.",
+     "Ketzer nach dem Tod: Dante versetzt ihn unter die Ketzer, weil er nach den damaligen Anschuldigungen Ideen vertreten haben soll, die die Unsterblichkeit der Seele leugneten. Die Verurteilung wegen Häresie erfolgte postum im Jahr 1283.",
+     "Die Versammlung von Empoli: Die berühmte Episode der Versammlung von Empoli, bei der er Florenz vor der Zerstörung verteidigt haben soll, wurde zu einem der bezeichnendsten Züge seines historischen Gedächtnisses.",
+     "Der zehnte Gesang: Der Dialog mit Dante spielt zwischen den brennenden Gräbern der Ketzer; Farinata erhebt sich aus seinem Grab und spricht mit Stolz und Strenge zum Dichter.",
+     "Ein unsymmetrischer Platz: Der Überlieferung nach steht der Palazzo Vecchio nicht in der Mitte der Piazza della Signoria, weil man es vermied, auf dem Gelände zu bauen, das zuvor von den Häusern der Uberti besetzt war, die nach ihrer Vertreibung abgerissen wurden."
+    ],
+    "es": [
+     "Un apodo rubio: el apodo Farinata podría derivar del color rubio de su cabello.",
+     "Hereje tras su muerte: Dante lo coloca entre los herejes porque, según las acusaciones de la época, habría defendido ideas que negaban la inmortalidad del alma. La condena por herejía fue pronunciada póstumamente en 1283.",
+     "El consejo de Empoli: el célebre episodio de la reunión de Empoli, en la que habría defendido a Florencia de la destrucción, se convirtió en uno de los rasgos más significativos de su memoria histórica.",
+     "El canto X: el diálogo con Dante se desarrolla entre las tumbas ardientes de los herejes; Farinata se alza de su sepulcro y habla al poeta con orgullo y firmeza.",
+     "Una plaza asimétrica: según la tradición, el Palazzo Vecchio no se alza en el centro de la Piazza della Signoria porque se evitó construir en el solar ocupado antes por las casas de los Uberti, demolidas tras su expulsión."
+    ]
+   },
+   "luoghi": [
+    "piazza-della-signoria",
+    "cattedrale-di-santa-maria-del-fiore"
+   ],
+   "luoghiNote": {
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Le case degli Uberti",
+      "en": "The Uberti houses",
+      "fr": "Les maisons des Uberti",
+      "de": "Die Häuser der Uberti",
+      "es": "Las casas de los Uberti"
+     },
+     "testo": {
+      "it": "Qui sorgevano le case e le torri degli Uberti, distrutte dopo il 1266.",
+      "en": "The Uberti houses and towers stood here; they were destroyed after 1266.",
+      "fr": "Ici s'élevaient les maisons et les tours des Uberti, détruites après 1266.",
+      "de": "Hier standen die Häuser und Türme der Uberti, die nach 1266 zerstört wurden.",
+      "es": "Aquí se alzaban las casas y las torres de los Uberti, destruidas después de 1266."
+     }
+    },
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "La sepoltura",
+      "en": "His burial",
+      "fr": "La sépulture",
+      "de": "Die Grablege",
+      "es": "La sepultura"
+     },
+     "testo": {
+      "it": "Fu sepolto nella chiesa di Santa Reparata, sul cui sito sorge oggi il Duomo; non ne resta una tomba identificabile.",
+      "en": "He was buried in the church of Santa Reparata, on whose site the Duomo now stands; no identifiable tomb survives.",
+      "fr": "Il fut enterré dans l'église Santa Reparata, sur le site de laquelle s'élève aujourd'hui le Duomo ; aucune tombe identifiable n'en subsiste.",
+      "de": "Er wurde in der Kirche Santa Reparata beigesetzt, an deren Stelle heute der Dom steht; ein identifizierbares Grab ist nicht erhalten.",
+      "es": "Fue sepultado en la iglesia de Santa Reparata, en cuyo solar se alza hoy el Duomo; no se conserva una tumba identificable."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "dante-alighieri",
+     "testo": {
+      "it": "È uno dei personaggi più importanti incontrati da Dante nell'Inferno (canto X). Il dialogo tra i due mette in evidenza il contrasto politico tra le rispettive famiglie e il comune amore per Firenze. Non si conobbero: Farinata morì nel 1264, prima della nascita del poeta.",
+      "en": "He is one of the most important figures Dante meets in the Inferno (canto X). Their dialogue highlights the political clash between their families and their shared love for Florence. They never met: Farinata died in 1264, before the poet was born.",
+      "fr": "Il est l'un des personnages les plus importants rencontrés par Dante dans l'Enfer (chant X). Leur dialogue met en évidence l'opposition politique entre leurs familles et l'amour commun pour Florence. Ils ne se connurent pas : Farinata mourut en 1264, avant la naissance du poète.",
+      "de": "Er ist eine der wichtigsten Gestalten, denen Dante im Inferno begegnet (10. Gesang). Der Dialog zwischen beiden zeigt den politischen Gegensatz ihrer Familien und die gemeinsame Liebe zu Florenz. Sie lernten sich nie kennen: Farinata starb 1264, vor der Geburt des Dichters.",
+      "es": "Es uno de los personajes más importantes que Dante encuentra en el Infierno (canto X). El diálogo entre ambos pone de relieve el contraste político entre sus familias y el amor común por Florencia. No se conocieron: Farinata murió en 1264, antes del nacimiento del poeta."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Andrea del Castagno",
     "licenza": "Pubblico dominio"
    }
   }
