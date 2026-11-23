@@ -1,5 +1,5 @@
 {
- "versione": "35713b58cbaf",
+ "versione": "618d5dbdb752",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3098,10 +3098,22 @@
    "byte": 0
   },
   {
+   "path": "assets/personaggi/cimabue.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/cimabue.webp",
+   "sha256": "ab40c60af7a72e22e6a898efc100157f5229b8b23763d21be1c35f2d02705804",
+   "byte": 173586
+  },
+  {
    "path": "assets/personaggi/flavio-stilicone.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/flavio-stilicone.webp",
    "sha256": "eb072863ddad074763e623e4a79b04963d9e57d42c087ac9da5182a8dcf4b42b",
    "byte": 26970
+  },
+  {
+   "path": "assets/personaggi/giotto.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/giotto.webp",
+   "sha256": "3cdd7949f7a7aa2dffe8f6ee0c24bf774c04beb8216f8653956b7629963f0ca3",
+   "byte": 146024
   },
   {
    "path": "assets/personaggi/matilde-di-canossa.webp",
@@ -3202,8 +3214,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "fab981828d06c080bee7672168f185c0cb8f363ac2fc77e04b2ac09c5339c627",
-   "byte": 54100
+   "sha256": "5744d511c68eb2bb8082e8dad4971855f7a5e2add30b1c5262a630cc288beaef",
+   "byte": 80672
   },
   {
    "path": "dati/principali.json",
@@ -3226,8 +3238,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "57c81d8cb771aba1d42b802898583269e370dd79981cc59458e6ee908372b7cc",
-   "byte": 26290
+   "sha256": "ce1f1d969525b26e5c5abf44e9a1d08ab88dd8d7563c90fceb32093733283f5c",
+   "byte": 26343
   },
   {
    "path": "dati/tessere.json",
@@ -3353,6 +3365,12 @@
    "da": "75b399a58e17",
    "data": "2026-11-23",
    "byte": 159892
+  },
+  {
+   "versione": "618d5dbdb752",
+   "da": "35713b58cbaf",
+   "data": "2026-11-23",
+   "byte": 426625
   }
  ]
 }

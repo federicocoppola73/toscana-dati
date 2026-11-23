@@ -452,6 +452,269 @@
     "autore": "Giuseppe Rivelli",
     "licenza": "Pubblico dominio"
    }
+  },
+  {
+   "id": "cimabue",
+   "nome": "Cimabue",
+   "nascita": 1240,
+   "morte": 1302,
+   "professione": {
+    "it": "Pittore",
+    "en": "Painter",
+    "fr": "Peintre",
+    "de": "Maler",
+    "es": "Pintor"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "Circa 1240",
+    "en": "Around 1240",
+    "fr": "Vers 1240",
+    "de": "Um 1240",
+    "es": "Hacia 1240"
+   },
+   "luogoMorte": {
+    "it": "Pisa",
+    "en": "Pisa",
+    "fr": "Pise",
+    "de": "Pisa",
+    "es": "Pisa"
+   },
+   "dataMorte": {
+    "it": "Dopo il 1301 o nel 1302 (data non certa)",
+    "en": "After 1301 or in 1302 (date uncertain)",
+    "fr": "Après 1301 ou en 1302 (date incertaine)",
+    "de": "Nach 1301 oder 1302 (Datum unsicher)",
+    "es": "Después de 1301 o en 1302 (fecha incierta)"
+   },
+   "biografia": {
+    "it": "Cimabue è considerato uno dei protagonisti del rinnovamento della pittura italiana del Duecento. Il suo vero nome era probabilmente Cenni di Pepo, mentre Cimabue era il soprannome con cui divenne conosciuto.\n\nLa sua pittura si sviluppò ancora all'interno della tradizione bizantina, caratterizzata da figure solenni, fondi dorati e composizioni religiose, ma introdusse una maggiore attenzione alla naturalezza dei volti, alla profondità e alla rappresentazione dei corpi.\n\nTra le opere più importanti che gli vengono attribuite ricordiamo la Maestà di Santa Trinita (circa 1290–1300), dipinta per la chiesa di Santa Trinita e oggi agli Uffizi, e il Crocifisso oggi al Museo dell'Opera di Santa Croce, nel complesso della basilica. La sua attività non si limitò a Firenze: lavorò anche ad Assisi, Roma e Pisa.\n\nLa sua importanza storica è legata anche alla tradizione secondo cui sarebbe stato il maestro di Giotto, contribuendo alla formazione di una nuova generazione di artisti.",
+    "en": "Cimabue is regarded as one of the leading figures in the renewal of thirteenth-century Italian painting. His real name was probably Cenni di Pepo, while Cimabue was the nickname by which he became known.\n\nHis painting still developed within the Byzantine tradition, with its solemn figures, gold backgrounds and religious compositions, but it brought greater attention to the naturalness of faces, to depth and to the depiction of bodies.\n\nAmong the most important works attributed to him are the Santa Trinita Maestà (around 1290–1300), painted for the church of Santa Trinita and now in the Uffizi, and the Crucifix now in the Museo dell'Opera di Santa Croce, in the basilica complex. His activity was not limited to Florence: he also worked in Assisi, Rome and Pisa.\n\nHis historical importance is also tied to the tradition that he was Giotto's teacher, helping to shape a new generation of artists.",
+    "fr": "Cimabue est considéré comme l'un des protagonistes du renouveau de la peinture italienne du XIIIe siècle. Son vrai nom était probablement Cenni di Pepo, tandis que Cimabue était le surnom sous lequel il devint célèbre.\n\nSa peinture se développa encore dans la tradition byzantine, caractérisée par des figures solennelles, des fonds dorés et des compositions religieuses, mais il introduisit une plus grande attention au naturel des visages, à la profondeur et à la représentation des corps.\n\nParmi les œuvres les plus importantes qui lui sont attribuées, on retient la Maestà de Santa Trinita (vers 1290–1300), peinte pour l'église de Santa Trinita et aujourd'hui aux Offices, et le Crucifix conservé aujourd'hui au Museo dell'Opera di Santa Croce, dans le complexe de la basilique. Son activité ne se limita pas à Florence : il travailla aussi à Assise, à Rome et à Pise.\n\nSon importance historique tient aussi à la tradition selon laquelle il aurait été le maître de Giotto, contribuant à la formation d'une nouvelle génération d'artistes.",
+    "de": "Cimabue gilt als einer der Wegbereiter der Erneuerung der italienischen Malerei des 13. Jahrhunderts. Sein richtiger Name war wahrscheinlich Cenni di Pepo, während Cimabue der Beiname war, unter dem er bekannt wurde.\n\nSeine Malerei entwickelte sich noch innerhalb der byzantinischen Tradition mit ihren feierlichen Figuren, Goldgründen und religiösen Kompositionen, brachte aber eine größere Aufmerksamkeit für die Natürlichkeit der Gesichter, für Tiefe und für die Darstellung der Körper.\n\nZu den wichtigsten ihm zugeschriebenen Werken zählen die Maestà von Santa Trinita (um 1290–1300), die für die Kirche Santa Trinita gemalt wurde und heute in den Uffizien hängt, sowie das Kruzifix, das sich heute im Museo dell'Opera di Santa Croce im Komplex der Basilika befindet. Seine Tätigkeit beschränkte sich nicht auf Florenz: Er arbeitete auch in Assisi, Rom und Pisa.\n\nSeine historische Bedeutung hängt auch mit der Überlieferung zusammen, er sei der Lehrer Giottos gewesen und habe so zur Ausbildung einer neuen Künstlergeneration beigetragen.",
+    "es": "Cimabue es considerado uno de los protagonistas de la renovación de la pintura italiana del siglo XIII. Su verdadero nombre era probablemente Cenni di Pepo, mientras que Cimabue era el apodo con el que se hizo conocido.\n\nSu pintura se desarrolló todavía dentro de la tradición bizantina, caracterizada por figuras solemnes, fondos dorados y composiciones religiosas, pero introdujo una mayor atención a la naturalidad de los rostros, a la profundidad y a la representación de los cuerpos.\n\nEntre las obras más importantes que se le atribuyen figuran la Maestà de Santa Trinita (hacia 1290–1300), pintada para la iglesia de Santa Trinita y hoy en los Uffizi, y el Crucifijo conservado hoy en el Museo dell'Opera di Santa Croce, en el complejo de la basílica. Su actividad no se limitó a Florencia: trabajó también en Asís, Roma y Pisa.\n\nSu importancia histórica está ligada también a la tradición según la cual habría sido el maestro de Giotto, contribuyendo a la formación de una nueva generación de artistas."
+   },
+   "curiosita": {
+    "it": [
+     "Dante e Cimabue: Dante lo cita nel Purgatorio (canto XI), quando parla della fama artistica destinata a passare da un maestro all'altro: «Credette Cimabue ne la pittura / tener lo campo».",
+     "Il ragazzo che disegnava pecore: secondo una celebre leggenda, Cimabue avrebbe scoperto Giotto mentre quest'ultimo, ancora ragazzo, disegnava delle pecore su una pietra. Il racconto è tramandato soprattutto da Giorgio Vasari molti secoli dopo: non va considerato una circostanza biografica documentata.",
+     "Il Crocifisso e l'alluvione: il Crocifisso di Santa Croce fu gravemente danneggiato dall'alluvione del 4 novembre 1966, che ne distrusse circa il 70% della pittura. Restaurato, è diventato un simbolo della rinascita dell'arte fiorentina dopo il disastro."
+    ],
+    "en": [
+     "Dante and Cimabue: Dante mentions him in the Purgatorio (canto XI), speaking of artistic fame destined to pass from one master to another: Cimabue believed he held the field in painting, but now Giotto has the acclaim.",
+     "The boy who drew sheep: according to a famous legend, Cimabue discovered Giotto when the latter, still a boy, was drawing sheep on a stone. The story was handed down above all by Giorgio Vasari many centuries later: it should not be taken as a documented biographical fact.",
+     "The Crucifix and the flood: the Santa Croce Crucifix was badly damaged by the flood of 4 November 1966, which destroyed about 70% of its paint. Restored, it has become a symbol of the rebirth of Florentine art after the disaster."
+    ],
+    "fr": [
+     "Dante et Cimabue : Dante le cite dans le Purgatoire (chant XI), lorsqu'il parle de la gloire artistique destinée à passer d'un maître à l'autre : Cimabue croyait tenir le champ en peinture, mais désormais c'est Giotto qui a la renommée.",
+     "Le garçon qui dessinait des moutons : selon une célèbre légende, Cimabue aurait découvert Giotto alors que celui-ci, encore enfant, dessinait des moutons sur une pierre. Le récit a été transmis surtout par Giorgio Vasari plusieurs siècles plus tard : il ne doit pas être considéré comme un fait biographique documenté.",
+     "Le Crucifix et l'inondation : le Crucifix de Santa Croce fut gravement endommagé par l'inondation du 4 novembre 1966, qui détruisit environ 70 % de sa peinture. Restauré, il est devenu un symbole de la renaissance de l'art florentin après le désastre."
+    ],
+    "de": [
+     "Dante und Cimabue: Dante erwähnt ihn im Purgatorio (11. Gesang), wo er von künstlerischem Ruhm spricht, der von einem Meister auf den nächsten übergeht: Cimabue glaubte, in der Malerei das Feld zu beherrschen, doch nun hat Giotto den Ruf.",
+     "Der Junge, der Schafe zeichnete: Einer berühmten Legende nach entdeckte Cimabue Giotto, als dieser noch ein Junge war und Schafe auf einen Stein zeichnete. Die Geschichte wurde vor allem von Giorgio Vasari viele Jahrhunderte später überliefert: Sie gilt nicht als belegte biografische Tatsache.",
+     "Das Kruzifix und die Flut: Das Kruzifix von Santa Croce wurde von der Überschwemmung vom 4. November 1966 schwer beschädigt, die etwa 70 % seiner Malschicht zerstörte. Restauriert, wurde es zu einem Symbol für den Wiederaufbau der florentinischen Kunst nach der Katastrophe."
+    ],
+    "es": [
+     "Dante y Cimabue: Dante lo cita en el Purgatorio (canto XI), cuando habla de la fama artística destinada a pasar de un maestro a otro: Cimabue creyó dominar el campo de la pintura, pero ahora es Giotto quien tiene el aplauso.",
+     "El muchacho que dibujaba ovejas: según una célebre leyenda, Cimabue descubrió a Giotto cuando este, aún niño, dibujaba ovejas sobre una piedra. El relato fue transmitido sobre todo por Giorgio Vasari muchos siglos después: no debe considerarse un hecho biográfico documentado.",
+     "El Crucifijo y la inundación: el Crucifijo de Santa Croce resultó gravemente dañado por la inundación del 4 de noviembre de 1966, que destruyó cerca del 70 % de su pintura. Restaurado, se ha convertido en un símbolo del renacer del arte florentino tras el desastre."
+    ]
+   },
+   "luoghi": [
+    "basilica-di-santa-croce"
+   ],
+   "luoghiNote": {
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "Opera conservata",
+      "en": "Work preserved here",
+      "fr": "Œuvre conservée",
+      "de": "Hier aufbewahrtes Werk",
+      "es": "Obra conservada"
+     },
+     "testo": {
+      "it": "Il Crocifisso di Cimabue è oggi al Museo dell'Opera di Santa Croce, nel complesso della basilica. Fu gravemente danneggiato dall'alluvione del 1966 e poi restaurato.",
+      "en": "Cimabue's Crucifix is now in the Museo dell'Opera di Santa Croce, in the basilica complex. It was badly damaged by the 1966 flood and later restored.",
+      "fr": "Le Crucifix de Cimabue se trouve aujourd'hui au Museo dell'Opera di Santa Croce, dans le complexe de la basilique. Il fut gravement endommagé par l'inondation de 1966, puis restauré.",
+      "de": "Cimabues Kruzifix befindet sich heute im Museo dell'Opera di Santa Croce im Komplex der Basilika. Es wurde von der Überschwemmung 1966 schwer beschädigt und anschließend restauriert.",
+      "es": "El Crucifijo de Cimabue se encuentra hoy en el Museo dell'Opera di Santa Croce, en el complejo de la basílica. Resultó gravemente dañado por la inundación de 1966 y después fue restaurado."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "giotto",
+     "testo": {
+      "it": "Secondo la tradizione, Giotto fu suo allievo. Il racconto, tramandato soprattutto da Vasari, rappresenta simbolicamente il passaggio dalla pittura medievale di tradizione bizantina alle nuove ricerche del Trecento.",
+      "en": "According to tradition, Giotto was his pupil. The story, handed down above all by Vasari, symbolically marks the passage from medieval painting in the Byzantine tradition to the new explorations of the fourteenth century.",
+      "fr": "Selon la tradition, Giotto fut son élève. Ce récit, transmis surtout par Vasari, représente symboliquement le passage de la peinture médiévale de tradition byzantine aux nouvelles recherches du XIVe siècle.",
+      "de": "Der Überlieferung nach war Giotto sein Schüler. Die vor allem von Vasari überlieferte Geschichte steht sinnbildlich für den Übergang von der mittelalterlichen Malerei byzantinischer Tradition zu den neuen Wegen des 14. Jahrhunderts.",
+      "es": "Según la tradición, Giotto fue su discípulo. El relato, transmitido sobre todo por Vasari, representa simbólicamente el paso de la pintura medieval de tradición bizantina a las nuevas búsquedas del siglo XIV."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Nicolas de Larmessin ed Esme de Boulonois, incisione",
+    "licenza": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "giotto",
+   "nome": "Giotto di Bondone",
+   "nascita": 1267,
+   "morte": 1337,
+   "professione": {
+    "it": "Pittore e architetto",
+    "en": "Painter and architect",
+    "fr": "Peintre et architecte",
+    "de": "Maler und Architekt",
+    "es": "Pintor y arquitecto"
+   },
+   "luogoNascita": {
+    "it": "Probabilmente Colle di Vespignano, presso Vicchio, nel Mugello",
+    "en": "Probably Colle di Vespignano, near Vicchio, in the Mugello",
+    "fr": "Probablement Colle di Vespignano, près de Vicchio, dans le Mugello",
+    "de": "Wahrscheinlich Colle di Vespignano bei Vicchio, im Mugello",
+    "es": "Probablemente Colle di Vespignano, cerca de Vicchio, en el Mugello"
+   },
+   "dataNascita": {
+    "it": "Circa 1267 (data incerta)",
+    "en": "Around 1267 (date uncertain)",
+    "fr": "Vers 1267 (date incertaine)",
+    "de": "Um 1267 (Datum unsicher)",
+    "es": "Hacia 1267 (fecha incierta)"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "8 gennaio 1337",
+    "en": "8 January 1337",
+    "fr": "8 janvier 1337",
+    "de": "8. Januar 1337",
+    "es": "8 de enero de 1337"
+   },
+   "biografia": {
+    "it": "Giotto è considerato uno dei più grandi innovatori della pittura italiana medievale e una figura fondamentale nella storia dell'arte europea.\n\nLa sua opera segnò un cambiamento profondo rispetto alla tradizione bizantina. Le figure acquistano volume e consistenza, gli ambienti diventano più credibili e i personaggi esprimono emozioni attraverso gesti, sguardi e atteggiamenti.\n\nLa sua fama si diffuse rapidamente in tutta Italia. Lavorò ad Assisi, Padova, Roma, Napoli e Firenze, lasciando opere che avrebbero influenzato profondamente gli artisti delle generazioni successive.\n\nA Firenze il suo nome è legato soprattutto al grande cantiere della Cattedrale di Santa Maria del Fiore e al progetto del campanile, iniziato nel 1334, anno in cui fu nominato capomastro dell'Opera del Duomo. Non riuscì a vedere l'opera completata: morì quando i lavori erano ancora in corso.",
+    "en": "Giotto is regarded as one of the greatest innovators of medieval Italian painting and a fundamental figure in the history of European art.\n\nHis work marked a profound change from the Byzantine tradition. Figures gain volume and substance, settings become more believable, and the characters express emotion through gestures, glances and bearing.\n\nHis fame spread quickly across Italy. He worked in Assisi, Padua, Rome, Naples and Florence, leaving works that would deeply influence the artists of later generations.\n\nIn Florence his name is linked above all to the great building site of the Cathedral of Santa Maria del Fiore and to the design of the bell tower, begun in 1334, the year he was appointed capomastro of the Opera del Duomo, the cathedral works board. He did not live to see the work completed: he died while construction was still under way.",
+    "fr": "Giotto est considéré comme l'un des plus grands innovateurs de la peinture italienne médiévale et une figure fondamentale de l'histoire de l'art européen.\n\nSon œuvre marqua un changement profond par rapport à la tradition byzantine. Les figures prennent du volume et de la consistance, les décors deviennent plus crédibles et les personnages expriment des émotions par leurs gestes, leurs regards et leurs attitudes.\n\nSa renommée se répandit rapidement dans toute l'Italie. Il travailla à Assise, à Padoue, à Rome, à Naples et à Florence, laissant des œuvres qui allaient profondément influencer les artistes des générations suivantes.\n\nÀ Florence, son nom est lié surtout au grand chantier de la cathédrale Santa Maria del Fiore et au projet du campanile, commencé en 1334, année où il fut nommé capomastro de l'Opera del Duomo, l'œuvre de la cathédrale. Il ne put voir l'ouvrage achevé : il mourut alors que les travaux étaient encore en cours.",
+    "de": "Giotto gilt als einer der größten Erneuerer der mittelalterlichen italienischen Malerei und als zentrale Gestalt der europäischen Kunstgeschichte.\n\nSein Werk bedeutete einen tiefgreifenden Wandel gegenüber der byzantinischen Tradition. Die Figuren gewinnen Volumen und Körperlichkeit, die Räume werden glaubwürdiger, und die Personen drücken Gefühle durch Gesten, Blicke und Haltungen aus.\n\nSein Ruhm verbreitete sich rasch in ganz Italien. Er arbeitete in Assisi, Padua, Rom, Neapel und Florenz und hinterließ Werke, die die Künstler der folgenden Generationen tief prägen sollten.\n\nIn Florenz ist sein Name vor allem mit der großen Baustelle des Doms Santa Maria del Fiore und mit dem Entwurf des Glockenturms verbunden, der 1334 begonnen wurde, in dem Jahr, in dem er zum Capomastro der Opera del Duomo, der Dombauverwaltung, ernannt wurde. Die Vollendung des Werks erlebte er nicht mehr: Er starb, als die Arbeiten noch im Gange waren.",
+    "es": "Giotto es considerado uno de los mayores innovadores de la pintura italiana medieval y una figura fundamental en la historia del arte europeo.\n\nSu obra marcó un cambio profundo respecto a la tradición bizantina. Las figuras adquieren volumen y consistencia, los ambientes resultan más creíbles y los personajes expresan emociones mediante gestos, miradas y actitudes.\n\nSu fama se difundió rápidamente por toda Italia. Trabajó en Asís, Padua, Roma, Nápoles y Florencia, y dejó obras que influirían profundamente en los artistas de las generaciones siguientes.\n\nEn Florencia su nombre está ligado sobre todo a la gran obra de la catedral de Santa Maria del Fiore y al proyecto del campanario, iniciado en 1334, año en que fue nombrado capomastro de la Opera del Duomo, la fábrica de la catedral. No llegó a ver la obra terminada: murió cuando los trabajos seguían en curso."
+   },
+   "curiosita": {
+    "it": [
+     "La «O di Giotto»: secondo un celebre episodio, l'artista avrebbe dimostrato la propria abilità disegnando a mano libera un cerchio perfetto davanti a un emissario del papa. L'episodio è tramandato da Vasari.",
+     "Giotto nel Decameron: è protagonista di una novella di Boccaccio, la quinta della sesta giornata, in cui Forese da Rabatta e Giotto si prendono in giro a vicenda, mostrando l'intelligenza e l'ironia del pittore.",
+     "Il campanile porta il suo nome: la costruzione fu però proseguita da Andrea Pisano e Francesco Talenti.",
+     "Dante e Giotto: Dante lo ricorda nel Purgatorio (canto XI), contrapponendo la sua fama a quella di Cimabue."
+    ],
+    "en": [
+     "Giotto's «O»: according to a famous episode, the artist proved his skill by drawing a perfect circle freehand in front of an envoy of the pope. The episode is handed down by Vasari.",
+     "Giotto in the Decameron: he is the protagonist of a tale by Boccaccio, the fifth of the sixth day, in which Forese da Rabatta and Giotto tease each other, bringing out the painter's wit and irony.",
+     "The bell tower bears his name, although its construction was continued by Andrea Pisano and Francesco Talenti.",
+     "Dante and Giotto: Dante recalls him in the Purgatorio (canto XI), setting his fame against that of Cimabue."
+    ],
+    "fr": [
+     "Le « O de Giotto » : selon un célèbre épisode, l'artiste aurait démontré son habileté en dessinant à main levée un cercle parfait devant un émissaire du pape. L'épisode est transmis par Vasari.",
+     "Giotto dans le Décaméron : il est le protagoniste d'une nouvelle de Boccace, la cinquième de la sixième journée, où Forese da Rabatta et Giotto se moquent l'un de l'autre, ce qui révèle l'intelligence et l'ironie du peintre.",
+     "Le campanile porte son nom, bien que sa construction ait été poursuivie par Andrea Pisano et Francesco Talenti.",
+     "Dante et Giotto : Dante l'évoque dans le Purgatoire (chant XI), opposant sa renommée à celle de Cimabue."
+    ],
+    "de": [
+     "Giottos „O“: Einer berühmten Episode zufolge bewies der Künstler sein Können, indem er vor einem Gesandten des Papstes aus freier Hand einen perfekten Kreis zeichnete. Die Episode wird von Vasari überliefert.",
+     "Giotto im Decameron: Er ist Hauptfigur einer Novelle Boccaccios, der fünften des sechsten Tages, in der Forese da Rabatta und Giotto einander verspotten und der Witz und die Ironie des Malers zum Vorschein kommen.",
+     "Der Glockenturm trägt seinen Namen, obwohl sein Bau von Andrea Pisano und Francesco Talenti fortgesetzt wurde.",
+     "Dante und Giotto: Dante erwähnt ihn im Purgatorio (11. Gesang) und stellt seinen Ruhm dem Cimabues gegenüber."
+    ],
+    "es": [
+     "La «O de Giotto»: según un célebre episodio, el artista demostró su habilidad dibujando a mano alzada un círculo perfecto ante un enviado del papa. El episodio lo transmite Vasari.",
+     "Giotto en el Decamerón: es protagonista de una novela de Boccaccio, la quinta de la sexta jornada, en la que Forese da Rabatta y Giotto se burlan el uno del otro y salen a la luz la inteligencia y la ironía del pintor.",
+     "El campanario lleva su nombre, aunque su construcción fue continuada por Andrea Pisano y Francesco Talenti.",
+     "Dante y Giotto: Dante lo recuerda en el Purgatorio (canto XI), contraponiendo su fama a la de Cimabue."
+    ]
+   },
+   "luoghi": [
+    "campanile-di-giotto",
+    "basilica-di-santa-croce",
+    "cattedrale-di-santa-maria-del-fiore"
+   ],
+   "luoghiNote": {
+    "campanile-di-giotto": {
+     "tipo": {
+      "it": "Progetto",
+      "en": "Design",
+      "fr": "Projet",
+      "de": "Entwurf",
+      "es": "Proyecto"
+     },
+     "testo": {
+      "it": "Giotto ideò il campanile e ne iniziò i lavori nel 1334; dopo la sua morte la costruzione fu proseguita da Andrea Pisano e Francesco Talenti.",
+      "en": "Giotto designed the bell tower and began its construction in 1334; after his death the work was continued by Andrea Pisano and Francesco Talenti.",
+      "fr": "Giotto conçut le campanile et en commença la construction en 1334 ; après sa mort, le chantier fut poursuivi par Andrea Pisano et Francesco Talenti.",
+      "de": "Giotto entwarf den Glockenturm und begann 1334 mit dem Bau; nach seinem Tod wurde das Werk von Andrea Pisano und Francesco Talenti fortgeführt.",
+      "es": "Giotto proyectó el campanario y comenzó las obras en 1334; tras su muerte, la construcción fue continuada por Andrea Pisano y Francesco Talenti."
+     }
+    },
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "Opere attribuite",
+      "en": "Attributed works",
+      "fr": "Œuvres attribuées",
+      "de": "Zugeschriebene Werke",
+      "es": "Obras atribuidas"
+     },
+     "testo": {
+      "it": "Gli sono attribuiti i cicli di affreschi delle cappelle Bardi (storie di San Francesco) e Peruzzi (storie dei due San Giovanni), databili agli anni Venti del Trecento.",
+      "en": "The fresco cycles of the Bardi Chapel (stories of Saint Francis) and the Peruzzi Chapel (stories of the two Saints John), datable to the 1320s, are attributed to him.",
+      "fr": "Les cycles de fresques des chapelles Bardi (histoires de saint François) et Peruzzi (histoires des deux saints Jean), datables des années 1320, lui sont attribués.",
+      "de": "Ihm werden die Freskenzyklen der Cappella Bardi (Geschichten des heiligen Franziskus) und der Cappella Peruzzi (Geschichten der beiden Heiligen Johannes) zugeschrieben, die in die 1320er Jahre datiert werden.",
+      "es": "Se le atribuyen los ciclos de frescos de las capillas Bardi (historias de San Francisco) y Peruzzi (historias de los dos San Juan), que se datan en la década de 1320."
+     }
+    },
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "Legame storico",
+      "en": "Historical link",
+      "fr": "Lien historique",
+      "de": "Historischer Bezug",
+      "es": "Vínculo histórico"
+     },
+     "testo": {
+      "it": "Dal 1334 fu capomastro dell'Opera del Duomo, cioè responsabile dei lavori della cattedrale e del suo campanile.",
+      "en": "From 1334 he was capomastro of the Opera del Duomo, that is, in charge of the works on the cathedral and its bell tower.",
+      "fr": "À partir de 1334, il fut capomastro de l'Opera del Duomo, c'est-à-dire responsable des travaux de la cathédrale et de son campanile.",
+      "de": "Ab 1334 war er Capomastro der Opera del Duomo, also verantwortlich für die Arbeiten an der Kathedrale und ihrem Glockenturm.",
+      "es": "Desde 1334 fue capomastro de la Opera del Duomo, es decir, responsable de las obras de la catedral y de su campanario."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "cimabue",
+     "testo": {
+      "it": "Secondo la tradizione fu allievo di Cimabue. Il racconto, tramandato soprattutto da Vasari, serve a raccontare il rinnovamento della pittura medievale.",
+      "en": "According to tradition he was Cimabue's pupil. The story, handed down above all by Vasari, is used to tell of the renewal of medieval painting.",
+      "fr": "Selon la tradition, il fut l'élève de Cimabue. Ce récit, transmis surtout par Vasari, sert à raconter le renouveau de la peinture médiévale.",
+      "de": "Der Überlieferung nach war er Cimabues Schüler. Die vor allem von Vasari überlieferte Geschichte dient dazu, die Erneuerung der mittelalterlichen Malerei zu erzählen.",
+      "es": "Según la tradición fue discípulo de Cimabue. El relato, transmitido sobre todo por Vasari, sirve para narrar la renovación de la pintura medieval."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Attribuito a Paolo Uccello, Louvre",
+    "licenza": "CC BY-SA 3.0"
+   }
   }
  ]
 }
