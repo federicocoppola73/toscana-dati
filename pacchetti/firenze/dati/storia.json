@@ -119,6 +119,38 @@
     "ponte-vecchio",
     "piazza-della-signoria"
    ]
+  },
+  {
+   "id": "04",
+   "titolo": {
+    "it": "Il Rinascimento e l'ascesa dei Medici",
+    "en": "The Renaissance and the rise of the Medici",
+    "fr": "La Renaissance et l'ascension des Médicis",
+    "de": "Die Renaissance und der Aufstieg der Medici",
+    "es": "El Renacimiento y el ascenso de los Médici"
+   },
+   "anni": {
+    "it": "XV–XVI secolo",
+    "en": "15th–16th century",
+    "fr": "XVe–XVIe siècle",
+    "de": "15.–16. Jahrhundert",
+    "es": "siglos XV–XVI"
+   },
+   "testo": {
+    "it": "Nel Quattrocento Firenze divenne uno dei principali centri del Rinascimento europeo. La famiglia Medici, inizialmente affermatasi grazie alle attività bancarie, conquistò un ruolo determinante nella vita politica e culturale della città. Artisti, architetti, filosofi e letterati diedero vita a una stagione straordinaria, mentre le tensioni politiche e religiose continuarono a segnare la società fiorentina. La Repubblica terminò nel 1530, aprendo la strada al potere stabile dei Medici.",
+    "en": "In the fifteenth century Florence became one of the leading centres of the European Renaissance. The Medici family, which first rose through banking, gained a decisive role in the political and cultural life of the city. Artists, architects, philosophers and writers created an extraordinary season, while political and religious tensions continued to mark Florentine society. The Republic ended in 1530, opening the way to the stable power of the Medici.",
+    "fr": "Au XVe siècle, Florence devint l'un des principaux centres de la Renaissance européenne. La famille des Médicis, d'abord affirmée grâce aux activités bancaires, acquit un rôle déterminant dans la vie politique et culturelle de la ville. Artistes, architectes, philosophes et écrivains donnèrent vie à une saison extraordinaire, tandis que les tensions politiques et religieuses continuaient de marquer la société florentine. La République prit fin en 1530, ouvrant la voie au pouvoir stable des Médicis.",
+    "de": "Im 15. Jahrhundert wurde Florenz zu einem der wichtigsten Zentren der europäischen Renaissance. Die Familie Medici, die zunächst durch das Bankgeschäft aufgestiegen war, gewann eine entscheidende Rolle im politischen und kulturellen Leben der Stadt. Künstler, Architekten, Philosophen und Schriftsteller schufen eine außergewöhnliche Blütezeit, während politische und religiöse Spannungen die florentinische Gesellschaft weiter prägten. Die Republik endete 1530 und machte den Weg frei für die dauerhafte Herrschaft der Medici.",
+    "es": "En el siglo XV, Florencia se convirtió en uno de los principales centros del Renacimiento europeo. La familia Médici, que se había afirmado primero gracias a las actividades bancarias, adquirió un papel determinante en la vida política y cultural de la ciudad. Artistas, arquitectos, filósofos y escritores dieron vida a una época extraordinaria, mientras las tensiones políticas y religiosas seguían marcando la sociedad florentina. La República terminó en 1530, abriendo el camino al poder estable de los Médici."
+   },
+   "audio": "storia-04",
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore",
+    "basilica-di-san-lorenzo"
+   ],
+   "approfondire": [
+    "piazza-della-signoria"
+   ]
   }
  ]
 }

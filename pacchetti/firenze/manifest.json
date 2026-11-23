@@ -1,5 +1,5 @@
 {
- "versione": "9b7611269bd7",
+ "versione": "eba0d239ae19",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3202,8 +3202,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "2c2044100c4254f8dd10a6dae594f26bef8c8021d79d9e983a7eae8fab176a8e",
-   "byte": 16237
+   "sha256": "e088efe445d184c712aa169b894bc7d778ed91dc0d9eb7ecb7de8fca9698b74a",
+   "byte": 19527
   },
   {
    "path": "dati/tessere.json",
@@ -3287,6 +3287,12 @@
    "da": "4bd81bcdfdc2",
    "data": "2026-11-23",
    "byte": 16237
+  },
+  {
+   "versione": "eba0d239ae19",
+   "da": "9b7611269bd7",
+   "data": "2026-11-23",
+   "byte": 19527
   }
  ]
 }
