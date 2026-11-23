@@ -5655,6 +5655,16 @@
       "de": "Auf seine Initiative entstand die Tribuna di Galileo, die 1841 anlässlich des Kongresses der italienischen Wissenschaftler eröffnet wurde.",
       "es": "Por iniciativa suya se construyó la Tribuna di Galileo, abierta en 1841 con motivo del Congreso de los científicos italianos."
      }
+    },
+    {
+     "id": "bettino-ricasoli",
+     "testo": {
+      "it": "Nel 1848 Ricasoli, gonfaloniere di Firenze, si dimise per le tendenze antiliberali del granduca. Nel 1859, dopo la partenza di Leopoldo II, guidò il governo provvisorio toscano.",
+      "en": "In 1848 Ricasoli, gonfalonier of Florence, resigned because of the grand duke's anti-liberal tendencies. In 1859, after Leopold II's departure, he led the provisional Tuscan government.",
+      "fr": "En 1848, Ricasoli, gonfalonier de Florence, démissionna en raison des tendances antilibérales du grand-duc. En 1859, après le départ de Léopold II, il dirigea le gouvernement provisoire toscan.",
+      "de": "1848 trat Ricasoli als Gonfaloniere von Florenz wegen der antiliberalen Tendenzen des Großherzogs zurück. 1859 führte er nach der Abreise Leopolds II. die provisorische toskanische Regierung.",
+      "es": "En 1848 Ricasoli, gonfaloniero de Florencia, dimitió por las tendencias antiliberales del gran duque. En 1859, tras la partida de Leopoldo II, dirigió el gobierno provisional toscano."
+     }
     }
    ],
    "ritratto": {
@@ -6407,6 +6417,315 @@
    ],
    "ritratto": {
     "autore": "Ridolfo del Ghirlandaio, ritratto di Piero Soderini",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "bettino-ricasoli",
+   "nome": "Bettino Ricasoli",
+   "nascita": 1809,
+   "morte": 1880,
+   "professione": {
+    "it": "Politico e statista",
+    "en": "Politician and statesman",
+    "fr": "Homme politique et homme d'État",
+    "de": "Politiker und Staatsmann",
+    "es": "Político y estadista"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "9 marzo 1809",
+    "en": "9 March 1809",
+    "fr": "9 mars 1809",
+    "de": "9. März 1809",
+    "es": "9 de marzo de 1809"
+   },
+   "luogoMorte": {
+    "it": "Castello di Brolio",
+    "en": "Castello di Brolio",
+    "fr": "Castello di Brolio",
+    "de": "Castello di Brolio",
+    "es": "Castello di Brolio"
+   },
+   "dataMorte": {
+    "it": "23 ottobre 1880",
+    "en": "23 October 1880",
+    "fr": "23 octobre 1880",
+    "de": "23. Oktober 1880",
+    "es": "23 de octubre de 1880"
+   },
+   "biografia": {
+    "it": "Bettino Ricasoli, detto il Barone di Ferro, fu uno dei protagonisti del Risorgimento toscano e della nascita dello Stato unitario italiano. Nato da una famiglia aristocratica fiorentina, visse a lungo nella tenuta di Brolio, nel Chianti, dove si occupò anche di agricoltura e di viticoltura.\n\nLiberale moderato, fu gonfaloniere di Firenze tra il 1847 e il 1848 e si dimise per le tendenze antiliberali del granduca Leopoldo II. Nel 1859, dopo la partenza del granduca, guidò il governo provvisorio della Toscana e sostenne l'annessione al Regno di Sardegna, sancita dal plebiscito.\n\nDopo l'Unità fu uno dei principali esponenti della Destra storica. Fu presidente del Consiglio dal giugno 1861 al marzo 1862, succedendo a Cavour, e dal giugno 1866 all'aprile 1867.\n\nGli viene attribuita la formula moderna del Chianti, frutto di lunghe sperimentazioni a Brolio. Morì al Castello di Brolio nel 1880.",
+    "en": "Bettino Ricasoli, known as the Iron Baron, was one of the protagonists of the Tuscan Risorgimento and of the birth of the unified Italian state. Born into a Florentine aristocratic family, he lived for long periods on the Brolio estate in Chianti, where he also devoted himself to farming and winegrowing.\n\nA moderate liberal, he was gonfalonier of Florence between 1847 and 1848 and resigned because of the grand duke Leopold II's anti-liberal tendencies. In 1859, after the grand duke's departure, he led the provisional government of Tuscany and backed annexation to the Kingdom of Sardinia, ratified by plebiscite.\n\nAfter Unification he was one of the leading figures of the Historical Right. He was prime minister from June 1861 to March 1862, succeeding Cavour, and from June 1866 to April 1867.\n\nThe modern formula for Chianti is attributed to him, the fruit of long experimentation at Brolio. He died at the Castello di Brolio in 1880.",
+    "fr": "Bettino Ricasoli, surnommé le Baron de Fer, fut l'un des protagonistes du Risorgimento toscan et de la naissance de l'État unitaire italien. Issu d'une famille aristocratique florentine, il vécut longtemps dans le domaine de Brolio, dans le Chianti, où il s'occupa aussi d'agriculture et de viticulture.\n\nLibéral modéré, il fut gonfalonier de Florence entre 1847 et 1848 et démissionna en raison des tendances antilibérales du grand-duc Léopold II. En 1859, après le départ du grand-duc, il dirigea le gouvernement provisoire de Toscane et soutint l'annexion au Royaume de Sardaigne, sanctionnée par plébiscite.\n\nAprès l'Unité, il fut l'un des principaux représentants de la Droite historique. Il fut président du Conseil de juin 1861 à mars 1862, succédant à Cavour, puis de juin 1866 à avril 1867.\n\nOn lui attribue la formule moderne du Chianti, fruit de longues expérimentations à Brolio. Il mourut au Castello di Brolio en 1880.",
+    "de": "Bettino Ricasoli, der Eiserne Baron genannt, war einer der Protagonisten des toskanischen Risorgimento und der Entstehung des italienischen Einheitsstaates. Aus einer florentinischen Adelsfamilie stammend, lebte er lange auf dem Gut Brolio im Chianti, wo er sich auch mit Landwirtschaft und Weinbau beschäftigte.\n\nAls gemäßigter Liberaler war er zwischen 1847 und 1848 Gonfaloniere von Florenz und trat wegen der antiliberalen Tendenzen des Großherzogs Leopold II. zurück. 1859 führte er nach der Abreise des Großherzogs die provisorische Regierung der Toskana und unterstützte den Anschluss an das Königreich Sardinien, der durch eine Volksabstimmung bestätigt wurde.\n\nNach der Einigung war er einer der führenden Vertreter der Historischen Rechten. Er war von Juni 1861 bis März 1862 Ministerpräsident, als Nachfolger Cavours, und von Juni 1866 bis April 1867.\n\nIhm wird die moderne Formel des Chianti zugeschrieben, Frucht langer Versuche in Brolio. Er starb 1880 im Castello di Brolio.",
+    "es": "Bettino Ricasoli, llamado el Barón de Hierro, fue uno de los protagonistas del Risorgimento toscano y del nacimiento del Estado unitario italiano. Nacido en una familia aristocrática florentina, vivió largo tiempo en la finca de Brolio, en el Chianti, donde se ocupó también de agricultura y viticultura.\n\nLiberal moderado, fue gonfaloniero de Florencia entre 1847 y 1848 y dimitió por las tendencias antiliberales del gran duque Leopoldo II. En 1859, tras la partida del gran duque, dirigió el gobierno provisional de la Toscana y apoyó la anexión al Reino de Cerdeña, sancionada por plebiscito.\n\nTras la Unidad fue uno de los principales exponentes de la Derecha histórica. Fue presidente del Consejo de ministros de junio de 1861 a marzo de 1862, sucediendo a Cavour, y de junio de 1866 a abril de 1867.\n\nSe le atribuye la fórmula moderna del Chianti, fruto de largas experimentaciones en Brolio. Murió en el Castello di Brolio en 1880."
+   },
+   "curiosita": {
+    "it": [
+     "Il Barone di Ferro: il soprannome rifletteva la fama di uomo politico austero, rigoroso e poco incline ai compromessi.",
+     "Il monumento: in Piazza dell'Indipendenza, a Firenze, una statua lo raffigura mentre presenta al re i risultati del plebiscito toscano. Un rilievo del basamento ricorda la visita di Vittorio Emanuele II a Brolio nel 1863.",
+     "Brolio oggi: nel Castello di Brolio la famiglia produce ancora vino, con il marchio Ricasoli 1141.",
+     "Dopo Cavour: divenne presidente del Consiglio pochi giorni dopo la morte di Cavour, nel giugno 1861."
+    ],
+    "en": [
+     "The Iron Baron: the nickname reflected his reputation as an austere, rigorous politician, little inclined to compromise.",
+     "The monument: in Piazza dell'Indipendenza in Florence, a statue shows him presenting the results of the Tuscan plebiscite to the king. A relief on the plinth recalls Victor Emmanuel II's visit to Brolio in 1863.",
+     "Brolio today: at the Castello di Brolio the family still produces wine, under the Ricasoli 1141 label.",
+     "After Cavour: he became prime minister a few days after Cavour's death, in June 1861."
+    ],
+    "fr": [
+     "Le Baron de Fer : le surnom reflétait sa réputation d'homme politique austère, rigoureux et peu enclin aux compromis.",
+     "Le monument : sur la Piazza dell'Indipendenza, à Florence, une statue le représente présentant au roi les résultats du plébiscite toscan. Un relief du socle rappelle la visite de Victor-Emmanuel II à Brolio en 1863.",
+     "Brolio aujourd'hui : au Castello di Brolio, la famille produit toujours du vin, sous la marque Ricasoli 1141.",
+     "Après Cavour : il devint président du Conseil quelques jours après la mort de Cavour, en juin 1861."
+    ],
+    "de": [
+     "Der Eiserne Baron: Der Beiname spiegelte seinen Ruf als strenger, unnachgiebiger Politiker, wenig kompromissbereit.",
+     "Das Denkmal: Auf der Piazza dell'Indipendenz in Florenz zeigt eine Statue, wie er dem König die Ergebnisse der toskanischen Volksabstimmung übergibt. Ein Relief am Sockel erinnert an den Besuch Viktor Emanuels II. in Brolio 1863.",
+     "Brolio heute: Im Castello di Brolio erzeugt die Familie weiterhin Wein, unter der Marke Ricasoli 1141.",
+     "Nach Cavour: Er wurde wenige Tage nach Cavours Tod, im Juni 1861, Ministerpräsident."
+    ],
+    "es": [
+     "El Barón de Hierro: el apodo reflejaba su fama de político austero, riguroso y poco dado al compromiso.",
+     "El monumento: en la Piazza dell'Indipendenza de Florencia, una estatua lo muestra presentando al rey los resultados del plebiscito toscano. Un relieve del pedestal recuerda la visita de Víctor Manuel II a Brolio en 1863.",
+     "Brolio hoy: en el Castello di Brolio la familia sigue produciendo vino, con la marca Ricasoli 1141.",
+     "Después de Cavour: fue presidente del Consejo pocos días después de la muerte de Cavour, en junio de 1861."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "leopoldo-ii-di-lorena",
+     "testo": {
+      "it": "Nel 1848 Ricasoli si dimise da gonfaloniere per le tendenze antiliberali del granduca. Nel 1859, dopo la partenza di Leopoldo II, guidò il governo provvisorio toscano che portò all'annessione al Regno di Sardegna.",
+      "en": "In 1848 Ricasoli resigned as gonfalonier because of the grand duke's anti-liberal tendencies. In 1859, after Leopold II's departure, he led the provisional Tuscan government that brought about annexation to the Kingdom of Sardinia.",
+      "fr": "En 1848, Ricasoli démissionna de sa charge de gonfalonier en raison des tendances antilibérales du grand-duc. En 1859, après le départ de Léopold II, il dirigea le gouvernement provisoire toscan qui conduisit à l'annexion au Royaume de Sardaigne.",
+      "de": "1848 trat Ricasoli wegen der antiliberalen Tendenzen des Großherzogs als Gonfaloniere zurück. 1859 führte er nach der Abreise Leopolds II. die provisorische toskanische Regierung, die den Anschluss an das Königreich Sardinien herbeiführte.",
+      "es": "En 1848 Ricasoli dimitió como gonfaloniero por las tendencias antiliberales del gran duque. En 1859, tras la partida de Leopoldo II, dirigió el gobierno provisional toscano que llevó a la anexión al Reino de Cerdeña."
+     }
+    },
+    {
+     "id": "ubaldino-peruzzi",
+     "testo": {
+      "it": "Peruzzi gli succedette come gonfaloniere di Firenze e fu ministro dei Lavori pubblici nel suo governo del 1861–1862. Entrambi ebbero un ruolo nel governo provvisorio toscano del 1859.",
+      "en": "Peruzzi succeeded him as gonfalonier of Florence and was minister of Public Works in his 1861–1862 government. Both played a part in the provisional Tuscan government of 1859.",
+      "fr": "Peruzzi lui succéda comme gonfalonier de Florence et fut ministre des Travaux publics dans son gouvernement de 1861–1862. Tous deux eurent un rôle dans le gouvernement provisoire toscan de 1859.",
+      "de": "Peruzzi folgte ihm als Gonfaloniere von Florenz und war in seiner Regierung von 1861–1862 Minister für öffentliche Arbeiten. Beide spielten 1859 eine Rolle in der provisorischen toskanischen Regierung.",
+      "es": "Peruzzi le sucedió como gonfaloniero de Florencia y fue ministro de Obras Públicas en su gobierno de 1861–1862. Ambos tuvieron un papel en el gobierno provisional toscano de 1859."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "G. Castagnola (disegno), Litografia Ballagny e figli, ritratto di Bettino Ricasoli",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "giuseppe-poggi",
+   "nome": "Giuseppe Poggi",
+   "nascita": 1811,
+   "morte": 1901,
+   "professione": {
+    "it": "Architetto e urbanista",
+    "en": "Architect and urban planner",
+    "fr": "Architecte et urbaniste",
+    "de": "Architekt und Stadtplaner",
+    "es": "Arquitecto y urbanista"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "3 aprile 1811",
+    "en": "3 April 1811",
+    "fr": "3 avril 1811",
+    "de": "3. April 1811",
+    "es": "3 de abril de 1811"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "19 marzo 1901",
+    "en": "19 March 1901",
+    "fr": "19 mars 1901",
+    "de": "19. März 1901",
+    "es": "19 de marzo de 1901"
+   },
+   "biografia": {
+    "it": "Giuseppe Poggi fu l'architetto e urbanista che ridisegnò in larga misura l'immagine di Firenze nell'Ottocento, autore del piano di ampliamento della città per la sua nuova funzione di capitale.\n\nSi formò tra il 1828 e il 1835 presso l'architetto e ingegnere Bartolomeo Silvestri e, dopo alcuni anni da ingegnere, si dedicò all'architettura. Nel 1850 sposò la figlia di Pasquale Poccianti; tra le sue opere precedenti il piano c'è Villa Favard, iniziata nel 1857 sul Lungarno. Conobbe le novità urbanistiche europee anche attraverso viaggi in Francia e in Inghilterra.\n\nNel novembre 1864, in vista del trasferimento della capitale da Torino a Firenze, nel 1865, gli fu affidato il piano di ampliamento. Prevedeva l'abbattimento delle mura sulla riva destra dell'Arno, sostituite da viali di circonvallazione con piazze presso le antiche porte, nuovi quartieri a corona della città e il Viale dei Colli, una passeggiata panoramica che culmina nel Piazzale Michelangelo.\n\nIl piano fu realizzato solo in parte. L'incarico pubblico di Poggi durò fino al 1877 e ne raccontò i risultati nella relazione Sui lavori per l'ingrandimento di Firenze, pubblicata nel 1882. Continuò a occuparsi di architettura e scrisse, tra l'altro, sulla conservazione dei monumenti e sulla facciata di Santa Maria del Fiore. Morì a Firenze nel 1901, a 89 anni.",
+    "en": "Giuseppe Poggi was the architect and urban planner who largely redrew the image of 19th-century Florence, author of the plan to enlarge the city for its new role as capital.\n\nHe trained between 1828 and 1835 with the architect and engineer Bartolomeo Silvestri and, after some years as an engineer, turned to architecture. In 1850 he married the daughter of Pasquale Poccianti; his works before the plan include Villa Favard, begun in 1857 on the Lungarno. He also learned of European urban developments through journeys to France and England.\n\nIn November 1864, with the capital due to move from Turin to Florence in 1865, he was given the commission for the expansion plan. It provided for demolishing the walls on the right bank of the Arno, replaced by ring boulevards with squares at the old gates, new districts around the city and the Viale dei Colli, a panoramic promenade culminating in Piazzale Michelangelo.\n\nThe plan was carried out only in part. Poggi's public commission lasted until 1877, and he recounted its results in the report Sui lavori per l'ingrandimento di Firenze, published in 1882. He continued to work as an architect and wrote, among other things, on the conservation of monuments and on the façade of Santa Maria del Fiore. He died in Florence in 1901, aged 89.",
+    "fr": "Giuseppe Poggi fut l'architecte et urbaniste qui redessina en grande partie l'image de la Florence du XIXe siècle, auteur du plan d'agrandissement de la ville pour sa nouvelle fonction de capitale.\n\nIl se forma entre 1828 et 1835 auprès de l'architecte et ingénieur Bartolomeo Silvestri et, après quelques années comme ingénieur, se consacra à l'architecture. En 1850, il épousa la fille de Pasquale Poccianti ; parmi ses œuvres antérieures au plan figure la Villa Favard, commencée en 1857 sur le Lungarno. Il connut aussi les nouveautés urbanistiques européennes grâce à des voyages en France et en Angleterre.\n\nEn novembre 1864, alors que la capitale devait passer de Turin à Florence en 1865, on lui confia le plan d'agrandissement. Il prévoyait la démolition des murailles sur la rive droite de l'Arno, remplacées par des boulevards de ceinture avec des places près des anciennes portes, de nouveaux quartiers autour de la ville et le Viale dei Colli, promenade panoramique qui culmine au Piazzale Michelangelo.\n\nLe plan ne fut réalisé qu'en partie. La mission publique de Poggi dura jusqu'en 1877 et il en raconta les résultats dans le rapport Sui lavori per l'ingrandimento di Firenze, publié en 1882. Il continua à travailler comme architecte et écrivit, entre autres, sur la conservation des monuments et sur la façade de Santa Maria del Fiore. Il mourut à Florence en 1901, à 89 ans.",
+    "de": "Giuseppe Poggi war der Architekt und Stadtplaner, der das Bild des Florenz des 19. Jahrhunderts weitgehend neu zeichnete, Urheber des Erweiterungsplans der Stadt für ihre neue Rolle als Hauptstadt.\n\nEr wurde zwischen 1828 und 1835 beim Architekten und Ingenieur Bartolomeo Silvestri ausgebildet und wandte sich nach einigen Jahren als Ingenieur der Architektur zu. 1850 heiratete er die Tochter von Pasquale Poccianti; zu seinen Werken vor dem Plan gehört die 1857 am Lungarno begonnene Villa Favard. Die städtebaulichen Neuerungen Europas lernte er auch auf Reisen nach Frankreich und England kennen.\n\nIm November 1864, als die Hauptstadt 1865 von Turin nach Florenz verlegt werden sollte, erhielt er den Auftrag für den Erweiterungsplan. Er sah den Abriss der Mauern am rechten Arnoufer vor, ersetzt durch Ringstraßen mit Plätzen an den alten Toren, neue Viertel rund um die Stadt und den Viale dei Colli, eine Aussichtspromenade, die im Piazzale Michelangelo gipfelt.\n\nDer Plan wurde nur teilweise verwirklicht. Poggis öffentlicher Auftrag dauerte bis 1877, und er schilderte die Ergebnisse in dem 1882 veröffentlichten Bericht Sui lavori per l'ingrandimento di Firenze. Er arbeitete weiter als Architekt und schrieb unter anderem über die Erhaltung der Denkmäler und über die Fassade von Santa Maria del Fiore. Er starb 1901 mit 89 Jahren in Florenz.",
+    "es": "Giuseppe Poggi fue el arquitecto y urbanista que redibujó en gran medida la imagen de la Florencia del siglo XIX, autor del plan de ampliación de la ciudad para su nueva función de capital.\n\nSe formó entre 1828 y 1835 con el arquitecto e ingeniero Bartolomeo Silvestri y, tras algunos años como ingeniero, se dedicó a la arquitectura. En 1850 se casó con la hija de Pasquale Poccianti; entre sus obras anteriores al plan está la Villa Favard, iniciada en 1857 en el Lungarno. Conoció las novedades urbanísticas europeas también a través de viajes a Francia y a Inglaterra.\n\nEn noviembre de 1864, con la capital a punto de pasar de Turín a Florencia en 1865, se le encargó el plan de ampliación. Preveía derribar las murallas de la orilla derecha del Arno, sustituidas por avenidas de circunvalación con plazas junto a las antiguas puertas, nuevos barrios en torno a la ciudad y el Viale dei Colli, un paseo panorámico que culmina en el Piazzale Michelangelo.\n\nEl plan se realizó solo en parte. El encargo público de Poggi duró hasta 1877 y él contó sus resultados en el informe Sui lavori per l'ingrandimento di Firenze, publicado en 1882. Siguió trabajando como arquitecto y escribió, entre otras cosas, sobre la conservación de los monumentos y sobre la fachada de Santa Maria del Fiore. Murió en Florencia en 1901, a los 89 años."
+   },
+   "curiosita": {
+    "it": [
+     "Il Piazzale Michelangelo: ideato come bastione panoramico sulla città, fu costruito tra il 1871 e il 1876. Al centro c'è una copia del David, su un basamento ornato da copie di statue delle Cappelle Medicee.",
+     "Modello francese: i viali di circonvallazione richiamano i boulevard francesi, ampi e alberati.",
+     "Le antiche porte: non furono abbattute insieme alle mura. Attorno ad alcune nacquero nuove piazze, come Piazza della Libertà e Piazza Beccaria.",
+     "Una città più grande: il piano era commisurato a un aumento della popolazione di circa 50.000 abitanti."
+    ],
+    "en": [
+     "Piazzale Michelangelo: conceived as a panoramic bastion over the city, it was built between 1871 and 1876. At its centre stands a copy of the David, on a plinth adorned with copies of statues from the Medici Chapels.",
+     "A French model: the ring boulevards recall French boulevards, wide and tree-lined.",
+     "The old gates: they were not torn down with the walls. New squares grew up around some of them, such as Piazza della Libertà and Piazza Beccaria.",
+     "A bigger city: the plan was sized for a population increase of about 50,000 inhabitants."
+    ],
+    "fr": [
+     "Le Piazzale Michelangelo : conçu comme un bastion panoramique sur la ville, il fut construit entre 1871 et 1876. Au centre se dresse une copie du David, sur un socle orné de copies de statues des Chapelles médicéennes.",
+     "Un modèle français : les boulevards de ceinture rappellent les boulevards français, larges et plantés d'arbres.",
+     "Les anciennes portes : elles ne furent pas abattues avec les murailles. De nouvelles places naquirent autour de certaines, comme la Piazza della Libertà et la Piazza Beccaria.",
+     "Une ville plus grande : le plan était calibré pour une augmentation de la population d'environ 50 000 habitants."
+    ],
+    "de": [
+     "Das Piazzale Michelangelo: als Aussichtsbastion über der Stadt gedacht, wurde es zwischen 1871 und 1876 gebaut. In der Mitte steht eine Kopie des David auf einem Sockel, der mit Kopien von Statuen der Medici-Kapellen geschmückt ist.",
+     "Ein französisches Vorbild: Die Ringstraßen erinnern an französische Boulevards, breit und von Bäumen gesäumt.",
+     "Die alten Tore: Sie wurden nicht mit den Mauern abgerissen. Um einige entstanden neue Plätze, etwa die Piazza della Libertà und die Piazza Beccaria.",
+     "Eine größere Stadt: Der Plan war auf einen Bevölkerungszuwachs von rund 50.000 Einwohnern ausgelegt."
+    ],
+    "es": [
+     "El Piazzale Michelangelo: concebido como baluarte panorámico sobre la ciudad, se construyó entre 1871 y 1876. En el centro hay una copia del David, sobre un pedestal adornado con copias de estatuas de las Capillas Medicea.",
+     "Un modelo francés: las avenidas de circunvalación recuerdan los bulevares franceses, anchos y arbolados.",
+     "Las antiguas puertas: no se derribaron junto con las murallas. Alrededor de algunas nacieron nuevas plazas, como la Piazza della Libertà y la Piazza Beccaria.",
+     "Una ciudad más grande: el plan estaba calculado para un aumento de población de unos 50.000 habitantes."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "ubaldino-peruzzi",
+     "testo": {
+      "it": "Dai primi anni Settanta al 1878 Peruzzi fu sindaco di Firenze, negli anni in cui furono realizzati il Viale dei Colli e il Piazzale Michelangelo e proseguirono i lavori del piano.",
+      "en": "From the early 1870s to 1878 Peruzzi was mayor of Florence, in the years when the Viale dei Colli and Piazzale Michelangelo were built and work on the plan continued.",
+      "fr": "Des premières années 1870 à 1878, Peruzzi fut maire de Florence, à l'époque où furent réalisés le Viale dei Colli et le Piazzale Michelangelo et où les travaux du plan se poursuivaient.",
+      "de": "Von den frühen 1870er Jahren bis 1878 war Peruzzi Bürgermeister von Florenz, in den Jahren, in denen der Viale dei Colli und das Piazzale Michelangelo entstanden und die Arbeiten des Plans fortgesetzt wurden.",
+      "es": "Desde los primeros años setenta hasta 1878 Peruzzi fue alcalde de Florencia, en los años en que se construyeron el Viale dei Colli y el Piazzale Michelangelo y continuaron las obras del plan."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Antonio Ciseri, ritratto di Giuseppe Poggi",
+    "licenza": "CC BY-SA 3.0"
+   }
+  },
+  {
+   "id": "ubaldino-peruzzi",
+   "nome": "Ubaldino Peruzzi",
+   "nascita": 1822,
+   "morte": 1891,
+   "professione": {
+    "it": "Politico e amministratore",
+    "en": "Politician and administrator",
+    "fr": "Homme politique et administrateur",
+    "de": "Politiker und Verwaltungsmann",
+    "es": "Político y administrador"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "2 aprile 1822",
+    "en": "2 April 1822",
+    "fr": "2 avril 1822",
+    "de": "2. April 1822",
+    "es": "2 de abril de 1822"
+   },
+   "luogoMorte": {
+    "it": "Antella (Bagno a Ripoli)",
+    "en": "Antella (Bagno a Ripoli)",
+    "fr": "Antella (Bagno a Ripoli)",
+    "de": "Antella (Bagno a Ripoli)",
+    "es": "Antella (Bagno a Ripoli)"
+   },
+   "dataMorte": {
+    "it": "9 settembre 1891",
+    "en": "9 September 1891",
+    "fr": "9 septembre 1891",
+    "de": "9. September 1891",
+    "es": "9 de septiembre de 1891"
+   },
+   "biografia": {
+    "it": "Ubaldino Peruzzi fu uno dei protagonisti della vita politica e amministrativa della Toscana nell'Ottocento e della Firenze postunitaria.\n\nAppartenente a una delle più antiche famiglie aristocratiche fiorentine, studiò giurisprudenza e si formò anche in ambito tecnico a Parigi. Fu gonfaloniere di Firenze dal 1848 al 1850, succedendo a Bettino Ricasoli, e nel 1859 partecipò al governo provvisorio toscano che portò all'annessione al Regno di Sardegna.\n\nDopo l'Unità fu ministro dei Lavori pubblici con Cavour (1860–1861) e con Ricasoli (1861–1862) e ministro dell'Interno nel governo Minghetti (1863–1864). Presiedette poi la Provincia di Firenze dal 1865 al 1870.\n\nDai primi anni Settanta al 1878 fu sindaco di Firenze, negli anni in cui la città doveva gestire la crescita edilizia, le nuove infrastrutture e la fine del ruolo di capitale. Morì ad Antella, nel comune di Bagno a Ripoli, nel 1891.",
+    "en": "Ubaldino Peruzzi was one of the protagonists of the political and administrative life of 19th-century Tuscany and of post-Unification Florence.\n\nBorn into one of the oldest Florentine aristocratic families, he studied law and also trained in technical subjects in Paris. He was gonfalonier of Florence from 1848 to 1850, succeeding Bettino Ricasoli, and in 1859 he took part in the provisional Tuscan government that led to annexation to the Kingdom of Sardinia.\n\nAfter Unification he was minister of Public Works under Cavour (1860–1861) and under Ricasoli (1861–1862), and minister of the Interior in the Minghetti government (1863–1864). He then presided over the Province of Florence from 1865 to 1870.\n\nFrom the early 1870s to 1878 he was mayor of Florence, in the years when the city had to cope with building growth, new infrastructure and the end of its role as capital. He died at Antella, in the municipality of Bagno a Ripoli, in 1891.",
+    "fr": "Ubaldino Peruzzi fut l'un des protagonistes de la vie politique et administrative de la Toscane au XIXe siècle et de la Florence postérieure à l'Unité.\n\nIssu de l'une des plus anciennes familles aristocratiques florentines, il étudia le droit et se forma aussi dans le domaine technique à Paris. Il fut gonfalonier de Florence de 1848 à 1850, succédant à Bettino Ricasoli, et en 1859 il participa au gouvernement provisoire toscan qui mena à l'annexion au Royaume de Sardaigne.\n\nAprès l'Unité, il fut ministre des Travaux publics sous Cavour (1860–1861) et sous Ricasoli (1861–1862), puis ministre de l'Intérieur dans le gouvernement Minghetti (1863–1864). Il présida ensuite la Province de Florence de 1865 à 1870.\n\nDes premières années 1870 à 1878, il fut maire de Florence, à l'époque où la ville devait faire face à la croissance du bâti, aux nouvelles infrastructures et à la fin de son rôle de capitale. Il mourut à Antella, dans la commune de Bagno a Ripoli, en 1891.",
+    "de": "Ubaldino Peruzzi war einer der Protagonisten des politischen und administrativen Lebens der Toskana im 19. Jahrhundert und des Florenz nach der Einigung.\n\nAus einer der ältesten florentinischen Adelsfamilien stammend, studierte er Rechtswissenschaft und bildete sich auch in Paris technisch fort. Er war von 1848 bis 1850 Gonfaloniere von Florenz, als Nachfolger Bettino Ricasolis, und nahm 1859 an der provisorischen toskanischen Regierung teil, die den Anschluss an das Königreich Sardinien herbeiführte.\n\nNach der Einigung war er Minister für öffentliche Arbeiten unter Cavour (1860–1861) und unter Ricasoli (1861–1862) sowie Innenminister in der Regierung Minghetti (1863–1864). Danach stand er von 1865 bis 1870 der Provinz Florenz vor.\n\nVon den frühen 1870er Jahren bis 1878 war er Bürgermeister von Florenz, in den Jahren, in denen die Stadt mit dem Bauwachstum, neuer Infrastruktur und dem Ende ihrer Rolle als Hauptstadt umgehen musste. Er starb 1891 in Antella, in der Gemeinde Bagno a Ripoli.",
+    "es": "Ubaldino Peruzzi fue uno de los protagonistas de la vida política y administrativa de la Toscana en el siglo XIX y de la Florencia posterior a la Unidad.\n\nPerteneciente a una de las familias aristocráticas florentinas más antiguas, estudió derecho y se formó también en el ámbito técnico en París. Fue gonfaloniero de Florencia de 1848 a 1850, sucediendo a Bettino Ricasoli, y en 1859 participó en el gobierno provisional toscano que condujo a la anexión al Reino de Cerdeña.\n\nTras la Unidad fue ministro de Obras Públicas con Cavour (1860–1861) y con Ricasoli (1861–1862), y ministro del Interior en el gobierno Minghetti (1863–1864). Presidió después la Provincia de Florencia de 1865 a 1870.\n\nDesde los primeros años setenta hasta 1878 fue alcalde de Florencia, en los años en que la ciudad tuvo que afrontar el crecimiento urbano, las nuevas infraestructuras y el fin de su papel de capital. Murió en Antella, en el municipio de Bagno a Ripoli, en 1891."
+   },
+   "curiosita": {
+    "it": [
+     "Non fu il sindaco del trasferimento: quando la capitale arrivò a Firenze, nel 1865, il sindaco era Luigi Guglielmo Cambray-Digny, in carica dal 1864 al 1867. Peruzzi lo divenne soltanto negli anni Settanta.",
+     "Il salotto rosso: la moglie Emilia Toscanelli teneva in Borgo dei Greci un salotto politico e culturale, tra gli ambienti chiave della Firenze capitale.",
+     "Il monumento: una statua in bronzo di Augusto Rivalta, del 1898, lo ricorda in Piazza dell'Indipendenza, dove sorge anche il monumento a Ricasoli."
+    ],
+    "en": [
+     "Not the mayor of the move: when the capital arrived in Florence in 1865, the mayor was Luigi Guglielmo Cambray-Digny, in office from 1864 to 1867. Peruzzi became mayor only in the 1870s.",
+     "The red salon: his wife Emilia Toscanelli held a political and cultural salon in Borgo dei Greci, one of the key circles of Florence as capital.",
+     "The monument: a bronze statue by Augusto Rivalta, dated 1898, commemorates him in Piazza dell'Indipendenza, where the monument to Ricasoli also stands."
+    ],
+    "fr": [
+     "Pas le maire du transfert : quand la capitale arriva à Florence, en 1865, le maire était Luigi Guglielmo Cambray-Digny, en fonction de 1864 à 1867. Peruzzi ne le devint que dans les années 1870.",
+     "Le salon rouge : sa femme Emilia Toscanelli tenait à Borgo dei Greci un salon politique et culturel, l'un des milieux clés de la Florence capitale.",
+     "Le monument : une statue en bronze d'Augusto Rivalta, de 1898, le commémore sur la Piazza dell'Indipendenza, où se dresse aussi le monument à Ricasoli."
+    ],
+    "de": [
+     "Nicht der Bürgermeister des Umzugs: Als die Hauptstadt 1865 nach Florenz kam, war Luigi Guglielmo Cambray-Digny Bürgermeister, im Amt von 1864 bis 1867. Peruzzi wurde es erst in den 1870er Jahren.",
+     "Der rote Salon: Seine Frau Emilia Toscanelli führte in Borgo dei Greci einen politischen und kulturellen Salon, einen der Schlüsselorte des Florenz als Hauptstadt.",
+     "Das Denkmal: Eine Bronzestatue von Augusto Rivalta aus dem Jahr 1898 erinnert auf der Piazza dell'Indipendenza an ihn, wo auch das Denkmal für Ricasoli steht."
+    ],
+    "es": [
+     "No fue el alcalde del traslado: cuando la capital llegó a Florencia, en 1865, el alcalde era Luigi Guglielmo Cambray-Digny, en el cargo de 1864 a 1867. Peruzzi lo fue solo en los años setenta.",
+     "El salón rojo: su esposa Emilia Toscanelli tenía en Borgo dei Greci un salón político y cultural, uno de los ambientes clave de la Florencia capital.",
+     "El monumento: una estatua de bronce de Augusto Rivalta, de 1898, lo recuerda en la Piazza dell'Indipendenza, donde se alza también el monumento a Ricasoli."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "bettino-ricasoli",
+     "testo": {
+      "it": "Gli succedette come gonfaloniere di Firenze (1848–1850) e fu ministro dei Lavori pubblici nel suo governo del 1861–1862. Entrambi ebbero un ruolo nel governo provvisorio toscano del 1859.",
+      "en": "He succeeded him as gonfalonier of Florence (1848–1850) and was minister of Public Works in his 1861–1862 government. Both played a part in the provisional Tuscan government of 1859.",
+      "fr": "Il lui succéda comme gonfalonier de Florence (1848–1850) et fut ministre des Travaux publics dans son gouvernement de 1861–1862. Tous deux eurent un rôle dans le gouvernement provisoire toscan de 1859.",
+      "de": "Er folgte ihm als Gonfaloniere von Florenz (1848–1850) und war in dessen Regierung von 1861–1862 Minister für öffentliche Arbeiten. Beide spielten 1859 eine Rolle in der provisorischen toskanischen Regierung.",
+      "es": "Le sucedió como gonfaloniero de Florencia (1848–1850) y fue ministro de Obras Públicas en su gobierno de 1861–1862. Ambos tuvieron un papel en el gobierno provisional toscano de 1859."
+     }
+    },
+    {
+     "id": "giuseppe-poggi",
+     "testo": {
+      "it": "Fu sindaco negli anni in cui si costruirono il Viale dei Colli e il Piazzale Michelangelo e proseguirono i lavori del piano di Poggi, che trasformò la città capitale.",
+      "en": "He was mayor in the years when the Viale dei Colli and Piazzale Michelangelo were built and work continued on Poggi's plan, which transformed the capital city.",
+      "fr": "Il fut maire à l'époque où l'on construisit le Viale dei Colli et le Piazzale Michelangelo et où se poursuivaient les travaux du plan de Poggi, qui transforma la ville capitale.",
+      "de": "Er war Bürgermeister in den Jahren, in denen der Viale dei Colli und das Piazzale Michelangelo gebaut wurden und die Arbeiten an Poggis Plan weitergingen, der die Hauptstadt umgestaltete.",
+      "es": "Fue alcalde en los años en que se construyeron el Viale dei Colli y el Piazzale Michelangelo y continuaron las obras del plan de Poggi, que transformó la ciudad capital."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Anonimo, ritratto di Ubaldino Peruzzi",
     "licenza": "Pubblico dominio"
    }
   }
