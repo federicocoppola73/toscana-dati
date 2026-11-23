@@ -5137,6 +5137,16 @@
       "de": "Seine Instrumente wurden von dem 1775 von Peter Leopold gegründeten Museum für Physik und Naturgeschichte aufgenommen.",
       "es": "Sus instrumentos fueron acogidos por el Museo de Física e Historia Natural fundado por Pedro Leopoldo en 1775."
      }
+    },
+    {
+     "id": "leopoldo-ii-di-lorena",
+     "testo": {
+      "it": "Nel 1841 la Tribuna di Galileo, voluta da Leopoldo II, ne accolse gli strumenti in un ambiente dedicato.",
+      "en": "In 1841 the Tribuna di Galileo, promoted by Leopold II, housed his instruments in a dedicated space.",
+      "fr": "En 1841, la Tribuna di Galileo, voulue par Léopold II, accueillit ses instruments dans un espace dédié.",
+      "de": "1841 nahm die von Leopold II. veranlasste Tribuna di Galileo seine Instrumente in einem eigenen Raum auf.",
+      "es": "En 1841 la Tribuna di Galileo, promovida por Leopoldo II, acogió sus instrumentos en un espacio dedicado."
+     }
     }
    ],
    "ritratto": {
@@ -5381,10 +5391,164 @@
       "de": "Galileis Instrumente gehörten zu den wissenschaftlichen Medici-Beständen, die das von Peter Leopold gegründete Museum für Physik und Naturgeschichte aufnahm.",
       "es": "Los instrumentos de Galileo estuvieron entre los materiales científicos medíceos acogidos por el Museo de Física e Historia Natural fundado por Pedro Leopoldo."
      }
+    },
+    {
+     "id": "leopoldo-ii-di-lorena",
+     "testo": {
+      "it": "Era suo nipote e, dal 1824, granduca di Toscana; riprese opere pubbliche e iniziative culturali in un contesto politico molto diverso.",
+      "en": "He was his grandson and, from 1824, Grand Duke of Tuscany; he took up public works and cultural initiatives in a very different political context.",
+      "fr": "C'était son petit-fils et, à partir de 1824, grand-duc de Toscane ; il reprit travaux publics et initiatives culturelles dans un contexte politique très différent.",
+      "de": "Er war sein Enkel und ab 1824 Großherzog der Toskana; er setzte öffentliche Arbeiten und kulturelle Initiativen in einem politisch sehr anderen Umfeld fort.",
+      "es": "Era su nieto y, desde 1824, gran duque de Toscana; retomó obras públicas e iniciativas culturales en un contexto político muy distinto."
+     }
     }
    ],
    "ritratto": {
     "autore": "Anonimo, ritratto di Pietro Leopoldo di Lorena",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "leopoldo-ii-di-lorena",
+   "nome": "Leopoldo II di Lorena",
+   "nascita": 1797,
+   "morte": 1870,
+   "professione": {
+    "it": "Ultimo granduca regnante di Toscana (1824–1859)",
+    "en": "Last reigning Grand Duke of Tuscany (1824–1859)",
+    "fr": "Dernier grand-duc régnant de Toscane (1824–1859)",
+    "de": "Letzter regierender Großherzog der Toskana (1824–1859)",
+    "es": "Último gran duque reinante de Toscana (1824–1859)"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "3 ottobre 1797",
+    "en": "3 October 1797",
+    "fr": "3 octobre 1797",
+    "de": "3. Oktober 1797",
+    "es": "3 de octubre de 1797"
+   },
+   "luogoMorte": {
+    "it": "Roma",
+    "en": "Rome",
+    "fr": "Rome",
+    "de": "Rom",
+    "es": "Roma"
+   },
+   "dataMorte": {
+    "it": "29 gennaio 1870",
+    "en": "29 January 1870",
+    "fr": "29 janvier 1870",
+    "de": "29. Januar 1870",
+    "es": "29 de enero de 1870"
+   },
+   "biografia": {
+    "it": "Leopoldo II d'Asburgo-Lorena fu l'ultimo granduca regnante di Toscana, dal 1824 al 1859. Nato a Firenze, era figlio di Ferdinando III e nipote di Pietro Leopoldo.\n\nNei primi decenni di governo promosse opere pubbliche: strade, ferrovie, come la Leopolda tra Firenze e Livorno, completata nel 1848, e la bonifica della Maremma.\n\nIl 17 febbraio 1848 concesse lo Statuto. Alla fine di gennaio 1849 lasciò Firenze per Siena e il 21 febbraio raggiunse Gaeta; rientrò il 28 luglio 1849 con le truppe austriache e abolì la Costituzione. Nel 1852 reintrodusse la pena di morte per atti di violenza contro il governo e la religione.\n\nIl 27 aprile 1859, durante la Seconda guerra d'indipendenza, lasciò Firenze e il 21 luglio abdicò a favore del figlio Ferdinando, non riconosciuto dal governo provvisorio toscano. Nel 1860 la Toscana votò l'annessione al Regno di Sardegna; il Regno d'Italia nacque nel 1861. Leopoldo II morì a Roma nel 1870.",
+    "en": "Leopold II of Habsburg-Lorraine was the last reigning Grand Duke of Tuscany, from 1824 to 1859. Born in Florence, he was the son of Ferdinand III and the grandson of Peter Leopold.\n\nIn the first decades of his rule he promoted public works: roads, railways, such as the Leopolda between Florence and Livorno, completed in 1848, and the reclamation of the Maremma.\n\nOn 17 February 1848 he granted the Statute. At the end of January 1849 he left Florence for Siena and on 21 February reached Gaeta; he returned on 28 July 1849 with Austrian troops and abolished the Constitution. In 1852 he reintroduced the death penalty for acts of violence against the government and religion.\n\nOn 27 April 1859, during the Second War of Independence, he left Florence and on 21 July abdicated in favour of his son Ferdinand, who was not recognised by the Tuscan provisional government. In 1860 Tuscany voted for annexation to the Kingdom of Sardinia; the Kingdom of Italy was born in 1861. Leopold II died in Rome in 1870.",
+    "fr": "Léopold II de Habsbourg-Lorraine fut le dernier grand-duc régnant de Toscane, de 1824 à 1859. Né à Florence, il était le fils de Ferdinand III et le petit-fils de Pierre-Léopold.\n\nDurant les premières décennies de son règne, il promut des travaux publics : routes, chemins de fer, comme la Leopolda entre Florence et Livourne, achevée en 1848, et l'assainissement de la Maremme.\n\nLe 17 février 1848, il octroya le statut. À la fin de janvier 1849, il quitta Florence pour Sienne et, le 21 février, atteignit Gaète ; il revint le 28 juillet 1849 avec les troupes autrichiennes et abolit la Constitution. En 1852, il rétablit la peine de mort pour les actes de violence contre le gouvernement et la religion.\n\nLe 27 avril 1859, pendant la deuxième guerre d'indépendance, il quitta Florence et, le 21 juillet, abdiqua en faveur de son fils Ferdinand, non reconnu par le gouvernement provisoire toscan. En 1860, la Toscane vota son annexion au Royaume de Sardaigne ; le Royaume d'Italie naquit en 1861. Léopold II mourut à Rome en 1870.",
+    "de": "Leopold II. von Habsburg-Lothringen war von 1824 bis 1859 der letzte regierende Großherzog der Toskana. In Florenz geboren, war er der Sohn Ferdinands III. und der Enkel Peter Leopolds.\n\nIn den ersten Jahrzehnten seiner Regierung förderte er öffentliche Arbeiten: Straßen, Eisenbahnen wie die 1848 fertiggestellte Leopolda zwischen Florenz und Livorno sowie die Trockenlegung der Maremma.\n\nAm 17. Februar 1848 gewährte er das Statut. Ende Januar 1849 verließ er Florenz Richtung Siena und erreichte am 21. Februar Gaeta; am 28. Juli 1849 kehrte er mit österreichischen Truppen zurück und hob die Verfassung auf. 1852 führte er die Todesstrafe für Gewalttaten gegen Regierung und Religion wieder ein.\n\nAm 27. April 1859 verließ er während des Zweiten Unabhängigkeitskrieges Florenz und dankte am 21. Juli zugunsten seines Sohnes Ferdinand ab, den die toskanische Übergangsregierung nicht anerkannte. 1860 stimmte die Toskana für den Anschluss an das Königreich Sardinien; 1861 entstand das Königreich Italien. Leopold II. starb 1870 in Rom.",
+    "es": "Leopoldo II de Habsburgo-Lorena fue el último gran duque reinante de Toscana, de 1824 a 1859. Nacido en Florencia, era hijo de Fernando III y nieto de Pedro Leopoldo.\n\nEn las primeras décadas de gobierno promovió obras públicas: carreteras, ferrocarriles, como la Leopolda entre Florencia y Livorno, terminada en 1848, y la desecación de la Maremma.\n\nEl 17 de febrero de 1848 concedió el Estatuto. A finales de enero de 1849 dejó Florencia rumbo a Siena y el 21 de febrero llegó a Gaeta; regresó el 28 de julio de 1849 con tropas austriacas y abolió la Constitución. En 1852 reintrodujo la pena de muerte para los actos de violencia contra el gobierno y la religión.\n\nEl 27 de abril de 1859, durante la Segunda guerra de independencia, dejó Florencia y el 21 de julio abdicó en favor de su hijo Fernando, no reconocido por el gobierno provisional toscano. En 1860 Toscana votó la anexión al Reino de Cerdeña; el Reino de Italia nació en 1861. Leopoldo II murió en Roma en 1870."
+   },
+   "curiosita": {
+    "it": [
+     "La Maremma: la bonifica delle sue paludi fu uno dei grandi progetti del suo governo, importante per lo sviluppo agricolo e sanitario della Toscana.",
+     "La Leopolda: la ferrovia Firenze–Livorno prese il nome da lui ed ebbe un ruolo centrale nella modernizzazione dei collegamenti toscani.",
+     "La Tribuna di Galileo: fu costruita per sua iniziativa e aperta nel settembre 1841, in occasione del terzo Congresso degli scienziati italiani, ospitato a Firenze.",
+     "Dopo il 1849: la Costituzione fu abolita e nel 1852 tornò la pena di morte, che la Leopoldina del nonno aveva abolito."
+    ],
+    "en": [
+     "The Maremma: the reclamation of its marshes was one of the great projects of his government, important for Tuscany's agricultural and health development.",
+     "The Leopolda: the Florence–Livorno railway took its name from him and played a central role in modernising Tuscan transport links.",
+     "The Tribuna di Galileo: it was built on his initiative and opened in September 1841, on the occasion of the third Congress of Italian Scientists, held in Florence.",
+     "After 1849: the Constitution was abolished and in 1852 the death penalty returned, which his grandfather's Leopoldina had abolished."
+    ],
+    "fr": [
+     "La Maremme : l'assainissement de ses marais fut l'un des grands projets de son gouvernement, important pour le développement agricole et sanitaire de la Toscane.",
+     "La Leopolda : le chemin de fer Florence–Livourne reçut son nom et joua un rôle central dans la modernisation des liaisons toscanes.",
+     "La Tribuna di Galileo : elle fut construite à son initiative et ouverte en septembre 1841, à l'occasion du troisième Congrès des scientifiques italiens, accueilli à Florence.",
+     "Après 1849 : la Constitution fut abolie et, en 1852, la peine de mort revint, que la Leopoldina de son grand-père avait abolie."
+    ],
+    "de": [
+     "Die Maremma: Die Trockenlegung ihrer Sümpfe war eines der großen Projekte seiner Regierung, wichtig für die landwirtschaftliche und gesundheitliche Entwicklung der Toskana.",
+     "Die Leopolda: Die Eisenbahn Florenz–Livorno trug seinen Namen und spielte eine zentrale Rolle bei der Modernisierung der toskanischen Verkehrsverbindungen.",
+     "Die Tribuna di Galileo: Sie wurde auf seine Initiative errichtet und im September 1841 anlässlich des in Florenz abgehaltenen dritten Kongresses der italienischen Wissenschaftler eröffnet.",
+     "Nach 1849: Die Verfassung wurde aufgehoben und 1852 kehrte die Todesstrafe zurück, die die Leopoldina seines Großvaters abgeschafft hatte."
+    ],
+    "es": [
+     "La Maremma: la desecación de sus pantanos fue uno de los grandes proyectos de su gobierno, importante para el desarrollo agrícola y sanitario de Toscana.",
+     "La Leopolda: el ferrocarril Florencia–Livorno tomó su nombre de él y tuvo un papel central en la modernización de las comunicaciones toscanas.",
+     "La Tribuna di Galileo: se construyó por iniciativa suya y se abrió en septiembre de 1841, con motivo del tercer Congreso de los científicos italianos, celebrado en Florencia.",
+     "Después de 1849: se abolió la Constitución y en 1852 volvió la pena de muerte, que la Leopoldina de su abuelo había abolido."
+    ]
+   },
+   "luoghi": [
+    "palazzo-pitti",
+    "basilica-di-santa-maria-novella"
+   ],
+   "luoghiNote": {
+    "palazzo-pitti": {
+     "tipo": {
+      "it": "La residenza granducale",
+      "en": "The grand-ducal residence",
+      "fr": "La résidence grand-ducale",
+      "de": "Die großherzogliche Residenz",
+      "es": "La residencia granducal"
+     },
+     "testo": {
+      "it": "Palazzo Pitti era la residenza dei granduchi lorenesi. Nella prima metà dell'Ottocento il palazzo fu oggetto di ristrutturazioni volte a dare maggiore spettacolarità alla vita di corte.",
+      "en": "Palazzo Pitti was the residence of the Lorraine grand dukes. In the first half of the 19th century the palace underwent renovations aimed at giving court life greater spectacle.",
+      "fr": "Le Palazzo Pitti était la résidence des grands-ducs lorrains. Dans la première moitié du XIXe siècle, le palais fit l'objet de rénovations visant à donner plus de faste à la vie de cour.",
+      "de": "Der Palazzo Pitti war die Residenz der lothringischen Großherzöge. In der ersten Hälfte des 19. Jahrhunderts wurde der Palast umgebaut, um dem Hofleben mehr Prunk zu verleihen.",
+      "es": "El Palazzo Pitti era la residencia de los grandes duques de Lorena. En la primera mitad del siglo XIX el palacio fue objeto de reformas destinadas a dar más espectacularidad a la vida de corte."
+     }
+    },
+    "basilica-di-santa-maria-novella": {
+     "tipo": {
+      "it": "La ferrovia",
+      "en": "The railway",
+      "fr": "Le chemin de fer",
+      "de": "Die Eisenbahn",
+      "es": "El ferrocarril"
+     },
+     "testo": {
+      "it": "Nel 1848 fu aperta la stazione Maria Antonia, sorta presso l'abside della chiesa e diventata poi l'attuale stazione di Santa Maria Novella.",
+      "en": "In 1848 the Maria Antonia station opened, built near the apse of the church and later becoming the present Santa Maria Novella station.",
+      "fr": "En 1848, la gare Maria Antonia fut ouverte, construite près de l'abside de l'église et devenue ensuite l'actuelle gare de Santa Maria Novella.",
+      "de": "1848 wurde der Bahnhof Maria Antonia eröffnet, der nahe der Apsis der Kirche entstand und später zum heutigen Bahnhof Santa Maria Novella wurde.",
+      "es": "En 1848 se abrió la estación Maria Antonia, levantada junto al ábside de la iglesia y convertida después en la actual estación de Santa Maria Novella."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "pietro-leopoldo-di-lorena",
+     "testo": {
+      "it": "Era suo nonno. Le riforme e le opere pubbliche di Pietro Leopoldo furono un riferimento per il governo lorenese successivo, in un contesto politico molto diverso.",
+      "en": "He was his grandfather. Peter Leopold's reforms and public works were a reference for later Lorraine government, in a very different political context.",
+      "fr": "C'était son grand-père. Les réformes et les travaux publics de Pierre-Léopold servirent de référence au gouvernement lorrain suivant, dans un contexte politique très différent.",
+      "de": "Er war sein Großvater. Peter Leopolds Reformen und öffentliche Arbeiten blieben ein Bezugspunkt für die spätere lothringische Regierung, in einem politisch sehr anderen Umfeld.",
+      "es": "Era su abuelo. Las reformas y obras públicas de Pedro Leopoldo fueron una referencia para el gobierno lorenés posterior, en un contexto político muy distinto."
+     }
+    },
+    {
+     "id": "galileo-galilei",
+     "testo": {
+      "it": "Per sua iniziativa fu costruita la Tribuna di Galileo, aperta nel 1841 in occasione del Congresso degli scienziati italiani.",
+      "en": "The Tribuna di Galileo was built on his initiative and opened in 1841 on the occasion of the Congress of Italian Scientists.",
+      "fr": "La Tribuna di Galileo fut construite à son initiative et ouverte en 1841 à l'occasion du Congrès des scientifiques italiens.",
+      "de": "Auf seine Initiative entstand die Tribuna di Galileo, die 1841 anlässlich des Kongresses der italienischen Wissenschaftler eröffnet wurde.",
+      "es": "Por iniciativa suya se construyó la Tribuna di Galileo, abierta en 1841 con motivo del Congreso de los científicos italianos."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Anonimo, ritratto del giovane Leopoldo II di Lorena",
     "licenza": "Pubblico dominio"
    }
   }
