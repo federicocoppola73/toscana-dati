@@ -4363,6 +4363,26 @@
       "de": "Er nahm ihn 1545 in Florenz auf und gab ihm den Perseus für die Loggia dei Lanzi in Auftrag; das Verhältnis war auch von Spannungen geprägt, darunter eine 1554 eingeleitete Untersuchung über das für die Statue bestimmte Metall.",
       "es": "Lo acogió en Florencia en 1545 y le encargó el Perseo para la Loggia dei Lanzi; la relación estuvo marcada también por tensiones, entre ellas una investigación abierta en 1554 sobre el metal destinado a la estatua."
      }
+    },
+    {
+     "id": "bernardo-buontalenti",
+     "testo": {
+      "it": "Allevò alla sua corte il giovane Buontalenti, che servì i Medici per tutta la vita e divenne architetto di corte dopo Vasari.",
+      "en": "He raised the young Buontalenti at his court; Buontalenti served the Medici all his life and became court architect after Vasari.",
+      "fr": "Il éleva à sa cour le jeune Buontalenti, qui servit les Médicis toute sa vie et devint architecte de la cour après Vasari.",
+      "de": "Er zog den jungen Buontalenti an seinem Hof auf; dieser diente den Medici sein Leben lang und wurde nach Vasari Hofarchitekt.",
+      "es": "Crió en su corte al joven Buontalenti, que sirvió a los Médici toda su vida y fue arquitecto de corte tras Vasari."
+     }
+    },
+    {
+     "id": "francesco-i-de-medici",
+     "testo": {
+      "it": "Fu suo figlio e successore al governo dello Stato dal 1574. Sviluppò una politica più orientata al collezionismo, alla scienza e alle arti.",
+      "en": "He was his son and successor at the head of the state from 1574. He pursued a policy more oriented towards collecting, science and the arts.",
+      "fr": "Il fut son fils et son successeur à la tête de l'État à partir de 1574. Il mena une politique plus orientée vers la collection, la science et les arts.",
+      "de": "Er war sein Sohn und ab 1574 sein Nachfolger an der Spitze des Staates. Er verfolgte eine stärker auf Sammeln, Wissenschaft und Künste ausgerichtete Politik.",
+      "es": "Fue su hijo y sucesor al frente del Estado desde 1574. Desarrolló una política más orientada al coleccionismo, la ciencia y las artes."
+     }
     }
    ],
    "ritratto": {
@@ -4581,6 +4601,26 @@
       "de": "Vasari widmete ihm bereits in der Ausgabe von 1550 eine Biografie und trug so zur Verbreitung seines Ruhms bei den nachfolgenden Generationen bei.",
       "es": "Vasari le dedicó una biografía ya en la edición de 1550, contribuyendo a la difusión de su fama entre las generaciones posteriores."
      }
+    },
+    {
+     "id": "bernardo-buontalenti",
+     "testo": {
+      "it": "Fu suo allievo di pittura e, dopo la morte di Vasari nel 1574, gli succedette come architetto di corte, portando avanti i cantieri medicei, tra cui gli Uffizi.",
+      "en": "He was his pupil in painting and, after Vasari's death in 1574, succeeded him as court architect, carrying on the Medici building sites, the Uffizi among them.",
+      "fr": "Il fut son élève en peinture et, après la mort de Vasari en 1574, lui succéda comme architecte de la cour, poursuivant les chantiers médicéens, dont les Offices.",
+      "de": "Er war sein Schüler in der Malerei und folgte ihm nach Vasaris Tod 1574 als Hofarchitekt nach; er führte die Medici-Baustellen weiter, darunter die Uffizien.",
+      "es": "Fue su discípulo en pintura y, tras la muerte de Vasari en 1574, le sucedió como arquitecto de corte, llevando adelante las obras medíceas, entre ellas los Uffizi."
+     }
+    },
+    {
+     "id": "francesco-i-de-medici",
+     "testo": {
+      "it": "Per Francesco I diresse la decorazione dello Studiolo di Palazzo Vecchio (1570-1572), su programma di Vincenzo Borghini.",
+      "en": "For Francesco I he directed the decoration of the Studiolo in Palazzo Vecchio (1570-1572), to a programme by Vincenzo Borghini.",
+      "fr": "Pour François Ier, il dirigea la décoration du Studiolo du Palazzo Vecchio (1570-1572), sur un programme de Vincenzo Borghini.",
+      "de": "Für Francesco I. leitete er die Ausstattung des Studiolo im Palazzo Vecchio (1570-1572) nach einem Programm von Vincenzo Borghini.",
+      "es": "Para Francisco I dirigió la decoración del Studiolo del Palazzo Vecchio (1570-1572), según un programa de Vincenzo Borghini."
+     }
     }
    ],
    "ritratto": {
@@ -4730,6 +4770,261 @@
    "ritratto": {
     "autore": "Ritratto di Benvenuto Cellini (autore non indicato)",
     "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "bernardo-buontalenti",
+   "nome": "Bernardo Buontalenti",
+   "nascita": 1531,
+   "morte": 1608,
+   "professione": {
+    "it": "Architetto, ingegnere, scenografo e artista",
+    "en": "Architect, engineer, stage designer and artist",
+    "fr": "Architecte, ingénieur, scénographe et artiste",
+    "de": "Architekt, Ingenieur, Bühnenbildner und Künstler",
+    "es": "Arquitecto, ingeniero, escenógrafo y artista"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "1531",
+    "en": "1531",
+    "fr": "1531",
+    "de": "1531",
+    "es": "1531"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "6 giugno 1608",
+    "en": "6 June 1608",
+    "fr": "6 juin 1608",
+    "de": "6. Juni 1608",
+    "es": "6 de junio de 1608"
+   },
+   "biografia": {
+    "it": "Bernardo Buontalenti fu architetto, ingegnere, pittore, scultore, scenografo e inventore, tra i protagonisti della cultura di corte della Firenze medicea tra Cinquecento e Seicento.\n\nRimasto orfano, fu allevato alla corte di Cosimo I de' Medici e imparò la pittura da Giorgio Vasari. Alla morte di Vasari, nel 1574, ne prese il posto come architetto di corte, al servizio di Francesco I e poi di Ferdinando I.\n\nPer Francesco I progettò il Casino di San Marco (1568-1574) e la Tribuna degli Uffizi (1581-1583), uno degli ambienti più celebri della storia del collezionismo europeo. Trasformò in grotta una cisterna del Giardino di Boboli, la Grotta Grande, e per Ferdinando I progettò il Forte Belvedere (1590-1595), fortezza a difesa di Palazzo Pitti e del versante sud della città. Gli si devono inoltre la facciata di Santa Trinita e il progetto di Palazzo Nonfinito.\n\nSi occupò anche di ingegneria militare e idraulica e di scenografia, ideando apparati per feste e spettacoli di corte, dai fuochi d'artificio agli allestimenti teatrali.",
+    "en": "Bernardo Buontalenti was an architect, engineer, painter, sculptor, stage designer and inventor, one of the leading figures of court culture in Medici Florence between the sixteenth and seventeenth centuries.\n\nOrphaned young, he was raised at the court of Cosimo I de' Medici and learned painting from Giorgio Vasari. When Vasari died in 1574 he took his place as court architect, in the service of Francesco I and then of Ferdinando I.\n\nFor Francesco I he designed the Casino di San Marco (1568-1574) and the Tribuna of the Uffizi (1581-1583), one of the most famous rooms in the history of European collecting. He turned a cistern in the Boboli Garden into a grotto, the Grotta Grande, and for Ferdinando I he designed the Forte Belvedere (1590-1595), a fortress protecting Palazzo Pitti and the southern side of the city. He is also credited with the façade of Santa Trinita and the design of Palazzo Nonfinito.\n\nHe also worked in military and hydraulic engineering and in stage design, devising apparatus for court festivals and shows, from fireworks to theatrical productions.",
+    "fr": "Bernardo Buontalenti fut architecte, ingénieur, peintre, sculpteur, scénographe et inventeur, l'une des figures majeures de la culture de cour dans la Florence des Médicis entre le XVIe et le XVIIe siècle.\n\nResté orphelin, il fut élevé à la cour de Cosme Ier de Médicis et apprit la peinture auprès de Giorgio Vasari. À la mort de Vasari, en 1574, il lui succéda comme architecte de la cour, au service de François Ier puis de Ferdinand Ier.\n\nPour François Ier, il conçut le Casino di San Marco (1568-1574) et la Tribuna des Offices (1581-1583), l'un des lieux les plus célèbres de l'histoire du collectionnisme européen. Il transforma en grotte une citerne du jardin de Boboli, la Grotta Grande, et pour Ferdinand Ier il conçut le Forte Belvedere (1590-1595), forteresse protégeant le Palazzo Pitti et le versant sud de la ville. On lui doit aussi la façade de Santa Trinita et le projet du Palazzo Nonfinito.\n\nIl s'occupa aussi d'ingénierie militaire et hydraulique et de scénographie, imaginant des dispositifs pour les fêtes et les spectacles de cour, des feux d'artifice aux mises en scène théâtrales.",
+    "de": "Bernardo Buontalenti war Architekt, Ingenieur, Maler, Bildhauer, Bühnenbildner und Erfinder und gehörte zu den Hauptfiguren der Hofkultur im mediceischen Florenz zwischen dem 16. und 17. Jahrhundert.\n\nFrüh verwaist, wuchs er am Hof Cosimos I. de' Medici auf und lernte die Malerei bei Giorgio Vasari. Nach Vasaris Tod 1574 trat er dessen Nachfolge als Hofarchitekt an, im Dienst Francescos I. und danach Ferdinandos I.\n\nFür Francesco I. entwarf er das Casino di San Marco (1568-1574) und die Tribuna der Uffizien (1581-1583), einen der berühmtesten Räume der europäischen Sammlungsgeschichte. Er verwandelte eine Zisterne im Boboli-Garten in eine Grotte, die Grotta Grande, und für Ferdinando I. plante er das Forte Belvedere (1590-1595), eine Festung zum Schutz des Palazzo Pitti und der Südseite der Stadt. Ihm werden außerdem die Fassade von Santa Trinita und der Entwurf des Palazzo Nonfinito zugeschrieben.\n\nEr beschäftigte sich auch mit Militär- und Wasserbau sowie mit Bühnenbild und entwarf Aufbauten für höfische Feste und Aufführungen, vom Feuerwerk bis zur Theaterinszenierung.",
+    "es": "Bernardo Buontalenti fue arquitecto, ingeniero, pintor, escultor, escenógrafo e inventor, una de las figuras principales de la cultura de corte de la Florencia medicea entre los siglos XVI y XVII.\n\nHuérfano de joven, se crió en la corte de Cosme I de Médici y aprendió pintura con Giorgio Vasari. A la muerte de Vasari, en 1574, ocupó su lugar como arquitecto de corte, al servicio de Francisco I y después de Fernando I.\n\nPara Francisco I proyectó el Casino di San Marco (1568-1574) y la Tribuna de los Uffizi (1581-1583), uno de los ambientes más célebres de la historia del coleccionismo europeo. Transformó en gruta una cisterna del Jardín de Boboli, la Grotta Grande, y para Fernando I proyectó el Forte Belvedere (1590-1595), fortaleza que defendía el Palazzo Pitti y el flanco sur de la ciudad. Se le atribuyen además la fachada de Santa Trinita y el proyecto del Palazzo Nonfinito.\n\nSe ocupó también de ingeniería militar e hidráulica y de escenografía, ideando aparatos para fiestas y espectáculos de corte, desde los fuegos artificiales hasta los montajes teatrales."
+   },
+   "curiosita": {
+    "it": [
+     "Bernardo delle Girandole: il soprannome gli venne dalla sua abilità nell'organizzare fuochi d'artificio per le feste di corte.",
+     "Il gelato: la tradizione lo indica come inventore del gelato moderno alla corte dei Medici, ma si tratta di un racconto tramandato, non di un fatto storicamente dimostrato.",
+     "La Tribuna: la pianta ottagonale si ispira alla descrizione vitruviana della Torre dei Venti di Atene; era una camera delle meraviglie dove si custodivano gioielli, opere d'arte e curiosità naturali.",
+     "La porcellana medicea: al Casino di San Marco, da lui progettato, Francesco I fece sperimentare tra il 1575 e il 1587 una porcellana a pasta tenera ispirata ai modelli orientali."
+    ],
+    "en": [
+     "Bernardo delle Girandole: the nickname came from his skill in organising fireworks for court festivals.",
+     "Ice cream: tradition names him as the inventor of modern ice cream at the Medici court, but this is a handed-down story, not a historically proven fact.",
+     "The Tribuna: its octagonal plan draws on Vitruvius's description of the Tower of the Winds in Athens; it was a cabinet of wonders housing jewels, works of art and natural curiosities.",
+     "Medici porcelain: at the Casino di San Marco, which he designed, Francesco I had a soft-paste porcelain inspired by Eastern models developed between 1575 and 1587."
+    ],
+    "fr": [
+     "Bernardo delle Girandole : le surnom lui vint de son habileté à organiser des feux d'artifice pour les fêtes de cour.",
+     "La glace : la tradition en fait l'inventeur de la glace moderne à la cour des Médicis, mais il s'agit d'un récit transmis, non d'un fait historiquement démontré.",
+     "La Tribuna : son plan octogonal s'inspire de la description vitruvienne de la Tour des Vents d'Athènes ; c'était un cabinet de curiosités où l'on conservait bijoux, œuvres d'art et curiosités naturelles.",
+     "La porcelaine des Médicis : au Casino di San Marco, qu'il conçut, François Ier fit expérimenter entre 1575 et 1587 une porcelaine à pâte tendre inspirée des modèles orientaux."
+    ],
+    "de": [
+     "Bernardo delle Girandole: Den Beinamen verdankte er seinem Geschick, Feuerwerke für die Hoffeste zu organisieren.",
+     "Das Speiseeis: Die Überlieferung nennt ihn als Erfinder des modernen Speiseeises am Hof der Medici, doch das ist eine überlieferte Erzählung, keine historisch belegte Tatsache.",
+     "Die Tribuna: Ihr achteckiger Grundriss beruht auf Vitruvs Beschreibung des Turms der Winde in Athen; sie war eine Wunderkammer, in der Juwelen, Kunstwerke und Naturkuriositäten aufbewahrt wurden.",
+     "Das Medici-Porzellan: Im von ihm entworfenen Casino di San Marco ließ Francesco I. zwischen 1575 und 1587 ein von orientalischen Vorbildern inspiriertes Weichporzellan erproben."
+    ],
+    "es": [
+     "Bernardo delle Girandole: el apodo le vino de su habilidad para organizar fuegos artificiales en las fiestas de corte.",
+     "El helado: la tradición lo señala como inventor del helado moderno en la corte de los Médici, pero es un relato transmitido, no un hecho históricamente demostrado.",
+     "La Tribuna: su planta octogonal se inspira en la descripción vitruviana de la Torre de los Vientos de Atenas; era una cámara de las maravillas donde se guardaban joyas, obras de arte y curiosidades naturales.",
+     "La porcelana medicea: en el Casino di San Marco, proyectado por él, Francisco I hizo experimentar entre 1575 y 1587 una porcelana de pasta tierna inspirada en modelos orientales."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Lo accolse alla sua corte da giovane e fu il suo primo protettore. Per le esequie di Cosimo, Buontalenti ideò un grande apparato funebre.",
+      "en": "He took him into his court when he was young and was his first protector. For Cosimo's funeral, Buontalenti devised a grand funerary apparatus.",
+      "fr": "Il l'accueillit à sa cour dans sa jeunesse et fut son premier protecteur. Pour les obsèques de Cosme, Buontalenti conçut un grand apparat funèbre.",
+      "de": "Er nahm ihn in jungen Jahren an seinen Hof auf und war sein erster Förderer. Für Cosimos Trauerfeier entwarf Buontalenti eine große Trauerdekoration.",
+      "es": "Lo acogió en su corte siendo joven y fue su primer protector. Para las exequias de Cosme, Buontalenti ideó un gran aparato funerario."
+     }
+    },
+    {
+     "id": "francesco-i-de-medici",
+     "testo": {
+      "it": "Fu il suo committente più importante: per lui progettò il Casino di San Marco e la Tribuna degli Uffizi, e lavorò agli ambienti e agli apparati della corte.",
+      "en": "He was his most important patron: for him he designed the Casino di San Marco and the Tribuna of the Uffizi, and worked on the court's rooms and festival apparatus.",
+      "fr": "Il fut son commanditaire le plus important : pour lui, il conçut le Casino di San Marco et la Tribuna des Offices, et travailla aux salles et aux dispositifs de la cour.",
+      "de": "Er war sein wichtigster Auftraggeber: Für ihn entwarf er das Casino di San Marco und die Tribuna der Uffizien und arbeitete an den Räumen und Festaufbauten des Hofes.",
+      "es": "Fue su comitente más importante: para él proyectó el Casino di San Marco y la Tribuna de los Uffizi, y trabajó en los ambientes y aparatos de la corte."
+     }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Fu suo maestro di pittura e, dopo la morte di Vasari nel 1574, gli succedette come architetto di corte, portando avanti i grandi cantieri medicei, tra cui gli Uffizi.",
+      "en": "Vasari was his painting master, and after Vasari's death in 1574 Buontalenti succeeded him as court architect, carrying on the great Medici building sites, the Uffizi among them.",
+      "fr": "Vasari fut son maître en peinture et, après la mort de celui-ci en 1574, Buontalenti lui succéda comme architecte de la cour, poursuivant les grands chantiers médicéens, dont les Offices.",
+      "de": "Vasari war sein Lehrmeister in der Malerei, und nach dessen Tod 1574 folgte Buontalenti ihm als Hofarchitekt nach und führte die großen Medici-Baustellen weiter, darunter die Uffizien.",
+      "es": "Vasari fue su maestro de pintura y, tras la muerte de este en 1574, Buontalenti le sucedió como arquitecto de corte, llevando adelante las grandes obras medíceas, entre ellas los Uffizi."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Pietro Antonio Pazzi, ritratto di Bernardo Buontalenti",
+    "licenza": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "francesco-i-de-medici",
+   "nome": "Francesco I de' Medici",
+   "nascita": 1541,
+   "morte": 1587,
+   "professione": {
+    "it": "Secondo granduca di Toscana",
+    "en": "Second Grand Duke of Tuscany",
+    "fr": "Deuxième grand-duc de Toscane",
+    "de": "Zweiter Großherzog der Toskana",
+    "es": "Segundo gran duque de Toscana"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "25 marzo 1541",
+    "en": "25 March 1541",
+    "fr": "25 mars 1541",
+    "de": "25. März 1541",
+    "es": "25 de marzo de 1541"
+   },
+   "luogoMorte": {
+    "it": "Poggio a Caiano",
+    "en": "Poggio a Caiano",
+    "fr": "Poggio a Caiano",
+    "de": "Poggio a Caiano",
+    "es": "Poggio a Caiano"
+   },
+   "dataMorte": {
+    "it": "19 ottobre 1587",
+    "en": "19 October 1587",
+    "fr": "19 octobre 1587",
+    "de": "19. Oktober 1587",
+    "es": "19 de octubre de 1587"
+   },
+   "biografia": {
+    "it": "Francesco I de' Medici fu il secondo granduca di Toscana e il successore di Cosimo I. Governò dal 1574 al 1587, dedicando particolare attenzione alla cultura, alle arti, alla scienza e alla raccolta di oggetti preziosi.\n\nA differenza del padre mostrò un interesse meno marcato per la politica e l'amministrazione quotidiana dello Stato; fu invece attratto da esperimenti scientifici, mineralogia, chimica, natura e arti decorative.\n\nIl suo nome è legato allo Studiolo di Palazzo Vecchio, ambiente privato per oggetti preziosi e curiosità naturali, e alla Tribuna degli Uffizi, che Buontalenti progettò per custodire le collezioni più importanti della famiglia. Sotto di lui le collezioni medicee si rafforzarono come strumento di prestigio culturale e politico.",
+    "en": "Francesco I de' Medici was the second Grand Duke of Tuscany and the successor of Cosimo I. He ruled from 1574 to 1587, devoting particular attention to culture, the arts, science and the collecting of precious objects.\n\nUnlike his father, he showed less interest in politics and the daily running of the state; he was drawn instead to scientific experiments, mineralogy, chemistry, nature and the decorative arts.\n\nHis name is tied to the Studiolo of Palazzo Vecchio, a private room for precious objects and natural curiosities, and to the Tribuna of the Uffizi, which Buontalenti designed to house the family's most important collections. Under him the Medici collections grew as an instrument of cultural and political prestige.",
+    "fr": "François Ier de Médicis fut le deuxième grand-duc de Toscane et le successeur de Cosme Ier. Il gouverna de 1574 à 1587, portant une attention particulière à la culture, aux arts, à la science et à la collecte d'objets précieux.\n\nÀ la différence de son père, il montra un intérêt moins marqué pour la politique et l'administration quotidienne de l'État ; il fut attiré par les expériences scientifiques, la minéralogie, la chimie, la nature et les arts décoratifs.\n\nSon nom est lié au Studiolo du Palazzo Vecchio, pièce privée destinée aux objets précieux et aux curiosités naturelles, et à la Tribuna des Offices, que Buontalenti conçut pour abriter les plus importantes collections de la famille. Sous son règne, les collections médicéennes se renforcèrent comme instrument de prestige culturel et politique.",
+    "de": "Francesco I. de' Medici war der zweite Großherzog der Toskana und Nachfolger Cosimos I. Er regierte von 1574 bis 1587 und widmete sich besonders der Kultur, den Künsten, der Wissenschaft und dem Sammeln kostbarer Objekte.\n\nAnders als sein Vater zeigte er weniger Interesse an Politik und der täglichen Verwaltung des Staates; ihn zogen stattdessen wissenschaftliche Experimente, Mineralogie, Chemie, Natur und Kunsthandwerk an.\n\nSein Name ist mit dem Studiolo im Palazzo Vecchio verbunden, einem privaten Raum für kostbare Objekte und Naturkuriositäten, sowie mit der Tribuna der Uffizien, die Buontalenti entwarf, um die wichtigsten Sammlungen der Familie aufzubewahren. Unter ihm festigten sich die Medici-Sammlungen als Instrument kulturellen und politischen Ansehens.",
+    "es": "Francisco I de Médici fue el segundo gran duque de Toscana y sucesor de Cosme I. Gobernó de 1574 a 1587, dedicando especial atención a la cultura, las artes, la ciencia y la colección de objetos preciosos.\n\nA diferencia de su padre, mostró menos interés por la política y la administración cotidiana del Estado; lo atrajeron, en cambio, los experimentos científicos, la mineralogía, la química, la naturaleza y las artes decorativas.\n\nSu nombre está ligado al Studiolo del Palazzo Vecchio, un ambiente privado para objetos preciosos y curiosidades naturales, y a la Tribuna de los Uffizi, que Buontalenti proyectó para custodiar las colecciones más importantes de la familia. Bajo su gobierno, las colecciones medíceas se afianzaron como instrumento de prestigio cultural y político."
+   },
+   "curiosita": {
+    "it": [
+     "Alchimia e porcellana: aveva un interesse personale per gli esperimenti chimici e per la lavorazione dei materiali; al Casino di San Marco promosse, tra il 1575 e il 1587, la produzione della cosiddetta porcellana medicea.",
+     "Lo Studiolo: fu decorato da numerosi artisti secondo un programma complesso dedicato alla natura e alla conoscenza; nel 1586 Francesco iniziò a smontarlo, trasferendo le statue di bronzo nella Tribuna degli Uffizi.",
+     "Le due mogli: nel 1565 sposò Giovanna d'Austria, morta nel 1578. Poco dopo sposò in segreto Bianca Cappello, nobildonna veneziana con cui aveva una relazione da anni; le nozze furono rese pubbliche nel 1579.",
+     "La leggenda del veleno: Francesco morì a Poggio a Caiano il 19 ottobre 1587 e Bianca il giorno dopo. La tradizione parlò di avvelenamento; le analisi più recenti, tra cui uno studio delle università di Pisa e Yale, indicano invece la malaria."
+    ],
+    "en": [
+     "Alchemy and porcelain: he had a personal interest in chemical experiments and in working materials; at the Casino di San Marco he promoted, between 1575 and 1587, the production of the so-called Medici porcelain.",
+     "The Studiolo: it was decorated by many artists following a complex programme devoted to nature and knowledge; in 1586 Francesco began dismantling it, moving the bronze statues to the Tribuna of the Uffizi.",
+     "The two wives: in 1565 he married Joanna of Austria, who died in 1578. Soon after he secretly married Bianca Cappello, a Venetian noblewoman with whom he had had a relationship for years; the marriage was made public in 1579.",
+     "The poison legend: Francesco died at Poggio a Caiano on 19 October 1587 and Bianca the next day. Tradition spoke of poisoning; the most recent analyses, including a study by the universities of Pisa and Yale, point instead to malaria."
+    ],
+    "fr": [
+     "Alchimie et porcelaine : il avait un intérêt personnel pour les expériences chimiques et le travail des matériaux ; au Casino di San Marco, il promut entre 1575 et 1587 la production de la porcelaine dite des Médicis.",
+     "Le Studiolo : il fut décoré par de nombreux artistes selon un programme complexe consacré à la nature et à la connaissance ; en 1586, François commença à le démonter, transférant les statues de bronze dans la Tribuna des Offices.",
+     "Les deux épouses : en 1565, il épousa Jeanne d'Autriche, morte en 1578. Peu après, il épousa en secret Bianca Cappello, noble vénitienne avec qui il avait une liaison depuis des années ; le mariage fut rendu public en 1579.",
+     "La légende du poison : François mourut à Poggio a Caiano le 19 octobre 1587 et Bianca le lendemain. La tradition parla d'empoisonnement ; les analyses les plus récentes, dont une étude des universités de Pise et de Yale, indiquent plutôt le paludisme."
+    ],
+    "de": [
+     "Alchemie und Porzellan: Er hatte ein persönliches Interesse an chemischen Experimenten und an der Verarbeitung von Materialien; im Casino di San Marco förderte er zwischen 1575 und 1587 die Herstellung des sogenannten Medici-Porzellans.",
+     "Das Studiolo: Es wurde von zahlreichen Künstlern nach einem komplexen, der Natur und dem Wissen gewidmeten Programm ausgestattet; 1586 begann Francesco, es abzubauen, und brachte die Bronzestatuen in die Tribuna der Uffizien.",
+     "Die zwei Ehefrauen: 1565 heiratete er Johanna von Österreich, die 1578 starb. Kurz darauf heiratete er heimlich Bianca Cappello, eine venezianische Adlige, mit der er seit Jahren ein Verhältnis hatte; die Ehe wurde 1579 öffentlich gemacht.",
+     "Die Giftlegende: Francesco starb am 19. Oktober 1587 in Poggio a Caiano und Bianca am folgenden Tag. Die Überlieferung sprach von einer Vergiftung; die jüngsten Analysen, darunter eine Studie der Universitäten Pisa und Yale, deuten dagegen auf Malaria hin."
+    ],
+    "es": [
+     "Alquimia y porcelana: tenía un interés personal por los experimentos químicos y por el trabajo de los materiales; en el Casino di San Marco impulsó, entre 1575 y 1587, la producción de la llamada porcelana medicea.",
+     "El Studiolo: fue decorado por numerosos artistas según un programa complejo dedicado a la naturaleza y al conocimiento; en 1586 Francisco empezó a desmontarlo, trasladando las estatuas de bronce a la Tribuna de los Uffizi.",
+     "Las dos esposas: en 1565 se casó con Juana de Austria, fallecida en 1578. Poco después se casó en secreto con Bianca Cappello, noble veneciana con la que mantenía una relación desde hacía años; el matrimonio se hizo público en 1579.",
+     "La leyenda del veneno: Francisco murió en Poggio a Caiano el 19 de octubre de 1587 y Bianca al día siguiente. La tradición habló de envenenamiento; los análisis más recientes, entre ellos un estudio de las universidades de Pisa y Yale, apuntan en cambio a la malaria."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "Lo Studiolo",
+      "en": "The Studiolo",
+      "fr": "Le Studiolo",
+      "de": "Das Studiolo",
+      "es": "El Studiolo"
+     },
+     "testo": {
+      "it": "All'interno del palazzo si trova lo Studiolo, stanza privata decorata sotto la direzione di Vasari (1570-1572) su programma di Vincenzo Borghini, destinata alle collezioni del principe.",
+      "en": "Inside the palace is the Studiolo, a private room decorated under Vasari's direction (1570-1572) to a programme by Vincenzo Borghini, meant for the prince's collections.",
+      "fr": "À l'intérieur du palais se trouve le Studiolo, pièce privée décorée sous la direction de Vasari (1570-1572) selon un programme de Vincenzo Borghini, destinée aux collections du prince.",
+      "de": "Im Inneren des Palastes befindet sich das Studiolo, ein privater Raum, der unter Vasaris Leitung (1570-1572) nach einem Programm von Vincenzo Borghini ausgestattet wurde und für die Sammlungen des Fürsten bestimmt war.",
+      "es": "En el interior del palacio se encuentra el Studiolo, sala privada decorada bajo la dirección de Vasari (1570-1572) según un programa de Vincenzo Borghini, destinada a las colecciones del príncipe."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Era suo padre e predecessore. Francesco ereditò uno Stato territorialmente consolidato, ma sviluppò una politica culturale e collezionistica diversa da quella paterna.",
+      "en": "He was his father and predecessor. Francesco inherited a territorially consolidated state, but developed a cultural and collecting policy different from his father's.",
+      "fr": "Il était son père et son prédécesseur. François hérita d'un État territorialement consolidé, mais développa une politique culturelle et de collection différente de celle de son père.",
+      "de": "Er war sein Vater und Vorgänger. Francesco erbte einen territorial gefestigten Staat, entwickelte aber eine Kultur- und Sammlungspolitik, die sich von der seines Vaters unterschied.",
+      "es": "Era su padre y predecesor. Francisco heredó un Estado territorialmente consolidado, pero desarrolló una política cultural y coleccionista distinta de la paterna."
+     }
+    },
+    {
+     "id": "bernardo-buontalenti",
+     "testo": {
+      "it": "Fu uno dei suoi più importanti collaboratori: progettò per lui la Tribuna degli Uffizi e il Casino di San Marco, dove Francesco promosse le sue sperimentazioni.",
+      "en": "He was one of his most important collaborators: he designed for him the Tribuna of the Uffizi and the Casino di San Marco, where Francesco pursued his experiments.",
+      "fr": "Il fut l'un de ses plus importants collaborateurs : il conçut pour lui la Tribuna des Offices et le Casino di San Marco, où François mena ses expériences.",
+      "de": "Er war einer seiner wichtigsten Mitarbeiter: Er entwarf für ihn die Tribuna der Uffizien und das Casino di San Marco, wo Francesco seine Experimente betrieb.",
+      "es": "Fue uno de sus colaboradores más importantes: proyectó para él la Tribuna de los Uffizi y el Casino di San Marco, donde Francisco promovió sus experimentos."
+     }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Diresse la decorazione dello Studiolo, realizzato con numerosi altri artisti. Il progetto testimonia il dialogo tra arte, scienza e collezionismo alla corte granducale.",
+      "en": "He directed the decoration of the Studiolo, carried out with many other artists. The project reflects the dialogue between art, science and collecting at the grand-ducal court.",
+      "fr": "Il dirigea la décoration du Studiolo, réalisée avec de nombreux autres artistes. Le projet témoigne du dialogue entre art, science et collection à la cour grand-ducale.",
+      "de": "Er leitete die Ausstattung des Studiolo, die gemeinsam mit zahlreichen anderen Künstlern entstand. Das Projekt zeugt vom Dialog zwischen Kunst, Wissenschaft und Sammeln am großherzoglichen Hof.",
+      "es": "Dirigió la decoración del Studiolo, realizada con numerosos artistas más. El proyecto refleja el diálogo entre arte, ciencia y coleccionismo en la corte granducal."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Ritratto di Francesco I de' Medici (autore non indicato); fotografia di Francesco Bini (Sailko)",
+    "licenza": "CC BY-SA 4.0"
    }
   }
  ]

@@ -1,5 +1,5 @@
 {
- "versione": "02f974fc8dc5",
+ "versione": "0e33ff5460e7",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3122,6 +3122,12 @@
    "byte": 37990
   },
   {
+   "path": "assets/personaggi/bernardo-buontalenti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/bernardo-buontalenti.webp",
+   "sha256": "448cb36aa2eec829e3a195c26a9ef87375169ec4ce911608db25ab562fc9c707",
+   "byte": 252610
+  },
+  {
    "path": "assets/personaggi/cimabue.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/cimabue.webp",
    "sha256": "ab40c60af7a72e22e6a898efc100157f5229b8b23763d21be1c35f2d02705804",
@@ -3174,6 +3180,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/flavio-stilicone.webp",
    "sha256": "eb072863ddad074763e623e4a79b04963d9e57d42c087ac9da5182a8dcf4b42b",
    "byte": 26970
+  },
+  {
+   "path": "assets/personaggi/francesco-i-de-medici.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/francesco-i-de-medici.webp",
+   "sha256": "6c3780bf520ee875a03e9685dfe406828442b3b3f6500986a7248655c74e39b7",
+   "byte": 94924
   },
   {
    "path": "assets/personaggi/giano-della-bella.webp",
@@ -3358,8 +3370,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "3525dce0b78651f0a8dfd3f5ab4121a76d85cf2ff67ff219586d8f82620e9233",
-   "byte": 504788
+   "sha256": "5fa8317759858746106de6c88215dde88b8e2517f7ad6a6e92507c12c983ed9b",
+   "byte": 535887
   },
   {
    "path": "dati/principali.json",
@@ -3382,8 +3394,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "3ef5c7048001aa75c321c147f6450ed95734c38aca920d7b3041dda6a03878a2",
-   "byte": 26987
+   "sha256": "2362fe72e42aacfb1b5ac7f6eea9fa36ee1f3dbfb95a5bd430388742ad604d32",
+   "byte": 27044
   },
   {
    "path": "dati/tessere.json",
@@ -3399,12 +3411,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "21fa9ef5a949",
-   "da": "eba0d239ae19",
-   "data": "2026-11-23",
-   "byte": 22818
-  },
   {
    "versione": "8011472196fb",
    "da": "21fa9ef5a949",
@@ -3518,6 +3524,12 @@
    "da": "84d7c6816ddc",
    "data": "2026-11-23",
    "byte": 608927
+  },
+  {
+   "versione": "0e33ff5460e7",
+   "da": "02f974fc8dc5",
+   "data": "2026-11-23",
+   "byte": 910465
   }
  ]
 }
