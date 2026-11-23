@@ -5127,7 +5127,18 @@
      }
     }
    },
-   "collegati": [],
+   "collegati": [
+    {
+     "id": "pietro-leopoldo-di-lorena",
+     "testo": {
+      "it": "I suoi strumenti furono accolti nel Museo di Fisica e Storia Naturale fondato da Pietro Leopoldo nel 1775.",
+      "en": "His instruments were received by the Museum of Physics and Natural History founded by Peter Leopold in 1775.",
+      "fr": "Ses instruments furent accueillis par le Musée de physique et d'histoire naturelle fondé par Pierre-Léopold en 1775.",
+      "de": "Seine Instrumente wurden von dem 1775 von Peter Leopold gegründeten Museum für Physik und Naturgeschichte aufgenommen.",
+      "es": "Sus instrumentos fueron acogidos por el Museo de Física e Historia Natural fundado por Pedro Leopoldo en 1775."
+     }
+    }
+   ],
    "ritratto": {
     "autore": "Justus Sustermans, ritratto di Galileo Galilei",
     "licenza": "Pubblico dominio"
@@ -5233,9 +5244,147 @@
      }
     }
    },
-   "collegati": [],
+   "collegati": [
+    {
+     "id": "pietro-leopoldo-di-lorena",
+     "testo": {
+      "it": "Il Patto del 1737 fu firmato con Francesco Stefano di Lorena, padre di Pietro Leopoldo, che nel 1775 fondò il museo in cui confluirono raccolte scientifiche medicee.",
+      "en": "The 1737 Pact was signed with Francis Stephen of Lorraine, father of Peter Leopold, who in 1775 founded the museum that received Medici scientific collections.",
+      "fr": "Le Pacte de 1737 fut signé avec François-Étienne de Lorraine, père de Pierre-Léopold, qui fonda en 1775 le musée où affluèrent des collections scientifiques médicéennes.",
+      "de": "Der Pakt von 1737 wurde mit Franz Stephan von Lothringen unterzeichnet, dem Vater Peter Leopolds, der 1775 das Museum gründete, in das wissenschaftliche Medici-Sammlungen gelangten.",
+      "es": "El Pacto de 1737 se firmó con Francisco Esteban de Lorena, padre de Pedro Leopoldo, que en 1775 fundó el museo al que llegaron colecciones científicas medíceas."
+     }
+    }
+   ],
    "ritratto": {
     "autore": "Antonio Franchi, ritratto di Anna Maria Luisa de' Medici",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "pietro-leopoldo-di-lorena",
+   "nome": "Pietro Leopoldo di Lorena",
+   "nascita": 1747,
+   "morte": 1792,
+   "professione": {
+    "it": "Granduca di Toscana (1765–1790), poi imperatore",
+    "en": "Grand Duke of Tuscany (1765–1790), later emperor",
+    "fr": "Grand-duc de Toscane (1765–1790), puis empereur",
+    "de": "Großherzog der Toskana (1765–1790), später Kaiser",
+    "es": "Gran duque de Toscana (1765–1790), después emperador"
+   },
+   "luogoNascita": {
+    "it": "Vienna",
+    "en": "Vienna",
+    "fr": "Vienne",
+    "de": "Wien",
+    "es": "Viena"
+   },
+   "dataNascita": {
+    "it": "5 maggio 1747",
+    "en": "5 May 1747",
+    "fr": "5 mai 1747",
+    "de": "5. Mai 1747",
+    "es": "5 de mayo de 1747"
+   },
+   "luogoMorte": {
+    "it": "Vienna",
+    "en": "Vienna",
+    "fr": "Vienne",
+    "de": "Wien",
+    "es": "Viena"
+   },
+   "dataMorte": {
+    "it": "1 marzo 1792",
+    "en": "1 March 1792",
+    "fr": "1er mars 1792",
+    "de": "1. März 1792",
+    "es": "1 de marzo de 1792"
+   },
+   "biografia": {
+    "it": "Pietro Leopoldo di Lorena fu granduca di Toscana dal 1765 al 1790. Nato a Vienna, era figlio dell'imperatore Francesco Stefano e di Maria Teresa d'Austria, e fratello di Giuseppe II.\n\nSalì al trono nel 1765, a diciotto anni, alla morte del padre Francesco Stefano. A differenza di lui, si stabilì a Firenze e governò con una politica di riforme di ispirazione illuminista, che toccò l'amministrazione, le finanze e il commercio dei grani.\n\nIl 30 novembre 1786 promulgò la riforma del codice penale nota come Leopoldina, che aboliva la tortura e la pena di morte: la Toscana fu tra i primi Stati a farlo. Le esecuzioni erano di fatto sospese già dal 1769.\n\nNel 1775 fondò a Firenze il Museo di Fisica e Storia Naturale, aperto al pubblico, dove confluirono le collezioni scientifiche dei Medici. Nel 1790, alla morte di Giuseppe II, divenne imperatore con il nome di Leopoldo II e lasciò la Toscana al figlio Ferdinando III. Morì a Vienna nel 1792.",
+    "en": "Peter Leopold of Lorraine was Grand Duke of Tuscany from 1765 to 1790. Born in Vienna, he was the son of Emperor Francis Stephen and Maria Theresa of Austria, and the brother of Joseph II.\n\nHe came to the throne in 1765, at the age of eighteen, on the death of his father Francis Stephen. Unlike him, he settled in Florence and ruled with a policy of Enlightenment-inspired reforms that touched administration, finances and the grain trade.\n\nOn 30 November 1786 he promulgated the reform of the penal code known as the Leopoldina, which abolished torture and the death penalty: Tuscany was among the first states to do so. Executions had in practice been suspended since 1769.\n\nIn 1775 he founded the Museum of Physics and Natural History in Florence, open to the public, which received the scientific collections of the Medici. In 1790, on the death of Joseph II, he became emperor as Leopold II and left Tuscany to his son Ferdinand III. He died in Vienna in 1792.",
+    "fr": "Pierre-Léopold de Lorraine fut grand-duc de Toscane de 1765 à 1790. Né à Vienne, il était le fils de l'empereur François-Étienne et de Marie-Thérèse d'Autriche, et le frère de Joseph II.\n\nIl monta sur le trône en 1765, à dix-huit ans, à la mort de son père François-Étienne. Contrairement à lui, il s'installa à Florence et gouverna avec une politique de réformes d'inspiration éclairée, qui toucha l'administration, les finances et le commerce des grains.\n\nLe 30 novembre 1786, il promulgua la réforme du code pénal connue sous le nom de Leopoldina, qui abolissait la torture et la peine de mort : la Toscane fut parmi les premiers États à le faire. Les exécutions étaient de fait suspendues dès 1769.\n\nEn 1775, il fonda à Florence le Musée de physique et d'histoire naturelle, ouvert au public, qui reçut les collections scientifiques des Médicis. En 1790, à la mort de Joseph II, il devint empereur sous le nom de Léopold II et laissa la Toscane à son fils Ferdinand III. Il mourut à Vienne en 1792.",
+    "de": "Peter Leopold von Lothringen war von 1765 bis 1790 Großherzog der Toskana. In Wien geboren, war er der Sohn von Kaiser Franz Stephan und Maria Theresia von Österreich sowie der Bruder Josephs II.\n\nEr bestieg 1765 mit achtzehn Jahren nach dem Tod seines Vaters Franz Stephan den Thron. Anders als dieser ließ er sich in Florenz nieder und regierte mit einer von der Aufklärung inspirierten Reformpolitik, die Verwaltung, Finanzen und Getreidehandel betraf.\n\nAm 30. November 1786 erließ er die als Leopoldina bekannte Reform des Strafgesetzbuchs, die Folter und Todesstrafe abschaffte: Die Toskana gehörte zu den ersten Staaten, die das taten. Hinrichtungen waren de facto schon seit 1769 ausgesetzt.\n\n1775 gründete er in Florenz das der Öffentlichkeit zugängliche Museum für Physik und Naturgeschichte, in das die wissenschaftlichen Sammlungen der Medici gelangten. 1790 wurde er nach dem Tod Josephs II. als Leopold II. Kaiser und überließ die Toskana seinem Sohn Ferdinand III. Er starb 1792 in Wien.",
+    "es": "Pedro Leopoldo de Lorena fue gran duque de Toscana de 1765 a 1790. Nacido en Viena, era hijo del emperador Francisco Esteban y de María Teresa de Austria, y hermano de José II.\n\nSubió al trono en 1765, a los dieciocho años, a la muerte de su padre Francisco Esteban. A diferencia de él, se estableció en Florencia y gobernó con una política de reformas de inspiración ilustrada, que afectó a la administración, las finanzas y el comercio de granos.\n\nEl 30 de noviembre de 1786 promulgó la reforma del código penal conocida como Leopoldina, que abolía la tortura y la pena de muerte: Toscana fue uno de los primeros Estados en hacerlo. Las ejecuciones estaban de hecho suspendidas desde 1769.\n\nEn 1775 fundó en Florencia el Museo de Física e Historia Natural, abierto al público, al que llegaron las colecciones científicas de los Médici. En 1790, a la muerte de José II, se convirtió en emperador con el nombre de Leopoldo II y dejó Toscana a su hijo Fernando III. Murió en Viena en 1792."
+   },
+   "curiosita": {
+    "it": [
+     "La Leopoldina: il codice penale del 1786 fu uno dei più discussi in Europa per aver abolito pena di morte e tortura.",
+     "Il museo aperto a tutti: il Museo di Fisica e Storia Naturale, fondato nel 1775, accolse anche gli strumenti scientifici di Galileo.",
+     "La buca dei memoriali: a Palazzo Pitti fece costruire un'apertura in cui i sudditi potevano depositare memoriali destinati direttamente al granduca.",
+     "Due Leopoldo II: da imperatore si chiamò Leopoldo II; lo stesso nome portò più tardi suo nipote, ultimo granduca regnante di Toscana, ma è un'altra persona."
+    ],
+    "en": [
+     "The Leopoldina: the 1786 penal code was one of the most discussed in Europe for abolishing the death penalty and torture.",
+     "The museum open to all: the Museum of Physics and Natural History, founded in 1775, also received Galileo's scientific instruments.",
+     "The memorial slot: at Palazzo Pitti he had an opening built where subjects could deposit petitions meant directly for the grand duke.",
+     "Two Leopold IIs: as emperor he was Leopold II; his grandson, the last reigning Grand Duke of Tuscany, later bore the same name, but he is a different person."
+    ],
+    "fr": [
+     "La Leopoldina : le code pénal de 1786 fut l'un des plus discutés d'Europe pour avoir aboli la peine de mort et la torture.",
+     "Le musée ouvert à tous : le Musée de physique et d'histoire naturelle, fondé en 1775, reçut aussi les instruments scientifiques de Galilée.",
+     "La boîte aux mémoriaux : au Palazzo Pitti, il fit construire une ouverture où les sujets pouvaient déposer des suppliques destinées directement au grand-duc.",
+     "Deux Léopold II : en tant qu'empereur, il s'appela Léopold II ; son petit-fils, dernier grand-duc régnant de Toscane, porta plus tard le même nom, mais c'est une autre personne."
+    ],
+    "de": [
+     "Die Leopoldina: Das Strafgesetzbuch von 1786 gehörte zu den meistdiskutierten Europas, weil es Todesstrafe und Folter abschaffte.",
+     "Das Museum für alle: Das 1775 gegründete Museum für Physik und Naturgeschichte nahm auch die wissenschaftlichen Instrumente Galileis auf.",
+     "Der Memorialschlitz: Im Palazzo Pitti ließ er eine Öffnung einbauen, in die Untertanen Bittschriften einwerfen konnten, die unmittelbar für den Großherzog bestimmt waren.",
+     "Zwei Leopold II.: Als Kaiser hieß er Leopold II.; denselben Namen trug später sein Enkel, der letzte regierende Großherzog der Toskana, doch es ist eine andere Person."
+    ],
+    "es": [
+     "La Leopoldina: el código penal de 1786 fue uno de los más comentados de Europa por haber abolido la pena de muerte y la tortura.",
+     "El museo abierto a todos: el Museo de Física e Historia Natural, fundado en 1775, acogió también los instrumentos científicos de Galileo.",
+     "El buzón de memoriales: en el Palazzo Pitti hizo construir una abertura donde los súbditos podían depositar memoriales dirigidos directamente al gran duque.",
+     "Dos Leopoldo II: como emperador se llamó Leopoldo II; el mismo nombre llevó después su nieto, último gran duque reinante de Toscana, pero es otra persona."
+    ]
+   },
+   "luoghi": [
+    "palazzo-pitti"
+   ],
+   "luoghiNote": {
+    "palazzo-pitti": {
+     "tipo": {
+      "it": "La residenza granducale",
+      "en": "The grand-ducal residence",
+      "fr": "La résidence grand-ducale",
+      "de": "Die großherzogliche Residenz",
+      "es": "La residencia granducal"
+     },
+     "testo": {
+      "it": "Palazzo Pitti fu la residenza dei granduchi lorenesi. Qui Pietro Leopoldo fece costruire la «buca dei memoriali», dove i sudditi potevano lasciare le loro richieste destinate al sovrano.",
+      "en": "Palazzo Pitti was the residence of the Lorraine grand dukes. Here Peter Leopold had the “memorial slot” built, where subjects could leave their petitions for the sovereign.",
+      "fr": "Le Palazzo Pitti fut la résidence des grands-ducs lorrains. C'est ici que Pierre-Léopold fit construire la « boîte aux mémoriaux », où les sujets pouvaient laisser leurs requêtes destinées au souverain.",
+      "de": "Der Palazzo Pitti war die Residenz der lothringischen Großherzöge. Hier ließ Peter Leopold den „Memorialschlitz“ einbauen, in den Untertanen ihre an den Herrscher gerichteten Anliegen einwerfen konnten.",
+      "es": "El Palazzo Pitti fue la residencia de los grandes duques de Lorena. Aquí Pedro Leopoldo hizo construir el «buzón de memoriales», donde los súbditos podían dejar sus peticiones dirigidas al soberano."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "anna-maria-luisa-de-medici",
+     "testo": {
+      "it": "Con il Patto di famiglia del 1737 la collezione medicea restò a Firenze; il museo fondato da Pietro Leopoldo nel 1775 accolse parte delle raccolte scientifiche medicee.",
+      "en": "With the Family Pact of 1737 the Medici collection stayed in Florence; the museum founded by Peter Leopold in 1775 received part of the Medici scientific collections.",
+      "fr": "Avec le Pacte de famille de 1737, la collection médicéenne resta à Florence ; le musée fondé par Pierre-Léopold en 1775 reçut une partie des collections scientifiques médicéennes.",
+      "de": "Durch den Familienpakt von 1737 blieb die Medici-Sammlung in Florenz; das von Peter Leopold 1775 gegründete Museum nahm einen Teil der wissenschaftlichen Sammlungen der Medici auf.",
+      "es": "Con el Pacto de familia de 1737 la colección medicea quedó en Florencia; el museo fundado por Pedro Leopoldo en 1775 recibió parte de las colecciones científicas medíceas."
+     }
+    },
+    {
+     "id": "galileo-galilei",
+     "testo": {
+      "it": "Gli strumenti di Galileo furono tra i materiali scientifici medicei accolti nel Museo di Fisica e Storia Naturale fondato da Pietro Leopoldo.",
+      "en": "Galileo's instruments were among the Medici scientific materials received by the Museum of Physics and Natural History founded by Peter Leopold.",
+      "fr": "Les instruments de Galilée figurèrent parmi les matériaux scientifiques médicéens accueillis par le Musée de physique et d'histoire naturelle fondé par Pierre-Léopold.",
+      "de": "Galileis Instrumente gehörten zu den wissenschaftlichen Medici-Beständen, die das von Peter Leopold gegründete Museum für Physik und Naturgeschichte aufnahm.",
+      "es": "Los instrumentos de Galileo estuvieron entre los materiales científicos medíceos acogidos por el Museo de Física e Historia Natural fundado por Pedro Leopoldo."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Anonimo, ritratto di Pietro Leopoldo di Lorena",
     "licenza": "Pubblico dominio"
    }
   }

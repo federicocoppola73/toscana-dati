@@ -1,5 +1,5 @@
 {
- "versione": "ba04c6d17e64",
+ "versione": "b8d3bebf57b8",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3284,6 +3284,12 @@
    "byte": 52970
   },
   {
+   "path": "assets/personaggi/pietro-leopoldo-di-lorena.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/pietro-leopoldo-di-lorena.webp",
+   "sha256": "79bf712c13adfa95aaf0c333175e5437c576826ccf53bc3e25613e0608a9c004",
+   "byte": 56140
+  },
+  {
    "path": "assets/personaggi/san-zanobi.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/san-zanobi.webp",
    "sha256": "d25c24e7a469f00f06a42e2ea0b35455b1057b3d18d4d4758276dc373ca7101b",
@@ -3382,8 +3388,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "c39c08f4be43c17626cc80e0f96132df1242b27fab3ed85c01340abab985fb18",
-   "byte": 558893
+   "sha256": "76fb51947e2da848364f4c3d05df94f26e01e830fe57530ec8cd33a4e58e4a5d",
+   "byte": 573493
   },
   {
    "path": "dati/principali.json",
@@ -3406,8 +3412,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "86ef1838788818a90ccbf068ec0671f0f10c7ccd245309309d2aaf23f4b2fc66",
-   "byte": 27101
+   "sha256": "88f75b891fd216748649d039f0e4144bf7574d7db81a6b3f2080b26e59b9f266",
+   "byte": 27134
   },
   {
    "path": "dati/tessere.json",
@@ -3423,12 +3429,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "6278dff69397",
-   "da": "8011472196fb",
-   "data": "2026-11-23",
-   "byte": 85619
-  },
   {
    "versione": "96cf6245336b",
    "da": "6278dff69397",
@@ -3542,6 +3542,12 @@
    "da": "0e33ff5460e7",
    "data": "2026-11-23",
    "byte": 755698
+  },
+  {
+   "versione": "b8d3bebf57b8",
+   "da": "ba04c6d17e64",
+   "data": "2026-11-23",
+   "byte": 656767
   }
  ]
 }
