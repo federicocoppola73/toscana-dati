@@ -184,6 +184,38 @@
    "approfondire": [
     "basilica-di-san-lorenzo"
    ]
+  },
+  {
+   "id": "06",
+   "titolo": {
+    "it": "Firenze capitale e città contemporanea",
+    "en": "Florence as capital and contemporary city",
+    "fr": "Florence capitale et ville contemporaine",
+    "de": "Florenz als Hauptstadt und moderne Stadt",
+    "es": "Florencia, capital y ciudad contemporánea"
+   },
+   "anni": {
+    "it": "XIX–XXI secolo",
+    "en": "19th–21st century",
+    "fr": "XIXe–XXIe siècle",
+    "de": "19.–21. Jahrhundert",
+    "es": "siglos XIX–XXI"
+   },
+   "testo": {
+    "it": "Con l'Unità d'Italia Firenze visse una delle trasformazioni più importanti della sua storia: dal 1865 al 1871 fu capitale del Regno. Il nuovo ruolo portò grandi interventi urbanistici e cambiò il volto della città. Dopo la perdita della funzione di capitale, Firenze continuò a crescere come centro culturale e turistico. Il Novecento fu segnato dalle guerre, dalla Resistenza e dalla tragica alluvione del 1966, seguita da una mobilitazione internazionale per salvare il patrimonio artistico.",
+    "en": "With the unification of Italy Florence went through one of the most important transformations in its history: from 1865 to 1871 it was the capital of the Kingdom. The new role brought major urban projects and changed the face of the city. After losing its role as capital, Florence continued to grow as a cultural and tourist centre. The twentieth century was marked by wars, by the Resistance and by the tragic flood of 1966, followed by an international mobilisation to save the artistic heritage.",
+    "fr": "Avec l'Unité italienne, Florence vécut l'une des transformations les plus importantes de son histoire : de 1865 à 1871, elle fut la capitale du Royaume. Ce nouveau rôle entraîna de grands travaux d'urbanisme et changea le visage de la ville. Après avoir perdu sa fonction de capitale, Florence continua de croître comme centre culturel et touristique. Le XXe siècle fut marqué par les guerres, par la Résistance et par la tragique inondation de 1966, suivie d'une mobilisation internationale pour sauver le patrimoine artistique.",
+    "de": "Mit der Einigung Italiens erlebte Florenz eine der wichtigsten Veränderungen seiner Geschichte: Von 1865 bis 1871 war es Hauptstadt des Königreichs. Die neue Rolle brachte große städtebauliche Eingriffe mit sich und veränderte das Gesicht der Stadt. Nach dem Verlust der Hauptstadtfunktion wuchs Florenz weiter als Kultur- und Touristenzentrum. Das 20. Jahrhundert war von Kriegen, vom Widerstand und von der tragischen Überschwemmung von 1966 geprägt, auf die eine internationale Mobilisierung zur Rettung des Kunsterbes folgte.",
+    "es": "Con la Unidad de Italia, Florencia vivió una de las transformaciones más importantes de su historia: de 1865 a 1871 fue capital del Reino. El nuevo papel trajo grandes intervenciones urbanísticas y cambió el rostro de la ciudad. Tras perder la función de capital, Florencia siguió creciendo como centro cultural y turístico. El siglo XX estuvo marcado por las guerras, por la Resistencia y por la trágica inundación de 1966, seguida de una movilización internacional para salvar el patrimonio artístico."
+   },
+   "audio": "storia-06",
+   "luoghi": [
+    "palazzo-vecchio",
+    "palazzo-pitti",
+    "ponte-vecchio",
+    "basilica-di-santa-croce"
+   ],
+   "approfondire": []
   }
  ]
 }
