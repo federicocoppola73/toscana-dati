@@ -1,5 +1,5 @@
 {
- "versione": "6d21ed75473b",
+ "versione": "3c24f4ec1624",
  "voce": "fr-FR-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -197,6 +197,21 @@
      "secondi": 345,
      "sha256": "805ecbaf7862eff6eee8cbfbbaabf1774974f2d2f9fb0058aa2ce8a6b6ce69d7",
      "testo": "e02f38be40501ba8"
+    }
+   ]
+  },
+  "storia-01": {
+   "byte": 1266092,
+   "secondi": 211,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-01.mp3",
+     "byte": 1266092,
+     "secondi": 211,
+     "sha256": "5020839359b3d3335c57acb7c016967e44a614daafa982434477681dec28b123",
+     "testo": "f70ae5e7e1fce03f"
     }
    ]
   }
