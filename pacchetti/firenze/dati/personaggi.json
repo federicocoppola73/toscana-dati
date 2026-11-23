@@ -739,6 +739,16 @@
       "de": "Er erwähnt ihn im Purgatorio (11. Gesang) als Beispiel für einen Künstler, der den Ruhm seines Meisters übertroffen hat.",
       "es": "Lo cita en el Purgatorio (canto XI) como ejemplo de artista que superó la fama de su maestro."
      }
+    },
+    {
+     "id": "giovanni-boccaccio",
+     "testo": {
+      "it": "Boccaccio lo ricorda nel Decameron (sesta giornata, novella V), presentandolo come artista di grande talento e intelligenza.",
+      "en": "Boccaccio recalls him in the Decameron (sixth day, story V), presenting him as an artist of great talent and intelligence.",
+      "fr": "Boccace le met en scène dans le Décaméron (sixième journée, nouvelle V), le présentant comme un artiste d'un grand talent et d'une grande intelligence.",
+      "de": "Boccaccio erwähnt ihn im Decameron (sechster Tag, Novelle V) und stellt ihn als Künstler von großem Talent und großer Klugheit dar.",
+      "es": "Boccaccio lo recuerda en el Decamerón (sexta jornada, novela V), presentándolo como un artista de gran talento e inteligencia."
+     }
     }
    ],
    "ritratto": {
@@ -1046,9 +1056,294 @@
      }
     }
    },
-   "collegati": [],
+   "collegati": [
+    {
+     "id": "giovanni-boccaccio",
+     "testo": {
+      "it": "Nacque otto anni prima della morte di Dante. Non ebbe occasione di conoscerlo, ma ne divenne uno dei più importanti estimatori, biografi e commentatori.",
+      "en": "He was born eight years before Dante's death. He never had the chance to meet him, but he became one of his most important admirers, biographers and commentators.",
+      "fr": "Il naquit huit ans avant la mort de Dante. Il n'eut pas l'occasion de le connaître, mais devint l'un de ses plus importants admirateurs, biographes et commentateurs.",
+      "de": "Er wurde acht Jahre vor Dantes Tod geboren. Er hatte keine Gelegenheit, ihn kennenzulernen, wurde aber zu einem seiner wichtigsten Bewunderer, Biografen und Kommentatoren.",
+      "es": "Nació ocho años antes de la muerte de Dante. No tuvo ocasión de conocerlo, pero se convirtió en uno de sus más importantes admiradores, biógrafos y comentaristas."
+     }
+    },
+    {
+     "id": "giano-della-bella",
+     "testo": {
+      "it": "Dante visse e partecipò alla vita politica di Firenze dopo le riforme del 1293, associate a Giano. Non è documentato un rapporto personale diretto tra i due.",
+      "en": "Dante lived and took part in Florentine politics after the reforms of 1293, associated with Giano. No direct personal relationship between the two is documented.",
+      "fr": "Dante vécut et participa à la vie politique de Florence après les réformes de 1293, associées à Giano. Aucun rapport personnel direct entre les deux n'est documenté.",
+      "de": "Dante lebte und wirkte in der Florentiner Politik nach den mit Giano verbundenen Reformen von 1293. Ein direktes persönliches Verhältnis zwischen beiden ist nicht belegt.",
+      "es": "Dante vivió y participó en la vida política de Florencia después de las reformas de 1293, asociadas a Giano. No está documentada una relación personal directa entre ambos."
+     }
+    }
+   ],
    "ritratto": {
     "autore": "Sandro Botticelli",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "giovanni-boccaccio",
+   "nome": "Giovanni Boccaccio",
+   "nascita": 1313,
+   "morte": 1375,
+   "professione": {
+    "it": "Scrittore e umanista",
+    "en": "Writer and humanist",
+    "fr": "Écrivain et humaniste",
+    "de": "Schriftsteller und Humanist",
+    "es": "Escritor y humanista"
+   },
+   "luogoNascita": {
+    "it": "Probabilmente Firenze o Certaldo",
+    "en": "Probably Florence or Certaldo",
+    "fr": "Probablement Florence ou Certaldo",
+    "de": "Wahrscheinlich Florenz oder Certaldo",
+    "es": "Probablemente Florencia o Certaldo"
+   },
+   "dataNascita": {
+    "it": "1313",
+    "en": "1313",
+    "fr": "1313",
+    "de": "1313",
+    "es": "1313"
+   },
+   "luogoMorte": {
+    "it": "Certaldo",
+    "en": "Certaldo",
+    "fr": "Certaldo",
+    "de": "Certaldo",
+    "es": "Certaldo"
+   },
+   "dataMorte": {
+    "it": "21 dicembre 1375",
+    "en": "21 December 1375",
+    "fr": "21 décembre 1375",
+    "de": "21. Dezember 1375",
+    "es": "21 de diciembre de 1375"
+   },
+   "biografia": {
+    "it": "Giovanni Boccaccio fu uno dei maggiori scrittori del Trecento e uno dei protagonisti della letteratura italiana medievale. Nato da una famiglia di mercanti legata a Firenze, trascorse parte della giovinezza a Napoli, dove il padre lavorava per la compagnia bancaria dei Bardi.\n\nLa permanenza napoletana gli permise di entrare in contatto con un ambiente culturale vivace, ricco di tradizioni letterarie e influenze provenienti da diverse parti d'Europa.\n\nLa sua opera più celebre è il Decameron, una raccolta di cento novelle raccontate da dieci giovani che si rifugiano in campagna per sfuggire alla peste che colpì Firenze nel 1348.\n\nIl libro offre un ritratto straordinariamente ricco della società medievale: mercanti, nobili, religiosi, artigiani e persone comuni sono rappresentati attraverso vicende spesso ironiche, sorprendenti e realistiche.\n\nBoccaccio fu anche uno dei primi grandi studiosi di Dante. Scrisse una biografia del poeta, il Trattatello in laude di Dante, e contribuì alla diffusione e alla comprensione della Divina Commedia.\n\nNegli ultimi anni della sua vita si dedicò soprattutto agli studi classici e alla cultura umanistica.",
+    "en": "Giovanni Boccaccio was one of the major writers of the fourteenth century and one of the protagonists of medieval Italian literature. Born into a merchant family tied to Florence, he spent part of his youth in Naples, where his father worked for the Bardi banking company.\n\nHis stay in Naples brought him into contact with a lively cultural environment, rich in literary traditions and influences from different parts of Europe.\n\nHis best-known work is the Decameron, a collection of one hundred tales told by ten young people who take refuge in the countryside to escape the plague that struck Florence in 1348.\n\nThe book offers a remarkably rich portrait of medieval society: merchants, nobles, clergy, craftsmen and ordinary people are depicted through stories that are often ironic, surprising and realistic.\n\nBoccaccio was also one of the first great scholars of Dante. He wrote a biography of the poet, the Trattatello in laude di Dante, and helped spread and explain the Divine Comedy.\n\nIn the last years of his life he devoted himself above all to classical studies and humanist culture.",
+    "fr": "Giovanni Boccace fut l'un des grands écrivains du XIVe siècle et l'un des protagonistes de la littérature italienne médiévale. Issu d'une famille de marchands liée à Florence, il passa une partie de sa jeunesse à Naples, où son père travaillait pour la compagnie bancaire des Bardi.\n\nSon séjour napolitain lui permit d'entrer en contact avec un milieu culturel vivant, riche de traditions littéraires et d'influences venues de différentes régions d'Europe.\n\nSon œuvre la plus célèbre est le Décaméron, un recueil de cent nouvelles racontées par dix jeunes gens qui se réfugient à la campagne pour fuir la peste qui frappa Florence en 1348.\n\nLe livre offre un portrait extraordinairement riche de la société médiévale : marchands, nobles, religieux, artisans et gens ordinaires y sont représentés à travers des histoires souvent ironiques, surprenantes et réalistes.\n\nBoccace fut aussi l'un des premiers grands spécialistes de Dante. Il écrivit une biographie du poète, le Trattatello in laude di Dante, et contribua à la diffusion et à la compréhension de la Divine Comédie.\n\nDans les dernières années de sa vie, il se consacra surtout aux études classiques et à la culture humaniste.",
+    "de": "Giovanni Boccaccio war einer der bedeutendsten Schriftsteller des 14. Jahrhunderts und eine der Hauptfiguren der mittelalterlichen italienischen Literatur. Aus einer mit Florenz verbundenen Kaufmannsfamilie stammend, verbrachte er einen Teil seiner Jugend in Neapel, wo sein Vater für die Bankgesellschaft der Bardi arbeitete.\n\nDer Aufenthalt in Neapel brachte ihn mit einem lebendigen kulturellen Umfeld in Berührung, das reich an literarischen Traditionen und Einflüssen aus verschiedenen Teilen Europas war.\n\nSein berühmtestes Werk ist das Decameron, eine Sammlung von hundert Novellen, die zehn junge Menschen erzählen, die sich aufs Land zurückziehen, um der Pest zu entgehen, die 1348 Florenz heimsuchte.\n\nDas Buch bietet ein außergewöhnlich reiches Bild der mittelalterlichen Gesellschaft: Kaufleute, Adlige, Geistliche, Handwerker und einfache Leute werden in oft ironischen, überraschenden und realistischen Geschichten dargestellt.\n\nBoccaccio war auch einer der ersten großen Dante-Forscher. Er schrieb eine Biografie des Dichters, das Trattatello in laude di Dante, und trug zur Verbreitung und zum Verständnis der Göttlichen Komödie bei.\n\nIn den letzten Jahren seines Lebens widmete er sich vor allem den klassischen Studien und der humanistischen Kultur.",
+    "es": "Giovanni Boccaccio fue uno de los grandes escritores del siglo XIV y uno de los protagonistas de la literatura italiana medieval. Nacido en una familia de mercaderes vinculada a Florencia, pasó parte de su juventud en Nápoles, donde su padre trabajaba para la compañía bancaria de los Bardi.\n\nSu estancia en Nápoles le permitió entrar en contacto con un ambiente cultural vivaz, rico en tradiciones literarias e influencias procedentes de distintas partes de Europa.\n\nSu obra más célebre es el Decamerón, una colección de cien novelas contadas por diez jóvenes que se refugian en el campo para huir de la peste que azotó Florencia en 1348.\n\nEl libro ofrece un retrato extraordinariamente rico de la sociedad medieval: mercaderes, nobles, religiosos, artesanos y gente corriente aparecen representados en historias a menudo irónicas, sorprendentes y realistas.\n\nBoccaccio fue también uno de los primeros grandes estudiosos de Dante. Escribió una biografía del poeta, el Trattatello in laude di Dante, y contribuyó a la difusión y comprensión de la Divina Comedia.\n\nEn los últimos años de su vida se dedicó sobre todo a los estudios clásicos y a la cultura humanista."
+   },
+   "curiosita": {
+    "it": [
+     "Cento novelle in dieci giorni: il Decameron è composto da cento novelle distribuite in dieci giornate di racconto.",
+     "La peste del 1348: la peste che costituisce la cornice narrativa dell'opera fu realmente devastante per Firenze e per l'Europa.",
+     "L'incontro con Petrarca: Boccaccio incontrò personalmente Francesco Petrarca nel 1350, e tra i due nacque un rapporto di amicizia e stima intellettuale.",
+     "Dante in chiesa: nel 1373 iniziò a tenere pubbliche letture e commenti della Divina Commedia nella chiesa di Santo Stefano di Badia a Firenze.",
+     "Una prosa di prestigio: la sua opera contribuì a rendere la prosa in volgare uno strumento letterario di grande prestigio."
+    ],
+    "en": [
+     "A hundred tales in ten days: the Decameron is made up of one hundred tales spread over ten days of storytelling.",
+     "The plague of 1348: the plague that frames the narrative was truly devastating for Florence and for Europe.",
+     "Meeting Petrarch: Boccaccio met Francesco Petrarch in person in 1350, and a friendship and intellectual esteem grew between them.",
+     "Dante in church: in 1373 he began giving public readings and commentaries on the Divine Comedy in the church of Santo Stefano di Badia in Florence.",
+     "A prestigious prose: his work helped make vernacular prose a literary instrument of great prestige."
+    ],
+    "fr": [
+     "Cent nouvelles en dix jours : le Décaméron se compose de cent nouvelles réparties en dix journées de récits.",
+     "La peste de 1348 : la peste qui forme le cadre narratif de l'œuvre fut réellement dévastatrice pour Florence et pour l'Europe.",
+     "La rencontre avec Pétrarque : Boccace rencontra personnellement Francesco Pétrarque en 1350, et une relation d'amitié et d'estime intellectuelle naquit entre eux.",
+     "Dante à l'église : en 1373, il commença à donner des lectures publiques et des commentaires de la Divine Comédie dans l'église de Santo Stefano di Badia à Florence.",
+     "Une prose de prestige : son œuvre contribua à faire de la prose en langue vulgaire un instrument littéraire de grand prestige."
+    ],
+    "de": [
+     "Hundert Novellen in zehn Tagen: Das Decameron besteht aus hundert Novellen, die auf zehn Erzähltage verteilt sind.",
+     "Die Pest von 1348: Die Pest, die den erzählerischen Rahmen des Werks bildet, war für Florenz und für Europa tatsächlich verheerend.",
+     "Die Begegnung mit Petrarca: Boccaccio traf Francesco Petrarca 1350 persönlich, und zwischen den beiden entstand eine Beziehung der Freundschaft und der geistigen Wertschätzung.",
+     "Dante in der Kirche: 1373 begann er, in der Kirche Santo Stefano di Badia in Florenz öffentliche Lesungen und Kommentare zur Göttlichen Komödie zu halten.",
+     "Eine Prosa von hohem Rang: Sein Werk trug dazu bei, die Prosa in der Volkssprache zu einem literarischen Instrument von hohem Ansehen zu machen."
+    ],
+    "es": [
+     "Cien novelas en diez días: el Decamerón se compone de cien novelas repartidas en diez jornadas de relatos.",
+     "La peste de 1348: la peste que constituye el marco narrativo de la obra fue realmente devastadora para Florencia y para Europa.",
+     "El encuentro con Petrarca: Boccaccio conoció personalmente a Francesco Petrarca en 1350, y entre ambos nació una relación de amistad y estima intelectual.",
+     "Dante en la iglesia: en 1373 comenzó a dar lecturas y comentarios públicos de la Divina Comedia en la iglesia de Santo Stefano di Badia, en Florencia.",
+     "Una prosa de prestigio: su obra contribuyó a convertir la prosa en lengua vulgar en un instrumento literario de gran prestigio."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "dante-alighieri",
+     "testo": {
+      "it": "Lo ammirò e ne scrisse la biografia, pur senza averlo conosciuto di persona, contribuendo alla diffusione della sua opera attraverso letture e commenti pubblici.",
+      "en": "He admired him and wrote his biography, though he never knew him in person, helping to spread his work through public readings and commentaries.",
+      "fr": "Il l'admirait et écrivit sa biographie, sans l'avoir connu personnellement, contribuant à la diffusion de son œuvre par des lectures et des commentaires publics.",
+      "de": "Er bewunderte ihn und schrieb seine Biografie, ohne ihn persönlich gekannt zu haben, und trug durch öffentliche Lesungen und Kommentare zur Verbreitung seines Werks bei.",
+      "es": "Lo admiraba y escribió su biografía, aunque no llegó a conocerlo en persona, y contribuyó a la difusión de su obra mediante lecturas y comentarios públicos."
+     }
+    },
+    {
+     "id": "giotto",
+     "testo": {
+      "it": "Lo ricorda nel Decameron (sesta giornata, novella V), sottolineandone il talento artistico e l'intelligenza.",
+      "en": "He recalls him in the Decameron (sixth day, story V), stressing his artistic talent and intelligence.",
+      "fr": "Il le met en scène dans le Décaméron (sixième journée, nouvelle V), soulignant son talent artistique et son intelligence.",
+      "de": "Er erwähnt ihn im Decameron (sechster Tag, Novelle V) und hebt sein künstlerisches Talent und seine Klugheit hervor.",
+      "es": "Lo recuerda en el Decamerón (sexta jornada, novela V), subrayando su talento artístico y su inteligencia."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Raffaello Morghen (incisione, 1822), da disegno di Vincenzo Gozzini",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "giano-della-bella",
+   "nome": "Giano della Bella",
+   "nascita": 1240,
+   "morte": 1305,
+   "professione": {
+    "it": "Uomo politico",
+    "en": "Politician",
+    "fr": "Homme politique",
+    "de": "Politiker",
+    "es": "Político"
+   },
+   "luogoNascita": {
+    "it": "Probabilmente Firenze",
+    "en": "Probably Florence",
+    "fr": "Probablement Florence",
+    "de": "Wahrscheinlich Florenz",
+    "es": "Probablemente Florencia"
+   },
+   "dataNascita": {
+    "it": "Circa 1240",
+    "en": "Around 1240",
+    "fr": "Vers 1240",
+    "de": "Um 1240",
+    "es": "Hacia 1240"
+   },
+   "luogoMorte": {
+    "it": "In Francia (luogo non noto)",
+    "en": "In France (place unknown)",
+    "fr": "En France (lieu inconnu)",
+    "de": "In Frankreich (Ort unbekannt)",
+    "es": "En Francia (lugar desconocido)"
+   },
+   "dataMorte": {
+    "it": "Probabilmente intorno al 1305",
+    "en": "Probably around 1305",
+    "fr": "Probablement vers 1305",
+    "de": "Wahrscheinlich um 1305",
+    "es": "Probablemente hacia 1305"
+   },
+   "biografia": {
+    "it": "Giano della Bella fu un importante uomo politico della Firenze comunale del XIII secolo. Proveniva da una famiglia di antica origine aristocratica, ma scelse di avvicinarsi alle istanze del movimento popolare, entrando in contrasto con una parte dell'élite cittadina.\n\nIl suo nome è legato soprattutto agli Ordinamenti di Giustizia del 1293, una serie di provvedimenti che limitarono fortemente il potere politico dei magnati, cioè delle famiglie aristocratiche più potenti e spesso coinvolte nelle lotte e nelle violenze cittadine.\n\nGli Ordinamenti rafforzarono il ruolo delle Arti, le associazioni professionali che organizzavano le attività economiche e che avevano acquisito un peso crescente nella vita pubblica. La riforma rappresentò un passaggio importante nell'evoluzione delle istituzioni comunali fiorentine.\n\nGiano divenne il principale riferimento politico dei popolari, ma la sua posizione si indebolì rapidamente. Le tensioni con le famiglie più ricche e influenti, insieme ai contrasti all'interno dello stesso movimento popolare, lo portarono all'isolamento.\n\nNel 1295 fu coinvolto in un procedimento politico e giudiziario e lasciò Firenze per rifugiarsi in Francia, dove morì.",
+    "en": "Giano della Bella was an important politician of communal Florence in the thirteenth century. He came from a family of ancient aristocratic origin, but chose to side with the demands of the popular movement, which set him against part of the city's elite.\n\nHis name is linked above all to the Ordinances of Justice of 1293, a series of measures that sharply limited the political power of the magnates, the most powerful aristocratic families, often involved in the city's feuds and violence.\n\nThe Ordinances strengthened the role of the Arti, the professional associations that organised economic activity and had gained growing weight in public life. The reform marked an important step in the evolution of Florence's communal institutions.\n\nGiano became the main political reference point of the popolani, but his position weakened quickly. Tensions with the richest and most influential families, together with conflicts within the popular movement itself, left him isolated.\n\nIn 1295 he was caught up in a political and judicial proceeding and left Florence to take refuge in France, where he died.",
+    "fr": "Giano della Bella fut un important homme politique de la Florence communale du XIIIe siècle. Issu d'une famille d'ancienne origine aristocratique, il choisit de se rapprocher des revendications du mouvement populaire, ce qui l'opposa à une partie de l'élite de la ville.\n\nSon nom est lié surtout aux Ordonnances de Justice de 1293, une série de mesures qui limitèrent fortement le pouvoir politique des magnats, c'est-à-dire des familles aristocratiques les plus puissantes, souvent impliquées dans les luttes et les violences de la ville.\n\nLes Ordonnances renforcèrent le rôle des Arti, les associations professionnelles qui organisaient les activités économiques et avaient acquis un poids croissant dans la vie publique. La réforme marqua une étape importante dans l'évolution des institutions communales florentines.\n\nGiano devint le principal référent politique des populaires, mais sa position s'affaiblit rapidement. Les tensions avec les familles les plus riches et les plus influentes, ainsi que les désaccords au sein du mouvement populaire lui-même, le menèrent à l'isolement.\n\nEn 1295, il fut impliqué dans une procédure politique et judiciaire et quitta Florence pour se réfugier en France, où il mourut.",
+    "de": "Giano della Bella war ein bedeutender Politiker des kommunalen Florenz im 13. Jahrhundert. Er stammte aus einer Familie alter aristokratischer Herkunft, wandte sich aber den Anliegen der Volksbewegung zu und geriet dadurch in Gegensatz zu einem Teil der städtischen Elite.\n\nSein Name ist vor allem mit den Ordinamenti di Giustizia von 1293 verbunden, einer Reihe von Maßnahmen, die die politische Macht der Magnaten, der mächtigsten und oft in städtische Fehden und Gewalt verwickelten Adelsfamilien, stark einschränkten.\n\nDie Ordinamenti stärkten die Rolle der Arti, der Berufsverbände, die die Wirtschaftstätigkeit organisierten und im öffentlichen Leben wachsendes Gewicht erlangt hatten. Die Reform war ein wichtiger Schritt in der Entwicklung der kommunalen Institutionen von Florenz.\n\nGiano wurde zur wichtigsten politischen Bezugsperson der Popolanen, doch seine Stellung schwächte sich rasch. Spannungen mit den reichsten und einflussreichsten Familien sowie Konflikte innerhalb der Volksbewegung selbst führten zu seiner Isolierung.\n\n1295 wurde er in ein politisches und gerichtliches Verfahren verwickelt und verließ Florenz, um sich nach Frankreich zu flüchten, wo er starb.",
+    "es": "Giano della Bella fue un importante político de la Florencia comunal del siglo XIII. Procedía de una familia de antiguo origen aristocrático, pero optó por acercarse a las demandas del movimiento popular, lo que lo enfrentó a una parte de la élite de la ciudad.\n\nSu nombre está ligado sobre todo a los Ordenamientos de Justicia de 1293, una serie de medidas que limitaron fuertemente el poder político de los magnates, es decir, de las familias aristocráticas más poderosas, a menudo implicadas en las luchas y la violencia de la ciudad.\n\nLos Ordenamientos reforzaron el papel de las Arti, las asociaciones profesionales que organizaban las actividades económicas y habían adquirido un peso creciente en la vida pública. La reforma supuso un paso importante en la evolución de las instituciones comunales florentinas.\n\nGiano se convirtió en el principal referente político de los populares, pero su posición se debilitó rápidamente. Las tensiones con las familias más ricas e influyentes, junto con los desacuerdos dentro del propio movimiento popular, lo llevaron al aislamiento.\n\nEn 1295 se vio envuelto en un procedimiento político y judicial y abandonó Florencia para refugiarse en Francia, donde murió."
+   },
+   "curiosita": {
+    "it": [
+     "Un aristocratico dalla parte del popolo: la famiglia di Giano apparteneva all'aristocrazia cittadina, quindi la sua scelta di sostenere il movimento popolare rappresentò un cambiamento politico significativo.",
+     "Una riforma fondamentale: gli Ordinamenti di Giustizia del 1293 sono uno dei provvedimenti più importanti nella storia delle istituzioni comunali fiorentine.",
+     "Il ruolo nella riforma: la tradizione cronachistica gli attribuisce un ruolo decisivo nella loro introduzione, anche se non è certo che fosse formalmente tra i priori che li promulgarono.",
+     "Dante e il «Gran Barone»: Dante lo ricorda nel Paradiso (canto XVI), tra coloro che portano l'insegna del «Gran Barone», cioè Ugo di Toscana."
+    ],
+    "en": [
+     "An aristocrat on the side of the people: Giano's family belonged to the city's aristocracy, so his choice to support the popular movement was a significant political change.",
+     "A fundamental reform: the Ordinances of Justice of 1293 are among the most important measures in the history of Florence's communal institutions.",
+     "His role in the reform: the chronicle tradition gives him a decisive part in introducing them, although it is not certain that he was formally among the priors who enacted them.",
+     "Dante and the «Gran Barone»: Dante recalls him in the Paradiso (canto XVI), among those who bear the arms of the «Gran Barone», that is, Hugh of Tuscany."
+    ],
+    "fr": [
+     "Un aristocrate du côté du peuple : la famille de Giano appartenait à l'aristocratie de la ville, et son choix de soutenir le mouvement populaire représenta donc un changement politique significatif.",
+     "Une réforme fondamentale : les Ordonnances de Justice de 1293 comptent parmi les mesures les plus importantes de l'histoire des institutions communales florentines.",
+     "Son rôle dans la réforme : la tradition des chroniqueurs lui attribue un rôle décisif dans leur adoption, même s'il n'est pas certain qu'il ait figuré formellement parmi les prieurs qui les promulguèrent.",
+     "Dante et le « Gran Barone » : Dante l'évoque dans le Paradis (chant XVI), parmi ceux qui portent l'insigne du « Gran Barone », c'est-à-dire Hugues de Toscane."
+    ],
+    "de": [
+     "Ein Adliger auf der Seite des Volkes: Gianos Familie gehörte dem Stadtadel an, seine Entscheidung, die Volksbewegung zu unterstützen, bedeutete daher einen bedeutsamen politischen Kurswechsel.",
+     "Eine grundlegende Reform: Die Ordinamenti di Giustizia von 1293 gehören zu den wichtigsten Maßnahmen in der Geschichte der kommunalen Institutionen von Florenz.",
+     "Seine Rolle bei der Reform: Die Chronistentradition schreibt ihm eine entscheidende Rolle bei ihrer Einführung zu, auch wenn nicht sicher ist, dass er formell zu den Prioren gehörte, die sie erließen.",
+     "Dante und der „Gran Barone“: Dante erwähnt ihn im Paradiso (16. Gesang) unter denen, die das Wappen des „Gran Barone“ tragen, also Hugos von Tuszien."
+    ],
+    "es": [
+     "Un aristócrata del lado del pueblo: la familia de Giano pertenecía a la aristocracia de la ciudad, por lo que su decisión de apoyar al movimiento popular supuso un cambio político significativo.",
+     "Una reforma fundamental: los Ordenamientos de Justicia de 1293 son una de las medidas más importantes en la historia de las instituciones comunales florentinas.",
+     "Su papel en la reforma: la tradición cronística le atribuye un papel decisivo en su introducción, aunque no es seguro que figurara formalmente entre los priores que los promulgaron.",
+     "Dante y el «Gran Barone»: Dante lo recuerda en el Paraíso (canto XVI), entre quienes llevan la insignia del «Gran Barone», es decir, Hugo de Toscana."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio",
+    "piazza-della-signoria",
+    "chiesa-e-museo-di-orsanmichele"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "Contesto istituzionale",
+      "en": "Institutional setting",
+      "fr": "Cadre institutionnel",
+      "de": "Institutioneller Zusammenhang",
+      "es": "Contexto institucional"
+     },
+     "testo": {
+      "it": "Costruito dopo la sua uscita da Firenze, ospitò le magistrature nate anche da quelle riforme.",
+      "en": "Built after he left Florence, it housed the magistracies that also grew out of those reforms.",
+      "fr": "Construit après son départ de Florence, il abrita les magistratures nées aussi de ces réformes.",
+      "de": "Nach seinem Weggang aus Florenz erbaut, beherbergte er die Behörden, die ebenfalls aus jenen Reformen hervorgegangen waren.",
+      "es": "Construido después de su salida de Florencia, albergó las magistraturas surgidas también de aquellas reformas."
+     }
+    },
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Contesto politico",
+      "en": "Political setting",
+      "fr": "Cadre politique",
+      "de": "Politischer Zusammenhang",
+      "es": "Contexto político"
+     },
+     "testo": {
+      "it": "Centro della vita politica cittadina, strettamente legato alle vicende delle magistrature comunali.",
+      "en": "The centre of the city's political life, closely tied to the story of the communal magistracies.",
+      "fr": "Centre de la vie politique de la ville, étroitement lié à l'histoire des magistratures communales.",
+      "de": "Zentrum des politischen Lebens der Stadt, eng mit der Geschichte der kommunalen Behörden verbunden.",
+      "es": "Centro de la vida política de la ciudad, estrechamente ligado a la historia de las magistraturas comunales."
+     }
+    },
+    "chiesa-e-museo-di-orsanmichele": {
+     "tipo": {
+      "it": "Contesto storico",
+      "en": "Historical setting",
+      "fr": "Cadre historique",
+      "de": "Historischer Zusammenhang",
+      "es": "Contexto histórico"
+     },
+     "testo": {
+      "it": "Testimonianza del ruolo delle Arti nella vita economica, religiosa e politica della città.",
+      "en": "A testimony to the role of the Arti in the city's economic, religious and political life.",
+      "fr": "Témoignage du rôle des Arti dans la vie économique, religieuse et politique de la ville.",
+      "de": "Zeugnis der Rolle der Arti im wirtschaftlichen, religiösen und politischen Leben der Stadt.",
+      "es": "Testimonio del papel de las Arti en la vida económica, religiosa y política de la ciudad."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "dante-alighieri",
+     "testo": {
+      "it": "Dante visse e partecipò alla vita politica di Firenze dopo le riforme del 1293. Giano rappresenta una fase importante dell'evoluzione istituzionale nella quale si inserì la carriera politica del poeta. Non è documentato un rapporto personale diretto tra i due.",
+      "en": "Dante lived and took part in Florentine politics after the reforms of 1293. Giano represents an important phase in the institutional evolution into which the poet's political career fitted. No direct personal relationship between the two is documented.",
+      "fr": "Dante vécut et participa à la vie politique de Florence après les réformes de 1293. Giano représente une phase importante de l'évolution institutionnelle dans laquelle s'inscrivit la carrière politique du poète. Aucun rapport personnel direct entre les deux n'est documenté.",
+      "de": "Dante lebte und wirkte in der Florentiner Politik nach den Reformen von 1293. Giano steht für eine wichtige Phase der institutionellen Entwicklung, in die sich die politische Laufbahn des Dichters einfügte. Ein direktes persönliches Verhältnis zwischen beiden ist nicht belegt.",
+      "es": "Dante vivió y participó en la vida política de Florencia después de las reformas de 1293. Giano representa una fase importante de la evolución institucional en la que se inscribió la carrera política del poeta. No está documentada una relación personal directa entre ambos."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Autore sconosciuto, miniatura",
     "licenza": "Pubblico dominio"
    }
   }
