@@ -2138,6 +2138,16 @@
       "de": "Botticelli arbeitete im kulturellen Kreis um Lorenzo, auch wenn nicht alle seine berühmtesten Werke direkt von Lorenzo in Auftrag gegeben wurden: Die Primavera war mit seinem Vetter Lorenzo di Pierfrancesco verbunden.",
       "es": "Botticelli trabajó en el círculo cultural laurentino, aunque no todas sus obras más célebres fueron encargadas directamente por Lorenzo: la Primavera estuvo ligada a su primo Lorenzo di Pierfrancesco."
      }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Secondo la tradizione biografica, accolse nella propria casa il giovane Michelangelo, che aveva frequentato il giardino di San Marco, ambiente di studio legato ai Medici.",
+      "en": "According to biographical tradition, he took into his own household the young Michelangelo, who had frequented the garden of San Marco, a place of study tied to the Medici.",
+      "fr": "Selon la tradition biographique, il accueillit dans sa propre maison le jeune Michel-Ange, qui avait fréquenté le jardin de San Marco, lieu d'étude lié aux Médicis.",
+      "de": "Der biografischen Überlieferung zufolge nahm er den jungen Michelangelo, der den Garten von San Marco besucht hatte, einen mit den Medici verbundenen Ort des Studiums, in sein Haus auf.",
+      "es": "Según la tradición biográfica, acogió en su propia casa al joven Miguel Ángel, que había frecuentado el jardín de San Marco, lugar de estudio ligado a los Médici."
+     }
     }
    ],
    "ritratto": {
@@ -2319,6 +2329,16 @@
       "de": "Die Maschinen, die Brunelleschi für die Baustelle der Kuppel entworfen hatte, wurden von Leonardo, einem jungen Lehrling in Verrocchios Werkstatt, bewundert. Die Verbindung ist kulturell und technisch, nicht persönlich.",
       "es": "Las máquinas que Brunelleschi había ideado para la obra de la cúpula fueron admiradas por Leonardo, joven aprendiz en el taller de Verrocchio. El vínculo es cultural y técnico, no personal."
      }
+    },
+    {
+     "id": "leon-battista-alberti",
+     "testo": {
+      "it": "Alberti gli dedicò Della pittura (1436) e ne elogiò l'ingegno nella lettera introduttiva. Il rapporto è intellettuale e artistico, non una collaborazione continuativa.",
+      "en": "Alberti dedicated Della pittura (1436) to him and praised his genius in the introductory letter. The relationship is intellectual and artistic, not an ongoing collaboration.",
+      "fr": "Alberti lui dédia Della pittura (1436) et loua son génie dans la lettre d'introduction. Le rapport est intellectuel et artistique, non une collaboration continue.",
+      "de": "Alberti widmete ihm Della pittura (1436) und lobte im einleitenden Brief seinen Genius. Die Beziehung ist intellektuell und künstlerisch, keine dauerhafte Zusammenarbeit.",
+      "es": "Alberti le dedicó Della pittura (1436) y elogió su genio en la carta introductoria. La relación es intelectual y artística, no una colaboración continuada."
+     }
     }
    ],
    "ritratto": {
@@ -2490,6 +2510,26 @@
       "de": "Er war ein Zeitgenosse Masaccios und wirkte im selben Florentiner Künstlermilieu; seine Art, Figur und Raum darzustellen, steht den Neuerungen des Malers nahe.",
       "es": "Fue contemporáneo de Masaccio y actuó en el mismo ambiente artístico florentino; su manera de representar la figura y el espacio es cercana a las innovaciones del pintor."
      }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Michelangelo si confrontò con la tradizione scultorea fiorentina di cui Donatello fu protagonista. I due David, in bronzo e in marmo, sono tra i suoi simboli. Il legame è artistico e storico, non personale.",
+      "en": "Michelangelo measured himself against the Florentine sculptural tradition of which Donatello was a protagonist. The two Davids, in bronze and in marble, are among its symbols. The link is artistic and historical, not personal.",
+      "fr": "Michel-Ange se mesura à la tradition sculpturale florentine dont Donatello fut un protagoniste. Les deux David, en bronze et en marbre, en sont parmi les symboles. Le lien est artistique et historique, non personnel.",
+      "de": "Michelangelo setzte sich mit der Florentiner Bildhauertradition auseinander, deren Protagonist Donatello war. Die beiden David, in Bronze und in Marmor, gehören zu ihren Symbolen. Die Verbindung ist künstlerisch und historisch, nicht persönlich.",
+      "es": "Miguel Ángel se midió con la tradición escultórica florentina de la que Donatello fue protagonista. Los dos David, en bronce y en mármol, están entre sus símbolos. El vínculo es artístico e histórico, no personal."
+     }
+    },
+    {
+     "id": "leon-battista-alberti",
+     "testo": {
+      "it": "Nella lettera a Brunelleschi che apre Della pittura (1436), Alberti elogia Donatello tra i protagonisti del rinnovamento delle arti a Firenze.",
+      "en": "In the letter to Brunelleschi that opens Della pittura (1436), Alberti praises Donatello among the protagonists of the renewal of the arts in Florence.",
+      "fr": "Dans la lettre à Brunelleschi qui ouvre Della pittura (1436), Alberti loue Donatello parmi les protagonistes du renouveau des arts à Florence.",
+      "de": "Im Brief an Brunelleschi, der Della pittura (1436) eröffnet, lobt Alberti Donatello unter den Protagonisten der Erneuerung der Künste in Florenz.",
+      "es": "En la carta a Brunelleschi que abre Della pittura (1436), Alberti elogia a Donatello entre los protagonistas de la renovación de las artes en Florencia."
+     }
     }
    ],
    "ritratto": {
@@ -2616,6 +2656,26 @@
       "fr": "Les deux étaient contemporains et évoluaient dans le même cercle artistique florentin. Donatello contribua à définir une nouvelle manière de représenter la figure humaine et l'espace, proche des innovations de Masaccio.",
       "de": "Die beiden waren Zeitgenossen und bewegten sich im selben Florentiner Künstlerkreis. Donatello trug dazu bei, eine neue Art der Darstellung von menschlicher Figur und Raum zu entwickeln, die den Neuerungen Masaccios nahestand.",
       "es": "Los dos fueron contemporáneos y actuaron en el mismo círculo artístico florentino. Donatello contribuyó a definir una nueva manera de representar la figura humana y el espacio, cercana a las innovaciones de Masaccio."
+     }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Gli affreschi di Masaccio nella Cappella Brancacci furono studiati da Michelangelo, che ne trasse insegnamenti sulla forza espressiva e sulla costruzione delle figure.",
+      "en": "Masaccio's frescoes in the Brancacci Chapel were studied by Michelangelo, who learned from them about expressive force and the construction of figures.",
+      "fr": "Les fresques de Masaccio dans la chapelle Brancacci furent étudiées par Michel-Ange, qui en tira des enseignements sur la force expressive et la construction des figures.",
+      "de": "Masaccios Fresken in der Brancacci-Kapelle wurden von Michelangelo studiert, der daraus Lehren über Ausdruckskraft und den Aufbau von Figuren zog.",
+      "es": "Los frescos de Masaccio en la Capilla Brancacci fueron estudiados por Miguel Ángel, que aprendió de ellos sobre la fuerza expresiva y la construcción de las figuras."
+     }
+    },
+    {
+     "id": "leon-battista-alberti",
+     "testo": {
+      "it": "Nella lettera a Brunelleschi che apre Della pittura (1436), Alberti elogia Masaccio tra i protagonisti del rinnovamento delle arti a Firenze.",
+      "en": "In the letter to Brunelleschi that opens Della pittura (1436), Alberti praises Masaccio among the protagonists of the renewal of the arts in Florence.",
+      "fr": "Dans la lettre à Brunelleschi qui ouvre Della pittura (1436), Alberti loue Masaccio parmi les protagonistes du renouveau des arts à Florence.",
+      "de": "Im Brief an Brunelleschi, der Della pittura (1436) eröffnet, lobt Alberti Masaccio unter den Protagonisten der Erneuerung der Künste in Florenz.",
+      "es": "En la carta a Brunelleschi que abre Della pittura (1436), Alberti elogia a Masaccio entre los protagonistas de la renovación de las artes en Florencia."
      }
     }
    ],
@@ -2869,6 +2929,16 @@
       "de": "Beide gehörten der Künstlerkommission an, die 1504 über den Standort von Michelangelos David entschied. Botticelli sprach sich für einen Platz beim Dom aus, Leonardo für die Loggia dei Lanzi. Eine Zusammenarbeit zwischen ihnen ist nicht belegt.",
       "es": "Ambos formaron parte de la comisión de artistas que en 1504 decidió dónde colocar el David de Miguel Ángel. Botticelli defendía un emplazamiento cerca del Duomo, Leonardo la Loggia dei Lanzi. No está documentada una colaboración entre ellos."
      }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Il David di Michelangelo fu al centro della decisione del 1504: Botticelli, membro della commissione, sosteneva una collocazione presso il Duomo.",
+      "en": "Michelangelo's David was at the centre of the 1504 decision: Botticelli, a member of the committee, favoured a site near the Duomo.",
+      "fr": "Le David de Michel-Ange fut au centre de la décision de 1504 : Botticelli, membre de la commission, était favorable à un site près du Duomo.",
+      "de": "Michelangelos David stand im Mittelpunkt der Entscheidung von 1504: Botticelli, Mitglied der Kommission, sprach sich für einen Platz beim Dom aus.",
+      "es": "El David de Miguel Ángel estuvo en el centro de la decisión de 1504: Botticelli, miembro de la comisión, defendía un emplazamiento cerca del Duomo."
+     }
     }
    ],
    "ritratto": {
@@ -3018,10 +3088,365 @@
       "de": "Beide gehörten der Künstlerkommission an, die 1504 über den Standort von Michelangelos David entschied. Botticelli sprach sich für einen Platz beim Dom aus, Leonardo für die Loggia dei Lanzi. Eine Zusammenarbeit zwischen ihnen ist nicht belegt.",
       "es": "Ambos formaron parte de la comisión de artistas que en 1504 decidió dónde colocar el David de Miguel Ángel. Botticelli defendía un emplazamiento cerca del Duomo, Leonardo la Loggia dei Lanzi. No está documentada una colaboración entre ellos."
      }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Nella Firenze dei primi anni del Cinquecento ricevettero incarichi distinti per la Sala Grande di Palazzo Vecchio: la Battaglia di Anghiari a Leonardo (1503), la Battaglia di Cascina a Michelangelo (1504). Il loro confronto è ricordato come una rivalità artistica.",
+      "en": "In Florence in the early sixteenth century they received separate commissions for the Sala Grande of Palazzo Vecchio: the Battle of Anghiari for Leonardo (1503), the Battle of Cascina for Michelangelo (1504). Their confrontation is remembered as an artistic rivalry.",
+      "fr": "Dans la Florence des premières années du XVIe siècle, ils reçurent des commandes distinctes pour la Sala Grande du Palazzo Vecchio : la Bataille d'Anghiari pour Léonard (1503), la Bataille de Cascina pour Michel-Ange (1504). Leur confrontation reste célèbre comme une rivalité artistique.",
+      "de": "Im Florenz der ersten Jahre des 16. Jahrhunderts erhielten sie getrennte Aufträge für die Sala Grande des Palazzo Vecchio: die Schlacht von Anghiari für Leonardo (1503), die Schlacht von Cascina für Michelangelo (1504). Ihre Auseinandersetzung ist als künstlerische Rivalität in Erinnerung geblieben.",
+      "es": "En la Florencia de los primeros años del siglo XVI recibieron encargos distintos para la Sala Grande del Palazzo Vecchio: la Batalla de Anghiari para Leonardo (1503), la Batalla de Cascina para Miguel Ángel (1504). Su confrontación se recuerda como una rivalidad artística."
+     }
     }
    ],
    "ritratto": {
     "autore": "Leonardo da Vinci, Autoritratto (disegno a sanguigna, Biblioteca Reale di Torino)",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "michelangelo-buonarroti",
+   "nome": "Michelangelo Buonarroti",
+   "nascita": 1475,
+   "morte": 1564,
+   "professione": {
+    "it": "Scultore, pittore, architetto e poeta",
+    "en": "Sculptor, painter, architect and poet",
+    "fr": "Sculpteur, peintre, architecte et poète",
+    "de": "Bildhauer, Maler, Architekt und Dichter",
+    "es": "Escultor, pintor, arquitecto y poeta"
+   },
+   "luogoNascita": {
+    "it": "Caprese",
+    "en": "Caprese",
+    "fr": "Caprese",
+    "de": "Caprese",
+    "es": "Caprese"
+   },
+   "dataNascita": {
+    "it": "6 marzo 1475",
+    "en": "6 March 1475",
+    "fr": "6 mars 1475",
+    "de": "6. März 1475",
+    "es": "6 de marzo de 1475"
+   },
+   "luogoMorte": {
+    "it": "Roma",
+    "en": "Rome",
+    "fr": "Rome",
+    "de": "Rom",
+    "es": "Roma"
+   },
+   "dataMorte": {
+    "it": "18 febbraio 1564",
+    "en": "18 February 1564",
+    "fr": "18 février 1564",
+    "de": "18. Februar 1564",
+    "es": "18 de febrero de 1564"
+   },
+   "biografia": {
+    "it": "Michelangelo Buonarroti fu scultore, pittore, architetto e poeta, considerato uno dei massimi protagonisti del Rinascimento. Nato a Caprese, nel territorio della Repubblica fiorentina, si trasferì da bambino a Firenze, dove si formò nella bottega di Domenico Ghirlandaio.\n\nIntorno al 1489 frequentò il giardino mediceo di San Marco, dove poté studiare la scultura antica; secondo la tradizione biografica, Lorenzo il Magnifico lo accolse anche nella propria casa. In seguito lavorò a Bologna e a Roma, dove realizzò la Pietà vaticana (1498-1499). Tornato a Firenze, scolpì il David tra il 1501 e il 1504.\n\nNel corso della sua lunga carriera lavorò per papi e importanti famiglie italiane. A Firenze realizzò per i Medici la Sagrestia Nuova di San Lorenzo, con le tombe di Giuliano e Lorenzo de' Medici, figlio e nipote del Magnifico, e progettò la Biblioteca Laurenziana; per la stessa basilica ideò anche una facciata, mai realizzata.",
+    "en": "Michelangelo Buonarroti was a sculptor, painter, architect and poet, regarded as one of the greatest figures of the Renaissance. Born in Caprese, in the territory of the Florentine Republic, he moved to Florence as a child, where he trained in the workshop of Domenico Ghirlandaio.\n\nAround 1489 he frequented the Medici garden of San Marco, where he could study ancient sculpture; according to biographical tradition, Lorenzo the Magnificent also took him into his own household. He later worked in Bologna and Rome, where he created the Vatican Pietà (1498-1499). Back in Florence, he sculpted the David between 1501 and 1504.\n\nOver his long career he worked for popes and important Italian families. In Florence he created for the Medici the New Sacristy of San Lorenzo, with the tombs of Giuliano and Lorenzo de' Medici, son and grandson of the Magnificent, and designed the Laurentian Library; for the same basilica he also conceived a façade, never built.",
+    "fr": "Michel-Ange Buonarroti fut sculpteur, peintre, architecte et poète, considéré comme l'un des plus grands protagonistes de la Renaissance. Né à Caprese, sur le territoire de la République florentine, il s'installa enfant à Florence, où il se forma dans l'atelier de Domenico Ghirlandaio.\n\nVers 1489, il fréquenta le jardin médicéen de San Marco, où il put étudier la sculpture antique ; selon la tradition biographique, Laurent le Magnifique l'accueillit aussi dans sa propre maison. Il travailla ensuite à Bologne et à Rome, où il réalisa la Pietà du Vatican (1498-1499). De retour à Florence, il sculpta le David entre 1501 et 1504.\n\nAu cours de sa longue carrière, il travailla pour des papes et d'importantes familles italiennes. À Florence, il réalisa pour les Médicis la Sacristie nouvelle de San Lorenzo, avec les tombeaux de Giuliano et Lorenzo de' Médicis, fils et petit-fils du Magnifique, et conçut la Bibliothèque laurentienne ; pour la même basilique, il imagina aussi une façade, jamais réalisée.",
+    "de": "Michelangelo Buonarroti war Bildhauer, Maler, Architekt und Dichter und gilt als einer der größten Protagonisten der Renaissance. In Caprese auf dem Gebiet der Florentiner Republik geboren, zog er als Kind nach Florenz, wo er in der Werkstatt von Domenico Ghirlandaio lernte.\n\nUm 1489 besuchte er den Medici-Garten von San Marco, wo er antike Skulptur studieren konnte; der biografischen Überlieferung zufolge nahm ihn Lorenzo der Prächtige auch in sein eigenes Haus auf. Später arbeitete er in Bologna und Rom, wo er die Vatikanische Pietà schuf (1498-1499). Zurück in Florenz, meißelte er zwischen 1501 und 1504 den David.\n\nIm Lauf seiner langen Laufbahn arbeitete er für Päpste und bedeutende italienische Familien. In Florenz schuf er für die Medici die Neue Sakristei von San Lorenzo mit den Grabmälern von Giuliano und Lorenzo de' Medici, Sohn und Enkel des Prächtigen, und entwarf die Biblioteca Laurenziana; für dieselbe Basilika plante er auch eine Fassade, die nie ausgeführt wurde.",
+    "es": "Miguel Ángel Buonarroti fue escultor, pintor, arquitecto y poeta, considerado uno de los grandes protagonistas del Renacimiento. Nacido en Caprese, en el territorio de la República florentina, se trasladó de niño a Florencia, donde se formó en el taller de Domenico Ghirlandaio.\n\nHacia 1489 frecuentó el jardín mediceo de San Marco, donde pudo estudiar la escultura antigua; según la tradición biográfica, Lorenzo el Magnífico lo acogió también en su propia casa. Más tarde trabajó en Bolonia y en Roma, donde realizó la Piedad del Vaticano (1498-1499). De regreso en Florencia, esculpió el David entre 1501 y 1504.\n\nA lo largo de su larga carrera trabajó para papas e importantes familias italianas. En Florencia realizó para los Médici la Sacristía Nueva de San Lorenzo, con las tumbas de Giuliano y Lorenzo de' Médici, hijo y nieto del Magnífico, y proyectó la Biblioteca Laurenciana; para la misma basílica ideó también una fachada, nunca realizada."
+   },
+   "curiosita": {
+    "it": [
+     "Scultore prima di tutto: si considerava soprattutto uno scultore, anche se raggiunse risultati straordinari nella pittura e nell'architettura.",
+     "Il David: fu collocato davanti a Palazzo Vecchio come simbolo della libertà repubblicana. L'originale è oggi alla Galleria dell'Accademia; in piazza si vede una copia.",
+     "Lo studio di Masaccio: studiò con grande attenzione gli affreschi della Cappella Brancacci, dipinti da Masaccio e Masolino.",
+     "La tomba a Santa Croce: morì a Roma, ma la salma giunse a Firenze l'11 marzo 1564. Il suo monumento funebre in Santa Croce, disegnato da Vasari, fu completato nel 1576."
+    ],
+    "en": [
+     "A sculptor above all: he considered himself above all a sculptor, even though he achieved extraordinary results in painting and architecture.",
+     "The David: it was placed in front of Palazzo Vecchio as a symbol of republican liberty. The original is now in the Galleria dell'Accademia; a copy stands in the square.",
+     "The study of Masaccio: he studied with great attention the frescoes of the Brancacci Chapel, painted by Masaccio and Masolino.",
+     "The tomb in Santa Croce: he died in Rome, but his body reached Florence on 11 March 1564. His funerary monument in Santa Croce, designed by Vasari, was completed in 1576."
+    ],
+    "fr": [
+     "Sculpteur avant tout : il se considérait surtout comme un sculpteur, même s'il atteignit des résultats extraordinaires en peinture et en architecture.",
+     "Le David : il fut placé devant le Palazzo Vecchio comme symbole de la liberté républicaine. L'original se trouve aujourd'hui à la Galleria dell'Accademia ; sur la place, on voit une copie.",
+     "L'étude de Masaccio : il étudia avec grande attention les fresques de la chapelle Brancacci, peintes par Masaccio et Masolino.",
+     "Le tombeau à Santa Croce : il mourut à Rome, mais sa dépouille arriva à Florence le 11 mars 1564. Son monument funéraire de Santa Croce, dessiné par Vasari, fut achevé en 1576."
+    ],
+    "de": [
+     "Vor allem Bildhauer: Er verstand sich vor allem als Bildhauer, auch wenn er in Malerei und Architektur außerordentliche Ergebnisse erzielte.",
+     "Der David: Er wurde vor dem Palazzo Vecchio als Symbol der republikanischen Freiheit aufgestellt. Das Original befindet sich heute in der Galleria dell'Accademia; auf dem Platz steht eine Kopie.",
+     "Das Studium Masaccios: Er studierte mit großer Aufmerksamkeit die Fresken der Brancacci-Kapelle, die von Masaccio und Masolino gemalt wurden.",
+     "Das Grab in Santa Croce: Er starb in Rom, doch sein Leichnam erreichte Florenz am 11. März 1564. Sein von Vasari entworfenes Grabmal in Santa Croce wurde 1576 vollendet."
+    ],
+    "es": [
+     "Escultor ante todo: se consideraba sobre todo un escultor, aunque alcanzó resultados extraordinarios en la pintura y en la arquitectura.",
+     "El David: se colocó frente al Palazzo Vecchio como símbolo de la libertad republicana. El original está hoy en la Galleria dell'Accademia; en la plaza se ve una copia.",
+     "El estudio de Masaccio: estudió con gran atención los frescos de la Capilla Brancacci, pintados por Masaccio y Masolino.",
+     "La tumba en Santa Croce: murió en Roma, pero su cuerpo llegó a Florencia el 11 de marzo de 1564. Su monumento funerario en Santa Croce, diseñado por Vasari, se completó en 1576."
+    ]
+   },
+   "luoghi": [
+    "basilica-di-san-lorenzo",
+    "piazza-della-signoria",
+    "palazzo-vecchio",
+    "basilica-di-santa-croce"
+   ],
+   "luoghiNote": {
+    "basilica-di-san-lorenzo": {
+     "tipo": {
+      "it": "La Sagrestia Nuova",
+      "en": "The New Sacristy",
+      "fr": "La Sacristie nouvelle",
+      "de": "Die Neue Sakristei",
+      "es": "La Sacristía Nueva"
+     },
+     "testo": {
+      "it": "Per i Medici realizzò la Sagrestia Nuova, con le tombe di Giuliano e Lorenzo de' Medici, e progettò la Biblioteca Laurenziana. Per la facciata della basilica ideò un progetto che non fu mai realizzato.",
+      "en": "For the Medici he created the New Sacristy, with the tombs of Giuliano and Lorenzo de' Medici, and designed the Laurentian Library. For the basilica's façade he conceived a project that was never built.",
+      "fr": "Pour les Médicis, il réalisa la Sacristie nouvelle, avec les tombeaux de Giuliano et Lorenzo de' Médicis, et conçut la Bibliothèque laurentienne. Pour la façade de la basilique, il imagina un projet qui ne fut jamais réalisé.",
+      "de": "Für die Medici schuf er die Neue Sakristei mit den Grabmälern von Giuliano und Lorenzo de' Medici und entwarf die Biblioteca Laurenziana. Für die Fassade der Basilika entwarf er ein Projekt, das nie ausgeführt wurde.",
+      "es": "Para los Médici realizó la Sacristía Nueva, con las tumbas de Giuliano y Lorenzo de' Médici, y proyectó la Biblioteca Laurenciana. Para la fachada de la basílica ideó un proyecto que nunca se realizó."
+     }
+    },
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Il David",
+      "en": "The David",
+      "fr": "Le David",
+      "de": "Der David",
+      "es": "El David"
+     },
+     "testo": {
+      "it": "Qui, davanti a Palazzo Vecchio, fu collocato il David nel 1504. Oggi in piazza si vede una copia; l'originale è alla Galleria dell'Accademia.",
+      "en": "Here, in front of Palazzo Vecchio, the David was placed in 1504. Today a copy stands in the square; the original is in the Galleria dell'Accademia.",
+      "fr": "C'est ici, devant le Palazzo Vecchio, que le David fut placé en 1504. Aujourd'hui, une copie se dresse sur la place ; l'original est à la Galleria dell'Accademia.",
+      "de": "Hier, vor dem Palazzo Vecchio, wurde 1504 der David aufgestellt. Heute steht auf dem Platz eine Kopie; das Original befindet sich in der Galleria dell'Accademia.",
+      "es": "Aquí, frente al Palazzo Vecchio, se colocó el David en 1504. Hoy en la plaza se ve una copia; el original está en la Galleria dell'Accademia."
+     }
+    },
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "La Battaglia di Cascina",
+      "en": "The Battle of Cascina",
+      "fr": "La Bataille de Cascina",
+      "de": "Die Schlacht von Cascina",
+      "es": "La Batalla de Cascina"
+     },
+     "testo": {
+      "it": "Nel 1504 ebbe l'incarico di dipingere nella Sala Grande la Battaglia di Cascina, mentre Leonardo lavorava alla Battaglia di Anghiari. L'opera non fu mai eseguita: restò il cartone preparatorio.",
+      "en": "In 1504 he was commissioned to paint the Battle of Cascina in the Sala Grande, while Leonardo was working on the Battle of Anghiari. The work was never carried out: only the preparatory cartoon remained.",
+      "fr": "En 1504, il reçut la commande de peindre dans la Sala Grande la Bataille de Cascina, tandis que Léonard travaillait à la Bataille d'Anghiari. L'œuvre ne fut jamais exécutée : il n'en resta que le carton préparatoire.",
+      "de": "1504 erhielt er den Auftrag, in der Sala Grande die Schlacht von Cascina zu malen, während Leonardo an der Schlacht von Anghiari arbeitete. Das Werk wurde nie ausgeführt: Es blieb bei dem vorbereitenden Karton.",
+      "es": "En 1504 recibió el encargo de pintar en la Sala Grande la Batalla de Cascina, mientras Leonardo trabajaba en la Batalla de Anghiari. La obra nunca se ejecutó: solo quedó el cartón preparatorio."
+     }
+    },
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "La tomba",
+      "en": "The tomb",
+      "fr": "Le tombeau",
+      "de": "Das Grab",
+      "es": "La tumba"
+     },
+     "testo": {
+      "it": "Qui è sepolto. Il monumento funebre, disegnato da Vasari, fu completato nel 1576.",
+      "en": "He is buried here. The funerary monument, designed by Vasari, was completed in 1576.",
+      "fr": "Il est enterré ici. Le monument funéraire, dessiné par Vasari, fut achevé en 1576.",
+      "de": "Hier ist er begraben. Das von Vasari entworfene Grabmal wurde 1576 vollendet.",
+      "es": "Aquí está enterrado. El monumento funerario, diseñado por Vasari, se completó en 1576."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Dopo il giardino di San Marco, ambiente di studio legato ai Medici, secondo la tradizione biografica Lorenzo accolse il giovane Michelangelo nella propria casa e ne favorì la crescita artistica. Ai suoi discendenti Michelangelo dedicò poi la Sagrestia Nuova.",
+      "en": "After the garden of San Marco, a place of study tied to the Medici, biographical tradition holds that Lorenzo took the young Michelangelo into his own household and fostered his artistic growth. Michelangelo later created the New Sacristy for Lorenzo's descendants.",
+      "fr": "Après le jardin de San Marco, lieu d'étude lié aux Médicis, la tradition biographique rapporte que Laurent accueillit le jeune Michel-Ange dans sa propre maison et favorisa sa croissance artistique. Michel-Ange réalisa ensuite la Sacristie nouvelle pour les descendants de Laurent.",
+      "de": "Nach dem Garten von San Marco, einem mit den Medici verbundenen Ort des Studiums, nahm Lorenzo der biografischen Überlieferung zufolge den jungen Michelangelo in sein Haus auf und förderte seine künstlerische Entwicklung. Für Lorenzos Nachkommen schuf Michelangelo später die Neue Sakristei.",
+      "es": "Tras el jardín de San Marco, lugar de estudio ligado a los Médici, según la tradición biográfica Lorenzo acogió al joven Miguel Ángel en su propia casa y favoreció su crecimiento artístico. Más tarde Miguel Ángel realizó la Sacristía Nueva para los descendientes de Lorenzo."
+     }
+    },
+    {
+     "id": "leonardo-da-vinci",
+     "testo": {
+      "it": "Nella Firenze dei primi anni del Cinquecento ricevettero incarichi distinti per la Sala Grande di Palazzo Vecchio: la Battaglia di Anghiari a Leonardo (1503), la Battaglia di Cascina a Michelangelo (1504). Nessuna delle due imprese fu portata a termine. Il loro confronto è ricordato come una rivalità artistica, segnata anche da differenze di temperamento.",
+      "en": "In Florence in the early sixteenth century they received separate commissions for the Sala Grande of Palazzo Vecchio: the Battle of Anghiari for Leonardo (1503), the Battle of Cascina for Michelangelo (1504). Neither undertaking was completed. Their confrontation is remembered as an artistic rivalry, also marked by differences of temperament.",
+      "fr": "Dans la Florence des premières années du XVIe siècle, ils reçurent des commandes distinctes pour la Sala Grande du Palazzo Vecchio : la Bataille d'Anghiari pour Léonard (1503), la Bataille de Cascina pour Michel-Ange (1504). Aucune des deux entreprises ne fut menée à terme. Leur confrontation reste célèbre comme une rivalité artistique, marquée aussi par des différences de tempérament.",
+      "de": "Im Florenz der ersten Jahre des 16. Jahrhunderts erhielten sie getrennte Aufträge für die Sala Grande des Palazzo Vecchio: die Schlacht von Anghiari für Leonardo (1503), die Schlacht von Cascina für Michelangelo (1504). Keines der beiden Unternehmen wurde vollendet. Ihre Auseinandersetzung ist als künstlerische Rivalität in Erinnerung geblieben, auch geprägt von Unterschieden im Temperament.",
+      "es": "En la Florencia de los primeros años del siglo XVI recibieron encargos distintos para la Sala Grande del Palazzo Vecchio: la Batalla de Anghiari para Leonardo (1503), la Batalla de Cascina para Miguel Ángel (1504). Ninguna de las dos empresas se llevó a término. Su confrontación se recuerda como una rivalidad artística, marcada también por diferencias de temperamento."
+     }
+    },
+    {
+     "id": "sandro-botticelli",
+     "testo": {
+      "it": "Nel 1504 Botticelli fece parte della commissione di artisti che decise dove collocare il David. Sosteneva una collocazione presso il Duomo; la statua fu posta davanti a Palazzo Vecchio.",
+      "en": "In 1504 Botticelli sat on the committee of artists that decided where to place the David. He favoured a site near the Duomo; the statue was placed in front of Palazzo Vecchio.",
+      "fr": "En 1504, Botticelli fit partie de la commission d'artistes qui décida de l'emplacement du David. Il était favorable à un site près du Duomo ; la statue fut placée devant le Palazzo Vecchio.",
+      "de": "1504 gehörte Botticelli der Künstlerkommission an, die über den Standort des David entschied. Er sprach sich für einen Platz beim Dom aus; die Statue wurde vor dem Palazzo Vecchio aufgestellt.",
+      "es": "En 1504 Botticelli formó parte de la comisión de artistas que decidió dónde colocar el David. Defendía un emplazamiento cerca del Duomo; la estatua se colocó frente al Palazzo Vecchio."
+     }
+    },
+    {
+     "id": "masaccio",
+     "testo": {
+      "it": "Michelangelo studiò gli affreschi della Cappella Brancacci, dipinti da Masaccio e Masolino, traendo insegnamenti dalla forza espressiva e dalla costruzione delle figure di Masaccio.",
+      "en": "Michelangelo studied the frescoes of the Brancacci Chapel, painted by Masaccio and Masolino, drawing lessons from the expressive force and construction of Masaccio's figures.",
+      "fr": "Michel-Ange étudia les fresques de la chapelle Brancacci, peintes par Masaccio et Masolino, tirant des enseignements de la force expressive et de la construction des figures de Masaccio.",
+      "de": "Michelangelo studierte die Fresken der Brancacci-Kapelle, die von Masaccio und Masolino gemalt wurden, und lernte aus der Ausdruckskraft und dem Aufbau von Masaccios Figuren.",
+      "es": "Miguel Ángel estudió los frescos de la Capilla Brancacci, pintados por Masaccio y Masolino, y aprendió de la fuerza expresiva y de la construcción de las figuras de Masaccio."
+     }
+    },
+    {
+     "id": "donatello",
+     "testo": {
+      "it": "Michelangelo si confrontò con la tradizione scultorea fiorentina, nella quale Donatello ebbe un ruolo decisivo. I due David, in bronzo e in marmo, sono tra i simboli di questa tradizione. Il legame è artistico e storico, non personale.",
+      "en": "Michelangelo measured himself against the Florentine sculptural tradition, in which Donatello played a decisive role. The two Davids, in bronze and in marble, are among the symbols of that tradition. The link is artistic and historical, not personal.",
+      "fr": "Michel-Ange se mesura à la tradition sculpturale florentine, dans laquelle Donatello joua un rôle décisif. Les deux David, en bronze et en marbre, sont parmi les symboles de cette tradition. Le lien est artistique et historique, non personnel.",
+      "de": "Michelangelo setzte sich mit der Florentiner Bildhauertradition auseinander, in der Donatello eine entscheidende Rolle gespielt hatte. Die beiden David, in Bronze und in Marmor, gehören zu den Symbolen dieser Tradition. Die Verbindung ist künstlerisch und historisch, nicht persönlich.",
+      "es": "Miguel Ángel se midió con la tradición escultórica florentina, en la que Donatello tuvo un papel decisivo. Los dos David, en bronce y en mármol, están entre los símbolos de esa tradición. El vínculo es artístico e histórico, no personal."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Attribuito a Daniele da Volterra, Metropolitan Museum of Art",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "leon-battista-alberti",
+   "nome": "Leon Battista Alberti",
+   "nascita": 1404,
+   "morte": 1472,
+   "professione": {
+    "it": "Architetto, umanista e teorico dell'arte",
+    "en": "Architect, humanist and art theorist",
+    "fr": "Architecte, humaniste et théoricien de l'art",
+    "de": "Architekt, Humanist und Kunsttheoretiker",
+    "es": "Arquitecto, humanista y teórico del arte"
+   },
+   "luogoNascita": {
+    "it": "Genova",
+    "en": "Genoa",
+    "fr": "Gênes",
+    "de": "Genua",
+    "es": "Génova"
+   },
+   "dataNascita": {
+    "it": "14 febbraio 1404",
+    "en": "14 February 1404",
+    "fr": "14 février 1404",
+    "de": "14. Februar 1404",
+    "es": "14 de febrero de 1404"
+   },
+   "luogoMorte": {
+    "it": "Roma",
+    "en": "Rome",
+    "fr": "Rome",
+    "de": "Rom",
+    "es": "Roma"
+   },
+   "dataMorte": {
+    "it": "25 aprile 1472",
+    "en": "25 April 1472",
+    "fr": "25 avril 1472",
+    "de": "25. April 1472",
+    "es": "25 de abril de 1472"
+   },
+   "biografia": {
+    "it": "Leon Battista Alberti fu architetto, umanista, matematico, scrittore e teorico dell'arte. Figlio di una famiglia fiorentina in esilio, nacque a Genova e trascorse gran parte della sua vita lontano da Firenze, pur mantenendo un forte legame culturale con la città.\n\nFu uno dei principali intellettuali dell'Umanesimo italiano. Nei suoi trattati affrontò temi come la pittura, la scultura, l'architettura e la vita civile. Il De pictura, composto in latino nel 1435 e riscritto in volgare nel 1436 come Della pittura, con dedica a Brunelleschi, contribuì a definire i fondamenti teorici della pittura rinascimentale, in particolare attraverso lo studio della prospettiva.\n\nCome architetto progettò edifici importanti, tra cui il Tempio Malatestiano di Rimini e la facciata di Santa Maria Novella a Firenze, eseguita tra il 1456 e il 1470 per Giovanni Rucellai. A lui è attribuito anche il progetto di Palazzo Rucellai, costruito sotto la direzione di Bernardo Rossellino. Il suo lavoro contribuì alla diffusione di un linguaggio architettonico fondato sul recupero delle forme classiche, sulla proporzione e sull'armonia.",
+    "en": "Leon Battista Alberti was an architect, humanist, mathematician, writer and art theorist. The son of an exiled Florentine family, he was born in Genoa and spent much of his life away from Florence, while keeping a strong cultural bond with the city.\n\nHe was one of the leading intellectuals of Italian Humanism. In his treatises he addressed painting, sculpture, architecture and civic life. De pictura, composed in Latin in 1435 and rewritten in the vernacular in 1436 as Della pittura, dedicated to Brunelleschi, helped define the theoretical foundations of Renaissance painting, in particular through the study of perspective.\n\nAs an architect he designed important buildings, including the Tempio Malatestiano in Rimini and the façade of Santa Maria Novella in Florence, built between 1456 and 1470 for Giovanni Rucellai. The design of Palazzo Rucellai, built under the direction of Bernardo Rossellino, is also attributed to him. His work helped spread an architectural language based on the revival of classical forms, on proportion and on harmony.",
+    "fr": "Leon Battista Alberti fut architecte, humaniste, mathématicien, écrivain et théoricien de l'art. Fils d'une famille florentine en exil, il naquit à Gênes et passa une grande partie de sa vie loin de Florence, tout en gardant un fort lien culturel avec la ville.\n\nIl fut l'un des principaux intellectuels de l'humanisme italien. Dans ses traités, il aborda la peinture, la sculpture, l'architecture et la vie civile. Le De pictura, composé en latin en 1435 et réécrit en langue vulgaire en 1436 sous le titre Della pittura, avec une dédicace à Brunelleschi, contribua à définir les fondements théoriques de la peinture de la Renaissance, notamment par l'étude de la perspective.\n\nEn tant qu'architecte, il conçut des édifices importants, dont le Tempio Malatestiano de Rimini et la façade de Santa Maria Novella à Florence, réalisée entre 1456 et 1470 pour Giovanni Rucellai. On lui attribue aussi le projet du Palazzo Rucellai, construit sous la direction de Bernardo Rossellino. Son œuvre contribua à diffuser un langage architectural fondé sur le retour aux formes classiques, sur la proportion et sur l'harmonie.",
+    "de": "Leon Battista Alberti war Architekt, Humanist, Mathematiker, Schriftsteller und Kunsttheoretiker. Als Sohn einer verbannten Florentiner Familie wurde er in Genua geboren und verbrachte einen großen Teil seines Lebens fern von Florenz, blieb der Stadt aber kulturell eng verbunden.\n\nEr war einer der führenden Intellektuellen des italienischen Humanismus. In seinen Traktaten behandelte er Malerei, Bildhauerei, Architektur und das bürgerliche Leben. Das De pictura, 1435 auf Latein verfasst und 1436 als Della pittura in der Volkssprache neu gefasst und Brunelleschi gewidmet, trug dazu bei, die theoretischen Grundlagen der Malerei der Renaissance zu bestimmen, insbesondere durch das Studium der Perspektive.\n\nAls Architekt entwarf er bedeutende Bauten, darunter den Tempio Malatestiano in Rimini und die Fassade von Santa Maria Novella in Florenz, die zwischen 1456 und 1470 für Giovanni Rucellai ausgeführt wurde. Ihm wird auch der Entwurf des Palazzo Rucellai zugeschrieben, der unter der Leitung von Bernardo Rossellino gebaut wurde. Sein Werk trug zur Verbreitung einer Architektursprache bei, die auf der Wiederbelebung klassischer Formen, auf Proportion und Harmonie beruht.",
+    "es": "Leon Battista Alberti fue arquitecto, humanista, matemático, escritor y teórico del arte. Hijo de una familia florentina en el exilio, nació en Génova y pasó gran parte de su vida lejos de Florencia, aunque mantuvo un fuerte vínculo cultural con la ciudad.\n\nFue uno de los principales intelectuales del Humanismo italiano. En sus tratados abordó la pintura, la escultura, la arquitectura y la vida civil. El De pictura, compuesto en latín en 1435 y reescrito en lengua vulgar en 1436 como Della pittura, con dedicatoria a Brunelleschi, contribuyó a definir los fundamentos teóricos de la pintura renacentista, en particular mediante el estudio de la perspectiva.\n\nComo arquitecto proyectó edificios importantes, entre ellos el Tempio Malatestiano de Rímini y la fachada de Santa Maria Novella en Florencia, ejecutada entre 1456 y 1470 para Giovanni Rucellai. Se le atribuye también el proyecto del Palazzo Rucellai, construido bajo la dirección de Bernardo Rossellino. Su obra contribuyó a difundir un lenguaje arquitectónico basado en la recuperación de las formas clásicas, la proporción y la armonía."
+   },
+   "curiosita": {
+    "it": [
+     "Un uomo dai molteplici interessi: si dedicò alla matematica, alla musica, alla scrittura, all'architettura e all'attività fisica.",
+     "La pittura e la geometria: nel De pictura descrisse la pittura come una disciplina fondata su principi matematici e geometrici.",
+     "Anche in volgare: scrisse opere in volgare, tra cui i Libri della famiglia.",
+     "L'artista intellettuale: fu uno dei primi a considerare l'artista non soltanto un artigiano, ma un intellettuale dotato di una formazione teorica."
+    ],
+    "en": [
+     "A man of many interests: he devoted himself to mathematics, music, writing, architecture and physical activity.",
+     "Painting and geometry: in De pictura he described painting as a discipline founded on mathematical and geometric principles.",
+     "Also in the vernacular: he wrote works in the vernacular, including the Libri della famiglia.",
+     "The intellectual artist: he was one of the first to regard the artist not merely as a craftsman, but as an intellectual with a theoretical education."
+    ],
+    "fr": [
+     "Un homme aux intérêts multiples : il se consacra aux mathématiques, à la musique, à l'écriture, à l'architecture et à l'activité physique.",
+     "La peinture et la géométrie : dans le De pictura, il décrivit la peinture comme une discipline fondée sur des principes mathématiques et géométriques.",
+     "Aussi en langue vulgaire : il écrivit des œuvres en langue vulgaire, dont les Libri della famiglia.",
+     "L'artiste intellectuel : il fut l'un des premiers à considérer l'artiste non seulement comme un artisan, mais comme un intellectuel doté d'une formation théorique."
+    ],
+    "de": [
+     "Ein Mann mit vielen Interessen: Er widmete sich der Mathematik, der Musik, dem Schreiben, der Architektur und der körperlichen Betätigung.",
+     "Malerei und Geometrie: Im De pictura beschrieb er die Malerei als eine Disziplin, die auf mathematischen und geometrischen Prinzipien beruht.",
+     "Auch in der Volkssprache: Er schrieb Werke in der Volkssprache, darunter die Libri della famiglia.",
+     "Der intellektuelle Künstler: Er war einer der Ersten, die den Künstler nicht nur als Handwerker, sondern als Intellektuellen mit theoretischer Bildung betrachteten."
+    ],
+    "es": [
+     "Un hombre de intereses múltiples: se dedicó a las matemáticas, la música, la escritura, la arquitectura y la actividad física.",
+     "La pintura y la geometría: en el De pictura describió la pintura como una disciplina basada en principios matemáticos y geométricos.",
+     "También en lengua vulgar: escribió obras en lengua vulgar, entre ellas los Libri della famiglia.",
+     "El artista intelectual: fue uno de los primeros en considerar al artista no solo un artesano, sino un intelectual con formación teórica."
+    ]
+   },
+   "luoghi": [
+    "basilica-di-santa-maria-novella"
+   ],
+   "luoghiNote": {
+    "basilica-di-santa-maria-novella": {
+     "tipo": {
+      "it": "La facciata",
+      "en": "The façade",
+      "fr": "La façade",
+      "de": "Die Fassade",
+      "es": "La fachada"
+     },
+     "testo": {
+      "it": "Ne progettò la facciata, eseguita tra il 1456 e il 1470 per Giovanni Rucellai.",
+      "en": "He designed its façade, built between 1456 and 1470 for Giovanni Rucellai.",
+      "fr": "Il en conçut la façade, réalisée entre 1456 et 1470 pour Giovanni Rucellai.",
+      "de": "Er entwarf ihre Fassade, die zwischen 1456 und 1470 für Giovanni Rucellai ausgeführt wurde.",
+      "es": "Proyectó su fachada, ejecutada entre 1456 y 1470 para Giovanni Rucellai."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "filippo-brunelleschi",
+     "testo": {
+      "it": "Alberti dedicò a Brunelleschi la versione in volgare del trattato sulla pittura (Della pittura, 1436) e ne riconobbe il valore innovativo, a partire dalla cupola di Santa Maria del Fiore. Il rapporto è soprattutto intellettuale e artistico, non una collaborazione continuativa.",
+      "en": "Alberti dedicated to Brunelleschi the vernacular version of his treatise on painting (Della pittura, 1436) and recognised his innovative value, starting with the dome of Santa Maria del Fiore. The relationship is mainly intellectual and artistic, not an ongoing collaboration.",
+      "fr": "Alberti dédia à Brunelleschi la version en langue vulgaire de son traité sur la peinture (Della pittura, 1436) et reconnut sa valeur novatrice, à commencer par la coupole de Santa Maria del Fiore. Le rapport est surtout intellectuel et artistique, non une collaboration continue.",
+      "de": "Alberti widmete Brunelleschi die volkssprachliche Fassung seines Traktats über die Malerei (Della pittura, 1436) und erkannte dessen innovativen Wert an, angefangen bei der Kuppel von Santa Maria del Fiore. Die Beziehung ist vor allem intellektuell und künstlerisch, keine dauerhafte Zusammenarbeit.",
+      "es": "Alberti dedicó a Brunelleschi la versión en lengua vulgar de su tratado sobre la pintura (Della pittura, 1436) y reconoció su valor innovador, empezando por la cúpula de Santa Maria del Fiore. La relación es sobre todo intelectual y artística, no una colaboración continuada."
+     }
+    },
+    {
+     "id": "donatello",
+     "testo": {
+      "it": "Nella lettera a Brunelleschi che apre Della pittura (1436), Alberti elogia, tra gli altri, Donatello come protagonista del rinnovamento delle arti a Firenze.",
+      "en": "In the letter to Brunelleschi that opens Della pittura (1436), Alberti praises, among others, Donatello as a protagonist of the renewal of the arts in Florence.",
+      "fr": "Dans la lettre à Brunelleschi qui ouvre Della pittura (1436), Alberti loue, entre autres, Donatello comme protagoniste du renouveau des arts à Florence.",
+      "de": "Im Brief an Brunelleschi, der Della pittura (1436) eröffnet, lobt Alberti unter anderem Donatello als Protagonisten der Erneuerung der Künste in Florenz.",
+      "es": "En la carta a Brunelleschi que abre Della pittura (1436), Alberti elogia, entre otros, a Donatello como protagonista de la renovación de las artes en Florencia."
+     }
+    },
+    {
+     "id": "masaccio",
+     "testo": {
+      "it": "Nella lettera a Brunelleschi che apre Della pittura (1436), Alberti elogia, tra gli altri, Masaccio come protagonista del rinnovamento delle arti a Firenze.",
+      "en": "In the letter to Brunelleschi that opens Della pittura (1436), Alberti praises, among others, Masaccio as a protagonist of the renewal of the arts in Florence.",
+      "fr": "Dans la lettre à Brunelleschi qui ouvre Della pittura (1436), Alberti loue, entre autres, Masaccio comme protagoniste du renouveau des arts à Florence.",
+      "de": "Im Brief an Brunelleschi, der Della pittura (1436) eröffnet, lobt Alberti unter anderem Masaccio als Protagonisten der Erneuerung der Künste in Florenz.",
+      "es": "En la carta a Brunelleschi que abre Della pittura (1436), Alberti elogia, entre otros, a Masaccio como protagonista de la renovación de las artes en Florencia."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Scuola fiorentina, ritratto di Leon Battista Alberti (tardo, non dal vero)",
     "licenza": "Pubblico dominio"
    }
   }
