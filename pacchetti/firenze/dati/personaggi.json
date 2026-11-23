@@ -1930,6 +1930,26 @@
       "de": "Cosimo war sein Großvater und der Begründer der politischen Macht der Familie, die Lorenzo erben und festigen sollte. Das Verhältnis ist familiär, dynastisch und politisch.",
       "es": "Cosme fue su abuelo y el fundador del poder político familiar que Lorenzo heredaría y consolidaría. La relación es familiar, dinástica y política."
      }
+    },
+    {
+     "id": "filippo-brunelleschi",
+     "testo": {
+      "it": "Cosimo sostenne importanti progetti architettonici legati alla famiglia, tra cui la Sagrestia Vecchia di San Lorenzo, iniziata su commissione di Giovanni di Bicci. Il rapporto tra Brunelleschi e i Medici si sviluppò attraverso il patronato familiare.",
+      "en": "Cosimo backed important architectural projects tied to the family, including the Old Sacristy of San Lorenzo, begun on the commission of Giovanni di Bicci. The relationship between Brunelleschi and the Medici grew through family patronage.",
+      "fr": "Cosme soutint d'importants projets architecturaux liés à la famille, dont la Sacristie Vieille de San Lorenzo, commencée sur commande de Giovanni di Bicci. Le rapport entre Brunelleschi et les Médicis se développa par le mécénat familial.",
+      "de": "Cosimo förderte bedeutende Bauprojekte der Familie, darunter die Alte Sakristei von San Lorenzo, die im Auftrag von Giovanni di Bicci begonnen wurde. Das Verhältnis zwischen Brunelleschi und den Medici entwickelte sich über das Mäzenatentum der Familie.",
+      "es": "Cosme apoyó importantes proyectos arquitectónicos ligados a la familia, entre ellos la Sacristía Vieja de San Lorenzo, iniciada por encargo de Giovanni di Bicci. La relación entre Brunelleschi y los Médici se desarrolló a través del mecenazgo familiar."
+     }
+    },
+    {
+     "id": "donatello",
+     "testo": {
+      "it": "Fu uno degli artisti maggiormente sostenuti da Cosimo. Lavorò per la famiglia, realizzando opere per San Lorenzo e, probabilmente, il David in bronzo, e fu sepolto vicino a lui in San Lorenzo.",
+      "en": "He was one of the artists Cosimo supported most. He worked for the family, making works for San Lorenzo and, probably, the bronze David, and was buried near him in San Lorenzo.",
+      "fr": "Il fut l'un des artistes les plus soutenus par Cosme. Il travailla pour la famille, réalisant des œuvres pour San Lorenzo et, probablement, le David en bronze, et fut enterré près de lui à San Lorenzo.",
+      "de": "Er gehörte zu den von Cosimo am stärksten geförderten Künstlern. Er arbeitete für die Familie, schuf Werke für San Lorenzo und wahrscheinlich den bronzenen David und wurde nahe bei ihm in San Lorenzo beigesetzt.",
+      "es": "Fue uno de los artistas más apoyados por Cosme. Trabajó para la familia, realizando obras para San Lorenzo y, probablemente, el David de bronce, y fue sepultado cerca de él en San Lorenzo."
+     }
     }
    ],
    "ritratto": {
@@ -2103,6 +2123,328 @@
    "ritratto": {
     "autore": "Bronzino",
     "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "filippo-brunelleschi",
+   "nome": "Filippo Brunelleschi",
+   "nascita": 1377,
+   "morte": 1446,
+   "professione": {
+    "it": "Architetto, ingegnere e scultore",
+    "en": "Architect, engineer and sculptor",
+    "fr": "Architecte, ingénieur et sculpteur",
+    "de": "Architekt, Ingenieur und Bildhauer",
+    "es": "Arquitecto, ingeniero y escultor"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "1377",
+    "en": "1377",
+    "fr": "1377",
+    "de": "1377",
+    "es": "1377"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "15 aprile 1446",
+    "en": "15 April 1446",
+    "fr": "15 avril 1446",
+    "de": "15. April 1446",
+    "es": "15 de abril de 1446"
+   },
+   "biografia": {
+    "it": "Filippo Brunelleschi fu architetto, ingegnere e scultore, considerato uno dei principali iniziatori del Rinascimento. Dopo una prima formazione come orafo, si dedicò all'architettura e allo studio delle proporzioni, della geometria e delle tecniche costruttive dell'antichità classica.\n\nLa sua opera più celebre è la cupola della cattedrale di Santa Maria del Fiore, costruita senza ricorrere a una tradizionale armatura lignea completa. Il progetto, avviato nel 1420, rappresentò una straordinaria innovazione tecnica e rese Brunelleschi uno degli architetti più ammirati del suo tempo.\n\nA lui si devono anche importanti edifici fiorentini, come lo Spedale degli Innocenti, la Sagrestia Vecchia di San Lorenzo e la basilica di Santo Spirito, completata dopo la sua morte.\n\nIl suo contributo non fu soltanto architettonico: gli sono tradizionalmente attribuiti esperimenti fondamentali sulla prospettiva lineare, che influenzarono profondamente la pittura rinascimentale.",
+    "en": "Filippo Brunelleschi was an architect, engineer and sculptor, regarded as one of the main initiators of the Renaissance. After early training as a goldsmith, he turned to architecture and to the study of proportion, geometry and the building techniques of classical antiquity.\n\nHis most famous work is the dome of the cathedral of Santa Maria del Fiore, built without a traditional, complete wooden framework. The project, begun in 1420, was an extraordinary technical innovation and made Brunelleschi one of the most admired architects of his time.\n\nHe also designed important Florentine buildings, such as the Spedale degli Innocenti, the Old Sacristy of San Lorenzo and the basilica of Santo Spirito, completed after his death.\n\nHis contribution was not only architectural: he is traditionally credited with fundamental experiments in linear perspective, which deeply influenced Renaissance painting.",
+    "fr": "Filippo Brunelleschi fut architecte, ingénieur et sculpteur, considéré comme l'un des principaux initiateurs de la Renaissance. Après une première formation d'orfèvre, il se consacra à l'architecture et à l'étude des proportions, de la géométrie et des techniques de construction de l'Antiquité classique.\n\nSon œuvre la plus célèbre est la coupole de la cathédrale Santa Maria del Fiore, construite sans recourir à une armature en bois complète, comme c'était l'usage. Le projet, lancé en 1420, constitua une extraordinaire innovation technique et fit de Brunelleschi l'un des architectes les plus admirés de son temps.\n\nOn lui doit aussi d'importants édifices florentins, comme le Spedale degli Innocenti, la Sacristie Vieille de San Lorenzo et la basilique Santo Spirito, achevée après sa mort.\n\nSa contribution ne fut pas seulement architecturale : on lui attribue traditionnellement des expériences fondamentales sur la perspective linéaire, qui influencèrent profondément la peinture de la Renaissance.",
+    "de": "Filippo Brunelleschi war Architekt, Ingenieur und Bildhauer und gilt als einer der wichtigsten Wegbereiter der Renaissance. Nach einer ersten Ausbildung als Goldschmied widmete er sich der Architektur und dem Studium von Proportionen, Geometrie und den Bautechniken der klassischen Antike.\n\nSein berühmtestes Werk ist die Kuppel des Doms Santa Maria del Fiore, die ohne ein herkömmliches, vollständiges Holzgerüst errichtet wurde. Das 1420 begonnene Projekt war eine außergewöhnliche technische Neuerung und machte Brunelleschi zu einem der meistbewunderten Architekten seiner Zeit.\n\nIhm verdankt Florenz auch bedeutende Bauten wie das Spedale degli Innocenti, die Alte Sakristei von San Lorenzo und die Basilika Santo Spirito, die nach seinem Tod vollendet wurde.\n\nSein Beitrag war nicht nur architektonisch: Ihm werden traditionell grundlegende Experimente zur Linearperspektive zugeschrieben, die die Malerei der Renaissance tief beeinflussten.",
+    "es": "Filippo Brunelleschi fue arquitecto, ingeniero y escultor, considerado uno de los principales iniciadores del Renacimiento. Tras una primera formación como orfebre, se dedicó a la arquitectura y al estudio de las proporciones, la geometría y las técnicas constructivas de la antigüedad clásica.\n\nSu obra más célebre es la cúpula de la catedral de Santa Maria del Fiore, construida sin recurrir a una tradicional armadura de madera completa. El proyecto, iniciado en 1420, supuso una extraordinaria innovación técnica y convirtió a Brunelleschi en uno de los arquitectos más admirados de su tiempo.\n\nTambién se le deben importantes edificios florentinos, como el Spedale degli Innocenti, la Sacristía Vieja de San Lorenzo y la basílica de Santo Spirito, terminada después de su muerte.\n\nSu aportación no fue solo arquitectónica: tradicionalmente se le atribuyen experimentos fundamentales sobre la perspectiva lineal, que influyeron profundamente en la pintura renacentista."
+   },
+   "curiosita": {
+    "it": [
+     "Il concorso del 1401: partecipò alla gara per la seconda porta del Battistero e la perse contro Lorenzo Ghiberti.",
+     "Un viaggio a Roma: secondo una tradizione, durante il viaggio a Roma studiò insieme a Donatello i monumenti antichi.",
+     "Due calotte: la cupola di Santa Maria del Fiore è composta da due calotte sovrapposte.",
+     "Sepolto in Duomo: fu sepolto nella cattedrale, un onore riservato a pochissimi. Il corpo fu prima collocato in un loculo del Campanile, poi spostato in cattedrale il 30 dicembre 1446; la tomba, dimenticata per secoli, fu ritrovata nel 1972 durante gli scavi sotto il Duomo."
+    ],
+    "en": [
+     "The competition of 1401: he entered the contest for the second door of the Baptistery and lost it to Lorenzo Ghiberti.",
+     "A trip to Rome: according to tradition, on his journey to Rome he studied the ancient monuments together with Donatello.",
+     "Two shells: the dome of Santa Maria del Fiore is made of two superimposed shells.",
+     "Buried in the Duomo: he was buried in the cathedral, an honour granted to very few. His body was first placed in a niche in the Campanile, then moved into the cathedral on 30 December 1446; the tomb, forgotten for centuries, was found in 1972 during excavations beneath the Duomo."
+    ],
+    "fr": [
+     "Le concours de 1401 : il participa au concours pour la deuxième porte du Baptistère et le perdit face à Lorenzo Ghiberti.",
+     "Un voyage à Rome : selon une tradition, lors de son voyage à Rome, il étudia les monuments antiques avec Donatello.",
+     "Deux coques : la coupole de Santa Maria del Fiore se compose de deux coques superposées.",
+     "Enterré dans le Duomo : il fut enterré dans la cathédrale, un honneur réservé à très peu de personnes. Son corps fut d'abord placé dans un loculus du Campanile, puis transféré dans la cathédrale le 30 décembre 1446 ; la tombe, oubliée pendant des siècles, fut retrouvée en 1972 lors des fouilles sous le Duomo."
+    ],
+    "de": [
+     "Der Wettbewerb von 1401: Er nahm am Wettbewerb für die zweite Tür des Baptisteriums teil und unterlag Lorenzo Ghiberti.",
+     "Eine Reise nach Rom: Der Überlieferung nach studierte er auf der Reise nach Rom gemeinsam mit Donatello die antiken Monumente.",
+     "Zwei Schalen: Die Kuppel von Santa Maria del Fiore besteht aus zwei übereinanderliegenden Schalen.",
+     "Im Dom beigesetzt: Er wurde im Dom beigesetzt, eine Ehre, die nur sehr wenigen zuteilwurde. Sein Leichnam wurde zunächst in einer Nische des Campanile untergebracht und am 30. Dezember 1446 in den Dom überführt; das Grab, jahrhundertelang vergessen, wurde 1972 bei den Grabungen unter dem Dom wiederentdeckt."
+    ],
+    "es": [
+     "El concurso de 1401: participó en el concurso para la segunda puerta del Baptisterio y lo perdió frente a Lorenzo Ghiberti.",
+     "Un viaje a Roma: según una tradición, durante el viaje a Roma estudió junto con Donatello los monumentos antiguos.",
+     "Dos cascarones: la cúpula de Santa Maria del Fiore se compone de dos cascarones superpuestos.",
+     "Sepultado en el Duomo: fue sepultado en la catedral, un honor reservado a poquísimas personas. Su cuerpo se colocó primero en un nicho del Campanile y el 30 de diciembre de 1446 se trasladó a la catedral; la tumba, olvidada durante siglos, fue hallada en 1972 durante las excavaciones bajo el Duomo."
+    ]
+   },
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore",
+    "basilica-di-san-lorenzo",
+    "basilica-di-santa-croce"
+   ],
+   "luoghiNote": {
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "La Cupola e la tomba",
+      "en": "The Dome and the tomb",
+      "fr": "La Coupole et la tombe",
+      "de": "Die Kuppel und das Grab",
+      "es": "La Cúpula y la tumba"
+     },
+     "testo": {
+      "it": "Qui realizzò la Cupola, dal 1420, e progettò la Lanterna. La sua tomba, ritrovata nel 1972, si trova negli scavi di Santa Reparata sotto il Duomo.",
+      "en": "Here he built the Dome, from 1420, and designed the Lantern. His tomb, found in 1972, lies in the excavations of Santa Reparata beneath the Duomo.",
+      "fr": "Ici, il réalisa la Coupole, à partir de 1420, et conçut la Lanterne. Sa tombe, retrouvée en 1972, se trouve dans les fouilles de Santa Reparata sous le Duomo.",
+      "de": "Hier errichtete er ab 1420 die Kuppel und entwarf die Laterne. Sein 1972 wiederentdecktes Grab liegt in den Grabungen von Santa Reparata unter dem Dom.",
+      "es": "Aquí construyó la Cúpula, a partir de 1420, y proyectó la Linterna. Su tumba, hallada en 1972, se encuentra en las excavaciones de Santa Reparata bajo el Duomo."
+     }
+    },
+    "basilica-di-san-lorenzo": {
+     "tipo": {
+      "it": "Basilica e Sagrestia Vecchia",
+      "en": "Basilica and Old Sacristy",
+      "fr": "Basilique et Sacristie Vieille",
+      "de": "Basilika und Alte Sakristei",
+      "es": "Basílica y Sacristía Vieja"
+     },
+     "testo": {
+      "it": "Progettò la Sagrestia Vecchia e il rinnovamento della basilica, sostenuti dalla famiglia Medici.",
+      "en": "He designed the Old Sacristy and the renewal of the basilica, backed by the Medici family.",
+      "fr": "Il conçut la Sacristie Vieille et la rénovation de la basilique, soutenues par la famille Médicis.",
+      "de": "Er entwarf die Alte Sakristei und die Erneuerung der Basilika, die von der Familie Medici gefördert wurden.",
+      "es": "Proyectó la Sacristía Vieja y la renovación de la basílica, apoyadas por la familia Médici."
+     }
+    },
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "La Cappella Pazzi",
+      "en": "The Pazzi Chapel",
+      "fr": "La Chapelle des Pazzi",
+      "de": "Die Pazzi-Kapelle",
+      "es": "La Capilla Pazzi"
+     },
+     "testo": {
+      "it": "Nel complesso di Santa Croce si trova la Cappella Pazzi, attribuita a Brunelleschi.",
+      "en": "The Santa Croce complex holds the Pazzi Chapel, attributed to Brunelleschi.",
+      "fr": "Le complexe de Santa Croce abrite la Chapelle des Pazzi, attribuée à Brunelleschi.",
+      "de": "Im Komplex von Santa Croce befindet sich die Pazzi-Kapelle, die Brunelleschi zugeschrieben wird.",
+      "es": "El complejo de Santa Croce alberga la Capilla Pazzi, atribuida a Brunelleschi."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "donatello",
+     "testo": {
+      "it": "I due artisti furono protagonisti della prima stagione del Rinascimento fiorentino. Le fonti biografiche raccontano di un'amicizia e di un viaggio comune a Roma per studiare l'arte antica; alcuni dettagli di questa tradizione non sono verificabili con certezza.",
+      "en": "The two artists were protagonists of the first season of the Florentine Renaissance. Biographical sources tell of a friendship and a shared trip to Rome to study ancient art; some details of this tradition cannot be verified with certainty.",
+      "fr": "Les deux artistes furent des protagonistes de la première saison de la Renaissance florentine. Les sources biographiques parlent d'une amitié et d'un voyage commun à Rome pour étudier l'art antique ; certains détails de cette tradition ne sont pas vérifiables avec certitude.",
+      "de": "Die beiden Künstler waren Hauptfiguren der ersten Phase der Florentiner Renaissance. Die biografischen Quellen erzählen von einer Freundschaft und einer gemeinsamen Reise nach Rom, um die antike Kunst zu studieren; einige Einzelheiten dieser Überlieferung lassen sich nicht sicher belegen.",
+      "es": "Los dos artistas fueron protagonistas de la primera etapa del Renacimiento florentino. Las fuentes biográficas hablan de una amistad y de un viaje común a Roma para estudiar el arte antiguo; algunos detalles de esta tradición no son verificables con certeza."
+     }
+    },
+    {
+     "id": "cosimo-il-vecchio",
+     "testo": {
+      "it": "La famiglia Medici sostenne importanti opere architettoniche di Brunelleschi, tra cui la Sagrestia Vecchia di San Lorenzo, commissionata inizialmente da Giovanni di Bicci.",
+      "en": "The Medici family backed important architectural works by Brunelleschi, including the Old Sacristy of San Lorenzo, originally commissioned by Giovanni di Bicci.",
+      "fr": "La famille Médicis soutint d'importantes œuvres architecturales de Brunelleschi, dont la Sacristie Vieille de San Lorenzo, commandée à l'origine par Giovanni di Bicci.",
+      "de": "Die Familie Medici förderte bedeutende Bauwerke Brunelleschis, darunter die Alte Sakristei von San Lorenzo, die ursprünglich von Giovanni di Bicci in Auftrag gegeben wurde.",
+      "es": "La familia Médici apoyó importantes obras arquitectónicas de Brunelleschi, entre ellas la Sacristía Vieja de San Lorenzo, encargada inicialmente por Giovanni di Bicci."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Nicolas de Larmessin ed Esme de Boulonois, incisione",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "donatello",
+   "nome": "Donatello",
+   "nascita": 1386,
+   "morte": 1466,
+   "professione": {
+    "it": "Scultore",
+    "en": "Sculptor",
+    "fr": "Sculpteur",
+    "de": "Bildhauer",
+    "es": "Escultor"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "Circa 1386",
+    "en": "Around 1386",
+    "fr": "Vers 1386",
+    "de": "Um 1386",
+    "es": "Hacia 1386"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "13 dicembre 1466",
+    "en": "13 December 1466",
+    "fr": "13 décembre 1466",
+    "de": "13. Dezember 1466",
+    "es": "13 de diciembre de 1466"
+   },
+   "biografia": {
+    "it": "Donato di Niccolò di Betto Bardi, conosciuto come Donatello, fu uno dei più importanti scultori del primo Rinascimento. Lavorò con materiali diversi, tra cui marmo, bronzo, legno e terracotta, sviluppando un linguaggio innovativo che recuperava la monumentalità e il naturalismo della scultura antica.\n\nLa sua produzione comprende statue a tutto tondo, rilievi e opere destinate agli edifici religiosi e civili. Tra i suoi lavori più celebri a Firenze figurano il San Giorgio per Orsanmichele, il profeta Abacuc, noto come Zuccone, per il campanile del Duomo e il David in bronzo, oggi al Museo Nazionale del Bargello.\n\nDonatello contribuì a rinnovare profondamente il rapporto tra figura umana, spazio e movimento. La sua ricerca influenzò generazioni di artisti e fu fondamentale per la nascita della scultura rinascimentale.",
+    "en": "Donato di Niccolò di Betto Bardi, known as Donatello, was one of the most important sculptors of the early Renaissance. He worked in different materials, including marble, bronze, wood and terracotta, developing an innovative language that revived the monumentality and naturalism of ancient sculpture.\n\nHis output includes freestanding statues, reliefs and works for religious and civic buildings. Among his most famous works in Florence are the St George for Orsanmichele, the prophet Habakkuk, known as the Zuccone, for the Duomo's bell tower, and the bronze David, now in the Museo Nazionale del Bargello.\n\nDonatello profoundly renewed the relationship between the human figure, space and movement. His research influenced generations of artists and was fundamental to the birth of Renaissance sculpture.",
+    "fr": "Donato di Niccolò di Betto Bardi, connu sous le nom de Donatello, fut l'un des plus importants sculpteurs de la première Renaissance. Il travailla des matériaux variés, dont le marbre, le bronze, le bois et la terre cuite, développant un langage novateur qui retrouvait la monumentalité et le naturalisme de la sculpture antique.\n\nSa production comprend des statues en ronde-bosse, des reliefs et des œuvres destinées aux édifices religieux et civils. Parmi ses travaux les plus célèbres à Florence figurent le Saint Georges pour Orsanmichele, le prophète Habacuc, dit le Zuccone, pour le campanile du Duomo et le David en bronze, aujourd'hui au Museo Nazionale del Bargello.\n\nDonatello renouvela profondément le rapport entre la figure humaine, l'espace et le mouvement. Ses recherches influencèrent des générations d'artistes et furent fondamentales pour la naissance de la sculpture de la Renaissance.",
+    "de": "Donato di Niccolò di Betto Bardi, bekannt als Donatello, war einer der bedeutendsten Bildhauer der Frührenaissance. Er arbeitete mit verschiedenen Materialien, darunter Marmor, Bronze, Holz und Terrakotta, und entwickelte eine neuartige Formensprache, die die Monumentalität und den Naturalismus der antiken Skulptur wiederbelebte.\n\nSein Werk umfasst Vollplastiken, Reliefs und Arbeiten für Kirchen und öffentliche Bauten. Zu seinen berühmtesten Werken in Florenz zählen der Heilige Georg für Orsanmichele, der Prophet Habakuk, genannt Zuccone, für den Glockenturm des Doms und der bronzene David, heute im Museo Nazionale del Bargello.\n\nDonatello erneuerte das Verhältnis von menschlicher Figur, Raum und Bewegung grundlegend. Seine Forschungen beeinflussten Generationen von Künstlern und waren grundlegend für die Entstehung der Renaissanceskulptur.",
+    "es": "Donato di Niccolò di Betto Bardi, conocido como Donatello, fue uno de los escultores más importantes del primer Renacimiento. Trabajó con materiales diversos, entre ellos mármol, bronce, madera y terracota, desarrollando un lenguaje innovador que recuperaba la monumentalidad y el naturalismo de la escultura antigua.\n\nSu producción comprende estatuas exentas, relieves y obras destinadas a edificios religiosos y civiles. Entre sus trabajos más célebres en Florencia figuran el San Jorge para Orsanmichele, el profeta Habacuc, llamado Zuccone, para el campanario del Duomo y el David de bronce, hoy en el Museo Nazionale del Bargello.\n\nDonatello renovó profundamente la relación entre la figura humana, el espacio y el movimiento. Su investigación influyó en generaciones de artistas y fue fundamental para el nacimiento de la escultura renacentista."
+   },
+   "curiosita": {
+    "it": [
+     "Il David in bronzo: è spesso considerato una delle prime statue nude a tutto tondo di grandi dimensioni realizzate dopo l'antichità. Fu probabilmente commissionato da Cosimo de' Medici per il cortile di Palazzo Medici.",
+     "Lo «Zuccone»: il soprannome deriva dall'aspetto della statua del profeta Abacuc.",
+     "Anche a Padova: lavorò a lungo a Padova, dove realizzò il monumentale altare della basilica di Sant'Antonio e il monumento equestre al Gattamelata.",
+     "Accanto a Cosimo: morì nel 1466 e fu sepolto nella basilica di San Lorenzo, vicino alla tomba di Cosimo il Vecchio; secondo Vasari era stato lui stesso a chiederlo."
+    ],
+    "en": [
+     "The bronze David: it is often considered one of the first large freestanding nude statues made since antiquity. It was probably commissioned by Cosimo de' Medici for the courtyard of Palazzo Medici.",
+     "The «Zuccone»: the nickname comes from the look of the statue of the prophet Habakkuk.",
+     "Also in Padua: he worked for a long time in Padua, where he made the monumental altar of the basilica of Sant'Antonio and the equestrian monument to Gattamelata.",
+     "Beside Cosimo: he died in 1466 and was buried in the basilica of San Lorenzo, near the tomb of Cosimo the Elder; according to Vasari, he himself had asked for this."
+    ],
+    "fr": [
+     "Le David en bronze : il est souvent considéré comme l'une des premières grandes statues nues en ronde-bosse réalisées depuis l'Antiquité. Il fut probablement commandé par Cosme de Médicis pour la cour du Palazzo Medici.",
+     "Le « Zuccone » : le surnom vient de l'aspect de la statue du prophète Habacuc.",
+     "Aussi à Padoue : il travailla longtemps à Padoue, où il réalisa le monumental autel de la basilique Sant'Antonio et le monument équestre du Gattamelata.",
+     "Près de Cosme : il mourut en 1466 et fut enterré dans la basilique de San Lorenzo, près de la tombe de Cosme l'Ancien ; selon Vasari, il l'avait lui-même demandé."
+    ],
+    "de": [
+     "Der bronzene David: Er gilt oft als eine der ersten großen freistehenden Aktstatuen seit der Antike. Er wurde wahrscheinlich von Cosimo de' Medici für den Hof des Palazzo Medici in Auftrag gegeben.",
+     "Der «Zuccone»: Der Spitzname stammt vom Aussehen der Statue des Propheten Habakuk.",
+     "Auch in Padua: Er arbeitete lange in Padua, wo er den monumentalen Altar der Basilika Sant'Antonio und das Reiterdenkmal des Gattamelata schuf.",
+     "Neben Cosimo: Er starb 1466 und wurde in der Basilika San Lorenzo nahe dem Grab Cosimos des Älteren beigesetzt; nach Vasari hatte er selbst darum gebeten."
+    ],
+    "es": [
+     "El David de bronce: se considera a menudo una de las primeras grandes estatuas desnudas exentas realizadas desde la antigüedad. Fue probablemente encargado por Cosme de Médici para el patio del Palazzo Medici.",
+     "El «Zuccone»: el apodo deriva del aspecto de la estatua del profeta Habacuc.",
+     "También en Padua: trabajó durante mucho tiempo en Padua, donde realizó el monumental altar de la basílica de Sant'Antonio y el monumento ecuestre al Gattamelata.",
+     "Junto a Cosme: murió en 1466 y fue sepultado en la basílica de San Lorenzo, cerca de la tumba de Cosme el Viejo; según Vasari, él mismo lo había pedido."
+    ]
+   },
+   "luoghi": [
+    "chiesa-e-museo-di-orsanmichele",
+    "campanile-di-giotto",
+    "basilica-di-san-lorenzo"
+   ],
+   "luoghiNote": {
+    "chiesa-e-museo-di-orsanmichele": {
+     "tipo": {
+      "it": "San Giorgio e San Marco",
+      "en": "St George and St Mark",
+      "fr": "Saint Georges et Saint Marc",
+      "de": "Heiliger Georg und Heiliger Markus",
+      "es": "San Jorge y San Marcos"
+     },
+     "testo": {
+      "it": "Realizzò per le nicchie del palazzo il San Giorgio e il San Marco. Oggi nelle nicchie ci sono copie: l'originale del San Marco è nel museo interno, quello del San Giorgio al Bargello.",
+      "en": "He made the St George and the St Mark for the building's niches. Copies now stand in the niches: the original St Mark is in the museum inside, the St George is in the Bargello.",
+      "fr": "Il réalisa le Saint Georges et le Saint Marc pour les niches de l'édifice. Aujourd'hui, les niches abritent des copies : l'original du Saint Marc se trouve dans le musée intérieur, celui du Saint Georges au Bargello.",
+      "de": "Er schuf den Heiligen Georg und den Heiligen Markus für die Nischen des Gebäudes. Heute stehen dort Kopien: Das Original des Markus ist im Museum im Inneren, das des Georg im Bargello.",
+      "es": "Realizó el San Jorge y el San Marcos para las hornacinas del edificio. Hoy en ellas hay copias: el original de San Marcos está en el museo interior, el de San Jorge en el Bargello."
+     }
+    },
+    "campanile-di-giotto": {
+     "tipo": {
+      "it": "Le statue dei profeti",
+      "en": "The prophet statues",
+      "fr": "Les statues de prophètes",
+      "de": "Die Prophetenstatuen",
+      "es": "Las estatuas de profetas"
+     },
+     "testo": {
+      "it": "Per il campanile scolpì statue di profeti, tra cui l'Abacuc detto Zuccone. Gli originali sono oggi al Museo dell'Opera del Duomo.",
+      "en": "For the bell tower he sculpted statues of prophets, including the Habakkuk known as the Zuccone. The originals are now in the Museo dell'Opera del Duomo.",
+      "fr": "Pour le campanile, il sculpta des statues de prophètes, dont l'Habacuc dit le Zuccone. Les originaux se trouvent aujourd'hui au Museo dell'Opera del Duomo.",
+      "de": "Für den Glockenturm schuf er Prophetenstatuen, darunter den Habakuk, genannt Zuccone. Die Originale befinden sich heute im Museo dell'Opera del Duomo.",
+      "es": "Para el campanario esculpió estatuas de profetas, entre ellas el Habacuc llamado Zuccone. Los originales están hoy en el Museo dell'Opera del Duomo."
+     }
+    },
+    "basilica-di-san-lorenzo": {
+     "tipo": {
+      "it": "Le opere e la sepoltura",
+      "en": "Works and burial",
+      "fr": "Les œuvres et la sépulture",
+      "de": "Werke und Grablege",
+      "es": "Las obras y la sepultura"
+     },
+     "testo": {
+      "it": "Per la basilica realizzò le porte di bronzo e i tondi della Sagrestia Vecchia e, negli ultimi anni, i pulpiti. Vi è sepolto, vicino a Cosimo.",
+      "en": "For the basilica he made the bronze doors and roundels of the Old Sacristy and, in his last years, the pulpits. He is buried here, near Cosimo.",
+      "fr": "Pour la basilique, il réalisa les portes de bronze et les médaillons de la Sacristie Vieille et, dans ses dernières années, les chaires. Il y est enterré, près de Cosme.",
+      "de": "Für die Basilika schuf er die Bronzetüren und Rundreliefs der Alten Sakristei und in seinen letzten Jahren die Kanzeln. Er ist hier nahe bei Cosimo beigesetzt.",
+      "es": "Para la basílica realizó las puertas de bronce y los tondos de la Sacristía Vieja y, en sus últimos años, los púlpitos. Está sepultado aquí, cerca de Cosme."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "filippo-brunelleschi",
+     "testo": {
+      "it": "Fu suo contemporaneo e collaboratore nel rinnovamento delle arti. La tradizione biografica racconta una profonda amicizia e un viaggio comune a Roma.",
+      "en": "He was his contemporary and collaborator in the renewal of the arts. Biographical tradition tells of a deep friendship and a shared trip to Rome.",
+      "fr": "Il fut son contemporain et collaborateur dans le renouveau des arts. La tradition biographique évoque une profonde amitié et un voyage commun à Rome.",
+      "de": "Er war sein Zeitgenosse und Mitstreiter bei der Erneuerung der Künste. Die biografische Überlieferung erzählt von einer tiefen Freundschaft und einer gemeinsamen Reise nach Rom.",
+      "es": "Fue su contemporáneo y colaborador en la renovación de las artes. La tradición biográfica habla de una profunda amistad y de un viaje común a Roma."
+     }
+    },
+    {
+     "id": "cosimo-il-vecchio",
+     "testo": {
+      "it": "Donatello fu sostenuto dalla famiglia Medici e realizzò opere importanti per i suoi membri, tra cui interventi per San Lorenzo e, probabilmente, il David in bronzo. Fu sepolto in San Lorenzo, vicino a Cosimo.",
+      "en": "Donatello was supported by the Medici family and made important works for its members, including pieces for San Lorenzo and, probably, the bronze David. He was buried in San Lorenzo, near Cosimo.",
+      "fr": "Donatello fut soutenu par la famille Médicis et réalisa des œuvres importantes pour ses membres, dont des travaux pour San Lorenzo et, probablement, le David en bronze. Il fut enterré à San Lorenzo, près de Cosme.",
+      "de": "Donatello wurde von der Familie Medici gefördert und schuf wichtige Werke für deren Mitglieder, darunter Arbeiten für San Lorenzo und wahrscheinlich den bronzenen David. Er wurde in San Lorenzo nahe bei Cosimo beigesetzt.",
+      "es": "Donatello fue apoyado por la familia Médici y realizó obras importantes para sus miembros, entre ellas intervenciones en San Lorenzo y, probablemente, el David de bronce. Fue sepultado en San Lorenzo, cerca de Cosme."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Foto: Sailko",
+    "licenza": "CC BY 2.5"
    }
   }
  ]

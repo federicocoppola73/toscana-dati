@@ -1,5 +1,5 @@
 {
- "versione": "f6afe18b4a95",
+ "versione": "1ecdd6c34526",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3128,10 +3128,22 @@
    "byte": 45178
   },
   {
+   "path": "assets/personaggi/donatello.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/donatello.webp",
+   "sha256": "c840c871611f261625f6eef4d2f8ef0b388ee4ebb91aac7bea27dc068130846a",
+   "byte": 101038
+  },
+  {
    "path": "assets/personaggi/farinata-degli-uberti.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/farinata-degli-uberti.webp",
    "sha256": "0abaa9d7d87cee7dd5f401ee75b207d38a6ed10f1debb2f5f58465a00cb5cd28",
    "byte": 72962
+  },
+  {
+   "path": "assets/personaggi/filippo-brunelleschi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/filippo-brunelleschi.webp",
+   "sha256": "9841da5ed2a4ca1bafcc7c56a607a5b955693124f7db31c3c04a097cc895cece",
+   "byte": 136746
   },
   {
    "path": "assets/personaggi/flavio-stilicone.webp",
@@ -3268,8 +3280,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "ddcf1da54a872e03ecf4cfb329e7503281a343ce953c32e4012de76e11fd2ae0",
-   "byte": 226558
+   "sha256": "be6960fe2ac575aa58365781947f7af98b4fd97cb39886bc0b8632df4544af01",
+   "byte": 258450
   },
   {
    "path": "dati/principali.json",
@@ -3292,8 +3304,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "f715f023be8120d48ca400f912b2fb7185dbd6ce68b8f78aa23b1781c0ccdfae",
-   "byte": 26592
+   "sha256": "a24a37fd08f64fd1ca35dea693ba16c1b0a001cecd6e9240808dbe6e1d78500d",
+   "byte": 26637
   },
   {
    "path": "dati/tessere.json",
@@ -3309,13 +3321,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "97228679f40c",
-   "da": "90ea70238e58",
-   "data": "2026-11-20",
-   "mappa": true,
-   "byte": 961377
-  },
   {
    "versione": "fde0af2ce124",
    "da": "97228679f40c",
@@ -3434,6 +3439,12 @@
    "da": "c4b11b73cd0f",
    "data": "2026-11-23",
    "byte": 379090
+  },
+  {
+   "versione": "1ecdd6c34526",
+   "da": "f6afe18b4a95",
+   "data": "2026-11-23",
+   "byte": 522871
   }
  ]
 }
