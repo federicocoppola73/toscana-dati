@@ -22,6 +22,36 @@
     "palazzo-vecchio",
     "ponte-vecchio"
    ]
+  },
+  {
+   "id": "01",
+   "titolo": {
+    "it": "Dalle origini a Florentia",
+    "en": "From the origins to Florentia",
+    "fr": "Des origines à Florentia",
+    "de": "Von den Anfängen bis Florentia",
+    "es": "De los orígenes a Florentia"
+   },
+   "anni": {
+    "it": "Dalle origini al V secolo",
+    "en": "from the origins to the 5th century",
+    "fr": "des origines au Ve siècle",
+    "de": "von den Anfängen bis zum 5. Jahrhundert",
+    "es": "de los orígenes al siglo V"
+   },
+   "testo": {
+    "it": "Prima di diventare una delle città più importanti d'Europa, Firenze fu una colonia romana sorta lungo l'Arno, in un territorio abitato già dagli Etruschi. La città, chiamata Florentia, nacque secondo la tradizione nel 59 a.C. e si sviluppò come centro commerciale e strategico lungo le vie di comunicazione della penisola. Le tracce della città romana sono ancora leggibili nella struttura del centro storico e in alcuni resti archeologici.",
+    "en": "Before becoming one of the most important cities in Europe, Florence was a Roman colony founded along the Arno, in a territory already inhabited by the Etruscans. The city, called Florentia, was born according to tradition in 59 BC and developed as a commercial and strategic centre along the communication routes of the peninsula. The traces of the Roman city can still be read in the layout of the historic centre and in some archaeological remains.",
+    "fr": "Avant de devenir l'une des villes les plus importantes d'Europe, Florence fut une colonie romaine fondée le long de l'Arno, dans un territoire déjà habité par les Étrusques. La ville, appelée Florentia, naquit selon la tradition en 59 av. J.-C. et se développa comme centre commercial et stratégique le long des voies de communication de la péninsule. Les traces de la ville romaine restent lisibles dans la structure du centre historique et dans certains vestiges archéologiques.",
+    "de": "Bevor Florenz zu einer der bedeutendsten Städte Europas wurde, war es eine römische Kolonie am Arno, in einem Gebiet, das schon von den Etruskern bewohnt war. Die Stadt, Florentia genannt, entstand der Überlieferung nach im Jahr 59 v. Chr. und entwickelte sich zu einem Handels- und Strategiezentrum an den Verkehrswegen der Halbinsel. Die Spuren der römischen Stadt sind noch in der Struktur der Altstadt und in einigen archäologischen Überresten ablesbar.",
+    "es": "Antes de convertirse en una de las ciudades más importantes de Europa, Florencia fue una colonia romana surgida a orillas del Arno, en un territorio ya habitado por los etruscos. La ciudad, llamada Florentia, nació según la tradición en el 59 a. C. y se desarrolló como centro comercial y estratégico a lo largo de las vías de comunicación de la península. Las huellas de la ciudad romana aún pueden leerse en la estructura del centro histórico y en algunos restos arqueológicos."
+   },
+   "audio": "storia-01",
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore",
+    "palazzo-vecchio",
+    "basilica-di-san-lorenzo"
+   ]
   }
  ]
 }
