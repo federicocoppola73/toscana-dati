@@ -1970,6 +1970,16 @@
       "de": "Er förderte Marsilio Ficino, dem er die Übersetzung Platons anvertraute und dem er 1463 einen Besitz bei Careggi schenkte.",
       "es": "Apoyó a Marsilio Ficino, a quien encargó la traducción de Platón y regaló en 1463 una propiedad cerca de Careggi."
      }
+    },
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Il ramo collaterale della famiglia, originato da Lorenzo, suo fratello, portò al potere Cosimo I, che nel Cinquecento fu duca e poi primo granduca di Toscana.",
+      "en": "The family's collateral branch, which originated with Lorenzo, his brother, brought to power Cosimo I, who in the sixteenth century became duke and then first Grand Duke of Tuscany.",
+      "fr": "La branche collatérale de la famille, issue de Laurent, son frère, porta au pouvoir Cosme Ier, qui fut au XVIe siècle duc puis premier grand-duc de Toscane.",
+      "de": "Der auf Lorenzo, seinen Bruder, zurückgehende Seitenzweig der Familie brachte Cosimo I. an die Macht, der im 16. Jahrhundert Herzog und dann erster Großherzog der Toskana wurde.",
+      "es": "La rama colateral de la familia, originada en Lorenzo, su hermano, llevó al poder a Cosme I, que en el siglo XVI fue duque y luego primer gran duque de Toscana."
+     }
     }
    ],
    "ritratto": {
@@ -2187,6 +2197,16 @@
       "fr": "Machiavel, encore jeune à la mort de Laurent (1492), lui consacra dans les Histoires florentines (livre VIII) un célèbre portrait. Il n'appartint pas à son cercle.",
       "de": "Machiavelli, beim Tod Lorenzos (1492) noch jung, widmete ihm in der Florentinischen Geschichte (Buch VIII) ein berühmtes Porträt. Er gehörte nicht zu seinem Kreis.",
       "es": "Maquiavelo, aún joven a la muerte de Lorenzo (1492), le dedicó en las Historias florentinas (libro VIII) un célebre retrato. No perteneció a su círculo."
+     }
+    },
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Suo pronipote Cosimo I, figlio di Maria Salviati, nipote del Magnifico, fu il primo granduca di Toscana. Apparteneva al ramo collaterale della famiglia.",
+      "en": "His great-grandson Cosimo I, son of Maria Salviati, a granddaughter of the Magnificent, became the first Grand Duke of Tuscany. He belonged to the collateral branch of the family.",
+      "fr": "Son arrière-petit-fils Cosme Ier, fils de Marie Salviati, petite-fille du Magnifique, fut le premier grand-duc de Toscane. Il appartenait à la branche collatérale de la famille.",
+      "de": "Sein Urenkel Cosimo I., Sohn von Maria Salviati, einer Enkelin des Prächtigen, wurde der erste Großherzog der Toskana. Er gehörte dem Seitenzweig der Familie an.",
+      "es": "Su bisnieto Cosme I, hijo de María Salviati, nieta del Magnífico, fue el primer gran duque de Toscana. Pertenecía a la rama colateral de la familia."
      }
     }
    ],
@@ -3356,6 +3376,16 @@
       "de": "Michelangelo setzte sich mit der Florentiner Bildhauertradition auseinander, in der Donatello eine entscheidende Rolle gespielt hatte. Die beiden David, in Bronze und in Marmor, gehören zu den Symbolen dieser Tradition. Die Verbindung ist künstlerisch und historisch, nicht persönlich.",
       "es": "Miguel Ángel se midió con la tradición escultórica florentina, en la que Donatello tuvo un papel decisivo. Los dos David, en bronce y en mármol, están entre los símbolos de esa tradición. El vínculo es artístico e histórico, no personal."
      }
+    },
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Il duca Cosimo I cercò più volte di riportarlo a Firenze, ma Michelangelo rifiutò ogni invito a rientrare. Dopo la sua morte, nel 1564, Cosimo acconsentì che le esequie si tenessero a San Lorenzo.",
+      "en": "Duke Cosimo I tried more than once to bring him back to Florence, but Michelangelo declined every invitation to return. After his death in 1564, Cosimo agreed that the funeral be held at San Lorenzo.",
+      "fr": "Le duc Cosme Ier tenta plus d'une fois de le ramener à Florence, mais Michel-Ange déclina toute invitation à rentrer. Après sa mort, en 1564, Cosme consentit à ce que les obsèques se tiennent à San Lorenzo.",
+      "de": "Herzog Cosimo I. versuchte mehrfach, ihn nach Florenz zurückzuholen, doch Michelangelo lehnte jede Einladung zur Rückkehr ab. Nach seinem Tod 1564 stimmte Cosimo zu, dass die Trauerfeier in San Lorenzo stattfand.",
+      "es": "El duque Cosme I intentó más de una vez llevarlo de vuelta a Florencia, pero Miguel Ángel rechazó toda invitación a regresar. Tras su muerte, en 1564, Cosme consintió que las exequias se celebraran en San Lorenzo."
+     }
     }
    ],
    "ritratto": {
@@ -3964,6 +3994,319 @@
    ],
    "ritratto": {
     "autore": "Santi di Tito, ritratto postumo",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "alessandro-de-medici",
+   "nome": "Alessandro de' Medici",
+   "nascita": 1510,
+   "morte": 1537,
+   "professione": {
+    "it": "Primo duca di Firenze",
+    "en": "First Duke of Florence",
+    "fr": "Premier duc de Florence",
+    "de": "Erster Herzog von Florenz",
+    "es": "Primer duque de Florencia"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "1510 circa (data discussa: le fonti indicano anche il 1511 o il 1512)",
+    "en": "Around 1510 (date disputed: sources also give 1511 or 1512)",
+    "fr": "Vers 1510 (date discutée : les sources indiquent aussi 1511 ou 1512)",
+    "de": "Um 1510 (Datum umstritten: die Quellen nennen auch 1511 oder 1512)",
+    "es": "Hacia 1510 (fecha discutida: las fuentes indican también 1511 o 1512)"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "Notte tra il 5 e il 6 gennaio 1537",
+    "en": "Night of 5–6 January 1537",
+    "fr": "Nuit du 5 au 6 janvier 1537",
+    "de": "Nacht vom 5. auf den 6. Januar 1537",
+    "es": "Noche del 5 al 6 de enero de 1537"
+   },
+   "biografia": {
+    "it": "Alessandro de' Medici fu il primo duca di Firenze e il protagonista della trasformazione definitiva della città da Repubblica a principato dinastico.\n\nDopo l'assedio di Firenze del 1529–1530 e la caduta della Repubblica, il potere tornò nelle mani dei Medici grazie all'intervento dell'imperatore Carlo V e del papa Clemente VII. Alessandro venne nominato signore di Firenze nel 1531 e nel 1532 ottenne il titolo ereditario di duca.\n\nLa sua posizione politica era sostenuta dall'Impero e dal papato, ma incontrò l'opposizione di una parte delle famiglie aristocratiche e degli esuli repubblicani. Il suo governo fu caratterizzato da un forte accentramento del potere e da misure repressive contro gli avversari. Dal 1534 fece costruire la Fortezza da Basso, su progetto di Antonio da Sangallo il Giovane, per garantire ai Medici il controllo della città.\n\nNel 1536 sposò Margherita d'Austria, figlia naturale di Carlo V. Pochi mesi dopo, nella notte tra il 5 e il 6 gennaio 1537, venne assassinato dal parente Lorenzino de' Medici, in un episodio che suscitò grande scalpore. Gli succedette Cosimo de' Medici, appartenente a un ramo diverso della famiglia.",
+    "en": "Alessandro de' Medici was the first Duke of Florence and the protagonist of the city's definitive transformation from a Republic into a dynastic principality.\n\nAfter the siege of Florence of 1529–1530 and the fall of the Republic, power returned to the Medici thanks to the intervention of Emperor Charles V and Pope Clement VII. Alessandro was named lord of Florence in 1531 and in 1532 obtained the hereditary title of duke.\n\nHis political position was backed by the Empire and the papacy, but he met with opposition from part of the aristocratic families and from republican exiles. His government was marked by a strong concentration of power and by repressive measures against his opponents. From 1534 he had the Fortezza da Basso built, to a design by Antonio da Sangallo the Younger, to secure Medici control of the city.\n\nIn 1536 he married Margaret of Austria, natural daughter of Charles V. A few months later, in the night between 5 and 6 January 1537, he was murdered by his relative Lorenzino de' Medici, in an episode that caused great sensation. He was succeeded by Cosimo de' Medici, who belonged to a different branch of the family.",
+    "fr": "Alexandre de Médicis fut le premier duc de Florence et le protagoniste de la transformation définitive de la ville, de République en principauté dynastique.\n\nAprès le siège de Florence de 1529–1530 et la chute de la République, le pouvoir revint aux Médicis grâce à l'intervention de l'empereur Charles Quint et du pape Clément VII. Alexandre fut nommé seigneur de Florence en 1531 et obtint en 1532 le titre héréditaire de duc.\n\nSa position politique était soutenue par l'Empire et par la papauté, mais il se heurta à l'opposition d'une partie des familles aristocratiques et des exilés républicains. Son gouvernement se caractérisa par une forte concentration du pouvoir et par des mesures répressives contre ses adversaires. À partir de 1534, il fit construire la Fortezza da Basso, sur un projet d'Antonio da Sangallo le Jeune, pour garantir aux Médicis le contrôle de la ville.\n\nEn 1536, il épousa Marguerite d'Autriche, fille naturelle de Charles Quint. Quelques mois plus tard, dans la nuit du 5 au 6 janvier 1537, il fut assassiné par son parent Lorenzino de Médicis, dans un épisode qui fit grand bruit. Cosme de Médicis, issu d'une autre branche de la famille, lui succéda.",
+    "de": "Alessandro de' Medici war der erste Herzog von Florenz und der Protagonist der endgültigen Verwandlung der Stadt von einer Republik in ein dynastisches Fürstentum.\n\nNach der Belagerung von Florenz 1529–1530 und dem Fall der Republik kehrte die Macht dank des Eingreifens von Kaiser Karl V. und Papst Klemens VII. an die Medici zurück. Alessandro wurde 1531 zum Herrn von Florenz ernannt und erhielt 1532 den erblichen Herzogstitel.\n\nSeine politische Stellung wurde vom Reich und vom Papsttum gestützt, stieß aber auf den Widerstand eines Teils der Adelsfamilien und der republikanischen Exilanten. Seine Regierung war von starker Machtkonzentration und repressiven Maßnahmen gegen die Gegner geprägt. Ab 1534 ließ er nach einem Entwurf von Antonio da Sangallo dem Jüngeren die Fortezza da Basso errichten, um den Medici die Kontrolle über die Stadt zu sichern.\n\n1536 heiratete er Margarete von Österreich, die natürliche Tochter Karls V. Wenige Monate später, in der Nacht vom 5. auf den 6. Januar 1537, wurde er von seinem Verwandten Lorenzino de' Medici ermordet, ein Ereignis, das großes Aufsehen erregte. Ihm folgte Cosimo de' Medici, der einem anderen Zweig der Familie angehörte.",
+    "es": "Alejandro de Médici fue el primer duque de Florencia y el protagonista de la transformación definitiva de la ciudad, de República a principado dinástico.\n\nTras el asedio de Florencia de 1529–1530 y la caída de la República, el poder volvió a manos de los Médici gracias a la intervención del emperador Carlos V y del papa Clemente VII. Alejandro fue nombrado señor de Florencia en 1531 y en 1532 obtuvo el título hereditario de duque.\n\nSu posición política estaba respaldada por el Imperio y por el papado, pero encontró la oposición de una parte de las familias aristocráticas y de los exiliados republicanos. Su gobierno se caracterizó por una fuerte concentración del poder y por medidas represivas contra los adversarios. A partir de 1534 hizo construir la Fortezza da Basso, según un proyecto de Antonio da Sangallo el Joven, para asegurar a los Médici el control de la ciudad.\n\nEn 1536 se casó con Margarita de Austria, hija natural de Carlos V. Pocos meses después, en la noche del 5 al 6 de enero de 1537, fue asesinado por su pariente Lorenzino de Médici, en un episodio que causó gran escándalo. Le sucedió Cosme de Médici, perteneciente a otra rama de la familia."
+   },
+   "curiosita": {
+    "it": [
+     "Un'origine discussa: tradizionalmente fu considerato figlio naturale di Lorenzo de' Medici, duca di Urbino, ma alcuni studiosi hanno sostenuto che fosse figlio del cardinale Giulio de' Medici, futuro papa Clemente VII.",
+     "«Il Moro»: il soprannome allude alla sua carnagione scura. La madre, Simonetta da Collevecchio, era una serva in casa Medici; secondo una parte degli studiosi aveva origini africane, mentre per altri si tratta di una voce diffusa dai suoi nemici. La questione resta discussa.",
+     "Il tirannicidio: il suo assassino, Lorenzino de' Medici, giustificò il delitto come un gesto volto a liberare Firenze dalla tirannia.",
+     "La successione: dopo la sua morte il potere passò a Cosimo I, che avrebbe dato al dominio mediceo una struttura politica molto più stabile."
+    ],
+    "en": [
+     "A disputed origin: traditionally he was considered the natural son of Lorenzo de' Medici, Duke of Urbino, but some scholars have argued that he was the son of Cardinal Giulio de' Medici, the future Pope Clement VII.",
+     "«Il Moro» (the Moor): the nickname refers to his dark complexion. His mother, Simonetta da Collevecchio, was a servant in the Medici household; according to some scholars she was of African origin, while others regard this as a rumour spread by his enemies. The question remains disputed.",
+     "The tyrannicide: his murderer, Lorenzino de' Medici, justified the crime as an act meant to free Florence from tyranny.",
+     "The succession: after his death power passed to Cosimo I, who would give Medici rule a much more stable political structure."
+    ],
+    "fr": [
+     "Une origine discutée : il fut traditionnellement considéré comme le fils naturel de Lorenzo de Médicis, duc d'Urbin, mais certains spécialistes ont soutenu qu'il était le fils du cardinal Jules de Médicis, futur pape Clément VII.",
+     "«Il Moro» (le Maure) : le surnom fait allusion à son teint foncé. Sa mère, Simonetta da Collevecchio, était une servante de la maison Médicis ; selon une partie des spécialistes, elle avait des origines africaines, tandis que pour d'autres il s'agit d'une rumeur répandue par ses ennemis. La question reste discutée.",
+     "Le tyrannicide : son assassin, Lorenzino de Médicis, justifia le crime comme un geste visant à libérer Florence de la tyrannie.",
+     "La succession : après sa mort, le pouvoir passa à Cosme Ier, qui allait donner à la domination des Médicis une structure politique beaucoup plus stable."
+    ],
+    "de": [
+     "Eine umstrittene Herkunft: Traditionell galt er als natürlicher Sohn von Lorenzo de' Medici, Herzog von Urbino, doch einige Forscher haben behauptet, er sei der Sohn des Kardinals Giulio de' Medici, des späteren Papstes Klemens VII.",
+     "«Il Moro» (der Mohr): Der Beiname spielt auf seine dunkle Hautfarbe an. Seine Mutter, Simonetta da Collevecchio, war eine Dienerin im Haushalt der Medici; nach Ansicht eines Teils der Forscher stammte sie aus Afrika, andere halten dies für ein von seinen Feinden verbreitetes Gerücht. Die Frage bleibt umstritten.",
+     "Der Tyrannenmord: Sein Mörder Lorenzino de' Medici rechtfertigte die Tat als Handlung, die Florenz von der Tyrannei befreien sollte.",
+     "Die Nachfolge: Nach seinem Tod ging die Macht auf Cosimo I. über, der der Medici-Herrschaft eine wesentlich stabilere politische Struktur geben sollte."
+    ],
+    "es": [
+     "Un origen discutido: tradicionalmente se le consideró hijo natural de Lorenzo de Médici, duque de Urbino, pero algunos estudiosos han sostenido que era hijo del cardenal Julio de Médici, futuro papa Clemente VII.",
+     "«Il Moro» (el Moro): el apodo alude a su tez oscura. Su madre, Simonetta da Collevecchio, era una criada de la casa Médici; según una parte de los estudiosos tenía orígenes africanos, mientras que para otros se trata de un rumor difundido por sus enemigos. La cuestión sigue siendo discutida.",
+     "El tiranicidio: su asesino, Lorenzino de Médici, justificó el crimen como un gesto destinado a liberar Florencia de la tiranía.",
+     "La sucesión: tras su muerte el poder pasó a Cosme I, que daría al dominio de los Médici una estructura política mucho más estable."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Fu il suo successore. Dopo l'assassinio di Alessandro nel 1537, Cosimo venne scelto come nuovo duca di Firenze. La successione segnò l'inizio di una nuova fase politica, nella quale il potere mediceo si consolidò ulteriormente.",
+      "en": "He was his successor. After Alessandro's murder in 1537, Cosimo was chosen as the new Duke of Florence. The succession marked the beginning of a new political phase, in which Medici power was consolidated further.",
+      "fr": "Il fut son successeur. Après l'assassinat d'Alexandre en 1537, Cosme fut choisi comme nouveau duc de Florence. La succession marqua le début d'une nouvelle phase politique, dans laquelle le pouvoir des Médicis se consolida davantage.",
+      "de": "Er war sein Nachfolger. Nach der Ermordung Alessandros 1537 wurde Cosimo zum neuen Herzog von Florenz gewählt. Die Nachfolge markierte den Beginn einer neuen politischen Phase, in der sich die Macht der Medici weiter festigte.",
+      "es": "Fue su sucesor. Tras el asesinato de Alejandro en 1537, Cosme fue elegido nuevo duque de Florencia. La sucesión marcó el comienzo de una nueva fase política, en la que el poder de los Médici se consolidó aún más."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Agnolo Bronzino (o bottega), ritratto di Alessandro de' Medici",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "cosimo-i-de-medici",
+   "nome": "Cosimo I de' Medici",
+   "nascita": 1519,
+   "morte": 1574,
+   "professione": {
+    "it": "Duca di Firenze e primo granduca di Toscana",
+    "en": "Duke of Florence and first Grand Duke of Tuscany",
+    "fr": "Duc de Florence et premier grand-duc de Toscane",
+    "de": "Herzog von Florenz und erster Großherzog der Toskana",
+    "es": "Duque de Florencia y primer gran duque de Toscana"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "12 giugno 1519",
+    "en": "12 June 1519",
+    "fr": "12 juin 1519",
+    "de": "12. Juni 1519",
+    "es": "12 de junio de 1519"
+   },
+   "luogoMorte": {
+    "it": "Villa di Castello, presso Firenze",
+    "en": "Villa di Castello, near Florence",
+    "fr": "Villa di Castello, près de Florence",
+    "de": "Villa di Castello bei Florenz",
+    "es": "Villa di Castello, cerca de Florencia"
+   },
+   "dataMorte": {
+    "it": "21 aprile 1574",
+    "en": "21 April 1574",
+    "fr": "21 avril 1574",
+    "de": "21. April 1574",
+    "es": "21 de abril de 1574"
+   },
+   "biografia": {
+    "it": "Cosimo I de' Medici fu il secondo duca di Firenze e il primo granduca di Toscana. Salì al potere nel gennaio 1537, dopo l'assassinio di Alessandro de' Medici, quando aveva appena diciassette anni.\n\nApparteneva a un ramo collaterale della famiglia: era figlio di Giovanni de' Medici, detto delle Bande Nere, e di Maria Salviati. La sua nomina inizialmente sorprese molti osservatori, ma Cosimo dimostrò presto una notevole capacità politica e militare. Nell'agosto 1537 le truppe a lui fedeli sconfissero a Montemurlo gli esuli repubblicani, consolidando il suo potere.\n\nNegli anni successivi rafforzò l'autorità centrale, riorganizzò l'amministrazione e ampliò i territori sotto il controllo fiorentino: tra il 1555 e il 1559, con la resa di Siena e la caduta di Montalcino, la Repubblica senese entrò nei suoi domini. Nel 1569 ottenne da papa Pio V il titolo di granduca di Toscana.\n\nIl suo governo trasformò profondamente Firenze. Nel 1540 trasferì la corte e la sede del governo a Palazzo Vecchio; nel 1550 Eleonora di Toledo acquistò Palazzo Pitti, che divenne la nuova residenza della famiglia ducale, e prese forma il Giardino di Boboli. Cosimo fece inoltre costruire gli Uffizi, per riunire le magistrature dello Stato, e nel 1565 il Corridoio Vasariano, che collega Palazzo Vecchio a Palazzo Pitti.\n\nDal 1564 lasciò al figlio Francesco gran parte degli impegni di governo, ma restò granduca fino alla morte. Il suo regno segnò la nascita di uno Stato territoriale centralizzato, nel quale Firenze divenne la capitale di un dominio esteso a gran parte della Toscana.",
+    "en": "Cosimo I de' Medici was the second Duke of Florence and the first Grand Duke of Tuscany. He came to power in January 1537, after the murder of Alessandro de' Medici, when he was only seventeen.\n\nHe belonged to a collateral branch of the family: he was the son of Giovanni de' Medici, known as delle Bande Nere, and of Maria Salviati. His appointment at first surprised many observers, but Cosimo soon showed considerable political and military ability. In August 1537 troops loyal to him defeated the republican exiles at Montemurlo, consolidating his power.\n\nIn the following years he strengthened central authority, reorganised the administration and enlarged the territories under Florentine control: between 1555 and 1559, with the surrender of Siena and the fall of Montalcino, the Sienese Republic entered his domains. In 1569 he obtained from Pope Pius V the title of Grand Duke of Tuscany.\n\nHis rule profoundly transformed Florence. In 1540 he moved the court and the seat of government to Palazzo Vecchio; in 1550 Eleonora of Toledo bought Palazzo Pitti, which became the ducal family's new residence, and the Boboli Gardens took shape. Cosimo also had the Uffizi built, to bring the state's magistracies together, and in 1565 the Vasari Corridor, which links Palazzo Vecchio with Palazzo Pitti.\n\nFrom 1564 he left most of the business of government to his son Francesco, but he remained Grand Duke until his death. His reign marked the birth of a centralised territorial state, in which Florence became the capital of a domain covering much of Tuscany.",
+    "fr": "Cosme Ier de Médicis fut le deuxième duc de Florence et le premier grand-duc de Toscane. Il accéda au pouvoir en janvier 1537, après l'assassinat d'Alexandre de Médicis, alors qu'il avait à peine dix-sept ans.\n\nIl appartenait à une branche collatérale de la famille : il était le fils de Jean de Médicis, dit des Bandes noires (delle Bande Nere), et de Marie Salviati. Sa nomination surprit d'abord de nombreux observateurs, mais Cosme fit bientôt preuve d'une remarquable capacité politique et militaire. En août 1537, les troupes qui lui étaient fidèles vainquirent à Montemurlo les exilés républicains, consolidant son pouvoir.\n\nDans les années suivantes, il renforça l'autorité centrale, réorganisa l'administration et élargit les territoires sous contrôle florentin : entre 1555 et 1559, avec la reddition de Sienne et la chute de Montalcino, la République siennoise entra dans ses domaines. En 1569, il obtint du pape Pie V le titre de grand-duc de Toscane.\n\nSon gouvernement transforma profondément Florence. En 1540, il transféra la cour et le siège du gouvernement au Palazzo Vecchio ; en 1550, Éléonore de Tolède acheta le Palazzo Pitti, qui devint la nouvelle résidence de la famille ducale, et le jardin de Boboli prit forme. Cosme fit aussi construire les Offices, pour réunir les magistratures de l'État, et, en 1565, le corridor de Vasari, qui relie le Palazzo Vecchio au Palazzo Pitti.\n\nÀ partir de 1564, il laissa à son fils François la plus grande partie des charges de gouvernement, mais il resta grand-duc jusqu'à sa mort. Son règne marqua la naissance d'un État territorial centralisé, dans lequel Florence devint la capitale d'un domaine étendu à une grande partie de la Toscane.",
+    "de": "Cosimo I. de' Medici war der zweite Herzog von Florenz und der erste Großherzog der Toskana. Er kam im Januar 1537, nach der Ermordung Alessandro de' Medicis, an die Macht, als er kaum siebzehn Jahre alt war.\n\nEr gehörte einem Seitenzweig der Familie an: Er war der Sohn von Giovanni de' Medici, genannt delle Bande Nere, und von Maria Salviati. Seine Ernennung überraschte zunächst viele Beobachter, doch Cosimo bewies bald beträchtliches politisches und militärisches Geschick. Im August 1537 besiegten ihm treue Truppen bei Montemurlo die republikanischen Exilanten und festigten damit seine Macht.\n\nIn den folgenden Jahren stärkte er die zentrale Autorität, reorganisierte die Verwaltung und erweiterte die unter florentinischer Kontrolle stehenden Gebiete: Zwischen 1555 und 1559 kam mit der Kapitulation Sienas und dem Fall von Montalcino die Republik Siena in seinen Besitz. 1569 erhielt er von Papst Pius V. den Titel eines Großherzogs der Toskana.\n\nSeine Herrschaft veränderte Florenz tiefgreifend. 1540 verlegte er den Hof und den Regierungssitz in den Palazzo Vecchio; 1550 kaufte Eleonora von Toledo den Palazzo Pitti, der zur neuen Residenz der herzoglichen Familie wurde, und der Boboli-Garten nahm Gestalt an. Cosimo ließ außerdem die Uffizien errichten, um die Behörden des Staates zusammenzufassen, und 1565 den Vasari-Korridor, der den Palazzo Vecchio mit dem Palazzo Pitti verbindet.\n\nAb 1564 überließ er seinem Sohn Francesco den größten Teil der Regierungsgeschäfte, blieb aber bis zu seinem Tod Großherzog. Seine Herrschaft markierte die Geburt eines zentralisierten Territorialstaats, in dem Florenz zur Hauptstadt eines weite Teile der Toskana umfassenden Herrschaftsgebiets wurde.",
+    "es": "Cosme I de Médici fue el segundo duque de Florencia y el primer gran duque de Toscana. Llegó al poder en enero de 1537, tras el asesinato de Alejandro de Médici, cuando tenía apenas diecisiete años.\n\nPertenecía a una rama colateral de la familia: era hijo de Juan de Médici, llamado de las Bandas Negras (delle Bande Nere), y de María Salviati. Su nombramiento sorprendió al principio a muchos observadores, pero Cosme demostró pronto una notable capacidad política y militar. En agosto de 1537, las tropas fieles a él derrotaron en Montemurlo a los exiliados republicanos, consolidando su poder.\n\nEn los años siguientes reforzó la autoridad central, reorganizó la administración y amplió los territorios bajo control florentino: entre 1555 y 1559, con la rendición de Siena y la caída de Montalcino, la República de Siena pasó a sus dominios. En 1569 obtuvo del papa Pío V el título de gran duque de Toscana.\n\nSu gobierno transformó profundamente Florencia. En 1540 trasladó la corte y la sede del gobierno al Palazzo Vecchio; en 1550 Leonor de Toledo compró el Palazzo Pitti, que se convirtió en la nueva residencia de la familia ducal, y tomó forma el Jardín de Boboli. Cosme hizo construir además los Uffizi, para reunir las magistraturas del Estado, y en 1565 el Corredor Vasariano, que une el Palazzo Vecchio con el Palazzo Pitti.\n\nDesde 1564 dejó a su hijo Francisco la mayor parte de las tareas de gobierno, pero siguió siendo gran duque hasta su muerte. Su reinado marcó el nacimiento de un Estado territorial centralizado, en el que Florencia se convirtió en la capital de un dominio extendido a gran parte de Toscana."
+   },
+   "curiosita": {
+    "it": [
+     "Il padre: era figlio di Giovanni delle Bande Nere, uno dei più famosi condottieri italiani del Cinquecento.",
+     "Eleonora di Toledo: nel 1539 sposò la figlia del viceré di Napoli, giunta a Firenze a diciassette anni, rafforzando così i rapporti con la monarchia spagnola.",
+     "L'Accademia: nel 1563 promosse la fondazione dell'Accademia delle Arti del Disegno, con il contributo di Giorgio Vasari.",
+     "Natura e scienze: sostenne lo sviluppo dei giardini botanici e delle collezioni naturalistiche, mostrando interesse personale per la botanica e le scienze."
+    ],
+    "en": [
+     "His father: he was the son of Giovanni delle Bande Nere, one of the most famous Italian condottieri of the sixteenth century.",
+     "Eleonora of Toledo: in 1539 he married the daughter of the Viceroy of Naples, who reached Florence at the age of seventeen, thereby strengthening relations with the Spanish monarchy.",
+     "The Academy: in 1563 he promoted the founding of the Accademia delle Arti del Disegno, with the contribution of Giorgio Vasari.",
+     "Nature and science: he supported the development of botanical gardens and natural-history collections, showing a personal interest in botany and the sciences."
+    ],
+    "fr": [
+     "Le père : il était le fils de Jean des Bandes noires (Giovanni delle Bande Nere), l'un des plus célèbres condottieri italiens du XVIe siècle.",
+     "Éléonore de Tolède : en 1539, il épousa la fille du vice-roi de Naples, arrivée à Florence à dix-sept ans, renforçant ainsi les liens avec la monarchie espagnole.",
+     "L'Académie : en 1563, il promut la fondation de l'Accademia delle Arti del Disegno, avec la contribution de Giorgio Vasari.",
+     "Nature et sciences : il soutint le développement des jardins botaniques et des collections d'histoire naturelle, montrant un intérêt personnel pour la botanique et les sciences."
+    ],
+    "de": [
+     "Der Vater: Er war der Sohn von Giovanni delle Bande Nere, einem der berühmtesten italienischen Condottieri des 16. Jahrhunderts.",
+     "Eleonora von Toledo: 1539 heiratete er die Tochter des Vizekönigs von Neapel, die mit siebzehn Jahren nach Florenz kam, und festigte so die Beziehungen zur spanischen Monarchie.",
+     "Die Akademie: 1563 förderte er die Gründung der Accademia delle Arti del Disegno, unter Mitwirkung von Giorgio Vasari.",
+     "Natur und Wissenschaft: Er unterstützte die Entwicklung botanischer Gärten und naturkundlicher Sammlungen und zeigte persönliches Interesse an Botanik und Wissenschaften."
+    ],
+    "es": [
+     "El padre: era hijo de Juan de las Bandas Negras (Giovanni delle Bande Nere), uno de los condotieros italianos más famosos del siglo XVI.",
+     "Leonor de Toledo: en 1539 se casó con la hija del virrey de Nápoles, que llegó a Florencia a los diecisiete años, reforzando así las relaciones con la monarquía española.",
+     "La Academia: en 1563 promovió la fundación de la Accademia delle Arti del Disegno, con la contribución de Giorgio Vasari.",
+     "Naturaleza y ciencias: apoyó el desarrollo de los jardines botánicos y de las colecciones de historia natural, mostrando un interés personal por la botánica y las ciencias."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio",
+    "palazzo-pitti",
+    "ponte-vecchio",
+    "piazza-della-signoria",
+    "basilica-di-san-lorenzo"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "La sede del governo",
+      "en": "The seat of government",
+      "fr": "Le siège du gouvernement",
+      "de": "Der Regierungssitz",
+      "es": "La sede del gobierno"
+     },
+     "testo": {
+      "it": "Nel 1540 vi trasferì la corte e la sede del governo, trasformando l'antico palazzo del Comune in Palazzo Ducale.",
+      "en": "In 1540 he moved the court and the seat of government here, turning the old palace of the Commune into the Ducal Palace.",
+      "fr": "En 1540, il y transféra la cour et le siège du gouvernement, transformant l'ancien palais de la Commune en palais ducal.",
+      "de": "1540 verlegte er den Hof und den Regierungssitz hierher und verwandelte den alten Palast der Kommune in den herzoglichen Palast.",
+      "es": "En 1540 trasladó aquí la corte y la sede del gobierno, transformando el antiguo palacio de la Comuna en Palacio Ducal."
+     }
+    },
+    "palazzo-pitti": {
+     "tipo": {
+      "it": "La nuova residenza",
+      "en": "The new residence",
+      "fr": "La nouvelle résidence",
+      "de": "Die neue Residenz",
+      "es": "La nueva residencia"
+     },
+     "testo": {
+      "it": "Acquistato nel 1550 da Eleonora di Toledo, divenne la residenza della famiglia ducale e poi granducale; alle sue spalle prese forma il Giardino di Boboli.",
+      "en": "Bought in 1550 by Eleonora of Toledo, it became the residence of the ducal and later grand-ducal family; the Boboli Gardens took shape behind it.",
+      "fr": "Acheté en 1550 par Éléonore de Tolède, il devint la résidence de la famille ducale puis grand-ducale ; derrière lui prit forme le jardin de Boboli.",
+      "de": "1550 von Eleonora von Toledo gekauft, wurde er zur Residenz der herzoglichen und später großherzoglichen Familie; hinter ihm nahm der Boboli-Garten Gestalt an.",
+      "es": "Comprado en 1550 por Leonor de Toledo, se convirtió en la residencia de la familia ducal y luego granducal; a su espalda tomó forma el Jardín de Boboli."
+     }
+    },
+    "ponte-vecchio": {
+     "tipo": {
+      "it": "Il Corridoio Vasariano",
+      "en": "The Vasari Corridor",
+      "fr": "Le corridor de Vasari",
+      "de": "Der Vasari-Korridor",
+      "es": "El Corredor Vasariano"
+     },
+     "testo": {
+      "it": "Nel 1565 Vasari costruì per lui il Corridoio Vasariano, il passaggio sopraelevato che collega Palazzo Vecchio a Palazzo Pitti passando sopra il ponte.",
+      "en": "In 1565 Vasari built the Vasari Corridor for him, the raised passage linking Palazzo Vecchio with Palazzo Pitti and running over the bridge.",
+      "fr": "En 1565, Vasari construisit pour lui le corridor de Vasari, le passage surélevé qui relie le Palazzo Vecchio au Palazzo Pitti en passant au-dessus du pont.",
+      "de": "1565 errichtete Vasari für ihn den Vasari-Korridor, den erhöhten Gang, der den Palazzo Vecchio mit dem Palazzo Pitti verbindet und über die Brücke führt.",
+      "es": "En 1565 Vasari construyó para él el Corredor Vasariano, el pasaje elevado que une el Palazzo Vecchio con el Palazzo Pitti pasando por encima del puente."
+     }
+    },
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Il monumento equestre",
+      "en": "The equestrian monument",
+      "fr": "Le monument équestre",
+      "de": "Das Reiterstandbild",
+      "es": "El monumento ecuestre"
+     },
+     "testo": {
+      "it": "Nella piazza sorge il suo monumento equestre in bronzo, opera di Giambologna, voluto dal figlio Ferdinando I nel 1587 e collocato negli anni Novanta del Cinquecento.",
+      "en": "The square holds his bronze equestrian monument by Giambologna, commissioned by his son Ferdinando I in 1587 and set up in the 1590s.",
+      "fr": "Sur la place se dresse son monument équestre en bronze, œuvre de Giambologna, voulu par son fils Ferdinand Ier en 1587 et mis en place dans les années 1590.",
+      "de": "Auf dem Platz steht sein bronzenes Reiterstandbild von Giambologna, das sein Sohn Ferdinando I. 1587 in Auftrag gab und das in den 1590er-Jahren aufgestellt wurde.",
+      "es": "En la plaza se alza su monumento ecuestre de bronce, obra de Giambologna, encargado por su hijo Fernando I en 1587 y colocado en la década de 1590."
+     }
+    },
+    "basilica-di-san-lorenzo": {
+     "tipo": {
+      "it": "Le esequie",
+      "en": "The funerals",
+      "fr": "Les obsèques",
+      "de": "Die Trauerfeiern",
+      "es": "Las exequias"
+     },
+     "testo": {
+      "it": "Nel 1564 acconsentì che qui si tenessero le esequie di Michelangelo, e nel 1574 qui furono celebrate le sue.",
+      "en": "In 1564 he agreed that Michelangelo's funeral be held here, and in 1574 his own was celebrated here.",
+      "fr": "En 1564, il consentit à ce que les obsèques de Michel-Ange se tiennent ici, et en 1574 les siennes y furent célébrées.",
+      "de": "1564 stimmte er zu, dass hier die Trauerfeier für Michelangelo stattfand, und 1574 wurde hier seine eigene begangen.",
+      "es": "En 1564 consintió que aquí se celebraran las exequias de Miguel Ángel, y en 1574 aquí se celebraron las suyas."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "alessandro-de-medici",
+     "testo": {
+      "it": "Gli succedette dopo il suo assassinio nel 1537. Cosimo apparteneva a un ramo collaterale della famiglia e non era il suo erede diretto, ma riuscì a consolidare il dominio mediceo.",
+      "en": "He succeeded him after his murder in 1537. Cosimo belonged to a collateral branch of the family and was not his direct heir, but he succeeded in consolidating Medici rule.",
+      "fr": "Il lui succéda après son assassinat en 1537. Cosme appartenait à une branche collatérale de la famille et n'était pas son héritier direct, mais il parvint à consolider la domination des Médicis.",
+      "de": "Er folgte ihm nach seiner Ermordung 1537 nach. Cosimo gehörte einem Seitenzweig der Familie an und war nicht sein direkter Erbe, es gelang ihm aber, die Medici-Herrschaft zu festigen.",
+      "es": "Le sucedió tras su asesinato en 1537. Cosme pertenecía a una rama colateral de la familia y no era su heredero directo, pero logró consolidar el dominio de los Médici."
+     }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Cosimo cercò più volte di riportarlo a Firenze e di coinvolgerlo nelle grandi imprese artistiche della corte, ma Michelangelo, ormai anziano e stabilitosi a Roma, rifiutò gli inviti. Dopo la sua morte, nel 1564, Cosimo acconsentì che le esequie si tenessero a San Lorenzo.",
+      "en": "Cosimo tried more than once to bring him back to Florence and to involve him in the court's great artistic undertakings, but Michelangelo, by then elderly and settled in Rome, declined the invitations. After his death in 1564, Cosimo agreed that the funeral be held at San Lorenzo.",
+      "fr": "Cosme tenta plus d'une fois de le ramener à Florence et de l'associer aux grandes entreprises artistiques de la cour, mais Michel-Ange, désormais âgé et installé à Rome, déclina les invitations. Après sa mort, en 1564, Cosme consentit à ce que les obsèques se tiennent à San Lorenzo.",
+      "de": "Cosimo versuchte mehrfach, ihn nach Florenz zurückzuholen und in die großen künstlerischen Unternehmungen des Hofes einzubinden, doch Michelangelo, inzwischen alt und in Rom ansässig, lehnte die Einladungen ab. Nach seinem Tod 1564 stimmte Cosimo zu, dass die Trauerfeier in San Lorenzo stattfand.",
+      "es": "Cosme intentó más de una vez llevarlo de vuelta a Florencia e implicarlo en las grandes empresas artísticas de la corte, pero Miguel Ángel, ya anciano y establecido en Roma, rechazó las invitaciones. Tras su muerte, en 1564, Cosme consintió que las exequias se celebraran en San Lorenzo."
+     }
+    },
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Era suo pronipote: la madre di Cosimo, Maria Salviati, era nipote del Magnifico. Cosimo apparteneva però al ramo collaterale dei Medici, non a quello diretto di Lorenzo.",
+      "en": "He was his great-grandson: Cosimo's mother, Maria Salviati, was a granddaughter of the Magnificent. Cosimo belonged, however, to the collateral branch of the Medici, not to Lorenzo's direct line.",
+      "fr": "Il était son arrière-petit-fils : la mère de Cosme, Marie Salviati, était la petite-fille du Magnifique. Cosme appartenait toutefois à la branche collatérale des Médicis, et non à la lignée directe de Laurent.",
+      "de": "Er war sein Urenkel: Cosimos Mutter, Maria Salviati, war eine Enkelin des Prächtigen. Cosimo gehörte jedoch dem Seitenzweig der Medici an, nicht der direkten Linie Lorenzos.",
+      "es": "Era su bisnieto: la madre de Cosme, María Salviati, era nieta del Magnífico. Cosme pertenecía, sin embargo, a la rama colateral de los Médici, no a la línea directa de Lorenzo."
+     }
+    },
+    {
+     "id": "cosimo-il-vecchio",
+     "testo": {
+      "it": "Cosimo I discendeva dal ramo collaterale della famiglia, originato da Lorenzo, fratello di Cosimo il Vecchio, e non dalla linea diretta del fondatore della signoria medicea.",
+      "en": "Cosimo I descended from the collateral branch of the family, which originated with Lorenzo, brother of Cosimo the Elder, and not from the direct line of the founder of Medici rule.",
+      "fr": "Cosme Ier descendait de la branche collatérale de la famille, issue de Laurent, frère de Cosme l'Ancien, et non de la lignée directe du fondateur de la seigneurie des Médicis.",
+      "de": "Cosimo I. stammte aus dem Seitenzweig der Familie, der auf Lorenzo, den Bruder Cosimos des Älteren, zurückging, und nicht aus der direkten Linie des Begründers der Medici-Herrschaft.",
+      "es": "Cosme I descendía de la rama colateral de la familia, originada en Lorenzo, hermano de Cosme el Viejo, y no de la línea directa del fundador del dominio de los Médici."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Agnolo Bronzino, Cosimo I de' Medici in armatura",
     "licenza": "Pubblico dominio"
    }
   }

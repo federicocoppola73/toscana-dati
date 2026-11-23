@@ -1,5 +1,5 @@
 {
- "versione": "11f19b94c628",
+ "versione": "84d7c6816ddc",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3098,6 +3098,12 @@
    "byte": 0
   },
   {
+   "path": "assets/personaggi/alessandro-de-medici.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/alessandro-de-medici.webp",
+   "sha256": "8eeac7cf9489c7174036407d2e55846a37c588d4d44690d4465f9eea271164eb",
+   "byte": 65018
+  },
+  {
    "path": "assets/personaggi/arnolfo-di-cambio.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/arnolfo-di-cambio.webp",
    "sha256": "d9a274b66f83e86e75f79d92c71a02e67efd0d70541304ac4c8c380def71d815",
@@ -3120,6 +3126,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/corso-donati.webp",
    "sha256": "f2b2907a83a8d151102b1f32ed934cf9542da788cba7839790199d459b49fe32",
    "byte": 88686
+  },
+  {
+   "path": "assets/personaggi/cosimo-i-de-medici.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/cosimo-i-de-medici.webp",
+   "sha256": "2e2bd31504b73da7c9092d69cf1a889e2f70bcacbc0e36b2b541e4e31ceaad2c",
+   "byte": 65050
   },
   {
    "path": "assets/personaggi/cosimo-il-vecchio.webp",
@@ -3334,8 +3346,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "6a443e7e0fc13328a10f0b8d083372c0ed9b6a7dfc0d6abab6fb759d12516056",
-   "byte": 421391
+   "sha256": "c0651bded7f45563b6038e4a7abedd13f7ad3ca574cfcf132e7320fc01769d56",
+   "byte": 460681
   },
   {
    "path": "dati/principali.json",
@@ -3358,8 +3370,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "565e1ae92d62ad4a18b0a2ee23a9a979ba3f06fb9c375e261aa1e469fc4d717e",
-   "byte": 26862
+   "sha256": "385f2dbc7f9ddd6b2001b56d0435b11c7a4022bfcb69affe931286316694d1e7",
+   "byte": 26940
   },
   {
    "path": "dati/tessere.json",
@@ -3375,12 +3387,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "9b7611269bd7",
-   "da": "4bd81bcdfdc2",
-   "data": "2026-11-23",
-   "byte": 16237
-  },
   {
    "versione": "eba0d239ae19",
    "da": "9b7611269bd7",
@@ -3494,6 +3500,12 @@
    "da": "1cda4aee96eb",
    "data": "2026-11-23",
    "byte": 548217
+  },
+  {
+   "versione": "84d7c6816ddc",
+   "da": "11f19b94c628",
+   "data": "2026-11-23",
+   "byte": 617689
   }
  ]
 }
