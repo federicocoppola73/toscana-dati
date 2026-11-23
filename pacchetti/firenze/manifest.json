@@ -1,5 +1,5 @@
 {
- "versione": "c4b11b73cd0f",
+ "versione": "f6afe18b4a95",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3116,6 +3116,12 @@
    "byte": 88686
   },
   {
+   "path": "assets/personaggi/cosimo-il-vecchio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/cosimo-il-vecchio.webp",
+   "sha256": "810325a92d5cc6134e9083b3100fca86866fde28b2ec253df5b8fc552eb21267",
+   "byte": 86752
+  },
+  {
    "path": "assets/personaggi/dante-alighieri.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/dante-alighieri.webp",
    "sha256": "77e090c43cff40a76cb7a05c66398fa3735d5290c8745f447233e0db3d8e497c",
@@ -3150,6 +3156,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/giovanni-boccaccio.webp",
    "sha256": "94658c2819763b99f0110d7acd5fed2467d2c169be251bd20520c6309bfe328c",
    "byte": 170686
+  },
+  {
+   "path": "assets/personaggi/lorenzo-il-magnifico.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/lorenzo-il-magnifico.webp",
+   "sha256": "dd083855c954c5287e48fc662d53fb9aade9a9bc9c84d68aed536b87778b09fc",
+   "byte": 39188
   },
   {
    "path": "assets/personaggi/matilde-di-canossa.webp",
@@ -3256,8 +3268,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "b71a614ea230df493914f2de726bea113af110cb16e72678525dd9f464b4c0ba",
-   "byte": 199559
+   "sha256": "ddcf1da54a872e03ecf4cfb329e7503281a343ce953c32e4012de76e11fd2ae0",
+   "byte": 226558
   },
   {
    "path": "dati/principali.json",
@@ -3280,8 +3292,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "3682ea24fce9f596abc0375533adefdc485fb7c4572a7eddfa6b5fad04da5b7b",
-   "byte": 26515
+   "sha256": "f715f023be8120d48ca400f912b2fb7185dbd6ce68b8f78aa23b1781c0ccdfae",
+   "byte": 26592
   },
   {
    "path": "dati/tessere.json",
@@ -3297,13 +3309,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "90ea70238e58",
-   "da": "75ed58163fdc",
-   "data": "2026-11-20",
-   "mezzi": true,
-   "byte": 167342
-  },
   {
    "versione": "97228679f40c",
    "da": "90ea70238e58",
@@ -3423,6 +3428,12 @@
    "da": "04b15cec0dfb",
    "data": "2026-11-23",
    "byte": 314760
+  },
+  {
+   "versione": "f6afe18b4a95",
+   "da": "c4b11b73cd0f",
+   "data": "2026-11-23",
+   "byte": 379090
   }
  ]
 }
