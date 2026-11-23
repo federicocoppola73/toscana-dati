@@ -2128,6 +2128,16 @@
       "de": "Er war sein Großvater. Lorenzo erbte die von Cosimo aufgebaute politische und finanzielle Struktur und baute ihr kulturelles Ansehen weiter aus.",
       "es": "Era su abuelo. Lorenzo heredó la estructura política y financiera construida por Cosme y desarrolló aún más su prestigio cultural."
      }
+    },
+    {
+     "id": "sandro-botticelli",
+     "testo": {
+      "it": "Botticelli lavorò nella cerchia culturale laurenziana, anche se non tutte le sue opere più celebri furono commissionate direttamente da Lorenzo: la Primavera fu legata al cugino Lorenzo di Pierfrancesco.",
+      "en": "Botticelli worked in Lorenzo's cultural circle, although not all his most famous works were commissioned directly by Lorenzo: the Primavera was linked to his cousin Lorenzo di Pierfrancesco.",
+      "fr": "Botticelli travailla dans le cercle culturel laurentien, même si toutes ses œuvres les plus célèbres ne furent pas commandées directement par Laurent : le Printemps fut lié à son cousin Lorenzo di Pierfrancesco.",
+      "de": "Botticelli arbeitete im kulturellen Kreis um Lorenzo, auch wenn nicht alle seine berühmtesten Werke direkt von Lorenzo in Auftrag gegeben wurden: Die Primavera war mit seinem Vetter Lorenzo di Pierfrancesco verbunden.",
+      "es": "Botticelli trabajó en el círculo cultural laurentino, aunque no todas sus obras más célebres fueron encargadas directamente por Lorenzo: la Primavera estuvo ligada a su primo Lorenzo di Pierfrancesco."
+     }
     }
    ],
    "ritratto": {
@@ -2298,6 +2308,16 @@
       "fr": "Masaccio appliqua à la peinture les recherches sur la perspective et l'espace associées à Brunelleschi. Les sources parlent d'une amitié, mais un rapport personnel direct n'est pas certain.",
       "de": "Masaccio übertrug die mit Brunelleschi verbundenen Forschungen zu Perspektive und Raum auf die Malerei. Die Quellen sprechen von einer Freundschaft, eine direkte persönliche Beziehung ist jedoch nicht gesichert.",
       "es": "Masaccio aplicó a la pintura las investigaciones sobre la perspectiva y el espacio asociadas a Brunelleschi. Las fuentes hablan de una amistad, pero una relación personal directa no es segura."
+     }
+    },
+    {
+     "id": "leonardo-da-vinci",
+     "testo": {
+      "it": "Le macchine che Brunelleschi aveva ideato per il cantiere della cupola furono ammirate da Leonardo, giovane apprendista nella bottega di Verrocchio. Il legame è culturale e tecnico, non personale.",
+      "en": "The machines Brunelleschi had devised for the dome's building site were admired by Leonardo, a young apprentice in Verrocchio's workshop. The link is cultural and technical, not personal.",
+      "fr": "Les machines que Brunelleschi avait conçues pour le chantier de la coupole furent admirées par Léonard, jeune apprenti dans l'atelier de Verrocchio. Le lien est culturel et technique, non personnel.",
+      "de": "Die Maschinen, die Brunelleschi für die Baustelle der Kuppel entworfen hatte, wurden von Leonardo, einem jungen Lehrling in Verrocchios Werkstatt, bewundert. Die Verbindung ist kulturell und technisch, nicht persönlich.",
+      "es": "Las máquinas que Brunelleschi había ideado para la obra de la cúpula fueron admiradas por Leonardo, joven aprendiz en el taller de Verrocchio. El vínculo es cultural y técnico, no personal."
      }
     }
    ],
@@ -2704,6 +2724,304 @@
    ],
    "ritratto": {
     "autore": "Luca Signorelli, dal Web Gallery of Art",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "sandro-botticelli",
+   "nome": "Sandro Botticelli",
+   "nascita": 1445,
+   "morte": 1510,
+   "professione": {
+    "it": "Pittore",
+    "en": "Painter",
+    "fr": "Peintre",
+    "de": "Maler",
+    "es": "Pintor"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "Circa 1445",
+    "en": "Around 1445",
+    "fr": "Vers 1445",
+    "de": "Um 1445",
+    "es": "Hacia 1445"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "17 maggio 1510",
+    "en": "17 May 1510",
+    "fr": "17 mai 1510",
+    "de": "17. Mai 1510",
+    "es": "17 de mayo de 1510"
+   },
+   "biografia": {
+    "it": "Alessandro di Mariano Filipepi, conosciuto come Sandro Botticelli, fu uno dei più importanti pittori del Rinascimento fiorentino. Si formò probabilmente nella bottega di Filippo Lippi e sviluppò uno stile caratterizzato da eleganza lineare, raffinatezza decorativa e figure dalla forte espressività.\n\nLavorò per importanti famiglie fiorentine e fu strettamente legato all'ambiente culturale dei Medici. Tra le sue opere più celebri figurano la Primavera e la Nascita di Venere, oggi conservate agli Uffizi e legate alla cerchia medicea: la Primavera a Lorenzo di Pierfrancesco de' Medici, cugino del Magnifico. Questi dipinti testimoniano il dialogo tra arte, cultura classica e filosofia neoplatonica nella Firenze del Quattrocento.\n\nNel 1481 partecipò alla decorazione della Cappella Sistina a Roma, insieme ad altri importanti pittori toscani e umbri. Negli ultimi anni della sua vita la sua produzione assunse toni più severi e religiosi, in un contesto cittadino segnato dalla predicazione di Savonarola e dalla crisi del dominio mediceo.",
+    "en": "Alessandro di Mariano Filipepi, known as Sandro Botticelli, was one of the most important painters of the Florentine Renaissance. He probably trained in the workshop of Filippo Lippi and developed a style marked by linear elegance, decorative refinement and strongly expressive figures.\n\nHe worked for important Florentine families and was closely tied to the cultural world of the Medici. His most famous works include the Primavera and the Birth of Venus, now in the Uffizi and linked to the Medici circle: the Primavera to Lorenzo di Pierfrancesco de' Medici, cousin of the Magnificent. These paintings show the dialogue between art, classical culture and Neoplatonic philosophy in fifteenth-century Florence.\n\nIn 1481 he took part in the decoration of the Sistine Chapel in Rome, together with other important Tuscan and Umbrian painters. In the last years of his life his work took on a more severe and religious tone, in a city marked by Savonarola's preaching and the crisis of Medici rule.",
+    "fr": "Alessandro di Mariano Filipepi, connu sous le nom de Sandro Botticelli, fut l'un des plus importants peintres de la Renaissance florentine. Il se forma probablement dans l'atelier de Filippo Lippi et développa un style caractérisé par l'élégance linéaire, le raffinement décoratif et des figures très expressives.\n\nIl travailla pour d'importantes familles florentines et fut étroitement lié au milieu culturel des Médicis. Parmi ses œuvres les plus célèbres figurent le Printemps et la Naissance de Vénus, aujourd'hui aux Offices et liées au cercle des Médicis : le Printemps à Lorenzo di Pierfrancesco de' Médicis, cousin du Magnifique. Ces tableaux témoignent du dialogue entre art, culture classique et philosophie néoplatonicienne dans la Florence du XVe siècle.\n\nEn 1481, il participa à la décoration de la chapelle Sixtine à Rome, avec d'autres importants peintres toscans et ombriens. Dans les dernières années de sa vie, sa production prit des tons plus austères et religieux, dans une ville marquée par la prédication de Savonarole et la crise du pouvoir des Médicis.",
+    "de": "Alessandro di Mariano Filipepi, bekannt als Sandro Botticelli, war einer der bedeutendsten Maler der Florentiner Renaissance. Er lernte wahrscheinlich in der Werkstatt von Filippo Lippi und entwickelte einen Stil, der von linearer Eleganz, dekorativer Raffinesse und stark ausdrucksvollen Figuren geprägt ist.\n\nEr arbeitete für bedeutende Florentiner Familien und stand dem kulturellen Umfeld der Medici nahe. Zu seinen berühmtesten Werken zählen der Frühling (Primavera) und die Geburt der Venus, heute in den Uffizien und mit dem Medici-Kreis verbunden: die Primavera mit Lorenzo di Pierfrancesco de' Medici, dem Vetter des Prächtigen. Diese Gemälde zeugen vom Dialog zwischen Kunst, klassischer Kultur und neuplatonischer Philosophie im Florenz des 15. Jahrhunderts.\n\n1481 wirkte er in Rom an der Ausmalung der Sixtinischen Kapelle mit, zusammen mit anderen bedeutenden toskanischen und umbrischen Malern. In seinen letzten Lebensjahren wurde sein Werk strenger und religiöser, in einer Stadt, die von Savonarolas Predigten und der Krise der Medici-Herrschaft geprägt war.",
+    "es": "Alessandro di Mariano Filipepi, conocido como Sandro Botticelli, fue uno de los pintores más importantes del Renacimiento florentino. Probablemente se formó en el taller de Filippo Lippi y desarrolló un estilo caracterizado por la elegancia lineal, el refinamiento decorativo y figuras de gran expresividad.\n\nTrabajó para importantes familias florentinas y estuvo estrechamente ligado al ambiente cultural de los Médici. Entre sus obras más célebres figuran la Primavera y el Nacimiento de Venus, hoy en los Uffizi y vinculadas al círculo mediceo: la Primavera, a Lorenzo di Pierfrancesco de' Médici, primo del Magnífico. Estas pinturas atestiguan el diálogo entre arte, cultura clásica y filosofía neoplatónica en la Florencia del siglo XV.\n\nEn 1481 participó en la decoración de la Capilla Sixtina en Roma, junto con otros importantes pintores toscanos y umbros. En los últimos años de su vida su producción adoptó tonos más severos y religiosos, en una ciudad marcada por la predicación de Savonarola y la crisis del dominio mediceo."
+   },
+   "curiosita": {
+    "it": [
+     "Il soprannome: Botticelli deriva probabilmente dal soprannome del fratello Giovanni, detto «Botticello» («piccola botte»).",
+     "La Nascita di Venere: non rappresenta una nascita in senso letterale; la dea approda sulla riva dopo essere emersa dal mare.",
+     "Prima di Michelangelo: Botticelli partecipò alla decorazione della Cappella Sistina prima che Michelangelo realizzasse la volta.",
+     "Il David: nel 1504 fece parte della commissione di artisti che doveva scegliere dove collocare il David di Michelangelo. Sosteneva una collocazione presso il Duomo; alla fine la statua fu posta davanti a Palazzo Vecchio.",
+     "Savonarola: è stato a lungo tramandato che negli ultimi anni fosse vicino alle idee di Savonarola; il rapporto tra la sua produzione tarda e il movimento savonaroliano va però interpretato con cautela."
+    ],
+    "en": [
+     "The nickname: Botticelli probably comes from the nickname of his brother Giovanni, called «Botticello» («little barrel»).",
+     "The Birth of Venus: it does not show a birth in the literal sense; the goddess lands on the shore after emerging from the sea.",
+     "Before Michelangelo: Botticelli took part in decorating the Sistine Chapel before Michelangelo painted the ceiling.",
+     "The David: in 1504 he sat on the committee of artists that had to choose where to place Michelangelo's David. He favoured a site near the Duomo; in the end the statue was placed in front of Palazzo Vecchio.",
+     "Savonarola: it has long been handed down that in his last years he was close to Savonarola's ideas; the relationship between his late work and the Savonarolan movement must, however, be interpreted with caution."
+    ],
+    "fr": [
+     "Le surnom : Botticelli vient probablement du surnom de son frère Giovanni, dit «Botticello» («petit tonneau»).",
+     "La Naissance de Vénus : elle ne représente pas une naissance au sens littéral ; la déesse aborde le rivage après avoir émergé de la mer.",
+     "Avant Michel-Ange : Botticelli participa à la décoration de la chapelle Sixtine avant que Michel-Ange ne réalise la voûte.",
+     "Le David : en 1504, il fit partie de la commission d'artistes chargée de choisir l'emplacement du David de Michel-Ange. Il était favorable à un site près du Duomo ; finalement, la statue fut placée devant le Palazzo Vecchio.",
+     "Savonarole : on a longtemps transmis que, dans ses dernières années, il fut proche des idées de Savonarole ; le rapport entre sa production tardive et le mouvement savonarolien doit cependant être interprété avec prudence."
+    ],
+    "de": [
+     "Der Spitzname: Botticelli geht wahrscheinlich auf den Spitznamen seines Bruders Giovanni zurück, genannt «Botticello» («Fässchen»).",
+     "Die Geburt der Venus: Sie zeigt keine Geburt im wörtlichen Sinn; die Göttin landet am Ufer, nachdem sie dem Meer entstiegen ist.",
+     "Vor Michelangelo: Botticelli wirkte an der Ausmalung der Sixtinischen Kapelle mit, bevor Michelangelo die Decke schuf.",
+     "Der David: 1504 gehörte er der Künstlerkommission an, die den Standort von Michelangelos David bestimmen sollte. Er sprach sich für einen Platz beim Dom aus; schließlich wurde die Statue vor dem Palazzo Vecchio aufgestellt.",
+     "Savonarola: Lange wurde überliefert, dass er in seinen letzten Jahren Savonarolas Ideen nahestand; das Verhältnis zwischen seinem Spätwerk und der savonarolischen Bewegung ist jedoch mit Vorsicht zu deuten."
+    ],
+    "es": [
+     "El apodo: Botticelli deriva probablemente del apodo de su hermano Giovanni, llamado «Botticello» («barrilito»).",
+     "El Nacimiento de Venus: no representa un nacimiento en sentido literal; la diosa llega a la orilla tras emerger del mar.",
+     "Antes de Miguel Ángel: Botticelli participó en la decoración de la Capilla Sixtina antes de que Miguel Ángel pintara la bóveda.",
+     "El David: en 1504 formó parte de la comisión de artistas que debía elegir dónde colocar el David de Miguel Ángel. Defendía un emplazamiento cerca del Duomo; al final la estatua se colocó frente al Palazzo Vecchio.",
+     "Savonarola: durante mucho tiempo se transmitió que en sus últimos años estuvo cercano a las ideas de Savonarola; la relación entre su producción tardía y el movimiento savonaroliano debe, sin embargo, interpretarse con cautela."
+    ]
+   },
+   "luoghi": [
+    "basilica-di-santa-maria-novella",
+    "piazza-della-signoria"
+   ],
+   "luoghiNote": {
+    "basilica-di-santa-maria-novella": {
+     "tipo": {
+      "it": "L'Adorazione dei Magi",
+      "en": "The Adoration of the Magi",
+      "fr": "L'Adoration des Mages",
+      "de": "Die Anbetung der Könige",
+      "es": "La Adoración de los Magos"
+     },
+     "testo": {
+      "it": "Per la cappella Del Lama dipinse l'Adorazione dei Magi, oggi agli Uffizi. Tradizionalmente vi si riconosce il suo autoritratto, nel giovane con il mantello arancione.",
+      "en": "For the Del Lama chapel he painted the Adoration of the Magi, now in the Uffizi. His self-portrait is traditionally recognised in the young man in the orange cloak.",
+      "fr": "Pour la chapelle Del Lama, il peignit l'Adoration des Mages, aujourd'hui aux Offices. On y reconnaît traditionnellement son autoportrait dans le jeune homme au manteau orange.",
+      "de": "Für die Del-Lama-Kapelle malte er die Anbetung der Könige, heute in den Uffizien. Sein Selbstporträt wird der Überlieferung nach in dem jungen Mann im orangefarbenen Mantel erkannt.",
+      "es": "Para la capilla Del Lama pintó la Adoración de los Magos, hoy en los Uffizi. Tradicionalmente se reconoce su autorretrato en el joven del manto naranja."
+     }
+    },
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Il David",
+      "en": "The David",
+      "fr": "Le David",
+      "de": "Der David",
+      "es": "El David"
+     },
+     "testo": {
+      "it": "Qui fu collocato il David di Michelangelo dopo la decisione presa nel 1504 da una commissione di artisti, tra cui Botticelli, che sosteneva una collocazione presso il Duomo.",
+      "en": "Michelangelo's David was placed here after a decision taken in 1504 by a committee of artists, including Botticelli, who favoured a site near the Duomo.",
+      "fr": "Le David de Michel-Ange fut placé ici après une décision prise en 1504 par une commission d'artistes, dont Botticelli, qui était favorable à un site près du Duomo.",
+      "de": "Hier wurde Michelangelos David nach einer Entscheidung aufgestellt, die 1504 eine Künstlerkommission traf, der auch Botticelli angehörte; er sprach sich für einen Platz beim Dom aus.",
+      "es": "Aquí se colocó el David de Miguel Ángel tras la decisión tomada en 1504 por una comisión de artistas, entre ellos Botticelli, que defendía un emplazamiento cerca del Duomo."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Botticelli lavorò nell'ambiente culturale e politico dei Medici e fu legato a importanti committenti della famiglia. Il rapporto con la cerchia laurenziana è significativo, anche se non tutte le sue opere più celebri furono commissionate direttamente da Lorenzo.",
+      "en": "Botticelli worked in the cultural and political world of the Medici and was tied to important patrons of the family. His relationship with Lorenzo's circle is significant, even though not all his most famous works were commissioned directly by Lorenzo.",
+      "fr": "Botticelli travailla dans le milieu culturel et politique des Médicis et fut lié à d'importants commanditaires de la famille. Le rapport avec le cercle laurentien est significatif, même si toutes ses œuvres les plus célèbres ne furent pas commandées directement par Laurent.",
+      "de": "Botticelli arbeitete im kulturellen und politischen Umfeld der Medici und stand wichtigen Auftraggebern der Familie nahe. Die Verbindung zu Lorenzos Kreis ist bedeutsam, auch wenn nicht alle seine berühmtesten Werke direkt von Lorenzo in Auftrag gegeben wurden.",
+      "es": "Botticelli trabajó en el ambiente cultural y político de los Médici y estuvo ligado a importantes comitentes de la familia. La relación con el círculo laurentino es significativa, aunque no todas sus obras más célebres fueron encargadas directamente por Lorenzo."
+     }
+    },
+    {
+     "id": "leonardo-da-vinci",
+     "testo": {
+      "it": "Furono entrambi nella commissione di artisti che nel 1504 decise dove collocare il David di Michelangelo. Botticelli sosteneva una collocazione presso il Duomo, Leonardo la Loggia dei Lanzi. Non è documentata una collaborazione tra loro.",
+      "en": "Both sat on the committee of artists that in 1504 decided where to place Michelangelo's David. Botticelli favoured a site near the Duomo, Leonardo the Loggia dei Lanzi. No collaboration between them is documented.",
+      "fr": "Tous deux firent partie de la commission d'artistes qui, en 1504, décida de l'emplacement du David de Michel-Ange. Botticelli était favorable à un site près du Duomo, Léonard à la Loggia dei Lanzi. Aucune collaboration entre eux n'est documentée.",
+      "de": "Beide gehörten der Künstlerkommission an, die 1504 über den Standort von Michelangelos David entschied. Botticelli sprach sich für einen Platz beim Dom aus, Leonardo für die Loggia dei Lanzi. Eine Zusammenarbeit zwischen ihnen ist nicht belegt.",
+      "es": "Ambos formaron parte de la comisión de artistas que en 1504 decidió dónde colocar el David de Miguel Ángel. Botticelli defendía un emplazamiento cerca del Duomo, Leonardo la Loggia dei Lanzi. No está documentada una colaboración entre ellos."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Sandro Botticelli, particolare dell'Adorazione dei Magi (tradizionale autoritratto)",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "leonardo-da-vinci",
+   "nome": "Leonardo da Vinci",
+   "nascita": 1452,
+   "morte": 1519,
+   "professione": {
+    "it": "Pittore, scienziato, ingegnere e inventore",
+    "en": "Painter, scientist, engineer and inventor",
+    "fr": "Peintre, scientifique, ingénieur et inventeur",
+    "de": "Maler, Wissenschaftler, Ingenieur und Erfinder",
+    "es": "Pintor, científico, ingeniero e inventor"
+   },
+   "luogoNascita": {
+    "it": "Vinci",
+    "en": "Vinci",
+    "fr": "Vinci",
+    "de": "Vinci",
+    "es": "Vinci"
+   },
+   "dataNascita": {
+    "it": "15 aprile 1452",
+    "en": "15 April 1452",
+    "fr": "15 avril 1452",
+    "de": "15. April 1452",
+    "es": "15 de abril de 1452"
+   },
+   "luogoMorte": {
+    "it": "Amboise (Francia)",
+    "en": "Amboise (France)",
+    "fr": "Amboise (France)",
+    "de": "Amboise (Frankreich)",
+    "es": "Amboise (Francia)"
+   },
+   "dataMorte": {
+    "it": "2 maggio 1519",
+    "en": "2 May 1519",
+    "fr": "2 mai 1519",
+    "de": "2. Mai 1519",
+    "es": "2 de mayo de 1519"
+   },
+   "biografia": {
+    "it": "Leonardo da Vinci fu pittore, scienziato, ingegnere, anatomista, architetto e inventore. È considerato una delle figure più rappresentative del Rinascimento per la vastità dei suoi interessi e per la capacità di unire osservazione scientifica e ricerca artistica.\n\nNacque a Vinci, nel territorio fiorentino, e si formò a Firenze nella bottega di Andrea del Verrocchio. Nel 1472 risultava già iscritto alla Compagnia dei Pittori. Dopo i primi anni di attività in Toscana, si trasferì a Milano, dove lavorò per Ludovico il Moro. In seguito operò in diverse città italiane, tra cui Mantova, Venezia, Roma e nuovamente Firenze; negli ultimi anni lavorò alla corte di Francesco I, in Francia, dove morì.\n\nA Firenze, ancora apprendista, ammirò le macchine ideate da Brunelleschi per il cantiere della cupola; la bottega di Verrocchio completò tra il 1469 e il 1471 la sfera di rame della lanterna. Tornato in città tra il 1500 e il 1506, iniziò la Gioconda e la Battaglia di Anghiari.\n\nTra i suoi capolavori figurano l'Ultima Cena, la Gioconda, la Vergine delle rocce e numerosi disegni e studi scientifici. La sua ricerca sulla prospettiva, l'anatomia, la luce e il movimento influenzò profondamente la storia dell'arte.",
+    "en": "Leonardo da Vinci was a painter, scientist, engineer, anatomist, architect and inventor. He is regarded as one of the most representative figures of the Renaissance for the breadth of his interests and his ability to combine scientific observation with artistic research.\n\nHe was born in Vinci, in Florentine territory, and trained in Florence in the workshop of Andrea del Verrocchio. By 1472 he was already enrolled in the Company of Painters. After his first years of activity in Tuscany he moved to Milan, where he worked for Ludovico il Moro. He later worked in several Italian cities, including Mantua, Venice, Rome and Florence again; in his last years he worked at the court of Francis I in France, where he died.\n\nIn Florence, still an apprentice, he admired the machines Brunelleschi had devised for the construction of the dome; between 1469 and 1471 Verrocchio's workshop completed the copper sphere of the lantern. Back in the city between 1500 and 1506, he began the Mona Lisa and the Battle of Anghiari.\n\nAmong his masterpieces are the Last Supper, the Mona Lisa, the Virgin of the Rocks and numerous drawings and scientific studies. His research on perspective, anatomy, light and movement profoundly influenced the history of art.",
+    "fr": "Léonard de Vinci fut peintre, scientifique, ingénieur, anatomiste, architecte et inventeur. Il est considéré comme l'une des figures les plus représentatives de la Renaissance par l'étendue de ses intérêts et sa capacité à unir observation scientifique et recherche artistique.\n\nIl naquit à Vinci, en territoire florentin, et se forma à Florence dans l'atelier d'Andrea del Verrocchio. En 1472, il était déjà inscrit à la Compagnie des Peintres. Après ses premières années d'activité en Toscane, il s'installa à Milan, où il travailla pour Ludovic le More. Il œuvra ensuite dans plusieurs villes italiennes, dont Mantoue, Venise, Rome et de nouveau Florence ; dans ses dernières années, il travailla à la cour de François Ier, en France, où il mourut.\n\nÀ Florence, encore apprenti, il admira les machines conçues par Brunelleschi pour le chantier de la coupole ; entre 1469 et 1471, l'atelier de Verrocchio acheva la sphère de cuivre de la lanterne. De retour dans la ville entre 1500 et 1506, il commença la Joconde et la Bataille d'Anghiari.\n\nParmi ses chefs-d'œuvre figurent la Cène, la Joconde, la Vierge aux rochers et de nombreux dessins et études scientifiques. Ses recherches sur la perspective, l'anatomie, la lumière et le mouvement influencèrent profondément l'histoire de l'art.",
+    "de": "Leonardo da Vinci war Maler, Wissenschaftler, Ingenieur, Anatom, Architekt und Erfinder. Er gilt wegen der Vielfalt seiner Interessen und seiner Fähigkeit, wissenschaftliche Beobachtung und künstlerische Forschung zu verbinden, als eine der repräsentativsten Gestalten der Renaissance.\n\nEr wurde in Vinci auf florentinischem Gebiet geboren und bildete sich in Florenz in der Werkstatt von Andrea del Verrocchio aus. 1472 war er bereits in die Malergilde eingetragen. Nach den ersten Jahren in der Toskana zog er nach Mailand, wo er für Ludovico il Moro arbeitete. Später wirkte er in mehreren italienischen Städten, darunter Mantua, Venedig, Rom und erneut Florenz; in seinen letzten Jahren arbeitete er am Hof Franz' I. in Frankreich, wo er starb.\n\nIn Florenz bewunderte er noch als Lehrling die Maschinen, die Brunelleschi für den Bau der Kuppel entworfen hatte; zwischen 1469 und 1471 vollendete Verrocchios Werkstatt die Kupferkugel der Laterne. Nach seiner Rückkehr in die Stadt zwischen 1500 und 1506 begann er die Mona Lisa und die Schlacht von Anghiari.\n\nZu seinen Meisterwerken zählen das Abendmahl, die Mona Lisa, die Felsgrottenmadonna sowie zahlreiche Zeichnungen und wissenschaftliche Studien. Seine Forschungen zu Perspektive, Anatomie, Licht und Bewegung beeinflussten die Kunstgeschichte tiefgreifend.",
+    "es": "Leonardo da Vinci fue pintor, científico, ingeniero, anatomista, arquitecto e inventor. Se le considera una de las figuras más representativas del Renacimiento por la amplitud de sus intereses y su capacidad para unir observación científica e investigación artística.\n\nNació en Vinci, en territorio florentino, y se formó en Florencia en el taller de Andrea del Verrocchio. En 1472 ya figuraba inscrito en la Compañía de los Pintores. Tras sus primeros años de actividad en la Toscana se trasladó a Milán, donde trabajó para Ludovico el Moro. Después trabajó en varias ciudades italianas, entre ellas Mantua, Venecia, Roma y de nuevo Florencia; en sus últimos años trabajó en la corte de Francisco I, en Francia, donde murió.\n\nEn Florencia, aún aprendiz, admiró las máquinas ideadas por Brunelleschi para la obra de la cúpula; entre 1469 y 1471 el taller de Verrocchio completó la esfera de cobre de la linterna. De vuelta en la ciudad entre 1500 y 1506, inició la Gioconda y la Batalla de Anghiari.\n\nEntre sus obras maestras figuran la Última Cena, la Gioconda, la Virgen de las rocas y numerosos dibujos y estudios científicos. Su investigación sobre la perspectiva, la anatomía, la luz y el movimiento influyó profundamente en la historia del arte."
+   },
+   "curiosita": {
+    "it": [
+     "Scrittura speculare: scriveva spesso da destra verso sinistra, in una grafia speculare.",
+     "Migliaia di pagine: riempì migliaia di pagine di appunti e disegni, oggi conservati in diversi codici, e studiò la natura e il corpo umano attraverso dissezioni e disegni anatomici.",
+     "La Battaglia di Anghiari: nel 1503 ricevette l'incarico di realizzarla nella Sala Grande di Palazzo Vecchio. Il progetto rimase incompiuto; l'anno seguente a Michelangelo fu affidata la Battaglia di Cascina.",
+     "Il nome «Gioconda»: secondo l'ipotesi più accreditata, il ritratto raffigura Lisa Gherardini, moglie del mercante fiorentino Francesco del Giocondo, da cui il nome. Leonardo vi lavorava già nell'autunno del 1503.",
+     "Il David: nel 1504 fece parte della commissione che doveva decidere dove collocare il David di Michelangelo. Sosteneva la Loggia dei Lanzi; la statua fu poi posta davanti a Palazzo Vecchio."
+    ],
+    "en": [
+     "Mirror writing: he often wrote from right to left, in a mirror hand.",
+     "Thousands of pages: he filled thousands of pages with notes and drawings, now kept in several codices, and studied nature and the human body through dissections and anatomical drawings.",
+     "The Battle of Anghiari: in 1503 he was commissioned to paint it in the Sala Grande of Palazzo Vecchio. The project remained unfinished; the following year Michelangelo was given the Battle of Cascina.",
+     "The name «Gioconda»: according to the most widely accepted hypothesis, the portrait shows Lisa Gherardini, wife of the Florentine merchant Francesco del Giocondo, hence the name. Leonardo was already working on it in the autumn of 1503.",
+     "The David: in 1504 he sat on the committee that had to decide where to place Michelangelo's David. He favoured the Loggia dei Lanzi; the statue was then placed in front of Palazzo Vecchio."
+    ],
+    "fr": [
+     "Écriture spéculaire : il écrivait souvent de droite à gauche, en écriture en miroir.",
+     "Des milliers de pages : il remplit des milliers de pages de notes et de dessins, aujourd'hui conservés dans plusieurs codex, et étudia la nature et le corps humain par des dissections et des dessins anatomiques.",
+     "La Bataille d'Anghiari : en 1503, il reçut la commande de la réaliser dans la Sala Grande du Palazzo Vecchio. Le projet resta inachevé ; l'année suivante, la Bataille de Cascina fut confiée à Michel-Ange.",
+     "Le nom « Joconde » : selon l'hypothèse la plus acceptée, le portrait représente Lisa Gherardini, épouse du marchand florentin Francesco del Giocondo, d'où le nom. Léonard y travaillait déjà à l'automne 1503.",
+     "Le David : en 1504, il fit partie de la commission chargée de décider de l'emplacement du David de Michel-Ange. Il soutenait la Loggia dei Lanzi ; la statue fut ensuite placée devant le Palazzo Vecchio."
+    ],
+    "de": [
+     "Spiegelschrift: Er schrieb oft von rechts nach links, in Spiegelschrift.",
+     "Tausende Seiten: Er füllte Tausende Seiten mit Notizen und Zeichnungen, die heute in mehreren Codices aufbewahrt werden, und erforschte Natur und menschlichen Körper durch Sektionen und anatomische Zeichnungen.",
+     "Die Schlacht von Anghiari: 1503 erhielt er den Auftrag, sie in der Sala Grande des Palazzo Vecchio zu malen. Das Projekt blieb unvollendet; im folgenden Jahr wurde Michelangelo die Schlacht von Cascina übertragen.",
+     "Der Name «Gioconda»: Nach der am weitesten akzeptierten Hypothese zeigt das Porträt Lisa Gherardini, die Frau des Florentiner Kaufmanns Francesco del Giocondo, daher der Name. Leonardo arbeitete im Herbst 1503 bereits daran.",
+     "Der David: 1504 gehörte er der Kommission an, die über den Standort von Michelangelos David entscheiden sollte. Er trat für die Loggia dei Lanzi ein; die Statue wurde dann vor dem Palazzo Vecchio aufgestellt."
+    ],
+    "es": [
+     "Escritura especular: escribía a menudo de derecha a izquierda, en escritura especular.",
+     "Miles de páginas: llenó miles de páginas de apuntes y dibujos, hoy conservados en varios códices, y estudió la naturaleza y el cuerpo humano mediante disecciones y dibujos anatómicos.",
+     "La Batalla de Anghiari: en 1503 recibió el encargo de realizarla en la Sala Grande del Palazzo Vecchio. El proyecto quedó inconcluso; al año siguiente a Miguel Ángel se le encargó la Batalla de Cascina.",
+     "El nombre «Gioconda»: según la hipótesis más aceptada, el retrato representa a Lisa Gherardini, esposa del mercader florentino Francesco del Giocondo, de ahí el nombre. Leonardo ya trabajaba en él en el otoño de 1503.",
+     "El David: en 1504 formó parte de la comisión que debía decidir dónde colocar el David de Miguel Ángel. Defendía la Loggia dei Lanzi; la estatua se colocó después frente al Palazzo Vecchio."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio",
+    "cattedrale-di-santa-maria-del-fiore"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "La Sala Grande",
+      "en": "The Sala Grande",
+      "fr": "La Sala Grande",
+      "de": "Die Sala Grande",
+      "es": "La Sala Grande"
+     },
+     "testo": {
+      "it": "Nella Sala Grande, allora sala del Consiglio, ricevette l'incarico di dipingere la Battaglia di Anghiari, rimasta incompiuta.",
+      "en": "In the Sala Grande, then the Council hall, he was commissioned to paint the Battle of Anghiari, which remained unfinished.",
+      "fr": "Dans la Sala Grande, alors salle du Conseil, il reçut la commande de peindre la Bataille d'Anghiari, restée inachevée.",
+      "de": "In der Sala Grande, damals der Ratssaal, erhielt er den Auftrag, die Schlacht von Anghiari zu malen, die unvollendet blieb.",
+      "es": "En la Sala Grande, entonces sala del Consejo, recibió el encargo de pintar la Batalla de Anghiari, que quedó inconclusa."
+     }
+    },
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "La sfera della lanterna",
+      "en": "The lantern's sphere",
+      "fr": "La sphère de la lanterne",
+      "de": "Die Kugel der Laterne",
+      "es": "La esfera de la linterna"
+     },
+     "testo": {
+      "it": "La bottega di Verrocchio, dove Leonardo lavorava, completò la sfera di rame della lanterna della Cupola. Le macchine di Brunelleschi per il cantiere lo colpirono.",
+      "en": "Verrocchio's workshop, where Leonardo worked, completed the copper sphere of the Dome's lantern. Brunelleschi's machines for the building site impressed him.",
+      "fr": "L'atelier de Verrocchio, où Léonard travaillait, acheva la sphère de cuivre de la lanterne de la Coupole. Les machines de Brunelleschi pour le chantier l'impressionnèrent.",
+      "de": "Verrocchios Werkstatt, in der Leonardo arbeitete, vollendete die Kupferkugel der Kuppellaterne. Brunelleschis Baustellenmaschinen beeindruckten ihn.",
+      "es": "El taller de Verrocchio, donde trabajaba Leonardo, completó la esfera de cobre de la linterna de la Cúpula. Las máquinas de Brunelleschi para la obra le impresionaron."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "filippo-brunelleschi",
+     "testo": {
+      "it": "Leonardo, giovane apprendista nella bottega di Verrocchio, ammirò le macchine che Brunelleschi aveva ideato per il cantiere della cupola e ne sviluppò i problemi di meccanica e geometria. Il legame è culturale e tecnico, non personale.",
+      "en": "Leonardo, as a young apprentice in Verrocchio's workshop, admired the machines Brunelleschi had devised for the dome's building site and developed its problems of mechanics and geometry. The link is cultural and technical, not personal.",
+      "fr": "Léonard, jeune apprenti dans l'atelier de Verrocchio, admira les machines que Brunelleschi avait conçues pour le chantier de la coupole et en développa les problèmes de mécanique et de géométrie. Le lien est culturel et technique, non personnel.",
+      "de": "Leonardo bewunderte als junger Lehrling in Verrocchios Werkstatt die Maschinen, die Brunelleschi für die Baustelle der Kuppel entworfen hatte, und entwickelte deren Fragen der Mechanik und Geometrie weiter. Die Verbindung ist kulturell und technisch, nicht persönlich.",
+      "es": "Leonardo, joven aprendiz en el taller de Verrocchio, admiró las máquinas que Brunelleschi había ideado para la obra de la cúpula y desarrolló sus problemas de mecánica y geometría. El vínculo es cultural y técnico, no personal."
+     }
+    },
+    {
+     "id": "sandro-botticelli",
+     "testo": {
+      "it": "Furono entrambi nella commissione di artisti che nel 1504 decise dove collocare il David di Michelangelo. Botticelli sosteneva una collocazione presso il Duomo, Leonardo la Loggia dei Lanzi. Non è documentata una collaborazione tra loro.",
+      "en": "Both sat on the committee of artists that in 1504 decided where to place Michelangelo's David. Botticelli favoured a site near the Duomo, Leonardo the Loggia dei Lanzi. No collaboration between them is documented.",
+      "fr": "Tous deux firent partie de la commission d'artistes qui, en 1504, décida de l'emplacement du David de Michel-Ange. Botticelli était favorable à un site près du Duomo, Léonard à la Loggia dei Lanzi. Aucune collaboration entre eux n'est documentée.",
+      "de": "Beide gehörten der Künstlerkommission an, die 1504 über den Standort von Michelangelos David entschied. Botticelli sprach sich für einen Platz beim Dom aus, Leonardo für die Loggia dei Lanzi. Eine Zusammenarbeit zwischen ihnen ist nicht belegt.",
+      "es": "Ambos formaron parte de la comisión de artistas que en 1504 decidió dónde colocar el David de Miguel Ángel. Botticelli defendía un emplazamiento cerca del Duomo, Leonardo la Loggia dei Lanzi. No está documentada una colaboración entre ellos."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Leonardo da Vinci, Autoritratto (disegno a sanguigna, Biblioteca Reale di Torino)",
     "licenza": "Pubblico dominio"
    }
   }

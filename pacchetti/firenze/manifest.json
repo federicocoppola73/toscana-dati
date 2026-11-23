@@ -1,5 +1,5 @@
 {
- "versione": "1450439f76a9",
+ "versione": "24111c33427d",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3176,6 +3176,12 @@
    "byte": 170686
   },
   {
+   "path": "assets/personaggi/leonardo-da-vinci.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/leonardo-da-vinci.webp",
+   "sha256": "9151fd99e150e5c728271e4b685c3d47218551acbce81ba18f235006020ec437",
+   "byte": 132266
+  },
+  {
    "path": "assets/personaggi/lorenzo-il-magnifico.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/lorenzo-il-magnifico.webp",
    "sha256": "dd083855c954c5287e48fc662d53fb9aade9a9bc9c84d68aed536b87778b09fc",
@@ -3204,6 +3210,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/san-zanobi.webp",
    "sha256": "d25c24e7a469f00f06a42e2ea0b35455b1057b3d18d4d4758276dc373ca7101b",
    "byte": 67996
+  },
+  {
+   "path": "assets/personaggi/sandro-botticelli.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/sandro-botticelli.webp",
+   "sha256": "4459b6662db46e1732d4811326aa9063fc622c6dd983517ad5a2b2819e900b65",
+   "byte": 171584
   },
   {
    "path": "assets/personaggi/ugo-di-toscana.webp",
@@ -3292,8 +3304,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "c9792ff301f2546827c990bbf6991b9922a572acc20094c13d019cf0dbb65ffa",
-   "byte": 287002
+   "sha256": "d10942754d011e9b6847e3938e4a05392594e55deb7541c8b2b7f0c9b7e25f9e",
+   "byte": 323003
   },
   {
    "path": "dati/principali.json",
@@ -3316,8 +3328,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "d3be6d49c7518b3b758c074b7beb0afb94015280ddf6d24c86259a67caf1d692",
-   "byte": 26675
+   "sha256": "9908c7162284173cea56566be61f1439e210eedf071c8a5a667bd5bf4c9f7a06",
+   "byte": 26725
   },
   {
    "path": "dati/tessere.json",
@@ -3333,12 +3345,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "92a421418407",
-   "da": "35f58ce0a85d",
-   "data": "2026-11-23",
-   "byte": 6981
-  },
   {
    "versione": "39132cab9b9b",
    "da": "92a421418407",
@@ -3452,6 +3458,12 @@
    "da": "bf712b34c9a5",
    "data": "2026-11-23",
    "byte": 385441
+  },
+  {
+   "versione": "24111c33427d",
+   "da": "1450439f76a9",
+   "data": "2026-11-23",
+   "byte": 653578
   }
  ]
 }
