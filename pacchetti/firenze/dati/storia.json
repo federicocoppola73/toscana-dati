@@ -151,6 +151,39 @@
    "approfondire": [
     "piazza-della-signoria"
    ]
+  },
+  {
+   "id": "05",
+   "titolo": {
+    "it": "I Medici, il Granducato e i Lorena",
+    "en": "The Medici, the Grand Duchy and the House of Lorraine",
+    "fr": "Les Médicis, le Grand-Duché et les Lorraine",
+    "de": "Die Medici, das Großherzogtum und die Lothringer",
+    "es": "Los Médici, el Gran Ducado y los Lorena"
+   },
+   "anni": {
+    "it": "XVI–XIX secolo",
+    "en": "16th–19th century",
+    "fr": "XVIe–XIXe siècle",
+    "de": "16.–19. Jahrhundert",
+    "es": "siglos XVI–XIX"
+   },
+   "testo": {
+    "it": "Dopo la fine della Repubblica, Firenze divenne il centro di uno Stato governato dai Medici. Nel 1569 nacque il Granducato di Toscana, che trasformò la città nella capitale di una realtà politica più ampia. I Medici promossero grandi opere architettoniche e artistiche, ma la città perse progressivamente il ruolo economico dominante dei secoli precedenti. Nel Settecento la dinastia si estinse e il Granducato passò ai Lorena, sotto i quali furono avviate importanti riforme.",
+    "en": "After the end of the Republic, Florence became the centre of a state ruled by the Medici. In 1569 the Grand Duchy of Tuscany was born, turning the city into the capital of a wider political entity. The Medici promoted great architectural and artistic works, but the city gradually lost the dominant economic role of earlier centuries. In the eighteenth century the dynasty died out and the Grand Duchy passed to the House of Lorraine, under which important reforms were begun.",
+    "fr": "Après la fin de la République, Florence devint le centre d'un État gouverné par les Médicis. En 1569 naquit le Grand-Duché de Toscane, qui fit de la ville la capitale d'une réalité politique plus vaste. Les Médicis promurent de grands travaux architecturaux et artistiques, mais la ville perdit progressivement le rôle économique dominant des siècles précédents. Au XVIIIe siècle, la dynastie s'éteignit et le Grand-Duché passa aux Lorraine, sous lesquels d'importantes réformes furent engagées.",
+    "de": "Nach dem Ende der Republik wurde Florenz zum Zentrum eines von den Medici regierten Staates. 1569 entstand das Großherzogtum Toskana, das die Stadt zur Hauptstadt eines größeren politischen Gebildes machte. Die Medici förderten große architektonische und künstlerische Werke, doch die Stadt verlor allmählich die beherrschende wirtschaftliche Rolle früherer Jahrhunderte. Im 18. Jahrhundert erlosch die Dynastie, und das Großherzogtum ging an die Lothringer über, unter denen wichtige Reformen eingeleitet wurden.",
+    "es": "Tras el fin de la República, Florencia se convirtió en el centro de un Estado gobernado por los Médici. En 1569 nació el Gran Ducado de Toscana, que transformó la ciudad en la capital de una realidad política más amplia. Los Médici promovieron grandes obras arquitectónicas y artísticas, pero la ciudad perdió progresivamente el papel económico dominante de los siglos anteriores. En el siglo XVIII la dinastía se extinguió y el Gran Ducado pasó a los Lorena, bajo los cuales se emprendieron importantes reformas."
+   },
+   "audio": "storia-05",
+   "luoghi": [
+    "palazzo-pitti",
+    "palazzo-vecchio",
+    "ponte-vecchio"
+   ],
+   "approfondire": [
+    "basilica-di-san-lorenzo"
+   ]
   }
  ]
 }
