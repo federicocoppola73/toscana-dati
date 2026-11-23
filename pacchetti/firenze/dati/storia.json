@@ -84,6 +84,41 @@
    "approfondire": [
     "cattedrale-di-santa-maria-del-fiore"
    ]
+  },
+  {
+   "id": "03",
+   "titolo": {
+    "it": "Il Comune: mercanti, guerre e potere",
+    "en": "The Commune: merchants, wars and power",
+    "fr": "La Commune : marchands, guerres et pouvoir",
+    "de": "Die Kommune: Kaufleute, Kriege und Macht",
+    "es": "El Comune: mercaderes, guerras y poder"
+   },
+   "anni": {
+    "it": "XII–XIV secolo",
+    "en": "12th–14th century",
+    "fr": "XIIe–XIVe siècle",
+    "de": "12.–14. Jahrhundert",
+    "es": "siglos XII–XIV"
+   },
+   "testo": {
+    "it": "Tra il XII e il XIV secolo Firenze diventò una delle città più ricche e potenti d'Europa. Il Comune si rafforzò, le corporazioni organizzarono la vita economica e il fiorino d'oro conquistò un ruolo internazionale. Ma la ricchezza fu accompagnata da guerre, lotte tra guelfi e ghibellini, rivalità tra famiglie, crisi sociali ed epidemie. In questi secoli presero forma molti dei monumenti medievali che ancora oggi caratterizzano la città.",
+    "en": "Between the twelfth and the fourteenth century Florence became one of the richest and most powerful cities in Europe. The Commune grew stronger, the guilds organised economic life and the gold florin won an international role. But wealth came with wars, struggles between Guelphs and Ghibellines, rivalries between families, social crises and epidemics. In these centuries many of the medieval monuments that still characterise the city took shape.",
+    "fr": "Entre le XIIe et le XIVe siècle, Florence devint l'une des villes les plus riches et les plus puissantes d'Europe. La Commune se renforça, les corporations organisèrent la vie économique et le florin d'or acquit un rôle international. Mais la richesse s'accompagna de guerres, de luttes entre guelfes et gibelins, de rivalités entre familles, de crises sociales et d'épidémies. Au cours de ces siècles prirent forme bon nombre des monuments médiévaux qui caractérisent encore aujourd'hui la ville.",
+    "de": "Zwischen dem 12. und dem 14. Jahrhundert wurde Florenz zu einer der reichsten und mächtigsten Städte Europas. Die Kommune festigte sich, die Zünfte organisierten das Wirtschaftsleben, und der Goldflorin gewann internationale Bedeutung. Doch der Reichtum ging mit Kriegen, Kämpfen zwischen Guelfen und Ghibellinen, Rivalitäten zwischen Familien, sozialen Krisen und Epidemien einher. In diesen Jahrhunderten entstanden viele der mittelalterlichen Monumente, die die Stadt noch heute prägen.",
+    "es": "Entre los siglos XII y XIV, Florencia se convirtió en una de las ciudades más ricas y poderosas de Europa. El Comune se fortaleció, los gremios organizaron la vida económica y el florín de oro adquirió un papel internacional. Pero la riqueza fue acompañada de guerras, luchas entre güelfos y gibelinos, rivalidades entre familias, crisis sociales y epidemias. En esos siglos tomaron forma muchos de los monumentos medievales que todavía hoy caracterizan la ciudad."
+   },
+   "audio": "storia-03",
+   "luoghi": [
+    "palazzo-vecchio",
+    "cattedrale-di-santa-maria-del-fiore",
+    "basilica-di-santa-croce",
+    "chiesa-e-museo-di-orsanmichele"
+   ],
+   "approfondire": [
+    "ponte-vecchio",
+    "piazza-della-signoria"
+   ]
   }
  ]
 }

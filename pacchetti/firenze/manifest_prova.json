@@ -1,5 +1,5 @@
 {
- "versione": "8a87fc3d8d76",
+ "versione": "4a216373791a",
  "tipo": "prova",
  "file": [
   {
@@ -3149,8 +3149,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "9155ffde7f33a53aacdd8f321053439a0c48d9c9812c3f55394bad75d7aef123",
-   "byte": 13034
+   "sha256": "2c2044100c4254f8dd10a6dae594f26bef8c8021d79d9e983a7eae8fab176a8e",
+   "byte": 16237
   },
   {
    "path": "dati/tessere.json",
