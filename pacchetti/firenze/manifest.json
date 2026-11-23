@@ -1,5 +1,5 @@
 {
- "versione": "bf712b34c9a5",
+ "versione": "1450439f76a9",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3104,6 +3104,12 @@
    "byte": 109714
   },
   {
+   "path": "assets/personaggi/beato-angelico.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/beato-angelico.webp",
+   "sha256": "a4df723af342b20b139bd4d9f7939ba4a3ab0692dac37899e44bd2e941a9678c",
+   "byte": 71764
+  },
+  {
    "path": "assets/personaggi/cimabue.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/cimabue.webp",
    "sha256": "ab40c60af7a72e22e6a898efc100157f5229b8b23763d21be1c35f2d02705804",
@@ -3286,8 +3292,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "2700fc865f11496e3180cbe5aa4ff221718d66fcaff1175f7110676bca4037d1",
-   "byte": 273763
+   "sha256": "c9792ff301f2546827c990bbf6991b9922a572acc20094c13d019cf0dbb65ffa",
+   "byte": 287002
   },
   {
    "path": "dati/principali.json",
@@ -3310,8 +3316,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "0c9dfc33dffacb903eb683438576cc8d37109f681ab545793b75b27fc01bd983",
-   "byte": 26653
+   "sha256": "d3be6d49c7518b3b758c074b7beb0afb94015280ddf6d24c86259a67caf1d692",
+   "byte": 26675
   },
   {
    "path": "dati/tessere.json",
@@ -3327,16 +3333,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "35f58ce0a85d",
-   "da": "fde0af2ce124",
-   "data": "2026-11-20",
-   "luoghi_aggiornati": 7,
-   "aspetti": [
-    "altro"
-   ],
-   "byte": 105437
-  },
   {
    "versione": "92a421418407",
    "da": "35f58ce0a85d",
@@ -3450,6 +3446,12 @@
    "da": "1ecdd6c34526",
    "data": "2026-11-23",
    "byte": 446192
+  },
+  {
+   "versione": "1450439f76a9",
+   "da": "bf712b34c9a5",
+   "data": "2026-11-23",
+   "byte": 385441
   }
  ]
 }

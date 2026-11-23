@@ -1950,6 +1950,16 @@
       "de": "Er gehörte zu den von Cosimo am stärksten geförderten Künstlern. Er arbeitete für die Familie, schuf Werke für San Lorenzo und wahrscheinlich den bronzenen David und wurde nahe bei ihm in San Lorenzo beigesetzt.",
       "es": "Fue uno de los artistas más apoyados por Cosme. Trabajó para la familia, realizando obras para San Lorenzo y, probablemente, el David de bronce, y fue sepultado cerca de él en San Lorenzo."
      }
+    },
+    {
+     "id": "beato-angelico",
+     "testo": {
+      "it": "Cosimo sostenne il rinnovamento del convento domenicano di San Marco, dove Beato Angelico realizzò il ciclo di affreschi: un esempio documentato di mecenatismo religioso.",
+      "en": "Cosimo backed the renewal of the Dominican convent of San Marco, where Beato Angelico made the fresco cycle: a documented example of religious patronage.",
+      "fr": "Cosme soutint la rénovation du couvent dominicain de San Marco, où Beato Angelico réalisa le cycle de fresques : un exemple documenté de mécénat religieux.",
+      "de": "Cosimo förderte die Erneuerung des Dominikanerklosters San Marco, in dem Beato Angelico den Freskenzyklus schuf: ein belegtes Beispiel für religiöses Mäzenatentum.",
+      "es": "Cosme apoyó la renovación del convento dominico de San Marcos, donde Beato Angelico realizó el ciclo de frescos: un ejemplo documentado de mecenazgo religioso."
+     }
     }
    ],
    "ritratto": {
@@ -2591,6 +2601,109 @@
    ],
    "ritratto": {
     "autore": "Nicolas de Larmessin ed Esme de Boulonois, incisione",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "beato-angelico",
+   "nome": "Beato Angelico",
+   "nascita": 1395,
+   "morte": 1455,
+   "professione": {
+    "it": "Pittore e frate domenicano",
+    "en": "Painter and Dominican friar",
+    "fr": "Peintre et frère dominicain",
+    "de": "Maler und Dominikanermönch",
+    "es": "Pintor y fraile dominico"
+   },
+   "luogoNascita": {
+    "it": "Vicchio (Mugello)",
+    "en": "Vicchio (Mugello)",
+    "fr": "Vicchio (Mugello)",
+    "de": "Vicchio (Mugello)",
+    "es": "Vicchio (Mugello)"
+   },
+   "dataNascita": {
+    "it": "Circa 1395",
+    "en": "Around 1395",
+    "fr": "Vers 1395",
+    "de": "Um 1395",
+    "es": "Hacia 1395"
+   },
+   "luogoMorte": {
+    "it": "Roma",
+    "en": "Rome",
+    "fr": "Rome",
+    "de": "Rom",
+    "es": "Roma"
+   },
+   "dataMorte": {
+    "it": "18 febbraio 1455",
+    "en": "18 February 1455",
+    "fr": "18 février 1455",
+    "de": "18. Februar 1455",
+    "es": "18 de febrero de 1455"
+   },
+   "biografia": {
+    "it": "Guido di Pietro, che da frate prese il nome di Giovanni da Fiesole, è conosciuto come Beato Angelico. Fu un pittore e frate domenicano, considerato uno dei principali protagonisti della pittura religiosa del primo Rinascimento.\n\nLa sua arte unisce la spiritualità della tradizione medievale alle innovazioni rinascimentali nella costruzione dello spazio, nella prospettiva e nella rappresentazione delle figure. La sua pittura si distingue per l'uso luminoso del colore, la delicatezza delle espressioni e la capacità di creare scene di intensa devozione.\n\nA Firenze lavorò soprattutto nel convento di San Marco, dove realizzò un vasto ciclo di affreschi destinati alle celle dei frati e agli ambienti comuni. Il complesso, rinnovato grazie al sostegno di Cosimo il Vecchio, rappresenta uno dei luoghi più importanti per comprendere la sua produzione. Lavorò anche per il convento domenicano di Santa Maria Novella: di quelle opere, oggi in gran parte perdute o conservate altrove, fanno parte i tabernacoli-reliquiari del Museo del Bargello.\n\nLavorò anche in Vaticano, dove realizzò gli affreschi della Cappella Niccolina per papa Niccolò V.",
+    "en": "Guido di Pietro, who took the name Giovanni da Fiesole as a friar, is known as Beato Angelico (Fra Angelico). He was a painter and Dominican friar, regarded as one of the leading figures of early Renaissance religious painting.\n\nHis art joins the spirituality of the medieval tradition with Renaissance innovations in the construction of space, perspective and the depiction of figures. His painting stands out for its luminous colour, the delicacy of its expressions and its ability to create scenes of intense devotion.\n\nIn Florence he worked mainly in the convent of San Marco, where he created a vast cycle of frescoes for the friars' cells and the shared rooms. The complex, renewed with the support of Cosimo the Elder, is one of the most important places for understanding his work. He also worked for the Dominican convent of Santa Maria Novella: of those works, now largely lost or kept elsewhere, the reliquary tabernacles in the Bargello Museum survive.\n\nHe also worked in the Vatican, where he painted the frescoes of the Niccoline Chapel for Pope Nicholas V.",
+    "fr": "Guido di Pietro, qui prit le nom de Giovanni da Fiesole en devenant frère, est connu sous le nom de Beato Angelico (Fra Angelico). Peintre et frère dominicain, il est considéré comme l'un des principaux protagonistes de la peinture religieuse de la première Renaissance.\n\nSon art unit la spiritualité de la tradition médiévale aux innovations de la Renaissance dans la construction de l'espace, la perspective et la représentation des figures. Sa peinture se distingue par l'usage lumineux de la couleur, la délicatesse des expressions et la capacité à créer des scènes d'une intense dévotion.\n\nÀ Florence, il travailla surtout au couvent de San Marco, où il réalisa un vaste cycle de fresques destinées aux cellules des frères et aux espaces communs. Le complexe, rénové grâce au soutien de Cosme l'Ancien, est l'un des lieux les plus importants pour comprendre sa production. Il travailla aussi pour le couvent dominicain de Santa Maria Novella : de ces œuvres, aujourd'hui en grande partie perdues ou conservées ailleurs, font partie les tabernacles-reliquaires du musée du Bargello.\n\nIl travailla aussi au Vatican, où il réalisa les fresques de la chapelle Niccoline pour le pape Nicolas V.",
+    "de": "Guido di Pietro, der als Mönch den Namen Giovanni da Fiesole annahm, ist als Beato Angelico (Fra Angelico) bekannt. Er war Maler und Dominikanermönch und gilt als einer der wichtigsten Vertreter der religiösen Malerei der Frührenaissance.\n\nSeine Kunst verbindet die Spiritualität der mittelalterlichen Tradition mit den Neuerungen der Renaissance bei der Raumgestaltung, der Perspektive und der Darstellung der Figuren. Seine Malerei zeichnet sich durch leuchtende Farben, zarte Gesichtsausdrücke und die Fähigkeit aus, Szenen tiefer Andacht zu schaffen.\n\nIn Florenz arbeitete er vor allem im Kloster San Marco, wo er einen umfangreichen Freskenzyklus für die Zellen der Mönche und die Gemeinschaftsräume schuf. Die Anlage, die mit Unterstützung von Cosimo dem Älteren erneuert wurde, ist einer der wichtigsten Orte, um sein Schaffen zu verstehen. Er arbeitete auch für das Dominikanerkloster Santa Maria Novella: Von diesen Werken, die heute größtenteils verloren oder anderswo verwahrt sind, gehören die Reliquientabernakel im Museo del Bargello dazu.\n\nEr arbeitete auch im Vatikan, wo er die Fresken der Cappella Niccolina für Papst Nikolaus V. schuf.",
+    "es": "Guido di Pietro, que como fraile tomó el nombre de Giovanni da Fiesole, es conocido como Beato Angelico (Fra Angelico). Fue pintor y fraile dominico, considerado uno de los principales protagonistas de la pintura religiosa del primer Renacimiento.\n\nSu arte une la espiritualidad de la tradición medieval con las innovaciones renacentistas en la construcción del espacio, la perspectiva y la representación de las figuras. Su pintura se distingue por el uso luminoso del color, la delicadeza de las expresiones y la capacidad de crear escenas de intensa devoción.\n\nEn Florencia trabajó sobre todo en el convento de San Marcos, donde realizó un amplio ciclo de frescos destinados a las celdas de los frailes y a los espacios comunes. El conjunto, renovado gracias al apoyo de Cosme el Viejo, es uno de los lugares más importantes para comprender su producción. También trabajó para el convento dominico de Santa Maria Novella: de esas obras, hoy en gran parte perdidas o conservadas en otros lugares, forman parte los tabernáculos-relicarios del Museo del Bargello.\n\nTambién trabajó en el Vaticano, donde realizó los frescos de la Capilla Niccolina para el papa Nicolás V."
+   },
+   "curiosita": {
+    "it": [
+     "Il nome «Angelico»: si diffuse già tra i contemporanei per la sua fama di pittore dalla profonda spiritualità, e fu poi ripreso da Giorgio Vasari nelle Vite.",
+     "Un uomo devoto: Vasari lo descrisse come una persona particolarmente devota, che dipingeva le proprie opere con grande partecipazione religiosa.",
+     "Beato e patrono: il titolo di Beato, in uso da secoli, fu confermato ufficialmente da Giovanni Paolo II nel 1982; nel 1984 lo stesso papa lo proclamò patrono universale degli artisti.",
+     "Per i frati: gli affreschi di San Marco erano destinati soprattutto alla meditazione personale dei frati, non alla contemplazione di un pubblico esterno.",
+     "Sepolto a Roma: morì a Roma nel 1455 e fu sepolto nella chiesa di Santa Maria sopra Minerva."
+    ],
+    "en": [
+     "The name «Angelico»: it spread among his contemporaries because of his reputation as a painter of deep spirituality, and was later taken up by Giorgio Vasari in the Lives.",
+     "A devout man: Vasari described him as a particularly devout person, who painted his works with great religious involvement.",
+     "Blessed and patron: the title of Blessed, in use for centuries, was officially confirmed by John Paul II in 1982; in 1984 the same pope proclaimed him universal patron of artists.",
+     "For the friars: the frescoes of San Marco were meant above all for the friars' personal meditation, not for contemplation by an outside public.",
+     "Buried in Rome: he died in Rome in 1455 and was buried in the church of Santa Maria sopra Minerva."
+    ],
+    "fr": [
+     "Le nom « Angelico » : il se répandit dès ses contemporains en raison de sa réputation de peintre d'une profonde spiritualité, puis fut repris par Giorgio Vasari dans les Vies.",
+     "Un homme dévot : Vasari le décrivit comme une personne particulièrement dévote, qui peignait ses œuvres avec une grande implication religieuse.",
+     "Bienheureux et patron : le titre de Bienheureux, en usage depuis des siècles, fut officiellement confirmé par Jean-Paul II en 1982 ; en 1984, le même pape le proclama patron universel des artistes.",
+     "Pour les frères : les fresques de San Marco étaient destinées surtout à la méditation personnelle des frères, non à la contemplation d'un public extérieur.",
+     "Enterré à Rome : il mourut à Rome en 1455 et fut enterré dans l'église Santa Maria sopra Minerva."
+    ],
+    "de": [
+     "Der Name «Angelico»: Er verbreitete sich schon unter seinen Zeitgenossen wegen seines Rufs als Maler von tiefer Spiritualität und wurde später von Giorgio Vasari in den Lebensbeschreibungen aufgegriffen.",
+     "Ein frommer Mann: Vasari beschrieb ihn als besonders frommen Menschen, der seine Werke mit großer religiöser Anteilnahme malte.",
+     "Seliger und Patron: Der Titel «Seliger», seit Jahrhunderten gebräuchlich, wurde 1982 von Johannes Paul II. offiziell bestätigt; 1984 erklärte derselbe Papst ihn zum Schutzpatron der Künstler.",
+     "Für die Mönche: Die Fresken von San Marco waren vor allem für die persönliche Meditation der Mönche bestimmt, nicht für die Betrachtung durch ein äußeres Publikum.",
+     "In Rom begraben: Er starb 1455 in Rom und wurde in der Kirche Santa Maria sopra Minerva beigesetzt."
+    ],
+    "es": [
+     "El nombre «Angelico»: se difundió ya entre sus contemporáneos por su fama de pintor de profunda espiritualidad, y fue retomado después por Giorgio Vasari en las Vidas.",
+     "Un hombre devoto: Vasari lo describió como una persona especialmente devota, que pintaba sus obras con gran participación religiosa.",
+     "Beato y patrono: el título de Beato, en uso desde hacía siglos, fue confirmado oficialmente por Juan Pablo II en 1982; en 1984 el mismo papa lo proclamó patrono universal de los artistas.",
+     "Para los frailes: los frescos de San Marcos estaban destinados sobre todo a la meditación personal de los frailes, no a la contemplación de un público externo.",
+     "Sepultado en Roma: murió en Roma en 1455 y fue sepultado en la iglesia de Santa Maria sopra Minerva."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "cosimo-il-vecchio",
+     "testo": {
+      "it": "Cosimo fu il principale sostenitore del rinnovamento del convento di San Marco, dove Beato Angelico realizzò il ciclo di affreschi. Il rapporto è un esempio documentato di mecenatismo religioso.",
+      "en": "Cosimo was the main supporter of the renewal of the convent of San Marco, where Beato Angelico made the fresco cycle. The relationship is a documented example of religious patronage.",
+      "fr": "Cosme fut le principal soutien de la rénovation du couvent de San Marco, où Beato Angelico réalisa le cycle de fresques. Ce rapport est un exemple documenté de mécénat religieux.",
+      "de": "Cosimo war der wichtigste Förderer der Erneuerung des Klosters San Marco, in dem Beato Angelico den Freskenzyklus schuf. Die Beziehung ist ein belegtes Beispiel für religiöses Mäzenatentum.",
+      "es": "Cosme fue el principal impulsor de la renovación del convento de San Marcos, donde Beato Angelico realizó el ciclo de frescos. La relación es un ejemplo documentado de mecenazgo religioso."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Luca Signorelli, dal Web Gallery of Art",
     "licenza": "Pubblico dominio"
    }
   }
