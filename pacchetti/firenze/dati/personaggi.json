@@ -1086,6 +1086,16 @@
       "de": "Er begegnet ihm unter den Ketzern im Inferno (10. Gesang), in einem der berühmtesten Dialoge der Komödie. Sie lernten sich nie kennen: Farinata starb 1264, vor Dantes Geburt.",
       "es": "Lo encuentra entre los herejes en el Infierno (canto X), en uno de los diálogos más célebres de la Comedia. No se conocieron: Farinata murió en 1264, antes del nacimiento de Dante."
      }
+    },
+    {
+     "id": "corso-donati",
+     "testo": {
+      "it": "Fu uno dei principali avversari politici dei Guelfi Bianchi, ai quali Dante apparteneva, e un suo lontano parente tramite la moglie Gemma Donati. Il ritorno dei Neri nel 1301 contribuì all'esilio del poeta nel 1302. Dante lo ricorda nel Purgatorio (canto XXIV).",
+      "en": "He was one of the main political opponents of the White Guelphs, to whom Dante belonged, and a distant relative through Dante's wife Gemma Donati. The return of the Blacks in 1301 contributed to the poet's exile in 1302. Dante recalls him in the Purgatorio (canto XXIV).",
+      "fr": "Il fut l'un des principaux adversaires politiques des guelfes blancs, auxquels Dante appartenait, et un lointain parent par l'épouse de Dante, Gemma Donati. Le retour des Noirs en 1301 contribua à l'exil du poète en 1302. Dante l'évoque dans le Purgatoire (chant XXIV).",
+      "de": "Er war einer der wichtigsten politischen Gegner der Weißen Guelfen, zu denen Dante gehörte, und über Dantes Frau Gemma Donati ein entfernter Verwandter. Die Rückkehr der Schwarzen 1301 trug zur Verbannung des Dichters 1302 bei. Dante erwähnt ihn im Purgatorio (24. Gesang).",
+      "es": "Fue uno de los principales adversarios políticos de los güelfos blancos, a los que pertenecía Dante, y un pariente lejano por la esposa de Dante, Gemma Donati. El regreso de los negros en 1301 contribuyó al exilio del poeta en 1302. Dante lo recuerda en el Purgatorio (canto XXIV)."
+     }
     }
    ],
    "ritratto": {
@@ -1359,6 +1369,16 @@
       "fr": "Tous deux sont liés à la participation politique des groupes populaires, mais à des moments différents : Giano avec les Ordonnances de Justice de 1293, Michele di Lando avec la révolte des Ciompi de 1378.",
       "de": "Beide sind mit der politischen Teilhabe der Volksgruppen verbunden, aber zu unterschiedlichen Zeiten: Giano mit den Ordinamenti di Giustizia von 1293, Michele di Lando mit dem Ciompi-Aufstand von 1378.",
       "es": "Ambos están ligados a la participación política de los grupos populares, pero en momentos distintos: Giano con los Ordenamientos de Justicia de 1293, Michele di Lando con la revuelta de los Ciompi de 1378."
+     }
+    },
+    {
+     "id": "corso-donati",
+     "testo": {
+      "it": "Entrambi rappresentano fasi diverse del conflitto tra aristocrazia e movimento popolare. Giano promosse il ridimensionamento politico dei magnati; Corso fu espressione della potenza delle grandi famiglie aristocratiche.",
+      "en": "Both represent different phases of the conflict between aristocracy and the popular movement. Giano promoted the political downsizing of the magnates; Corso embodied the power of the great aristocratic families.",
+      "fr": "Tous deux représentent des phases différentes du conflit entre l'aristocratie et le mouvement populaire. Giano promut la réduction du pouvoir politique des magnats ; Corso fut l'expression de la puissance des grandes familles aristocratiques.",
+      "de": "Beide stehen für verschiedene Phasen des Konflikts zwischen Aristokratie und Volksbewegung. Giano förderte die politische Zurückdrängung der Magnaten; Corso verkörperte die Macht der großen Adelsfamilien.",
+      "es": "Ambos representan fases distintas del conflicto entre la aristocracia y el movimiento popular. Giano promovió la reducción del poder político de los magnates; Corso fue expresión del poder de las grandes familias aristocráticas."
      }
     }
    ],
@@ -1654,6 +1674,138 @@
    "ritratto": {
     "autore": "Andrea del Castagno",
     "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "corso-donati",
+   "nome": "Corso Donati",
+   "nascita": 1250,
+   "morte": 1308,
+   "professione": {
+    "it": "Uomo politico e capo dei Guelfi Neri",
+    "en": "Politician and leader of the Black Guelphs",
+    "fr": "Homme politique et chef des guelfes noirs",
+    "de": "Politiker und Anführer der Schwarzen Guelfen",
+    "es": "Político y jefe de los güelfos negros"
+   },
+   "luogoNascita": {
+    "it": "Probabilmente Firenze",
+    "en": "Probably Florence",
+    "fr": "Probablement Florence",
+    "de": "Wahrscheinlich Florenz",
+    "es": "Probablemente Florencia"
+   },
+   "dataNascita": {
+    "it": "Circa 1250",
+    "en": "Around 1250",
+    "fr": "Vers 1250",
+    "de": "Um 1250",
+    "es": "Hacia 1250"
+   },
+   "luogoMorte": {
+    "it": "Presso San Salvi, Firenze",
+    "en": "Near San Salvi, Florence",
+    "fr": "Près de San Salvi, Florence",
+    "de": "Bei San Salvi, Florenz",
+    "es": "Cerca de San Salvi, Florencia"
+   },
+   "dataMorte": {
+    "it": "6 ottobre 1308",
+    "en": "6 October 1308",
+    "fr": "6 octobre 1308",
+    "de": "6. Oktober 1308",
+    "es": "6 de octubre de 1308"
+   },
+   "biografia": {
+    "it": "Corso Donati fu uno dei più potenti e controversi uomini politici della Firenze tra Duecento e Trecento. Appartenente alla nobile famiglia dei Donati, divenne il principale esponente della fazione dei Guelfi Neri, che sosteneva una maggiore vicinanza al papato e una linea politica più favorevole alle famiglie aristocratiche.\n\nLa sua ascesa si sviluppò durante il progressivo deterioramento degli equilibri politici della città. La divisione dei Guelfi tra Bianchi e Neri, nata da contrasti tra gruppi familiari e interessi politici differenti, trasformò Firenze in un campo di scontro tra fazioni rivali.\n\nCorso si oppose ai Guelfi Bianchi, tra i quali figurava Dante Alighieri. Nel 1300 fu coinvolto nelle condanne all'esilio dei capi delle due fazioni, decise mentre Dante era priore.\n\nLa situazione precipitò nel 1301, quando Carlo di Valois entrò a Firenze con il pretesto di riportare la pace. L'intervento favorì il ritorno dei Neri e la sconfitta dei Bianchi. Corso Donati consolidò così la propria influenza politica.\n\nNegli anni successivi entrò però in contrasto con altri esponenti della parte nera e con le autorità cittadine. Accusato di ambire a un potere personale eccessivo, si trovò progressivamente isolato.\n\nNell'ottobre del 1308, durante un tentativo di arresto, cercò di fuggire ma fu ucciso da mercenari catalani presso San Salvi, nei dintorni di Firenze. La sua morte segnò la fine di una delle figure più influenti della politica cittadina del primo Trecento.",
+    "en": "Corso Donati was one of the most powerful and controversial politicians of Florence between the thirteenth and fourteenth centuries. A member of the noble Donati family, he became the main leader of the Black Guelph faction, which favoured closer ties with the papacy and a political line more favourable to the aristocratic families.\n\nHis rise took place as the city's political balance steadily deteriorated. The split of the Guelphs into Whites and Blacks, born of clashes between family groups and differing political interests, turned Florence into a battlefield between rival factions.\n\nCorso opposed the White Guelphs, among whom was Dante Alighieri. In 1300 he was caught up in the sentences of exile against the leaders of the two factions, decided while Dante was a prior.\n\nThe situation came to a head in 1301, when Charles of Valois entered Florence on the pretext of restoring peace. His intervention favoured the return of the Blacks and the defeat of the Whites. Corso Donati thus consolidated his political influence.\n\nIn the following years, however, he came into conflict with other leaders of the Black party and with the city authorities. Accused of seeking excessive personal power, he found himself increasingly isolated.\n\nIn October 1308, during an attempted arrest, he tried to flee but was killed by Catalan mercenaries near San Salvi, just outside Florence. His death marked the end of one of the most influential figures in the city's politics of the early fourteenth century.",
+    "fr": "Corso Donati fut l'un des hommes politiques les plus puissants et les plus controversés de la Florence entre le XIIIe et le XIVe siècle. Issu de la noble famille des Donati, il devint le principal chef de la faction des guelfes noirs, qui prônait un rapprochement avec la papauté et une ligne politique plus favorable aux familles aristocratiques.\n\nSon ascension se déroula pendant la détérioration progressive des équilibres politiques de la ville. La division des guelfes entre Blancs et Noirs, née de conflits entre groupes familiaux et d'intérêts politiques différents, transforma Florence en champ d'affrontement entre factions rivales.\n\nCorso s'opposa aux guelfes blancs, parmi lesquels figurait Dante Alighieri. En 1300, il fut concerné par les condamnations à l'exil des chefs des deux factions, décidées alors que Dante était prieur.\n\nLa situation s'aggrava en 1301, lorsque Charles de Valois entra à Florence sous prétexte de rétablir la paix. Son intervention favorisa le retour des Noirs et la défaite des Blancs. Corso Donati consolida ainsi son influence politique.\n\nDans les années suivantes, il entra toutefois en conflit avec d'autres chefs du parti noir et avec les autorités de la ville. Accusé d'ambitionner un pouvoir personnel excessif, il se retrouva progressivement isolé.\n\nEn octobre 1308, lors d'une tentative d'arrestation, il chercha à fuir mais fut tué par des mercenaires catalans près de San Salvi, aux abords de Florence. Sa mort marqua la fin de l'une des figures les plus influentes de la politique de la ville au début du XIVe siècle.",
+    "de": "Corso Donati war einer der mächtigsten und umstrittensten Politiker des Florenz zwischen dem 13. und 14. Jahrhundert. Als Angehöriger der adligen Familie Donati wurde er zum wichtigsten Anführer der Fraktion der Schwarzen Guelfen, die eine größere Nähe zum Papsttum und eine für die Adelsfamilien günstigere politische Linie befürwortete.\n\nSein Aufstieg vollzog sich während der fortschreitenden Zerrüttung des politischen Gleichgewichts der Stadt. Die Spaltung der Guelfen in Weiße und Schwarze, hervorgegangen aus Konflikten zwischen Familiengruppen und unterschiedlichen politischen Interessen, machte Florenz zum Schauplatz des Kampfes rivalisierender Parteien.\n\nCorso stellte sich gegen die Weißen Guelfen, zu denen Dante Alighieri gehörte. 1300 war er von den Verbannungsurteilen gegen die Anführer beider Parteien betroffen, die gefällt wurden, als Dante Prior war.\n\nDie Lage spitzte sich 1301 zu, als Karl von Valois unter dem Vorwand, den Frieden wiederherzustellen, in Florenz einzog. Sein Eingreifen begünstigte die Rückkehr der Schwarzen und die Niederlage der Weißen. Corso Donati festigte so seinen politischen Einfluss.\n\nIn den folgenden Jahren geriet er jedoch in Konflikt mit anderen Vertretern der schwarzen Partei und mit den städtischen Behörden. Beschuldigt, übermäßige persönliche Macht anzustreben, wurde er zunehmend isoliert.\n\nIm Oktober 1308 versuchte er bei einem Festnahmeversuch zu fliehen, wurde aber bei San Salvi, vor den Toren von Florenz, von katalanischen Söldnern getötet. Sein Tod markierte das Ende einer der einflussreichsten Gestalten der städtischen Politik des frühen 14. Jahrhunderts.",
+    "es": "Corso Donati fue uno de los políticos más poderosos y controvertidos de la Florencia entre los siglos XIII y XIV. Perteneciente a la noble familia de los Donati, se convirtió en el principal exponente de la facción de los güelfos negros, que defendía una mayor cercanía al papado y una línea política más favorable a las familias aristocráticas.\n\nSu ascenso se desarrolló durante el progresivo deterioro de los equilibrios políticos de la ciudad. La división de los güelfos entre blancos y negros, nacida de enfrentamientos entre grupos familiares y de intereses políticos distintos, convirtió Florencia en un campo de batalla entre facciones rivales.\n\nCorso se opuso a los güelfos blancos, entre los que figuraba Dante Alighieri. En 1300 se vio implicado en las condenas al exilio de los jefes de las dos facciones, decididas cuando Dante era prior.\n\nLa situación se precipitó en 1301, cuando Carlos de Valois entró en Florencia con el pretexto de devolver la paz. Su intervención favoreció el regreso de los negros y la derrota de los blancos. Corso Donati consolidó así su influencia política.\n\nEn los años siguientes, sin embargo, entró en conflicto con otros dirigentes del partido negro y con las autoridades de la ciudad. Acusado de aspirar a un poder personal excesivo, se fue quedando aislado.\n\nEn octubre de 1308, durante un intento de detención, trató de huir pero fue muerto por mercenarios catalanes cerca de San Salvi, a las afueras de Florencia. Su muerte marcó el final de una de las figuras más influyentes de la política de la ciudad a principios del siglo XIV."
+   },
+   "curiosita": {
+    "it": [
+     "Il Barone: Corso Donati era soprannominato «il Barone», a testimonianza del prestigio e dell'autorità che esercitava nella società fiorentina.",
+     "Piccarda: sua sorella Piccarda è ricordata da Dante nel Paradiso (canto III). Secondo la tradizione fu Corso a farla uscire dal convento per darla in sposa a Rossellino della Tosa, per ragioni politiche.",
+     "Un parente di Dante: Dante aveva sposato Gemma, della famiglia Donati, ed era quindi un lontano parente di Corso, pur essendo suo avversario politico.",
+     "Nel Purgatorio: Dante lo ricorda nel canto XXIV attraverso le parole del fratello Forese, che lo indica come il principale responsabile della rovina di Firenze e ne preannuncia la fine. Una tradizione lega la sua morte a una caduta da cavallo.",
+     "Nel Decameron: Corso Donati compare nella novella IX.8, insieme a Vieri de' Cerchi, tra i ricchi fiorentini che accolgono a tavola i protagonisti della beffa, lontano dalle vicende politiche."
+    ],
+    "en": [
+     "The Baron: Corso Donati was nicknamed «il Barone», a sign of the prestige and authority he held in Florentine society.",
+     "Piccarda: his sister Piccarda is remembered by Dante in the Paradiso (canto III). According to tradition it was Corso who took her out of the convent to marry her to Rossellino della Tosa, for political reasons.",
+     "A relative of Dante: Dante had married Gemma, of the Donati family, and was therefore a distant relative of Corso, even though he was his political opponent.",
+     "In the Purgatorio: Dante recalls him in canto XXIV through the words of his brother Forese, who names him as the main person to blame for Florence's ruin and foretells his end. One tradition links his death to a fall from his horse.",
+     "In the Decameron: Corso Donati appears in story IX.8, together with Vieri de' Cerchi, among the wealthy Florentines who host the protagonists of the prank at their tables, far from the political struggles."
+    ],
+    "fr": [
+     "Le Baron : Corso Donati était surnommé « il Barone », signe du prestige et de l'autorité dont il jouissait dans la société florentine.",
+     "Piccarda : sa sœur Piccarda est évoquée par Dante dans le Paradis (chant III). Selon la tradition, c'est Corso qui la fit sortir du couvent pour la marier à Rossellino della Tosa, pour des raisons politiques.",
+     "Un parent de Dante : Dante avait épousé Gemma, de la famille Donati, et était donc un lointain parent de Corso, tout en étant son adversaire politique.",
+     "Dans le Purgatoire : Dante l'évoque au chant XXIV par la bouche de son frère Forese, qui le désigne comme le principal responsable de la ruine de Florence et annonce sa fin. Une tradition associe sa mort à une chute de cheval.",
+     "Dans le Décaméron : Corso Donati apparaît dans la nouvelle IX.8, avec Vieri de' Cerchi, parmi les riches Florentins qui accueillent à leur table les protagonistes de la farce, loin des luttes politiques."
+    ],
+    "de": [
+     "Der Baron: Corso Donati wurde «il Barone» genannt, ein Zeichen für das Ansehen und die Autorität, die er in der Florentiner Gesellschaft besaß.",
+     "Piccarda: Seine Schwester Piccarda wird von Dante im Paradiso (3. Gesang) erwähnt. Der Überlieferung nach war es Corso, der sie aus dem Kloster holte, um sie aus politischen Gründen mit Rossellino della Tosa zu verheiraten.",
+     "Ein Verwandter Dantes: Dante hatte Gemma aus der Familie Donati geheiratet und war daher ein entfernter Verwandter Corsos, obwohl er sein politischer Gegner war.",
+     "Im Purgatorio: Dante erwähnt ihn im 24. Gesang durch die Worte seines Bruders Forese, der ihn als Hauptschuldigen am Verfall von Florenz bezeichnet und sein Ende vorhersagt. Eine Überlieferung bringt seinen Tod mit einem Sturz vom Pferd in Verbindung.",
+     "Im Decameron: Corso Donati erscheint in der Novelle IX.8, zusammen mit Vieri de' Cerchi, unter den reichen Florentinern, die die Protagonisten des Streichs an ihren Tisch laden, fern von den politischen Auseinandersetzungen."
+    ],
+    "es": [
+     "El Barón: Corso Donati era apodado «il Barone», muestra del prestigio y la autoridad que ejercía en la sociedad florentina.",
+     "Piccarda: su hermana Piccarda es recordada por Dante en el Paraíso (canto III). Según la tradición, fue Corso quien la sacó del convento para casarla con Rossellino della Tosa, por razones políticas.",
+     "Un pariente de Dante: Dante se había casado con Gemma, de la familia Donati, y era por tanto un pariente lejano de Corso, aunque su adversario político.",
+     "En el Purgatorio: Dante lo recuerda en el canto XXIV por boca de su hermano Forese, que lo señala como el principal culpable de la ruina de Florencia y anuncia su final. Una tradición vincula su muerte a una caída del caballo.",
+     "En el Decamerón: Corso Donati aparece en la novela IX.8, junto a Vieri de' Cerchi, entre los ricos florentinos que acogen en su mesa a los protagonistas de la burla, lejos de las luchas políticas."
+    ]
+   },
+   "luoghi": [
+    "piazza-della-signoria"
+   ],
+   "luoghiNote": {
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Teatro delle lotte",
+      "en": "Stage of the struggles",
+      "fr": "Théâtre des luttes",
+      "de": "Schauplatz der Kämpfe",
+      "es": "Escenario de las luchas"
+     },
+     "testo": {
+      "it": "Centro della vita politica, nel quale si svolsero le lotte tra le fazioni cittadine.",
+      "en": "Centre of political life, where the struggles between the city's factions played out.",
+      "fr": "Centre de la vie politique, où se déroulèrent les luttes entre les factions de la ville.",
+      "de": "Zentrum des politischen Lebens, in dem die Kämpfe zwischen den städtischen Parteien ausgetragen wurden.",
+      "es": "Centro de la vida política, donde se desarrollaron las luchas entre las facciones de la ciudad."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "dante-alighieri",
+     "testo": {
+      "it": "Corso fu uno dei principali avversari politici dei Guelfi Bianchi, ai quali apparteneva Dante. Il poeta fu priore nel 1300, durante la fase delle condanne all'esilio che coinvolsero i capi delle fazioni. Il ritorno dei Neri nel 1301 contribuì alla sconfitta dei Bianchi e all'esilio definitivo di Dante nel 1302. Corso è inoltre ricordato nel Purgatorio (canto XXIV).",
+      "en": "Corso was one of the main political opponents of the White Guelphs, to whom Dante belonged. The poet was a prior in 1300, during the phase of exile sentences that involved the faction leaders. The return of the Blacks in 1301 contributed to the Whites' defeat and to Dante's definitive exile in 1302. Corso is also recalled in the Purgatorio (canto XXIV).",
+      "fr": "Corso fut l'un des principaux adversaires politiques des guelfes blancs, auxquels appartenait Dante. Le poète fut prieur en 1300, pendant la phase des condamnations à l'exil qui touchèrent les chefs des factions. Le retour des Noirs en 1301 contribua à la défaite des Blancs et à l'exil définitif de Dante en 1302. Corso est aussi évoqué dans le Purgatoire (chant XXIV).",
+      "de": "Corso war einer der wichtigsten politischen Gegner der Weißen Guelfen, zu denen Dante gehörte. Der Dichter war 1300 Prior, in der Phase der Verbannungsurteile, die die Anführer der Parteien trafen. Die Rückkehr der Schwarzen 1301 trug zur Niederlage der Weißen und zu Dantes endgültiger Verbannung 1302 bei. Corso wird zudem im Purgatorio (24. Gesang) erwähnt.",
+      "es": "Corso fue uno de los principales adversarios políticos de los güelfos blancos, a los que pertenecía Dante. El poeta fue prior en 1300, durante la fase de las condenas al exilio que afectaron a los jefes de las facciones. El regreso de los negros en 1301 contribuyó a la derrota de los blancos y al exilio definitivo de Dante en 1302. Corso es recordado además en el Purgatorio (canto XXIV)."
+     }
+    },
+    {
+     "id": "giano-della-bella",
+     "testo": {
+      "it": "Entrambi rappresentano fasi diverse del conflitto tra aristocrazia e movimento popolare. Giano promosse il ridimensionamento politico dei magnati; Corso fu invece espressione della potenza delle grandi famiglie aristocratiche.",
+      "en": "Both represent different phases of the conflict between aristocracy and the popular movement. Giano promoted the political downsizing of the magnates; Corso, by contrast, embodied the power of the great aristocratic families.",
+      "fr": "Tous deux représentent des phases différentes du conflit entre l'aristocratie et le mouvement populaire. Giano promut la réduction du pouvoir politique des magnats ; Corso fut au contraire l'expression de la puissance des grandes familles aristocratiques.",
+      "de": "Beide stehen für verschiedene Phasen des Konflikts zwischen Aristokratie und Volksbewegung. Giano förderte die politische Zurückdrängung der Magnaten; Corso hingegen verkörperte die Macht der großen Adelsfamilien.",
+      "es": "Ambos representan fases distintas del conflicto entre la aristocracia y el movimiento popular. Giano promovió la reducción del poder político de los magnates; Corso fue, en cambio, expresión del poder de las grandes familias aristocráticas."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Fabrizio Garrisi",
+    "licenza": "CC0"
    }
   }
  ]

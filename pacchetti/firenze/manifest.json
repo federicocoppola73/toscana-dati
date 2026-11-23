@@ -1,5 +1,5 @@
 {
- "versione": "04b15cec0dfb",
+ "versione": "c4b11b73cd0f",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3110,6 +3110,12 @@
    "byte": 173586
   },
   {
+   "path": "assets/personaggi/corso-donati.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/corso-donati.webp",
+   "sha256": "f2b2907a83a8d151102b1f32ed934cf9542da788cba7839790199d459b49fe32",
+   "byte": 88686
+  },
+  {
    "path": "assets/personaggi/dante-alighieri.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/dante-alighieri.webp",
    "sha256": "77e090c43cff40a76cb7a05c66398fa3735d5290c8745f447233e0db3d8e497c",
@@ -3250,8 +3256,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "f64063a7aaa65832d7c498a9aaa7737089ed7068b47a814aeab5c19369fa1b40",
-   "byte": 178266
+   "sha256": "b71a614ea230df493914f2de726bea113af110cb16e72678525dd9f464b4c0ba",
+   "byte": 199559
   },
   {
    "path": "dati/principali.json",
@@ -3274,8 +3280,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "62c120b188b95e831c1931c64fce1e1dfd3e2ac6beaaac93493c8328a1858384",
-   "byte": 26495
+   "sha256": "3682ea24fce9f596abc0375533adefdc485fb7c4572a7eddfa6b5fad04da5b7b",
+   "byte": 26515
   },
   {
    "path": "dati/tessere.json",
@@ -3291,13 +3297,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "75ed58163fdc",
-   "da": "dde3f174e67c",
-   "data": "2026-11-20",
-   "mezzi": true,
-   "byte": 1153695
-  },
   {
    "versione": "90ea70238e58",
    "da": "75ed58163fdc",
@@ -3418,6 +3417,12 @@
    "da": "8668933670e9",
    "data": "2026-11-23",
    "byte": 355835
+  },
+  {
+   "versione": "c4b11b73cd0f",
+   "da": "04b15cec0dfb",
+   "data": "2026-11-23",
+   "byte": 314760
   }
  ]
 }
