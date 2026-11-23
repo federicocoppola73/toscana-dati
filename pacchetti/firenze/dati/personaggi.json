@@ -5026,6 +5026,218 @@
     "autore": "Ritratto di Francesco I de' Medici (autore non indicato); fotografia di Francesco Bini (Sailko)",
     "licenza": "CC BY-SA 4.0"
    }
+  },
+  {
+   "id": "galileo-galilei",
+   "nome": "Galileo Galilei",
+   "nascita": 1564,
+   "morte": 1642,
+   "professione": {
+    "it": "Matematico, fisico, astronomo e filosofo naturale",
+    "en": "Mathematician, physicist, astronomer and natural philosopher",
+    "fr": "Mathématicien, physicien, astronome et philosophe de la nature",
+    "de": "Mathematiker, Physiker, Astronom und Naturphilosoph",
+    "es": "Matemático, físico, astrónomo y filósofo natural"
+   },
+   "luogoNascita": {
+    "it": "Pisa",
+    "en": "Pisa",
+    "fr": "Pise",
+    "de": "Pisa",
+    "es": "Pisa"
+   },
+   "dataNascita": {
+    "it": "15 febbraio 1564",
+    "en": "15 February 1564",
+    "fr": "15 février 1564",
+    "de": "15. Februar 1564",
+    "es": "15 de febrero de 1564"
+   },
+   "luogoMorte": {
+    "it": "Arcetri, presso Firenze",
+    "en": "Arcetri, near Florence",
+    "fr": "Arcetri, près de Florence",
+    "de": "Arcetri bei Florenz",
+    "es": "Arcetri, cerca de Florencia"
+   },
+   "dataMorte": {
+    "it": "8 gennaio 1642",
+    "en": "8 January 1642",
+    "fr": "8 janvier 1642",
+    "de": "8. Januar 1642",
+    "es": "8 de enero de 1642"
+   },
+   "biografia": {
+    "it": "Galileo Galilei fu matematico, fisico, astronomo e filosofo naturale. È considerato uno dei fondatori della scienza moderna per il ruolo che ebbero le sue osservazioni sperimentali e matematiche nello sviluppo di una nuova concezione dell'universo.\n\nNato a Pisa, studiò inizialmente medicina prima di dedicarsi alla matematica e alla fisica. Insegnò a Pisa e poi a Padova, dove svolse una parte fondamentale delle sue ricerche. Nel 1609 perfezionò il cannocchiale e lo usò per osservare il cielo: i satelliti di Giove, le fasi di Venere e le irregolarità della superficie lunare misero in discussione la cosmologia aristotelica e rafforzarono il sistema copernicano.\n\nNel 1610, dopo il Sidereus Nuncius, tornò in Toscana come matematico e filosofo del granduca Cosimo II, senza obbligo di insegnare. Aveva dedicato ai Medici i satelliti di Giove, chiamandoli inizialmente «stelle medicee».\n\nIl sostegno al copernicanesimo lo portò a scontrarsi con le autorità ecclesiastiche. Nel 1633 fu processato dal Sant'Uffizio e costretto all'abiura; condannato al carcere, vide la pena commutata in arresti domiciliari. Dal dicembre 1633 visse nella villa Il Gioiello ad Arcetri, dove continuò a lavorare, con il divieto di discutere di scienza con i visitatori.",
+    "en": "Galileo Galilei was a mathematician, physicist, astronomer and natural philosopher. He is considered one of the founders of modern science for the role his experimental and mathematical observations played in developing a new conception of the universe.\n\nBorn in Pisa, he first studied medicine before turning to mathematics and physics. He taught at Pisa and then at Padua, where he carried out a fundamental part of his research. In 1609 he improved the telescope and used it to observe the sky: the moons of Jupiter, the phases of Venus and the irregularities of the lunar surface challenged Aristotelian cosmology and strengthened the Copernican system.\n\nIn 1610, after the Sidereus Nuncius, he returned to Tuscany as mathematician and philosopher to Grand Duke Cosimo II, with no obligation to teach. He had dedicated the moons of Jupiter to the Medici, at first calling them the “Medicean stars”.\n\nHis support for Copernicanism brought him into conflict with the Church authorities. In 1633 he was tried by the Holy Office and forced to abjure; sentenced to prison, he saw the penalty commuted to house arrest. From December 1633 he lived in the villa Il Gioiello at Arcetri, where he went on working, forbidden to discuss science with visitors.",
+    "fr": "Galilée fut mathématicien, physicien, astronome et philosophe de la nature. Il est considéré comme l'un des fondateurs de la science moderne pour le rôle que jouèrent ses observations expérimentales et mathématiques dans le développement d'une nouvelle conception de l'univers.\n\nNé à Pise, il étudia d'abord la médecine avant de se consacrer aux mathématiques et à la physique. Il enseigna à Pise puis à Padoue, où il mena une part essentielle de ses recherches. En 1609, il perfectionna la lunette et s'en servit pour observer le ciel : les satellites de Jupiter, les phases de Vénus et les irrégularités de la surface lunaire remirent en question la cosmologie aristotélicienne et renforcèrent le système copernicien.\n\nEn 1610, après le Sidereus Nuncius, il revint en Toscane comme mathématicien et philosophe du grand-duc Cosme II, sans obligation d'enseigner. Il avait dédié aux Médicis les satellites de Jupiter, les appelant d'abord « étoiles médicéennes ».\n\nSon soutien au copernicanisme le conduisit à s'opposer aux autorités ecclésiastiques. En 1633, il fut jugé par le Saint-Office et contraint à l'abjuration ; condamné à la prison, il vit sa peine commuée en assignation à résidence. À partir de décembre 1633, il vécut dans la villa Il Gioiello à Arcetri, où il continua à travailler, avec interdiction de discuter de science avec ses visiteurs.",
+    "de": "Galileo Galilei war Mathematiker, Physiker, Astronom und Naturphilosoph. Er gilt als einer der Begründer der modernen Wissenschaft, weil seine experimentellen und mathematischen Beobachtungen eine neue Vorstellung vom Universum entwickelten.\n\nIn Pisa geboren, studierte er zunächst Medizin, bevor er sich der Mathematik und Physik zuwandte. Er lehrte in Pisa und dann in Padua, wo ein wesentlicher Teil seiner Forschung entstand. 1609 verbesserte er das Fernrohr und beobachtete damit den Himmel: Die Jupitermonde, die Phasen der Venus und die Unebenheiten der Mondoberfläche stellten die aristotelische Kosmologie infrage und stärkten das kopernikanische System.\n\n1610, nach dem Sidereus Nuncius, kehrte er als Mathematiker und Philosoph des Großherzogs Cosimo II. in die Toskana zurück, ohne Lehrverpflichtung. Die Jupitermonde hatte er den Medici gewidmet und zunächst „Mediceische Gestirne“ genannt.\n\nSeine Unterstützung des Kopernikanismus führte ihn in den Konflikt mit den kirchlichen Autoritäten. 1633 wurde er vom Heiligen Offizium verurteilt und zum Widerruf gezwungen; zu Kerkerhaft verurteilt, wurde ihm die Strafe in Hausarrest umgewandelt. Ab Dezember 1633 lebte er in der Villa Il Gioiello in Arcetri, wo er weiterarbeitete, mit dem Verbot, mit Besuchern über Wissenschaft zu sprechen.",
+    "es": "Galileo Galilei fue matemático, físico, astrónomo y filósofo natural. Se le considera uno de los fundadores de la ciencia moderna por el papel que tuvieron sus observaciones experimentales y matemáticas en el desarrollo de una nueva concepción del universo.\n\nNacido en Pisa, estudió al principio medicina antes de dedicarse a las matemáticas y la física. Enseñó en Pisa y después en Padua, donde realizó una parte fundamental de sus investigaciones. En 1609 perfeccionó el telescopio y lo usó para observar el cielo: los satélites de Júpiter, las fases de Venus y las irregularidades de la superficie lunar cuestionaron la cosmología aristotélica y reforzaron el sistema copernicano.\n\nEn 1610, tras el Sidereus Nuncius, regresó a Toscana como matemático y filósofo del gran duque Cosme II, sin obligación de enseñar. Había dedicado a los Médici los satélites de Júpiter, llamándolos al principio «estrellas Medíceas».\n\nSu apoyo al copernicanismo lo llevó a enfrentarse con las autoridades eclesiásticas. En 1633 fue juzgado por el Santo Oficio y obligado a abjurar; condenado a prisión, vio la pena conmutada por arresto domiciliario. Desde diciembre de 1633 vivió en la villa Il Gioiello, en Arcetri, donde siguió trabajando, con la prohibición de hablar de ciencia con los visitantes."
+   },
+   "curiosita": {
+    "it": [
+     "Il Sidereus Nuncius: la scoperta dei quattro principali satelliti di Giove fu annunciata nel marzo 1610 in questo breve trattato, pubblicato a Venezia.",
+     "Le stelle medicee: il nome servì a legare la scoperta astronomica alla dinastia granducale, della cui protezione Galileo era alla ricerca.",
+     "I Discorsi: nonostante la condanna e la cecità, sopraggiunta nel 1638, continuò a lavorare e pubblicò nel 1638 i Discorsi e dimostrazioni matematiche intorno a due nuove scienze.",
+     "La sepoltura: fu sepolto quasi in segreto in un piccolo ambiente accanto alla cappella del Noviziato, in Santa Croce; il monumento funebre arrivò solo nel 1737, di fronte alla tomba di Michelangelo."
+    ],
+    "en": [
+     "The Sidereus Nuncius: the discovery of the four main moons of Jupiter was announced in March 1610 in this short treatise, published in Venice.",
+     "The Medicean stars: the name tied the astronomical discovery to the grand-ducal dynasty, whose protection Galileo was seeking.",
+     "The Discorsi: despite the sentence and the blindness that came in 1638, he kept working and published in 1638 the Discourses and Mathematical Demonstrations Concerning Two New Sciences.",
+     "The burial: he was buried almost in secret in a small room beside the Novitiate chapel in Santa Croce; the funerary monument came only in 1737, facing Michelangelo's tomb."
+    ],
+    "fr": [
+     "Le Sidereus Nuncius : la découverte des quatre principaux satellites de Jupiter fut annoncée en mars 1610 dans ce court traité, publié à Venise.",
+     "Les étoiles médicéennes : le nom servit à lier la découverte astronomique à la dynastie grand-ducale, dont Galilée cherchait la protection.",
+     "Les Discorsi : malgré la condamnation et la cécité survenue en 1638, il continua à travailler et publia en 1638 les Discorsi e dimostrazioni matematiche intorno a due nuove scienze.",
+     "La sépulture : il fut enterré presque en secret dans une petite pièce à côté de la chapelle du Noviciat, à Santa Croce ; le monument funéraire ne vint qu'en 1737, face au tombeau de Michel-Ange."
+    ],
+    "de": [
+     "Der Sidereus Nuncius: Die Entdeckung der vier größten Jupitermonde wurde im März 1610 in dieser kurzen, in Venedig gedruckten Schrift bekannt gegeben.",
+     "Die Mediceischen Gestirne: Der Name verband die astronomische Entdeckung mit der großherzoglichen Dynastie, deren Schutz Galilei suchte.",
+     "Die Discorsi: Trotz der Verurteilung und der 1638 eingetretenen Erblindung arbeitete er weiter und veröffentlichte 1638 die Discorsi e dimostrazioni matematiche intorno a due nuove scienze.",
+     "Die Beisetzung: Er wurde fast heimlich in einem kleinen Raum neben der Noviziatskapelle in Santa Croce beigesetzt; das Grabmal entstand erst 1737, gegenüber dem Grab Michelangelos."
+    ],
+    "es": [
+     "El Sidereus Nuncius: el descubrimiento de los cuatro principales satélites de Júpiter se anunció en marzo de 1610 en este breve tratado, publicado en Venecia.",
+     "Las estrellas Medíceas: el nombre sirvió para vincular el descubrimiento astronómico a la dinastía granducal, cuya protección Galileo buscaba.",
+     "Los Discorsi: pese a la condena y a la ceguera sobrevenida en 1638, siguió trabajando y publicó en 1638 los Discorsi e dimostrazioni matematiche intorno a due nuove scienze.",
+     "La sepultura: fue enterrado casi en secreto en una pequeña estancia junto a la capilla del Noviciado, en Santa Croce; el monumento funerario llegó solo en 1737, frente a la tumba de Miguel Ángel."
+    ]
+   },
+   "luoghi": [
+    "basilica-di-santa-croce"
+   ],
+   "luoghiNote": {
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "La tomba",
+      "en": "The tomb",
+      "fr": "Le tombeau",
+      "de": "Das Grabmal",
+      "es": "La tumba"
+     },
+     "testo": {
+      "it": "Fu sepolto qui quasi in segreto, in un piccolo ambiente accanto alla cappella del Noviziato. Nel 1737 i suoi resti furono traslati nel monumento sepolcrale della navata, di fronte alla tomba di Michelangelo.",
+      "en": "He was buried here almost in secret, in a small room beside the Novitiate chapel. In 1737 his remains were moved to the tomb monument in the aisle, facing Michelangelo's tomb.",
+      "fr": "Il fut enterré ici presque en secret, dans une petite pièce à côté de la chapelle du Noviciat. En 1737, ses restes furent transférés dans le monument funéraire de la nef, face au tombeau de Michel-Ange.",
+      "de": "Er wurde hier fast heimlich in einem kleinen Raum neben der Noviziatskapelle beigesetzt. 1737 wurden seine Gebeine in das Grabmal im Seitenschiff überführt, gegenüber dem Grab Michelangelos.",
+      "es": "Fue enterrado aquí casi en secreto, en una pequeña estancia junto a la capilla del Noviciado. En 1737 sus restos fueron trasladados al monumento sepulcral de la nave, frente a la tumba de Miguel Ángel."
+     }
+    }
+   },
+   "collegati": [],
+   "ritratto": {
+    "autore": "Justus Sustermans, ritratto di Galileo Galilei",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "anna-maria-luisa-de-medici",
+   "nome": "Anna Maria Luisa de' Medici",
+   "nascita": 1667,
+   "morte": 1743,
+   "professione": {
+    "it": "Elettrice palatina, ultima dei Medici granducali",
+    "en": "Electress Palatine, last of the grand-ducal Medici",
+    "fr": "Électrice palatine, dernière des Médicis grand-ducaux",
+    "de": "Kurfürstin von der Pfalz, letzte der großherzoglichen Medici",
+    "es": "Electora palatina, última de los Médici granducales"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "11 agosto 1667",
+    "en": "11 August 1667",
+    "fr": "11 août 1667",
+    "de": "11. August 1667",
+    "es": "11 de agosto de 1667"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "18 febbraio 1743",
+    "en": "18 February 1743",
+    "fr": "18 février 1743",
+    "de": "18. Februar 1743",
+    "es": "18 de febrero de 1743"
+   },
+   "biografia": {
+    "it": "Anna Maria Luisa de' Medici fu l'ultima rappresentante della linea granducale della dinastia medicea. Figlia di Cosimo III e sorella di Gian Gastone, visse a lungo lontano da Firenze dopo il matrimonio con Giovanni Guglielmo, elettore palatino del Palatinato.\n\nRimasta vedova nel 1716, tornò a Firenze nel 1717. La sua posizione divenne centrale quando fu chiaro che Gian Gastone non avrebbe avuto eredi e che la dinastia si sarebbe estinta; il Granducato sarebbe passato agli Asburgo-Lorena.\n\nIl 31 ottobre 1737 firmò il Patto di famiglia con il nuovo granduca Francesco Stefano di Lorena: gli trasferì il patrimonio mediceo, a condizione che le collezioni restassero a Firenze e in Toscana, a ornamento dello Stato, a utilità del pubblico e per attirare i forestieri.\n\nGrazie a questo accordo una parte fondamentale delle raccolte medicee rimase in città, contribuendo alla formazione del patrimonio museale fiorentino.",
+    "en": "Anna Maria Luisa de' Medici was the last representative of the grand-ducal line of the Medici dynasty. Daughter of Cosimo III and sister of Gian Gastone, she lived for a long time away from Florence after marrying Johann Wilhelm, Elector Palatine of the Palatinate.\n\nWidowed in 1716, she returned to Florence in 1717. Her position became central once it was clear that Gian Gastone would have no heirs and that the dynasty would die out; the Grand Duchy would pass to the Habsburg-Lorraine.\n\nOn 31 October 1737 she signed the Family Pact with the new Grand Duke Francis Stephen of Lorraine: she transferred the Medici patrimony to him, on condition that the collections stay in Florence and Tuscany, for the adornment of the State, the benefit of the public and to attract foreign visitors.\n\nThanks to this agreement a fundamental part of the Medici collections remained in the city, helping to form Florence's museum heritage.",
+    "fr": "Anne-Marie-Louise de Médicis fut la dernière représentante de la lignée grand-ducale de la dynastie médicéenne. Fille de Cosme III et sœur de Jean-Gaston, elle vécut longtemps loin de Florence après son mariage avec Jean-Guillaume, électeur palatin du Palatinat.\n\nDevenue veuve en 1716, elle revint à Florence en 1717. Sa position devint centrale lorsqu'il fut clair que Jean-Gaston n'aurait pas d'héritiers et que la dynastie s'éteindrait ; le Grand-Duché passerait aux Habsbourg-Lorraine.\n\nLe 31 octobre 1737, elle signa le Pacte de famille avec le nouveau grand-duc François-Étienne de Lorraine : elle lui transféra le patrimoine médicéen, à condition que les collections restent à Florence et en Toscane, pour l'ornement de l'État, l'utilité du public et pour attirer les étrangers.\n\nGrâce à cet accord, une part essentielle des collections médicéennes resta dans la ville, contribuant à la formation du patrimoine muséal florentin.",
+    "de": "Anna Maria Luisa de' Medici war die letzte Vertreterin der großherzoglichen Linie der Medici-Dynastie. Als Tochter Cosimos III. und Schwester Gian Gastones lebte sie nach der Heirat mit Johann Wilhelm, Kurfürst von der Pfalz, lange fern von Florenz.\n\n1716 verwitwet, kehrte sie 1717 nach Florenz zurück. Ihre Stellung wurde zentral, als klar war, dass Gian Gastone keine Erben haben würde und die Dynastie aussterben würde; das Großherzogtum sollte an die Habsburg-Lothringer fallen.\n\nAm 31. Oktober 1737 unterzeichnete sie mit dem neuen Großherzog Franz Stephan von Lothringen den Familienpakt: Sie übertrug ihm das Medici-Vermögen unter der Bedingung, dass die Sammlungen in Florenz und in der Toskana blieben, zum Schmuck des Staates, zum Nutzen der Öffentlichkeit und um ausländische Besucher anzuziehen.\n\nDank dieser Vereinbarung blieb ein wesentlicher Teil der Medici-Sammlungen in der Stadt und trug zur Entstehung des Florentiner Museumsbestands bei.",
+    "es": "Ana María Luisa de Médici fue la última representante de la línea granducal de la dinastía medicea. Hija de Cosme III y hermana de Gian Gastone, vivió mucho tiempo lejos de Florencia tras casarse con Juan Guillermo, elector palatino del Palatinado.\n\nViuda en 1716, regresó a Florencia en 1717. Su posición se volvió central cuando quedó claro que Gian Gastone no tendría herederos y que la dinastía se extinguiría; el Gran Ducado pasaría a los Habsburgo-Lorena.\n\nEl 31 de octubre de 1737 firmó el Pacto de familia con el nuevo gran duque Francisco Esteban de Lorena: le transfirió el patrimonio mediceo, con la condición de que las colecciones permanecieran en Florencia y en Toscana, para ornato del Estado, utilidad del público y para atraer a los forasteros.\n\nGracias a este acuerdo, una parte fundamental de las colecciones medíceas permaneció en la ciudad, contribuyendo a la formación del patrimonio museístico florentino."
+   },
+   "curiosita": {
+    "it": [
+     "Elettrice palatina: il titolo derivava dal matrimonio con Giovanni Guglielmo, principe elettore del Palatinato.",
+     "Il Patto di famiglia: è considerato uno degli atti più importanti nella storia della tutela del patrimonio culturale italiano.",
+     "San Lorenzo: tra il 1738 e il 1743 promosse importanti interventi architettonici e decorativi nel complesso di San Lorenzo, dove fu poi sepolta.",
+     "L'ultima dei granduchi: con lei si estinse il ramo granducale della dinastia medicea."
+    ],
+    "en": [
+     "Electress Palatine: the title came from her marriage to Johann Wilhelm, Prince-Elector of the Palatinate.",
+     "The Family Pact: it is regarded as one of the most important acts in the history of the protection of Italian cultural heritage.",
+     "San Lorenzo: between 1738 and 1743 she promoted major architectural and decorative works in the San Lorenzo complex, where she was later buried.",
+     "The last of the grand dukes: with her the grand-ducal branch of the Medici dynasty died out."
+    ],
+    "fr": [
+     "Électrice palatine : le titre venait de son mariage avec Jean-Guillaume, prince-électeur du Palatinat.",
+     "Le Pacte de famille : il est considéré comme l'un des actes les plus importants de l'histoire de la protection du patrimoine culturel italien.",
+     "San Lorenzo : entre 1738 et 1743, elle promut d'importants travaux architecturaux et décoratifs dans le complexe de San Lorenzo, où elle fut ensuite enterrée.",
+     "La dernière des grands-ducs : avec elle s'éteignit la branche grand-ducale de la dynastie médicéenne."
+    ],
+    "de": [
+     "Kurfürstin von der Pfalz: Der Titel stammte aus ihrer Ehe mit Johann Wilhelm, Kurfürst von der Pfalz.",
+     "Der Familienpakt: Er gilt als einer der wichtigsten Akte in der Geschichte des Schutzes des italienischen Kulturerbes.",
+     "San Lorenzo: Zwischen 1738 und 1743 förderte sie bedeutende architektonische und dekorative Arbeiten im Komplex von San Lorenzo, wo sie später beigesetzt wurde.",
+     "Die Letzte der Großherzöge: Mit ihr erlosch der großherzogliche Zweig der Medici-Dynastie."
+    ],
+    "es": [
+     "Electora palatina: el título derivaba de su matrimonio con Juan Guillermo, príncipe elector del Palatinado.",
+     "El Pacto de familia: se considera uno de los actos más importantes de la historia de la tutela del patrimonio cultural italiano.",
+     "San Lorenzo: entre 1738 y 1743 promovió importantes intervenciones arquitectónicas y decorativas en el complejo de San Lorenzo, donde fue enterrada después.",
+     "La última de los granduques: con ella se extinguió la rama granducal de la dinastía medicea."
+    ]
+   },
+   "luoghi": [
+    "basilica-di-san-lorenzo"
+   ],
+   "luoghiNote": {
+    "basilica-di-san-lorenzo": {
+     "tipo": {
+      "it": "Il mecenatismo e la sepoltura",
+      "en": "Patronage and burial",
+      "fr": "Le mécénat et la sépulture",
+      "de": "Mäzenatentum und Grabstätte",
+      "es": "El mecenazgo y la sepultura"
+     },
+     "testo": {
+      "it": "Tra il 1738 e il 1743 promosse importanti interventi architettonici e decorativi nel complesso; fu sepolta nella necropoli medicea di San Lorenzo.",
+      "en": "Between 1738 and 1743 she promoted major architectural and decorative works in the complex; she was buried in the Medici necropolis of San Lorenzo.",
+      "fr": "Entre 1738 et 1743, elle promut d'importants travaux architecturaux et décoratifs dans le complexe ; elle fut enterrée dans la nécropole médicéenne de San Lorenzo.",
+      "de": "Zwischen 1738 und 1743 förderte sie bedeutende architektonische und dekorative Arbeiten im Komplex; sie wurde in der Medici-Grablege von San Lorenzo beigesetzt.",
+      "es": "Entre 1738 y 1743 promovió importantes intervenciones arquitectónicas y decorativas en el complejo; fue enterrada en la necrópolis medicea de San Lorenzo."
+     }
+    }
+   },
+   "collegati": [],
+   "ritratto": {
+    "autore": "Antonio Franchi, ritratto di Anna Maria Luisa de' Medici",
+    "licenza": "Pubblico dominio"
+   }
   }
  ]
 }
