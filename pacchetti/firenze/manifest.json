@@ -1,5 +1,5 @@
 {
- "versione": "b7724c8d6df2",
+ "versione": "ec0d40b1a81a",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3104,6 +3104,24 @@
    "byte": 65018
   },
   {
+   "path": "assets/personaggi/amerigo-vespucci.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/amerigo-vespucci.webp",
+   "sha256": "54a08fcb6d42856d6e12fce074aa13c0a828e13ba1d221fdc8460a2a8ad1a282",
+   "byte": 90372
+  },
+  {
+   "path": "assets/personaggi/andrea-del-verrocchio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/andrea-del-verrocchio.webp",
+   "sha256": "1eb92bf18be8d596039c7ac2934f7185cb693f54199649d7f68ed83dd1299f0d",
+   "byte": 170692
+  },
+  {
+   "path": "assets/personaggi/angelo-poliziano.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/angelo-poliziano.webp",
+   "sha256": "37c1d9b87c2a0767f240307723caab56440f5bf9e1069d409ae979623b654b1e",
+   "byte": 27368
+  },
+  {
    "path": "assets/personaggi/anna-maria-luisa-de-medici.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/anna-maria-luisa-de-medici.webp",
    "sha256": "1c3aaff31c396f52811400af60f4bd2398e76561bfbd1a12f64c469135eafa71",
@@ -3248,6 +3266,12 @@
    "byte": 69750
   },
   {
+   "path": "assets/personaggi/lorenzo-ghiberti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/lorenzo-ghiberti.webp",
+   "sha256": "adace5bec03f75e2eb0311067b6627441453b6faa5e8a79b4852432026afe491",
+   "byte": 241204
+  },
+  {
    "path": "assets/personaggi/lorenzo-il-magnifico.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/lorenzo-il-magnifico.webp",
    "sha256": "dd083855c954c5287e48fc662d53fb9aade9a9bc9c84d68aed536b87778b09fc",
@@ -3288,6 +3312,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/niccolo-machiavelli.webp",
    "sha256": "07e3fac868b5dae94a965c1d4db1f79cd53af8d4ccfa1b1962f76f82310e09d5",
    "byte": 52970
+  },
+  {
+   "path": "assets/personaggi/piero-soderini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/piero-soderini.webp",
+   "sha256": "7b46e7cded541574000551378a013b41be42e51b7a1d413c3bc431d05de2d002",
+   "byte": 135386
   },
   {
    "path": "assets/personaggi/pietro-leopoldo-di-lorena.webp",
@@ -3394,8 +3424,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "7541e4b388f3f654d23812f93314feeb4fd23bff86e155d8ae02355b8cc27930",
-   "byte": 588968
+   "sha256": "c2a45ebd8b11d1a409185b5ec5852423a3c97066a9cd1f742dbaea8a3a6fe61f",
+   "byte": 678109
   },
   {
    "path": "dati/principali.json",
@@ -3418,8 +3448,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "ddccf331a41c895b0e9c814b8fd2f54826e36def8841ebabe92d5c993b4192e1",
-   "byte": 27163
+   "sha256": "24f025c1e963f01b8b23b29d84df0414460131036c186d8308ff94c1021b8bea",
+   "byte": 27286
   },
   {
    "path": "dati/tessere.json",
@@ -3435,12 +3465,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "75b399a58e17",
-   "da": "96cf6245336b",
-   "data": "2026-11-23",
-   "byte": 67996
-  },
   {
    "versione": "35713b58cbaf",
    "da": "75b399a58e17",
@@ -3554,6 +3578,12 @@
    "da": "b8d3bebf57b8",
    "data": "2026-11-23",
    "byte": 685881
+  },
+  {
+   "versione": "ec0d40b1a81a",
+   "da": "b7724c8d6df2",
+   "data": "2026-11-23",
+   "byte": 1370417
   }
  ]
 }

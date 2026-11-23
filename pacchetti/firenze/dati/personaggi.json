@@ -143,6 +143,16 @@
       "de": "Die Überlieferung verbindet Zenobius mit dem Sieg über Radagaisus: Einer Legende nach eilte die von ihm angerufene heilige Reparata dem belagerten Florenz zu Hilfe. Die römischen Truppen, die die Eindringlinge besiegten, führte Stilicho an.",
       "es": "La tradición vincula a Zenobio con la victoria sobre Radagaiso: según una leyenda, Santa Reparata, invocada por él, acudió en ayuda de Florencia asediada. Las tropas romanas que derrotaron a los invasores estaban al mando de Estilicón."
      }
+    },
+    {
+     "id": "lorenzo-ghiberti",
+     "testo": {
+      "it": "L'arca di bronzo per le sue spoglie, nel Duomo, fu realizzata da Lorenzo Ghiberti tra il 1432 e il 1442.",
+      "en": "The bronze shrine for his remains, in the Cathedral, was made by Lorenzo Ghiberti between 1432 and 1442.",
+      "fr": "La châsse de bronze pour ses reliques, dans la cathédrale, fut réalisée par Lorenzo Ghiberti entre 1432 et 1442.",
+      "de": "Der Bronzeschrein für seine Gebeine im Dom wurde zwischen 1432 und 1442 von Lorenzo Ghiberti geschaffen.",
+      "es": "El arca de bronce para sus restos, en la Catedral, fue realizada por Lorenzo Ghiberti entre 1432 y 1442."
+     }
     }
    ],
    "ritratto": {
@@ -1980,6 +1990,16 @@
       "de": "Der auf Lorenzo, seinen Bruder, zurückgehende Seitenzweig der Familie brachte Cosimo I. an die Macht, der im 16. Jahrhundert Herzog und dann erster Großherzog der Toskana wurde.",
       "es": "La rama colateral de la familia, originada en Lorenzo, su hermano, llevó al poder a Cosme I, que en el siglo XVI fue duque y luego primer gran duque de Toscana."
      }
+    },
+    {
+     "id": "andrea-del-verrocchio",
+     "testo": {
+      "it": "Il suo monumento sepolcrale in San Lorenzo fu realizzato da Verrocchio, tra il 1465 e il 1467 circa.",
+      "en": "His funerary monument in San Lorenzo was made by Verrocchio, around 1465–1467.",
+      "fr": "Son monument funéraire à San Lorenzo fut réalisé par Verrocchio, vers 1465–1467.",
+      "de": "Sein Grabmal in San Lorenzo wurde von Verrocchio geschaffen, um 1465–1467.",
+      "es": "Su monumento sepulcral en San Lorenzo fue realizado por Verrocchio, hacia 1465–1467."
+     }
     }
    ],
    "ritratto": {
@@ -2208,6 +2228,26 @@
       "de": "Sein Urenkel Cosimo I., Sohn von Maria Salviati, einer Enkelin des Prächtigen, wurde der erste Großherzog der Toskana. Er gehörte dem Seitenzweig der Familie an.",
       "es": "Su bisnieto Cosme I, hijo de María Salviati, nieta del Magnífico, fue el primer gran duque de Toscana. Pertenecía a la rama colateral de la familia."
      }
+    },
+    {
+     "id": "angelo-poliziano",
+     "testo": {
+      "it": "Lo accolse nella propria casa e gli affidò l'educazione di Piero. Poliziano fu in Duomo durante la congiura dei Pazzi e ne scrisse il racconto.",
+      "en": "He took him into his own home and entrusted him with Piero's education. Poliziano was in the Duomo during the Pazzi conspiracy and wrote an account of it.",
+      "fr": "Il l'accueillit chez lui et lui confia l'éducation de Pierre. Politien était au Duomo pendant la conjuration des Pazzi et en écrivit le récit.",
+      "de": "Er nahm ihn in sein eigenes Haus auf und vertraute ihm Pieros Erziehung an. Poliziano war während der Pazzi-Verschwörung im Dom und schrieb darüber einen Bericht.",
+      "es": "Lo acogió en su propia casa y le confió la educación de Piero. Poliziano estaba en el Duomo durante la conjura de los Pazzi y escribió el relato."
+     }
+    },
+    {
+     "id": "andrea-del-verrocchio",
+     "testo": {
+      "it": "Commissionò a Verrocchio la tomba del padre Piero e dello zio Giovanni in San Lorenzo, completata nel 1472.",
+      "en": "He commissioned from Verrocchio the tomb of his father Piero and his uncle Giovanni in San Lorenzo, completed in 1472.",
+      "fr": "Il commanda à Verrocchio le tombeau de son père Pierre et de son oncle Jean à San Lorenzo, achevé en 1472.",
+      "de": "Er beauftragte Verrocchio mit dem Grabmal seines Vaters Piero und seines Onkels Giovanni in San Lorenzo, 1472 vollendet.",
+      "es": "Encargó a Verrocchio la tumba de su padre Piero y de su tío Giovanni en San Lorenzo, terminada en 1472."
+     }
     }
    ],
    "ritratto": {
@@ -2409,6 +2449,16 @@
       "de": "Vasari erzählte in den Vite von seinem Leben und Werk und gab der Domkuppel großes Gewicht.",
       "es": "Vasari narró su vida y su obra en las Vite, dando gran relieve a la cúpula del Duomo."
      }
+    },
+    {
+     "id": "lorenzo-ghiberti",
+     "testo": {
+      "it": "Perse contro Ghiberti il concorso del 1401 per la porta del Battistero e per un periodo, dal 1418, condivise con lui la responsabilità del cantiere della cupola, fino al 1436.",
+      "en": "He lost the 1401 competition for the Baptistery door to Ghiberti and for a period, from 1418, shared with him responsibility for the dome works, until 1436.",
+      "fr": "Il perdit contre Ghiberti le concours de 1401 pour la porte du Baptistère et partagea un temps avec lui, à partir de 1418, la responsabilité du chantier de la coupole, jusqu'en 1436.",
+      "de": "Er verlor 1401 den Wettbewerb um die Baptisteriumstür gegen Ghiberti und teilte sich mit ihm zeitweise, ab 1418, die Verantwortung für die Kuppelbaustelle, bis 1436.",
+      "es": "Perdió ante Ghiberti el concurso de 1401 para la puerta del Baptisterio y durante un tiempo, desde 1418, compartió con él la responsabilidad de las obras de la cúpula, hasta 1436."
+     }
     }
    ],
    "ritratto": {
@@ -2599,6 +2649,16 @@
       "fr": "Dans la lettre à Brunelleschi qui ouvre Della pittura (1436), Alberti loue Donatello parmi les protagonistes du renouveau des arts à Florence.",
       "de": "Im Brief an Brunelleschi, der Della pittura (1436) eröffnet, lobt Alberti Donatello unter den Protagonisten der Erneuerung der Künste in Florenz.",
       "es": "En la carta a Brunelleschi que abre Della pittura (1436), Alberti elogia a Donatello entre los protagonistas de la renovación de las artes en Florencia."
+     }
+    },
+    {
+     "id": "lorenzo-ghiberti",
+     "testo": {
+      "it": "Lavorò come apprendista nella bottega di Ghiberti tra il 1404 e il 1407, probabilmente al cantiere della porta nord del Battistero.",
+      "en": "He worked as an apprentice in Ghiberti's workshop between 1404 and 1407, probably on the north door of the Baptistery.",
+      "fr": "Il travailla comme apprenti dans l'atelier de Ghiberti entre 1404 et 1407, probablement sur le chantier de la porte nord du Baptistère.",
+      "de": "Er arbeitete zwischen 1404 und 1407 als Lehrling in Ghibertis Werkstatt, wohl an der Nordtür des Baptisteriums.",
+      "es": "Trabajó como aprendiz en el taller de Ghiberti entre 1404 y 1407, probablemente en la puerta norte del Baptisterio."
      }
     }
    ],
@@ -3188,6 +3248,26 @@
       "de": "Vasari widmete ihm in den Vite bereits ab der Ausgabe von 1550 eine Biografie und trug so zu seinem Nachruhm bei.",
       "es": "Vasari le dedicó una biografía en las Vite, ya desde la edición de 1550, contribuyendo a su fama ante la posteridad."
      }
+    },
+    {
+     "id": "andrea-del-verrocchio",
+     "testo": {
+      "it": "Si formò a Firenze nella sua bottega; il Battesimo di Cristo degli Uffizi testimonia questa fase.",
+      "en": "He trained in his workshop in Florence; the Baptism of Christ in the Uffizi bears witness to this phase.",
+      "fr": "Il se forma dans son atelier à Florence ; le Baptême du Christ des Offices témoigne de cette période.",
+      "de": "Er wurde in dessen Werkstatt in Florenz ausgebildet; die Taufe Christi in den Uffizien zeugt von dieser Phase.",
+      "es": "Se formó en su taller de Florencia; el Bautismo de Cristo de los Uffizi testimonia esta fase."
+     }
+    },
+    {
+     "id": "piero-soderini",
+     "testo": {
+      "it": "Nel 1503 il gonfaloniere Soderini gli affidò la Battaglia di Anghiari per la sala del Maggior Consiglio di Palazzo Vecchio.",
+      "en": "In 1503 the gonfalonier Soderini entrusted him with the Battle of Anghiari for the hall of the Great Council in Palazzo Vecchio.",
+      "fr": "En 1503, le gonfalonier Soderini lui confia la Bataille d'Anghiari pour la salle du Grand Conseil du Palazzo Vecchio.",
+      "de": "1503 vertraute ihm der Gonfaloniere Soderini die Schlacht von Anghiari für den Saal des Großen Rates im Palazzo Vecchio an.",
+      "es": "En 1503 el gonfaloniero Soderini le encargó la Batalla de Anghiari para la sala del Gran Consejo del Palazzo Vecchio."
+     }
     }
    ],
    "ritratto": {
@@ -3415,6 +3495,16 @@
       "fr": "Vasari le considéra comme le sommet de l'art italien et lui consacra une biographie particulièrement longue ; après sa mort, il joua un rôle de premier plan dans les obsèques de 1564 et conçut le monument à Santa Croce.",
       "de": "Vasari sah in ihm den Höhepunkt der italienischen Kunst und widmete ihm eine besonders ausführliche Biografie; nach seinem Tod spielte er bei der Trauerfeier von 1564 eine führende Rolle und entwarf das Grabmal in Santa Croce.",
       "es": "Vasari lo consideró la cumbre del arte italiano y le dedicó una biografía especialmente extensa; tras su muerte tuvo un papel destacado en las exequias de 1564 y proyectó el monumento en Santa Croce."
+     }
+    },
+    {
+     "id": "piero-soderini",
+     "testo": {
+      "it": "Nel 1504 il gonfaloniere Soderini gli affidò la Battaglia di Cascina per la sala del Maggior Consiglio, accanto a quella di Leonardo.",
+      "en": "In 1504 the gonfalonier Soderini entrusted him with the Battle of Cascina for the hall of the Great Council, alongside Leonardo's.",
+      "fr": "En 1504, le gonfalonier Soderini lui confia la Bataille de Cascina pour la salle du Grand Conseil, en face de celle de Léonard.",
+      "de": "1504 vertraute ihm der Gonfaloniere Soderini die Schlacht von Cascina für den Saal des Großen Rates an, neben der von Leonardo.",
+      "es": "En 1504 el gonfaloniero Soderini le encargó la Batalla de Cascina para la sala del Gran Consejo, junto a la de Leonardo."
      }
     }
    ],
@@ -3706,6 +3796,16 @@
       "fr": "Ils représentèrent deux orientations différentes de la culture florentine de la fin du XVe siècle : Ficin était lié à l'humanisme néoplatonicien, tandis que Savonarole dénonçait la corruption morale et promouvait une réforme religieuse. Il n'est pas opportun de réduire leur rapport à un affrontement personnel.",
       "de": "Sie vertraten zwei unterschiedliche Richtungen der Florentiner Kultur des späten 15. Jahrhunderts: Ficino war dem neuplatonischen Humanismus verbunden, während Savonarola die moralische Verderbtheit anprangerte und eine religiöse Reform betrieb. Ihr Verhältnis sollte nicht auf einen persönlichen Konflikt reduziert werden.",
       "es": "Representaron dos orientaciones distintas de la cultura florentina de finales del siglo XV: Ficino estaba ligado al humanismo neoplatónico, mientras que Savonarola denunciaba la corrupción moral y promovía una reforma religiosa. No conviene reducir su relación a un enfrentamiento personal."
+     }
+    },
+    {
+     "id": "angelo-poliziano",
+     "testo": {
+      "it": "Poliziano apprese da lui i rudimenti della filosofia e frequentò l'ambiente platonico; i suoi interessi furono poi quelli del poeta e del filologo.",
+      "en": "Poliziano learned the rudiments of philosophy from him and frequented the Platonic circle; his own interests were then those of a poet and philologist.",
+      "fr": "Politien apprit de lui les rudiments de la philosophie et fréquenta le milieu platonicien ; ses intérêts furent ensuite ceux du poète et du philologue.",
+      "de": "Poliziano lernte bei ihm die Grundlagen der Philosophie und besuchte den platonischen Kreis; seine eigenen Interessen waren dann die des Dichters und Philologen.",
+      "es": "Poliziano aprendió de él los rudimentos de la filosofía y frecuentó el círculo platónico; sus propios intereses fueron luego los del poeta y el filólogo."
      }
     }
    ],
@@ -4019,6 +4119,16 @@
       "fr": "Tous deux se trouvèrent à la cour de César Borgia et, en 1503-1504, furent impliqués dans le projet de détourner l'Arno pour isoler Pise : Léonard comme expert technique, Machiavel parmi les responsables pour la République. Aucune collaboration personnelle n'est documentée.",
       "de": "Beide waren am Hof Cesare Borgias und waren 1503-1504 am Plan beteiligt, den Arno umzuleiten, um Pisa zu isolieren: Leonardo als technischer Experte, Machiavelli unter den Verantwortlichen der Republik. Eine persönliche Zusammenarbeit ist nicht belegt.",
       "es": "Ambos estuvieron en la corte de César Borgia y en 1503-1504 participaron en el proyecto de desviar el Arno para aislar Pisa: Leonardo como experto técnico, Maquiavelo entre los responsables de la República. No está documentada una colaboración personal."
+     }
+    },
+    {
+     "id": "piero-soderini",
+     "testo": {
+      "it": "Lavorò nella Cancelleria durante il gonfalonierato di Soderini e sostenne la milizia cittadina; con la caduta di Soderini, nel 1512, la sua carriera politica finì.",
+      "en": "He worked in the Chancery during Soderini's term and backed the citizen militia; with Soderini's fall in 1512 his political career ended.",
+      "fr": "Il travailla à la Chancellerie pendant le gonfalonierat de Soderini et soutint la milice citoyenne ; avec la chute de Soderini, en 1512, sa carrière politique prit fin.",
+      "de": "Er arbeitete während Soderinis Amtszeit in der Kanzlei und unterstützte die Bürgermiliz; mit Soderinis Sturz 1512 endete seine politische Laufbahn.",
+      "es": "Trabajó en la Cancillería durante el gonfalonierato de Soderini y apoyó la milicia ciudadana; con la caída de Soderini, en 1512, terminó su carrera política."
      }
     }
    ],
@@ -5549,6 +5659,754 @@
    ],
    "ritratto": {
     "autore": "Anonimo, ritratto del giovane Leopoldo II di Lorena",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "amerigo-vespucci",
+   "nome": "Amerigo Vespucci",
+   "nascita": 1454,
+   "morte": 1512,
+   "professione": {
+    "it": "Navigatore, esploratore e mercante",
+    "en": "Navigator, explorer and merchant",
+    "fr": "Navigateur, explorateur et marchand",
+    "de": "Seefahrer, Entdecker und Kaufmann",
+    "es": "Navegante, explorador y mercader"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "9 marzo 1454",
+    "en": "9 March 1454",
+    "fr": "9 mars 1454",
+    "de": "9. März 1454",
+    "es": "9 de marzo de 1454"
+   },
+   "luogoMorte": {
+    "it": "Siviglia",
+    "en": "Seville",
+    "fr": "Séville",
+    "de": "Sevilla",
+    "es": "Sevilla"
+   },
+   "dataMorte": {
+    "it": "22 febbraio 1512",
+    "en": "22 February 1512",
+    "fr": "22 février 1512",
+    "de": "22. Februar 1512",
+    "es": "22 de febrero de 1512"
+   },
+   "biografia": {
+    "it": "Amerigo Vespucci fu un navigatore, esploratore e mercante fiorentino, celebre per il ruolo avuto nell'esplorazione del continente americano tra la fine del Quattrocento e l'inizio del Cinquecento.\n\nNato a Firenze in una famiglia benestante, ricevette un'educazione umanistica e lavorò inizialmente in ambito commerciale, al servizio di Lorenzo di Pierfrancesco de' Medici. Nel 1491 si trasferì a Siviglia, dove collaborò con il mercante fiorentino Giannotto Berardi, impegnato nell'organizzazione di spedizioni marittime.\n\nDopo la morte di Berardi si dedicò direttamente alle imprese di esplorazione. Le ricostruzioni più accreditate gli attribuiscono due viaggi: il primo tra il 1499 e il 1500, al servizio della Spagna, il secondo tra il 1501 e il 1502, al servizio del Portogallo, lungo ampi tratti della costa atlantica del Sud America.\n\nIl suo contributo più importante fu la consapevolezza che quelle terre non corrispondevano all'Asia cercata navigando verso occidente, ma formavano un continente sconosciuto agli europei. Nel 1507 il cartografo tedesco Martin Waldseemüller usò il nome America, derivato da Amerigo, in una carta geografica; la denominazione si diffuse fino a indicare l'intero continente. Vespucci morì a Siviglia nel 1512.",
+    "en": "Amerigo Vespucci was a Florentine navigator, explorer and merchant, famous for his role in the exploration of the American continent between the late 15th and early 16th centuries.\n\nBorn in Florence into a well-off family, he received a humanist education and at first worked in trade, in the service of Lorenzo di Pierfrancesco de' Medici. In 1491 he moved to Seville, where he worked with the Florentine merchant Giannotto Berardi, who organised maritime expeditions.\n\nAfter Berardi's death he turned directly to voyages of exploration. The most widely accepted reconstructions credit him with two voyages: the first between 1499 and 1500, in the service of Spain, the second between 1501 and 1502, in the service of Portugal, along long stretches of South America's Atlantic coast.\n\nHis most important contribution was the realisation that these lands were not the Asia sought by sailing westwards, but a continent unknown to Europeans. In 1507 the German cartographer Martin Waldseemüller used the name America, derived from Amerigo, on a map; the name spread until it designated the whole continent. Vespucci died in Seville in 1512.",
+    "fr": "Amerigo Vespucci fut un navigateur, explorateur et marchand florentin, célèbre pour son rôle dans l'exploration du continent américain entre la fin du XVe siècle et le début du XVIe.\n\nNé à Florence dans une famille aisée, il reçut une éducation humaniste et travailla d'abord dans le commerce, au service de Laurent de Pierfrancesco de Médicis. En 1491, il s'installa à Séville, où il collabora avec le marchand florentin Giannotto Berardi, qui organisait des expéditions maritimes.\n\nAprès la mort de Berardi, il se consacra directement aux entreprises d'exploration. Les reconstitutions les plus admises lui attribuent deux voyages : le premier entre 1499 et 1500, au service de l'Espagne, le second entre 1501 et 1502, au service du Portugal, le long de vastes portions de la côte atlantique de l'Amérique du Sud.\n\nSa contribution majeure fut de comprendre que ces terres ne correspondaient pas à l'Asie recherchée en naviguant vers l'ouest, mais formaient un continent inconnu des Européens. En 1507, le cartographe allemand Martin Waldseemüller employa le nom America, dérivé d'Amerigo, sur une carte ; ce nom se répandit jusqu'à désigner tout le continent. Vespucci mourut à Séville en 1512.",
+    "de": "Amerigo Vespucci war ein Florentiner Seefahrer, Entdecker und Kaufmann, berühmt für seine Rolle bei der Erforschung des amerikanischen Kontinents zwischen dem Ende des 15. und dem Beginn des 16. Jahrhunderts.\n\nIn Florenz in eine wohlhabende Familie geboren, erhielt er eine humanistische Bildung und arbeitete zunächst im Handel, im Dienst von Lorenzo di Pierfrancesco de' Medici. 1491 zog er nach Sevilla, wo er mit dem Florentiner Kaufmann Giannotto Berardi zusammenarbeitete, der Seeexpeditionen organisierte.\n\nNach Berardis Tod widmete er sich unmittelbar den Entdeckungsfahrten. Die am besten gesicherten Rekonstruktionen schreiben ihm zwei Reisen zu: die erste zwischen 1499 und 1500 im Dienst Spaniens, die zweite zwischen 1501 und 1502 im Dienst Portugals, entlang weiter Abschnitte der atlantischen Küste Südamerikas.\n\nSein wichtigster Beitrag war die Erkenntnis, dass diese Länder nicht das auf dem Westweg gesuchte Asien waren, sondern ein den Europäern unbekannter Kontinent. 1507 verwendete der deutsche Kartograph Martin Waldseemüller auf einer Karte den von Amerigo abgeleiteten Namen America; die Bezeichnung setzte sich durch und stand schließlich für den ganzen Kontinent. Vespucci starb 1512 in Sevilla.",
+    "es": "Amerigo Vespucci fue un navegante, explorador y mercader florentino, célebre por su papel en la exploración del continente americano entre finales del siglo XV y principios del XVI.\n\nNacido en Florencia en una familia acomodada, recibió una educación humanista y trabajó al principio en el comercio, al servicio de Lorenzo di Pierfrancesco de Médici. En 1491 se trasladó a Sevilla, donde colaboró con el mercader florentino Giannotto Berardi, que organizaba expediciones marítimas.\n\nTras la muerte de Berardi se dedicó directamente a las empresas de exploración. Las reconstrucciones más aceptadas le atribuyen dos viajes: el primero entre 1499 y 1500, al servicio de España, el segundo entre 1501 y 1502, al servicio de Portugal, a lo largo de amplios tramos de la costa atlántica de Sudamérica.\n\nSu contribución más importante fue la conciencia de que aquellas tierras no eran el Asia buscada navegando hacia occidente, sino un continente desconocido para los europeos. En 1507 el cartógrafo alemán Martin Waldseemüller usó en un mapa el nombre America, derivado de Amerigo; la denominación se difundió hasta designar todo el continente. Vespucci murió en Sevilla en 1512."
+   },
+   "curiosita": {
+    "it": [
+     "Il nome America: non fu scelto da Vespucci e non risulta che egli abbia mai rivendicato questo riconoscimento.",
+     "Quattro viaggi o due?: per lungo tempo gli furono attribuiti quattro viaggi nel Nuovo Mondo; gli studi sulle fonti hanno portato la maggior parte degli storici a riconoscergliene due come effettivamente compiuti.",
+     "Le lettere: quelle che raccontano i suoi viaggi, come la Lettera al Soderini, sono state oggetto di importanti discussioni sulla loro autenticità e attendibilità.",
+     "La carta del mondo: distinguere l'Asia dal nuovo continente contribuì a cambiare profondamente la rappresentazione del mondo conosciuto dagli europei."
+    ],
+    "en": [
+     "The name America: it was not chosen by Vespucci, and there is no sign that he ever claimed the honour.",
+     "Four voyages or two?: for a long time he was credited with four voyages to the New World; studies of the sources have led most historians to recognise two as actually made.",
+     "The letters: those that recount his voyages, such as the Letter to Soderini, have been the subject of major debate about their authenticity and reliability.",
+     "The map of the world: distinguishing Asia from the new continent helped to change profoundly how Europeans represented the known world."
+    ],
+    "fr": [
+     "Le nom America : il ne fut pas choisi par Vespucci, et rien n'indique qu'il ait jamais revendiqué cet honneur.",
+     "Quatre voyages ou deux ? : on lui a longtemps attribué quatre voyages dans le Nouveau Monde ; l'étude des sources a conduit la plupart des historiens à n'en reconnaître que deux comme réellement accomplis.",
+     "Les lettres : celles qui racontent ses voyages, comme la Lettre à Soderini, ont fait l'objet d'importants débats sur leur authenticité et leur fiabilité.",
+     "La carte du monde : distinguer l'Asie du nouveau continent contribua à modifier profondément la représentation du monde connu des Européens."
+    ],
+    "de": [
+     "Der Name America: Er wurde nicht von Vespucci gewählt, und nichts deutet darauf hin, dass er diese Ehre je für sich beansprucht hätte.",
+     "Vier Reisen oder zwei?: Lange schrieb man ihm vier Reisen in die Neue Welt zu; die Quellenforschung hat die meisten Historiker dazu gebracht, nur zwei als tatsächlich durchgeführt anzuerkennen.",
+     "Die Briefe: Jene, die von seinen Reisen berichten, wie der Brief an Soderini, waren Gegenstand wichtiger Debatten über Echtheit und Zuverlässigkeit.",
+     "Die Weltkarte: Die Unterscheidung zwischen Asien und dem neuen Kontinent veränderte die Darstellung der den Europäern bekannten Welt grundlegend."
+    ],
+    "es": [
+     "El nombre América: no lo eligió Vespucci, y no consta que reclamara nunca este reconocimiento.",
+     "¿Cuatro viajes o dos?: durante mucho tiempo se le atribuyeron cuatro viajes al Nuevo Mundo; los estudios de las fuentes han llevado a la mayoría de los historiadores a reconocerle dos como realmente realizados.",
+     "Las cartas: las que cuentan sus viajes, como la Carta a Soderini, han sido objeto de importantes debates sobre su autenticidad y fiabilidad.",
+     "El mapa del mundo: distinguir Asia del nuevo continente contribuyó a cambiar profundamente la representación del mundo conocido por los europeos."
+    ]
+   },
+   "luoghi": [],
+   "luoghiNote": {},
+   "collegati": [
+    {
+     "id": "piero-soderini",
+     "testo": {
+      "it": "Era suo amico. A Soderini è indirizzata la Lettera al Soderini, che racconta alcune sue esplorazioni; l'autenticità del testo è però controversa.",
+      "en": "He was his friend. The Letter to Soderini, which recounts some of his explorations, is addressed to him; the authenticity of the text is, however, disputed.",
+      "fr": "Il était son ami. La Lettre à Soderini, qui raconte certaines de ses explorations, lui est adressée ; l'authenticité du texte est toutefois controversée.",
+      "de": "Er war sein Freund. An Soderini ist der Brief an Soderini gerichtet, der von einigen seiner Erkundungen berichtet; die Echtheit des Textes ist jedoch umstritten.",
+      "es": "Era su amigo. A Soderini va dirigida la Carta a Soderini, que cuenta algunas de sus exploraciones; la autenticidad del texto es, sin embargo, discutida."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Anonimo, ritratto di Amerigo Vespucci",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "lorenzo-ghiberti",
+   "nome": "Lorenzo Ghiberti",
+   "nascita": 1378,
+   "morte": 1455,
+   "professione": {
+    "it": "Scultore e orafo",
+    "en": "Sculptor and goldsmith",
+    "fr": "Sculpteur et orfèvre",
+    "de": "Bildhauer und Goldschmied",
+    "es": "Escultor y orfebre"
+   },
+   "luogoNascita": {
+    "it": "Firenze o Pelago",
+    "en": "Florence or Pelago",
+    "fr": "Florence ou Pelago",
+    "de": "Florenz oder Pelago",
+    "es": "Florencia o Pelago"
+   },
+   "dataNascita": {
+    "it": "circa 1378",
+    "en": "c. 1378",
+    "fr": "vers 1378",
+    "de": "um 1378",
+    "es": "hacia 1378"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "1455",
+    "en": "1455",
+    "fr": "1455",
+    "de": "1455",
+    "es": "1455"
+   },
+   "biografia": {
+    "it": "Lorenzo Ghiberti fu uno dei più importanti scultori e orafi del primo Rinascimento fiorentino. La sua opera contribuì al rinnovamento della scultura in bronzo e alla trasformazione del linguaggio artistico tra il tardo Medioevo e il Quattrocento.\n\nSi formò nell'ambiente dell'oreficeria. Nel 1401 partecipò al concorso indetto dall'Arte di Calimala, la potente corporazione dei mercanti di panni, per una nuova porta bronzea del Battistero di San Giovanni, con una formella raffigurante il Sacrificio di Isacco. Tra i concorrenti c'era anche Filippo Brunelleschi; la commissione scelse Ghiberti.\n\nLa porta nord, realizzata tra il 1403 e il 1424, ha ventotto formelle con episodi della vita di Cristo, evangelisti e padri della Chiesa. Nel 1425 ricevette l'incarico della porta orientale, terminata nel 1452, con dieci grandi pannelli dell'Antico Testamento e una profondità prospettica scolpita che colpì i contemporanei. Secondo la tradizione fu Michelangelo a definirla degna di essere la porta del Paradiso.\n\nGhiberti diresse anche una grande bottega, dove lavorarono Donatello, documentato come apprendista tra il 1404 e il 1407, e, secondo la tradizione, Paolo Uccello. Fu attivo nel cantiere del Duomo, tra l'altro con l'arca di San Zanobi, e morì a Firenze nel 1455.",
+    "en": "Lorenzo Ghiberti was one of the most important sculptors and goldsmiths of the early Florentine Renaissance. His work helped renew bronze sculpture and transform artistic language between the late Middle Ages and the 15th century.\n\nHe trained in the goldsmiths' milieu. In 1401 he took part in the competition held by the Arte di Calimala, the powerful guild of cloth merchants, for a new bronze door of the Baptistery of San Giovanni, with a panel showing the Sacrifice of Isaac. Filippo Brunelleschi was among the competitors; the commission chose Ghiberti.\n\nThe north door, made between 1403 and 1424, has twenty-eight panels with episodes from the life of Christ, evangelists and Church fathers. In 1425 he received the commission for the east door, finished in 1452, with ten large Old Testament panels and a sculpted perspective depth that struck his contemporaries. According to tradition, it was Michelangelo who called it worthy of being the gate of Paradise.\n\nGhiberti also ran a large workshop, where Donatello, documented as an apprentice between 1404 and 1407, and, according to tradition, Paolo Uccello worked. He was active on the Cathedral site, among other things with the shrine of Saint Zenobius, and died in Florence in 1455.",
+    "fr": "Lorenzo Ghiberti fut l'un des plus importants sculpteurs et orfèvres de la première Renaissance florentine. Son œuvre contribua au renouvellement de la sculpture en bronze et à la transformation du langage artistique entre la fin du Moyen Âge et le XVe siècle.\n\nIl se forma dans le milieu de l'orfèvrerie. En 1401, il participa au concours lancé par l'Arte di Calimala, la puissante corporation des marchands de drap, pour une nouvelle porte de bronze du Baptistère de San Giovanni, avec un panneau représentant le Sacrifice d'Isaac. Filippo Brunelleschi figurait parmi les concurrents ; la commission choisit Ghiberti.\n\nLa porte nord, réalisée entre 1403 et 1424, compte vingt-huit panneaux avec des épisodes de la vie du Christ, des évangélistes et des Pères de l'Église. En 1425, il reçut la commande de la porte orientale, achevée en 1452, avec dix grands panneaux de l'Ancien Testament et une profondeur perspective sculptée qui frappa les contemporains. Selon la tradition, c'est Michel-Ange qui la jugea digne d'être la porte du Paradis.\n\nGhiberti dirigea aussi un grand atelier, où travaillèrent Donatello, documenté comme apprenti entre 1404 et 1407, et, selon la tradition, Paolo Uccello. Il fut actif sur le chantier de la cathédrale, notamment avec la châsse de saint Zanobi, et mourut à Florence en 1455.",
+    "de": "Lorenzo Ghiberti war einer der bedeutendsten Bildhauer und Goldschmiede der florentinischen Frührenaissance. Sein Werk trug zur Erneuerung der Bronzeskulptur und zum Wandel der Kunstsprache zwischen Spätmittelalter und 15. Jahrhundert bei.\n\nEr wurde im Umfeld der Goldschmiedekunst ausgebildet. 1401 nahm er an dem Wettbewerb der Arte di Calimala, der mächtigen Zunft der Tuchhändler, für eine neue Bronzetür des Baptisteriums San Giovanni teil, mit einem Relief des Opfers Isaaks. Unter den Teilnehmern war auch Filippo Brunelleschi; die Jury wählte Ghiberti.\n\nDie Nordtür, entstanden zwischen 1403 und 1424, hat achtundzwanzig Felder mit Szenen aus dem Leben Christi, Evangelisten und Kirchenvätern. 1425 erhielt er den Auftrag für die Osttür, vollendet 1452, mit zehn großen Tafeln aus dem Alten Testament und einer plastisch gestalteten Perspektive, die die Zeitgenossen beeindruckte. Der Überlieferung nach nannte Michelangelo sie würdig, die Pforte des Paradieses zu sein.\n\nGhiberti leitete auch eine große Werkstatt, in der Donatello, als Lehrling zwischen 1404 und 1407 belegt, und der Überlieferung nach Paolo Uccello arbeiteten. Er war auf der Baustelle des Doms tätig, unter anderem mit dem Schrein des heiligen Zenobius, und starb 1455 in Florenz.",
+    "es": "Lorenzo Ghiberti fue uno de los escultores y orfebres más importantes del primer Renacimiento florentino. Su obra contribuyó a renovar la escultura en bronce y a transformar el lenguaje artístico entre la Edad Media tardía y el siglo XV.\n\nSe formó en el ámbito de la orfebrería. En 1401 participó en el concurso convocado por el Arte di Calimala, el poderoso gremio de los mercaderes de paños, para una nueva puerta de bronce del Baptisterio de San Giovanni, con una formella del Sacrificio de Isaac. Entre los concursantes estaba también Filippo Brunelleschi; la comisión eligió a Ghiberti.\n\nLa puerta norte, realizada entre 1403 y 1424, tiene veintiocho formellas con episodios de la vida de Cristo, evangelistas y padres de la Iglesia. En 1425 recibió el encargo de la puerta oriental, terminada en 1452, con diez grandes paneles del Antiguo Testamento y una profundidad perspectiva esculpida que impresionó a los contemporáneos. Según la tradición, fue Miguel Ángel quien la consideró digna de ser la puerta del Paraíso.\n\nGhiberti dirigió también un gran taller, donde trabajaron Donatello, documentado como aprendiz entre 1404 y 1407, y, según la tradición, Paolo Uccello. Estuvo activo en las obras de la Catedral, entre otras cosas con el arca de San Zenobio, y murió en Florencia en 1455."
+   },
+   "curiosita": {
+    "it": [
+     "Il concorso del 1401: le formelle di prova di Ghiberti e di Brunelleschi sono oggi conservate al Museo Nazionale del Bargello.",
+     "Oltre vent'anni: la porta nord richiese circa ventun anni di lavoro, dal 1403 al 1424.",
+     "I Commentarii: scrisse un'opera di riflessione sulla storia dell'arte e sugli artisti del passato e del suo tempo, importante testimonianza della crescente consapevolezza intellettuale degli artisti rinascimentali.",
+     "Gli originali: la Porta del Paradiso che si vede oggi al Battistero è una copia; i pannelli originali sono al Museo dell'Opera del Duomo."
+    ],
+    "en": [
+     "The 1401 competition: the trial panels by Ghiberti and Brunelleschi are now kept in the Museo Nazionale del Bargello.",
+     "Over twenty years: the north door took about twenty-one years of work, from 1403 to 1424.",
+     "The Commentarii: he wrote a work reflecting on the history of art and on the artists of the past and of his own time, an important sign of the growing intellectual awareness of Renaissance artists.",
+     "The originals: the Gates of Paradise seen today at the Baptistery are a copy; the original panels are in the Museo dell'Opera del Duomo."
+    ],
+    "fr": [
+     "Le concours de 1401 : les panneaux d'essai de Ghiberti et de Brunelleschi sont aujourd'hui conservés au Museo Nazionale del Bargello.",
+     "Plus de vingt ans : la porte nord demanda environ vingt et un ans de travail, de 1403 à 1424.",
+     "Les Commentarii : il écrivit une réflexion sur l'histoire de l'art et sur les artistes du passé et de son temps, témoignage important de la conscience intellectuelle croissante des artistes de la Renaissance.",
+     "Les originaux : la Porte du Paradis que l'on voit aujourd'hui au Baptistère est une copie ; les panneaux originaux se trouvent au Museo dell'Opera del Duomo."
+    ],
+    "de": [
+     "Der Wettbewerb von 1401: Die Probereliefs von Ghiberti und Brunelleschi befinden sich heute im Museo Nazionale del Bargello.",
+     "Über zwanzig Jahre: Die Nordtür erforderte rund einundzwanzig Jahre Arbeit, von 1403 bis 1424.",
+     "Die Commentarii: Er schrieb ein Werk über die Geschichte der Kunst und über die Künstler der Vergangenheit und seiner Zeit, ein wichtiges Zeugnis für das wachsende intellektuelle Selbstbewusstsein der Renaissancekünstler.",
+     "Die Originale: Die heute am Baptisterium zu sehende Paradiespforte ist eine Kopie; die Originaltafeln befinden sich im Museo dell'Opera del Duomo."
+    ],
+    "es": [
+     "El concurso de 1401: las formellas de prueba de Ghiberti y de Brunelleschi se conservan hoy en el Museo Nazionale del Bargello.",
+     "Más de veinte años: la puerta norte requirió unos veintiún años de trabajo, de 1403 a 1424.",
+     "Los Commentarii: escribió una obra de reflexión sobre la historia del arte y sobre los artistas del pasado y de su tiempo, testimonio importante de la creciente conciencia intelectual de los artistas del Renacimiento.",
+     "Los originales: la Puerta del Paraíso que se ve hoy en el Baptisterio es una copia; los paneles originales están en el Museo dell'Opera del Duomo."
+    ]
+   },
+   "luoghi": [
+    "battistero-di-san-giovanni",
+    "chiesa-e-museo-di-orsanmichele",
+    "cattedrale-di-santa-maria-del-fiore"
+   ],
+   "luoghiNote": {
+    "battistero-di-san-giovanni": {
+     "tipo": {
+      "it": "Le porte di bronzo",
+      "en": "The bronze doors",
+      "fr": "Les portes de bronze",
+      "de": "Die Bronzetüren",
+      "es": "Las puertas de bronce"
+     },
+     "testo": {
+      "it": "Qui Ghiberti realizzò la porta nord (1403–1424) e la porta orientale, detta «del Paradiso» (1425–1452). Quella che si vede oggi sul lato orientale è una copia: l'originale è al Museo dell'Opera del Duomo.",
+      "en": "Here Ghiberti made the north door (1403–1424) and the east door, known as the «Gates of Paradise» (1425–1452). The one seen today on the east side is a copy: the original is in the Museo dell'Opera del Duomo.",
+      "fr": "C'est ici que Ghiberti réalisa la porte nord (1403–1424) et la porte orientale, dite « du Paradis » (1425–1452). Celle que l'on voit aujourd'hui du côté est est une copie : l'original se trouve au Museo dell'Opera del Duomo.",
+      "de": "Hier schuf Ghiberti die Nordtür (1403–1424) und die Osttür, die „Paradiespforte“ (1425–1452). Die heute an der Ostseite zu sehende ist eine Kopie: Das Original befindet sich im Museo dell'Opera del Duomo.",
+      "es": "Aquí Ghiberti realizó la puerta norte (1403–1424) y la puerta oriental, llamada «del Paraíso» (1425–1452). La que se ve hoy en el lado este es una copia: el original está en el Museo dell'Opera del Duomo."
+     }
+    },
+    "chiesa-e-museo-di-orsanmichele": {
+     "tipo": {
+      "it": "Le statue in bronzo",
+      "en": "The bronze statues",
+      "fr": "Les statues de bronze",
+      "de": "Die Bronzestatuen",
+      "es": "Las estatuas de bronce"
+     },
+     "testo": {
+      "it": "Per tre corporazioni cittadine realizzò altrettante statue in bronzo: San Giovanni Battista (1412–1416, Arte di Calimala), San Matteo (1419–1422 circa, Arte del Cambio) e Santo Stefano (1427–1429, Arte della Lana).",
+      "en": "For three city guilds he made as many bronze statues: Saint John the Baptist (1412–1416, Arte di Calimala), Saint Matthew (c. 1419–1422, Arte del Cambio) and Saint Stephen (1427–1429, Arte della Lana).",
+      "fr": "Pour trois corporations de la ville, il réalisa autant de statues de bronze : saint Jean-Baptiste (1412–1416, Arte di Calimala), saint Matthieu (vers 1419–1422, Arte del Cambio) et saint Étienne (1427–1429, Arte della Lana).",
+      "de": "Für drei städtische Zünfte schuf er ebenso viele Bronzestatuen: den heiligen Johannes den Täufer (1412–1416, Arte di Calimala), den heiligen Matthäus (um 1419–1422, Arte del Cambio) und den heiligen Stephanus (1427–1429, Arte della Lana).",
+      "es": "Para tres gremios de la ciudad realizó otras tantas estatuas de bronce: San Juan Bautista (1412–1416, Arte di Calimala), San Mateo (hacia 1419–1422, Arte del Cambio) y San Esteban (1427–1429, Arte della Lana)."
+     }
+    },
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "L'arca di San Zanobi",
+      "en": "The shrine of Saint Zenobius",
+      "fr": "La châsse de saint Zanobi",
+      "de": "Der Schrein des heiligen Zenobius",
+      "es": "El arca de San Zenobio"
+     },
+     "testo": {
+      "it": "Tra il 1432 e il 1442 realizzò l'arca di bronzo di San Zanobi, nella cappella centrale della tribuna. Per la Cattedrale disegnò anche una serie di vetrate.",
+      "en": "Between 1432 and 1442 he made the bronze shrine of Saint Zenobius, in the central chapel of the tribune. For the Cathedral he also designed a series of stained-glass windows.",
+      "fr": "Entre 1432 et 1442, il réalisa la châsse de bronze de saint Zanobi, dans la chapelle centrale de la tribune. Pour la cathédrale, il dessina aussi une série de vitraux.",
+      "de": "Zwischen 1432 und 1442 schuf er den Bronzeschrein des heiligen Zenobius in der mittleren Kapelle der Tribuna. Für die Kathedrale entwarf er außerdem eine Reihe von Glasfenstern.",
+      "es": "Entre 1432 y 1442 realizó el arca de bronce de San Zenobio, en la capilla central de la tribuna. Para la Catedral diseñó también una serie de vidrieras."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "filippo-brunelleschi",
+     "testo": {
+      "it": "Si contesero la porta del Battistero nel concorso del 1401, vinto da Ghiberti. Nel 1418 Ghiberti partecipò anche al concorso per la cupola e fu tra i responsabili del cantiere fino al 1436, quando restò il solo Brunelleschi.",
+      "en": "They competed for the Baptistery door in the 1401 competition, won by Ghiberti. In 1418 Ghiberti also took part in the competition for the dome and was among those in charge of the works until 1436, when Brunelleschi was left alone.",
+      "fr": "Ils s'affrontèrent pour la porte du Baptistère lors du concours de 1401, remporté par Ghiberti. En 1418, Ghiberti participa aussi au concours pour la coupole et fut parmi les responsables du chantier jusqu'en 1436, date à laquelle Brunelleschi resta seul.",
+      "de": "Sie traten 1401 im Wettbewerb um die Baptisteriumstür gegeneinander an; Ghiberti gewann. 1418 nahm Ghiberti auch am Wettbewerb um die Kuppel teil und gehörte bis 1436 zu den Verantwortlichen der Baustelle, dann blieb Brunelleschi allein.",
+      "es": "Se disputaron la puerta del Baptisterio en el concurso de 1401, ganado por Ghiberti. En 1418 Ghiberti participó también en el concurso de la cúpula y fue uno de los responsables de las obras hasta 1436, cuando Brunelleschi quedó solo."
+     }
+    },
+    {
+     "id": "donatello",
+     "testo": {
+      "it": "Donatello lavorò come apprendista nella sua bottega tra il 1404 e il 1407, probabilmente al cantiere della porta nord, entrando in contatto con la tecnica del bronzo prima di intraprendere una ricerca autonoma.",
+      "en": "Donatello worked as an apprentice in his workshop between 1404 and 1407, probably on the north door, coming into contact with bronze technique before embarking on his own independent research.",
+      "fr": "Donatello travailla comme apprenti dans son atelier entre 1404 et 1407, probablement sur le chantier de la porte nord, découvrant la technique du bronze avant de mener une recherche autonome.",
+      "de": "Donatello arbeitete zwischen 1404 und 1407 als Lehrling in seiner Werkstatt, wohl an der Nordtür, und lernte dort die Bronzetechnik kennen, bevor er eigene Wege ging.",
+      "es": "Donatello trabajó como aprendiz en su taller entre 1404 y 1407, probablemente en la puerta norte, entrando en contacto con la técnica del bronce antes de emprender una investigación propia."
+     }
+    },
+    {
+     "id": "san-zanobi",
+     "testo": {
+      "it": "L'arca di bronzo realizzata da Ghiberti per le sue spoglie si trova nel Duomo, nella cappella centrale della tribuna.",
+      "en": "The bronze shrine Ghiberti made for his remains is in the Cathedral, in the central chapel of the tribune.",
+      "fr": "La châsse de bronze réalisée par Ghiberti pour ses reliques se trouve dans la cathédrale, dans la chapelle centrale de la tribune.",
+      "de": "Der von Ghiberti für seine Gebeine geschaffene Bronzeschrein befindet sich im Dom, in der mittleren Kapelle der Tribuna.",
+      "es": "El arca de bronce que Ghiberti hizo para sus restos se encuentra en la Catedral, en la capilla central de la tribuna."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Giovanni Battista Cecchi, ritratto di Lorenzo Ghiberti (da un disegno di Giorgio Vasari)",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "angelo-poliziano",
+   "nome": "Angelo Poliziano",
+   "nascita": 1454,
+   "morte": 1494,
+   "professione": {
+    "it": "Poeta, filologo e umanista",
+    "en": "Poet, philologist and humanist",
+    "fr": "Poète, philologue et humaniste",
+    "de": "Dichter, Philologe und Humanist",
+    "es": "Poeta, filólogo y humanista"
+   },
+   "luogoNascita": {
+    "it": "Montepulciano",
+    "en": "Montepulciano",
+    "fr": "Montepulciano",
+    "de": "Montepulciano",
+    "es": "Montepulciano"
+   },
+   "dataNascita": {
+    "it": "14 luglio 1454",
+    "en": "14 July 1454",
+    "fr": "14 juillet 1454",
+    "de": "14. Juli 1454",
+    "es": "14 de julio de 1454"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "settembre 1494",
+    "en": "September 1494",
+    "fr": "septembre 1494",
+    "de": "September 1494",
+    "es": "septiembre de 1494"
+   },
+   "biografia": {
+    "it": "Angelo Ambrogini, detto Poliziano dal nome latino della sua città natale, Montepulciano, fu uno dei maggiori poeti, filologi e umanisti del Rinascimento italiano.\n\nDopo l'uccisione del padre, quando era ancora bambino, si trasferì a Firenze. Frequentò lo Studio fiorentino e si distinse per la preparazione in latino e greco. Nel 1473 Lorenzo il Magnifico lo accolse in casa sua e nel 1475 gli affidò l'educazione del figlio Piero.\n\nTra le sue opere ci sono le Stanze per la giostra, composte per il torneo del 1475 in onore di Giuliano de' Medici e rimaste incompiute dopo la sua morte nella congiura dei Pazzi, e la Fabula di Orfeo, uno dei primi esempi importanti di teatro profano in volgare. Il 26 aprile 1478 era in Duomo con Lorenzo e Giuliano e ne scrisse il racconto nel Pactianae coniurationis commentarium.\n\nNel 1479, dopo un contrasto con Clarice Orsini, moglie di Lorenzo, lasciò la casa medicea; tornò nel 1480 e ottenne la cattedra di eloquenza greca e latina allo Studio. Si dedicò all'insegnamento e alla filologia, confrontando le versioni dei testi antichi per ricostruirne il significato originario. Morì a Firenze nel 1494, due anni dopo Lorenzo, poche settimane prima della cacciata dei Medici dalla città.",
+    "en": "Angelo Ambrogini, known as Poliziano from the Latin name of his birthplace, Montepulciano, was one of the greatest poets, philologists and humanists of the Italian Renaissance.\n\nAfter his father was killed, when he was still a child, he moved to Florence. He attended the Florentine Studio and stood out for his command of Latin and Greek. In 1473 Lorenzo the Magnificent took him into his home and in 1475 entrusted him with the education of his son Piero.\n\nHis works include the Stanze per la giostra, written for the 1475 tournament in honour of Giuliano de' Medici and left unfinished after Giuliano's death in the Pazzi conspiracy, and the Fabula di Orfeo, one of the first major examples of secular theatre in the vernacular. On 26 April 1478 he was in the Duomo with Lorenzo and Giuliano and wrote an account of it in the Pactianae coniurationis commentarium.\n\nIn 1479, after a quarrel with Clarice Orsini, Lorenzo's wife, he left the Medici household; he returned in 1480 and obtained the chair of Greek and Latin eloquence at the Studio. He devoted himself to teaching and philology, comparing versions of ancient texts to reconstruct their original meaning. He died in Florence in 1494, two years after Lorenzo, a few weeks before the Medici were driven out of the city.",
+    "fr": "Angelo Ambrogini, dit Politien d'après le nom latin de sa ville natale, Montepulciano, fut l'un des plus grands poètes, philologues et humanistes de la Renaissance italienne.\n\nAprès le meurtre de son père, alors qu'il était encore enfant, il s'installa à Florence. Il fréquenta le Studio florentin et se distingua par sa maîtrise du latin et du grec. En 1473, Laurent le Magnifique l'accueillit chez lui et, en 1475, lui confia l'éducation de son fils Pierre.\n\nParmi ses œuvres figurent les Stanze per la giostra, composées pour le tournoi de 1475 en l'honneur de Julien de Médicis et restées inachevées après sa mort lors de la conjuration des Pazzi, et la Fabula di Orfeo, l'un des premiers grands exemples de théâtre profane en langue vulgaire. Le 26 avril 1478, il était au Duomo avec Laurent et Julien et en laissa le récit dans le Pactianae coniurationis commentarium.\n\nEn 1479, après une querelle avec Clarice Orsini, épouse de Laurent, il quitta la maison médicéenne ; il revint en 1480 et obtint la chaire d'éloquence grecque et latine au Studio. Il se consacra à l'enseignement et à la philologie, confrontant les versions des textes antiques pour en reconstituer le sens original. Il mourut à Florence en 1494, deux ans après Laurent, quelques semaines avant l'expulsion des Médicis de la ville.",
+    "de": "Angelo Ambrogini, nach dem lateinischen Namen seiner Geburtsstadt Montepulciano Poliziano genannt, war einer der bedeutendsten Dichter, Philologen und Humanisten der italienischen Renaissance.\n\nNach der Ermordung seines Vaters, als er noch ein Kind war, zog er nach Florenz. Er besuchte das Florentiner Studio und fiel durch seine Kenntnisse in Latein und Griechisch auf. 1473 nahm ihn Lorenzo der Prächtige in sein Haus auf und vertraute ihm 1475 die Erziehung seines Sohnes Piero an.\n\nZu seinen Werken gehören die Stanze per la giostra, verfasst für das Turnier von 1475 zu Ehren Giuliano de' Medicis und unvollendet geblieben nach dessen Tod in der Pazzi-Verschwörung, sowie die Fabula di Orfeo, eines der ersten bedeutenden Beispiele weltlichen Theaters in der Volkssprache. Am 26. April 1478 war er mit Lorenzo und Giuliano im Dom und hielt das Geschehen im Pactianae coniurationis commentarium fest.\n\n1479 verließ er nach einem Streit mit Clarice Orsini, Lorenzos Frau, das Haus der Medici; 1480 kehrte er zurück und erhielt am Studio den Lehrstuhl für griechische und lateinische Beredsamkeit. Er widmete sich Lehre und Philologie und verglich die Fassungen antiker Texte, um ihren ursprünglichen Sinn zu rekonstruieren. Er starb 1494 in Florenz, zwei Jahre nach Lorenzo, wenige Wochen vor der Vertreibung der Medici aus der Stadt.",
+    "es": "Angelo Ambrogini, llamado Poliziano por el nombre latino de su ciudad natal, Montepulciano, fue uno de los mayores poetas, filólogos y humanistas del Renacimiento italiano.\n\nTras el asesinato de su padre, cuando aún era un niño, se trasladó a Florencia. Frecuentó el Studio florentino y destacó por su dominio del latín y del griego. En 1473 Lorenzo el Magnífico lo acogió en su casa y en 1475 le confió la educación de su hijo Piero.\n\nEntre sus obras están las Stanze per la giostra, compuestas para el torneo de 1475 en honor de Giuliano de Médici y quedadas inconclusas tras su muerte en la conjura de los Pazzi, y la Fabula di Orfeo, uno de los primeros ejemplos importantes de teatro profano en lengua vulgar. El 26 de abril de 1478 estaba en el Duomo con Lorenzo y Giuliano y dejó el relato en el Pactianae coniurationis commentarium.\n\nEn 1479, tras una disputa con Clarice Orsini, esposa de Lorenzo, abandonó la casa de los Médici; regresó en 1480 y obtuvo la cátedra de elocuencia griega y latina en el Studio. Se dedicó a la enseñanza y a la filología, comparando las versiones de los textos antiguos para reconstruir su significado original. Murió en Florencia en 1494, dos años después de Lorenzo, pocas semanas antes de la expulsión de los Médici de la ciudad."
+   },
+   "curiosita": {
+    "it": [
+     "Il soprannome: Poliziano deriva da Mons Politianus, il nome latino di Montepulciano.",
+     "Tre lingue: scriveva in italiano, latino e greco, ed era considerato uno dei maggiori esperti di letteratura classica del suo tempo.",
+     "L'Iliade in latino: la traduzione in versi latini di alcuni libri dell'Iliade gli procurò fama già in giovane età.",
+     "A caccia di libri: nell'estate del 1491 viaggiò con Giovanni Pico della Mirandola in Emilia e nel Veneto in cerca di manoscritti per la biblioteca di Lorenzo."
+    ],
+    "en": [
+     "The nickname: Poliziano comes from Mons Politianus, the Latin name of Montepulciano.",
+     "Three languages: he wrote in Italian, Latin and Greek, and was considered one of the leading experts in classical literature of his time.",
+     "The Iliad in Latin: his translation of some books of the Iliad into Latin verse brought him fame while still young.",
+     "Hunting for books: in the summer of 1491 he travelled with Giovanni Pico della Mirandola through Emilia and the Veneto in search of manuscripts for Lorenzo's library."
+    ],
+    "fr": [
+     "Le surnom : Poliziano vient de Mons Politianus, nom latin de Montepulciano.",
+     "Trois langues : il écrivait en italien, en latin et en grec, et passait pour l'un des meilleurs spécialistes de la littérature classique de son temps.",
+     "L'Iliade en latin : sa traduction en vers latins de plusieurs livres de l'Iliade lui valut la célébrité dès sa jeunesse.",
+     "À la chasse aux livres : à l'été 1491, il voyagea avec Jean Pic de la Mirandole en Émilie et en Vénétie à la recherche de manuscrits pour la bibliothèque de Laurent."
+    ],
+    "de": [
+     "Der Beiname: Poliziano leitet sich von Mons Politianus ab, dem lateinischen Namen von Montepulciano.",
+     "Drei Sprachen: Er schrieb auf Italienisch, Latein und Griechisch und galt als einer der besten Kenner der klassischen Literatur seiner Zeit.",
+     "Die Ilias auf Latein: Seine Übersetzung einiger Bücher der Ilias in lateinische Verse machte ihn schon in jungen Jahren berühmt.",
+     "Auf Büchersuche: Im Sommer 1491 reiste er mit Giovanni Pico della Mirandola durch die Emilia und das Veneto auf der Suche nach Handschriften für Lorenzos Bibliothek."
+    ],
+    "es": [
+     "El apodo: Poliziano deriva de Mons Politianus, el nombre latino de Montepulciano.",
+     "Tres lenguas: escribía en italiano, latín y griego, y se le consideraba uno de los mayores expertos en literatura clásica de su tiempo.",
+     "La Ilíada en latín: su traducción en versos latinos de algunos libros de la Ilíada le dio fama ya de joven.",
+     "A la caza de libros: en el verano de 1491 viajó con Giovanni Pico della Mirandola por la Emilia y el Véneto en busca de manuscritos para la biblioteca de Lorenzo."
+    ]
+   },
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore"
+   ],
+   "luoghiNote": {
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "La congiura dei Pazzi",
+      "en": "The Pazzi conspiracy",
+      "fr": "La conjuration des Pazzi",
+      "de": "Die Pazzi-Verschwörung",
+      "es": "La conjura de los Pazzi"
+     },
+     "testo": {
+      "it": "Il 26 aprile 1478, durante la messa, Giuliano de' Medici fu ucciso e Lorenzo fu aggredito. Poliziano era presente e ne lasciò il racconto nel Commentarium della congiura.",
+      "en": "On 26 April 1478, during Mass, Giuliano de' Medici was killed and Lorenzo was attacked. Poliziano was present and left an account of it in his Commentarium on the conspiracy.",
+      "fr": "Le 26 avril 1478, pendant la messe, Julien de Médicis fut tué et Laurent fut attaqué. Politien était présent et en laissa le récit dans son Commentarium sur la conjuration.",
+      "de": "Am 26. April 1478 wurde während der Messe Giuliano de' Medici getötet und Lorenzo angegriffen. Poliziano war anwesend und hielt das Geschehen in seinem Commentarium über die Verschwörung fest.",
+      "es": "El 26 de abril de 1478, durante la misa, Giuliano de Médici fue asesinado y Lorenzo atacado. Poliziano estaba presente y dejó el relato en su Commentarium sobre la conjura."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Lorenzo lo accolse in casa nel 1473, ne sostenne gli studi e gli affidò l'educazione dei figli. Poliziano divenne uno dei principali intellettuali della cerchia medicea.",
+      "en": "Lorenzo took him into his home in 1473, supported his studies and entrusted him with the education of his children. Poliziano became one of the leading intellectuals of the Medici circle.",
+      "fr": "Laurent l'accueillit chez lui en 1473, soutint ses études et lui confia l'éducation de ses enfants. Politien devint l'un des principaux intellectuels du cercle médicéen.",
+      "de": "Lorenzo nahm ihn 1473 in sein Haus auf, förderte seine Studien und vertraute ihm die Erziehung seiner Kinder an. Poliziano wurde einer der führenden Intellektuellen im Kreis der Medici.",
+      "es": "Lorenzo lo acogió en su casa en 1473, apoyó sus estudios y le confió la educación de sus hijos. Poliziano se convirtió en uno de los principales intelectuales del círculo mediceo."
+     }
+    },
+    {
+     "id": "marsilio-ficino",
+     "testo": {
+      "it": "Da Ficino apprese i primi rudimenti di filosofia e frequentò l'ambiente platonico che a lui faceva capo. I loro interessi restarono diversi: Ficino filosofo, Poliziano poeta e filologo.",
+      "en": "From Ficino he learned the first rudiments of philosophy and frequented the Platonic circle around him. Their interests remained different: Ficino a philosopher, Poliziano a poet and philologist.",
+      "fr": "De Ficin il apprit les premiers rudiments de philosophie et fréquenta le milieu platonicien qui gravitait autour de lui. Leurs intérêts restèrent différents : Ficin philosophe, Politien poète et philologue.",
+      "de": "Von Ficino erlernte er die ersten Grundlagen der Philosophie und besuchte den platonischen Kreis um ihn. Ihre Interessen blieben verschieden: Ficino Philosoph, Poliziano Dichter und Philologe.",
+      "es": "De Ficino aprendió los primeros rudimentos de filosofía y frecuentó el círculo platónico que se reunía en torno a él. Sus intereses siguieron siendo distintos: Ficino filósofo, Poliziano poeta y filólogo."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Domenico Ghirlandaio, ritratto di Angelo Poliziano (particolare di affresco)",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "andrea-del-verrocchio",
+   "nome": "Andrea del Verrocchio",
+   "nascita": 1435,
+   "morte": 1488,
+   "professione": {
+    "it": "Scultore, orafo e pittore",
+    "en": "Sculptor, goldsmith and painter",
+    "fr": "Sculpteur, orfèvre et peintre",
+    "de": "Bildhauer, Goldschmied und Maler",
+    "es": "Escultor, orfebre y pintor"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "circa 1435",
+    "en": "c. 1435",
+    "fr": "vers 1435",
+    "de": "um 1435",
+    "es": "hacia 1435"
+   },
+   "luogoMorte": {
+    "it": "Venezia",
+    "en": "Venice",
+    "fr": "Venise",
+    "de": "Venedig",
+    "es": "Venecia"
+   },
+   "dataMorte": {
+    "it": "1488",
+    "en": "1488",
+    "fr": "1488",
+    "de": "1488",
+    "es": "1488"
+   },
+   "biografia": {
+    "it": "Andrea di Michele di Francesco Cioni, detto Verrocchio, fu uno dei principali artisti della Firenze del Quattrocento: scultore, orafo e pittore, ebbe un ruolo fondamentale nella formazione di alcuni protagonisti del Rinascimento. Il soprannome deriverebbe da quello dell'orafo Giuliano Verrocchi, presso il quale avrebbe svolto parte della formazione.\n\nLavorò soprattutto a Firenze per committenti religiosi e civili e per i Medici. Tra le sue opere ci sono la tomba di Piero e Giovanni de' Medici in San Lorenzo, completata nel 1472, il David in bronzo, venduto dai Medici alla Signoria nel 1476, e il gruppo dell'Incredulità di San Tommaso per Orsanmichele. Realizzò anche la palla di rame che corona la lanterna della cupola del Duomo, issata nel 1471.\n\nLa sua bottega divenne uno dei principali centri artistici della città: vi si formarono o lavorarono, tra gli altri, Leonardo da Vinci, Pietro Perugino e Lorenzo di Credi. Il ruolo di Verrocchio nella storia dell'arte non si limita alle sue opere: la bottega fu un luogo di formazione fondamentale per la generazione che avrebbe trasformato pittura e scultura.\n\nNel 1479 ricevette dalla Repubblica di Venezia l'incarico del monumento equestre a Bartolomeo Colleoni. Morì a Venezia nel 1488, prima che il monumento fosse fuso in bronzo.",
+    "en": "Andrea di Michele di Francesco Cioni, known as Verrocchio, was one of the leading artists of 15th-century Florence: sculptor, goldsmith and painter, he played a fundamental role in training some of the protagonists of the Renaissance. His nickname is said to come from that of the goldsmith Giuliano Verrocchi, with whom he is thought to have trained in part.\n\nHe worked mainly in Florence for religious and civic patrons and for the Medici. His works include the tomb of Piero and Giovanni de' Medici in San Lorenzo, completed in 1472, the bronze David, sold by the Medici to the Signoria in 1476, and the group of the Incredulity of Saint Thomas for Orsanmichele. He also made the copper ball crowning the lantern of the Cathedral dome, raised in 1471.\n\nHis workshop became one of the city's main artistic centres: Leonardo da Vinci, Pietro Perugino and Lorenzo di Credi, among others, trained or worked there. Verrocchio's role in the history of art is not limited to his own works: the workshop was a fundamental training ground for the generation that would transform painting and sculpture.\n\nIn 1479 he received from the Republic of Venice the commission for the equestrian monument to Bartolomeo Colleoni. He died in Venice in 1488, before the monument had been cast in bronze.",
+    "fr": "Andrea di Michele di Francesco Cioni, dit Verrocchio, fut l'un des principaux artistes de la Florence du XVe siècle : sculpteur, orfèvre et peintre, il joua un rôle fondamental dans la formation de plusieurs protagonistes de la Renaissance. Son surnom viendrait de celui de l'orfèvre Giuliano Verrocchi, chez qui il aurait suivi une partie de sa formation.\n\nIl travailla surtout à Florence pour des commanditaires religieux et civils et pour les Médicis. Parmi ses œuvres figurent le tombeau de Pierre et Jean de Médicis à San Lorenzo, achevé en 1472, le David en bronze, vendu par les Médicis à la Seigneurie en 1476, et le groupe de l'Incrédulité de saint Thomas pour Orsanmichele. Il réalisa aussi la boule de cuivre qui couronne la lanterne de la coupole du Duomo, hissée en 1471.\n\nSon atelier devint l'un des principaux centres artistiques de la ville : Léonard de Vinci, le Pérugin et Lorenzo di Credi, entre autres, s'y formèrent ou y travaillèrent. Le rôle de Verrocchio dans l'histoire de l'art ne se limite pas à ses œuvres : l'atelier fut un lieu de formation essentiel pour la génération qui allait transformer la peinture et la sculpture.\n\nEn 1479, il reçut de la République de Venise la commande du monument équestre de Bartolomeo Colleoni. Il mourut à Venise en 1488, avant que le monument ne soit fondu en bronze.",
+    "de": "Andrea di Michele di Francesco Cioni, genannt Verrocchio, war einer der führenden Künstler des Florenz des 15. Jahrhunderts: Bildhauer, Goldschmied und Maler, spielte er eine grundlegende Rolle bei der Ausbildung einiger Protagonisten der Renaissance. Sein Beiname soll auf den des Goldschmieds Giuliano Verrocchi zurückgehen, bei dem er einen Teil seiner Ausbildung absolviert haben soll.\n\nEr arbeitete vor allem in Florenz für geistliche und weltliche Auftraggeber und für die Medici. Zu seinen Werken gehören das Grabmal von Piero und Giovanni de' Medici in San Lorenzo, 1472 vollendet, der Bronze-David, den die Medici 1476 an die Signoria verkauften, und die Gruppe des Ungläubigen Thomas für Orsanmichele. Außerdem schuf er die Kupferkugel, die die Laterne der Domkuppel krönt und 1471 hinaufgezogen wurde.\n\nSeine Werkstatt wurde zu einem der wichtigsten Kunstzentren der Stadt: Leonardo da Vinci, Pietro Perugino und Lorenzo di Credi lernten oder arbeiteten dort, unter anderen. Verrocchios Bedeutung für die Kunstgeschichte beschränkt sich nicht auf seine Werke: Die Werkstatt war ein grundlegender Ausbildungsort für die Generation, die Malerei und Bildhauerei verwandeln sollte.\n\n1479 erhielt er von der Republik Venedig den Auftrag für das Reiterdenkmal des Bartolomeo Colleoni. Er starb 1488 in Venedig, bevor das Denkmal in Bronze gegossen wurde.",
+    "es": "Andrea di Michele di Francesco Cioni, llamado Verrocchio, fue uno de los principales artistas de la Florencia del siglo XV: escultor, orfebre y pintor, tuvo un papel fundamental en la formación de algunos protagonistas del Renacimiento. Su apodo derivaría del del orfebre Giuliano Verrocchi, con quien habría realizado parte de su formación.\n\nTrabajó sobre todo en Florencia para comitentes religiosos y civiles y para los Médici. Entre sus obras están la tumba de Piero y Giovanni de Médici en San Lorenzo, terminada en 1472, el David en bronce, vendido por los Médici a la Signoria en 1476, y el grupo de la Incredulidad de Santo Tomás para Orsanmichele. Realizó también la bola de cobre que corona la linterna de la cúpula del Duomo, izada en 1471.\n\nSu taller se convirtió en uno de los principales centros artísticos de la ciudad: allí se formaron o trabajaron, entre otros, Leonardo da Vinci, Pietro Perugino y Lorenzo di Credi. El papel de Verrocchio en la historia del arte no se limita a sus obras: el taller fue un lugar de formación fundamental para la generación que transformaría la pintura y la escultura.\n\nEn 1479 recibió de la República de Venecia el encargo del monumento ecuestre a Bartolomeo Colleoni. Murió en Venecia en 1488, antes de que el monumento fuera fundido en bronce."
+   },
+   "curiosita": {
+    "it": [
+     "Il David: il bronzo, oggi al Museo Nazionale del Bargello, è una delle opere più celebri della scultura fiorentina del Quattrocento.",
+     "La palla del Duomo: la grande sfera della lanterna cadde colpita da un fulmine nel 1601 e fu poi rifatta più grande per volere del granduca Ferdinando I.",
+     "Il Battesimo di Cristo: oggi agli Uffizi, è un esempio di collaborazione tra maestro e allievi; a Leonardo, allora giovane, si attribuisce uno degli angeli e parte del paesaggio.",
+     "Il Colleoni: il monumento equestre a Venezia fu fuso dopo la morte di Verrocchio da Alessandro Leopardi, che lo completò."
+    ],
+    "en": [
+     "The David: the bronze, now in the Museo Nazionale del Bargello, is one of the most famous works of 15th-century Florentine sculpture.",
+     "The Duomo's ball: the great sphere on the lantern was struck by lightning in 1601 and later rebuilt larger by order of Grand Duke Ferdinando I.",
+     "The Baptism of Christ: now in the Uffizi, it is an example of collaboration between master and pupils; the young Leonardo is credited with one of the angels and part of the landscape.",
+     "The Colleoni: the equestrian monument in Venice was cast after Verrocchio's death by Alessandro Leopardi, who completed it."
+    ],
+    "fr": [
+     "Le David : le bronze, aujourd'hui au Museo Nazionale del Bargello, est l'une des œuvres les plus célèbres de la sculpture florentine du XVe siècle.",
+     "La boule du Duomo : la grande sphère de la lanterne fut frappée par la foudre en 1601, puis refaite plus grande par volonté du grand-duc Ferdinand Ier.",
+     "Le Baptême du Christ : aujourd'hui aux Offices, il est un exemple de collaboration entre maître et élèves ; on attribue au jeune Léonard l'un des anges et une partie du paysage.",
+     "Le Colleoni : le monument équestre de Venise fut fondu après la mort de Verrocchio par Alessandro Leopardi, qui l'acheva."
+    ],
+    "de": [
+     "Der David: Die Bronze, heute im Museo Nazionale del Bargello, ist eines der berühmtesten Werke der florentinischen Bildhauerei des 15. Jahrhunderts.",
+     "Die Kugel des Doms: Die große Kugel der Laterne wurde 1601 vom Blitz getroffen und später auf Veranlassung von Großherzog Ferdinando I. größer neu gefertigt.",
+     "Die Taufe Christi: Heute in den Uffizien, ist sie ein Beispiel für die Zusammenarbeit von Meister und Schülern; dem jungen Leonardo werden einer der Engel und ein Teil der Landschaft zugeschrieben.",
+     "Der Colleoni: Das Reiterdenkmal in Venedig wurde nach Verrocchios Tod von Alessandro Leopardi gegossen, der es vollendete."
+    ],
+    "es": [
+     "El David: el bronce, hoy en el Museo Nazionale del Bargello, es una de las obras más célebres de la escultura florentina del siglo XV.",
+     "La bola del Duomo: la gran esfera de la linterna fue alcanzada por un rayo en 1601 y se rehízo más grande por voluntad del gran duque Fernando I.",
+     "El Bautismo de Cristo: hoy en los Uffizi, es un ejemplo de colaboración entre maestro y discípulos; al joven Leonardo se le atribuyen uno de los ángeles y parte del paisaje.",
+     "El Colleoni: el monumento ecuestre de Venecia fue fundido tras la muerte de Verrocchio por Alessandro Leopardi, que lo completó."
+    ]
+   },
+   "luoghi": [
+    "cattedrale-di-santa-maria-del-fiore",
+    "basilica-di-san-lorenzo",
+    "palazzo-vecchio",
+    "chiesa-e-museo-di-orsanmichele"
+   ],
+   "luoghiNote": {
+    "cattedrale-di-santa-maria-del-fiore": {
+     "tipo": {
+      "it": "La palla della lanterna",
+      "en": "The ball on the lantern",
+      "fr": "La boule de la lanterne",
+      "de": "Die Kugel der Laterne",
+      "es": "La bola de la linterna"
+     },
+     "testo": {
+      "it": "Nel 1468 gli fu commissionata la grande sfera di rame dorato che corona la lanterna della cupola, issata nel 1471. Quella attuale è la sfera rifatta dopo il fulmine del 1601.",
+      "en": "In 1468 he was commissioned to make the great gilded copper sphere crowning the dome's lantern, raised in 1471. The present one is the sphere rebuilt after the lightning strike of 1601.",
+      "fr": "En 1468, on lui commanda la grande sphère de cuivre doré qui couronne la lanterne de la coupole, hissée en 1471. Celle d'aujourd'hui est la sphère refaite après la foudre de 1601.",
+      "de": "1468 erhielt er den Auftrag für die große vergoldete Kupferkugel, die die Laterne der Kuppel krönt und 1471 hinaufgezogen wurde. Die heutige ist die nach dem Blitzschlag von 1601 neu gefertigte Kugel.",
+      "es": "En 1468 se le encargó la gran esfera de cobre dorado que corona la linterna de la cúpula, izada en 1471. La actual es la esfera rehecha tras el rayo de 1601."
+     }
+    },
+    "basilica-di-san-lorenzo": {
+     "tipo": {
+      "it": "Le tombe medicee",
+      "en": "The Medici tombs",
+      "fr": "Les tombeaux médicéens",
+      "de": "Die Medici-Gräber",
+      "es": "Las tumbas medíceas"
+     },
+     "testo": {
+      "it": "Realizzò il monumento sepolcrale di Cosimo il Vecchio (1465–1467 circa) e la tomba dei suoi figli Piero e Giovanni nella Sagrestia Vecchia, completata nel 1472.",
+      "en": "He made the funerary monument of Cosimo the Elder (c. 1465–1467) and the tomb of his sons Piero and Giovanni in the Old Sacristy, completed in 1472.",
+      "fr": "Il réalisa le monument funéraire de Cosme l'Ancien (vers 1465–1467) et le tombeau de ses fils Pierre et Jean dans la Vieille Sacristie, achevé en 1472.",
+      "de": "Er schuf das Grabmal Cosimos des Älteren (um 1465–1467) und das Grab seiner Söhne Piero und Giovanni in der Alten Sakristei, 1472 vollendet.",
+      "es": "Realizó el monumento sepulcral de Cosme el Viejo (hacia 1465–1467) y la tumba de sus hijos Piero y Giovanni en la Sacristía Vieja, terminada en 1472."
+     }
+    },
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "Il David e il putto",
+      "en": "The David and the putto",
+      "fr": "Le David et le putto",
+      "de": "Der David und der Putto",
+      "es": "El David y el putto"
+     },
+     "testo": {
+      "it": "Il David in bronzo fu venduto dai Medici alla Signoria nel 1476 e collocato nel palazzo; oggi è al Bargello. Nel cortile di Michelozzo il Putto con delfino rimase dalla metà del Cinquecento al 1959: l'originale è oggi conservato all'interno del palazzo.",
+      "en": "The bronze David was sold by the Medici to the Signoria in 1476 and placed in the palace; it is now in the Bargello. In Michelozzo's courtyard the Putto with a Dolphin stood from the mid-16th century until 1959: the original is now kept inside the palace.",
+      "fr": "Le David en bronze fut vendu par les Médicis à la Seigneurie en 1476 et placé dans le palais ; il est aujourd'hui au Bargello. Dans la cour de Michelozzo, le Putto au dauphin resta du milieu du XVIe siècle jusqu'en 1959 : l'original est aujourd'hui conservé à l'intérieur du palais.",
+      "de": "Der Bronze-David wurde 1476 von den Medici an die Signoria verkauft und im Palast aufgestellt; heute steht er im Bargello. Im Hof Michelozzos stand der Putto mit Delfin von der Mitte des 16. Jahrhunderts bis 1959: Das Original wird heute im Inneren des Palastes aufbewahrt.",
+      "es": "El David en bronce fue vendido por los Médici a la Signoria en 1476 y colocado en el palacio; hoy está en el Bargello. En el patio de Michelozzo, el Putto con delfín estuvo desde mediados del siglo XVI hasta 1959: el original se conserva hoy dentro del palacio."
+     }
+    },
+    "chiesa-e-museo-di-orsanmichele": {
+     "tipo": {
+      "it": "L'Incredulità di San Tommaso",
+      "en": "The Incredulity of Saint Thomas",
+      "fr": "L'Incrédulité de saint Thomas",
+      "de": "Der Ungläubige Thomas",
+      "es": "La Incredulidad de Santo Tomás"
+     },
+     "testo": {
+      "it": "Il gruppo bronzeo di Cristo e San Tommaso, eseguito tra il 1467 e il 1483, fu realizzato per una delle nicchie esterne dell'edificio.",
+      "en": "The bronze group of Christ and Saint Thomas, made between 1467 and 1483, was created for one of the building's exterior niches.",
+      "fr": "Le groupe en bronze du Christ et de saint Thomas, exécuté entre 1467 et 1483, fut réalisé pour l'une des niches extérieures de l'édifice.",
+      "de": "Die Bronzegruppe von Christus und dem heiligen Thomas, zwischen 1467 und 1483 entstanden, wurde für eine der Außennischen des Gebäudes geschaffen.",
+      "es": "El grupo en bronce de Cristo y Santo Tomás, realizado entre 1467 y 1483, se hizo para una de las hornacinas exteriores del edificio."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "leonardo-da-vinci",
+     "testo": {
+      "it": "Leonardo si formò nella sua bottega a Firenze. Il Battesimo di Cristo degli Uffizi testimonia questa fase: gli si attribuisce uno degli angeli e parte del paesaggio.",
+      "en": "Leonardo trained in his workshop in Florence. The Baptism of Christ in the Uffizi bears witness to this phase: he is credited with one of the angels and part of the landscape.",
+      "fr": "Léonard se forma dans son atelier à Florence. Le Baptême du Christ des Offices témoigne de cette période : on lui attribue l'un des anges et une partie du paysage.",
+      "de": "Leonardo wurde in seiner Werkstatt in Florenz ausgebildet. Die Taufe Christi in den Uffizien zeugt von dieser Phase: Ihm werden einer der Engel und ein Teil der Landschaft zugeschrieben.",
+      "es": "Leonardo se formó en su taller de Florencia. El Bautismo de Cristo de los Uffizi testimonia esta fase: se le atribuyen uno de los ángeles y parte del paisaje."
+     }
+    },
+    {
+     "id": "lorenzo-il-magnifico",
+     "testo": {
+      "it": "Fu uno dei suoi principali committenti: gli commissionò la tomba del padre Piero e dello zio Giovanni in San Lorenzo, completata nel 1472.",
+      "en": "He was one of his main patrons: he commissioned from him the tomb of his father Piero and his uncle Giovanni in San Lorenzo, completed in 1472.",
+      "fr": "Il fut l'un de ses principaux commanditaires : il lui commanda le tombeau de son père Pierre et de son oncle Jean à San Lorenzo, achevé en 1472.",
+      "de": "Er war einer seiner wichtigsten Auftraggeber: Er beauftragte ihn mit dem Grabmal seines Vaters Piero und seines Onkels Giovanni in San Lorenzo, 1472 vollendet.",
+      "es": "Fue uno de sus principales comitentes: le encargó la tumba de su padre Piero y de su tío Giovanni en San Lorenzo, terminada en 1472."
+     }
+    },
+    {
+     "id": "cosimo-il-vecchio",
+     "testo": {
+      "it": "Verrocchio realizzò il suo monumento sepolcrale nella basilica di San Lorenzo, tra il 1465 e il 1467 circa.",
+      "en": "Verrocchio made his funerary monument in the basilica of San Lorenzo, around 1465–1467.",
+      "fr": "Verrocchio réalisa son monument funéraire dans la basilique de San Lorenzo, vers 1465–1467.",
+      "de": "Verrocchio schuf sein Grabmal in der Basilika San Lorenzo, um 1465–1467.",
+      "es": "Verrocchio realizó su monumento sepulcral en la basílica de San Lorenzo, hacia 1465–1467."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Nicolas de Larmessin, ritratto di Andrea del Verrocchio",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "piero-soderini",
+   "nome": "Piero Soderini",
+   "nascita": 1452,
+   "morte": 1522,
+   "professione": {
+    "it": "Gonfaloniere a vita della Repubblica fiorentina",
+    "en": "Gonfalonier for life of the Florentine Republic",
+    "fr": "Gonfalonier à vie de la République florentine",
+    "de": "Gonfaloniere auf Lebenszeit der Florentiner Republik",
+    "es": "Gonfaloniero vitalicio de la República florentina"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "1452",
+    "en": "1452",
+    "fr": "1452",
+    "de": "1452",
+    "es": "1452"
+   },
+   "luogoMorte": {
+    "it": "Roma",
+    "en": "Rome",
+    "fr": "Rome",
+    "de": "Rom",
+    "es": "Roma"
+   },
+   "dataMorte": {
+    "it": "13 giugno 1522",
+    "en": "13 June 1522",
+    "fr": "13 juin 1522",
+    "de": "13. Juni 1522",
+    "es": "13 de junio de 1522"
+   },
+   "biografia": {
+    "it": "Piero di Tommaso Soderini fu un politico fiorentino e uno dei protagonisti della Repubblica di Firenze nei primi anni del Cinquecento. Rappresenta il tentativo di mantenere un governo repubblicano stabile dopo Savonarola e prima del ritorno dei Medici nel 1512.\n\nNel 1502 fu eletto gonfaloniere a vita: la carica doveva garantire maggiore stabilità alle istituzioni, affidando il governo a una figura non soggetta al rapido avvicendamento delle magistrature. Cercò di rafforzare lo Stato e sostenne la creazione di una milizia cittadina stabile, voluta soprattutto da Niccolò Machiavelli per ridurre la dipendenza dai mercenari.\n\nFu anche committente d'arte. Nel 1503 affidò a Leonardo la Battaglia di Anghiari e nel 1504 a Michelangelo la Battaglia di Cascina, due grandi dipinti per la sala del Maggior Consiglio di Palazzo Vecchio. Le due opere restarono incompiute, ma il loro confronto è uno degli episodi più celebri del Rinascimento.\n\nNel 1512, con l'avanzata delle truppe spagnole e il ritorno dei Medici, dovette lasciare Firenze. Si rifugiò a Ragusa; poi papa Leone X lo chiamò a Roma, dove morì nel 1522.",
+    "en": "Piero di Tommaso Soderini was a Florentine politician and one of the protagonists of the Republic of Florence in the early 16th century. He embodies the attempt to keep a stable republican government after Savonarola and before the return of the Medici in 1512.\n\nIn 1502 he was elected gonfalonier for life: the office was meant to guarantee greater stability to the institutions, entrusting the government to a figure not subject to the rapid rotation of magistracies. He tried to strengthen the state and backed the creation of a permanent citizen militia, championed above all by Niccolò Machiavelli to reduce dependence on mercenaries.\n\nHe was also a patron of the arts. In 1503 he commissioned Leonardo to paint the Battle of Anghiari and in 1504 Michelangelo the Battle of Cascina, two great paintings for the hall of the Great Council in Palazzo Vecchio. Both works remained unfinished, but the rivalry between them is one of the most famous episodes of the Renaissance.\n\nIn 1512, with the advance of Spanish troops and the return of the Medici, he had to leave Florence. He took refuge in Ragusa; then Pope Leo X called him to Rome, where he died in 1522.",
+    "fr": "Piero di Tommaso Soderini fut un homme politique florentin et l'un des protagonistes de la République de Florence au début du XVIe siècle. Il incarne la tentative de maintenir un gouvernement républicain stable après Savonarole et avant le retour des Médicis en 1512.\n\nEn 1502, il fut élu gonfalonier à vie : la charge devait garantir une plus grande stabilité aux institutions en confiant le gouvernement à une figure non soumise à la rotation rapide des magistratures. Il chercha à renforcer l'État et soutint la création d'une milice citoyenne permanente, voulue surtout par Nicolas Machiavel pour réduire la dépendance à l'égard des mercenaires.\n\nIl fut aussi commanditaire d'art. En 1503, il confia à Léonard la Bataille d'Anghiari et, en 1504, à Michel-Ange la Bataille de Cascina, deux grandes peintures pour la salle du Grand Conseil du Palazzo Vecchio. Les deux œuvres restèrent inachevées, mais leur confrontation est l'un des épisodes les plus célèbres de la Renaissance.\n\nEn 1512, avec l'avance des troupes espagnoles et le retour des Médicis, il dut quitter Florence. Il se réfugia à Raguse ; puis le pape Léon X l'appela à Rome, où il mourut en 1522.",
+    "de": "Piero di Tommaso Soderini war ein Florentiner Politiker und einer der Protagonisten der Florentiner Republik im frühen 16. Jahrhundert. Er steht für den Versuch, nach Savonarola und vor der Rückkehr der Medici 1512 eine stabile republikanische Regierung zu bewahren.\n\n1502 wurde er zum Gonfaloniere auf Lebenszeit gewählt: Das Amt sollte den Institutionen mehr Stabilität sichern, indem es die Regierung einer Person übertrug, die nicht dem raschen Wechsel der Magistraturen unterlag. Er suchte den Staat zu stärken und unterstützte die Schaffung einer ständigen Bürgermiliz, vor allem von Niccolò Machiavelli gefordert, um die Abhängigkeit von Söldnern zu verringern.\n\nEr war auch Auftraggeber von Kunst. 1503 beauftragte er Leonardo mit der Schlacht von Anghiari und 1504 Michelangelo mit der Schlacht von Cascina, zwei große Gemälde für den Saal des Großen Rates im Palazzo Vecchio. Beide Werke blieben unvollendet, doch ihr Wettstreit ist eine der berühmtesten Episoden der Renaissance.\n\n1512 musste er mit dem Vormarsch der spanischen Truppen und der Rückkehr der Medici Florenz verlassen. Er fand Zuflucht in Ragusa; dann rief ihn Papst Leo X. nach Rom, wo er 1522 starb.",
+    "es": "Piero di Tommaso Soderini fue un político florentino y uno de los protagonistas de la República de Florencia a comienzos del siglo XVI. Representa el intento de mantener un gobierno republicano estable después de Savonarola y antes del regreso de los Médici en 1512.\n\nEn 1502 fue elegido gonfaloniero vitalicio: el cargo debía garantizar mayor estabilidad a las instituciones, confiando el gobierno a una figura no sujeta a la rápida rotación de las magistraturas. Procuró reforzar el Estado y apoyó la creación de una milicia ciudadana permanente, defendida sobre todo por Nicolás Maquiavelo para reducir la dependencia de los mercenarios.\n\nFue también comitente de arte. En 1503 encargó a Leonardo la Batalla de Anghiari y en 1504 a Miguel Ángel la Batalla de Cascina, dos grandes pinturas para la sala del Gran Consejo del Palazzo Vecchio. Ambas obras quedaron inconclusas, pero su confrontación es uno de los episodios más célebres del Renacimiento.\n\nEn 1512, con el avance de las tropas españolas y el regreso de los Médici, tuvo que abandonar Florencia. Se refugió en Ragusa; después el papa León X lo llamó a Roma, donde murió en 1522."
+   },
+   "curiosita": {
+    "it": [
+     "Gonfaloniere a vita: la carica, istituita per lui nel 1502, avrebbe dovuto dare continuità alla Repubblica.",
+     "Due battaglie incompiute: la Battaglia di Anghiari di Leonardo e la Battaglia di Cascina di Michelangelo non furono mai completate, ma i loro progetti influenzarono molto gli artisti successivi.",
+     "Machiavelli: lavorò nella Cancelleria della Repubblica durante il suo governo; la caduta di Soderini nel 1512 segnò anche la fine della carriera politica di Machiavelli.",
+     "Il papa Medici: a chiamarlo a Roma fu Leone X, cioè Giovanni de' Medici, figlio di Lorenzo il Magnifico, eletto papa nel 1513."
+    ],
+    "en": [
+     "Gonfalonier for life: the office, created for him in 1502, was meant to give the Republic continuity.",
+     "Two unfinished battles: Leonardo's Battle of Anghiari and Michelangelo's Battle of Cascina were never completed, but their designs strongly influenced later artists.",
+     "Machiavelli: he worked in the Chancery of the Republic during Soderini's government; Soderini's fall in 1512 also marked the end of Machiavelli's political career.",
+     "The Medici pope: it was Leo X, that is Giovanni de' Medici, son of Lorenzo the Magnificent, elected pope in 1513, who called him to Rome."
+    ],
+    "fr": [
+     "Gonfalonier à vie : la charge, créée pour lui en 1502, devait donner de la continuité à la République.",
+     "Deux batailles inachevées : la Bataille d'Anghiari de Léonard et la Bataille de Cascina de Michel-Ange ne furent jamais terminées, mais leurs projets influencèrent fortement les artistes suivants.",
+     "Machiavel : il travailla à la Chancellerie de la République pendant son gouvernement ; la chute de Soderini en 1512 marqua aussi la fin de la carrière politique de Machiavel.",
+     "Le pape Médicis : c'est Léon X, c'est-à-dire Jean de Médicis, fils de Laurent le Magnifique, élu pape en 1513, qui l'appela à Rome."
+    ],
+    "de": [
+     "Gonfaloniere auf Lebenszeit: Das 1502 für ihn geschaffene Amt sollte der Republik Kontinuität verleihen.",
+     "Zwei unvollendete Schlachten: Leonardos Schlacht von Anghiari und Michelangelos Schlacht von Cascina wurden nie vollendet, doch ihre Entwürfe beeinflussten spätere Künstler stark.",
+     "Machiavelli: Er arbeitete während Soderinis Regierung in der Kanzlei der Republik; Soderinis Sturz 1512 bedeutete auch das Ende von Machiavellis politischer Laufbahn.",
+     "Der Medici-Papst: Es war Leo X., also Giovanni de' Medici, Sohn Lorenzos des Prächtigen und 1513 zum Papst gewählt, der ihn nach Rom rief."
+    ],
+    "es": [
+     "Gonfaloniero vitalicio: el cargo, creado para él en 1502, debía dar continuidad a la República.",
+     "Dos batallas inconclusas: la Batalla de Anghiari de Leonardo y la Batalla de Cascina de Miguel Ángel nunca se terminaron, pero sus proyectos influyeron mucho en los artistas posteriores.",
+     "Maquiavelo: trabajó en la Cancillería de la República durante su gobierno; la caída de Soderini en 1512 marcó también el fin de la carrera política de Maquiavelo.",
+     "El papa Médici: quien lo llamó a Roma fue León X, es decir Giovanni de Médici, hijo de Lorenzo el Magnífico, elegido papa en 1513."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio",
+    "piazza-della-signoria"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "La sala del Maggior Consiglio",
+      "en": "The hall of the Great Council",
+      "fr": "La salle du Grand Conseil",
+      "de": "Der Saal des Großen Rates",
+      "es": "La sala del Gran Consejo"
+     },
+     "testo": {
+      "it": "Il Salone dei Cinquecento era allora la sala del Maggior Consiglio. Qui Soderini volle le due grandi battaglie di Leonardo e Michelangelo, rimaste incompiute.",
+      "en": "The Salone dei Cinquecento was then the hall of the Great Council. Here Soderini wanted the two great battles by Leonardo and Michelangelo, which remained unfinished.",
+      "fr": "Le Salone dei Cinquecento était alors la salle du Grand Conseil. C'est ici que Soderini voulut les deux grandes batailles de Léonard et de Michel-Ange, restées inachevées.",
+      "de": "Der Salone dei Cinquecento war damals der Saal des Großen Rates. Hier wollte Soderini die beiden großen Schlachten von Leonardo und Michelangelo, die unvollendet blieben.",
+      "es": "El Salone dei Cinquecento era entonces la sala del Gran Consejo. Aquí Soderini quiso las dos grandes batallas de Leonardo y Miguel Ángel, que quedaron inconclusas."
+     }
+    },
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Il centro politico della Repubblica",
+      "en": "The political centre of the Republic",
+      "fr": "Le centre politique de la République",
+      "de": "Das politische Zentrum der Republik",
+      "es": "El centro político de la República"
+     },
+     "testo": {
+      "it": "Nel 1504, mentre Soderini era gonfaloniere, il David di Michelangelo fu collocato davanti al palazzo della Signoria.",
+      "en": "In 1504, while Soderini was gonfalonier, Michelangelo's David was placed in front of the palace of the Signoria.",
+      "fr": "En 1504, alors que Soderini était gonfalonier, le David de Michel-Ange fut placé devant le palais de la Seigneurie.",
+      "de": "1504, als Soderini Gonfaloniere war, wurde Michelangelos David vor dem Palast der Signoria aufgestellt.",
+      "es": "En 1504, mientras Soderini era gonfaloniero, el David de Miguel Ángel fue colocado delante del palacio de la Signoria."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "niccolo-machiavelli",
+     "testo": {
+      "it": "Durante il suo gonfalonierato Machiavelli ricoprì incarichi importanti nella Cancelleria e svolse missioni diplomatiche, e fu tra i sostenitori della milizia cittadina. La caduta di Soderini nel 1512 segnò anche la fine della sua carriera politica.",
+      "en": "During Soderini's term Machiavelli held important posts in the Chancery and carried out diplomatic missions, and was among the backers of the citizen militia. Soderini's fall in 1512 also ended his political career.",
+      "fr": "Pendant le gonfalonierat de Soderini, Machiavel occupa d'importantes fonctions à la Chancellerie, mena des missions diplomatiques et fut l'un des partisans de la milice citoyenne. La chute de Soderini en 1512 mit aussi fin à sa carrière politique.",
+      "de": "Während Soderinis Amtszeit hatte Machiavelli wichtige Posten in der Kanzlei inne, führte diplomatische Missionen durch und gehörte zu den Befürwortern der Bürgermiliz. Soderinis Sturz 1512 beendete auch seine politische Laufbahn.",
+      "es": "Durante el gonfalonierato de Soderini, Maquiavelo ocupó cargos importantes en la Cancillería, realizó misiones diplomáticas y fue uno de los defensores de la milicia ciudadana. La caída de Soderini en 1512 puso fin también a su carrera política."
+     }
+    },
+    {
+     "id": "leonardo-da-vinci",
+     "testo": {
+      "it": "Nel 1503 Soderini gli affidò la Battaglia di Anghiari per la sala del Maggior Consiglio di Palazzo Vecchio. L'opera non fu completata, ma il progetto influenzò la pittura successiva.",
+      "en": "In 1503 Soderini entrusted him with the Battle of Anghiari for the hall of the Great Council in Palazzo Vecchio. The work was not completed, but the design influenced later painting.",
+      "fr": "En 1503, Soderini lui confia la Bataille d'Anghiari pour la salle du Grand Conseil du Palazzo Vecchio. L'œuvre ne fut pas achevée, mais le projet influença la peinture ultérieure.",
+      "de": "1503 vertraute Soderini ihm die Schlacht von Anghiari für den Saal des Großen Rates im Palazzo Vecchio an. Das Werk wurde nicht vollendet, doch der Entwurf beeinflusste die spätere Malerei.",
+      "es": "En 1503 Soderini le encargó la Batalla de Anghiari para la sala del Gran Consejo del Palazzo Vecchio. La obra no se terminó, pero el proyecto influyó en la pintura posterior."
+     }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Nel 1504 Soderini gli affidò la Battaglia di Cascina per la stessa sala, di fronte alla Battaglia di Anghiari di Leonardo. Il confronto tra i due è uno degli episodi più celebri della Firenze di inizio Cinquecento.",
+      "en": "In 1504 Soderini entrusted him with the Battle of Cascina for the same hall, facing Leonardo's Battle of Anghiari. The confrontation between the two is one of the most famous episodes of early 16th-century Florence.",
+      "fr": "En 1504, Soderini lui confia la Bataille de Cascina pour la même salle, face à la Bataille d'Anghiari de Léonard. La confrontation entre les deux est l'un des épisodes les plus célèbres de la Florence du début du XVIe siècle.",
+      "de": "1504 vertraute Soderini ihm die Schlacht von Cascina für denselben Saal an, gegenüber Leonardos Schlacht von Anghiari. Der Wettstreit der beiden ist eine der berühmtesten Episoden des Florenz vom Anfang des 16. Jahrhunderts.",
+      "es": "En 1504 Soderini le encargó la Batalla de Cascina para la misma sala, frente a la Batalla de Anghiari de Leonardo. La confrontación entre ambos es uno de los episodios más célebres de la Florencia de comienzos del siglo XVI."
+     }
+    },
+    {
+     "id": "amerigo-vespucci",
+     "testo": {
+      "it": "Era suo amico. A lui è indirizzata la Lettera al Soderini sulle esplorazioni oceaniche; l'autenticità del testo è discussa, ma mostra come le notizie sulle nuove terre circolassero negli ambienti fiorentini.",
+      "en": "He was his friend. The Letter to Soderini on the ocean explorations is addressed to him; the authenticity of the text is debated, but it shows how news of the new lands circulated in Florentine circles.",
+      "fr": "Il était son ami. La Lettre à Soderini sur les explorations océaniques lui est adressée ; l'authenticité du texte est discutée, mais elle montre comment les nouvelles des terres nouvelles circulaient dans les milieux florentins.",
+      "de": "Er war sein Freund. An ihn ist der Brief an Soderini über die Ozeanerkundungen gerichtet; die Echtheit des Textes ist umstritten, doch er zeigt, wie Nachrichten über die neuen Länder in Florentiner Kreisen zirkulierten.",
+      "es": "Era su amigo. A él va dirigida la Carta a Soderini sobre las exploraciones oceánicas; la autenticidad del texto es discutida, pero muestra cómo circulaban en los ambientes florentinos las noticias sobre las nuevas tierras."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Ridolfo del Ghirlandaio, ritratto di Piero Soderini",
     "licenza": "Pubblico dominio"
    }
   }
