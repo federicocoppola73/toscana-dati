@@ -2399,6 +2399,16 @@
       "de": "Alberti widmete ihm Della pittura (1436) und lobte im einleitenden Brief seinen Genius. Die Beziehung ist intellektuell und künstlerisch, keine dauerhafte Zusammenarbeit.",
       "es": "Alberti le dedicó Della pittura (1436) y elogió su genio en la carta introductoria. La relación es intelectual y artística, no una colaboración continuada."
      }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Vasari ne raccontò la vita e l'opera nelle Vite, dando grande rilievo alla cupola del Duomo.",
+      "en": "Vasari told of his life and work in the Lives, giving great prominence to the Duomo's dome.",
+      "fr": "Vasari raconta sa vie et son œuvre dans les Vite, donnant un grand relief à la coupole du Duomo.",
+      "de": "Vasari erzählte in den Vite von seinem Leben und Werk und gab der Domkuppel großes Gewicht.",
+      "es": "Vasari narró su vida y su obra en las Vite, dando gran relieve a la cúpula del Duomo."
+     }
     }
    ],
    "ritratto": {
@@ -3168,6 +3178,16 @@
       "de": "Beide waren am Hof Cesare Borgias und waren 1503-1504 am Plan beteiligt, den Arno umzuleiten, um Pisa zu isolieren: Leonardo als technischer Experte, Machiavelli unter den Verantwortlichen der Republik. Eine persönliche Zusammenarbeit ist nicht belegt.",
       "es": "Ambos estuvieron en la corte de César Borgia y en 1503-1504 participaron en el proyecto de desviar el Arno para aislar Pisa: Leonardo como experto técnico, Maquiavelo entre los responsables de la República. No está documentada una colaboración personal."
      }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Vasari gli dedicò una biografia nelle Vite, già dall'edizione del 1550, contribuendo alla sua fama presso i posteri.",
+      "en": "Vasari devoted a biography to him in the Lives, already from the 1550 edition, helping to build his fame among posterity.",
+      "fr": "Vasari lui consacra une biographie dans les Vite, dès l'édition de 1550, contribuant à sa renommée auprès de la postérité.",
+      "de": "Vasari widmete ihm in den Vite bereits ab der Ausgabe von 1550 eine Biografie und trug so zu seinem Nachruhm bei.",
+      "es": "Vasari le dedicó una biografía en las Vite, ya desde la edición de 1550, contribuyendo a su fama ante la posteridad."
+     }
     }
    ],
    "ritratto": {
@@ -3385,6 +3405,16 @@
       "fr": "Le duc Cosme Ier tenta plus d'une fois de le ramener à Florence, mais Michel-Ange déclina toute invitation à rentrer. Après sa mort, en 1564, Cosme consentit à ce que les obsèques se tiennent à San Lorenzo.",
       "de": "Herzog Cosimo I. versuchte mehrfach, ihn nach Florenz zurückzuholen, doch Michelangelo lehnte jede Einladung zur Rückkehr ab. Nach seinem Tod 1564 stimmte Cosimo zu, dass die Trauerfeier in San Lorenzo stattfand.",
       "es": "El duque Cosme I intentó más de una vez llevarlo de vuelta a Florencia, pero Miguel Ángel rechazó toda invitación a regresar. Tras su muerte, en 1564, Cosme consintió que las exequias se celebraran en San Lorenzo."
+     }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Vasari lo considerò il vertice dell'arte italiana e gli dedicò una biografia particolarmente ampia; dopo la sua morte ebbe un ruolo di primo piano nelle esequie del 1564 e progettò il monumento in Santa Croce.",
+      "en": "Vasari considered him the summit of Italian art and devoted a particularly long biography to him; after his death he played a leading role in the funeral of 1564 and designed the monument in Santa Croce.",
+      "fr": "Vasari le considéra comme le sommet de l'art italien et lui consacra une biographie particulièrement longue ; après sa mort, il joua un rôle de premier plan dans les obsèques de 1564 et conçut le monument à Santa Croce.",
+      "de": "Vasari sah in ihm den Höhepunkt der italienischen Kunst und widmete ihm eine besonders ausführliche Biografie; nach seinem Tod spielte er bei der Trauerfeier von 1564 eine führende Rolle und entwarf das Grabmal in Santa Croce.",
+      "es": "Vasari lo consideró la cumbre del arte italiano y le dedicó una biografía especialmente extensa; tras su muerte tuvo un papel destacado en las exequias de 1564 y proyectó el monumento en Santa Croce."
      }
     }
    ],
@@ -4088,6 +4118,16 @@
       "de": "Er war sein Nachfolger. Nach der Ermordung Alessandros 1537 wurde Cosimo zum neuen Herzog von Florenz gewählt. Die Nachfolge markierte den Beginn einer neuen politischen Phase, in der sich die Macht der Medici weiter festigte.",
       "es": "Fue su sucesor. Tras el asesinato de Alejandro en 1537, Cosme fue elegido nuevo duque de Florencia. La sucesión marcó el comienzo de una nueva fase política, en la que el poder de los Médici se consolidó aún más."
      }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Vasari ne dipinse il ritratto nel 1534, commissionato da Ottaviano de' Medici, probabilmente su richiesta del duca stesso. Il pittore divenne poi soprattutto protagonista della corte di Cosimo I.",
+      "en": "Vasari painted his portrait in 1534, commissioned by Ottaviano de' Medici, probably at the duke's own request. The painter later became above all a protagonist of Cosimo I's court.",
+      "fr": "Vasari peignit son portrait en 1534, commandé par Ottaviano de Médicis, probablement à la demande du duc lui-même. Le peintre devint ensuite surtout un protagoniste de la cour de Cosme Ier.",
+      "de": "Vasari malte 1534 sein Porträt, in Auftrag gegeben von Ottaviano de' Medici, wahrscheinlich auf Wunsch des Herzogs selbst. Der Maler wurde später vor allem zu einer Hauptfigur am Hof Cosimos I.",
+      "es": "Vasari pintó su retrato en 1534, encargado por Ottaviano de Médici, probablemente a petición del propio duque. El pintor se convertiría después sobre todo en protagonista de la corte de Cosme I."
+     }
     }
    ],
    "ritratto": {
@@ -4303,10 +4343,392 @@
       "de": "Cosimo I. stammte aus dem Seitenzweig der Familie, der auf Lorenzo, den Bruder Cosimos des Älteren, zurückging, und nicht aus der direkten Linie des Begründers der Medici-Herrschaft.",
       "es": "Cosme I descendía de la rama colateral de la familia, originada en Lorenzo, hermano de Cosme el Viejo, y no de la línea directa del fundador del dominio de los Médici."
      }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Fu il suo principale artista e architetto di corte. Progettò gli Uffizi, il Corridoio Vasariano e importanti interventi a Palazzo Vecchio. Il rapporto tra i due fu anche politico e culturale.",
+      "en": "He was his main court artist and architect. He designed the Uffizi, the Vasari Corridor and important interventions in Palazzo Vecchio. Their relationship was also political and cultural.",
+      "fr": "Il fut son principal artiste et architecte de cour. Il conçut les Offices, le corridor de Vasari et d'importants aménagements au Palazzo Vecchio. Leur relation fut aussi politique et culturelle.",
+      "de": "Er war sein wichtigster Hofkünstler und Hofarchitekt. Er entwarf die Uffizien, den Vasari-Korridor und wichtige Eingriffe im Palazzo Vecchio. Ihr Verhältnis war auch politisch und kulturell.",
+      "es": "Fue su principal artista y arquitecto de corte. Proyectó los Uffizi, el Corredor Vasariano e importantes intervenciones en el Palazzo Vecchio. La relación entre ambos fue también política y cultural."
+     }
+    },
+    {
+     "id": "benvenuto-cellini",
+     "testo": {
+      "it": "Lo accolse a Firenze nel 1545 e gli commissionò il Perseo per la Loggia dei Lanzi; il rapporto fu segnato anche da tensioni, tra cui un'inchiesta aperta nel 1554 sul metallo destinato alla statua.",
+      "en": "He welcomed him to Florence in 1545 and commissioned the Perseus for the Loggia dei Lanzi; the relationship was also marked by tensions, including an inquiry opened in 1554 into the metal intended for the statue.",
+      "fr": "Il l'accueillit à Florence en 1545 et lui commanda le Persée pour la Loggia dei Lanzi ; la relation fut aussi marquée par des tensions, dont une enquête ouverte en 1554 sur le métal destiné à la statue.",
+      "de": "Er nahm ihn 1545 in Florenz auf und gab ihm den Perseus für die Loggia dei Lanzi in Auftrag; das Verhältnis war auch von Spannungen geprägt, darunter eine 1554 eingeleitete Untersuchung über das für die Statue bestimmte Metall.",
+      "es": "Lo acogió en Florencia en 1545 y le encargó el Perseo para la Loggia dei Lanzi; la relación estuvo marcada también por tensiones, entre ellas una investigación abierta en 1554 sobre el metal destinado a la estatua."
+     }
     }
    ],
    "ritratto": {
     "autore": "Agnolo Bronzino, Cosimo I de' Medici in armatura",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "giorgio-vasari",
+   "nome": "Giorgio Vasari",
+   "nascita": 1511,
+   "morte": 1574,
+   "professione": {
+    "it": "Pittore, architetto e storico dell'arte",
+    "en": "Painter, architect and art historian",
+    "fr": "Peintre, architecte et historien de l'art",
+    "de": "Maler, Architekt und Kunsthistoriker",
+    "es": "Pintor, arquitecto e historiador del arte"
+   },
+   "luogoNascita": {
+    "it": "Arezzo",
+    "en": "Arezzo",
+    "fr": "Arezzo",
+    "de": "Arezzo",
+    "es": "Arezzo"
+   },
+   "dataNascita": {
+    "it": "30 luglio 1511",
+    "en": "30 July 1511",
+    "fr": "30 juillet 1511",
+    "de": "30. Juli 1511",
+    "es": "30 de julio de 1511"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "27 giugno 1574",
+    "en": "27 June 1574",
+    "fr": "27 juin 1574",
+    "de": "27. Juni 1574",
+    "es": "27 de junio de 1574"
+   },
+   "biografia": {
+    "it": "Giorgio Vasari fu pittore, architetto, storico dell'arte e organizzatore culturale. È ricordato soprattutto per le Vite de' più eccellenti pittori, scultori e architettori, un'opera fondamentale per la conoscenza degli artisti italiani dal Medioevo al Rinascimento.\n\nLa prima edizione delle Vite fu pubblicata nel 1550; la seconda, ampliata e corredata dei ritratti degli artisti, uscì nel 1568. Attraverso biografie, aneddoti e giudizi artistici, Vasari costruì una narrazione dello sviluppo dell'arte italiana, individuando in Michelangelo il vertice della tradizione rinascimentale.\n\nA Firenze lavorò al servizio di Cosimo I de' Medici, diventando il principale artefice della trasformazione architettonica e decorativa della città granducale. Progettò gli Uffizi, il Corridoio Vasariano e importanti interventi a Palazzo Vecchio, dove diresse anche la decorazione dello Studiolo di Francesco I (1570-1572), su programma di Vincenzo Borghini. Tra il 1565 e il 1566, per volere di Cosimo, rinnovò gli interni di Santa Maria Novella e di Santa Croce.\n\nNel 1563 contribuì alla fondazione dell'Accademia delle Arti del Disegno, istituzione che riconobbe agli artisti un ruolo culturale e intellettuale più elevato rispetto alla tradizionale condizione artigianale.",
+    "en": "Giorgio Vasari was a painter, architect, art historian and cultural organiser. He is remembered above all for the Lives of the Most Excellent Painters, Sculptors and Architects, a fundamental work for our knowledge of Italian artists from the Middle Ages to the Renaissance.\n\nThe first edition of the Lives appeared in 1550; the second, enlarged and furnished with portraits of the artists, came out in 1568. Through biographies, anecdotes and artistic judgements, Vasari built a narrative of the development of Italian art, identifying Michelangelo as the summit of the Renaissance tradition.\n\nIn Florence he worked in the service of Cosimo I de' Medici, becoming the chief architect of the architectural and decorative transformation of the grand-ducal city. He designed the Uffizi, the Vasari Corridor and important interventions in Palazzo Vecchio, where he also directed the decoration of the Studiolo of Francesco I (1570-1572), following a programme devised by Vincenzo Borghini. Between 1565 and 1566, at Cosimo's wish, he renovated the interiors of Santa Maria Novella and Santa Croce.\n\nIn 1563 he helped found the Accademia delle Arti del Disegno, an institution that recognised for artists a higher cultural and intellectual standing than the traditional condition of craftsmen.",
+    "fr": "Giorgio Vasari fut peintre, architecte, historien de l'art et organisateur culturel. Il est surtout connu pour les Vite (Vies des plus excellents peintres, sculpteurs et architectes), œuvre fondamentale pour la connaissance des artistes italiens du Moyen Âge à la Renaissance.\n\nLa première édition des Vite parut en 1550 ; la seconde, augmentée et accompagnée des portraits des artistes, sortit en 1568. À travers biographies, anecdotes et jugements artistiques, Vasari construisit un récit du développement de l'art italien, voyant en Michel-Ange le sommet de la tradition de la Renaissance.\n\nÀ Florence, il travailla au service de Cosme Ier de Médicis, devenant le principal artisan de la transformation architecturale et décorative de la ville grand-ducale. Il conçut les Offices, le corridor de Vasari et d'importants aménagements au Palazzo Vecchio, où il dirigea aussi la décoration du Studiolo de François Ier (1570-1572), sur un programme de Vincenzo Borghini. Entre 1565 et 1566, sur la volonté de Cosme, il rénova l'intérieur de Santa Maria Novella et de Santa Croce.\n\nEn 1563, il contribua à la fondation de l'Accademia delle Arti del Disegno, institution qui reconnut aux artistes un rôle culturel et intellectuel plus élevé que la condition artisanale traditionnelle.",
+    "de": "Giorgio Vasari war Maler, Architekt, Kunsthistoriker und Kulturorganisator. Er ist vor allem durch die Vite (Lebensbeschreibungen der berühmtesten Maler, Bildhauer und Architekten) in Erinnerung geblieben, ein grundlegendes Werk für die Kenntnis der italienischen Künstler vom Mittelalter bis zur Renaissance.\n\nDie erste Ausgabe der Vite erschien 1550; die zweite, erweiterte und mit Porträts der Künstler versehene Ausgabe kam 1568 heraus. Durch Biografien, Anekdoten und künstlerische Urteile schuf Vasari eine Erzählung der Entwicklung der italienischen Kunst und sah in Michelangelo den Höhepunkt der Renaissancetradition.\n\nIn Florenz arbeitete er im Dienst von Cosimo I. de' Medici und wurde zum wichtigsten Urheber der architektonischen und dekorativen Umgestaltung der großherzoglichen Stadt. Er entwarf die Uffizien, den Vasari-Korridor und wichtige Eingriffe im Palazzo Vecchio, wo er auch die Ausstattung des Studiolo Francescos I. (1570-1572) nach einem Programm von Vincenzo Borghini leitete. Zwischen 1565 und 1566 erneuerte er auf Wunsch Cosimos das Innere von Santa Maria Novella und Santa Croce.\n\n1563 trug er zur Gründung der Accademia delle Arti del Disegno bei, einer Institution, die den Künstlern eine höhere kulturelle und intellektuelle Stellung als die traditionelle handwerkliche Stellung zuerkannte.",
+    "es": "Giorgio Vasari fue pintor, arquitecto, historiador del arte y organizador cultural. Se le recuerda sobre todo por las Vite (Vidas de los más excelentes pintores, escultores y arquitectos), obra fundamental para el conocimiento de los artistas italianos desde la Edad Media hasta el Renacimiento.\n\nLa primera edición de las Vite se publicó en 1550; la segunda, ampliada y con retratos de los artistas, salió en 1568. A través de biografías, anécdotas y juicios artísticos, Vasari construyó un relato del desarrollo del arte italiano, viendo en Miguel Ángel la cumbre de la tradición renacentista.\n\nEn Florencia trabajó al servicio de Cosme I de Médici, convirtiéndose en el principal artífice de la transformación arquitectónica y decorativa de la ciudad granducal. Proyectó los Uffizi, el Corredor Vasariano e importantes intervenciones en el Palazzo Vecchio, donde dirigió también la decoración del Studiolo de Francisco I (1570-1572), según un programa de Vincenzo Borghini. Entre 1565 y 1566, por voluntad de Cosme, renovó el interior de Santa Maria Novella y de Santa Croce.\n\nEn 1563 contribuyó a la fundación de la Accademia delle Arti del Disegno, institución que reconoció a los artistas un papel cultural e intelectual más elevado que la tradicional condición artesanal."
+   },
+   "curiosita": {
+    "it": [
+     "Una fonte da leggere con spirito critico: le sue Vite sono una delle principali fonti biografiche per la conoscenza degli artisti del Rinascimento, ma contengono anche aneddoti e giudizi che devono essere valutati criticamente.",
+     "Il Corridoio Vasariano: fu realizzato nel 1565 per collegare Palazzo Vecchio a Palazzo Pitti, consentendo alla famiglia granducale di spostarsi senza attraversare le strade pubbliche.",
+     "Gli Uffizi: la costruzione iniziò nel 1560 per ospitare gli uffici amministrativi dello Stato mediceo.",
+     "Per Michelangelo: ebbe un ruolo di primo piano nelle esequie del 1564 e progettò il suo monumento sepolcrale in Santa Croce, completato nel 1576."
+    ],
+    "en": [
+     "A source to read critically: his Lives are one of the main biographical sources for knowledge of Renaissance artists, but they also contain anecdotes and judgements that must be assessed critically.",
+     "The Vasari Corridor: it was built in 1565 to link Palazzo Vecchio with Palazzo Pitti, allowing the grand-ducal family to move around without crossing the public streets.",
+     "The Uffizi: construction began in 1560 to house the administrative offices of the Medici state.",
+     "For Michelangelo: he played a leading role in the funeral of 1564 and designed his tomb monument in Santa Croce, completed in 1576."
+    ],
+    "fr": [
+     "Une source à lire avec esprit critique : ses Vite sont l'une des principales sources biographiques pour la connaissance des artistes de la Renaissance, mais elles contiennent aussi des anecdotes et des jugements qui doivent être évalués avec recul.",
+     "Le corridor de Vasari : il fut réalisé en 1565 pour relier le Palazzo Vecchio au Palazzo Pitti, permettant à la famille grand-ducale de se déplacer sans traverser les rues publiques.",
+     "Les Offices : la construction commença en 1560 pour abriter les bureaux administratifs de l'État médicéen.",
+     "Pour Michel-Ange : il joua un rôle de premier plan dans les obsèques de 1564 et conçut son monument funéraire à Santa Croce, achevé en 1576."
+    ],
+    "de": [
+     "Eine Quelle, die kritisch gelesen werden sollte: Seine Vite sind eine der wichtigsten biografischen Quellen für die Kenntnis der Renaissancekünstler, enthalten aber auch Anekdoten und Urteile, die kritisch bewertet werden müssen.",
+     "Der Vasari-Korridor: Er wurde 1565 errichtet, um den Palazzo Vecchio mit dem Palazzo Pitti zu verbinden, sodass sich die großherzogliche Familie bewegen konnte, ohne die öffentlichen Straßen zu betreten.",
+     "Die Uffizien: Der Bau begann 1560, um die Verwaltungsbüros des Medici-Staates unterzubringen.",
+     "Für Michelangelo: Er spielte bei der Trauerfeier von 1564 eine führende Rolle und entwarf sein Grabmal in Santa Croce, das 1576 vollendet wurde."
+    ],
+    "es": [
+     "Una fuente que hay que leer con espíritu crítico: sus Vite son una de las principales fuentes biográficas para el conocimiento de los artistas del Renacimiento, pero contienen también anécdotas y juicios que deben valorarse críticamente.",
+     "El Corredor Vasariano: se construyó en 1565 para unir el Palazzo Vecchio con el Palazzo Pitti, permitiendo a la familia granducal desplazarse sin atravesar las calles públicas.",
+     "Los Uffizi: la construcción comenzó en 1560 para albergar las oficinas administrativas del Estado mediceo.",
+     "Para Miguel Ángel: tuvo un papel destacado en las exequias de 1564 y proyectó su monumento sepulcral en Santa Croce, terminado en 1576."
+    ]
+   },
+   "luoghi": [
+    "palazzo-vecchio",
+    "basilica-di-santa-maria-novella",
+    "basilica-di-santa-croce",
+    "ponte-vecchio"
+   ],
+   "luoghiNote": {
+    "palazzo-vecchio": {
+     "tipo": {
+      "it": "La decorazione",
+      "en": "The decoration",
+      "fr": "La décoration",
+      "de": "Die Ausstattung",
+      "es": "La decoración"
+     },
+     "testo": {
+      "it": "Qui diresse la trasformazione del palazzo in residenza ducale, dal Salone dei Cinquecento allo Studiolo di Francesco I (1570-1572).",
+      "en": "Here he directed the transformation of the palace into a ducal residence, from the Salone dei Cinquecento to the Studiolo of Francesco I (1570-1572).",
+      "fr": "Il y dirigea la transformation du palais en résidence ducale, du Salone dei Cinquecento au Studiolo de François Ier (1570-1572).",
+      "de": "Hier leitete er die Umwandlung des Palastes in eine herzogliche Residenz, vom Salone dei Cinquecento bis zum Studiolo Francescos I. (1570-1572).",
+      "es": "Aquí dirigió la transformación del palacio en residencia ducal, desde el Salone dei Cinquecento hasta el Studiolo de Francisco I (1570-1572)."
+     }
+    },
+    "basilica-di-santa-maria-novella": {
+     "tipo": {
+      "it": "Il rinnovamento",
+      "en": "The renovation",
+      "fr": "Le renouvellement",
+      "de": "Die Erneuerung",
+      "es": "La renovación"
+     },
+     "testo": {
+      "it": "Nel 1565-1566, per volere di Cosimo I, vi rimosse il tramezzo e il coro e sostituì gli altari delle navate con nuovi altari, con pale dipinte da lui e dalla sua scuola.",
+      "en": "In 1565-1566, at Cosimo I's wish, he removed the rood screen and choir here and replaced the nave altars with new ones, with altarpieces painted by him and his school.",
+      "fr": "En 1565-1566, sur la volonté de Cosme Ier, il y supprima le jubé et le chœur et remplaça les autels des nefs par de nouveaux autels, aux retables peints par lui et son école.",
+      "de": "1565-1566 entfernte er hier auf Wunsch Cosimos I. den Lettner und den Chor und ersetzte die Altäre der Seitenschiffe durch neue, mit Altarbildern von ihm und seiner Schule.",
+      "es": "En 1565-1566, por voluntad de Cosme I, retiró aquí el tramezzo y el coro y sustituyó los altares de las naves por otros nuevos, con retablos pintados por él y su escuela."
+     }
+    },
+    "basilica-di-santa-croce": {
+     "tipo": {
+      "it": "Il rinnovamento e la tomba",
+      "en": "The renovation and the tomb",
+      "fr": "Le renouvellement et le tombeau",
+      "de": "Die Erneuerung und das Grabmal",
+      "es": "La renovación y la tumba"
+     },
+     "testo": {
+      "it": "Negli stessi anni rinnovò l'interno della basilica; qui si trova anche il monumento sepolcrale di Michelangelo, da lui disegnato e completato nel 1576.",
+      "en": "In the same years he renovated the basilica's interior; here too stands Michelangelo's tomb monument, which he designed and which was completed in 1576.",
+      "fr": "Dans les mêmes années, il rénova l'intérieur de la basilique ; s'y trouve aussi le monument funéraire de Michel-Ange, dessiné par lui et achevé en 1576.",
+      "de": "In denselben Jahren erneuerte er das Innere der Basilika; hier steht auch das von ihm entworfene Grabmal Michelangelos, das 1576 vollendet wurde.",
+      "es": "En los mismos años renovó el interior de la basílica; aquí se encuentra también el monumento sepulcral de Miguel Ángel, diseñado por él y terminado en 1576."
+     }
+    },
+    "ponte-vecchio": {
+     "tipo": {
+      "it": "Il Corridoio",
+      "en": "The Corridor",
+      "fr": "Le corridor",
+      "de": "Der Korridor",
+      "es": "El Corredor"
+     },
+     "testo": {
+      "it": "Nel 1565 vi costruì sopra il Corridoio Vasariano, che collega Palazzo Vecchio e gli Uffizi a Palazzo Pitti.",
+      "en": "In 1565 he built the Vasari Corridor over it, linking Palazzo Vecchio and the Uffizi with Palazzo Pitti.",
+      "fr": "En 1565, il y construisit au-dessus le corridor de Vasari, qui relie le Palazzo Vecchio et les Offices au Palazzo Pitti.",
+      "de": "1565 baute er darüber den Vasari-Korridor, der den Palazzo Vecchio und die Uffizien mit dem Palazzo Pitti verbindet.",
+      "es": "En 1565 construyó sobre él el Corredor Vasariano, que une el Palazzo Vecchio y los Uffizi con el Palazzo Pitti."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Fu il suo principale committente e protettore. Il granduca gli affidò grandi progetti architettonici e decorativi che trasformarono il volto di Firenze.",
+      "en": "He was his main patron and protector. The grand duke entrusted him with major architectural and decorative projects that transformed the face of Florence.",
+      "fr": "Il fut son principal commanditaire et protecteur. Le grand-duc lui confia de grands projets architecturaux et décoratifs qui transformèrent le visage de Florence.",
+      "de": "Er war sein wichtigster Auftraggeber und Förderer. Der Großherzog vertraute ihm große architektonische und dekorative Projekte an, die das Gesicht von Florenz veränderten.",
+      "es": "Fue su principal comitente y protector. El gran duque le encargó grandes proyectos arquitectónicos y decorativos que transformaron el rostro de Florencia."
+     }
+    },
+    {
+     "id": "michelangelo-buonarroti",
+     "testo": {
+      "it": "Vasari lo considerò il vertice della storia artistica italiana e gli dedicò una biografia particolarmente ampia. I due ebbero anche un rapporto personale; dopo la morte di Michelangelo, Vasari ebbe un ruolo di primo piano nelle esequie e nel monumento.",
+      "en": "Vasari considered him the summit of Italian art history and devoted a particularly long biography to him. The two also had a personal relationship; after Michelangelo's death Vasari played a leading role in the funeral and the monument.",
+      "fr": "Vasari le considéra comme le sommet de l'histoire artistique italienne et lui consacra une biographie particulièrement longue. Les deux hommes eurent aussi une relation personnelle ; après la mort de Michel-Ange, Vasari joua un rôle de premier plan dans les obsèques et le monument.",
+      "de": "Vasari sah in ihm den Höhepunkt der italienischen Kunstgeschichte und widmete ihm eine besonders ausführliche Biografie. Die beiden hatten auch ein persönliches Verhältnis; nach Michelangelos Tod spielte Vasari bei der Trauerfeier und beim Grabmal eine führende Rolle.",
+      "es": "Vasari lo consideró la cumbre de la historia artística italiana y le dedicó una biografía especialmente extensa. Ambos tuvieron también una relación personal; tras la muerte de Miguel Ángel, Vasari tuvo un papel destacado en las exequias y en el monumento."
+     }
+    },
+    {
+     "id": "benvenuto-cellini",
+     "testo": {
+      "it": "Furono contemporanei e operarono nell'ambiente mediceo, con un rapporto segnato da rivalità. Vasari lo cita nelle Vite lodandone le opere e tratteggiandone il carattere.",
+      "en": "They were contemporaries and worked in the Medici milieu, with a relationship marked by rivalry. Vasari mentions him in the Lives, praising his works and sketching his character.",
+      "fr": "Ils furent contemporains et travaillèrent dans le milieu médicéen, avec une relation marquée par la rivalité. Vasari le cite dans les Vite, louant ses œuvres et esquissant son caractère.",
+      "de": "Sie waren Zeitgenossen und wirkten im Umfeld der Medici, in einem von Rivalität geprägten Verhältnis. Vasari nennt ihn in den Vite, lobt seine Werke und skizziert seinen Charakter.",
+      "es": "Fueron contemporáneos y actuaron en el ambiente mediceo, con una relación marcada por la rivalidad. Vasari lo cita en las Vite, elogiando sus obras y esbozando su carácter."
+     }
+    },
+    {
+     "id": "alessandro-de-medici",
+     "testo": {
+      "it": "Dipinse il ritratto del duca nel 1534, commissionato da Ottaviano de' Medici, probabilmente su richiesta dello stesso Alessandro.",
+      "en": "He painted the duke's portrait in 1534, commissioned by Ottaviano de' Medici, probably at Alessandro's own request.",
+      "fr": "Il peignit le portrait du duc en 1534, commandé par Ottaviano de Médicis, probablement à la demande d'Alexandre lui-même.",
+      "de": "Er malte 1534 das Porträt des Herzogs, in Auftrag gegeben von Ottaviano de' Medici, wahrscheinlich auf Wunsch Alessandros selbst.",
+      "es": "Pintó el retrato del duque en 1534, encargado por Ottaviano de Médici, probablemente a petición del propio Alejandro."
+     }
+    },
+    {
+     "id": "filippo-brunelleschi",
+     "testo": {
+      "it": "Nelle Vite Vasari raccontò la sua opera e la rivoluzione architettonica della cupola del Duomo, riconoscendogli un ruolo fondamentale nella rinascita delle arti.",
+      "en": "In the Lives Vasari told of his work and of the architectural revolution of the Duomo's dome, recognising his fundamental role in the rebirth of the arts.",
+      "fr": "Dans les Vite, Vasari raconta son œuvre et la révolution architecturale de la coupole du Duomo, lui reconnaissant un rôle fondamental dans la renaissance des arts.",
+      "de": "In den Vite erzählte Vasari von seinem Werk und der architektonischen Revolution der Domkuppel und erkannte ihm eine grundlegende Rolle bei der Wiedergeburt der Künste zu.",
+      "es": "En las Vite, Vasari narró su obra y la revolución arquitectónica de la cúpula del Duomo, reconociéndole un papel fundamental en el renacimiento de las artes."
+     }
+    },
+    {
+     "id": "leonardo-da-vinci",
+     "testo": {
+      "it": "Vasari gli dedicò una biografia già nell'edizione del 1550, contribuendo alla diffusione della sua fama presso le generazioni successive.",
+      "en": "Vasari devoted a biography to him already in the 1550 edition, helping to spread his fame among later generations.",
+      "fr": "Vasari lui consacra une biographie dès l'édition de 1550, contribuant à la diffusion de sa renommée auprès des générations suivantes.",
+      "de": "Vasari widmete ihm bereits in der Ausgabe von 1550 eine Biografie und trug so zur Verbreitung seines Ruhms bei den nachfolgenden Generationen bei.",
+      "es": "Vasari le dedicó una biografía ya en la edición de 1550, contribuyendo a la difusión de su fama entre las generaciones posteriores."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Jacopo Zucchi, ritratto di Giorgio Vasari",
+    "licenza": "Pubblico dominio"
+   }
+  },
+  {
+   "id": "benvenuto-cellini",
+   "nome": "Benvenuto Cellini",
+   "nascita": 1500,
+   "morte": 1571,
+   "professione": {
+    "it": "Scultore, orafo e scrittore",
+    "en": "Sculptor, goldsmith and writer",
+    "fr": "Sculpteur, orfèvre et écrivain",
+    "de": "Bildhauer, Goldschmied und Schriftsteller",
+    "es": "Escultor, orfebre y escritor"
+   },
+   "luogoNascita": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataNascita": {
+    "it": "3 novembre 1500",
+    "en": "3 November 1500",
+    "fr": "3 novembre 1500",
+    "de": "3. November 1500",
+    "es": "3 de noviembre de 1500"
+   },
+   "luogoMorte": {
+    "it": "Firenze",
+    "en": "Florence",
+    "fr": "Florence",
+    "de": "Florenz",
+    "es": "Florencia"
+   },
+   "dataMorte": {
+    "it": "13 febbraio 1571",
+    "en": "13 February 1571",
+    "fr": "13 février 1571",
+    "de": "13. Februar 1571",
+    "es": "13 de febrero de 1571"
+   },
+   "biografia": {
+    "it": "Benvenuto Cellini fu uno scultore, orafo e scrittore fiorentino, celebre per il talento artistico e per una vita avventurosa, segnata da viaggi, conflitti e rapporti difficili con i potenti.\n\nSi formò a Firenze nelle botteghe degli orafi, ma lavorò a lungo anche a Roma, dove entrò al servizio di papa Clemente VII. Dal 1540 fu in Francia, a Fontainebleau, alla corte di Francesco I, per il quale realizzò alcune delle sue opere più raffinate.\n\nNel 1545 rientrò a Firenze, dove Cosimo I de' Medici lo accolse e gli affidò importanti commissioni. La sua opera più celebre in città è il Perseo con la testa di Medusa, una grande scultura in bronzo realizzata tra il 1545 e il 1554 per la Loggia dei Lanzi e svelata il 27 aprile 1554. L'opera è stata letta come una celebrazione simbolica della forza del potere mediceo e della vittoria sull'opposizione politica.\n\nCellini fu anche autore di un'importante autobiografia, nella quale raccontò in prima persona la propria vita, le avventure e gli incontri con i grandi protagonisti del suo tempo.",
+    "en": "Benvenuto Cellini was a Florentine sculptor, goldsmith and writer, famous for his artistic talent and for an adventurous life marked by travel, conflict and difficult relations with the powerful.\n\nHe trained in Florence in the goldsmiths' workshops, but also worked for a long time in Rome, where he entered the service of Pope Clement VII. From 1540 he was in France, at Fontainebleau, at the court of Francis I, for whom he made some of his most refined works.\n\nIn 1545 he returned to Florence, where Cosimo I de' Medici welcomed him and entrusted him with important commissions. His most famous work in the city is Perseus with the Head of Medusa, a large bronze sculpture made between 1545 and 1554 for the Loggia dei Lanzi and unveiled on 27 April 1554. The work has been read as a symbolic celebration of the strength of Medici power and of victory over political opposition.\n\nCellini was also the author of an important autobiography, in which he recounted in the first person his own life, his adventures and his encounters with the great figures of his time.",
+    "fr": "Benvenuto Cellini fut un sculpteur, orfèvre et écrivain florentin, célèbre pour son talent artistique et pour une vie aventureuse, marquée par les voyages, les conflits et des rapports difficiles avec les puissants.\n\nIl se forma à Florence dans les ateliers d'orfèvres, mais travailla longtemps aussi à Rome, où il entra au service du pape Clément VII. À partir de 1540, il fut en France, à Fontainebleau, à la cour de François Ier, pour qui il réalisa certaines de ses œuvres les plus raffinées.\n\nEn 1545, il rentra à Florence, où Cosme Ier de Médicis l'accueillit et lui confia d'importantes commandes. Son œuvre la plus célèbre dans la ville est le Persée avec la tête de Méduse, grande sculpture en bronze réalisée entre 1545 et 1554 pour la Loggia dei Lanzi et dévoilée le 27 avril 1554. L'œuvre a été lue comme une célébration symbolique de la force du pouvoir médicéen et de la victoire sur l'opposition politique.\n\nCellini fut aussi l'auteur d'une importante autobiographie, dans laquelle il raconta à la première personne sa vie, ses aventures et ses rencontres avec les grands personnages de son temps.",
+    "de": "Benvenuto Cellini war ein Florentiner Bildhauer, Goldschmied und Schriftsteller, berühmt für sein künstlerisches Talent und für ein abenteuerliches Leben, geprägt von Reisen, Konflikten und schwierigen Beziehungen zu den Mächtigen.\n\nEr wurde in Florenz in den Werkstätten der Goldschmiede ausgebildet, arbeitete aber lange auch in Rom, wo er in den Dienst von Papst Klemens VII. trat. Ab 1540 war er in Frankreich, in Fontainebleau, am Hof Franz' I., für den er einige seiner raffiniertesten Werke schuf.\n\n1545 kehrte er nach Florenz zurück, wo ihn Cosimo I. de' Medici aufnahm und ihm bedeutende Aufträge anvertraute. Sein berühmtestes Werk in der Stadt ist der Perseus mit dem Haupt der Medusa, eine große Bronzeskulptur, die zwischen 1545 und 1554 für die Loggia dei Lanzi entstand und am 27. April 1554 enthüllt wurde. Das Werk wurde als symbolische Feier der Stärke der Medici-Macht und des Siegs über die politische Opposition gelesen.\n\nCellini war auch Autor einer bedeutenden Autobiografie, in der er in der ersten Person sein Leben, seine Abenteuer und seine Begegnungen mit den großen Gestalten seiner Zeit erzählte.",
+    "es": "Benvenuto Cellini fue un escultor, orfebre y escritor florentino, célebre por su talento artístico y por una vida aventurera, marcada por viajes, conflictos y relaciones difíciles con los poderosos.\n\nSe formó en Florencia en los talleres de los orfebres, pero trabajó mucho tiempo también en Roma, donde entró al servicio del papa Clemente VII. Desde 1540 estuvo en Francia, en Fontainebleau, en la corte de Francisco I, para quien realizó algunas de sus obras más refinadas.\n\nEn 1545 regresó a Florencia, donde Cosme I de Médici lo acogió y le encargó importantes obras. Su obra más célebre en la ciudad es el Perseo con la cabeza de Medusa, gran escultura de bronce realizada entre 1545 y 1554 para la Loggia dei Lanzi y descubierta el 27 de abril de 1554. La obra se ha leído como una celebración simbólica de la fuerza del poder mediceo y de la victoria sobre la oposición política.\n\nCellini fue también autor de una importante autobiografía, en la que contó en primera persona su vida, sus aventuras y sus encuentros con los grandes protagonistas de su tiempo."
+   },
+   "curiosita": {
+    "it": [
+     "La Vita: la sua autobiografia, scritta tra il 1556 e il 1567, è una delle testimonianze più vivaci del Rinascimento italiano; nel raccontare la propria vita, Cellini si descrisse come un artista eccezionale e un uomo spesso coinvolto in duelli e controversie.",
+     "Il Sacco di Roma: raccontò di aver partecipato alla difesa di Castel Sant'Angelo durante il Sacco del 1527; alcuni particolari del suo racconto sono discussi dagli storici.",
+     "Il Perseo: si trova ancora oggi nella Loggia dei Lanzi, nel luogo per cui fu concepito. Secondo il racconto di Cellini, durante la fusione, per non perdere il bronzo che si stava rapprendendo, gettò nel forno le proprie stoviglie di peltro.",
+     "La Saliera: realizzata negli anni Quaranta del Cinquecento per Francesco I di Francia e oggi conservata al Kunsthistorisches Museum di Vienna, è uno dei massimi esempi della sua arte di orafo."
+    ],
+    "en": [
+     "The Life: his autobiography, written between 1556 and 1567, is one of the liveliest testimonies of the Italian Renaissance; in recounting his life, Cellini portrayed himself as an exceptional artist and a man often caught up in duels and quarrels.",
+     "The Sack of Rome: he claimed to have taken part in the defence of Castel Sant'Angelo during the Sack of 1527; some details of his account are disputed by historians.",
+     "The Perseus: it still stands today in the Loggia dei Lanzi, in the place for which it was conceived. According to Cellini's account, during the casting, to avoid losing the bronze that was beginning to set, he threw his own pewter dishes into the furnace.",
+     "The Saltcellar: made in the 1540s for Francis I of France and now in the Kunsthistorisches Museum in Vienna, it is one of the greatest examples of his art as a goldsmith."
+    ],
+    "fr": [
+     "La Vita : son autobiographie, écrite entre 1556 et 1567, est l'un des témoignages les plus vivants de la Renaissance italienne ; en racontant sa vie, Cellini se décrivit comme un artiste exceptionnel et un homme souvent mêlé à des duels et des querelles.",
+     "Le Sac de Rome : il raconta avoir participé à la défense du château Saint-Ange pendant le Sac de 1527 ; certains détails de son récit sont discutés par les historiens.",
+     "Le Persée : il se trouve encore aujourd'hui dans la Loggia dei Lanzi, à l'endroit pour lequel il fut conçu. Selon le récit de Cellini, pendant la fonte, pour ne pas perdre le bronze qui commençait à se figer, il jeta dans le four sa propre vaisselle d'étain.",
+     "La Salière : réalisée dans les années 1540 pour François Ier de France et aujourd'hui conservée au Kunsthistorisches Museum de Vienne, elle est l'un des plus grands exemples de son art d'orfèvre."
+    ],
+    "de": [
+     "Die Vita: Seine zwischen 1556 und 1567 verfasste Autobiografie gehört zu den lebendigsten Zeugnissen der italienischen Renaissance; beim Erzählen seines Lebens stellte sich Cellini als außergewöhnlichen Künstler und als einen oft in Duelle und Streitigkeiten verwickelten Mann dar.",
+     "Der Sacco di Roma: Er berichtete, an der Verteidigung der Engelsburg während der Plünderung von 1527 teilgenommen zu haben; einige Einzelheiten seines Berichts sind unter Historikern umstritten.",
+     "Der Perseus: Er steht noch heute in der Loggia dei Lanzi, an dem Ort, für den er geschaffen wurde. Nach Cellinis eigener Erzählung warf er beim Guss, um die erstarrende Bronze nicht zu verlieren, sein eigenes Zinngeschirr in den Ofen.",
+     "Das Salzfass: Es entstand in den 1540er-Jahren für Franz I. von Frankreich und befindet sich heute im Kunsthistorischen Museum in Wien; es ist eines der herausragendsten Beispiele seiner Goldschmiedekunst."
+    ],
+    "es": [
+     "La Vita: su autobiografía, escrita entre 1556 y 1567, es uno de los testimonios más vivos del Renacimiento italiano; al contar su vida, Cellini se describió como un artista excepcional y un hombre a menudo envuelto en duelos y disputas.",
+     "El Saqueo de Roma: contó que participó en la defensa del Castel Sant'Angelo durante el Saqueo de 1527; algunos detalles de su relato son discutidos por los historiadores.",
+     "El Perseo: sigue estando hoy en la Loggia dei Lanzi, en el lugar para el que fue concebido. Según el relato de Cellini, durante la fundición, para no perder el bronce que empezaba a solidificarse, arrojó al horno su propia vajilla de peltre.",
+     "El Salero: realizado en los años cuarenta del siglo XVI para Francisco I de Francia y conservado hoy en el Kunsthistorisches Museum de Viena, es uno de los mayores ejemplos de su arte de orfebre."
+    ]
+   },
+   "luoghi": [
+    "piazza-della-signoria",
+    "ponte-vecchio"
+   ],
+   "luoghiNote": {
+    "piazza-della-signoria": {
+     "tipo": {
+      "it": "Il Perseo",
+      "en": "The Perseus",
+      "fr": "Le Persée",
+      "de": "Der Perseus",
+      "es": "El Perseo"
+     },
+     "testo": {
+      "it": "Nella Loggia dei Lanzi, sul lato della piazza, si trova il suo Perseo, svelato il 27 aprile 1554.",
+      "en": "In the Loggia dei Lanzi, on the side of the square, stands his Perseus, unveiled on 27 April 1554.",
+      "fr": "Dans la Loggia dei Lanzi, sur le côté de la place, se trouve son Persée, dévoilé le 27 avril 1554.",
+      "de": "In der Loggia dei Lanzi, an der Seite des Platzes, steht sein Perseus, enthüllt am 27. April 1554.",
+      "es": "En la Loggia dei Lanzi, en un lado de la plaza, se encuentra su Perseo, descubierto el 27 de abril de 1554."
+     }
+    },
+    "ponte-vecchio": {
+     "tipo": {
+      "it": "Il monumento",
+      "en": "The monument",
+      "fr": "Le monument",
+      "de": "Das Denkmal",
+      "es": "El monumento"
+     },
+     "testo": {
+      "it": "Al centro del ponte sorge il suo monumento, un busto di Raffaello Romanelli inaugurato nel 1901 per il quarto centenario della nascita. Le botteghe degli orafi arrivarono però dopo di lui, con il decreto di Ferdinando I del 1593.",
+      "en": "At the centre of the bridge stands his monument, a bust by Raffaello Romanelli inaugurated in 1901 for the fourth centenary of his birth. The goldsmiths' shops, however, came after his time, with Ferdinando I's decree of 1593.",
+      "fr": "Au centre du pont se dresse son monument, un buste de Raffaello Romanelli inauguré en 1901 pour le quatrième centenaire de sa naissance. Les boutiques des orfèvres vinrent toutefois après lui, avec le décret de Ferdinand Ier de 1593.",
+      "de": "In der Mitte der Brücke steht sein Denkmal, eine Büste von Raffaello Romanelli, die 1901 zum vierhundertsten Geburtstag eingeweiht wurde. Die Goldschmiedeläden kamen jedoch erst nach seiner Zeit, mit dem Dekret Ferdinandos I. von 1593.",
+      "es": "En el centro del puente se alza su monumento, un busto de Raffaello Romanelli inaugurado en 1901 por el cuarto centenario de su nacimiento. Los talleres de los orfebres llegaron, sin embargo, después de él, con el decreto de Fernando I de 1593."
+     }
+    }
+   },
+   "collegati": [
+    {
+     "id": "cosimo-i-de-medici",
+     "testo": {
+      "it": "Fu il suo principale committente fiorentino. Gli affidò il Perseo, opera destinata a celebrare il potere della dinastia; il rapporto fu segnato anche da tensioni, tra cui un'inchiesta aperta nel 1554 sul metallo destinato alla statua.",
+      "en": "He was his main Florentine patron. He entrusted him with the Perseus, a work meant to celebrate the dynasty's power; the relationship was also marked by tensions, including an inquiry opened in 1554 into the metal intended for the statue.",
+      "fr": "Il fut son principal commanditaire florentin. Il lui confia le Persée, œuvre destinée à célébrer le pouvoir de la dynastie ; la relation fut aussi marquée par des tensions, dont une enquête ouverte en 1554 sur le métal destiné à la statue.",
+      "de": "Er war sein wichtigster Florentiner Auftraggeber. Er vertraute ihm den Perseus an, ein Werk zur Verherrlichung der Macht der Dynastie; das Verhältnis war auch von Spannungen geprägt, darunter eine 1554 eingeleitete Untersuchung über das für die Statue bestimmte Metall.",
+      "es": "Fue su principal comitente florentino. Le encargó el Perseo, obra destinada a celebrar el poder de la dinastía; la relación estuvo marcada también por tensiones, entre ellas una investigación abierta en 1554 sobre el metal destinado a la estatua."
+     }
+    },
+    {
+     "id": "giorgio-vasari",
+     "testo": {
+      "it": "Furono contemporanei e operarono nell'ambiente mediceo, con un rapporto segnato da rivalità. Vasari lo citò nelle Vite, offrendo una testimonianza importante, seppure non priva di giudizi personali.",
+      "en": "They were contemporaries and worked in the Medici milieu, with a relationship marked by rivalry. Vasari mentioned him in the Lives, offering an important testimony, though not free of personal judgements.",
+      "fr": "Ils furent contemporains et travaillèrent dans le milieu médicéen, avec une relation marquée par la rivalité. Vasari le cita dans les Vite, offrant un témoignage important, quoique non dénué de jugements personnels.",
+      "de": "Sie waren Zeitgenossen und wirkten im Umfeld der Medici, in einem von Rivalität geprägten Verhältnis. Vasari nannte ihn in den Vite und bot damit ein wichtiges, wenn auch nicht von persönlichen Urteilen freies Zeugnis.",
+      "es": "Fueron contemporáneos y actuaron en el ambiente mediceo, con una relación marcada por la rivalidad. Vasari lo citó en las Vite, ofreciendo un testimonio importante, aunque no exento de juicios personales."
+     }
+    }
+   ],
+   "ritratto": {
+    "autore": "Ritratto di Benvenuto Cellini (autore non indicato)",
     "licenza": "Pubblico dominio"
    }
   }
