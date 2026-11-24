@@ -2421,7 +2421,34 @@
     "de": "Poggi-Rampen",
     "es": "Rampas del Poggi"
    },
-   "sito": "https://www.feelflorence.it/en/node/43289"
+   "sito": "https://www.feelflorence.it/en/node/43289",
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ]
   },
   {
    "id": "porta-san-niccolo",

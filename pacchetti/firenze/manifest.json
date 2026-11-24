@@ -1,5 +1,5 @@
 {
- "versione": "564863e55f86",
+ "versione": "49b9db96cd4b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -732,6 +732,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ponte-vecchio_4.webp",
    "sha256": "d8e2d8e531aebd18fd88ce88f29fdc6e5aa42817bcb8d102bdc5fc648369ea44",
    "byte": 85552
+  },
+  {
+   "path": "assets/luoghi/rampe-del-poggi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rampe-del-poggi.webp",
+   "sha256": "99e93c51b14d2372bf1ff42e2193e37d8d549146436908d4529e02841b93b1d1",
+   "byte": 206386
+  },
+  {
+   "path": "assets/luoghi/rampe-del-poggi_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rampe-del-poggi_2.webp",
+   "sha256": "60484bc4dd3df4500cc500dd57029bff951d526342c05b2b491dd1822fdb7540",
+   "byte": 164120
+  },
+  {
+   "path": "assets/luoghi/rampe-del-poggi_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rampe-del-poggi_3.webp",
+   "sha256": "38250353f4ed642536ae29a81aa85ff988cffa65c5dfc93c0278eb454b754b78",
+   "byte": 113146
+  },
+  {
+   "path": "assets/luoghi/rampe-del-poggi_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rampe-del-poggi_4.webp",
+   "sha256": "e6bff9fd3a32ea36dae8669ac13d457ba686d7c70f355431e9b9234d9f9bbb71",
+   "byte": 181764
+  },
+  {
+   "path": "assets/luoghi/rampe-del-poggi_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rampe-del-poggi_5.webp",
+   "sha256": "adc70f9b68505fa27720b6930df31bc7aa9cf884d961f8f15be2bb49a903ce92",
+   "byte": 193392
   },
   {
    "path": "assets/luoghi/santa-maria-alla-querce.webp",
@@ -3892,8 +3922,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "648692b1777798d289a83c7788fac5dc2b97725737e6ef225ddda0f802f33218",
-   "byte": 979
+   "sha256": "fe49d26ff43f2fedb46092f9e91b3cb61a5a1b2abeb193e6ece8bd7266d81a3f",
+   "byte": 1003
   },
   {
    "path": "dati/itinerari.json",
@@ -3904,8 +3934,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "001190550ad91b85768b14eab239affd6d9ab7e7f58c022798a33a1612e0e40f",
-   "byte": 345504
+   "sha256": "45c7c2bf3d324eb0b475eaac24d909fc1398494a891d8ea93f2a72b3a5ac7a18",
+   "byte": 346183
   },
   {
    "path": "dati/mappa.json",
@@ -3969,17 +3999,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "289037ce021b",
-   "da": "14f3954870c9",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 5,
-   "byte": 751959
-  },
   {
    "versione": "a1f2fbf9e4a7",
    "da": "289037ce021b",
@@ -4197,6 +4216,17 @@
    ],
    "foto_nuove": 4,
    "byte": 745937
+  },
+  {
+   "versione": "49b9db96cd4b",
+   "da": "564863e55f86",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 1205994
   }
  ]
 }
