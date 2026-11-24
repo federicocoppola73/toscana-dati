@@ -2523,7 +2523,29 @@
    "sito": "https://www.visittuscany.com/it/attrazioni/la-torre-di-san-niccolo-firenze/",
    "wikipedia": {
     "en": "Tower of San Niccolò, Florence"
-   }
+   },
+   "immagine": {
+    "autore": "Francesco Bini",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ]
   },
   {
    "id": "parco-del-bobolino",
