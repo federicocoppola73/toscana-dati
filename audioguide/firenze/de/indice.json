@@ -1,5 +1,5 @@
 {
- "versione": "8b0e14c9b8d9",
+ "versione": "bf3e6eba41a3",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -377,6 +377,21 @@
      "secondi": 142,
      "sha256": "e0f9aab08c9c9a2c798d2cfdc654be7ae705910faa6ef515c4979cfa0df39dc8",
      "testo": "cf70c4fba36261a2"
+    }
+   ]
+  },
+  "museo-galileo": {
+   "byte": 3470444,
+   "secondi": 578,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "museo-galileo.mp3",
+     "byte": 3470444,
+     "secondi": 578,
+     "sha256": "e87c8361a07d387cd38eea3e3c1a418881bcd691a710013c82f2c5d04d45a487",
+     "testo": "7643980cbfa0c487"
     }
    ]
   },
