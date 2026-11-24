@@ -1,5 +1,5 @@
 {
- "versione": "70eabde3fdb7",
+ "versione": "564863e55f86",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -258,6 +258,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore_5.webp",
    "sha256": "02f8995233c5e6baa21fd5b61bb5d7a108bd0acfd05dc6c44197a93023faa2a1",
    "byte": 308624
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-al-monte.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-al-monte.webp",
+   "sha256": "56e11a1ba9fcb8651b5db55db20103c55184cea2e03a090b9baea549ada339b9",
+   "byte": 102258
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-al-monte_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-al-monte_2.webp",
+   "sha256": "cb8a626d3698ddd473f48f1669f26aab92f6340b5e71c8c3cc136891c05f97b1",
+   "byte": 131322
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-al-monte_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-al-monte_3.webp",
+   "sha256": "80b4229941bf502048c15cb1e8479b8d9e22e72e7b634d1a6006f3d6d208d093",
+   "byte": 81722
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-al-monte_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-al-monte_4.webp",
+   "sha256": "8a37d2e5f0c624a5e10661c36495d6a72faa4b0a164bc4f5aab5275946039877",
+   "byte": 84152
   },
   {
    "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele.webp",
@@ -3868,8 +3892,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "472e2e0391ff1227056ab09f8ae210fda5995d48e08cccfd41cc295bb3bea485",
-   "byte": 938
+   "sha256": "648692b1777798d289a83c7788fac5dc2b97725737e6ef225ddda0f802f33218",
+   "byte": 979
   },
   {
    "path": "dati/itinerari.json",
@@ -3880,8 +3904,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "1a945fcb7273100568954d09d6da0add84fa45dc7ce86b636029f0e1070e623a",
-   "byte": 344935
+   "sha256": "001190550ad91b85768b14eab239affd6d9ab7e7f58c022798a33a1612e0e40f",
+   "byte": 345504
   },
   {
    "path": "dati/mappa.json",
@@ -3945,17 +3969,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "14f3954870c9",
-   "da": "52f5ba762317",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 5,
-   "byte": 729619
-  },
   {
    "versione": "289037ce021b",
    "da": "14f3954870c9",
@@ -4173,6 +4186,17 @@
     "accessibilita"
    ],
    "byte": 344935
+  },
+  {
+   "versione": "564863e55f86",
+   "da": "70eabde3fdb7",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 745937
   }
  ]
 }
