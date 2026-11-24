@@ -1,5 +1,5 @@
 {
- "versione": "3d48380613d8",
+ "versione": "90f55a9b47af",
  "voce": "fr-FR-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -182,6 +182,30 @@
      "secondi": 170,
      "sha256": "c7884525c64940bbaf2e261dceb2aa738712d196b3cf41674536b039c9720ad3",
      "testo": "db4fea814b0cabf2"
+    }
+   ]
+  },
+  "galleria-dellaccademia-di-firenze": {
+   "byte": 4108984,
+   "secondi": 685,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "galleria-dellaccademia-di-firenze__esterno.mp3",
+     "byte": 1143548,
+     "secondi": 191,
+     "sha256": "c0f8716367600a66719491d5180daf072cb9e719148ea7a46fd086b60cafb149",
+     "testo": "8b0457a954969109"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "galleria-dellaccademia-di-firenze__interno.mp3",
+     "byte": 2965436,
+     "secondi": 494,
+     "sha256": "982799a40674674f4f8e1c6087761b6d4b4199217305c0345154c0778d38454e",
+     "testo": "50df4aff6fc08c51"
     }
    ]
   },
