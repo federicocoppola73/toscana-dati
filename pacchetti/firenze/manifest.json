@@ -1,5 +1,5 @@
 {
- "versione": "f92f141eac31",
+ "versione": "9af2f8eeffe2",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -228,6 +228,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele_5.webp",
    "sha256": "3b66961996f1b7b131031fb276ae51996dd61b1ace529dfdc87c0c09ebcb619d",
    "byte": 249302
+  },
+  {
+   "path": "assets/luoghi/gallerie-degli-uffizi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi.webp",
+   "sha256": "86aa22fadd1ac4c7bf1695f3a0ccae869b32395359936d06f39ecb53893ef616",
+   "byte": 111750
+  },
+  {
+   "path": "assets/luoghi/gallerie-degli-uffizi_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_2.webp",
+   "sha256": "b5e2cd8f0c312b48292b10db78194c7d9db096d5878a3270e67aeca0e60c5c75",
+   "byte": 75292
+  },
+  {
+   "path": "assets/luoghi/gallerie-degli-uffizi_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_3.webp",
+   "sha256": "2886cd2fb0a1a9737945e40a539b1fb94b5be399a77e8cadd9bd91b8fe4bf8b6",
+   "byte": 125900
+  },
+  {
+   "path": "assets/luoghi/gallerie-degli-uffizi_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_4.webp",
+   "sha256": "9bd3ae3a831755f6f0d506b81b93f0823403af5bbd05853e4fb6c5629ecd3d97",
+   "byte": 81250
+  },
+  {
+   "path": "assets/luoghi/gallerie-degli-uffizi_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_5.webp",
+   "sha256": "0548385f286225a14c0134279568c15f87300ea406011f57dcc6c82c12b0d95f",
+   "byte": 91350
   },
   {
    "path": "assets/luoghi/palazzo-pitti.webp",
@@ -3466,8 +3496,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "615313b2b9d24ef193a932088f14098f40f28cc30e899476bf19374234e89567",
-   "byte": 476
+   "sha256": "c1af4945f0dced2db20da8c3b181d675d3736517241b38a816fc5e0fbf3a938d",
+   "byte": 506
   },
   {
    "path": "dati/itinerari.json",
@@ -3478,8 +3508,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "8dd9b27cacfa6bb1add84e37343f8cc4f18ebbf3edb923ce48d689dcfbf416db",
-   "byte": 192088
+   "sha256": "43b6a0a0fbeb31dddf0eecea56250e280d76460880503f95e5678d313f1cad42",
+   "byte": 192819
   },
   {
    "path": "dati/mappa.json",
@@ -3543,12 +3573,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "bf712b34c9a5",
-   "da": "1ecdd6c34526",
-   "data": "2026-11-23",
-   "byte": 446192
-  },
   {
    "versione": "1450439f76a9",
    "da": "bf712b34c9a5",
@@ -3676,6 +3700,17 @@
    "da": "12be3ed56cc2",
    "data": "2026-11-24",
    "byte": 192088
+  },
+  {
+   "versione": "9af2f8eeffe2",
+   "da": "f92f141eac31",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 678867
   }
  ]
 }

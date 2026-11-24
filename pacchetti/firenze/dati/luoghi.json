@@ -1178,7 +1178,33 @@
       "es": "Servicio de visitas táctiles y recorrido «Uffizi da toccare» (guantes obligatorios, que se piden al personal)."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Arek N.",
+    "licenza": "CC BY-SA 3.0",
+    "fonte": "https://web.archive.org/web/20161101071111/http://www.panoramio.com/user/1590039?with_photo_id=113389208"
+   },
+   "galleria": [
+    {
+     "autore": "Verum3414",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Verum3414"
+    },
+    {
+     "autore": "Armin Kleiner",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:MenkinAlRire"
+    },
+    {
+     "autore": "Armin Kleiner",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:MenkinAlRire"
+    },
+    {
+     "autore": "Luca Signorelli",
+     "licenza": "Pubblico dominio"
+    }
+   ]
   },
   {
    "id": "museo-nazionale-del-bargello",
