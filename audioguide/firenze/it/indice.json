@@ -1,5 +1,5 @@
 {
- "versione": "d1e5c11c7ba7",
+ "versione": "04a457f9cbdd",
  "voce": "it-IT-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -275,6 +275,30 @@
      "secondi": 264,
      "sha256": "742fdc69513b37f6d3ac50b2301867be926787c4dd5d08b500e4fb8f9f1c5fd0",
      "testo": "c90e8cd6f9fbfc9f"
+    }
+   ]
+  },
+  "museo-delle-cappelle-medicee": {
+   "byte": 4261048,
+   "secondi": 710,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Esterno",
+     "file": "museo-delle-cappelle-medicee__esterno.mp3",
+     "byte": 1267244,
+     "secondi": 211,
+     "sha256": "85374327f0a547c0ab7cd8c52feada6e38ae98b2b9ddbc351c88c4cda4609b2d",
+     "testo": "5164dcc6194f5c4b"
+    },
+    {
+     "id": "interno",
+     "titolo": "Interno",
+     "file": "museo-delle-cappelle-medicee__interno.mp3",
+     "byte": 2993804,
+     "secondi": 499,
+     "sha256": "b5a1096af819731cee73ce169263a76be3a5a81ef9875db3a400cb2172f59dcd",
+     "testo": "fa2da008990891e2"
     }
    ]
   },
