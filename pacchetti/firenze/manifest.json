@@ -1,5 +1,5 @@
 {
- "versione": "7d6d58f1e9be",
+ "versione": "420ef18c49ea",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3712,8 +3712,8 @@
   {
    "path": "dati/curiosita.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/curiosita.json",
-   "sha256": "50d9b8700862013dffeb4993152dd766508e4781e8f485295ba5f2e6ce06a7ef",
-   "byte": 58
+   "sha256": "4d10f90b1e4c69edd96eb920cd7f24e157a435ce26ab0c19ff43c213decdc8c4",
+   "byte": 20000
   },
   {
    "path": "dati/eventi.json",
@@ -3801,12 +3801,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "80d62d1aef9e",
-   "da": "ec0d40b1a81a",
-   "data": "2026-11-23",
-   "byte": 1018348
-  },
   {
    "versione": "77e6c51b483b",
    "da": "80d62d1aef9e",
@@ -3997,6 +3991,13 @@
    ],
    "foto_nuove": 3,
    "byte": 1573220
+  },
+  {
+   "versione": "420ef18c49ea",
+   "da": "7d6d58f1e9be",
+   "data": "2026-11-24",
+   "curiosita_nuove": 1,
+   "byte": 20000
   }
  ]
 }
