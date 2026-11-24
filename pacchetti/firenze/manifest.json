@@ -1,5 +1,5 @@
 {
- "versione": "0daf9d1ae07c",
+ "versione": "70eabde3fdb7",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3880,8 +3880,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "01a869c0d6b9189f966f242b38f0be947332bff984cc978dd6b64ae0b03ccee8",
-   "byte": 344680
+   "sha256": "1a945fcb7273100568954d09d6da0add84fa45dc7ce86b636029f0e1070e623a",
+   "byte": 344935
   },
   {
    "path": "dati/mappa.json",
@@ -3945,17 +3945,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "52f5ba762317",
-   "da": "32722b93d67e",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 5,
-   "byte": 871901
-  },
   {
    "versione": "14f3954870c9",
    "da": "52f5ba762317",
@@ -4172,6 +4161,18 @@
     "altro"
    ],
    "byte": 344680
+  },
+  {
+   "versione": "70eabde3fdb7",
+   "da": "0daf9d1ae07c",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 2,
+   "aspetti": [
+    "orari",
+    "descrizioni",
+    "accessibilita"
+   ],
+   "byte": 344935
   }
  ]
 }

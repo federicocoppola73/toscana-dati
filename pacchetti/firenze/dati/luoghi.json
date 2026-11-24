@@ -2305,11 +2305,11 @@
     "gratuito": true
    },
    "nota": {
-    "it": "Non è disponibile un calendario di apertura turistico ufficiale stabile e verificabile. La chiesa è legata alla comunità religiosa francescana: prima di programmare una visita interna conviene contattare il luogo o verificare le celebrazioni. Ingresso gratuito, quando la chiesa è aperta al pubblico. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
-    "en": "No stable, verifiable official tourist opening calendar is available. The church is linked to the Franciscan religious community: before planning a visit inside, it is best to contact the church or check the services. Entry is free when the church is open to the public. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
-    "fr": "Aucun calendrier touristique officiel stable et vérifiable n'est disponible. L'église est liée à la communauté religieuse franciscaine : avant de programmer une visite intérieure, il vaut mieux contacter le lieu ou vérifier les célébrations. Entrée gratuite lorsque l'église est ouverte au public. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
-    "de": "Es ist kein stabiler, überprüfbarer offizieller Öffnungskalender für Touristen verfügbar. Die Kirche gehört zur franziskanischen Ordensgemeinschaft: Vor einem Besuch im Inneren sollten Sie den Ort kontaktieren oder die Gottesdienste prüfen. Der Eintritt ist frei, wenn die Kirche für die Öffentlichkeit geöffnet ist. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
-    "es": "No hay disponible un calendario oficial de apertura turística estable y verificable. La iglesia está ligada a la comunidad religiosa franciscana: antes de programar una visita al interior conviene contactar con el lugar o comprobar las celebraciones. Entrada gratuita cuando la iglesia está abierta al público. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+    "it": "La chiesa è legata alla comunità religiosa francescana: durante le celebrazioni la visita può essere limitata. Orari secondo Feel Florence: lunedì–sabato 7:00–19:00, domenica 8:00–19:00. Ingresso gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The church belongs to the Franciscan religious community: visits may be limited during services. Hours according to Feel Florence: Monday–Saturday 7:00–19:00, Sunday 8:00–19:00. Entry is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "L'église est liée à la communauté religieuse franciscaine : la visite peut être limitée pendant les célébrations. Horaires selon Feel Florence : du lundi au samedi 7h00–19h00, dimanche 8h00–19h00. Entrée gratuite. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Die Kirche gehört zur franziskanischen Ordensgemeinschaft: Während der Gottesdienste kann der Besuch eingeschränkt sein. Öffnungszeiten laut Feel Florence: Montag–Samstag 7:00–19:00 Uhr, Sonntag 8:00–19:00 Uhr. Der Eintritt ist frei. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "La iglesia está ligada a la comunidad religiosa franciscana: durante las celebraciones la visita puede estar limitada. Horario según Feel Florence: de lunes a sábado 7:00–19:00, domingo 8:00–19:00. Entrada gratuita. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
    },
    "nomi": {
     "en": "Church of San Salvatore al Monte",
@@ -2317,7 +2317,17 @@
     "de": "Kirche San Salvatore al Monte",
     "es": "Iglesia de San Salvatore al Monte"
    },
-   "sito": "https://www.feelflorence.it/en/node/12143"
+   "sito": "https://www.feelflorence.it/en/node/12143",
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "7:00–19:00"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:00–19:00"
+    }
+   ]
   },
   {
    "id": "rampe-del-poggi",
@@ -3075,6 +3085,19 @@
    "sito": "https://www.comune.fi.it/pagina/cimiteri/porte-sante-san-miniato-al-monte",
    "wikipedia": {
     "en": "Cimitero delle Porte Sante"
+   },
+   "accessibilita": {
+    "fonte": "Feel Florence",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Secondo la scheda di Feel Florence, il luogo non è accessibile.",
+      "en": "According to the Feel Florence page, the site is not accessible.",
+      "fr": "Selon la fiche de Feel Florence, le lieu n'est pas accessible.",
+      "de": "Laut der Seite von Feel Florence ist der Ort nicht zugänglich.",
+      "es": "Según la ficha de Feel Florence, el lugar no es accesible."
+     }
+    }
    }
   }
  ]
