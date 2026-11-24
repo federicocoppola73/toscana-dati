@@ -2703,7 +2703,29 @@
    "sito": "https://www.feelflorence.it/en/node/38101",
    "wikipedia": {
     "en": "Porta Romana, Florence"
-   }
+   },
+   "immagine": {
+    "autore": "Francesco Bini",
+    "licenza": "CC BY-SA 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Nemo bis",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Nemo_bis"
+    }
+   ]
   },
   {
    "id": "partir-la-valigia-di-folon",
