@@ -1,5 +1,5 @@
 {
- "versione": "77e6c51b483b",
+ "versione": "65941fbf6479",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3194,6 +3194,12 @@
    "byte": 45178
   },
   {
+   "path": "assets/personaggi/don-lorenzo-milani.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/don-lorenzo-milani.webp",
+   "sha256": "3f91ab96f57bf171905aff224d3b8c2a781ad70241255b18c3dedcf87c5ed873",
+   "byte": 17478
+  },
+  {
    "path": "assets/personaggi/donatello.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/donatello.webp",
    "sha256": "c840c871611f261625f6eef4d2f8ef0b388ee4ebb91aac7bea27dc068130846a",
@@ -3234,6 +3240,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/giano-della-bella.webp",
    "sha256": "cb9dd963ae56bb5cfb45c8290f99f760aa954f69a4514eb6001e314774ec491e",
    "byte": 28286
+  },
+  {
+   "path": "assets/personaggi/giorgio-la-pira.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/giorgio-la-pira.webp",
+   "sha256": "be90e219a9fb1bf0e38a58c9691a87009a0b8f21cda92762b8829e48602c6c6b",
+   "byte": 43026
   },
   {
    "path": "assets/personaggi/giorgio-vasari.webp",
@@ -3336,6 +3348,18 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/niccolo-machiavelli.webp",
    "sha256": "07e3fac868b5dae94a965c1d4db1f79cd53af8d4ccfa1b1962f76f82310e09d5",
    "byte": 52970
+  },
+  {
+   "path": "assets/personaggi/piero-bargellini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/piero-bargellini.webp",
+   "sha256": "ee39e38d3afe506b06b5034ac646ca49b21001969dc7f7d9223f9dab91820ad1",
+   "byte": 75604
+  },
+  {
+   "path": "assets/personaggi/piero-calamandrei.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/personaggi/piero-calamandrei.webp",
+   "sha256": "f4cb1517eef4be7e2f1694b522b8498e417e2a1fafcc6cef337138881b28a73b",
+   "byte": 21838
   },
   {
    "path": "assets/personaggi/piero-soderini.webp",
@@ -3460,8 +3484,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "3e4df08074239f6da3d0b636ddec8b519bd0503fdbe1b1043d2e55f00d6a8e8a",
-   "byte": 745450
+   "sha256": "ea4180044d0e4beeafde92d309e8370f9b09a1696748fdf17658e56ac271324f",
+   "byte": 784385
   },
   {
    "path": "dati/principali.json",
@@ -3484,8 +3508,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/storia.json",
-   "sha256": "2f898b0f169ed810ff10c3403dc17115a733242523e2fb8dcb45ff76062a2aab",
-   "byte": 27448
+   "sha256": "25592de3b49fe1a557f2b2edcf37dc907892359b5301a3bf4a04f2ba10555239",
+   "byte": 27546
   },
   {
    "path": "dati/tessere.json",
@@ -3501,12 +3525,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "1947d6b27943",
-   "da": "618d5dbdb752",
-   "data": "2026-11-23",
-   "byte": 292254
-  },
   {
    "versione": "8668933670e9",
    "da": "1947d6b27943",
@@ -3620,6 +3638,12 @@
    "da": "80d62d1aef9e",
    "data": "2026-11-24",
    "byte": 1154518
+  },
+  {
+   "versione": "65941fbf6479",
+   "da": "77e6c51b483b",
+   "data": "2026-11-24",
+   "byte": 969877
   }
  ]
 }
