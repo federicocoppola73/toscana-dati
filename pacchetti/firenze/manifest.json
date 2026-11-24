@@ -1,5 +1,5 @@
 {
- "versione": "35b74c9b8afa",
+ "versione": "c2a9b7357f74",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -48,6 +48,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-lorenzo_5.webp",
    "sha256": "aa69183ed20c6fd58eeecf368c0f6a97643dd5d5618477f2cd6614f2b25e7ac9",
    "byte": 84034
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-miniato-al-monte.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-miniato-al-monte.webp",
+   "sha256": "6125c81bbc23df453823b26dbcd7891aac7c4c56acbc8de89054512feb68ddac",
+   "byte": 99622
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-miniato-al-monte_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-miniato-al-monte_2.webp",
+   "sha256": "55f60812661632bf3c07a0af01079aadde8cc682fb9a80199190cac616dc0900",
+   "byte": 142538
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-miniato-al-monte_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-miniato-al-monte_3.webp",
+   "sha256": "ffe46c0ee4f1029f6c1678053ade721a80a5b0ccba306ad45ecad9f3a70cf109",
+   "byte": 82206
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-miniato-al-monte_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-miniato-al-monte_4.webp",
+   "sha256": "8447860784bff078da78b913ffe8ed5bd9a5bc15d2da9a00ec496ac1e72aaac4",
+   "byte": 139688
+  },
+  {
+   "path": "assets/luoghi/basilica-di-san-miniato-al-monte_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-san-miniato-al-monte_5.webp",
+   "sha256": "f322ed03484b24606be2d174ea4d2990e209f964fc5362a5a88ce0e12eef5469",
+   "byte": 174032
   },
   {
    "path": "assets/luoghi/basilica-di-santa-croce.webp",
@@ -318,6 +348,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delle-rose_4.webp",
    "sha256": "fffde270d1601e5c5d0df64ceb2302d9b55e95803f4e6edba764e5c5af755714",
    "byte": 124288
+  },
+  {
+   "path": "assets/luoghi/giardino-delliris.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delliris.webp",
+   "sha256": "b08ae4db91a60688dae1006c34405f78c4dcdc9a01a2cbe15dc71e900a071027",
+   "byte": 237428
+  },
+  {
+   "path": "assets/luoghi/giardino-delliris_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delliris_2.webp",
+   "sha256": "8e0b26972c89bca64ec38b1f6cd33729dd9a569f14c1bf57874a99e3b1821961",
+   "byte": 359384
+  },
+  {
+   "path": "assets/luoghi/giardino-delliris_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delliris_3.webp",
+   "sha256": "b94d299ee2e7512d568a39503f1ec78f0481bd71befab4a4d9b23d900570966c",
+   "byte": 119684
+  },
+  {
+   "path": "assets/luoghi/giardino-delliris_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delliris_4.webp",
+   "sha256": "77f0a7ed36ae5e9df0d8ef613f0abb7439dc51de1cef4c086cad2c82584a6833",
+   "byte": 221376
   },
   {
    "path": "assets/luoghi/isolotto.webp",
@@ -3772,7 +3826,7 @@
   {
    "path": "dati/curiosita.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/curiosita.json",
-   "sha256": "4b9d365fc6ca1fe1309269bd4af88314aa14bf492fdd5c185541f33f126276de",
+   "sha256": "58e4eed0b55d3f90ba6b81c71d53f6951a1770387661019938d16fcbcc28c65f",
    "byte": 8915
   },
   {
@@ -3784,8 +3838,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "7cb4f0b5f337eea3d454e221027cfc8d2638d64f36d9b0a8cb8783d939ef2466",
-   "byte": 836
+   "sha256": "a82dbc2b9abbe181983bf80bf51920fe4c9538f729e34169ffb5b5d0966323ee",
+   "byte": 903
   },
   {
    "path": "dati/itinerari.json",
@@ -3796,8 +3850,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "a501122ef1f07c14d791c54003fad7d28f8b21547903d9caaac2eb76f21f66f0",
-   "byte": 340902
+   "sha256": "a83ddaedfd840c264e57ac7090d9d1b6e81e29e57dda59d460e3844de0c36a27",
+   "byte": 342176
   },
   {
    "path": "dati/mappa.json",
@@ -3861,16 +3915,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "12be3ed56cc2",
-   "da": "42092f1a830d",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 5,
-   "aspetti": [
-    "accessibilita"
-   ],
-   "byte": 192123
-  },
   {
    "versione": "f92f141eac31",
    "da": "12be3ed56cc2",
@@ -4083,6 +4127,17 @@
    "foto_nuove": 3,
    "curiosita_nuove": 1,
    "byte": 1512459
+  },
+  {
+   "versione": "c2a9b7357f74",
+   "da": "35b74c9b8afa",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 2,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 9,
+   "byte": 1927952
   }
  ]
 }

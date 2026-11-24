@@ -2250,161 +2250,6 @@
    }
   },
   {
-   "id": "giardino-delliris",
-   "nome": "Giardino dell'Iris",
-   "categoria": "giardini",
-   "sestiere": "Oltrarno",
-   "latitudine": 43.762172,
-   "longitudine": 11.266241,
-   "descrizione": {
-    "it": "Il Giardino dell'Iris è un giardino botanico specializzato nella coltivazione e conservazione delle diverse varietà di iris, il fiore che rappresenta da secoli uno dei simboli di Firenze.\n\nSi trova sul versante orientale della collina di Piazzale Michelangelo, in una posizione panoramica affacciata sulla città.\n\nIl giardino fu inaugurato nel maggio 1957, su progetto dell'architetto Giuliano Zetti, per ospitare il Concorso Internazionale dell'Iris, una manifestazione dedicata alla ricerca e alla selezione di nuove varietà del fiore.\n\nLa gestione è affidata alla Società Italiana dell'Iris, che cura la collezione botanica e promuove attività di studio e divulgazione.\n\nIl terreno, di circa due ettari e mezzo, comprende aiuole, percorsi in pietra, zone coltivate a oliveto e un laghetto dedicato alle varietà acquatiche, tra cui iris giapponesi e Louisiana.\n\nLa collezione comprende numerose specie e varietà provenienti da diversi Paesi. Il giardino ha quindi anche un valore scientifico e conservativo, oltre che paesaggistico.",
-    "en": "The Iris Garden is a botanical garden specialising in the cultivation and conservation of the many varieties of iris, the flower that has been one of the symbols of Florence for centuries.\n\nIt lies on the eastern slope of the Piazzale Michelangelo hill, in a panoramic position overlooking the city.\n\nThe garden was inaugurated in May 1957, designed by the architect Giuliano Zetti, to host the International Iris Competition, an event devoted to research and to selecting new varieties of the flower.\n\nIt is managed by the Italian Iris Society, which looks after the botanical collection and promotes study and outreach activities.\n\nThe grounds, of about two and a half hectares, include flower beds, stone paths, olive groves and a small pond devoted to water varieties, among them Japanese and Louisiana irises.\n\nThe collection includes numerous species and varieties from many countries. The garden therefore has scientific and conservation value as well as scenic value.",
-    "fr": "Le Jardin de l'Iris est un jardin botanique spécialisé dans la culture et la conservation des différentes variétés d'iris, la fleur qui est depuis des siècles l'un des symboles de Florence.\n\nIl se trouve sur le versant oriental de la colline de la Piazzale Michelangelo, dans une position panoramique qui domine la ville.\n\nLe jardin fut inauguré en mai 1957, sur un projet de l'architecte Giuliano Zetti, pour accueillir le Concours international de l'Iris, une manifestation consacrée à la recherche et à la sélection de nouvelles variétés de la fleur.\n\nSa gestion est confiée à la Société italienne de l'Iris, qui s'occupe de la collection botanique et promeut des activités d'étude et de vulgarisation.\n\nLe terrain, d'environ deux hectares et demi, comprend des massifs, des allées en pierre, des zones plantées d'oliviers et un petit étang consacré aux variétés aquatiques, notamment les iris japonais et de Louisiane.\n\nLa collection compte de nombreuses espèces et variétés originaires de différents pays. Le jardin a donc aussi une valeur scientifique et conservatoire, en plus de sa valeur paysagère.",
-    "de": "Der Iris-Garten ist ein botanischer Garten, der auf die Kultivierung und den Erhalt der verschiedenen Irissorten spezialisiert ist – der Blume, die seit Jahrhunderten eines der Symbole von Florenz ist.\n\nEr liegt am Osthang des Hügels der Piazzale Michelangelo, in einer Panoramalage über der Stadt.\n\nDer Garten wurde im Mai 1957 nach einem Entwurf des Architekten Giuliano Zetti eröffnet, um den Internationalen Iris-Wettbewerb auszurichten, eine Veranstaltung für Forschung und Auswahl neuer Sorten der Blume.\n\nDie Leitung liegt bei der Società Italiana dell'Iris, die die botanische Sammlung pflegt und Studien- und Vermittlungsaktivitäten fördert.\n\nDas Gelände von etwa zweieinhalb Hektar umfasst Beete, Steinwege, Olivenhaine und einen kleinen Teich für Wasseririsse, darunter japanische und Louisiana-Iris.\n\nDie Sammlung umfasst zahlreiche Arten und Sorten aus verschiedenen Ländern. Der Garten hat daher neben seinem landschaftlichen auch einen wissenschaftlichen und bewahrenden Wert.",
-    "es": "El Jardín del Iris es un jardín botánico especializado en el cultivo y la conservación de las distintas variedades de iris, la flor que desde hace siglos es uno de los símbolos de Florencia.\n\nSe encuentra en la ladera oriental de la colina de la Piazzale Michelangelo, en una posición panorámica sobre la ciudad.\n\nEl jardín fue inaugurado en mayo de 1957, según proyecto del arquitecto Giuliano Zetti, para acoger el Concurso Internacional del Iris, una manifestación dedicada a la investigación y a la selección de nuevas variedades de la flor.\n\nSu gestión está a cargo de la Sociedad Italiana del Iris, que cuida la colección botánica y promueve actividades de estudio y divulgación.\n\nEl terreno, de unas dos hectáreas y media, comprende parterres, caminos de piedra, zonas de olivar y un pequeño estanque dedicado a las variedades acuáticas, entre ellas los iris japoneses y de Luisiana.\n\nLa colección incluye numerosas especies y variedades procedentes de distintos países. El jardín tiene, por tanto, también un valor científico y conservador, además del paisajístico."
-   },
-   "lo_sapevi_che": [
-    {
-     "titolo": {
-      "it": "Il fiore simbolo di Firenze",
-      "en": "The flower that symbolises Florence",
-      "fr": "La fleur emblème de Florence",
-      "de": "Die Blume als Wahrzeichen von Florenz",
-      "es": "La flor símbolo de Florencia"
-     },
-     "testo": {
-      "en": "The iris has been the symbol flower of Florence since the Middle Ages. The lily on the city's coat of arms is in fact a stylised iris, traditionally shown in heraldic form.",
-      "fr": "L'iris est la fleur emblème de Florence depuis le Moyen Âge. Le lys des armoiries de la ville est en réalité un iris stylisé, traditionnellement représenté sous forme héraldique.",
-      "de": "Die Iris ist seit dem Mittelalter die Symbolblume von Florenz. Die Lilie im Stadtwappen ist in Wahrheit eine stilisierte Iris, traditionell in heraldischer Form dargestellt.",
-      "es": "El iris es la flor símbolo de Florencia desde la Edad Media. El lirio del escudo de la ciudad es en realidad un iris estilizado, representado tradicionalmente en forma heráldica.",
-      "it": "L'iris è il fiore simbolo di Firenze dal Medioevo. Il giglio dello stemma cittadino è in realtà un iris stilizzato, tradizionalmente rappresentato in forma araldica."
-     }
-    },
-    {
-     "titolo": {
-      "it": "Una riserva di germoplasma",
-      "en": "A germplasm reserve",
-      "fr": "Une réserve de germoplasme",
-      "de": "Ein Genreservoir",
-      "es": "Una reserva de germoplasma"
-     },
-     "testo": {
-      "en": "The garden is a germplasm reserve: it preserves plant material that is important for the study and protection of the different varieties of iris.",
-      "fr": "Le jardin est une réserve de germoplasme : il conserve du matériel végétal important pour l'étude et la protection des différentes variétés d'iris.",
-      "de": "Der Garten ist ein Genreservoir: Er bewahrt Pflanzenmaterial, das für die Erforschung und den Schutz der verschiedenen Irissorten wichtig ist.",
-      "es": "El jardín es una reserva de germoplasma: conserva material vegetal importante para el estudio y la protección de las distintas variedades de iris.",
-      "it": "Il giardino è una riserva di germoplasma: conserva materiale vegetale importante per lo studio e la tutela delle diverse varietà di iris."
-     }
-    }
-   ],
-   "orari": [
-    {
-     "giorni": "tutti",
-     "ore": "10:00–18:00",
-     "periodo": "04-25/05-20"
-    }
-   ],
-   "biglietto": {
-    "gratuito": true
-   },
-   "nota": {
-    "it": "Apertura stagionale, in coincidenza con la fioritura: nel 2026 dal 25 aprile al 20 maggio, tutti i giorni, 10:00–18:00 (ultimo ingresso 17:30). Fuori da questo periodo l'accesso può essere possibile solo su prenotazione o in occasione di iniziative specifiche: conviene verificare con la Società Italiana dell'Iris. Ingresso gratuito; è gradita un'offerta per la manutenzione del giardino. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
-    "en": "Seasonal opening, in step with the flowering: in 2026 from 25 April to 20 May, every day, 10:00–18:00 (last entry 17:30). Outside this period access may be possible only by reservation or during special events: it is best to check with the Italian Iris Society. Entry is free; a donation towards the garden's upkeep is welcome. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
-    "fr": "Ouverture saisonnière, en fonction de la floraison : en 2026 du 25 avril au 20 mai, tous les jours, 10h00–18h00 (dernière entrée 17h30). En dehors de cette période, l'accès peut être possible uniquement sur réservation ou lors d'initiatives spécifiques : il vaut mieux vérifier auprès de la Société italienne de l'Iris. Entrée gratuite ; une offrande pour l'entretien du jardin est la bienvenue. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
-    "de": "Saisonale Öffnung, passend zur Blütezeit: 2026 vom 25. April bis 20. Mai, täglich 10:00–18:00 Uhr (letzter Einlass 17:30 Uhr). Außerhalb dieses Zeitraums ist der Zugang nur nach Voranmeldung oder bei besonderen Veranstaltungen möglich: Am besten fragen Sie bei der Società Italiana dell'Iris nach. Der Eintritt ist frei; eine Spende für die Pflege des Gartens ist willkommen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
-    "es": "Apertura estacional, en coincidencia con la floración: en 2026 del 25 de abril al 20 de mayo, todos los días, 10:00–18:00 (última entrada 17:30). Fuera de este periodo el acceso puede ser posible solo con reserva o con ocasión de iniciativas específicas: conviene consultar con la Sociedad Italiana del Iris. La entrada es gratuita; se agradece una aportación para el mantenimiento del jardín. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
-   },
-   "nomi": {
-    "en": "Giardino dell'Iris (Iris Garden)",
-    "fr": "Giardino dell'Iris (Jardin de l'Iris)",
-    "de": "Giardino dell'Iris (Iris-Garten)",
-    "es": "Giardino dell'Iris (Jardín del Iris)"
-   },
-   "curiosita": true
-  },
-  {
-   "id": "basilica-di-san-miniato-al-monte",
-   "nome": "Basilica di San Miniato al Monte",
-   "categoria": "chiese",
-   "sestiere": "Oltrarno",
-   "latitudine": 43.7659,
-   "longitudine": 11.265,
-   "descrizione": {
-    "it": "La Basilica di San Miniato al Monte è uno dei massimi capolavori del Romanico fiorentino e uno dei luoghi più suggestivi della città.\n\nSorge su una collina a sud dell'Arno, sopra Piazzale Michelangelo, in una posizione panoramica che permette di osservare Firenze dall'alto.\n\nLa tradizione cristiana identifica San Miniato come il primo martire di Firenze, morto durante le persecuzioni dell'imperatore Decio nel III secolo. Secondo la leggenda, dopo essere stato decapitato, avrebbe raccolto la propria testa e raggiunto il colle dove oggi sorge la basilica.\n\nNel 1018 il vescovo Ildebrando promosse la ricostruzione del complesso religioso. La basilica attuale si sviluppò attraverso diverse fasi costruttive tra XI e XIII secolo.\n\nLa facciata è caratterizzata da una geometria rigorosa di marmi bianchi e verdi, con un grande mosaico centrale raffigurante Cristo, la Vergine e San Miniato.\n\nL'interno conserva un ricco patrimonio artistico. Tra gli elementi più importanti si trovano il pavimento medievale intarsiato con i simboli dello Zodiaco, il presbiterio sopraelevato, il mosaico absidale e la cripta, dove sono custodite le reliquie del santo.\n\nDi particolare interesse è anche la Cappella del Cardinale del Portogallo, realizzata nel Quattrocento, con opere di Antonio e Bernardo Rossellino e decorazioni di importanti artisti del Rinascimento fiorentino.\n\nLa basilica è ancora oggi un'abbazia abitata da una comunità monastica olivetana.",
-    "en": "The Basilica of San Miniato al Monte is one of the great masterpieces of Florentine Romanesque and one of the most evocative places in the city.\n\nIt rises on a hill south of the Arno, above Piazzale Michelangelo, in a panoramic position that lets you look at Florence from above.\n\nChristian tradition identifies Saint Minias as the first martyr of Florence, put to death during the persecutions of the emperor Decius in the third century. According to legend, after being beheaded he picked up his own head and reached the hill where the basilica now stands.\n\nIn 1018 Bishop Hildebrand promoted the reconstruction of the religious complex. The present basilica developed through several building phases between the eleventh and thirteenth centuries.\n\nThe façade is marked by a rigorous geometry of white and green marble, with a large central mosaic showing Christ, the Virgin and Saint Minias.\n\nThe interior preserves a rich artistic heritage. Among the most important elements are the medieval inlaid floor with the signs of the Zodiac, the raised presbytery, the apse mosaic and the crypt, where the saint's relics are kept.\n\nOf particular interest is also the Chapel of the Cardinal of Portugal, built in the fifteenth century, with works by Antonio and Bernardo Rossellino and decorations by important artists of the Florentine Renaissance.\n\nToday the basilica is still an abbey inhabited by an Olivetan monastic community.",
-    "fr": "La basilique de San Miniato al Monte est l'un des plus grands chefs-d'œuvre du roman florentin et l'un des lieux les plus évocateurs de la ville.\n\nElle s'élève sur une colline au sud de l'Arno, au-dessus de la Piazzale Michelangelo, dans une position panoramique qui permet d'observer Florence d'en haut.\n\nLa tradition chrétienne identifie saint Miniato comme le premier martyr de Florence, mort lors des persécutions de l'empereur Dèce au IIIe siècle. Selon la légende, après avoir été décapité, il aurait ramassé sa propre tête et rejoint la colline où s'élève aujourd'hui la basilique.\n\nEn 1018, l'évêque Hildebrand promut la reconstruction du complexe religieux. La basilique actuelle s'est développée au fil de plusieurs phases de construction entre le XIe et le XIIIe siècle.\n\nLa façade se caractérise par une géométrie rigoureuse de marbres blancs et verts, avec une grande mosaïque centrale représentant le Christ, la Vierge et saint Miniato.\n\nL'intérieur conserve un riche patrimoine artistique. Parmi les éléments les plus importants figurent le pavement médiéval incrusté des signes du Zodiaque, le presbytère surélevé, la mosaïque de l'abside et la crypte, où sont conservées les reliques du saint.\n\nLa chapelle du Cardinal du Portugal, réalisée au XVe siècle, est également d'un intérêt particulier, avec des œuvres d'Antonio et Bernardo Rossellino et des décorations de grands artistes de la Renaissance florentine.\n\nAujourd'hui encore, la basilique est une abbaye habitée par une communauté monastique olivétaine.",
-    "de": "Die Basilika San Miniato al Monte ist eines der größten Meisterwerke der florentinischen Romanik und einer der eindrucksvollsten Orte der Stadt.\n\nSie erhebt sich auf einem Hügel südlich des Arno, oberhalb der Piazzale Michelangelo, in einer Panoramalage, die den Blick auf Florenz von oben erlaubt.\n\nDie christliche Überlieferung sieht im heiligen Minias den ersten Märtyrer von Florenz, der bei den Verfolgungen unter Kaiser Decius im 3. Jahrhundert starb. Der Legende nach hob er nach seiner Enthauptung seinen eigenen Kopf auf und erreichte den Hügel, auf dem heute die Basilika steht.\n\n1018 förderte Bischof Hildebrand den Wiederaufbau der Klosteranlage. Die heutige Basilika entstand in mehreren Bauphasen zwischen dem 11. und 13. Jahrhundert.\n\nDie Fassade zeichnet sich durch eine strenge Geometrie aus weißem und grünem Marmor aus, mit einem großen zentralen Mosaik, das Christus, die Jungfrau und den heiligen Minias zeigt.\n\nDas Innere bewahrt ein reiches künstlerisches Erbe. Zu den wichtigsten Elementen gehören der mittelalterliche Einlegeboden mit den Tierkreiszeichen, das erhöhte Presbyterium, das Apsismosaik und die Krypta, in der die Reliquien des Heiligen aufbewahrt werden.\n\nVon besonderem Interesse ist auch die Kapelle des Kardinals von Portugal aus dem 15. Jahrhundert, mit Werken von Antonio und Bernardo Rossellino und Dekorationen bedeutender Künstler der florentinischen Renaissance.\n\nDie Basilika ist bis heute eine Abtei, die von einer olivetanischen Mönchsgemeinschaft bewohnt wird.",
-    "es": "La basílica de San Miniato al Monte es una de las grandes obras maestras del románico florentino y uno de los lugares más sugerentes de la ciudad.\n\nSe alza sobre una colina al sur del Arno, por encima de la Piazzale Michelangelo, en una posición panorámica que permite contemplar Florencia desde lo alto.\n\nLa tradición cristiana identifica a San Miniato como el primer mártir de Florencia, muerto durante las persecuciones del emperador Decio en el siglo III. Según la leyenda, tras ser decapitado habría recogido su propia cabeza y llegado a la colina donde hoy se alza la basílica.\n\nEn 1018 el obispo Hildebrando promovió la reconstrucción del complejo religioso. La basílica actual se desarrolló a lo largo de varias fases constructivas entre los siglos XI y XIII.\n\nLa fachada se caracteriza por una geometría rigurosa de mármoles blancos y verdes, con un gran mosaico central que representa a Cristo, la Virgen y San Miniato.\n\nEl interior conserva un rico patrimonio artístico. Entre los elementos más importantes se encuentran el pavimento medieval con incrustaciones de los signos del Zodiaco, el presbiterio elevado, el mosaico del ábside y la cripta, donde se custodian las reliquias del santo.\n\nEs de especial interés también la Capilla del Cardenal de Portugal, realizada en el siglo XV, con obras de Antonio y Bernardo Rossellino y decoraciones de importantes artistas del Renacimiento florentino.\n\nHoy la basílica sigue siendo una abadía habitada por una comunidad monástica olivetana."
-   },
-   "lo_sapevi_che": [
-    {
-     "titolo": {
-      "it": "Una leggenda, non un fatto storico",
-      "en": "A legend, not a historical fact",
-      "fr": "Une légende, pas un fait historique",
-      "de": "Eine Legende, keine historische Tatsache",
-      "es": "Una leyenda, no un hecho histórico"
-     },
-     "testo": {
-      "en": "The legend says that Saint Minias, after being beheaded, picked up his own head and reached the hill where the basilica now stands. It is an hagiographic tradition, not a documented historical fact.",
-      "fr": "La légende raconte que saint Miniato, après avoir été décapité, aurait ramassé sa propre tête et rejoint la colline où s'élève aujourd'hui la basilique. C'est une tradition hagiographique, non un fait historique documenté.",
-      "de": "Der Legende nach hob der heilige Minias nach seiner Enthauptung seinen eigenen Kopf auf und erreichte den Hügel, auf dem heute die Basilika steht. Es handelt sich um eine hagiographische Überlieferung, nicht um eine belegte historische Tatsache.",
-      "es": "La leyenda cuenta que San Miniato, tras ser decapitado, recogió su propia cabeza y llegó a la colina donde hoy se alza la basílica. Es una tradición hagiográfica, no un hecho histórico documentado.",
-      "it": "La leggenda racconta che San Miniato, dopo essere stato decapitato, avrebbe raccolto la propria testa e raggiunto il colle dove oggi sorge la basilica. È una tradizione agiografica, non un fatto storico documentato."
-     }
-    },
-    {
-     "titolo": {
-      "it": "Lo Zodiaco sul pavimento",
-      "en": "The Zodiac on the floor",
-      "fr": "Le Zodiaque au sol",
-      "de": "Der Tierkreis im Boden",
-      "es": "El Zodiaco en el suelo"
-     },
-     "testo": {
-      "en": "The medieval floor preserves a depiction of the Zodiac, an unusual feature of great interest for understanding medieval symbolic culture.",
-      "fr": "Le pavement médiéval conserve une représentation du Zodiaque, un élément inhabituel et d'un grand intérêt pour comprendre la culture symbolique du Moyen Âge.",
-      "de": "Der mittelalterliche Boden bewahrt eine Darstellung des Tierkreises, ein ungewöhnliches Element von großem Interesse, um die symbolische Kultur des Mittelalters zu verstehen.",
-      "es": "El pavimento medieval conserva una representación del Zodiaco, un elemento inusual y de gran interés para comprender la cultura simbólica medieval.",
-      "it": "Il pavimento medievale conserva una raffigurazione dello Zodiaco, un elemento insolito e di grande interesse per comprendere la cultura simbolica medievale."
-     }
-    }
-   ],
-   "orari": [
-    {
-     "giorni": "lun-sab",
-     "ore": "9:30–13:00 · 15:30–19:00"
-    },
-    {
-     "giorni": "dom",
-     "ore": "8:15–13:00 · 15:30–19:00"
-    }
-   ],
-   "biglietto": {
-    "gratuito": true
-   },
-   "nota": {
-    "it": "Durante le celebrazioni liturgiche la basilica non è visitabile e la visita interna va rispettosa delle attività della comunità monastica. Orari: lunedì–sabato 9:30–13:00 e 15:30–19:00; domenica 8:15–13:00 e 15:30–19:00. Gli orari possono essere aggiornati dalla comunità. Ingresso gratuito; la prenotazione non è necessaria per la visita individuale. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
-    "en": "During liturgical celebrations the basilica cannot be visited, and visits inside should respect the activities of the monastic community. Hours: Monday–Saturday 9:30–13:00 and 15:30–19:00; Sunday 8:15–13:00 and 15:30–19:00. Hours may be updated by the community. Entry is free; no booking is needed for individual visits. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
-    "fr": "Pendant les célébrations liturgiques, la basilique ne se visite pas, et la visite intérieure doit respecter les activités de la communauté monastique. Horaires : lundi–samedi 9h30–13h00 et 15h30–19h00 ; dimanche 8h15–13h00 et 15h30–19h00. Les horaires peuvent être mis à jour par la communauté. Entrée gratuite ; la réservation n'est pas nécessaire pour la visite individuelle. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
-    "de": "Während der liturgischen Feiern kann die Basilika nicht besichtigt werden, und der Besuch im Inneren muss die Aktivitäten der Mönchsgemeinschaft respektieren. Öffnungszeiten: Montag–Samstag 9:30–13:00 und 15:30–19:00 Uhr; Sonntag 8:15–13:00 und 15:30–19:00 Uhr. Die Zeiten können von der Gemeinschaft aktualisiert werden. Der Eintritt ist frei; für Einzelbesucher ist keine Reservierung nötig. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
-    "es": "Durante las celebraciones litúrgicas la basílica no se puede visitar, y la visita al interior debe respetar las actividades de la comunidad monástica. Horario: lunes–sábado 9:30–13:00 y 15:30–19:00; domingo 8:15–13:00 y 15:30–19:00. La comunidad puede actualizar los horarios. La entrada es gratuita; no es necesaria reserva para la visita individual. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
-   },
-   "accessibilita": {
-    "fonte": "https://www.feelflorence.it/sites/default/files/2025-07/note%20sull'accessibilit%C3%A0%20ai%20musei%20fiorentini%20a%20luglio%2025%20ITA.pdf",
-    "verificato": "2026-11-24",
-    "voci": {
-     "motoria": {
-      "it": "Da Via delle Porte Sante si arriva in auto sul piazzale antistante (fondo di ghiaia), dove è consentito salire e scendere dall'auto. Il sagrato si raggiunge con una rampa corta ma abbastanza ripida; al portone d'ingresso della chiesa è presente un gradino alto, superabile con una rampa mobile da richiedere in anticipo per telefono (+39 055 2342731).",
-      "en": "From Via delle Porte Sante you can drive up to the forecourt (gravel surface), where you may get in and out of the car. The churchyard is reached by a short but fairly steep ramp; at the church's main door there is a high step, which can be overcome with a mobile ramp that must be requested in advance by phone (+39 055 2342731).",
-      "fr": "Depuis la Via delle Porte Sante, on peut accéder en voiture à l'esplanade devant la basilique (sol en gravier), où il est permis de monter dans la voiture et d'en descendre. On accède au parvis par une rampe courte mais assez raide ; à la porte d'entrée de l'église se trouve une marche haute, franchissable avec une rampe mobile à demander à l'avance par téléphone (+39 055 2342731).",
-      "de": "Von der Via delle Porte Sante aus kann man mit dem Auto bis zum Vorplatz fahren (Kiesboden), wo man ein- und aussteigen darf. Der Kirchhof ist über eine kurze, aber ziemlich steile Rampe erreichbar; am Hauptportal der Kirche befindet sich eine hohe Stufe, die mit einer mobilen Rampe überwunden werden kann, die vorher telefonisch angefragt werden muss (+39 055 2342731).",
-      "es": "Desde la Via delle Porte Sante se puede llegar en coche a la explanada delante de la basílica (suelo de grava), donde se permite subir y bajar del vehículo. Al atrio se accede por una rampa corta pero bastante empinada; en el portón de entrada a la iglesia hay un escalón alto, que se supera con una rampa móvil que debe solicitarse con antelación por teléfono (+39 055 2342731)."
-     }
-    }
-   }
-  },
-  {
    "id": "cimitero-delle-porte-sante",
    "nome": "Cimitero delle Porte Sante",
    "categoria": "altri",
@@ -2964,6 +2809,210 @@
     "es": "Partir – la maleta de Folon"
    },
    "curiosita": true
+  },
+  {
+   "id": "giardino-delliris",
+   "nome": "Giardino dell'Iris",
+   "categoria": "giardini",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.762172,
+   "longitudine": 11.266241,
+   "descrizione": {
+    "it": "Il Giardino dell'Iris è un giardino botanico specializzato nella coltivazione e conservazione delle diverse varietà di iris, il fiore che rappresenta da secoli uno dei simboli di Firenze.\n\nSi trova sul versante orientale della collina di Piazzale Michelangelo, in una posizione panoramica affacciata sulla città.\n\nIl giardino fu inaugurato nel maggio 1957, su progetto dell'architetto Giuliano Zetti, per ospitare il Concorso Internazionale dell'Iris, una manifestazione dedicata alla ricerca e alla selezione di nuove varietà del fiore.\n\nLa gestione è affidata alla Società Italiana dell'Iris, che cura la collezione botanica e promuove attività di studio e divulgazione.\n\nIl terreno, di circa due ettari e mezzo, comprende aiuole, percorsi in pietra, zone coltivate a oliveto e un laghetto dedicato alle varietà acquatiche, tra cui iris giapponesi e Louisiana.\n\nLa collezione comprende numerose specie e varietà provenienti da diversi Paesi. Il giardino ha quindi anche un valore scientifico e conservativo, oltre che paesaggistico.",
+    "en": "The Iris Garden is a botanical garden specialising in the cultivation and conservation of the many varieties of iris, the flower that has been one of the symbols of Florence for centuries.\n\nIt lies on the eastern slope of the Piazzale Michelangelo hill, in a panoramic position overlooking the city.\n\nThe garden was inaugurated in May 1957, designed by the architect Giuliano Zetti, to host the International Iris Competition, an event devoted to research and to selecting new varieties of the flower.\n\nIt is managed by the Italian Iris Society, which looks after the botanical collection and promotes study and outreach activities.\n\nThe grounds, of about two and a half hectares, include flower beds, stone paths, olive groves and a small pond devoted to water varieties, among them Japanese and Louisiana irises.\n\nThe collection includes numerous species and varieties from many countries. The garden therefore has scientific and conservation value as well as scenic value.",
+    "fr": "Le Jardin de l'Iris est un jardin botanique spécialisé dans la culture et la conservation des différentes variétés d'iris, la fleur qui est depuis des siècles l'un des symboles de Florence.\n\nIl se trouve sur le versant oriental de la colline de la Piazzale Michelangelo, dans une position panoramique qui domine la ville.\n\nLe jardin fut inauguré en mai 1957, sur un projet de l'architecte Giuliano Zetti, pour accueillir le Concours international de l'Iris, une manifestation consacrée à la recherche et à la sélection de nouvelles variétés de la fleur.\n\nSa gestion est confiée à la Société italienne de l'Iris, qui s'occupe de la collection botanique et promeut des activités d'étude et de vulgarisation.\n\nLe terrain, d'environ deux hectares et demi, comprend des massifs, des allées en pierre, des zones plantées d'oliviers et un petit étang consacré aux variétés aquatiques, notamment les iris japonais et de Louisiane.\n\nLa collection compte de nombreuses espèces et variétés originaires de différents pays. Le jardin a donc aussi une valeur scientifique et conservatoire, en plus de sa valeur paysagère.",
+    "de": "Der Iris-Garten ist ein botanischer Garten, der auf die Kultivierung und den Erhalt der verschiedenen Irissorten spezialisiert ist – der Blume, die seit Jahrhunderten eines der Symbole von Florenz ist.\n\nEr liegt am Osthang des Hügels der Piazzale Michelangelo, in einer Panoramalage über der Stadt.\n\nDer Garten wurde im Mai 1957 nach einem Entwurf des Architekten Giuliano Zetti eröffnet, um den Internationalen Iris-Wettbewerb auszurichten, eine Veranstaltung für Forschung und Auswahl neuer Sorten der Blume.\n\nDie Leitung liegt bei der Società Italiana dell'Iris, die die botanische Sammlung pflegt und Studien- und Vermittlungsaktivitäten fördert.\n\nDas Gelände von etwa zweieinhalb Hektar umfasst Beete, Steinwege, Olivenhaine und einen kleinen Teich für Wasseririsse, darunter japanische und Louisiana-Iris.\n\nDie Sammlung umfasst zahlreiche Arten und Sorten aus verschiedenen Ländern. Der Garten hat daher neben seinem landschaftlichen auch einen wissenschaftlichen und bewahrenden Wert.",
+    "es": "El Jardín del Iris es un jardín botánico especializado en el cultivo y la conservación de las distintas variedades de iris, la flor que desde hace siglos es uno de los símbolos de Florencia.\n\nSe encuentra en la ladera oriental de la colina de la Piazzale Michelangelo, en una posición panorámica sobre la ciudad.\n\nEl jardín fue inaugurado en mayo de 1957, según proyecto del arquitecto Giuliano Zetti, para acoger el Concurso Internacional del Iris, una manifestación dedicada a la investigación y a la selección de nuevas variedades de la flor.\n\nSu gestión está a cargo de la Sociedad Italiana del Iris, que cuida la colección botánica y promueve actividades de estudio y divulgación.\n\nEl terreno, de unas dos hectáreas y media, comprende parterres, caminos de piedra, zonas de olivar y un pequeño estanque dedicado a las variedades acuáticas, entre ellas los iris japoneses y de Luisiana.\n\nLa colección incluye numerosas especies y variedades procedentes de distintos países. El jardín tiene, por tanto, también un valor científico y conservador, además del paisajístico."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Il fiore simbolo di Firenze",
+      "en": "The flower that symbolises Florence",
+      "fr": "La fleur emblème de Florence",
+      "de": "Die Blume als Wahrzeichen von Florenz",
+      "es": "La flor símbolo de Florencia"
+     },
+     "testo": {
+      "en": "The iris has been the symbol flower of Florence since the Middle Ages. The lily on the city's coat of arms is in fact a stylised iris, traditionally shown in heraldic form.",
+      "fr": "L'iris est la fleur emblème de Florence depuis le Moyen Âge. Le lys des armoiries de la ville est en réalité un iris stylisé, traditionnellement représenté sous forme héraldique.",
+      "de": "Die Iris ist seit dem Mittelalter die Symbolblume von Florenz. Die Lilie im Stadtwappen ist in Wahrheit eine stilisierte Iris, traditionell in heraldischer Form dargestellt.",
+      "es": "El iris es la flor símbolo de Florencia desde la Edad Media. El lirio del escudo de la ciudad es en realidad un iris estilizado, representado tradicionalmente en forma heráldica.",
+      "it": "L'iris è il fiore simbolo di Firenze dal Medioevo. Il giglio dello stemma cittadino è in realtà un iris stilizzato, tradizionalmente rappresentato in forma araldica."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Una riserva di germoplasma",
+      "en": "A germplasm reserve",
+      "fr": "Une réserve de germoplasme",
+      "de": "Ein Genreservoir",
+      "es": "Una reserva de germoplasma"
+     },
+     "testo": {
+      "en": "The garden is a germplasm reserve: it preserves plant material that is important for the study and protection of the different varieties of iris.",
+      "fr": "Le jardin est une réserve de germoplasme : il conserve du matériel végétal important pour l'étude et la protection des différentes variétés d'iris.",
+      "de": "Der Garten ist ein Genreservoir: Er bewahrt Pflanzenmaterial, das für die Erforschung und den Schutz der verschiedenen Irissorten wichtig ist.",
+      "es": "El jardín es una reserva de germoplasma: conserva material vegetal importante para el estudio y la protección de las distintas variedades de iris.",
+      "it": "Il giardino è una riserva di germoplasma: conserva materiale vegetale importante per lo studio e la tutela delle diverse varietà di iris."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "10:00–18:00",
+     "periodo": "04-25/05-20"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Apertura stagionale, in coincidenza con la fioritura: nel 2026 dal 25 aprile al 20 maggio, tutti i giorni, 10:00–18:00 (ultimo ingresso 17:30). Fuori da questo periodo l'accesso può essere possibile solo su prenotazione o in occasione di iniziative specifiche: conviene verificare con la Società Italiana dell'Iris. Ingresso gratuito; è gradita un'offerta per la manutenzione del giardino. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Seasonal opening, in step with the flowering: in 2026 from 25 April to 20 May, every day, 10:00–18:00 (last entry 17:30). Outside this period access may be possible only by reservation or during special events: it is best to check with the Italian Iris Society. Entry is free; a donation towards the garden's upkeep is welcome. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Ouverture saisonnière, en fonction de la floraison : en 2026 du 25 avril au 20 mai, tous les jours, 10h00–18h00 (dernière entrée 17h30). En dehors de cette période, l'accès peut être possible uniquement sur réservation ou lors d'initiatives spécifiques : il vaut mieux vérifier auprès de la Société italienne de l'Iris. Entrée gratuite ; une offrande pour l'entretien du jardin est la bienvenue. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Saisonale Öffnung, passend zur Blütezeit: 2026 vom 25. April bis 20. Mai, täglich 10:00–18:00 Uhr (letzter Einlass 17:30 Uhr). Außerhalb dieses Zeitraums ist der Zugang nur nach Voranmeldung oder bei besonderen Veranstaltungen möglich: Am besten fragen Sie bei der Società Italiana dell'Iris nach. Der Eintritt ist frei; eine Spende für die Pflege des Gartens ist willkommen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Apertura estacional, en coincidencia con la floración: en 2026 del 25 de abril al 20 de mayo, todos los días, 10:00–18:00 (última entrada 17:30). Fuera de este periodo el acceso puede ser posible solo con reserva o con ocasión de iniciativas específicas: conviene consultar con la Sociedad Italiana del Iris. La entrada es gratuita; se agradece una aportación para el mantenimiento del jardín. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ],
+   "nomi": {
+    "en": "Giardino dell'Iris (Iris Garden)",
+    "fr": "Giardino dell'Iris (Jardin de l'Iris)",
+    "de": "Giardino dell'Iris (Iris-Garten)",
+    "es": "Giardino dell'Iris (Jardín del Iris)"
+   },
+   "curiosita": true
+  },
+  {
+   "id": "basilica-di-san-miniato-al-monte",
+   "nome": "Basilica di San Miniato al Monte",
+   "categoria": "chiese",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7659,
+   "longitudine": 11.265,
+   "descrizione": {
+    "it": "La Basilica di San Miniato al Monte è uno dei massimi capolavori del Romanico fiorentino e uno dei luoghi più suggestivi della città.\n\nSorge su una collina a sud dell'Arno, sopra Piazzale Michelangelo, in una posizione panoramica che permette di osservare Firenze dall'alto.\n\nLa tradizione cristiana identifica San Miniato come il primo martire di Firenze, morto durante le persecuzioni dell'imperatore Decio nel III secolo. Secondo la leggenda, dopo essere stato decapitato, avrebbe raccolto la propria testa e raggiunto il colle dove oggi sorge la basilica.\n\nNel 1018 il vescovo Ildebrando promosse la ricostruzione del complesso religioso. La basilica attuale si sviluppò attraverso diverse fasi costruttive tra XI e XIII secolo.\n\nLa facciata è caratterizzata da una geometria rigorosa di marmi bianchi e verdi, con un grande mosaico centrale raffigurante Cristo, la Vergine e San Miniato.\n\nL'interno conserva un ricco patrimonio artistico. Tra gli elementi più importanti si trovano il pavimento medievale intarsiato con i simboli dello Zodiaco, il presbiterio sopraelevato, il mosaico absidale e la cripta, dove sono custodite le reliquie del santo.\n\nDi particolare interesse è anche la Cappella del Cardinale del Portogallo, realizzata nel Quattrocento, con opere di Antonio e Bernardo Rossellino e decorazioni di importanti artisti del Rinascimento fiorentino.\n\nLa basilica è ancora oggi un'abbazia abitata da una comunità monastica olivetana.",
+    "en": "The Basilica of San Miniato al Monte is one of the great masterpieces of Florentine Romanesque and one of the most evocative places in the city.\n\nIt rises on a hill south of the Arno, above Piazzale Michelangelo, in a panoramic position that lets you look at Florence from above.\n\nChristian tradition identifies Saint Minias as the first martyr of Florence, put to death during the persecutions of the emperor Decius in the third century. According to legend, after being beheaded he picked up his own head and reached the hill where the basilica now stands.\n\nIn 1018 Bishop Hildebrand promoted the reconstruction of the religious complex. The present basilica developed through several building phases between the eleventh and thirteenth centuries.\n\nThe façade is marked by a rigorous geometry of white and green marble, with a large central mosaic showing Christ, the Virgin and Saint Minias.\n\nThe interior preserves a rich artistic heritage. Among the most important elements are the medieval inlaid floor with the signs of the Zodiac, the raised presbytery, the apse mosaic and the crypt, where the saint's relics are kept.\n\nOf particular interest is also the Chapel of the Cardinal of Portugal, built in the fifteenth century, with works by Antonio and Bernardo Rossellino and decorations by important artists of the Florentine Renaissance.\n\nToday the basilica is still an abbey inhabited by an Olivetan monastic community.",
+    "fr": "La basilique de San Miniato al Monte est l'un des plus grands chefs-d'œuvre du roman florentin et l'un des lieux les plus évocateurs de la ville.\n\nElle s'élève sur une colline au sud de l'Arno, au-dessus de la Piazzale Michelangelo, dans une position panoramique qui permet d'observer Florence d'en haut.\n\nLa tradition chrétienne identifie saint Miniato comme le premier martyr de Florence, mort lors des persécutions de l'empereur Dèce au IIIe siècle. Selon la légende, après avoir été décapité, il aurait ramassé sa propre tête et rejoint la colline où s'élève aujourd'hui la basilique.\n\nEn 1018, l'évêque Hildebrand promut la reconstruction du complexe religieux. La basilique actuelle s'est développée au fil de plusieurs phases de construction entre le XIe et le XIIIe siècle.\n\nLa façade se caractérise par une géométrie rigoureuse de marbres blancs et verts, avec une grande mosaïque centrale représentant le Christ, la Vierge et saint Miniato.\n\nL'intérieur conserve un riche patrimoine artistique. Parmi les éléments les plus importants figurent le pavement médiéval incrusté des signes du Zodiaque, le presbytère surélevé, la mosaïque de l'abside et la crypte, où sont conservées les reliques du saint.\n\nLa chapelle du Cardinal du Portugal, réalisée au XVe siècle, est également d'un intérêt particulier, avec des œuvres d'Antonio et Bernardo Rossellino et des décorations de grands artistes de la Renaissance florentine.\n\nAujourd'hui encore, la basilique est une abbaye habitée par une communauté monastique olivétaine.",
+    "de": "Die Basilika San Miniato al Monte ist eines der größten Meisterwerke der florentinischen Romanik und einer der eindrucksvollsten Orte der Stadt.\n\nSie erhebt sich auf einem Hügel südlich des Arno, oberhalb der Piazzale Michelangelo, in einer Panoramalage, die den Blick auf Florenz von oben erlaubt.\n\nDie christliche Überlieferung sieht im heiligen Minias den ersten Märtyrer von Florenz, der bei den Verfolgungen unter Kaiser Decius im 3. Jahrhundert starb. Der Legende nach hob er nach seiner Enthauptung seinen eigenen Kopf auf und erreichte den Hügel, auf dem heute die Basilika steht.\n\n1018 förderte Bischof Hildebrand den Wiederaufbau der Klosteranlage. Die heutige Basilika entstand in mehreren Bauphasen zwischen dem 11. und 13. Jahrhundert.\n\nDie Fassade zeichnet sich durch eine strenge Geometrie aus weißem und grünem Marmor aus, mit einem großen zentralen Mosaik, das Christus, die Jungfrau und den heiligen Minias zeigt.\n\nDas Innere bewahrt ein reiches künstlerisches Erbe. Zu den wichtigsten Elementen gehören der mittelalterliche Einlegeboden mit den Tierkreiszeichen, das erhöhte Presbyterium, das Apsismosaik und die Krypta, in der die Reliquien des Heiligen aufbewahrt werden.\n\nVon besonderem Interesse ist auch die Kapelle des Kardinals von Portugal aus dem 15. Jahrhundert, mit Werken von Antonio und Bernardo Rossellino und Dekorationen bedeutender Künstler der florentinischen Renaissance.\n\nDie Basilika ist bis heute eine Abtei, die von einer olivetanischen Mönchsgemeinschaft bewohnt wird.",
+    "es": "La basílica de San Miniato al Monte es una de las grandes obras maestras del románico florentino y uno de los lugares más sugerentes de la ciudad.\n\nSe alza sobre una colina al sur del Arno, por encima de la Piazzale Michelangelo, en una posición panorámica que permite contemplar Florencia desde lo alto.\n\nLa tradición cristiana identifica a San Miniato como el primer mártir de Florencia, muerto durante las persecuciones del emperador Decio en el siglo III. Según la leyenda, tras ser decapitado habría recogido su propia cabeza y llegado a la colina donde hoy se alza la basílica.\n\nEn 1018 el obispo Hildebrando promovió la reconstrucción del complejo religioso. La basílica actual se desarrolló a lo largo de varias fases constructivas entre los siglos XI y XIII.\n\nLa fachada se caracteriza por una geometría rigurosa de mármoles blancos y verdes, con un gran mosaico central que representa a Cristo, la Virgen y San Miniato.\n\nEl interior conserva un rico patrimonio artístico. Entre los elementos más importantes se encuentran el pavimento medieval con incrustaciones de los signos del Zodiaco, el presbiterio elevado, el mosaico del ábside y la cripta, donde se custodian las reliquias del santo.\n\nEs de especial interés también la Capilla del Cardenal de Portugal, realizada en el siglo XV, con obras de Antonio y Bernardo Rossellino y decoraciones de importantes artistas del Renacimiento florentino.\n\nHoy la basílica sigue siendo una abadía habitada por una comunidad monástica olivetana."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Una leggenda, non un fatto storico",
+      "en": "A legend, not a historical fact",
+      "fr": "Une légende, pas un fait historique",
+      "de": "Eine Legende, keine historische Tatsache",
+      "es": "Una leyenda, no un hecho histórico"
+     },
+     "testo": {
+      "en": "The legend says that Saint Minias, after being beheaded, picked up his own head and reached the hill where the basilica now stands. It is an hagiographic tradition, not a documented historical fact.",
+      "fr": "La légende raconte que saint Miniato, après avoir été décapité, aurait ramassé sa propre tête et rejoint la colline où s'élève aujourd'hui la basilique. C'est une tradition hagiographique, non un fait historique documenté.",
+      "de": "Der Legende nach hob der heilige Minias nach seiner Enthauptung seinen eigenen Kopf auf und erreichte den Hügel, auf dem heute die Basilika steht. Es handelt sich um eine hagiographische Überlieferung, nicht um eine belegte historische Tatsache.",
+      "es": "La leyenda cuenta que San Miniato, tras ser decapitado, recogió su propia cabeza y llegó a la colina donde hoy se alza la basílica. Es una tradición hagiográfica, no un hecho histórico documentado.",
+      "it": "La leggenda racconta che San Miniato, dopo essere stato decapitato, avrebbe raccolto la propria testa e raggiunto il colle dove oggi sorge la basilica. È una tradizione agiografica, non un fatto storico documentato."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Lo Zodiaco sul pavimento",
+      "en": "The Zodiac on the floor",
+      "fr": "Le Zodiaque au sol",
+      "de": "Der Tierkreis im Boden",
+      "es": "El Zodiaco en el suelo"
+     },
+     "testo": {
+      "en": "The medieval floor preserves a depiction of the Zodiac, an unusual feature of great interest for understanding medieval symbolic culture.",
+      "fr": "Le pavement médiéval conserve une représentation du Zodiaque, un élément inhabituel et d'un grand intérêt pour comprendre la culture symbolique du Moyen Âge.",
+      "de": "Der mittelalterliche Boden bewahrt eine Darstellung des Tierkreises, ein ungewöhnliches Element von großem Interesse, um die symbolische Kultur des Mittelalters zu verstehen.",
+      "es": "El pavimento medieval conserva una representación del Zodiaco, un elemento inusual y de gran interés para comprender la cultura simbólica medieval.",
+      "it": "Il pavimento medievale conserva una raffigurazione dello Zodiaco, un elemento insolito e di grande interesse per comprendere la cultura simbolica medievale."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "9:30–13:00 · 15:30–19:00"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:15–13:00 · 15:30–19:00"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Durante le celebrazioni liturgiche la basilica non è visitabile e la visita interna va rispettosa delle attività della comunità monastica. Orari: lunedì–sabato 9:30–13:00 e 15:30–19:00; domenica 8:15–13:00 e 15:30–19:00. Gli orari possono essere aggiornati dalla comunità. Ingresso gratuito; la prenotazione non è necessaria per la visita individuale. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "During liturgical celebrations the basilica cannot be visited, and visits inside should respect the activities of the monastic community. Hours: Monday–Saturday 9:30–13:00 and 15:30–19:00; Sunday 8:15–13:00 and 15:30–19:00. Hours may be updated by the community. Entry is free; no booking is needed for individual visits. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Pendant les célébrations liturgiques, la basilique ne se visite pas, et la visite intérieure doit respecter les activités de la communauté monastique. Horaires : lundi–samedi 9h30–13h00 et 15h30–19h00 ; dimanche 8h15–13h00 et 15h30–19h00. Les horaires peuvent être mis à jour par la communauté. Entrée gratuite ; la réservation n'est pas nécessaire pour la visite individuelle. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Während der liturgischen Feiern kann die Basilika nicht besichtigt werden, und der Besuch im Inneren muss die Aktivitäten der Mönchsgemeinschaft respektieren. Öffnungszeiten: Montag–Samstag 9:30–13:00 und 15:30–19:00 Uhr; Sonntag 8:15–13:00 und 15:30–19:00 Uhr. Die Zeiten können von der Gemeinschaft aktualisiert werden. Der Eintritt ist frei; für Einzelbesucher ist keine Reservierung nötig. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Durante las celebraciones litúrgicas la basílica no se puede visitar, y la visita al interior debe respetar las actividades de la comunidad monástica. Horario: lunes–sábado 9:30–13:00 y 15:30–19:00; domingo 8:15–13:00 y 15:30–19:00. La comunidad puede actualizar los horarios. La entrada es gratuita; no es necesaria reserva para la visita individual. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/sites/default/files/2025-07/note%20sull'accessibilit%C3%A0%20ai%20musei%20fiorentini%20a%20luglio%2025%20ITA.pdf",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Da Via delle Porte Sante si arriva in auto sul piazzale antistante (fondo di ghiaia), dove è consentito salire e scendere dall'auto. Il sagrato si raggiunge con una rampa corta ma abbastanza ripida; al portone d'ingresso della chiesa è presente un gradino alto, superabile con una rampa mobile da richiedere in anticipo per telefono (+39 055 2342731).",
+      "en": "From Via delle Porte Sante you can drive up to the forecourt (gravel surface), where you may get in and out of the car. The churchyard is reached by a short but fairly steep ramp; at the church's main door there is a high step, which can be overcome with a mobile ramp that must be requested in advance by phone (+39 055 2342731).",
+      "fr": "Depuis la Via delle Porte Sante, on peut accéder en voiture à l'esplanade devant la basilique (sol en gravier), où il est permis de monter dans la voiture et d'en descendre. On accède au parvis par une rampe courte mais assez raide ; à la porte d'entrée de l'église se trouve une marche haute, franchissable avec une rampe mobile à demander à l'avance par téléphone (+39 055 2342731).",
+      "de": "Von der Via delle Porte Sante aus kann man mit dem Auto bis zum Vorplatz fahren (Kiesboden), wo man ein- und aussteigen darf. Der Kirchhof ist über eine kurze, aber ziemlich steile Rampe erreichbar; am Hauptportal der Kirche befindet sich eine hohe Stufe, die mit einer mobilen Rampe überwunden werden kann, die vorher telefonisch angefragt werden muss (+39 055 2342731).",
+      "es": "Desde la Via delle Porte Sante se puede llegar en coche a la explanada delante de la basílica (suelo de grava), donde se permite subir y bajar del vehículo. Al atrio se accede por una rampa corta pero bastante empinada; en el portón de entrada a la iglesia hay un escalón alto, que se supera con una rampa móvil que debe solicitarse con antelación por teléfono (+39 055 2342731)."
+     }
+    }
+   },
+   "immagine": {
+    "autore": "Luca Aless",
+    "licenza": "CC BY-SA 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Luca_Aless"
+   },
+   "galleria": [
+    {
+     "autore": "Mykola Pokalyuk",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Mykola_Pokalyuk"
+    },
+    {
+     "autore": "Tulumnes",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Tulumnes"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    },
+    {
+     "autore": "Tulumnes",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Tulumnes"
+    }
+   ]
   }
  ]
 }
