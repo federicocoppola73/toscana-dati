@@ -1430,7 +1430,33 @@
       "es": "Recorrido TouchAble para personas con discapacidad visual."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Giovanni Serafini",
+    "licenza": "CC0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Giovanni_Serafini"
+   },
+   "galleria": [
+    {
+     "autore": "Luca Aless",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Luca_Aless"
+    },
+    {
+     "autore": "Giovanni (Italia)",
+     "licenza": "CC BY-SA 2.0",
+     "fonte": "https://www.flickr.com/photos/33115454@N04"
+    },
+    {
+     "autore": "Yair Haklai",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Yair-haklai"
+    },
+    {
+     "autore": "George M. Groutas",
+     "licenza": "CC BY 2.0"
+    }
+   ]
   },
   {
    "id": "palazzo-medici-riccardi",

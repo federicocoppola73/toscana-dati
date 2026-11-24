@@ -1,5 +1,5 @@
 {
- "versione": "52f5ba762317",
+ "versione": "14f3954870c9",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -264,6 +264,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_6.webp",
    "sha256": "ff6f348a20cc000ab9ed9b3db047468da5ee88abfd31aa823080b10e524980a2",
    "byte": 155458
+  },
+  {
+   "path": "assets/luoghi/museo-dellopera-del-duomo.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-dellopera-del-duomo.webp",
+   "sha256": "5dca022ee78b2a8d315d8d30fb5ebcf6bb0c070ba3172ea15bc913814e0eaf67",
+   "byte": 162922
+  },
+  {
+   "path": "assets/luoghi/museo-dellopera-del-duomo_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-dellopera-del-duomo_2.webp",
+   "sha256": "2687ca134a677733cfc979b2f68abdc3010fece8442ce7fe84236b35470c9bb2",
+   "byte": 103746
+  },
+  {
+   "path": "assets/luoghi/museo-dellopera-del-duomo_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-dellopera-del-duomo_3.webp",
+   "sha256": "aa2b600285226723537bddab50692f23c0421288c4f3478ac618cb1935ac0acf",
+   "byte": 161142
+  },
+  {
+   "path": "assets/luoghi/museo-dellopera-del-duomo_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-dellopera-del-duomo_4.webp",
+   "sha256": "e0af7df9b2d6a0d77d0fdb40e00d4e4803086d946cf937528f1d358fa8b635cb",
+   "byte": 45604
+  },
+  {
+   "path": "assets/luoghi/museo-dellopera-del-duomo_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-dellopera-del-duomo_5.webp",
+   "sha256": "357b76180a867f9d8a7897e1881cb5633aedfcc4b03ca00fe5137a930baa079f",
+   "byte": 61310
   },
   {
    "path": "assets/luoghi/museo-nazionale-del-bargello.webp",
@@ -3532,8 +3562,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "58a3ea0d60fa4805224fd68906d94d3c75133bfdbe8358c185b261293b2858cb",
-   "byte": 543
+   "sha256": "4921082b07211f8300bd33189b3f14c38e8abe477436f183a738f77cf0801937",
+   "byte": 577
   },
   {
    "path": "dati/itinerari.json",
@@ -3544,8 +3574,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "58228352f551bae17429bafa9d038435ab89da647b812afc6f341b23aad6a868",
-   "byte": 193642
+   "sha256": "6fb434ba3328da53ebe387ab4b20769ecf368f956a960fd5f6c48bec83504ee8",
+   "byte": 194318
   },
   {
    "path": "dati/mappa.json",
@@ -3609,12 +3639,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "1cda4aee96eb",
-   "da": "24111c33427d",
-   "data": "2026-11-23",
-   "byte": 609537
-  },
   {
    "versione": "11f19b94c628",
    "da": "1cda4aee96eb",
@@ -3757,6 +3781,17 @@
    ],
    "foto_nuove": 5,
    "byte": 871901
+  },
+  {
+   "versione": "14f3954870c9",
+   "da": "52f5ba762317",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 729619
   }
  ]
 }
