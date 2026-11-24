@@ -1,5 +1,5 @@
 {
- "versione": "3b45d6ce70e0",
+ "versione": "0a664fc40134",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -534,6 +534,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria_5.webp",
    "sha256": "f258c07fd683853859b65b5c3b2d0dcf5203da588eb91ffb07818661f512b17c",
    "byte": 97574
+  },
+  {
+   "path": "assets/luoghi/piazzale-michelangelo.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazzale-michelangelo.webp",
+   "sha256": "31eec19acb37cd0909ccb269aa49da002e0ae51d8fc43b760dbe210d52eb96f6",
+   "byte": 50798
+  },
+  {
+   "path": "assets/luoghi/piazzale-michelangelo_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazzale-michelangelo_2.webp",
+   "sha256": "37b0b447f25b9ea15e9ce7c98ad79a91b0af8a88720e601edcf558d4ab19fea7",
+   "byte": 95718
+  },
+  {
+   "path": "assets/luoghi/piazzale-michelangelo_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazzale-michelangelo_3.webp",
+   "sha256": "01d5565b5f3d5bc3cc764b250784bb9402c7f94a856d0ef9947d4d7c255fa9a4",
+   "byte": 60392
+  },
+  {
+   "path": "assets/luoghi/piazzale-michelangelo_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazzale-michelangelo_4.webp",
+   "sha256": "156de22481880242512431306dd5cb0f60d94fee8b144b648b8bdec251471d55",
+   "byte": 173728
   },
   {
    "path": "assets/luoghi/ponte-vecchio.webp",
@@ -3682,8 +3706,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "10cb430e53ea7e5d18fa3a695849627c1ca5c700212cb45307abad5b400eb6f3",
-   "byte": 687
+   "sha256": "cd6ccfeee1ed280c34980a4a2660e1f154ad7c1edd457740dea32c44d88f9954",
+   "byte": 717
   },
   {
    "path": "dati/itinerari.json",
@@ -3694,8 +3718,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "81049b14ccca31c10a851e13444858864adf3cbcb3dcda4488b9d90b5b25180f",
-   "byte": 196812
+   "sha256": "5b601818a21a9f68498e4b9d3ffa3ab4642c1b462ad80805ba3c5862a6b48462",
+   "byte": 201864
   },
   {
    "path": "dati/mappa.json",
@@ -3718,8 +3742,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "f353327d4654059512c9e7c201fdb851e738be884bc356352b0740b1743f4690",
-   "byte": 871552
+   "sha256": "4f6a95ad3180f32c66e6de1a33434256667f904ee3276d55524f670a37460567",
+   "byte": 872206
   },
   {
    "path": "dati/principali.json",
@@ -3759,12 +3783,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "b7724c8d6df2",
-   "da": "b8d3bebf57b8",
-   "data": "2026-11-23",
-   "byte": 685881
-  },
   {
    "versione": "ec0d40b1a81a",
    "da": "b7724c8d6df2",
@@ -3941,6 +3959,20 @@
    ],
    "foto_nuove": 5,
    "byte": 749969
+  },
+  {
+   "versione": "0a664fc40134",
+   "da": "3b45d6ce70e0",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Piazzale Michelangelo"
+   ],
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "descrizioni"
+   ],
+   "foto_nuove": 4,
+   "byte": 1455423
   }
  ]
 }

@@ -3491,7 +3491,7 @@
     "basilica-di-santa-croce",
     "museo-nazionale-del-bargello",
     "museo-dellopera-del-duomo",
-    "viale-dei-colli",
+    "piazzale-michelangelo",
     "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
@@ -3591,13 +3591,13 @@
       "es": "Aquí se conserva la Piedad Bandini."
      }
     },
-    "viale-dei-colli": {
+    "piazzale-michelangelo": {
      "tipo": {
-      "it": "Opera conservata",
-      "en": "Work preserved here",
-      "fr": "Œuvre conservée",
-      "de": "Hier aufbewahrtes Werk",
-      "es": "Obra conservada"
+      "it": "La copia del David",
+      "en": "The copy of the David",
+      "fr": "La copie du David",
+      "de": "Die Kopie des David",
+      "es": "La copia del David"
      },
      "testo": {
       "it": "A Piazzale Michelangelo si trova una copia in bronzo del suo David.",
@@ -6933,7 +6933,8 @@
     ]
    },
    "luoghi": [
-    "viale-dei-colli"
+    "viale-dei-colli",
+    "piazzale-michelangelo"
    ],
    "luoghiNote": {
     "viale-dei-colli": {
@@ -6945,11 +6946,27 @@
       "es": "Proyectista"
      },
      "testo": {
-      "it": "Progettò il viale tra il 1865 e il 1875 e Piazzale Michelangelo.",
-      "en": "He designed the avenue between 1865 and 1875, and Piazzale Michelangelo.",
-      "fr": "Il conçut le viale entre 1865 et 1875, ainsi que la Piazzale Michelangelo.",
-      "de": "Er entwarf den Viale zwischen 1865 und 1875 sowie die Piazzale Michelangelo.",
-      "es": "Proyectó el viale entre 1865 y 1875, y la Piazzale Michelangelo."
+      "it": "Progettò il viale tra il 1865 e il 1875.",
+      "en": "He designed the avenue between 1865 and 1875.",
+      "fr": "Il conçut le viale entre 1865 et 1875.",
+      "de": "Er entwarf den Viale zwischen 1865 und 1875.",
+      "es": "Proyectó el viale entre 1865 y 1875."
+     }
+    },
+    "piazzale-michelangelo": {
+     "tipo": {
+      "it": "Progettista",
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Planer",
+      "es": "Proyectista"
+     },
+     "testo": {
+      "it": "Progettò la terrazza panoramica e la Loggia, pensata come museo dedicato a Michelangelo.",
+      "en": "He designed the panoramic terrace and the Loggia, conceived as a museum dedicated to Michelangelo.",
+      "fr": "Il conçut la terrasse panoramique et la Loggia, pensée comme un musée consacré à Michel-Ange.",
+      "de": "Er entwarf die Aussichtsterrasse und die Loggia, die als Museum für Michelangelo gedacht war.",
+      "es": "Proyectó la terraza panorámica y la logia, pensada como museo dedicado a Miguel Ángel."
      }
     }
    },

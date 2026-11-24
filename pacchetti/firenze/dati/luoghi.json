@@ -1874,11 +1874,69 @@
    "latitudine": 43.7629,
    "longitudine": 11.2651,
    "descrizione": {
-    "it": "Il Viale dei Colli è una lunga strada panoramica che sale sulle colline a sud dell'Arno, da Porta Romana fino a Piazzale Michelangelo e al Ponte San Niccolò, per circa 5,7 chilometri.\n\nFu progettato da Giuseppe Poggi negli anni 1865–1875, quando Firenze era capitale del Regno d'Italia, come parte del piano di ampliamento della città.\n\nLungo il percorso si incontrano giardini, ville e punti di vista sulla città. Dal Piazzale Michelangelo, grande terrazza panoramica sul centro storico, si può osservare il profilo di Firenze con la cupola del Duomo; al centro del piazzale si trova una copia in bronzo del David di Michelangelo.\n\nLe Rampe del Poggi, con cascate d'acqua e giardini, collegano il piazzale al lungarno.",
-    "en": "Viale dei Colli is a long scenic road that climbs the hills south of the Arno, from Porta Romana to Piazzale Michelangelo and Ponte San Niccolò, for about 5.7 kilometres.\n\nIt was designed by Giuseppe Poggi in the years 1865–1875, when Florence was the capital of the Kingdom of Italy, as part of the city's expansion plan.\n\nAlong the way you find gardens, villas and viewpoints over the city. From Piazzale Michelangelo, a great panoramic terrace over the historic centre, you can see the profile of Florence with the dome of the Duomo; at the centre of the square stands a bronze copy of Michelangelo's David.\n\nThe Rampe del Poggi, with waterfalls and gardens, link the square to the riverside.",
-    "fr": "Le Viale dei Colli est une longue route panoramique qui monte sur les collines au sud de l'Arno, de Porta Romana jusqu'à la Piazzale Michelangelo et au Ponte San Niccolò, sur environ 5,7 kilomètres.\n\nIl fut conçu par Giuseppe Poggi dans les années 1865–1875, lorsque Florence était la capitale du Royaume d'Italie, dans le cadre du plan d'agrandissement de la ville.\n\nLe long du parcours, on rencontre des jardins, des villas et des points de vue sur la ville. Depuis la Piazzale Michelangelo, grande terrasse panoramique sur le centre historique, on observe le profil de Florence avec la coupole du Duomo ; au centre de la place se trouve une copie en bronze du David de Michel-Ange.\n\nLes Rampe del Poggi, avec leurs cascades et leurs jardins, relient la place au bord du fleuve.",
-    "de": "Der Viale dei Colli ist eine lange Panoramastraße, die auf die Hügel südlich des Arno führt, von der Porta Romana bis zur Piazzale Michelangelo und zum Ponte San Niccolò, auf etwa 5,7 Kilometern.\n\nEr wurde in den Jahren 1865–1875, als Florenz Hauptstadt des Königreichs Italien war, von Giuseppe Poggi im Rahmen des Stadterweiterungsplans entworfen.\n\nEntlang der Strecke findet man Gärten, Villen und Aussichtspunkte über die Stadt. Von der Piazzale Michelangelo, einer großen Panoramaterrasse über der Altstadt, sieht man das Profil von Florenz mit der Domkuppel; in der Mitte des Platzes steht eine Bronzekopie von Michelangelos David.\n\nDie Rampe del Poggi mit Wasserfällen und Gärten verbinden den Platz mit dem Flussufer.",
-    "es": "El Viale dei Colli es una larga carretera panorámica que sube a las colinas al sur del Arno, desde Porta Romana hasta la Piazzale Michelangelo y el Ponte San Niccolò, a lo largo de unos 5,7 kilómetros.\n\nFue proyectado por Giuseppe Poggi en los años 1865–1875, cuando Florencia era capital del Reino de Italia, como parte del plan de ensanche de la ciudad.\n\nA lo largo del recorrido se encuentran jardines, villas y miradores sobre la ciudad. Desde la Piazzale Michelangelo, gran terraza panorámica sobre el centro histórico, se contempla el perfil de Florencia con la cúpula del Duomo; en el centro de la plaza se alza una copia en bronce del David de Miguel Ángel.\n\nLas Rampe del Poggi, con cascadas y jardines, unen la plaza con la ribera."
+    "it": "Il Viale dei Colli è una lunga strada panoramica che sale sulle colline a sud dell'Arno, da Porta Romana fino a Piazzale Michelangelo e al Ponte San Niccolò, per circa 5,7 chilometri.\n\nFu progettato da Giuseppe Poggi negli anni 1865–1875, quando Firenze era capitale del Regno d'Italia, come parte del piano di ampliamento della città.\n\nLungo il percorso si incontrano giardini, ville e punti di vista sulla città. La tappa più celebre è Piazzale Michelangelo, grande terrazza panoramica sul centro storico.",
+    "en": "Viale dei Colli is a long scenic road that climbs the hills south of the Arno, from Porta Romana to Piazzale Michelangelo and Ponte San Niccolò, for about 5.7 kilometres.\n\nIt was designed by Giuseppe Poggi in the years 1865–1875, when Florence was the capital of the Kingdom of Italy, as part of the city's expansion plan.\n\nAlong the way you find gardens, villas and viewpoints over the city. The best-known stop is Piazzale Michelangelo, a great panoramic terrace over the historic centre.",
+    "fr": "Le Viale dei Colli est une longue route panoramique qui monte sur les collines au sud de l'Arno, de Porta Romana jusqu'à la Piazzale Michelangelo et au Ponte San Niccolò, sur environ 5,7 kilomètres.\n\nIl fut conçu par Giuseppe Poggi dans les années 1865–1875, lorsque Florence était la capitale du Royaume d'Italie, dans le cadre du plan d'agrandissement de la ville.\n\nLe long du parcours, on rencontre des jardins, des villas et des points de vue sur la ville. L'étape la plus célèbre est la Piazzale Michelangelo, grande terrasse panoramique sur le centre historique.",
+    "de": "Der Viale dei Colli ist eine lange Panoramastraße, die auf die Hügel südlich des Arno führt, von der Porta Romana bis zur Piazzale Michelangelo und zum Ponte San Niccolò, auf etwa 5,7 Kilometern.\n\nEr wurde in den Jahren 1865–1875, als Florenz Hauptstadt des Königreichs Italien war, von Giuseppe Poggi im Rahmen des Stadterweiterungsplans entworfen.\n\nEntlang der Strecke findet man Gärten, Villen und Aussichtspunkte über die Stadt. Die bekannteste Station ist die Piazzale Michelangelo, eine große Panoramaterrasse über der Altstadt.",
+    "es": "El Viale dei Colli es una larga carretera panorámica que sube a las colinas al sur del Arno, desde Porta Romana hasta la Piazzale Michelangelo y el Ponte San Niccolò, a lo largo de unos 5,7 kilómetros.\n\nFue proyectado por Giuseppe Poggi en los años 1865–1875, cuando Florencia era capital del Reino de Italia, como parte del plan de ensanche de la ciudad.\n\nA lo largo del recorrido se encuentran jardines, villas y puntos de vista sobre la ciudad. La parada más célebre es la Piazzale Michelangelo, gran terraza panorámica sobre el centro histórico."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Dalle mura ai viali",
+      "en": "From walls to avenues",
+      "fr": "Des remparts aux avenues",
+      "de": "Von den Mauern zu den Alleen",
+      "es": "De las murallas a las avenidas"
+     },
+     "testo": {
+      "it": "Per far posto ai nuovi viali di circonvallazione, le antiche mura medievali della città furono in gran parte abbattute.",
+      "en": "To make room for the new ring boulevards, the city's ancient medieval walls were largely demolished.",
+      "fr": "Pour faire place aux nouveaux boulevards de ceinture, les anciennes murailles médiévales de la ville furent en grande partie abattues.",
+      "de": "Um Platz für die neuen Ringstraßen zu schaffen, wurden die alten mittelalterlichen Stadtmauern größtenteils abgerissen.",
+      "es": "Para dejar espacio a los nuevos bulevares de circunvalación, las antiguas murallas medievales de la ciudad fueron en gran parte derribadas."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "sempre aperto"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Il viale è sempre accessibile e gratuito. Il tratto è percorribile a piedi, in bicicletta o con gli autobus di linea; nei giorni di maggiore affluenza il traffico può essere intenso. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The avenue is always open and free. The stretch can be covered on foot, by bicycle or by city bus; on busy days traffic can be heavy. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Le viale est toujours accessible et gratuit. Le parcours peut se faire à pied, à vélo ou en bus ; les jours de forte affluence, la circulation peut être dense. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Der Viale ist immer zugänglich und kostenlos. Die Strecke kann zu Fuß, mit dem Fahrrad oder mit dem Stadtbus zurückgelegt werden; an stark besuchten Tagen kann der Verkehr dicht sein. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "El viale es siempre accesible y gratuito. El tramo puede recorrerse a pie, en bicicleta o en autobús urbano; en los días de mayor afluencia el tráfico puede ser intenso. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "wikipedia": {
+    "it": "Viale dei Colli"
+   },
+   "nomi": {
+    "en": "Viale dei Colli (Avenue of the Hills)",
+    "fr": "Viale dei Colli (avenue des Collines)",
+    "de": "Viale dei Colli (Hügelallee)",
+    "es": "Viale dei Colli (avenida de las Colinas)"
+   }
+  },
+  {
+   "id": "piazzale-michelangelo",
+   "nome": "Piazzale Michelangelo",
+   "categoria": "piazze",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7629,
+   "longitudine": 11.265,
+   "descrizione": {
+    "it": "Una grande terrazza panoramica affacciata sul centro storico, progettata da Giuseppe Poggi nell'ambito del nuovo sistema di viali collinari ottocenteschi. Al centro si trova una copia in bronzo del David di Michelangelo, circondata da copie bronzee di alcune sue allegorie. Sul lato meridionale si trova la Loggia, concepita da Poggi come elemento architettonico del piazzale e inizialmente pensata per ospitare un museo dedicato a Michelangelo.",
+    "en": "A great panoramic terrace overlooking the historic centre, designed by Giuseppe Poggi as part of the new system of nineteenth-century hillside avenues. At its centre stands a bronze copy of Michelangelo's David, surrounded by bronze copies of some of his allegories. On the southern side is the Loggia, conceived by Poggi as an architectural element of the square and originally intended to house a museum dedicated to Michelangelo.",
+    "fr": "Une grande terrasse panoramique dominant le centre historique, conçue par Giuseppe Poggi dans le cadre du nouveau système d'avenues collinaires du XIXe siècle. Au centre se dresse une copie en bronze du David de Michel-Ange, entourée de copies en bronze de certaines de ses allégories. Du côté sud se trouve la Loggia, conçue par Poggi comme élément architectural de la place et destinée à l'origine à abriter un musée consacré à Michel-Ange.",
+    "de": "Eine große Panoramaterrasse mit Blick auf die Altstadt, von Giuseppe Poggi im Rahmen des neuen Systems der Hügelalleen des 19. Jahrhunderts entworfen. In der Mitte steht eine Bronzekopie von Michelangelos David, umgeben von Bronzekopien einiger seiner Allegorien. An der Südseite steht die Loggia, die Poggi als architektonisches Element des Platzes entwarf und die ursprünglich ein Museum für Michelangelo beherbergen sollte.",
+    "es": "Una gran terraza panorámica asomada al centro histórico, proyectada por Giuseppe Poggi dentro del nuevo sistema de avenidas de colina del siglo XIX. En el centro se encuentra una copia en bronce del David de Miguel Ángel, rodeada de copias en bronce de algunas de sus alegorías. En el lado meridional se encuentra la Logia, concebida por Poggi como elemento arquitectónico de la plaza y pensada en origen para albergar un museo dedicado a Miguel Ángel."
    },
    "lo_sapevi_che": [
     {
@@ -1908,20 +1966,41 @@
     "gratuito": true
    },
    "nota": {
-    "it": "Il viale e il Piazzale Michelangelo sono sempre accessibili e gratuiti. Il tratto è percorribile a piedi, in bicicletta o con gli autobus di linea; nei giorni di maggiore affluenza il traffico può essere intenso. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
-    "en": "The avenue and Piazzale Michelangelo are always open and free. The stretch can be covered on foot, by bicycle or by city bus; on busy days traffic can be heavy. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
-    "fr": "Le viale et la Piazzale Michelangelo sont toujours accessibles et gratuits. Le parcours peut se faire à pied, à vélo ou en bus ; les jours de forte affluence, la circulation peut être dense. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
-    "de": "Der Viale und die Piazzale Michelangelo sind immer zugänglich und kostenlos. Die Strecke kann zu Fuß, mit dem Fahrrad oder mit dem Stadtbus zurückgelegt werden; an stark besuchten Tagen kann der Verkehr dicht sein. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
-    "es": "El viale y la Piazzale Michelangelo son siempre accesibles y gratuitos. El tramo puede recorrerse a pie, en bicicleta o en autobús urbano; en los días de mayor afluencia el tráfico puede ser intenso. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+    "it": "Il piazzale è sempre accessibile e gratuito. Si raggiunge a piedi, in bicicletta o con gli autobus di linea; nei giorni di maggiore affluenza il traffico può essere intenso. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The square is always open and free. It can be reached on foot, by bicycle or by city bus; on busy days traffic can be heavy. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "La place est toujours accessible et gratuite. On y accède à pied, à vélo ou en bus ; les jours de forte affluence, la circulation peut être dense. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Der Platz ist immer zugänglich und kostenlos. Man erreicht ihn zu Fuß, mit dem Fahrrad oder mit dem Stadtbus; an stark besuchten Tagen kann der Verkehr dicht sein. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "La plaza es siempre accesible y gratuita. Se llega a pie, en bicicleta o en autobús urbano; en los días de mayor afluencia el tráfico puede ser intenso. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
    },
    "wikipedia": {
-    "it": "Viale dei Colli"
+    "it": "Piazzale Michelangelo"
    },
+   "immagine": {
+    "autore": "Diego Delso",
+    "licenza": "CC BY-SA"
+   },
+   "galleria": [
+    {
+     "autore": "Wikibusters",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Wikibusters"
+    },
+    {
+     "autore": "Rufus46",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Rufus46"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "GFDL 1.2",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ],
    "nomi": {
-    "en": "Viale dei Colli (Avenue of the Hills)",
-    "fr": "Viale dei Colli (avenue des Collines)",
-    "de": "Viale dei Colli (Hügelallee)",
-    "es": "Viale dei Colli (avenida de las Colinas)"
+    "en": "Piazzale Michelangelo (panoramic terrace)",
+    "fr": "Piazzale Michelangelo (terrasse panoramique)",
+    "de": "Piazzale Michelangelo (Aussichtsterrasse)",
+    "es": "Piazzale Michelangelo (terraza panorámica)"
    }
   }
  ]
