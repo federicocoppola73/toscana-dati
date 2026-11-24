@@ -2247,6 +2247,10 @@
     "fr": "Giardino delle Rose (Jardin des Roses)",
     "de": "Giardino delle Rose (Rosengarten)",
     "es": "Giardino delle Rose (Jardín de las Rosas)"
+   },
+   "sito": "https://www.visittuscany.com/it/attrazioni/il-giardino-delle-rose-di-firenze/",
+   "wikipedia": {
+    "en": "Giardino delle Rose"
    }
   },
   {
@@ -2312,7 +2316,8 @@
     "fr": "Église San Salvatore al Monte",
     "de": "Kirche San Salvatore al Monte",
     "es": "Iglesia de San Salvatore al Monte"
-   }
+   },
+   "sito": "https://www.feelflorence.it/en/node/12143"
   },
   {
    "id": "rampe-del-poggi",
@@ -2383,7 +2388,8 @@
     "fr": "Rampes du Poggi",
     "de": "Poggi-Rampen",
     "es": "Rampas del Poggi"
-   }
+   },
+   "sito": "https://www.feelflorence.it/en/node/43289"
   },
   {
    "id": "porta-san-niccolo",
@@ -2454,6 +2460,10 @@
     "fr": "Porte San Niccolò",
     "de": "Porta San Niccolò (Stadttor)",
     "es": "Puerta de San Niccolò"
+   },
+   "sito": "https://www.visittuscany.com/it/attrazioni/la-torre-di-san-niccolo-firenze/",
+   "wikipedia": {
+    "en": "Tower of San Niccolò, Florence"
    }
   },
   {
@@ -2519,7 +2529,8 @@
     "fr": "Parc du Bobolino",
     "de": "Bobolino-Park",
     "es": "Parque del Bobolino"
-   }
+   },
+   "sito": "https://www.feelflorence.it/en/bobolino-park-florence"
   },
   {
    "id": "porta-romana",
@@ -2590,6 +2601,10 @@
     "fr": "Porte Romaine",
     "de": "Porta Romana (Römisches Tor)",
     "es": "Puerta Romana"
+   },
+   "sito": "https://www.feelflorence.it/en/node/38101",
+   "wikipedia": {
+    "en": "Porta Romana, Florence"
    }
   },
   {
@@ -2798,6 +2813,23 @@
     "fr": "Giardino dell'Iris (Jardin de l'Iris)",
     "de": "Giardino dell'Iris (Iris-Garten)",
     "es": "Giardino dell'Iris (Jardín del Iris)"
+   },
+   "sito": "https://societaitalianairis.com/",
+   "wikipedia": {
+    "en": "Giardino dell'Iris"
+   },
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/en/node/12092",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Secondo la scheda ufficiale di Feel Florence, il giardino al momento non è accessibile a passeggini e a persone in sedia a rotelle.",
+      "en": "According to the official Feel Florence page, the garden is currently not accessible to strollers or to people in wheelchairs.",
+      "fr": "Selon la fiche officielle de Feel Florence, le jardin n'est actuellement pas accessible aux poussettes ni aux personnes en fauteuil roulant.",
+      "de": "Laut der offiziellen Seite von Feel Florence ist der Garten derzeit weder für Kinderwagen noch für Personen im Rollstuhl zugänglich.",
+      "es": "Según la ficha oficial de Feel Florence, el jardín no es accesible actualmente para cochecitos ni para personas en silla de ruedas."
+     }
+    }
    }
   },
   {
@@ -2907,7 +2939,11 @@
      "licenza": "CC BY-SA 4.0",
      "fonte": "https://commons.wikimedia.org/wiki/User:Tulumnes"
     }
-   ]
+   ],
+   "sito": "https://www.visittuscany.com/it/attrazioni/abbazia-di-san-miniato-al-monte-firenze/",
+   "wikipedia": {
+    "en": "San Miniato al Monte"
+   }
   },
   {
    "id": "cimitero-delle-porte-sante",
@@ -3035,6 +3071,10 @@
     "fr": "Cimitero delle Porte Sante (cimetière des Porte Sante)",
     "de": "Cimitero delle Porte Sante (Friedhof Porte Sante)",
     "es": "Cimitero delle Porte Sante (cementerio de las Porte Sante)"
+   },
+   "sito": "https://www.comune.fi.it/pagina/cimiteri/porte-sante-san-miniato-al-monte",
+   "wikipedia": {
+    "en": "Cimitero delle Porte Sante"
    }
   }
  ]
