@@ -1,5 +1,5 @@
 {
- "versione": "aaef746032b6",
+ "versione": "6e76f2b1194e",
  "voce": "fr-FR-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -44,6 +44,30 @@
      "secondi": 260,
      "sha256": "d1933da2a18363fb975c32655f37f06a959b7d256bd198ee768e66332c054de8",
      "testo": "ccac0854f33b501f"
+    }
+   ]
+  },
+  "basilica-di-santa-trinita": {
+   "byte": 1564936,
+   "secondi": 261,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "basilica-di-santa-trinita__esterno.mp3",
+     "byte": 724220,
+     "secondi": 121,
+     "sha256": "b80003480e826c27c8293434e39854c81bd3708dab40031bf0315b5145d140c2",
+     "testo": "d1f10779293fb8f5"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "basilica-di-santa-trinita__interno.mp3",
+     "byte": 840716,
+     "secondi": 140,
+     "sha256": "2eeab3b4f003ab0bd7a8caa726cdfc04ea950d6d8961dcd5f33e39d4de2eb069",
+     "testo": "abb798fa1dfa8c36"
     }
    ]
   },
@@ -113,6 +137,141 @@
      "secondi": 174,
      "sha256": "a966c08bffeabe7ae4f6e144b7b5cb98a7468f3e13d9065072b8c6b0ce49c54c",
      "testo": "2bd63919df3eec0f"
+    }
+   ]
+  },
+  "gallerie-degli-uffizi": {
+   "byte": 1876264,
+   "secondi": 313,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "gallerie-degli-uffizi__esterno.mp3",
+     "byte": 919052,
+     "secondi": 153,
+     "sha256": "1a9286a8505734bc1bf3bc20c529a77ef75e0c36c03249ce785ac0f9115f9761",
+     "testo": "c5626530efb3b37a"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "gallerie-degli-uffizi__interno.mp3",
+     "byte": 957212,
+     "secondi": 160,
+     "sha256": "7dd57eb4304ac1922a03067394bb77ce065ba35e4136973abd606b1c12c2594e",
+     "testo": "cdb30e0751136212"
+    }
+   ]
+  },
+  "isolotto": {
+   "byte": 1440908,
+   "secondi": 240,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "isolotto.mp3",
+     "byte": 1440908,
+     "secondi": 240,
+     "sha256": "3a2d896c5b67120a4bc8647683aff42da68be75ed224819864018d03fd24daac",
+     "testo": "e9687e75debd3e63"
+    }
+   ]
+  },
+  "museo-dellopera-del-duomo": {
+   "byte": 1729672,
+   "secondi": 288,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "museo-dellopera-del-duomo__esterno.mp3",
+     "byte": 755180,
+     "secondi": 126,
+     "sha256": "546a9b916d7f863eed9514a798ac23cdb0c4e2eb9bc2ffe26013c580fd63544e",
+     "testo": "1454cc99a67ed805"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "museo-dellopera-del-duomo__interno.mp3",
+     "byte": 974492,
+     "secondi": 162,
+     "sha256": "5e0120d880adba9c2a51c5619aa88d961e5d57a70e3e60108dcf22f0c60f8cf2",
+     "testo": "28e71c09760601e3"
+    }
+   ]
+  },
+  "museo-di-san-marco": {
+   "byte": 1530808,
+   "secondi": 255,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "museo-di-san-marco__esterno.mp3",
+     "byte": 715292,
+     "secondi": 119,
+     "sha256": "68e11b120cdf5dfc7dac77e5cdee402139d3b91c6b7511c93b8a8a10e592d1fe",
+     "testo": "b565d42332171841"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "museo-di-san-marco__interno.mp3",
+     "byte": 815516,
+     "secondi": 136,
+     "sha256": "842917cd3f0796964e3fc09e05ccbbab5445173f6df91c417c362e062e77e444",
+     "testo": "1ea11f21ae96520d"
+    }
+   ]
+  },
+  "museo-nazionale-del-bargello": {
+   "byte": 1475656,
+   "secondi": 246,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "museo-nazionale-del-bargello__esterno.mp3",
+     "byte": 741356,
+     "secondi": 124,
+     "sha256": "f40c5df8d9b82f20ee58af073827748e143b34ad60de5b764a56bc757152fbe3",
+     "testo": "e48b567a073dfee0"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "museo-nazionale-del-bargello__interno.mp3",
+     "byte": 734300,
+     "secondi": 122,
+     "sha256": "26c06974f315fe04ac8b1a015e08905f6019497fb25a8829f772a8a96115d8c9",
+     "testo": "463fbbe3dede232b"
+    }
+   ]
+  },
+  "palazzo-medici-riccardi": {
+   "byte": 1765384,
+   "secondi": 294,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "palazzo-medici-riccardi__esterno.mp3",
+     "byte": 895292,
+     "secondi": 149,
+     "sha256": "77108d73e529867b682d99e0fbf2865f23810302f3444edcdb617f7b8caa36f5",
+     "testo": "67e7c196f2edce4a"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "palazzo-medici-riccardi__interno.mp3",
+     "byte": 870092,
+     "secondi": 145,
+     "sha256": "ec9c7f372036032e146746a521dce0ab97c831a7543fe91c756886a9f7785119",
+     "testo": "220edf9da0af9636"
     }
    ]
   },
@@ -287,6 +446,21 @@
      "secondi": 222,
      "sha256": "1b9ff528e8d3821f80eba890bc88ab69b6cf08d43fee3a7be6023279c6d0129c",
      "testo": "b08bef08333a4995"
+    }
+   ]
+  },
+  "viale-dei-colli": {
+   "byte": 1539260,
+   "secondi": 257,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "viale-dei-colli.mp3",
+     "byte": 1539260,
+     "secondi": 257,
+     "sha256": "3ccd6f91179022cf93ff9d95d2c2a33fe4fed7277dd6803337c3acc3c48d9772",
+     "testo": "1574e87751ee8e03"
     }
    ]
   }
