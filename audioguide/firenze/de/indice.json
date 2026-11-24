@@ -1,5 +1,5 @@
 {
- "versione": "4db69365c2c0",
+ "versione": "706c0c09c961",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -263,6 +263,21 @@
     }
    ]
   },
+  "giardino-di-boboli": {
+   "byte": 2719772,
+   "secondi": 453,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "giardino-di-boboli.mp3",
+     "byte": 2719772,
+     "secondi": 453,
+     "sha256": "4bfd4deec9fcad20f3d9327e66ab0cfbcda071355aa787a960ae4c9d1d699f19",
+     "testo": "73946042debc3de4"
+    }
+   ]
+  },
   "isolotto": {
    "byte": 1558988,
    "secondi": 260,
@@ -279,8 +294,8 @@
    ]
   },
   "museo-delle-cappelle-medicee": {
-   "byte": 4314904,
-   "secondi": 719,
+   "byte": 4411960,
+   "secondi": 735,
    "tracce": [
     {
      "id": "esterno",
@@ -295,10 +310,10 @@
      "id": "interno",
      "titolo": "Innenraum",
      "file": "museo-delle-cappelle-medicee__interno.mp3",
-     "byte": 2999564,
-     "secondi": 500,
-     "sha256": "eeb20834da99d91bacae537575d06f06598b2c2618095755e9576494116e3c7d",
-     "testo": "7b9733bf837dce89"
+     "byte": 3096620,
+     "secondi": 516,
+     "sha256": "abff9dc9af2bfec81ab6f98559f42aefbfd12827159e8cc47bc1b6a85c845038",
+     "testo": "328d2ae57abb5675"
     }
    ]
   },
