@@ -2116,6 +2116,480 @@
     "es": "Oratorio de Santa Maria alla Querce"
    },
    "curiosita": true
+  },
+  {
+   "id": "giardino-delle-rose",
+   "nome": "Giardino delle Rose",
+   "categoria": "giardini",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7633,
+   "longitudine": 11.2652,
+   "descrizione": {
+    "it": "Il Giardino delle Rose è uno dei luoghi panoramici più suggestivi dell'Oltrarno. Si trova sul pendio della collina sotto Piazzale Michelangelo e offre una vista aperta sul centro storico di Firenze, con la cupola di Santa Maria del Fiore, Palazzo Vecchio e il corso dell'Arno sullo sfondo.\n\nLa sua origine è legata alla trasformazione urbanistica realizzata da Giuseppe Poggi durante il periodo in cui Firenze fu capitale d'Italia. Il giardino fu sistemato nella seconda metà dell'Ottocento e aperto al pubblico nel 1895, in occasione della Festa dell'Arte e dei Fiori.\n\nOggi ospita una ricca collezione botanica, con circa mille varietà di rose, comprese numerose varietà antiche. Il percorso si sviluppa su terrazze e vialetti, tra prati, alberi, aiuole e punti panoramici.\n\nUna delle caratteristiche più particolari è la presenza delle sculture dell'artista belga Jean-Michel Folon, donate alla città e collocate nel giardino nel 2011. Le opere dialogano con il paesaggio e trasformano la passeggiata in un piccolo percorso di arte contemporanea all'aperto.\n\nAll'interno si trova anche il giardino giapponese Shorai, donato dalla città di Kyoto, gemellata con Firenze.",
+    "en": "The Rose Garden is one of the most evocative viewpoints of the Oltrarno. It lies on the hillside below Piazzale Michelangelo and offers an open view over the historic centre of Florence, with the dome of Santa Maria del Fiore, Palazzo Vecchio and the course of the Arno in the background.\n\nIts origin is linked to the urban transformation carried out by Giuseppe Poggi while Florence was the capital of Italy. The garden was laid out in the second half of the nineteenth century and opened to the public in 1895, on the occasion of the Festival of Art and Flowers.\n\nToday it hosts a rich botanical collection, with about a thousand varieties of roses, including many old ones. The route winds across terraces and paths, among lawns, trees, flower beds and viewpoints.\n\nOne of its most distinctive features is the sculptures by the Belgian artist Jean-Michel Folon, donated to the city and placed in the garden in 2011. The works engage with the landscape and turn the walk into a small open-air route of contemporary art.\n\nInside there is also the Shorai Japanese garden, a gift from the city of Kyoto, twinned with Florence.",
+    "fr": "Le Jardin des Roses est l'un des points de vue les plus évocateurs de l'Oltrarno. Il se trouve sur le versant de la colline sous la Piazzale Michelangelo et offre une vue dégagée sur le centre historique de Florence, avec la coupole de Santa Maria del Fiore, le Palazzo Vecchio et le cours de l'Arno à l'arrière-plan.\n\nSon origine est liée à la transformation urbaine menée par Giuseppe Poggi à l'époque où Florence était la capitale de l'Italie. Le jardin fut aménagé dans la seconde moitié du XIXe siècle et ouvert au public en 1895, à l'occasion de la Fête de l'Art et des Fleurs.\n\nIl abrite aujourd'hui une riche collection botanique, avec environ mille variétés de roses, dont de nombreuses variétés anciennes. Le parcours se déploie sur des terrasses et des allées, entre pelouses, arbres, massifs et points de vue.\n\nL'une de ses particularités est la présence des sculptures de l'artiste belge Jean-Michel Folon, données à la ville et installées dans le jardin en 2011. Les œuvres dialoguent avec le paysage et transforment la promenade en un petit parcours d'art contemporain en plein air.\n\nOn y trouve aussi le jardin japonais Shorai, offert par la ville de Kyoto, jumelée avec Florence.",
+    "de": "Der Rosengarten ist einer der stimmungsvollsten Aussichtspunkte des Oltrarno. Er liegt am Hang unterhalb der Piazzale Michelangelo und bietet einen freien Blick auf die Altstadt von Florenz, mit der Kuppel von Santa Maria del Fiore, dem Palazzo Vecchio und dem Lauf des Arno im Hintergrund.\n\nSeine Entstehung hängt mit der städtebaulichen Umgestaltung durch Giuseppe Poggi zusammen, als Florenz Hauptstadt Italiens war. Der Garten wurde in der zweiten Hälfte des 19. Jahrhunderts angelegt und 1895 anlässlich des Fests der Kunst und der Blumen für die Öffentlichkeit geöffnet.\n\nHeute beherbergt er eine reiche botanische Sammlung mit rund tausend Rosensorten, darunter viele alte Sorten. Der Rundgang führt über Terrassen und Wege, vorbei an Wiesen, Bäumen, Beeten und Aussichtspunkten.\n\nEine der Besonderheiten sind die Skulpturen des belgischen Künstlers Jean-Michel Folon, die der Stadt geschenkt und 2011 im Garten aufgestellt wurden. Die Werke treten in einen Dialog mit der Landschaft und machen den Spaziergang zu einem kleinen Freiluftparcours zeitgenössischer Kunst.\n\nIm Garten befindet sich außerdem der japanische Shorai-Garten, ein Geschenk der Partnerstadt Kyoto.",
+    "es": "El Jardín de las Rosas es uno de los miradores más sugerentes del Oltrarno. Se encuentra en la ladera de la colina bajo la Piazzale Michelangelo y ofrece una vista abierta del centro histórico de Florencia, con la cúpula de Santa Maria del Fiore, el Palazzo Vecchio y el curso del Arno al fondo.\n\nSu origen está ligado a la transformación urbanística realizada por Giuseppe Poggi cuando Florencia era la capital de Italia. El jardín se acondicionó en la segunda mitad del siglo XIX y se abrió al público en 1895, con motivo de la Fiesta del Arte y de las Flores.\n\nHoy alberga una rica colección botánica, con unas mil variedades de rosas, entre ellas muchas antiguas. El recorrido se desarrolla en terrazas y senderos, entre praderas, árboles, parterres y miradores.\n\nUna de sus características más singulares son las esculturas del artista belga Jean-Michel Folon, donadas a la ciudad e instaladas en el jardín en 2011. Las obras dialogan con el paisaje y convierten el paseo en un pequeño recorrido de arte contemporáneo al aire libre.\n\nEn el interior se encuentra también el jardín japonés Shorai, regalo de la ciudad de Kioto, hermanada con Florencia."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Il giardino giapponese Shorai",
+      "en": "The Shorai Japanese garden",
+      "fr": "Le jardin japonais Shorai",
+      "de": "Der japanische Shorai-Garten",
+      "es": "El jardín japonés Shorai"
+     },
+     "testo": {
+      "en": "The Shorai Japanese garden was donated to Florence by the city of Kyoto and represents the bond between the two cities.",
+      "fr": "Le jardin japonais Shorai a été offert à Florence par la ville de Kyoto et représente le lien entre les deux villes.",
+      "de": "Der japanische Shorai-Garten wurde Florenz von der Stadt Kyoto geschenkt und steht für die Verbundenheit der beiden Städte.",
+      "es": "El jardín japonés Shorai fue donado a Florencia por la ciudad de Kioto y representa el vínculo entre ambas ciudades.",
+      "it": "Il giardino giapponese Shorai è stato donato a Firenze dalla città di Kyoto e rappresenta il legame tra le due città."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Le opere di Folon",
+      "en": "Folon's works",
+      "fr": "Les œuvres de Folon",
+      "de": "Folons Werke",
+      "es": "Las obras de Folon"
+     },
+     "testo": {
+      "en": "Folon's works were not conceived as mere decorations: they are meant to be seen together with the landscape and the view over the city.",
+      "fr": "Les œuvres de Folon n'ont pas été conçues comme de simples décorations : elles sont pensées pour être regardées avec le paysage et la vue sur la ville.",
+      "de": "Folons Werke sind nicht als bloße Dekoration gedacht: Sie sollen zusammen mit der Landschaft und dem Blick auf die Stadt betrachtet werden.",
+      "es": "Las obras de Folon no fueron concebidas como simples adornos: están pensadas para contemplarse junto con el paisaje y la vista sobre la ciudad.",
+      "it": "Le opere di Folon non sono state concepite come semplici decorazioni: sono pensate per essere osservate insieme al paesaggio e alla vista sulla città."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "9:00–17:00",
+     "periodo": "01-01/02-28"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–18:00",
+     "periodo": "03-01/03-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–19:00",
+     "periodo": "04-01/04-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–20:00",
+     "periodo": "05-01/09-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–18:00",
+     "periodo": "10-01/10-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–17:00",
+     "periodo": "11-01/12-31"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Le sculture di Folon, tra cui «Partir», si trovano all'interno del giardino (vedi Luoghi curiosi). Gli orari possono variare per manutenzione o condizioni meteorologiche. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Folon's sculptures, including “Partir”, are inside the garden (see Curious places). Opening hours may change for maintenance or weather conditions. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Les sculptures de Folon, dont « Partir », se trouvent dans le jardin (voir Lieux insolites). Les horaires peuvent varier pour des raisons d'entretien ou de météo. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Folons Skulpturen, darunter „Partir“, befinden sich im Garten (siehe Kuriose Orte). Die Öffnungszeiten können wegen Wartungsarbeiten oder Wetterbedingungen abweichen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Las esculturas de Folon, entre ellas «Partir», están dentro del jardín (véase Lugares curiosos). Los horarios pueden variar por mantenimiento o condiciones meteorológicas. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ],
+   "nomi": {
+    "en": "Giardino delle Rose (Rose Garden)",
+    "fr": "Giardino delle Rose (Jardin des Roses)",
+    "de": "Giardino delle Rose (Rosengarten)",
+    "es": "Giardino delle Rose (Jardín de las Rosas)"
+   }
+  },
+  {
+   "id": "partir-la-valigia-di-folon",
+   "nome": "Partir – la valigia di Folon",
+   "categoria": "altri",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7633,
+   "longitudine": 11.2652,
+   "descrizione": {
+    "it": "Partir è una delle sculture più conosciute dell'artista belga Jean-Michel Folon, collocata nel Giardino delle Rose di Firenze.\n\nL'opera rappresenta una grande valigia aperta, attraverso la quale il visitatore può osservare il panorama della città. La scultura trasforma un gesto quotidiano, quello di partire e portare con sé i propri oggetti, in una riflessione sul viaggio, sulla memoria e sulla scoperta.\n\nLa valigia diventa una cornice attraverso cui Firenze appare come un paesaggio da conservare nella memoria. Il visitatore è invitato a fermarsi, guardare e immaginare il proprio viaggio.\n\nPartir fa parte del gruppo di opere di Folon presenti nel giardino, donate alla città dalla vedova dell'artista e installate nel 2011.\n\nNon è un monumento isolato: il suo significato emerge soprattutto dal rapporto con il verde, con le altre sculture e con la vista sul centro storico.",
+    "en": "Partir is one of the best-known sculptures by the Belgian artist Jean-Michel Folon, placed in the Rose Garden in Florence.\n\nThe work is a large open suitcase through which the visitor can look at the panorama of the city. The sculpture turns an everyday gesture, leaving and taking one's belongings along, into a reflection on travel, memory and discovery.\n\nThe suitcase becomes a frame through which Florence appears as a landscape to keep in memory. Visitors are invited to stop, look and imagine their own journey.\n\nPartir belongs to the group of Folon works in the garden, donated to the city by the artist's widow and installed in 2011.\n\nIt is not an isolated monument: its meaning emerges above all from its relationship with the greenery, with the other sculptures and with the view over the historic centre.",
+    "fr": "Partir est l'une des sculptures les plus connues de l'artiste belge Jean-Michel Folon, installée dans le Jardin des Roses de Florence.\n\nL'œuvre représente une grande valise ouverte à travers laquelle le visiteur peut observer le panorama de la ville. La sculpture transforme un geste quotidien, partir en emportant ses affaires, en une réflexion sur le voyage, la mémoire et la découverte.\n\nLa valise devient un cadre à travers lequel Florence apparaît comme un paysage à garder en mémoire. Le visiteur est invité à s'arrêter, à regarder et à imaginer son propre voyage.\n\nPartir fait partie du groupe d'œuvres de Folon présentes dans le jardin, données à la ville par la veuve de l'artiste et installées en 2011.\n\nCe n'est pas un monument isolé : son sens naît surtout de son rapport avec la verdure, avec les autres sculptures et avec la vue sur le centre historique.",
+    "de": "Partir ist eine der bekanntesten Skulpturen des belgischen Künstlers Jean-Michel Folon und steht im Rosengarten von Florenz.\n\nDas Werk stellt einen großen offenen Koffer dar, durch den die Besucher das Panorama der Stadt betrachten können. Die Skulptur macht aus einer alltäglichen Geste – aufzubrechen und seine Sachen mitzunehmen – eine Reflexion über Reise, Erinnerung und Entdeckung.\n\nDer Koffer wird zum Rahmen, durch den Florenz als Landschaft erscheint, die man im Gedächtnis bewahren möchte. Die Besucher sind eingeladen, innezuhalten, zu schauen und sich ihre eigene Reise vorzustellen.\n\nPartir gehört zur Gruppe der Folon-Werke im Garten, die der Stadt von der Witwe des Künstlers geschenkt und 2011 aufgestellt wurden.\n\nEs ist kein isoliertes Denkmal: Seine Bedeutung ergibt sich vor allem aus dem Zusammenspiel mit dem Grün, den anderen Skulpturen und dem Blick auf die Altstadt.",
+    "es": "Partir es una de las esculturas más conocidas del artista belga Jean-Michel Folon, situada en el Jardín de las Rosas de Florencia.\n\nLa obra representa una gran maleta abierta a través de la cual el visitante puede contemplar el panorama de la ciudad. La escultura convierte un gesto cotidiano, partir llevándose sus cosas, en una reflexión sobre el viaje, la memoria y el descubrimiento.\n\nLa maleta se convierte en un marco a través del cual Florencia aparece como un paisaje que conservar en la memoria. Se invita al visitante a detenerse, mirar e imaginar su propio viaje.\n\nPartir forma parte del grupo de obras de Folon presentes en el jardín, donadas a la ciudad por la viuda del artista e instaladas en 2011.\n\nNo es un monumento aislado: su significado surge sobre todo de la relación con el verde, con las demás esculturas y con la vista sobre el centro histórico."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Un titolo che significa «partire»",
+      "en": "A title that means “to leave”",
+      "fr": "Un titre qui signifie « partir »",
+      "de": "Ein Titel, der „abreisen“ bedeutet",
+      "es": "Un título que significa «partir»"
+     },
+     "testo": {
+      "en": "The title Partir means “to leave” in French: the suitcase becomes the symbol of travel, but also of the memory of what we leave behind.",
+      "fr": "Le titre Partir signifie « partir » : la valise devient le symbole du voyage, mais aussi de la mémoire de ce que nous laissons derrière nous.",
+      "de": "Der Titel Partir bedeutet auf Französisch „abreisen“: Der Koffer wird zum Symbol der Reise, aber auch der Erinnerung an das, was wir zurücklassen.",
+      "es": "El título Partir significa «marcharse» en francés: la maleta se convierte en el símbolo del viaje, pero también de la memoria de lo que dejamos atrás.",
+      "it": "Il titolo Partir significa partire in francese: la valigia diventa il simbolo del viaggio, ma anche della memoria di ciò che lasciamo alle spalle."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Altre opere di Folon",
+      "en": "Other works by Folon",
+      "fr": "Autres œuvres de Folon",
+      "de": "Weitere Werke von Folon",
+      "es": "Otras obras de Folon"
+     },
+     "testo": {
+      "en": "The Rose Garden holds other works by Folon, including Je me souviens, Chat and L'Envol.",
+      "fr": "Le Jardin des Roses abrite d'autres œuvres de Folon, dont Je me souviens, Chat et L'Envol.",
+      "de": "Im Rosengarten stehen weitere Werke von Folon, darunter Je me souviens, Chat und L'Envol.",
+      "es": "En el Jardín de las Rosas se encuentran otras obras de Folon, entre ellas Je me souviens, Chat y L'Envol.",
+      "it": "Nel Giardino delle Rose sono presenti altre opere di Folon, tra cui Je me souviens, Chat e L'Envol."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "9:00–17:00",
+     "periodo": "01-01/02-28"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–18:00",
+     "periodo": "03-01/03-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–19:00",
+     "periodo": "04-01/04-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–20:00",
+     "periodo": "05-01/09-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–18:00",
+     "periodo": "10-01/10-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–17:00",
+     "periodo": "11-01/12-31"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Si trova all'interno del Giardino delle Rose, di cui segue gli orari; non esiste un biglietto separato per la scultura. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "It stands inside the Rose Garden and follows its opening hours; there is no separate ticket for the sculpture. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Elle se trouve dans le Jardin des Roses, dont elle suit les horaires ; il n'existe pas de billet séparé pour la sculpture. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Sie steht im Rosengarten und folgt dessen Öffnungszeiten; für die Skulptur gibt es kein separates Ticket. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Se encuentra dentro del Jardín de las Rosas, cuyo horario sigue; no existe una entrada aparte para la escultura. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "Partir – Folon's suitcase",
+    "fr": "Partir – la valise de Folon",
+    "de": "Partir – Folons Koffer",
+    "es": "Partir – la maleta de Folon"
+   },
+   "curiosita": true
+  },
+  {
+   "id": "giardino-delliris",
+   "nome": "Giardino dell'Iris",
+   "categoria": "giardini",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.762172,
+   "longitudine": 11.266241,
+   "descrizione": {
+    "it": "Il Giardino dell'Iris è un giardino botanico specializzato nella coltivazione e conservazione delle diverse varietà di iris, il fiore che rappresenta da secoli uno dei simboli di Firenze.\n\nSi trova sul versante orientale della collina di Piazzale Michelangelo, in una posizione panoramica affacciata sulla città.\n\nIl giardino fu inaugurato nel maggio 1957, su progetto dell'architetto Giuliano Zetti, per ospitare il Concorso Internazionale dell'Iris, una manifestazione dedicata alla ricerca e alla selezione di nuove varietà del fiore.\n\nLa gestione è affidata alla Società Italiana dell'Iris, che cura la collezione botanica e promuove attività di studio e divulgazione.\n\nIl terreno, di circa due ettari e mezzo, comprende aiuole, percorsi in pietra, zone coltivate a oliveto e un laghetto dedicato alle varietà acquatiche, tra cui iris giapponesi e Louisiana.\n\nLa collezione comprende numerose specie e varietà provenienti da diversi Paesi. Il giardino ha quindi anche un valore scientifico e conservativo, oltre che paesaggistico.",
+    "en": "The Iris Garden is a botanical garden specialising in the cultivation and conservation of the many varieties of iris, the flower that has been one of the symbols of Florence for centuries.\n\nIt lies on the eastern slope of the Piazzale Michelangelo hill, in a panoramic position overlooking the city.\n\nThe garden was inaugurated in May 1957, designed by the architect Giuliano Zetti, to host the International Iris Competition, an event devoted to research and to selecting new varieties of the flower.\n\nIt is managed by the Italian Iris Society, which looks after the botanical collection and promotes study and outreach activities.\n\nThe grounds, of about two and a half hectares, include flower beds, stone paths, olive groves and a small pond devoted to water varieties, among them Japanese and Louisiana irises.\n\nThe collection includes numerous species and varieties from many countries. The garden therefore has scientific and conservation value as well as scenic value.",
+    "fr": "Le Jardin de l'Iris est un jardin botanique spécialisé dans la culture et la conservation des différentes variétés d'iris, la fleur qui est depuis des siècles l'un des symboles de Florence.\n\nIl se trouve sur le versant oriental de la colline de la Piazzale Michelangelo, dans une position panoramique qui domine la ville.\n\nLe jardin fut inauguré en mai 1957, sur un projet de l'architecte Giuliano Zetti, pour accueillir le Concours international de l'Iris, une manifestation consacrée à la recherche et à la sélection de nouvelles variétés de la fleur.\n\nSa gestion est confiée à la Société italienne de l'Iris, qui s'occupe de la collection botanique et promeut des activités d'étude et de vulgarisation.\n\nLe terrain, d'environ deux hectares et demi, comprend des massifs, des allées en pierre, des zones plantées d'oliviers et un petit étang consacré aux variétés aquatiques, notamment les iris japonais et de Louisiane.\n\nLa collection compte de nombreuses espèces et variétés originaires de différents pays. Le jardin a donc aussi une valeur scientifique et conservatoire, en plus de sa valeur paysagère.",
+    "de": "Der Iris-Garten ist ein botanischer Garten, der auf die Kultivierung und den Erhalt der verschiedenen Irissorten spezialisiert ist – der Blume, die seit Jahrhunderten eines der Symbole von Florenz ist.\n\nEr liegt am Osthang des Hügels der Piazzale Michelangelo, in einer Panoramalage über der Stadt.\n\nDer Garten wurde im Mai 1957 nach einem Entwurf des Architekten Giuliano Zetti eröffnet, um den Internationalen Iris-Wettbewerb auszurichten, eine Veranstaltung für Forschung und Auswahl neuer Sorten der Blume.\n\nDie Leitung liegt bei der Società Italiana dell'Iris, die die botanische Sammlung pflegt und Studien- und Vermittlungsaktivitäten fördert.\n\nDas Gelände von etwa zweieinhalb Hektar umfasst Beete, Steinwege, Olivenhaine und einen kleinen Teich für Wasseririsse, darunter japanische und Louisiana-Iris.\n\nDie Sammlung umfasst zahlreiche Arten und Sorten aus verschiedenen Ländern. Der Garten hat daher neben seinem landschaftlichen auch einen wissenschaftlichen und bewahrenden Wert.",
+    "es": "El Jardín del Iris es un jardín botánico especializado en el cultivo y la conservación de las distintas variedades de iris, la flor que desde hace siglos es uno de los símbolos de Florencia.\n\nSe encuentra en la ladera oriental de la colina de la Piazzale Michelangelo, en una posición panorámica sobre la ciudad.\n\nEl jardín fue inaugurado en mayo de 1957, según proyecto del arquitecto Giuliano Zetti, para acoger el Concurso Internacional del Iris, una manifestación dedicada a la investigación y a la selección de nuevas variedades de la flor.\n\nSu gestión está a cargo de la Sociedad Italiana del Iris, que cuida la colección botánica y promueve actividades de estudio y divulgación.\n\nEl terreno, de unas dos hectáreas y media, comprende parterres, caminos de piedra, zonas de olivar y un pequeño estanque dedicado a las variedades acuáticas, entre ellas los iris japoneses y de Luisiana.\n\nLa colección incluye numerosas especies y variedades procedentes de distintos países. El jardín tiene, por tanto, también un valor científico y conservador, además del paisajístico."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Il fiore simbolo di Firenze",
+      "en": "The flower that symbolises Florence",
+      "fr": "La fleur emblème de Florence",
+      "de": "Die Blume als Wahrzeichen von Florenz",
+      "es": "La flor símbolo de Florencia"
+     },
+     "testo": {
+      "en": "The iris has been the symbol flower of Florence since the Middle Ages. The lily on the city's coat of arms is in fact a stylised iris, traditionally shown in heraldic form.",
+      "fr": "L'iris est la fleur emblème de Florence depuis le Moyen Âge. Le lys des armoiries de la ville est en réalité un iris stylisé, traditionnellement représenté sous forme héraldique.",
+      "de": "Die Iris ist seit dem Mittelalter die Symbolblume von Florenz. Die Lilie im Stadtwappen ist in Wahrheit eine stilisierte Iris, traditionell in heraldischer Form dargestellt.",
+      "es": "El iris es la flor símbolo de Florencia desde la Edad Media. El lirio del escudo de la ciudad es en realidad un iris estilizado, representado tradicionalmente en forma heráldica.",
+      "it": "L'iris è il fiore simbolo di Firenze dal Medioevo. Il giglio dello stemma cittadino è in realtà un iris stilizzato, tradizionalmente rappresentato in forma araldica."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Una riserva di germoplasma",
+      "en": "A germplasm reserve",
+      "fr": "Une réserve de germoplasme",
+      "de": "Ein Genreservoir",
+      "es": "Una reserva de germoplasma"
+     },
+     "testo": {
+      "en": "The garden is a germplasm reserve: it preserves plant material that is important for the study and protection of the different varieties of iris.",
+      "fr": "Le jardin est une réserve de germoplasme : il conserve du matériel végétal important pour l'étude et la protection des différentes variétés d'iris.",
+      "de": "Der Garten ist ein Genreservoir: Er bewahrt Pflanzenmaterial, das für die Erforschung und den Schutz der verschiedenen Irissorten wichtig ist.",
+      "es": "El jardín es una reserva de germoplasma: conserva material vegetal importante para el estudio y la protección de las distintas variedades de iris.",
+      "it": "Il giardino è una riserva di germoplasma: conserva materiale vegetale importante per lo studio e la tutela delle diverse varietà di iris."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "10:00–18:00",
+     "periodo": "04-25/05-20"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Apertura stagionale, in coincidenza con la fioritura: nel 2026 dal 25 aprile al 20 maggio, tutti i giorni, 10:00–18:00 (ultimo ingresso 17:30). Fuori da questo periodo l'accesso può essere possibile solo su prenotazione o in occasione di iniziative specifiche: conviene verificare con la Società Italiana dell'Iris. Ingresso gratuito; è gradita un'offerta per la manutenzione del giardino. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Seasonal opening, in step with the flowering: in 2026 from 25 April to 20 May, every day, 10:00–18:00 (last entry 17:30). Outside this period access may be possible only by reservation or during special events: it is best to check with the Italian Iris Society. Entry is free; a donation towards the garden's upkeep is welcome. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Ouverture saisonnière, en fonction de la floraison : en 2026 du 25 avril au 20 mai, tous les jours, 10h00–18h00 (dernière entrée 17h30). En dehors de cette période, l'accès peut être possible uniquement sur réservation ou lors d'initiatives spécifiques : il vaut mieux vérifier auprès de la Société italienne de l'Iris. Entrée gratuite ; une offrande pour l'entretien du jardin est la bienvenue. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Saisonale Öffnung, passend zur Blütezeit: 2026 vom 25. April bis 20. Mai, täglich 10:00–18:00 Uhr (letzter Einlass 17:30 Uhr). Außerhalb dieses Zeitraums ist der Zugang nur nach Voranmeldung oder bei besonderen Veranstaltungen möglich: Am besten fragen Sie bei der Società Italiana dell'Iris nach. Der Eintritt ist frei; eine Spende für die Pflege des Gartens ist willkommen. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Apertura estacional, en coincidencia con la floración: en 2026 del 25 de abril al 20 de mayo, todos los días, 10:00–18:00 (última entrada 17:30). Fuera de este periodo el acceso puede ser posible solo con reserva o con ocasión de iniciativas específicas: conviene consultar con la Sociedad Italiana del Iris. La entrada es gratuita; se agradece una aportación para el mantenimiento del jardín. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "Giardino dell'Iris (Iris Garden)",
+    "fr": "Giardino dell'Iris (Jardin de l'Iris)",
+    "de": "Giardino dell'Iris (Iris-Garten)",
+    "es": "Giardino dell'Iris (Jardín del Iris)"
+   },
+   "curiosita": true
+  },
+  {
+   "id": "basilica-di-san-miniato-al-monte",
+   "nome": "Basilica di San Miniato al Monte",
+   "categoria": "chiese",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7659,
+   "longitudine": 11.265,
+   "descrizione": {
+    "it": "La Basilica di San Miniato al Monte è uno dei massimi capolavori del Romanico fiorentino e uno dei luoghi più suggestivi della città.\n\nSorge su una collina a sud dell'Arno, sopra Piazzale Michelangelo, in una posizione panoramica che permette di osservare Firenze dall'alto.\n\nLa tradizione cristiana identifica San Miniato come il primo martire di Firenze, morto durante le persecuzioni dell'imperatore Decio nel III secolo. Secondo la leggenda, dopo essere stato decapitato, avrebbe raccolto la propria testa e raggiunto il colle dove oggi sorge la basilica.\n\nNel 1018 il vescovo Ildebrando promosse la ricostruzione del complesso religioso. La basilica attuale si sviluppò attraverso diverse fasi costruttive tra XI e XIII secolo.\n\nLa facciata è caratterizzata da una geometria rigorosa di marmi bianchi e verdi, con un grande mosaico centrale raffigurante Cristo, la Vergine e San Miniato.\n\nL'interno conserva un ricco patrimonio artistico. Tra gli elementi più importanti si trovano il pavimento medievale intarsiato con i simboli dello Zodiaco, il presbiterio sopraelevato, il mosaico absidale e la cripta, dove sono custodite le reliquie del santo.\n\nDi particolare interesse è anche la Cappella del Cardinale del Portogallo, realizzata nel Quattrocento, con opere di Antonio e Bernardo Rossellino e decorazioni di importanti artisti del Rinascimento fiorentino.\n\nLa basilica è ancora oggi un'abbazia abitata da una comunità monastica olivetana.",
+    "en": "The Basilica of San Miniato al Monte is one of the great masterpieces of Florentine Romanesque and one of the most evocative places in the city.\n\nIt rises on a hill south of the Arno, above Piazzale Michelangelo, in a panoramic position that lets you look at Florence from above.\n\nChristian tradition identifies Saint Minias as the first martyr of Florence, put to death during the persecutions of the emperor Decius in the third century. According to legend, after being beheaded he picked up his own head and reached the hill where the basilica now stands.\n\nIn 1018 Bishop Hildebrand promoted the reconstruction of the religious complex. The present basilica developed through several building phases between the eleventh and thirteenth centuries.\n\nThe façade is marked by a rigorous geometry of white and green marble, with a large central mosaic showing Christ, the Virgin and Saint Minias.\n\nThe interior preserves a rich artistic heritage. Among the most important elements are the medieval inlaid floor with the signs of the Zodiac, the raised presbytery, the apse mosaic and the crypt, where the saint's relics are kept.\n\nOf particular interest is also the Chapel of the Cardinal of Portugal, built in the fifteenth century, with works by Antonio and Bernardo Rossellino and decorations by important artists of the Florentine Renaissance.\n\nToday the basilica is still an abbey inhabited by an Olivetan monastic community.",
+    "fr": "La basilique de San Miniato al Monte est l'un des plus grands chefs-d'œuvre du roman florentin et l'un des lieux les plus évocateurs de la ville.\n\nElle s'élève sur une colline au sud de l'Arno, au-dessus de la Piazzale Michelangelo, dans une position panoramique qui permet d'observer Florence d'en haut.\n\nLa tradition chrétienne identifie saint Miniato comme le premier martyr de Florence, mort lors des persécutions de l'empereur Dèce au IIIe siècle. Selon la légende, après avoir été décapité, il aurait ramassé sa propre tête et rejoint la colline où s'élève aujourd'hui la basilique.\n\nEn 1018, l'évêque Hildebrand promut la reconstruction du complexe religieux. La basilique actuelle s'est développée au fil de plusieurs phases de construction entre le XIe et le XIIIe siècle.\n\nLa façade se caractérise par une géométrie rigoureuse de marbres blancs et verts, avec une grande mosaïque centrale représentant le Christ, la Vierge et saint Miniato.\n\nL'intérieur conserve un riche patrimoine artistique. Parmi les éléments les plus importants figurent le pavement médiéval incrusté des signes du Zodiaque, le presbytère surélevé, la mosaïque de l'abside et la crypte, où sont conservées les reliques du saint.\n\nLa chapelle du Cardinal du Portugal, réalisée au XVe siècle, est également d'un intérêt particulier, avec des œuvres d'Antonio et Bernardo Rossellino et des décorations de grands artistes de la Renaissance florentine.\n\nAujourd'hui encore, la basilique est une abbaye habitée par une communauté monastique olivétaine.",
+    "de": "Die Basilika San Miniato al Monte ist eines der größten Meisterwerke der florentinischen Romanik und einer der eindrucksvollsten Orte der Stadt.\n\nSie erhebt sich auf einem Hügel südlich des Arno, oberhalb der Piazzale Michelangelo, in einer Panoramalage, die den Blick auf Florenz von oben erlaubt.\n\nDie christliche Überlieferung sieht im heiligen Minias den ersten Märtyrer von Florenz, der bei den Verfolgungen unter Kaiser Decius im 3. Jahrhundert starb. Der Legende nach hob er nach seiner Enthauptung seinen eigenen Kopf auf und erreichte den Hügel, auf dem heute die Basilika steht.\n\n1018 förderte Bischof Hildebrand den Wiederaufbau der Klosteranlage. Die heutige Basilika entstand in mehreren Bauphasen zwischen dem 11. und 13. Jahrhundert.\n\nDie Fassade zeichnet sich durch eine strenge Geometrie aus weißem und grünem Marmor aus, mit einem großen zentralen Mosaik, das Christus, die Jungfrau und den heiligen Minias zeigt.\n\nDas Innere bewahrt ein reiches künstlerisches Erbe. Zu den wichtigsten Elementen gehören der mittelalterliche Einlegeboden mit den Tierkreiszeichen, das erhöhte Presbyterium, das Apsismosaik und die Krypta, in der die Reliquien des Heiligen aufbewahrt werden.\n\nVon besonderem Interesse ist auch die Kapelle des Kardinals von Portugal aus dem 15. Jahrhundert, mit Werken von Antonio und Bernardo Rossellino und Dekorationen bedeutender Künstler der florentinischen Renaissance.\n\nDie Basilika ist bis heute eine Abtei, die von einer olivetanischen Mönchsgemeinschaft bewohnt wird.",
+    "es": "La basílica de San Miniato al Monte es una de las grandes obras maestras del románico florentino y uno de los lugares más sugerentes de la ciudad.\n\nSe alza sobre una colina al sur del Arno, por encima de la Piazzale Michelangelo, en una posición panorámica que permite contemplar Florencia desde lo alto.\n\nLa tradición cristiana identifica a San Miniato como el primer mártir de Florencia, muerto durante las persecuciones del emperador Decio en el siglo III. Según la leyenda, tras ser decapitado habría recogido su propia cabeza y llegado a la colina donde hoy se alza la basílica.\n\nEn 1018 el obispo Hildebrando promovió la reconstrucción del complejo religioso. La basílica actual se desarrolló a lo largo de varias fases constructivas entre los siglos XI y XIII.\n\nLa fachada se caracteriza por una geometría rigurosa de mármoles blancos y verdes, con un gran mosaico central que representa a Cristo, la Virgen y San Miniato.\n\nEl interior conserva un rico patrimonio artístico. Entre los elementos más importantes se encuentran el pavimento medieval con incrustaciones de los signos del Zodiaco, el presbiterio elevado, el mosaico del ábside y la cripta, donde se custodian las reliquias del santo.\n\nEs de especial interés también la Capilla del Cardenal de Portugal, realizada en el siglo XV, con obras de Antonio y Bernardo Rossellino y decoraciones de importantes artistas del Renacimiento florentino.\n\nHoy la basílica sigue siendo una abadía habitada por una comunidad monástica olivetana."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Una leggenda, non un fatto storico",
+      "en": "A legend, not a historical fact",
+      "fr": "Une légende, pas un fait historique",
+      "de": "Eine Legende, keine historische Tatsache",
+      "es": "Una leyenda, no un hecho histórico"
+     },
+     "testo": {
+      "en": "The legend says that Saint Minias, after being beheaded, picked up his own head and reached the hill where the basilica now stands. It is an hagiographic tradition, not a documented historical fact.",
+      "fr": "La légende raconte que saint Miniato, après avoir été décapité, aurait ramassé sa propre tête et rejoint la colline où s'élève aujourd'hui la basilique. C'est une tradition hagiographique, non un fait historique documenté.",
+      "de": "Der Legende nach hob der heilige Minias nach seiner Enthauptung seinen eigenen Kopf auf und erreichte den Hügel, auf dem heute die Basilika steht. Es handelt sich um eine hagiographische Überlieferung, nicht um eine belegte historische Tatsache.",
+      "es": "La leyenda cuenta que San Miniato, tras ser decapitado, recogió su propia cabeza y llegó a la colina donde hoy se alza la basílica. Es una tradición hagiográfica, no un hecho histórico documentado.",
+      "it": "La leggenda racconta che San Miniato, dopo essere stato decapitato, avrebbe raccolto la propria testa e raggiunto il colle dove oggi sorge la basilica. È una tradizione agiografica, non un fatto storico documentato."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Lo Zodiaco sul pavimento",
+      "en": "The Zodiac on the floor",
+      "fr": "Le Zodiaque au sol",
+      "de": "Der Tierkreis im Boden",
+      "es": "El Zodiaco en el suelo"
+     },
+     "testo": {
+      "en": "The medieval floor preserves a depiction of the Zodiac, an unusual feature of great interest for understanding medieval symbolic culture.",
+      "fr": "Le pavement médiéval conserve une représentation du Zodiaque, un élément inhabituel et d'un grand intérêt pour comprendre la culture symbolique du Moyen Âge.",
+      "de": "Der mittelalterliche Boden bewahrt eine Darstellung des Tierkreises, ein ungewöhnliches Element von großem Interesse, um die symbolische Kultur des Mittelalters zu verstehen.",
+      "es": "El pavimento medieval conserva una representación del Zodiaco, un elemento inusual y de gran interés para comprender la cultura simbólica medieval.",
+      "it": "Il pavimento medievale conserva una raffigurazione dello Zodiaco, un elemento insolito e di grande interesse per comprendere la cultura simbolica medievale."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "9:30–13:00 · 15:30–19:00"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:15–13:00 · 15:30–19:00"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Durante le celebrazioni liturgiche la basilica non è visitabile e la visita interna va rispettosa delle attività della comunità monastica. Orari: lunedì–sabato 9:30–13:00 e 15:30–19:00; domenica 8:15–13:00 e 15:30–19:00. Gli orari possono essere aggiornati dalla comunità. Ingresso gratuito; la prenotazione non è necessaria per la visita individuale. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "During liturgical celebrations the basilica cannot be visited, and visits inside should respect the activities of the monastic community. Hours: Monday–Saturday 9:30–13:00 and 15:30–19:00; Sunday 8:15–13:00 and 15:30–19:00. Hours may be updated by the community. Entry is free; no booking is needed for individual visits. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Pendant les célébrations liturgiques, la basilique ne se visite pas, et la visite intérieure doit respecter les activités de la communauté monastique. Horaires : lundi–samedi 9h30–13h00 et 15h30–19h00 ; dimanche 8h15–13h00 et 15h30–19h00. Les horaires peuvent être mis à jour par la communauté. Entrée gratuite ; la réservation n'est pas nécessaire pour la visite individuelle. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Während der liturgischen Feiern kann die Basilika nicht besichtigt werden, und der Besuch im Inneren muss die Aktivitäten der Mönchsgemeinschaft respektieren. Öffnungszeiten: Montag–Samstag 9:30–13:00 und 15:30–19:00 Uhr; Sonntag 8:15–13:00 und 15:30–19:00 Uhr. Die Zeiten können von der Gemeinschaft aktualisiert werden. Der Eintritt ist frei; für Einzelbesucher ist keine Reservierung nötig. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Durante las celebraciones litúrgicas la basílica no se puede visitar, y la visita al interior debe respetar las actividades de la comunidad monástica. Horario: lunes–sábado 9:30–13:00 y 15:30–19:00; domingo 8:15–13:00 y 15:30–19:00. La comunidad puede actualizar los horarios. La entrada es gratuita; no es necesaria reserva para la visita individual. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/sites/default/files/2025-07/note%20sull'accessibilit%C3%A0%20ai%20musei%20fiorentini%20a%20luglio%2025%20ITA.pdf",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Da Via delle Porte Sante si arriva in auto sul piazzale antistante (fondo di ghiaia), dove è consentito salire e scendere dall'auto. Il sagrato si raggiunge con una rampa corta ma abbastanza ripida; al portone d'ingresso della chiesa è presente un gradino alto, superabile con una rampa mobile da richiedere in anticipo per telefono (+39 055 2342731).",
+      "en": "From Via delle Porte Sante you can drive up to the forecourt (gravel surface), where you may get in and out of the car. The churchyard is reached by a short but fairly steep ramp; at the church's main door there is a high step, which can be overcome with a mobile ramp that must be requested in advance by phone (+39 055 2342731).",
+      "fr": "Depuis la Via delle Porte Sante, on peut accéder en voiture à l'esplanade devant la basilique (sol en gravier), où il est permis de monter dans la voiture et d'en descendre. On accède au parvis par une rampe courte mais assez raide ; à la porte d'entrée de l'église se trouve une marche haute, franchissable avec une rampe mobile à demander à l'avance par téléphone (+39 055 2342731).",
+      "de": "Von der Via delle Porte Sante aus kann man mit dem Auto bis zum Vorplatz fahren (Kiesboden), wo man ein- und aussteigen darf. Der Kirchhof ist über eine kurze, aber ziemlich steile Rampe erreichbar; am Hauptportal der Kirche befindet sich eine hohe Stufe, die mit einer mobilen Rampe überwunden werden kann, die vorher telefonisch angefragt werden muss (+39 055 2342731).",
+      "es": "Desde la Via delle Porte Sante se puede llegar en coche a la explanada delante de la basílica (suelo de grava), donde se permite subir y bajar del vehículo. Al atrio se accede por una rampa corta pero bastante empinada; en el portón de entrada a la iglesia hay un escalón alto, que se supera con una rampa móvil que debe solicitarse con antelación por teléfono (+39 055 2342731)."
+     }
+    }
+   }
+  },
+  {
+   "id": "cimitero-delle-porte-sante",
+   "nome": "Cimitero delle Porte Sante",
+   "categoria": "altri",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7661,
+   "longitudine": 11.2653,
+   "descrizione": {
+    "it": "Il Cimitero delle Porte Sante è il cimitero monumentale di Firenze situato sulla collina di San Miniato al Monte, all'interno dell'area fortificata che circonda la basilica.\n\nLa sua origine risale alla metà dell'Ottocento. Nel 1854 l'area cimiteriale era ancora relativamente limitata e occupava uno spazio utilizzato in precedenza per le sepolture dei religiosi.\n\nNegli anni successivi il cimitero venne ampliato e trasformato grazie al lavoro di diversi architetti, tra cui Niccola Matas, Mariano Falcini e Tito Bellini.\n\nIl risultato è un complesso monumentale che unisce architetture funerarie, cappelle, sculture e monumenti commemorativi.\n\nLe sepolture raccontano la storia culturale e sociale di Firenze tra Ottocento e Novecento. Qui riposano personalità della letteratura, dell'arte, della politica e della cultura italiana.\n\nTra i nomi più conosciuti si trovano Carlo Lorenzini, autore di Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini e Franco Zeffirelli.\n\nIl cimitero può essere considerato un museo a cielo aperto, grazie alla presenza di opere realizzate da artisti e architetti di diverse generazioni.",
+    "en": "The Porte Sante Cemetery is the monumental cemetery of Florence, located on the hill of San Miniato al Monte, inside the fortified area that surrounds the basilica.\n\nIts origin dates back to the mid-nineteenth century. In 1854 the burial ground was still relatively small and occupied a space previously used for the burials of the clergy.\n\nIn the following years the cemetery was enlarged and transformed thanks to the work of several architects, including Niccola Matas, Mariano Falcini and Tito Bellini.\n\nThe result is a monumental complex that combines funerary architecture, chapels, sculptures and commemorative monuments.\n\nThe burials tell the cultural and social history of Florence between the nineteenth and twentieth centuries. Figures from Italian literature, art, politics and culture rest here.\n\nAmong the best-known names are Carlo Lorenzini, author of Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini and Franco Zeffirelli.\n\nThe cemetery can be considered an open-air museum, thanks to the works created by artists and architects of different generations.",
+    "fr": "Le cimetière des Porte Sante est le cimetière monumental de Florence, situé sur la colline de San Miniato al Monte, à l'intérieur de la zone fortifiée qui entoure la basilique.\n\nSon origine remonte au milieu du XIXe siècle. En 1854, la zone cimetériale était encore relativement limitée et occupait un espace utilisé auparavant pour les sépultures des religieux.\n\nDans les années suivantes, le cimetière fut agrandi et transformé grâce au travail de plusieurs architectes, dont Niccola Matas, Mariano Falcini et Tito Bellini.\n\nLe résultat est un ensemble monumental qui réunit architectures funéraires, chapelles, sculptures et monuments commémoratifs.\n\nLes sépultures racontent l'histoire culturelle et sociale de Florence entre le XIXe et le XXe siècle. Des personnalités de la littérature, de l'art, de la politique et de la culture italiennes y reposent.\n\nParmi les noms les plus connus figurent Carlo Lorenzini, auteur de Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini et Franco Zeffirelli.\n\nLe cimetière peut être considéré comme un musée à ciel ouvert, grâce aux œuvres réalisées par des artistes et des architectes de générations différentes.",
+    "de": "Der Friedhof Porte Sante ist der Monumentalfriedhof von Florenz auf dem Hügel von San Miniato al Monte, innerhalb des befestigten Bereichs, der die Basilika umgibt.\n\nSein Ursprung reicht in die Mitte des 19. Jahrhunderts zurück. 1854 war das Friedhofsgelände noch relativ klein und nahm einen Raum ein, der zuvor für die Bestattung von Ordensleuten genutzt worden war.\n\nIn den folgenden Jahren wurde der Friedhof dank der Arbeit mehrerer Architekten erweitert und umgestaltet, darunter Niccola Matas, Mariano Falcini und Tito Bellini.\n\nDas Ergebnis ist eine monumentale Anlage, die Grabarchitekturen, Kapellen, Skulpturen und Gedenkmonumente vereint.\n\nDie Gräber erzählen die Kultur- und Sozialgeschichte von Florenz zwischen dem 19. und 20. Jahrhundert. Hier ruhen Persönlichkeiten aus Literatur, Kunst, Politik und Kultur Italiens.\n\nZu den bekanntesten Namen gehören Carlo Lorenzini, der Autor von Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini und Franco Zeffirelli.\n\nDer Friedhof kann dank der Werke von Künstlern und Architekten verschiedener Generationen als Freilichtmuseum gelten.",
+    "es": "El cementerio de las Porte Sante es el cementerio monumental de Florencia, situado en la colina de San Miniato al Monte, dentro del área fortificada que rodea la basílica.\n\nSu origen se remonta a mediados del siglo XIX. En 1854 el área cementerial era todavía relativamente limitada y ocupaba un espacio utilizado antes para las sepulturas de los religiosos.\n\nEn los años siguientes el cementerio se amplió y se transformó gracias al trabajo de varios arquitectos, entre ellos Niccola Matas, Mariano Falcini y Tito Bellini.\n\nEl resultado es un conjunto monumental que reúne arquitecturas funerarias, capillas, esculturas y monumentos conmemorativos.\n\nLas sepulturas cuentan la historia cultural y social de Florencia entre los siglos XIX y XX. Aquí reposan personalidades de la literatura, el arte, la política y la cultura italianas.\n\nEntre los nombres más conocidos se encuentran Carlo Lorenzini, autor de Pinocho, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini y Franco Zeffirelli.\n\nEl cementerio puede considerarse un museo al aire libre, gracias a las obras realizadas por artistas y arquitectos de distintas generaciones."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "La tomba di Collodi",
+      "en": "Collodi's tomb",
+      "fr": "La tombe de Collodi",
+      "de": "Collodis Grab",
+      "es": "La tumba de Collodi"
+     },
+     "testo": {
+      "en": "Carlo Lorenzini, known all over the world as Carlo Collodi, author of Pinocchio, is buried here.",
+      "fr": "Carlo Lorenzini, connu dans le monde entier sous le nom de Carlo Collodi, auteur de Pinocchio, est enterré ici.",
+      "de": "Hier ist Carlo Lorenzini begraben, weltweit bekannt als Carlo Collodi, der Autor von Pinocchio.",
+      "es": "Aquí está enterrado Carlo Lorenzini, conocido en todo el mundo como Carlo Collodi, autor de Pinocho.",
+      "it": "Qui è sepolto Carlo Lorenzini, conosciuto in tutto il mondo come Carlo Collodi, autore di Pinocchio."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un bene di interesse storico-artistico",
+      "en": "A site of historical and artistic interest",
+      "fr": "Un site d'intérêt historique et artistique",
+      "de": "Ein Ort von historischem und künstlerischem Interesse",
+      "es": "Un bien de interés histórico-artístico"
+     },
+     "testo": {
+      "en": "The cemetery was declared of historical and artistic interest by ministerial decree on 27 July 1995.",
+      "fr": "Le cimetière a été déclaré d'intérêt historique et artistique par décret ministériel le 27 juillet 1995.",
+      "de": "Der Friedhof wurde mit Ministerialdekret vom 27. Juli 1995 zum Ort von historisch-künstlerischem Interesse erklärt.",
+      "es": "El cementerio fue declarado de interés histórico-artístico por decreto ministerial el 27 de julio de 1995.",
+      "it": "Il cimitero è stato dichiarato di interesse storico-artistico con decreto ministeriale del 27 luglio 1995."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "8:00–17:00",
+     "periodo": "10-01/03-31"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:00–13:00",
+     "periodo": "10-01/03-31"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "8:00–18:00",
+     "periodo": "04-01/06-30"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:00–13:00",
+     "periodo": "04-01/06-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:00–13:00",
+     "periodo": "07-01/08-31"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "8:00–18:00",
+     "periodo": "09-01/09-30"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:00–13:00",
+     "periodo": "09-01/09-30"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "È un luogo di memoria e di sepoltura: si visita con rispetto e silenzio. Orari secondo il calendario comunale 2026: 1 ottobre–31 marzo lunedì–sabato 8:00–17:00, domenica e festivi 8:00–13:00; 1 aprile–30 giugno lunedì–sabato 8:00–18:00, domenica e festivi 8:00–13:00; 1 luglio–31 agosto tutti i giorni 8:00–13:00; settembre lunedì–sabato 8:00–18:00, domenica e festivi 8:00–13:00. Gli orari possono variare per festività e disposizioni comunali. Ingresso gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "It is a place of memory and burial: visit it with respect and in silence. Hours according to the 2026 municipal calendar: 1 October–31 March Monday–Saturday 8:00–17:00, Sundays and holidays 8:00–13:00; 1 April–30 June Monday–Saturday 8:00–18:00, Sundays and holidays 8:00–13:00; 1 July–31 August every day 8:00–13:00; September Monday–Saturday 8:00–18:00, Sundays and holidays 8:00–13:00. Hours may change for holidays and municipal provisions. Entry is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "C'est un lieu de mémoire et de sépulture : il se visite avec respect et en silence. Horaires selon le calendrier municipal 2026 : du 1er octobre au 31 mars, du lundi au samedi 8h00–17h00, dimanche et jours fériés 8h00–13h00 ; du 1er avril au 30 juin, du lundi au samedi 8h00–18h00, dimanche et jours fériés 8h00–13h00 ; du 1er juillet au 31 août, tous les jours 8h00–13h00 ; en septembre, du lundi au samedi 8h00–18h00, dimanche et jours fériés 8h00–13h00. Les horaires peuvent varier selon les jours fériés et les dispositions municipales. Entrée gratuite. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Es ist ein Ort des Gedenkens und der Bestattung: Besuchen Sie ihn mit Respekt und in Stille. Öffnungszeiten nach dem städtischen Kalender 2026: 1. Oktober–31. März Montag–Samstag 8:00–17:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr; 1. April–30. Juni Montag–Samstag 8:00–18:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr; 1. Juli–31. August täglich 8:00–13:00 Uhr; September Montag–Samstag 8:00–18:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr. Die Zeiten können sich an Feiertagen und aufgrund städtischer Vorgaben ändern. Der Eintritt ist frei. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Es un lugar de memoria y de sepultura: se visita con respeto y en silencio. Horario según el calendario municipal de 2026: del 1 de octubre al 31 de marzo, de lunes a sábado 8:00–17:00, domingos y festivos 8:00–13:00; del 1 de abril al 30 de junio, de lunes a sábado 8:00–18:00, domingos y festivos 8:00–13:00; del 1 de julio al 31 de agosto, todos los días 8:00–13:00; en septiembre, de lunes a sábado 8:00–18:00, domingos y festivos 8:00–13:00. Los horarios pueden variar por festividades y disposiciones municipales. Entrada gratuita. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "Cimitero delle Porte Sante (Porte Sante Cemetery)",
+    "fr": "Cimitero delle Porte Sante (cimetière des Porte Sante)",
+    "de": "Cimitero delle Porte Sante (Friedhof Porte Sante)",
+    "es": "Cimitero delle Porte Sante (cementerio de las Porte Sante)"
+   }
   }
  ]
 }

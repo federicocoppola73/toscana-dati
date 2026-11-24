@@ -1,5 +1,5 @@
 {
- "versione": "4d4d83954c33",
+ "versione": "3cf251a8ab31",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -294,6 +294,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_6.webp",
    "sha256": "ff6f348a20cc000ab9ed9b3db047468da5ee88abfd31aa823080b10e524980a2",
    "byte": 155458
+  },
+  {
+   "path": "assets/luoghi/giardino-delle-rose.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delle-rose.webp",
+   "sha256": "c9f34111586e8febaad16473f179df5a507c6d6acec66a1ace5e4972a7dd5d5a",
+   "byte": 218314
+  },
+  {
+   "path": "assets/luoghi/giardino-delle-rose_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delle-rose_2.webp",
+   "sha256": "7bb67f61d6fdc7ce1eeada426abebf59ee40fba0e2ce286e4781c0ba8dceb712",
+   "byte": 141852
+  },
+  {
+   "path": "assets/luoghi/giardino-delle-rose_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delle-rose_3.webp",
+   "sha256": "b21742e163287899544ef2f315b8c26c9ac19d5ebe97490809698a93e3cfbeb5",
+   "byte": 186800
+  },
+  {
+   "path": "assets/luoghi/giardino-delle-rose_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delle-rose_4.webp",
+   "sha256": "fffde270d1601e5c5d0df64ceb2302d9b55e95803f4e6edba764e5c5af755714",
+   "byte": 124288
   },
   {
    "path": "assets/luoghi/isolotto.webp",
@@ -3730,8 +3754,8 @@
   {
    "path": "dati/curiosita.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/curiosita.json",
-   "sha256": "921752ab950551004f0f2185685a8c426048b592ebd647141074c3b4b1575fc6",
-   "byte": 2803
+   "sha256": "5a4d0ef8fe15141b157f821aba14cee6458d6c78ec4e857c46b834c489e1ee5b",
+   "byte": 6818
   },
   {
    "path": "dati/eventi.json",
@@ -3742,8 +3766,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "6d9d6afc1d260149a6136223b3428643de5e9fe704eae968fb6d84c9cca38c28",
-   "byte": 773
+   "sha256": "7434998ee7d000b7eb9d28ffc18b998f0d421efec18b440fe53391f85d36b6b2",
+   "byte": 801
   },
   {
    "path": "dati/itinerari.json",
@@ -3754,8 +3778,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "74b88cbd3118f75042e5e3a509d3e9482ff7e05af023e5c6c7d7b93520731d8c",
-   "byte": 224369
+   "sha256": "a4ec04da28cacae364fca61a95e09589e89ad3b802a2dedc5f82ce2ec1aa9cc3",
+   "byte": 283716
   },
   {
    "path": "dati/mappa.json",
@@ -3819,12 +3843,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "e2fb3e1c90af",
-   "da": "c68f86fe557e",
-   "data": "2026-11-24",
-   "byte": 1056113
-  },
   {
    "versione": "42092f1a830d",
    "da": "e2fb3e1c90af",
@@ -4028,6 +4046,21 @@
     "accessibilita"
    ],
    "byte": 224369
+  },
+  {
+   "versione": "3cf251a8ab31",
+   "da": "4d4d83954c33",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Giardino delle Rose",
+    "Partir – la valigia di Folon",
+    "Giardino dell'Iris",
+    "Basilica di San Miniato al Monte",
+    "Cimitero delle Porte Sante"
+   ],
+   "foto_nuove": 4,
+   "curiosita_nuove": 2,
+   "byte": 962589
   }
  ]
 }
