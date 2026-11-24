@@ -4650,7 +4650,8 @@
     "basilica-di-san-lorenzo",
     "gallerie-degli-uffizi",
     "galleria-dellaccademia-di-firenze",
-    "giardino-di-boboli"
+    "giardino-di-boboli",
+    "museo-galileo"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -4779,6 +4780,22 @@
       "fr": "En 1549, son épouse Éléonore de Tolède acheta le Palazzo Pitti et les terrains situés derrière : c'est de là que naquit le jardin de Boboli.",
       "de": "1549 erwarb seine Frau Eleonora von Toledo den Palazzo Pitti und die dahinterliegenden Grundstücke: Daraus entstand der Boboli-Garten.",
       "es": "En 1549 su esposa Leonor de Toledo compró el Palazzo Pitti y los terrenos de detrás: de allí nació el Jardín de Bóboli."
+     }
+    },
+    "museo-galileo": {
+     "tipo": {
+      "it": "L'inizio delle collezioni",
+      "en": "The start of the collections",
+      "fr": "Le début des collections",
+      "de": "Der Beginn der Sammlungen",
+      "es": "El inicio de las colecciones"
+     },
+     "testo": {
+      "it": "Promosse nel Cinquecento la raccolta di strumenti scientifici nella Guardaroba di Palazzo Vecchio, da cui derivano le collezioni del museo.",
+      "en": "In the 16th century he promoted the collection of scientific instruments in the Guardaroba of Palazzo Vecchio, from which the museum's collections descend.",
+      "fr": "Au XVIe siècle, il favorisa la collection d'instruments scientifiques de la Guardaroba du Palazzo Vecchio, dont dérivent les collections du musée.",
+      "de": "Im 16. Jahrhundert förderte er die Sammlung wissenschaftlicher Instrumente in der Guardaroba des Palazzo Vecchio, aus der die Sammlungen des Museums hervorgehen.",
+      "es": "En el siglo XVI promovió la colección de instrumentos científicos de la Guardaroba del Palazzo Vecchio, de la que derivan las colecciones del museo."
      }
     }
    },
@@ -5675,7 +5692,8 @@
     ]
    },
    "luoghi": [
-    "basilica-di-santa-croce"
+    "basilica-di-santa-croce",
+    "museo-galileo"
    ],
    "luoghiNote": {
     "basilica-di-santa-croce": {
@@ -5692,6 +5710,22 @@
       "fr": "Il fut enterré ici presque en secret, dans une petite pièce à côté de la chapelle du Noviciat. En 1737, ses restes furent transférés dans le monument funéraire de la nef, face au tombeau de Michel-Ange.",
       "de": "Er wurde hier fast heimlich in einem kleinen Raum neben der Noviziatskapelle beigesetzt. 1737 wurden seine Gebeine in das Grabmal im Seitenschiff überführt, gegenüber dem Grab Michelangelos.",
       "es": "Fue enterrado aquí casi en secreto, en una pequeña estancia junto a la capilla del Noviciado. En 1737 sus restos fueron trasladados al monumento sepulcral de la nave, frente a la tumba de Miguel Ángel."
+     }
+    },
+    "museo-galileo": {
+     "tipo": {
+      "it": "Gli strumenti di Galileo",
+      "en": "Galileo's instruments",
+      "fr": "Les instruments de Galilée",
+      "de": "Galileis Instrumente",
+      "es": "Los instrumentos de Galileo"
+     },
+     "testo": {
+      "it": "Il museo conserva due suoi cannocchiali originali e la lente obiettiva con cui osservò i satelliti di Giove nel 1610.",
+      "en": "The museum keeps two of his original telescopes and the objective lens with which he observed Jupiter's moons in 1610.",
+      "fr": "Le musée conserve deux de ses lunettes originales et la lentille de l'objectif avec lequel il observa les satellites de Jupiter en 1610.",
+      "de": "Das Museum bewahrt zwei seiner Original-Fernrohre und die Objektivlinse, mit der er 1610 die Jupitermonde beobachtete.",
+      "es": "El museo conserva dos de sus catalejos originales y la lente objetivo con la que observó los satélites de Júpiter en 1610."
      }
     }
    },
@@ -5922,7 +5956,8 @@
    "luoghi": [
     "palazzo-pitti",
     "gallerie-degli-uffizi",
-    "galleria-dellaccademia-di-firenze"
+    "galleria-dellaccademia-di-firenze",
+    "museo-galileo"
    ],
    "luoghiNote": {
     "palazzo-pitti": {
@@ -5971,6 +6006,22 @@
       "fr": "En 1784, il réorganisa l'Accademia delle Arti del Disegno et donna naissance à la moderne Académie des beaux-arts : le musée est né de cette réforme.",
       "de": "1784 ordnete er die Accademia delle Arti del Disegno neu und schuf die moderne Kunstakademie: Aus dieser Reform entstand das Museum.",
       "es": "En 1784 reorganizó la Accademia delle Arti del Disegno y dio vida a la moderna Academia de Bellas Artes: de aquella reforma nació el museo."
+     }
+    },
+    "museo-galileo": {
+     "tipo": {
+      "it": "Il Regio Museo di Fisica",
+      "en": "The Royal Museum of Physics",
+      "fr": "Le Musée royal de physique",
+      "de": "Das Königliche Museum für Physik",
+      "es": "El Real Museo de Física"
+     },
+     "testo": {
+      "it": "Nel 1775 fondò il Regio Museo di Fisica e Storia Naturale, riunendo e ampliando le collezioni scientifiche.",
+      "en": "In 1775 he founded the Regio Museo di Fisica e Storia Naturale, bringing together and expanding the scientific collections.",
+      "fr": "En 1775, il fonda le Regio Museo di Fisica e Storia Naturale, réunissant et agrandissant les collections scientifiques.",
+      "de": "1775 gründete er das Regio Museo di Fisica e Storia Naturale und vereinte und erweiterte die wissenschaftlichen Sammlungen.",
+      "es": "En 1775 fundó el Regio Museo di Fisica e Storia Naturale, reuniendo y ampliando las colecciones científicas."
      }
     }
    },

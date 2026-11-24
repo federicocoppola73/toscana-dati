@@ -1,5 +1,5 @@
 {
- "versione": "65ddf15655c7",
+ "versione": "77dd76018bab",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -520,8 +520,8 @@
   {
    "path": "assets/luoghi/giardino-di-boboli_5.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-di-boboli_5.webp",
-   "sha256": "b35ccec3a155c004389d67f19e10d7dd0e44262970f90794cb1b99a60cb7efbc",
-   "byte": 193548
+   "sha256": "5be2dba8ee5c46764a0df133efe0d0ab5e3b00ff46a79e39605f5e8b82a04c24",
+   "byte": 186484
   },
   {
    "path": "assets/luoghi/isolotto.webp",
@@ -642,6 +642,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco_5.webp",
    "sha256": "1a3f5905d212cbc81f6dd5035b4d630856ed2a361207601d33cfcf8d344f738d",
    "byte": 100854
+  },
+  {
+   "path": "assets/luoghi/museo-galileo.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-galileo.webp",
+   "sha256": "f9e349ead4a01c3db7db07f95bce6ebfc58454dee491fc7a8e3d18164c39aa76",
+   "byte": 148836
+  },
+  {
+   "path": "assets/luoghi/museo-galileo_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-galileo_2.webp",
+   "sha256": "32525256127e0de66a06f872791af9a032b88e62fd9e17bfa73e922951fb5ee2",
+   "byte": 160598
+  },
+  {
+   "path": "assets/luoghi/museo-galileo_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-galileo_3.webp",
+   "sha256": "0e9a1ffce1ceb1a33847f5ccd40de1b125dcf207761de1a0154c6f755ff8cfb7",
+   "byte": 72876
+  },
+  {
+   "path": "assets/luoghi/museo-galileo_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-galileo_4.webp",
+   "sha256": "f327a51e7eeb0526fe65b97c3c4e44788eadcc798b492d53acf0ea139f967d7d",
+   "byte": 69448
+  },
+  {
+   "path": "assets/luoghi/museo-galileo_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-galileo_5.webp",
+   "sha256": "b96827bbcedc257a5c7789b7dd6db5375a3ff3ef036a93f459de9fc868765d48",
+   "byte": 68582
   },
   {
    "path": "assets/luoghi/museo-nazionale-del-bargello.webp",
@@ -4114,8 +4144,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "9ace119826cea6c568d3db825088565629e57946489aedb215d50defacb92419",
-   "byte": 1210
+   "sha256": "2afae0a02e97755770c014ed24706c9141f3836fe66b4b39bd546b24a75dfdf6",
+   "byte": 1232
   },
   {
    "path": "dati/itinerari.json",
@@ -4126,8 +4156,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "65e471fc1831ec21b7880ead4186f58977cbf68695b9d224f0b248505d79d867",
-   "byte": 483969
+   "sha256": "55c178803ab1e81c68292107c1a6b7779738024622a43a80bf62eb31270e6a7b",
+   "byte": 524260
   },
   {
    "path": "dati/mappa.json",
@@ -4150,8 +4180,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "8033fc78449edef7af9cd203a19302b12c1c2d16a7cb9423dc5dd7d78d5edff4",
-   "byte": 887563
+   "sha256": "794ff6d2a07cf902ac97a66733d1008eb01b04f1c86742ef145f312d17101f85",
+   "byte": 890671
   },
   {
    "path": "dati/principali.json",
@@ -4191,16 +4221,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4b4c79dc95ff",
-   "da": "420ef18c49ea",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Oratorio di Santa Maria alla Querce"
-   ],
-   "foto_nuove": 3,
-   "byte": 464871
-  },
   {
    "versione": "5b31b45f83a2",
    "da": "4b4c79dc95ff",
@@ -4415,6 +4435,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1958294
+  },
+  {
+   "versione": "77dd76018bab",
+   "da": "65ddf15655c7",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Museo Galileo"
+   ],
+   "foto_nuove": 5,
+   "byte": 2122987
   }
  ]
 }
