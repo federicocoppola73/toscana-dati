@@ -2611,7 +2611,24 @@
     "de": "Bobolino-Park",
     "es": "Parque del Bobolino"
    },
-   "sito": "https://www.feelflorence.it/en/bobolino-park-florence"
+   "sito": "https://www.feelflorence.it/en/bobolino-park-florence",
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ]
   },
   {
    "id": "porta-romana",

@@ -1,5 +1,5 @@
 {
- "versione": "618403931c60",
+ "versione": "0d3b50a9fdf4",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -636,6 +636,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-vecchio_5.webp",
    "sha256": "a72be11ea9aab36d3e9e47d3f5486853b67551d6e0d94f13626ee6dcc34c803c",
    "byte": 215848
+  },
+  {
+   "path": "assets/luoghi/parco-del-bobolino.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-del-bobolino.webp",
+   "sha256": "61f32aabef227c0457b0a040b09753315180432f74f097bab27c133237b6aab8",
+   "byte": 216674
+  },
+  {
+   "path": "assets/luoghi/parco-del-bobolino_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-del-bobolino_2.webp",
+   "sha256": "f7aaf0894480b0258d18d44d30af18191c0a34ec86f68762bc1be9f14e02201a",
+   "byte": 182928
+  },
+  {
+   "path": "assets/luoghi/parco-del-bobolino_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-del-bobolino_3.webp",
+   "sha256": "3285103f482425387253dd4f1106c9c027e2a24e151c538420f720c66c963be2",
+   "byte": 182360
   },
   {
    "path": "assets/luoghi/partir-la-valigia-di-folon.webp",
@@ -3946,8 +3964,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "be134aa500e67f44549ef9b053d22a56f360fe2e44971e3d24006afd90d01ade",
-   "byte": 1029
+   "sha256": "3b13259b9ace7c504a307bb2cbb2bf69fb18c7e32c46ed14c35230aafbea1a97",
+   "byte": 1056
   },
   {
    "path": "dati/itinerari.json",
@@ -3958,8 +3976,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "5aac16081ed4e02bdcf30aba114358df5598197b766f9b7e38b05b1ac362f138",
-   "byte": 346776
+   "sha256": "f5defd82ecf0933e5e7c416aa4dd099861159b052f95928b49383099d36d9909",
+   "byte": 347195
   },
   {
    "path": "dati/mappa.json",
@@ -4023,16 +4041,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "e241248fb9a8",
-   "da": "a1f2fbf9e4a7",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "byte": 297206
-  },
   {
    "versione": "749b25b2e6d4",
    "da": "e241248fb9a8",
@@ -4251,6 +4259,17 @@
    ],
    "foto_nuove": 4,
    "byte": 1183973
+  },
+  {
+   "versione": "0d3b50a9fdf4",
+   "da": "618403931c60",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 3,
+   "byte": 930213
   }
  ]
 }
