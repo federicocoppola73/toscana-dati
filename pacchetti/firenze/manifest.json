@@ -1,5 +1,5 @@
 {
- "versione": "9af2f8eeffe2",
+ "versione": "32722b93d67e",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -258,6 +258,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_5.webp",
    "sha256": "0548385f286225a14c0134279568c15f87300ea406011f57dcc6c82c12b0d95f",
    "byte": 91350
+  },
+  {
+   "path": "assets/luoghi/gallerie-degli-uffizi_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_6.webp",
+   "sha256": "ff6f348a20cc000ab9ed9b3db047468da5ee88abfd31aa823080b10e524980a2",
+   "byte": 155458
   },
   {
    "path": "assets/luoghi/palazzo-pitti.webp",
@@ -3496,7 +3502,7 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "c1af4945f0dced2db20da8c3b181d675d3736517241b38a816fc5e0fbf3a938d",
+   "sha256": "7c21e5d9c944044b4e4606a109e40f9bd658485a168b686b9c458c410be0b671",
    "byte": 506
   },
   {
@@ -3508,8 +3514,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "43b6a0a0fbeb31dddf0eecea56250e280d76460880503f95e5678d313f1cad42",
-   "byte": 192819
+   "sha256": "3c63e586e16b223c7bc6642c300782ff1013b3e993f837c349e6d11da08ce993",
+   "byte": 192899
   },
   {
    "path": "dati/mappa.json",
@@ -3573,12 +3579,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "1450439f76a9",
-   "da": "bf712b34c9a5",
-   "data": "2026-11-23",
-   "byte": 385441
-  },
   {
    "versione": "24111c33427d",
    "da": "1450439f76a9",
@@ -3711,6 +3711,17 @@
    ],
    "foto_nuove": 5,
    "byte": 678867
+  },
+  {
+   "versione": "32722b93d67e",
+   "da": "9af2f8eeffe2",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 1,
+   "byte": 348863
   }
  ]
 }
