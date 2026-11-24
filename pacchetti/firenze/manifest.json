@@ -1,5 +1,5 @@
 {
- "versione": "14f3954870c9",
+ "versione": "289037ce021b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -324,6 +324,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_5.webp",
    "sha256": "bd01551ef45e86296e16f82cbfc51bf8fb1eb6b1eea96e849e2a6cf8408f9994",
    "byte": 79166
+  },
+  {
+   "path": "assets/luoghi/palazzo-medici-riccardi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-medici-riccardi.webp",
+   "sha256": "bab62496097fe76017f017dfa34829547625152dd6cff7d6a19897a4bd34a2b5",
+   "byte": 123742
+  },
+  {
+   "path": "assets/luoghi/palazzo-medici-riccardi_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-medici-riccardi_2.webp",
+   "sha256": "cc3873a211a085f3948d0e8806411c980f7c67bff27f6d087c185860187ae684",
+   "byte": 146630
+  },
+  {
+   "path": "assets/luoghi/palazzo-medici-riccardi_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-medici-riccardi_3.webp",
+   "sha256": "e365f6d4bb431a8a79d2d635345d6818922d852298148efaacaa66fc4984be2d",
+   "byte": 64016
+  },
+  {
+   "path": "assets/luoghi/palazzo-medici-riccardi_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-medici-riccardi_4.webp",
+   "sha256": "e8a0b4bc3dfc012bdd11561db17cf23ed0038474ba10ecd1f6fc113f2a7020ae",
+   "byte": 153518
+  },
+  {
+   "path": "assets/luoghi/palazzo-medici-riccardi_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-medici-riccardi_5.webp",
+   "sha256": "8195845dad1870c894ec9a5f6cfb6bbc41015f1068e09237056d272eb4356d56",
+   "byte": 68406
   },
   {
    "path": "assets/luoghi/palazzo-pitti.webp",
@@ -3562,8 +3592,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "4921082b07211f8300bd33189b3f14c38e8abe477436f183a738f77cf0801937",
-   "byte": 577
+   "sha256": "66168075c9f9846bb9e7343b25fd666c0ab5e821c97490d3c1df970a6c02f7e5",
+   "byte": 609
   },
   {
    "path": "dati/itinerari.json",
@@ -3574,8 +3604,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "6fb434ba3328da53ebe387ab4b20769ecf368f956a960fd5f6c48bec83504ee8",
-   "byte": 194318
+   "sha256": "b880b8c3d3c59a6818c161201ea8746ade13cf7ed594bc6f9171294f76360d99",
+   "byte": 195038
   },
   {
    "path": "dati/mappa.json",
@@ -3639,12 +3669,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "11f19b94c628",
-   "da": "1cda4aee96eb",
-   "data": "2026-11-23",
-   "byte": 548217
-  },
   {
    "versione": "84d7c6816ddc",
    "da": "11f19b94c628",
@@ -3792,6 +3816,17 @@
    ],
    "foto_nuove": 5,
    "byte": 729619
+  },
+  {
+   "versione": "289037ce021b",
+   "da": "14f3954870c9",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 751959
   }
  ]
 }

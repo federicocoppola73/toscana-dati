@@ -1548,7 +1548,34 @@
       "es": "Totalmente accesible para personas con discapacidad motriz, salvo la Capilla de los Magos, que solo lo es en parte. La entrada accesible está en Via de' Ginori 2."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "GFDL 1.2",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Julian Lupyan",
+     "licenza": "CC0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Julian_Lupyan"
+    },
+    {
+     "autore": "John Samuel",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jsamwrites"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ]
   },
   {
    "id": "museo-di-san-marco",
