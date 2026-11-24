@@ -1789,7 +1789,20 @@
      "licenza": "CC BY-SA 4.0",
      "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
     }
-   ]
+   ],
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/it/chiesa-santa-trinita-firenze",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Il marciapiede davanti alla chiesa è raccordato alla strada. Si entra da due porte contigue che si aprono verso l'esterno; la porta di destra è più agevole. L'interno è accessibile.",
+      "en": "The sidewalk in front of the church is connected to the street level. You enter through two adjoining doors that open outwards; the door on the right is easier. The interior is fully accessible.",
+      "fr": "Le trottoir devant l'église est raccordé à la chaussée. On entre par deux portes contiguës qui s'ouvrent vers l'extérieur ; la porte de droite est plus pratique. L'intérieur est accessible.",
+      "de": "Der Gehweg vor der Kirche ist bündig an die Straße angeschlossen. Man betritt sie durch zwei nebeneinanderliegende Türen, die sich nach außen öffnen; die rechte Tür ist bequemer. Der Innenraum ist zugänglich.",
+      "es": "La acera frente a la iglesia está enrasada con la calzada. Se entra por dos puertas contiguas que se abren hacia el exterior; la de la derecha es más cómoda. El interior es accesible."
+     }
+    }
+   }
   },
   {
    "id": "isolotto",
