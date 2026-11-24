@@ -1,5 +1,5 @@
 {
- "versione": "749b25b2e6d4",
+ "versione": "94f33a55a645",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -126,6 +126,18 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-trinita_3.webp",
    "sha256": "09231558c1f74bf0094000edb3549850686d9f171b8776bffbe9dfe731a52573",
    "byte": 145524
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-trinita_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-trinita_4.webp",
+   "sha256": "dc7b65823d912a73db9fb2284dc9b882a9293061e5ab6d352c1795b8742fbd05",
+   "byte": 107986
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-trinita_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-trinita_5.webp",
+   "sha256": "90a68208142ed4d215a38c7d11a48c592bbac4ef1ed26e41ef79425e02f0d86b",
+   "byte": 85572
   },
   {
    "path": "assets/luoghi/battistero-di-san-giovanni.webp",
@@ -3640,7 +3652,7 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "b38211ff93232b41e73f1de2d29751325db4a0f23eea071bb782a6238559d380",
+   "sha256": "c9650b3fb56dce49d264c9b07fd09c4be35d6890cfa773c6f5df4aefea5500a3",
    "byte": 670
   },
   {
@@ -3652,8 +3664,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "4899a6096d86a130530602cc36a98b36a2caa6192785245a291ddaf39327a191",
-   "byte": 196095
+   "sha256": "7d2415bddb78a98096bb073d54b286968245ea0265fa4f4c4e5674e50f66eeac",
+   "byte": 196361
   },
   {
    "path": "dati/mappa.json",
@@ -3717,12 +3729,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "ba04c6d17e64",
-   "da": "0e33ff5460e7",
-   "data": "2026-11-23",
-   "byte": 755698
-  },
   {
    "versione": "b8d3bebf57b8",
    "da": "ba04c6d17e64",
@@ -3889,6 +3895,17 @@
    ],
    "foto_nuove": 3,
    "byte": 566093
+  },
+  {
+   "versione": "94f33a55a645",
+   "da": "749b25b2e6d4",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 2,
+   "byte": 390589
   }
  ]
 }
