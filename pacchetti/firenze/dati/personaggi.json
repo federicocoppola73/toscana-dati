@@ -3511,7 +3511,8 @@
     "piazzale-michelangelo",
     "gallerie-degli-uffizi",
     "galleria-dellaccademia-di-firenze",
-    "museo-delle-cappelle-medicee"
+    "museo-delle-cappelle-medicee",
+    "giardino-di-boboli"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -3656,6 +3657,22 @@
       "fr": "Il conçut la Nouvelle Sacristie à partir de 1520, avec les tombeaux des deux ducs et les allégories du Jour, de la Nuit, de l'Aurore et du Crépuscule.",
       "de": "Er entwarf ab 1520 die Neue Sakristei, mit den Grabmälern der beiden Herzöge und den Allegorien des Tages, der Nacht, der Morgenröte und der Abenddämmerung.",
       "es": "Proyectó la Sacristía Nueva a partir de 1520, con las tumbas de los dos duques y las alegorías del Día, la Noche, la Aurora y el Crepúsculo."
+     }
+    },
+    "giardino-di-boboli": {
+     "tipo": {
+      "it": "I Prigioni",
+      "en": "The Prisoners",
+      "fr": "Les Prisonniers",
+      "de": "Die Gefangenen",
+      "es": "Los Prisioneros"
+     },
+     "testo": {
+      "it": "I suoi quattro Prigioni furono collocati in origine nella Grotta del Buontalenti; oggi gli originali sono alla Galleria dell'Accademia e nella grotta restano copie.",
+      "en": "His four Prisoners were originally placed in the Buontalenti Grotto; today the originals are at the Galleria dell'Accademia and copies remain in the grotto.",
+      "fr": "Ses quatre Prisonniers furent placés à l'origine dans la grotte de Buontalenti ; aujourd'hui, les originaux sont à la Galleria dell'Accademia et la grotte abrite des copies.",
+      "de": "Seine vier Gefangenen waren ursprünglich in der Buontalenti-Grotte aufgestellt; heute befinden sich die Originale in der Galleria dell'Accademia, in der Grotte stehen Kopien.",
+      "es": "Sus cuatro Prisioneros se colocaron originalmente en la Gruta de Buontalenti; hoy los originales están en la Galleria dell'Accademia y en la gruta quedan copias."
      }
     }
    },
@@ -4581,7 +4598,8 @@
     "piazza-della-signoria",
     "basilica-di-san-lorenzo",
     "gallerie-degli-uffizi",
-    "galleria-dellaccademia-di-firenze"
+    "galleria-dellaccademia-di-firenze",
+    "giardino-di-boboli"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -4694,6 +4712,22 @@
       "fr": "L'Accademia delle Arti del Disegno, dont la réorganisation donna naissance au musée, fut fondée en 1563 sous Cosme Ier.",
       "de": "Die Accademia delle Arti del Disegno, aus deren Neuordnung das Museum hervorging, wurde 1563 unter Cosimo I. gegründet.",
       "es": "La Accademia delle Arti del Disegno, de cuya reorganización nació el museo, fue fundada en 1563 bajo Cosme I."
+     }
+    },
+    "giardino-di-boboli": {
+     "tipo": {
+      "it": "Boboli e Palazzo Pitti",
+      "en": "Boboli and Palazzo Pitti",
+      "fr": "Boboli et le Palazzo Pitti",
+      "de": "Boboli und der Palazzo Pitti",
+      "es": "Bóboli y el Palazzo Pitti"
+     },
+     "testo": {
+      "it": "Sua moglie Eleonora di Toledo acquistò nel 1549 Palazzo Pitti e i terreni retrostanti: da lì nacque il Giardino di Boboli.",
+      "en": "In 1549 his wife Eleonora of Toledo bought Palazzo Pitti and the land behind it: the Boboli Garden grew out of that purchase.",
+      "fr": "En 1549, son épouse Éléonore de Tolède acheta le Palazzo Pitti et les terrains situés derrière : c'est de là que naquit le jardin de Boboli.",
+      "de": "1549 erwarb seine Frau Eleonora von Toledo den Palazzo Pitti und die dahinterliegenden Grundstücke: Daraus entstand der Boboli-Garten.",
+      "es": "En 1549 su esposa Leonor de Toledo compró el Palazzo Pitti y los terrenos de detrás: de allí nació el Jardín de Bóboli."
      }
     }
    },
@@ -4868,7 +4902,8 @@
     "basilica-di-santa-maria-novella",
     "basilica-di-santa-croce",
     "ponte-vecchio",
-    "gallerie-degli-uffizi"
+    "gallerie-degli-uffizi",
+    "giardino-di-boboli"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -4949,6 +4984,22 @@
       "fr": "Il conçut le palais pour Cosme Ier à partir de 1560 et, en 1565, le corridor de Vasari.",
       "de": "Er entwarf den Palast für Cosimo I. ab 1560 und 1565 den Vasari-Korridor.",
       "es": "Proyectó el palacio para Cosme I a partir de 1560 y, en 1565, el Corredor Vasariano."
+     }
+    },
+    "giardino-di-boboli": {
+     "tipo": {
+      "it": "I lavori dopo il Tribolo",
+      "en": "Work after Tribolo",
+      "fr": "Les travaux après le Tribolo",
+      "de": "Die Arbeiten nach dem Tribolo",
+      "es": "Las obras tras el Tribolo"
+     },
+     "testo": {
+      "it": "Dopo la morte del Tribolo continuò i lavori del giardino, insieme ad Ammannati e Buontalenti.",
+      "en": "After Tribolo's death he carried on the work on the garden, together with Ammannati and Buontalenti.",
+      "fr": "Après la mort du Tribolo, il poursuivit les travaux du jardin, avec Ammannati et Buontalenti.",
+      "de": "Nach dem Tod des Tribolo führte er die Arbeiten am Garten fort, zusammen mit Ammannati und Buontalenti.",
+      "es": "Tras la muerte del Tribolo continuó las obras del jardín, junto con Ammannati y Buontalenti."
      }
     }
    },
@@ -5265,7 +5316,8 @@
    },
    "luoghi": [
     "basilica-di-santa-trinita",
-    "gallerie-degli-uffizi"
+    "gallerie-degli-uffizi",
+    "giardino-di-boboli"
    ],
    "luoghiNote": {
     "basilica-di-santa-trinita": {
@@ -5282,6 +5334,22 @@
       "fr": "Il conçut la façade, réalisée entre 1593 et 1594.",
       "de": "Er entwarf die Fassade, die zwischen 1593 und 1594 ausgeführt wurde.",
       "es": "Proyectó la fachada, realizada entre 1593 y 1594."
+     }
+    },
+    "giardino-di-boboli": {
+     "tipo": {
+      "it": "La Grotta Grande",
+      "en": "The Grotta Grande",
+      "fr": "La Grotta Grande",
+      "de": "Die Grotta Grande",
+      "es": "La Grotta Grande"
+     },
+     "testo": {
+      "it": "Realizzò tra il 1583 e il 1593 la Grotta Grande, detta Grotta del Buontalenti, esempio straordinario di gusto manierista.",
+      "en": "Between 1583 and 1593 he built the Grotta Grande, known as the Buontalenti Grotto, an extraordinary example of Mannerist taste.",
+      "fr": "Entre 1583 et 1593, il réalisa la Grotta Grande, dite grotte de Buontalenti, exemple extraordinaire du goût maniériste.",
+      "de": "Zwischen 1583 und 1593 schuf er die Grotta Grande, genannt Buontalenti-Grotte, ein außergewöhnliches Beispiel manieristischen Geschmacks.",
+      "es": "Entre 1583 y 1593 realizó la Grotta Grande, llamada Gruta de Buontalenti, un ejemplo extraordinario del gusto manierista."
      }
     }
    },

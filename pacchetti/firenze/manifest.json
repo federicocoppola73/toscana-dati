@@ -1,5 +1,5 @@
 {
- "versione": "413f62a22852",
+ "versione": "5624b9415fb7",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -462,6 +462,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-delliris_4.webp",
    "sha256": "77f0a7ed36ae5e9df0d8ef613f0abb7439dc51de1cef4c086cad2c82584a6833",
    "byte": 221376
+  },
+  {
+   "path": "assets/luoghi/giardino-di-boboli.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-di-boboli.webp",
+   "sha256": "80f7892eada60a8de8afb005fd02d9a66222efdd22b7613f603996ab97ba339a",
+   "byte": 167680
+  },
+  {
+   "path": "assets/luoghi/giardino-di-boboli_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-di-boboli_2.webp",
+   "sha256": "f4a90f1f5ab76edd447efe3b939dec2433042a224ac018470a30c2a812667248",
+   "byte": 86800
+  },
+  {
+   "path": "assets/luoghi/giardino-di-boboli_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-di-boboli_3.webp",
+   "sha256": "e29168fc15198dbf3f0ebc83a7e428561b90922874166deb5ac0073359b36203",
+   "byte": 105670
+  },
+  {
+   "path": "assets/luoghi/giardino-di-boboli_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-di-boboli_4.webp",
+   "sha256": "37b8680c2c3a3e51814af0123e823070d36fed8e282d6eb0f9da270fb25499e4",
+   "byte": 85498
+  },
+  {
+   "path": "assets/luoghi/giardino-di-boboli_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-di-boboli_5.webp",
+   "sha256": "b35ccec3a155c004389d67f19e10d7dd0e44262970f90794cb1b99a60cb7efbc",
+   "byte": 193548
   },
   {
    "path": "assets/luoghi/isolotto.webp",
@@ -4054,8 +4084,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "81531fbbb50597d1f72ad5a4725f46f5cd6a807bda612211385f37bb56dd975b",
-   "byte": 1156
+   "sha256": "9c7be74c792497f358cf385848627aefb99e99dc798a1269d8bca8bfb7f68957",
+   "byte": 1183
   },
   {
    "path": "dati/itinerari.json",
@@ -4066,8 +4096,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "08e5cd8fe49d92792740b3ff9c7dda62f2173224b314f701648751381ed4f27c",
-   "byte": 409834
+   "sha256": "561ff620cd5b3feabb4d0481663f51a0433c550b2f495768a6506fef72e0106b",
+   "byte": 449058
   },
   {
    "path": "dati/mappa.json",
@@ -4090,8 +4120,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "5c2c810d60ef6768adff3cc191e41fc5adf9c6b178ed8e652b1d38dc7a4c221c",
-   "byte": 880358
+   "sha256": "1c6ba273e495c5833fd475ba30043d615d02b295d16107dabaf8840839c0abdb",
+   "byte": 884425
   },
   {
    "path": "dati/principali.json",
@@ -4131,18 +4161,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "7d6d58f1e9be",
-   "da": "0a664fc40134",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto",
-    "altro"
-   ],
-   "foto_nuove": 3,
-   "byte": 1573220
-  },
   {
    "versione": "420ef18c49ea",
    "da": "7d6d58f1e9be",
@@ -4354,6 +4372,16 @@
    ],
    "foto_nuove": 5,
    "byte": 2227648
+  },
+  {
+   "versione": "5624b9415fb7",
+   "da": "413f62a22852",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Giardino di Boboli"
+   ],
+   "foto_nuove": 5,
+   "byte": 1973862
   }
  ]
 }

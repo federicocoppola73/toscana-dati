@@ -3648,6 +3648,281 @@
      "fonte": "https://www.flickr.com/people/43714545@N06"
     }
    ]
+  },
+  {
+   "id": "giardino-di-boboli",
+   "nome": "Giardino di Boboli",
+   "categoria": "giardini",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7645,
+   "longitudine": 11.2505,
+   "descrizione": {
+    "it": "Alle spalle di Palazzo Pitti si estende il Giardino di Boboli, uno dei più importanti giardini storici d'Italia e uno dei massimi esempi di giardino all'italiana. Nato come spazio verde privato della famiglia Medici, Boboli si trasformò nel corso dei secoli in un grande complesso monumentale, dove natura, architettura, scultura e paesaggio convivono in un progetto unitario.\n\nLa sua realizzazione iniziò nel 1549, quando Eleonora di Toledo, moglie del granduca Cosimo I de' Medici, acquistò Palazzo Pitti e i terreni retrostanti. Il progetto del giardino venne affidato a Niccolò Pericoli, detto il Tribolo, che concepì un sistema di viali geometrici, terrazzamenti, fontane e spazi verdi organizzati secondo una precisa impostazione architettonica. Dopo la morte del Tribolo, i lavori furono proseguiti da diversi artisti e architetti, tra cui Giorgio Vasari, Bartolomeo Ammannati e Bernardo Buontalenti.\n\nNel Seicento il giardino venne ampliato verso sud, fino a raggiungere l'area di Porta Romana. Fu realizzato il grande Viottolone, un viale alberato che attraversa il parco e conduce alla spettacolare Vasca dell'Isola, uno degli spazi più caratteristici di Boboli.\n\nDurante il governo degli Asburgo-Lorena, il giardino venne ulteriormente arricchito con nuove strutture architettoniche, tra cui il Kaffeehaus e la Limonaia, destinata alla conservazione degli agrumi durante la stagione fredda. Boboli divenne così un luogo di rappresentanza della corte, ma anche uno spazio destinato alle passeggiate, agli spettacoli e alla contemplazione del paesaggio. Nel 1766 il giardino venne aperto al pubblico, assumendo progressivamente anche una funzione culturale e turistica.\n\nOggi il parco costituisce un vero e proprio museo all'aperto: statue antiche e rinascimentali, fontane monumentali, grotte artificiali, padiglioni e grandi viali permettono di comprendere come il paesaggio fosse utilizzato dalle corti europee per esprimere prestigio, cultura e potere.",
+    "en": "Behind Palazzo Pitti stretches the Boboli Garden, one of the most important historic gardens in Italy and one of the finest examples of the Italian garden. Born as the private green space of the Medici family, Boboli grew over the centuries into a great monumental complex, where nature, architecture, sculpture and landscape coexist in a single design.\n\nWork began in 1549, when Eleonora of Toledo, wife of Grand Duke Cosimo I de' Medici, bought Palazzo Pitti and the land behind it. The design of the garden was entrusted to Niccolò Pericoli, known as Tribolo, who conceived a system of geometric avenues, terraces, fountains and green spaces arranged according to a precise architectural plan. After Tribolo's death, the work was continued by several artists and architects, among them Giorgio Vasari, Bartolomeo Ammannati and Bernardo Buontalenti.\n\nIn the 17th century the garden was extended southwards, as far as the Porta Romana area. The great Viottolone was built, a tree-lined avenue that crosses the park and leads to the spectacular Isolotto Basin, one of the most characteristic spaces in Boboli.\n\nUnder the Habsburg-Lorraine rulers the garden was enriched with new architectural structures, among them the Kaffeehaus and the Limonaia, meant to shelter citrus trees during the cold season. Boboli thus became a place of court display, but also a space for strolling, for performances and for contemplating the landscape. In 1766 the garden was opened to the public, gradually taking on a cultural and tourist role as well.\n\nToday the park is a true open-air museum: ancient and Renaissance statues, monumental fountains, artificial grottoes, pavilions and great avenues help you understand how landscape was used by European courts to express prestige, culture and power.",
+    "fr": "Derrière le Palazzo Pitti s'étend le jardin de Boboli, l'un des plus importants jardins historiques d'Italie et l'un des plus beaux exemples de jardin à l'italienne. Né comme espace vert privé de la famille Médicis, Boboli devint au fil des siècles un grand ensemble monumental, où nature, architecture, sculpture et paysage cohabitent dans un projet unitaire.\n\nSa réalisation commença en 1549, lorsque Éléonore de Tolède, épouse du grand-duc Cosme Ier de Médicis, acheta le Palazzo Pitti et les terrains situés derrière. Le projet du jardin fut confié à Niccolò Pericoli, dit le Tribolo, qui conçut un système d'allées géométriques, de terrasses, de fontaines et d'espaces verts organisés selon un plan architectural précis. Après la mort du Tribolo, les travaux furent poursuivis par plusieurs artistes et architectes, dont Giorgio Vasari, Bartolomeo Ammannati et Bernardo Buontalenti.\n\nAu XVIIe siècle, le jardin fut agrandi vers le sud, jusqu'à atteindre la zone de Porta Romana. On réalisa alors le grand Viottolone, une allée bordée d'arbres qui traverse le parc et mène au spectaculaire bassin de l'Isolotto, l'un des espaces les plus caractéristiques de Boboli.\n\nSous le gouvernement des Habsbourg-Lorraine, le jardin fut encore enrichi de nouvelles structures architecturales, dont le Kaffeehaus et la Limonaia, destinée à abriter les agrumes pendant la saison froide. Boboli devint ainsi un lieu de représentation de la cour, mais aussi un espace consacré aux promenades, aux spectacles et à la contemplation du paysage. En 1766, le jardin fut ouvert au public, assumant progressivement aussi une fonction culturelle et touristique.\n\nAujourd'hui, le parc constitue un véritable musée à ciel ouvert : statues antiques et de la Renaissance, fontaines monumentales, grottes artificielles, pavillons et grandes allées permettent de comprendre comment le paysage était utilisé par les cours européennes pour exprimer prestige, culture et pouvoir.",
+    "de": "Hinter dem Palazzo Pitti erstreckt sich der Boboli-Garten, einer der bedeutendsten historischen Gärten Italiens und eines der schönsten Beispiele des italienischen Gartens. Als privater Grünraum der Familie Medici entstanden, wurde Boboli im Lauf der Jahrhunderte zu einer großen monumentalen Anlage, in der Natur, Architektur, Skulptur und Landschaft in einem einheitlichen Entwurf zusammenleben.\n\nDie Anlage begann 1549, als Eleonora von Toledo, Gemahlin von Großherzog Cosimo I. de' Medici, den Palazzo Pitti und die dahinterliegenden Grundstücke erwarb. Der Entwurf des Gartens wurde Niccolò Pericoli, genannt il Tribolo, anvertraut, der ein System aus geometrischen Alleen, Terrassen, Brunnen und Grünflächen nach einem genauen architektonischen Plan entwarf. Nach dem Tod des Tribolo führten verschiedene Künstler und Architekten die Arbeiten fort, darunter Giorgio Vasari, Bartolomeo Ammannati und Bernardo Buontalenti.\n\nIm 17. Jahrhundert wurde der Garten nach Süden erweitert, bis in den Bereich der Porta Romana. Es entstand der große Viottolone, eine Allee, die den Park durchquert und zum spektakulären Isolotto-Becken führt, einem der typischsten Orte Bobolis.\n\nUnter den Habsburg-Lothringern wurde der Garten um neue architektonische Bauten bereichert, darunter das Kaffeehaus und die Limonaia, die dazu bestimmt war, die Zitruspflanzen in der kalten Jahreszeit zu schützen. Boboli wurde so zu einem Ort der höfischen Repräsentation, aber auch zu einem Raum für Spaziergänge, Aufführungen und die Betrachtung der Landschaft. 1766 wurde der Garten für die Öffentlichkeit geöffnet und übernahm nach und nach auch eine kulturelle und touristische Rolle.\n\nHeute ist der Park ein regelrechtes Freilichtmuseum: antike und Renaissance-Statuen, monumentale Brunnen, künstliche Grotten, Pavillons und große Alleen lassen verstehen, wie die europäischen Höfe die Landschaft nutzten, um Prestige, Kultur und Macht auszudrücken.",
+    "es": "Detrás del Palazzo Pitti se extiende el Jardín de Bóboli, uno de los jardines históricos más importantes de Italia y uno de los mayores ejemplos de jardín a la italiana. Nacido como espacio verde privado de la familia Médici, Bóboli se transformó a lo largo de los siglos en un gran complejo monumental, donde naturaleza, arquitectura, escultura y paisaje conviven en un proyecto unitario.\n\nSu realización comenzó en 1549, cuando Leonor de Toledo, esposa del gran duque Cosme I de' Médici, compró el Palazzo Pitti y los terrenos de detrás. El proyecto del jardín se confió a Niccolò Pericoli, llamado el Tribolo, que concibió un sistema de avenidas geométricas, terrazas, fuentes y espacios verdes organizados según un preciso plan arquitectónico. Tras la muerte del Tribolo, las obras continuaron con diversos artistas y arquitectos, entre ellos Giorgio Vasari, Bartolomeo Ammannati y Bernardo Buontalenti.\n\nEn el siglo XVII el jardín se amplió hacia el sur, hasta llegar a la zona de Porta Romana. Se construyó el gran Viottolone, una avenida arbolada que atraviesa el parque y conduce a la espectacular Vasca dell'Isola, uno de los espacios más característicos de Bóboli.\n\nDurante el gobierno de los Habsburgo-Lorena, el jardín se enriqueció con nuevas estructuras arquitectónicas, entre ellas el Kaffeehaus y la Limonaia, destinada a conservar los cítricos durante la estación fría. Bóboli se convirtió así en un lugar de representación de la corte, pero también en un espacio para pasear, para espectáculos y para contemplar el paisaje. En 1766 el jardín se abrió al público y fue asumiendo progresivamente también una función cultural y turística.\n\nHoy el parque es un auténtico museo al aire libre: estatuas antiguas y renacentistas, fuentes monumentales, grutas artificiales, pabellones y grandes avenidas permiten comprender cómo las cortes europeas utilizaban el paisaje para expresar prestigio, cultura y poder."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Nato nel 1549",
+      "en": "Born in 1549",
+      "fr": "Né en 1549",
+      "de": "Entstanden 1549",
+      "es": "Nacido en 1549"
+     },
+     "testo": {
+      "it": "Il giardino si sviluppò a partire dall'acquisto della proprietà da parte di Eleonora di Toledo nel 1549, sulla collina alle spalle di Palazzo Pitti.",
+      "en": "The garden grew out of Eleonora of Toledo's purchase of the property in 1549, on the hill behind Palazzo Pitti.",
+      "fr": "Le jardin se développa à partir de l'achat de la propriété par Éléonore de Tolède en 1549, sur la colline située derrière le Palazzo Pitti.",
+      "de": "Der Garten entwickelte sich aus dem Erwerb des Anwesens durch Eleonora von Toledo im Jahr 1549, auf dem Hügel hinter dem Palazzo Pitti.",
+      "es": "El jardín se desarrolló a partir de la compra de la propiedad por parte de Leonor de Toledo en 1549, en la colina situada detrás del Palazzo Pitti."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il progetto del Tribolo",
+      "en": "Tribolo's design",
+      "fr": "Le projet du Tribolo",
+      "de": "Der Entwurf des Tribolo",
+      "es": "El proyecto del Tribolo"
+     },
+     "testo": {
+      "it": "Il progetto iniziale fu affidato al Tribolo, lo stesso architetto e scultore che aveva lavorato a importanti giardini e fontane della Toscana medicea.",
+      "en": "The first design was entrusted to Tribolo, the same architect and sculptor who had worked on important gardens and fountains in Medici Tuscany.",
+      "fr": "Le projet initial fut confié au Tribolo, le même architecte et sculpteur qui avait travaillé à d'importants jardins et fontaines de la Toscane médicéenne.",
+      "de": "Der erste Entwurf wurde dem Tribolo anvertraut, demselben Architekten und Bildhauer, der an bedeutenden Gärten und Brunnen des mediceischen Toskana gearbeitet hatte.",
+      "es": "El proyecto inicial se confió al Tribolo, el mismo arquitecto y escultor que había trabajado en importantes jardines y fuentes de la Toscana medicea."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Una grotta quasi fantastica",
+      "en": "An almost fantastical grotto",
+      "fr": "Une grotte presque fantastique",
+      "de": "Eine fast fantastische Grotte",
+      "es": "Una gruta casi fantástica"
+     },
+     "testo": {
+      "it": "La Grotta del Buontalenti è uno degli esempi più spettacolari di architettura manierista: le decorazioni imitano rocce, stalattiti e ambienti naturali, creando un'atmosfera quasi fantastica.",
+      "en": "The Buontalenti Grotto is one of the most spectacular examples of Mannerist architecture: the decorations imitate rocks, stalactites and natural settings, creating an almost fantastical atmosphere.",
+      "fr": "La grotte de Buontalenti est l'un des exemples les plus spectaculaires d'architecture maniériste : les décorations imitent des rochers, des stalactites et des milieux naturels, créant une atmosphère presque fantastique.",
+      "de": "Die Buontalenti-Grotte ist eines der spektakulärsten Beispiele manieristischer Architektur: Die Dekorationen ahmen Felsen, Stalaktiten und natürliche Umgebungen nach und erzeugen eine fast fantastische Atmosphäre.",
+      "es": "La Gruta de Buontalenti es uno de los ejemplos más espectaculares de arquitectura manierista: las decoraciones imitan rocas, estalactitas y entornos naturales, creando una atmósfera casi fantástica."
+     }
+    },
+    {
+     "titolo": {
+      "it": "I Prigioni di Michelangelo",
+      "en": "Michelangelo's Prisoners",
+      "fr": "Les Prisonniers de Michel-Ange",
+      "de": "Michelangelos Gefangene",
+      "es": "Los Prisioneros de Miguel Ángel"
+     },
+     "testo": {
+      "it": "I quattro Prigioni di Michelangelo furono collocati originariamente nella Grotta del Buontalenti. Oggi gli originali sono conservati alla Galleria dell'Accademia, mentre nella grotta si trovano copie.",
+      "en": "Michelangelo's four Prisoners were originally placed in the Buontalenti Grotto. Today the originals are kept at the Galleria dell'Accademia, while copies stand in the grotto.",
+      "fr": "Les quatre Prisonniers de Michel-Ange furent placés à l'origine dans la grotte de Buontalenti. Aujourd'hui, les originaux sont conservés à la Galleria dell'Accademia, tandis que la grotte abrite des copies.",
+      "de": "Michelangelos vier Gefangene waren ursprünglich in der Buontalenti-Grotte aufgestellt. Heute werden die Originale in der Galleria dell'Accademia aufbewahrt, in der Grotte stehen Kopien.",
+      "es": "Los cuatro Prisioneros de Miguel Ángel se colocaron originalmente en la Gruta de Buontalenti. Hoy los originales se conservan en la Galleria dell'Accademia, mientras que en la gruta hay copias."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Una cava diventata teatro",
+      "en": "A quarry turned theatre",
+      "fr": "Une carrière devenue théâtre",
+      "de": "Ein Steinbruch wird zum Theater",
+      "es": "Una cantera convertida en teatro"
+     },
+     "testo": {
+      "it": "L'Anfiteatro di Boboli nacque sfruttando una grande cava di pietra utilizzata durante la costruzione di Palazzo Pitti. In seguito venne trasformato in una struttura monumentale destinata agli spettacoli di corte.",
+      "en": "The Boboli Amphitheatre was born by making use of a great stone quarry that had served for building Palazzo Pitti. It was later turned into a monumental structure for court performances.",
+      "fr": "L'amphithéâtre de Boboli est né de l'exploitation d'une grande carrière de pierre utilisée lors de la construction du Palazzo Pitti. Il fut ensuite transformé en une structure monumentale destinée aux spectacles de cour.",
+      "de": "Das Amphitheater von Boboli entstand durch die Nutzung eines großen Steinbruchs, der beim Bau des Palazzo Pitti verwendet worden war. Später wurde es zu einer monumentalen Anlage für höfische Aufführungen umgestaltet.",
+      "es": "El Anfiteatro de Bóboli nació aprovechando una gran cantera de piedra utilizada durante la construcción del Palazzo Pitti. Más tarde se transformó en una estructura monumental destinada a los espectáculos de corte."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un obelisco da Luxor",
+      "en": "An obelisk from Luxor",
+      "fr": "Un obélisque de Louxor",
+      "de": "Ein Obelisk aus Luxor",
+      "es": "Un obelisco de Luxor"
+     },
+     "testo": {
+      "it": "L'obelisco egizio collocato nell'Anfiteatro proviene da Luxor e arrivò a Firenze attraverso le collezioni medicee. È uno dei reperti più antichi presenti nel giardino.",
+      "en": "The Egyptian obelisk in the Amphitheatre comes from Luxor and reached Florence through the Medici collections. It is one of the oldest objects in the garden.",
+      "fr": "L'obélisque égyptien placé dans l'amphithéâtre provient de Louxor et arriva à Florence par les collections médicéennes. C'est l'une des pièces les plus anciennes du jardin.",
+      "de": "Der ägyptische Obelisk im Amphitheater stammt aus Luxor und gelangte über die Medici-Sammlungen nach Florenz. Er gehört zu den ältesten Objekten im Garten.",
+      "es": "El obelisco egipcio situado en el Anfiteatro procede de Luxor y llegó a Florencia a través de las colecciones medíceas. Es una de las piezas más antiguas del jardín."
+     }
+    },
+    {
+     "titolo": {
+      "it": "L'Oceano di Giambologna",
+      "en": "Giambologna's Oceanus",
+      "fr": "L'Océan de Giambologna",
+      "de": "Giambolognas Okeanos",
+      "es": "El Océano de Giambologna"
+     },
+     "testo": {
+      "it": "La Vasca dell'Isola, raggiunta attraverso il Viottolone, ospita al centro la statua dell'Oceano di Giambologna, circondata da una composizione di statue e vegetazione.",
+      "en": "The Isolotto Basin, reached along the Viottolone, holds at its centre Giambologna's statue of Oceanus, surrounded by a composition of statues and vegetation.",
+      "fr": "Le bassin de l'Isolotto, atteint par le Viottolone, accueille en son centre la statue de l'Océan de Giambologna, entourée d'une composition de statues et de végétation.",
+      "de": "Das Isolotto-Becken, das man über den Viottolone erreicht, birgt in seiner Mitte Giambolognas Statue des Okeanos, umgeben von einer Komposition aus Statuen und Vegetation.",
+      "es": "La Vasca dell'Isola, a la que se llega por el Viottolone, alberga en el centro la estatua del Océano de Giambologna, rodeada por una composición de estatuas y vegetación."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il Kaffeehaus rococò",
+      "en": "The Rococo Kaffeehaus",
+      "fr": "Le Kaffeehaus rococo",
+      "de": "Das Rokoko-Kaffeehaus",
+      "es": "El Kaffeehaus rococó"
+     },
+     "testo": {
+      "it": "Il Kaffeehaus fu costruito nel Settecento per offrire alla corte lorenese un luogo di sosta durante le passeggiate. È un raro esempio di architettura rococò in Toscana.",
+      "en": "The Kaffeehaus was built in the 18th century to give the Lorraine court a place to rest during their walks. It is a rare example of Rococo architecture in Tuscany.",
+      "fr": "Le Kaffeehaus fut construit au XVIIIe siècle pour offrir à la cour lorraine un lieu de pause pendant les promenades. C'est un rare exemple d'architecture rococo en Toscane.",
+      "de": "Das Kaffeehaus wurde im 18. Jahrhundert errichtet, um dem lothringischen Hof bei den Spaziergängen einen Ort zum Ausruhen zu bieten. Es ist ein seltenes Beispiel für Rokoko-Architektur in der Toskana.",
+      "es": "El Kaffeehaus se construyó en el siglo XVIII para ofrecer a la corte lorenesa un lugar de descanso durante los paseos. Es un raro ejemplo de arquitectura rococó en la Toscana."
+     }
+    },
+    {
+     "titolo": {
+      "it": "La Limonaia",
+      "en": "The Limonaia",
+      "fr": "La Limonaia",
+      "de": "Die Limonaia",
+      "es": "La Limonaia"
+     },
+     "testo": {
+      "it": "Nel giardino si trova anche una grande Limonaia, costruita nel Settecento per ospitare durante l'inverno gli agrumi coltivati nelle collezioni granducali.",
+      "en": "The garden also holds a large Limonaia, built in the 18th century to shelter in winter the citrus trees grown in the grand-ducal collections.",
+      "fr": "Le jardin abrite aussi une grande Limonaia, construite au XVIIIe siècle pour abriter pendant l'hiver les agrumes cultivés dans les collections grand-ducales.",
+      "de": "Im Garten steht auch eine große Limonaia, die im 18. Jahrhundert gebaut wurde, um im Winter die in den großherzoglichen Sammlungen kultivierten Zitruspflanzen zu beherbergen.",
+      "es": "En el jardín se encuentra también una gran Limonaia, construida en el siglo XVIII para albergar durante el invierno los cítricos cultivados en las colecciones granducales."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un modello per l'Europa",
+      "en": "A model for Europe",
+      "fr": "Un modèle pour l'Europe",
+      "de": "Ein Vorbild für Europa",
+      "es": "Un modelo para Europa"
+     },
+     "testo": {
+      "it": "Boboli è stato uno dei modelli più influenti per la progettazione dei giardini delle corti europee: la sua organizzazione geometrica, le prospettive e il rapporto tra architettura e natura furono ripresi in numerosi giardini storici.",
+      "en": "Boboli was one of the most influential models for the design of the gardens of European courts: its geometric layout, its perspectives and the relationship between architecture and nature were taken up in many historic gardens.",
+      "fr": "Boboli fut l'un des modèles les plus influents pour la conception des jardins des cours européennes : son organisation géométrique, ses perspectives et le rapport entre architecture et nature furent repris dans de nombreux jardins historiques.",
+      "de": "Boboli war eines der einflussreichsten Vorbilder für die Gestaltung der Gärten der europäischen Höfe: Seine geometrische Ordnung, seine Perspektiven und das Verhältnis von Architektur und Natur wurden in zahlreichen historischen Gärten aufgegriffen.",
+      "es": "Bóboli fue uno de los modelos más influyentes para el diseño de los jardines de las cortes europeas: su organización geométrica, sus perspectivas y la relación entre arquitectura y naturaleza se retomaron en numerosos jardines históricos."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "8:15–16:30",
+     "periodo": "01-01/02-28"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:15–17:30",
+     "periodo": "03-01/03-27"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:15–18:30",
+     "periodo": "03-28/05-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:15–19:10",
+     "periodo": "06-01/08-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:15–18:30",
+     "periodo": "09-01/10-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:15–17:30",
+     "periodo": "10-31/10-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:15–16:30",
+     "periodo": "11-01/12-31"
+    }
+   ],
+   "biglietto": {
+    "intero": 10,
+    "ridotto": 2
+   },
+   "nota": {
+    "it": "Ultimo ingresso un'ora prima della chiusura. Gli orari di chiusura variano con la stagione e seguono l'ora legale; la tabella è calcolata sul calendario 2027 e può spostarsi di qualche giorno da un anno all'altro. Intero 10 € se acquistato il giorno stesso, 13 € se acquistato in anticipo; ridotto 2 € secondo le categorie previste dalla normativa; gratuito per le categorie aventi diritto e, di norma, la prima domenica del mese. Biglietti cumulativi: Palazzo Pitti + Giardino di Boboli 22 € (25 € se acquistato in anticipo); Boboli + Giardino Bardini, biglietto integrato da 15 € presso le biglietterie. Quattro ingressi: Palazzo Pitti (Piazza de' Pitti 1), Annalena (via Romana), Porta Romana e Forte Belvedere; si può entrare da un varco e uscire da un altro, verificando eventuali limitazioni temporanee. Chiuso il primo e l'ultimo lunedì del mese e il 25 dicembre; in caso di maltempo o manutenzione possono esserci chiusure temporanee o modifiche degli orari. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Last entry one hour before closing. Closing times change with the season and follow daylight saving time; the table is based on the 2027 calendar and may shift by a few days from year to year. Full price €10 if bought on the day, €13 if bought in advance; reduced €2 for the categories provided by law; free for those entitled and, as a rule, on the first Sunday of the month. Combined tickets: Palazzo Pitti + Boboli Garden €22 (€25 if bought in advance); Boboli + Bardini Garden, integrated ticket €15 at the ticket offices. Four entrances: Palazzo Pitti (Piazza de' Pitti 1), Annalena (Via Romana), Porta Romana and Forte Belvedere; you can enter by one gate and leave by another, checking for any temporary restrictions. Closed on the first and last Monday of the month and on 25 December; in bad weather or for maintenance there may be temporary closures or changes to the hours. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Dernière entrée une heure avant la fermeture. Les heures de fermeture varient selon la saison et suivent l'heure d'été ; le tableau est calculé sur le calendrier 2027 et peut se décaler de quelques jours d'une année à l'autre. Plein tarif 10 € si acheté le jour même, 13 € si acheté à l'avance ; tarif réduit 2 € selon les catégories prévues par la loi ; gratuit pour les ayants droit et, en règle générale, le premier dimanche du mois. Billets combinés : Palazzo Pitti + jardin de Boboli 22 € (25 € si acheté à l'avance) ; Boboli + jardin Bardini, billet intégré à 15 € aux guichets. Quatre entrées : Palazzo Pitti (Piazza de' Pitti 1), Annalena (via Romana), Porta Romana et Forte Belvedere ; on peut entrer par un accès et sortir par un autre, en vérifiant les éventuelles restrictions temporaires. Fermé le premier et le dernier lundi du mois et le 25 décembre ; en cas de mauvais temps ou de travaux, des fermetures temporaires ou des modifications d'horaires sont possibles. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Letzter Einlass eine Stunde vor Schließung. Die Schließzeiten ändern sich mit der Jahreszeit und folgen der Sommerzeit; die Tabelle beruht auf dem Kalender 2027 und kann sich von Jahr zu Jahr um einige Tage verschieben. Voller Preis 10 € bei Kauf am selben Tag, 13 € bei Vorverkauf; ermäßigt 2 € für die gesetzlich vorgesehenen Gruppen; frei für Anspruchsberechtigte und in der Regel am ersten Sonntag im Monat. Kombitickets: Palazzo Pitti + Boboli-Garten 22 € (25 € im Vorverkauf); Boboli + Giardino Bardini, Kombiticket für 15 € an den Kassen. Vier Eingänge: Palazzo Pitti (Piazza de' Pitti 1), Annalena (Via Romana), Porta Romana und Forte Belvedere; man kann an einem Eingang hinein und an einem anderen hinausgehen und sollte vorab auf mögliche vorübergehende Einschränkungen achten. Am ersten und letzten Montag des Monats und am 25. Dezember geschlossen; bei schlechtem Wetter oder Wartungsarbeiten sind zeitweilige Schließungen oder geänderte Zeiten möglich. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Última entrada una hora antes del cierre. Los horarios de cierre varían con la estación y siguen el horario de verano; la tabla se basa en el calendario de 2027 y puede desplazarse unos días de un año a otro. Entrada 10 € si se compra el mismo día, 13 € si se compra con antelación; reducida 2 € según las categorías previstas por la normativa; gratuita para quienes tienen derecho a ella y, por norma, el primer domingo del mes. Entradas combinadas: Palazzo Pitti + Jardín de Bóboli 22 € (25 € con antelación); Bóboli + Giardino Bardini, entrada integrada de 15 € en las taquillas. Cuatro accesos: Palazzo Pitti (Piazza de' Pitti 1), Annalena (via Romana), Porta Romana y Forte Belvedere; se puede entrar por un acceso y salir por otro, comprobando las posibles limitaciones temporales. Cerrado el primer y el último lunes del mes y el 25 de diciembre; en caso de mal tiempo o de mantenimiento puede haber cierres temporales o cambios de horario. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "sito": "https://www.uffizi.it/giardino-boboli",
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/sites/default/files/2025-07/note%20sull'accessibilit%C3%A0%20ai%20musei%20fiorentini%20a%20luglio%2025%20ITA.pdf",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Il giardino si estende per circa 30 ettari su un terreno collinare, con fondo in terra e ghiaia e pendenze fino al 20%: le persone con disabilità lo visitano con un accompagnatore. Ogni ingresso ha la biglietteria ed è anche un'uscita. Da Piazza Pitti si attraversa il cortile dell'Ammannati e si prende a sinistra, sotto il loggiato, il tunnel che porta al piazzale di Bacco, dove ci sono 3 gradini di dislivello; la Grotta del Buontalenti, con la sua scalinata, è accessibile solo in parte, e da lì una strada in salita sale all'Anfiteatro. Dall'ingresso Annalena (via Romana 37/A) il vialetto dopo la biglietteria ha una pendenza di circa il 20% con una curva stretta a destra, e il percorso verso l'Anfiteatro è sconsigliato a chi usa una carrozzina a motore. Da Porta Romana si entra nella zona sud, quasi tutta in piano e senza ostacoli particolari, fino alla Vasca dell'Isola. Dal Forte Belvedere si arriva alla parte più alta: il Museo delle Porcellane, raggiungibile con una scalinata, è accessibile solo in parte, e dal Prato dei Castagni un vialetto a serpentina scende abbastanza dolcemente verso la parte bassa, con un gradino smussato di circa 6 cm tra prato e strada. Un bagno è a destra dell'Anfiteatro, con le spalle a Palazzo Pitti, e si raggiunge con un montascale (69 × 80 cm) da far attivare al personale del giardino o del bookshop; un piccolo bagno di servizio si trova all'ingresso Annalena. Il bookshop ha un piccolo scalino di 4–5 cm. All'ingresso è disponibile una mappa dei percorsi per chi ha mobilità ridotta o usa la carrozzina, con durata, difficoltà e pendenze. Informazioni: Dipartimento di Mediazione culturale e Accessibilità, +39 055 2388617 (lun–ven 9:30–16:30), uffiziaccessibili@cultura.gov.it.",
+      "en": "The garden covers about 30 hectares of hilly ground, with earth and gravel surfaces and slopes of up to 20%: visitors with disabilities tour it with a companion. Every entrance has a ticket office and is also an exit. From Piazza Pitti you cross the Ammannati courtyard and take, on the left under the loggia, the tunnel that leads to the Piazzale di Bacco, where there are 3 steps of level difference; the Buontalenti Grotto, with its staircase, is only partly accessible, and from there a road climbs up to the Amphitheatre. From the Annalena entrance (Via Romana 37/A) the path after the ticket office has a gradient of about 20% with a tight bend to the right, and the route towards the Amphitheatre is not recommended for people using a powered wheelchair. From Porta Romana you enter the southern area, almost entirely flat and without particular obstacles, as far as the Isolotto Basin. From Forte Belvedere you reach the highest part: the Porcelain Museum, reached by a flight of steps, is only partly accessible, and from the Prato dei Castagni a winding path descends fairly gently to the lower part, with a bevelled step of about 6 cm between lawn and road. One toilet is to the right of the Amphitheatre, with Palazzo Pitti at your back, and is reached by a stairlift (69 × 80 cm) that the garden or bookshop staff must activate; a small service toilet is at the Annalena entrance. The bookshop has a small step of 4–5 cm. A map of routes for people with reduced mobility or wheelchair users, with duration, difficulty and gradients, is available at the entrance. Information: Department of Cultural Mediation and Accessibility, +39 055 2388617 (Mon–Fri 9:30–16:30), uffiziaccessibili@cultura.gov.it.",
+      "fr": "Le jardin s'étend sur environ 30 hectares de terrain vallonné, avec un sol de terre et de gravier et des pentes allant jusqu'à 20 % : les personnes en situation de handicap le visitent avec un accompagnateur. Chaque entrée a sa billetterie et sert aussi de sortie. Depuis la piazza Pitti, on traverse la cour de l'Ammannati et l'on prend à gauche, sous la loggia, le tunnel qui mène à la piazzale di Bacco, où se trouvent 3 marches de dénivelé ; la grotte de Buontalenti, avec son escalier, n'est que partiellement accessible, et de là une route en montée rejoint l'amphithéâtre. Depuis l'entrée Annalena (via Romana 37/A), l'allée après la billetterie présente une pente d'environ 20 % avec un virage serré à droite, et le parcours vers l'amphithéâtre est déconseillé aux personnes en fauteuil roulant électrique. Depuis Porta Romana, on accède à la zone sud, presque entièrement plane et sans obstacle particulier, jusqu'au bassin de l'Isolotto. Depuis le Forte Belvedere, on atteint la partie la plus haute : le musée des Porcelaines, accessible par un escalier, n'est que partiellement accessible, et depuis le Prato dei Castagni une allée en lacets descend assez doucement vers la partie basse, avec une marche chanfreinée d'environ 6 cm entre la pelouse et la route. Des toilettes se trouvent à droite de l'amphithéâtre, le Palazzo Pitti dans le dos, et l'on y accède par un monte-escaliers (69 × 80 cm) que le personnel du jardin ou de la librairie doit activer ; de petites toilettes de service se trouvent à l'entrée Annalena. La librairie a une petite marche de 4 à 5 cm. Une carte des parcours pour les personnes à mobilité réduite ou en fauteuil roulant, avec durée, difficulté et pentes, est disponible à l'entrée. Informations : Département de médiation culturelle et d'accessibilité, +39 055 2388617 (lun.–ven. 9 h 30–16 h 30), uffiziaccessibili@cultura.gov.it.",
+      "de": "Der Garten erstreckt sich über rund 30 Hektar hügeliges Gelände, mit Erd- und Kiesboden und Steigungen bis zu 20 %: Besucher mit Behinderung besichtigen ihn mit einer Begleitperson. Jeder Eingang hat eine Kasse und ist zugleich Ausgang. Von der Piazza Pitti durchquert man den Ammannati-Hof und nimmt links unter der Loggia den Tunnel, der zum Piazzale di Bacco führt, wo es 3 Stufen Höhenunterschied gibt; die Buontalenti-Grotte mit ihrer Treppe ist nur teilweise zugänglich, und von dort führt eine ansteigende Straße zum Amphitheater. Vom Eingang Annalena (Via Romana 37/A) hat der Weg hinter der Kasse eine Steigung von etwa 20 % mit einer engen Rechtskurve, und der Weg zum Amphitheater wird für Nutzer eines Elektrorollstuhls nicht empfohlen. Von der Porta Romana gelangt man in den Südteil, der fast völlig eben und ohne besondere Hindernisse ist, bis zum Isolotto-Becken. Vom Forte Belvedere erreicht man den höchsten Teil: Das Porzellanmuseum, das man über eine Treppe erreicht, ist nur teilweise zugänglich, und vom Prato dei Castagni führt ein gewundener Weg recht sanft in den unteren Teil hinab, mit einer abgeschrägten Stufe von etwa 6 cm zwischen Wiese und Straße. Eine Toilette befindet sich rechts vom Amphitheater, mit dem Palazzo Pitti im Rücken, und ist über einen Treppenlift (69 × 80 cm) erreichbar, den das Personal des Gartens oder des Bookshops aktivieren muss; eine kleine Dienst-Toilette gibt es am Eingang Annalena. Der Bookshop hat eine kleine Stufe von 4–5 cm. Am Eingang ist eine Karte der Wege für Menschen mit eingeschränkter Mobilität oder Rollstuhlnutzer erhältlich, mit Dauer, Schwierigkeit und Steigungen. Auskunft: Abteilung für kulturelle Vermittlung und Barrierefreiheit, +39 055 2388617 (Mo–Fr 9:30–16:30), uffiziaccessibili@cultura.gov.it.",
+      "es": "El jardín se extiende por unas 30 hectáreas de terreno de colina, con suelo de tierra y grava y pendientes de hasta el 20 %: las personas con discapacidad lo visitan con un acompañante. Cada entrada tiene taquilla y es también una salida. Desde Piazza Pitti se cruza el patio de Ammannati y se toma a la izquierda, bajo la logia, el túnel que lleva a la piazzale di Bacco, donde hay 3 escalones de desnivel; la Gruta de Buontalenti, con su escalinata, es solo parcialmente accesible, y desde allí una calle en subida llega al Anfiteatro. Desde la entrada Annalena (via Romana 37/A), el camino tras la taquilla tiene una pendiente de aproximadamente el 20 % con una curva cerrada a la derecha, y el recorrido hacia el Anfiteatro no se aconseja a quienes usan una silla de ruedas motorizada. Desde Porta Romana se entra en la zona sur, casi toda llana y sin obstáculos particulares, hasta la Vasca dell'Isola. Desde el Forte Belvedere se llega a la parte más alta: el Museo de las Porcelanas, al que se llega por una escalinata, es solo parcialmente accesible, y desde el Prato dei Castagni un camino en serpentina desciende con bastante suavidad hacia la parte baja, con un escalón biselado de unos 6 cm entre el césped y la calle. Un aseo está a la derecha del Anfiteatro, con el Palazzo Pitti a la espalda, y se llega por un salvaescaleras (69 × 80 cm) que debe activar el personal del jardín o de la tienda; un pequeño aseo de servicio se encuentra en la entrada Annalena. La tienda tiene un pequeño escalón de 4–5 cm. En la entrada hay un mapa de recorridos para personas con movilidad reducida o en silla de ruedas, con duración, dificultad y pendientes. Información: Departamento de Mediación Cultural y Accesibilidad, +39 055 2388617 (lun–vie 9:30–16:30), uffiziaccessibili@cultura.gov.it."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Boboli Gardens"
+   },
+   "nomi": {
+    "en": "Giardino di Boboli (Boboli Gardens)",
+    "fr": "Giardino di Boboli (Jardin de Boboli)",
+    "de": "Giardino di Boboli (Boboli-Garten)",
+    "es": "Giardino di Boboli (Jardín de Bóboli)"
+   },
+   "immagine": {
+    "autore": "Eliss00",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Eliss00"
+   },
+   "galleria": [
+    {
+     "autore": "Txllxt TxllxT",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    },
+    {
+     "autore": "Paolo Villa",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Vuvueffino"
+    },
+    {
+     "autore": "Paolo Villa",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Vuvueffino"
+    }
+   ]
   }
  ]
 }
