@@ -1,5 +1,5 @@
 {
- "versione": "a1f2fbf9e4a7",
+ "versione": "e241248fb9a8",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -310,8 +310,8 @@
   {
    "path": "assets/luoghi/museo-di-san-marco_3.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco_3.webp",
-   "sha256": "6c4884fe216da63aadbaf47694958dd2cef06e344329f90313ef7bb04faab2a5",
-   "byte": 142804
+   "sha256": "fba118d820596f3b2e17efda72dd5f5a237934900f97709a82d22246e7a52d1b",
+   "byte": 101558
   },
   {
    "path": "assets/luoghi/museo-di-san-marco_4.webp",
@@ -3634,8 +3634,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "a8968ca1424fc498480b525cec86a2fabb8e7429caca1ed73d5392b0ebca10b2",
-   "byte": 195640
+   "sha256": "ea27cfe7ae475f2682164250a1c1792461e05b1dcc7231cbd4f6e9ee18d4a200",
+   "byte": 195648
   },
   {
    "path": "dati/mappa.json",
@@ -3699,12 +3699,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "02f974fc8dc5",
-   "da": "84d7c6816ddc",
-   "data": "2026-11-23",
-   "byte": 608927
-  },
   {
    "versione": "0e33ff5460e7",
    "da": "02f974fc8dc5",
@@ -3862,6 +3856,16 @@
    ],
    "foto_nuove": 5,
    "byte": 856944
+  },
+  {
+   "versione": "e241248fb9a8",
+   "da": "a1f2fbf9e4a7",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "byte": 297206
   }
  ]
 }
