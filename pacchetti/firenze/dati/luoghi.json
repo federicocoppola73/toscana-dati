@@ -1871,8 +1871,8 @@
    "nome": "Viale dei Colli",
    "categoria": "altri",
    "sestiere": "Oltrarno",
-   "latitudine": 43.7629,
-   "longitudine": 11.2651,
+   "latitudine": 43.7617,
+   "longitudine": 11.2735,
    "descrizione": {
     "it": "Il Viale dei Colli è una lunga strada panoramica che sale sulle colline a sud dell'Arno, da Porta Romana fino a Piazzale Michelangelo e al Ponte San Niccolò, per circa 5,7 chilometri.\n\nFu progettato da Giuseppe Poggi negli anni 1865–1875, quando Firenze era capitale del Regno d'Italia, come parte del piano di ampliamento della città.\n\nLungo il percorso si incontrano giardini, ville e punti di vista sulla città. La tappa più celebre è Piazzale Michelangelo, grande terrazza panoramica sul centro storico.",
     "en": "Viale dei Colli is a long scenic road that climbs the hills south of the Arno, from Porta Romana to Piazzale Michelangelo and Ponte San Niccolò, for about 5.7 kilometres.\n\nIt was designed by Giuseppe Poggi in the years 1865–1875, when Florence was the capital of the Kingdom of Italy, as part of the city's expansion plan.\n\nAlong the way you find gardens, villas and viewpoints over the city. The best-known stop is Piazzale Michelangelo, a great panoramic terrace over the historic centre.",
@@ -1922,7 +1922,24 @@
     "fr": "Viale dei Colli (avenue des Collines)",
     "de": "Viale dei Colli (Hügelallee)",
     "es": "Viale dei Colli (avenida de las Colinas)"
-   }
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "GFDL 1.2",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "GFDL 1.2",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Opera propria",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/792498"
+    }
+   ]
   },
   {
    "id": "piazzale-michelangelo",

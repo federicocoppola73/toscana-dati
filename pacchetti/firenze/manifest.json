@@ -1,5 +1,5 @@
 {
- "versione": "0a664fc40134",
+ "versione": "7d6d58f1e9be",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -582,6 +582,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ponte-vecchio_4.webp",
    "sha256": "d8e2d8e531aebd18fd88ce88f29fdc6e5aa42817bcb8d102bdc5fc648369ea44",
    "byte": 85552
+  },
+  {
+   "path": "assets/luoghi/viale-dei-colli.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/viale-dei-colli.webp",
+   "sha256": "08830e3c5cfcb05a36665bd27d8dd18aa06d577205f31f62ecfaeb0c3ded1fb9",
+   "byte": 161188
+  },
+  {
+   "path": "assets/luoghi/viale-dei-colli_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/viale-dei-colli_2.webp",
+   "sha256": "5bad83827b814f684b1498538b6847be6e7f418dc18fbeb02b98f4794649b92f",
+   "byte": 156386
+  },
+  {
+   "path": "assets/luoghi/viale-dei-colli_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/viale-dei-colli_3.webp",
+   "sha256": "6c03154df2c1a8607f0564c11acc1f32a95cce45d98340691f1c61e02b6a26b7",
+   "byte": 180284
   },
   {
    "path": "assets/mappa-firenze.webp",
@@ -3706,8 +3724,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "cd6ccfeee1ed280c34980a4a2660e1f154ad7c1edd457740dea32c44d88f9954",
-   "byte": 717
+   "sha256": "e076a1ef904983789fef05370c569ec264876fc3ee12c580f8a62a0b92970192",
+   "byte": 741
   },
   {
    "path": "dati/itinerari.json",
@@ -3718,8 +3736,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "5b601818a21a9f68498e4b9d3ffa3ab4642c1b462ad80805ba3c5862a6b48462",
-   "byte": 201864
+   "sha256": "4b3ed72a5e46e675f40f60e2b7ec34cbf753b8cda87441572667022600fd6b86",
+   "byte": 202308
   },
   {
    "path": "dati/mappa.json",
@@ -3742,8 +3760,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "4f6a95ad3180f32c66e6de1a33434256667f904ee3276d55524f670a37460567",
-   "byte": 872206
+   "sha256": "50085db286e8c319492d5b2e0978ccb0f57d71de1096bee623f54aa118879268",
+   "byte": 872313
   },
   {
    "path": "dati/principali.json",
@@ -3783,12 +3801,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "ec0d40b1a81a",
-   "da": "b7724c8d6df2",
-   "data": "2026-11-23",
-   "byte": 1370417
-  },
   {
    "versione": "80d62d1aef9e",
    "da": "ec0d40b1a81a",
@@ -3973,6 +3985,18 @@
    ],
    "foto_nuove": 4,
    "byte": 1455423
+  },
+  {
+   "versione": "7d6d58f1e9be",
+   "da": "0a664fc40134",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto",
+    "altro"
+   ],
+   "foto_nuove": 3,
+   "byte": 1573220
   }
  ]
 }
