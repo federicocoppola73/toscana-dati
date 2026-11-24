@@ -3492,7 +3492,8 @@
     "museo-nazionale-del-bargello",
     "museo-dellopera-del-duomo",
     "piazzale-michelangelo",
-    "gallerie-degli-uffizi"
+    "gallerie-degli-uffizi",
+    "galleria-dellaccademia-di-firenze"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -3605,6 +3606,22 @@
       "fr": "Sur la Piazzale Michelangelo se dresse une copie en bronze de son David.",
       "de": "Auf der Piazzale Michelangelo steht eine Bronzekopie seines David.",
       "es": "En la Piazzale Michelangelo se alza una copia en bronce de su David."
+     }
+    },
+    "galleria-dellaccademia-di-firenze": {
+     "tipo": {
+      "it": "Il David e i Prigioni",
+      "en": "The David and the Prisoners",
+      "fr": "Le David et les Prisonniers",
+      "de": "Der David und die Gefangenen",
+      "es": "El David y los Prisioneros"
+     },
+     "testo": {
+      "it": "Qui si conserva l'originale del David, scolpito tra il 1501 e il 1504, insieme ai Prigioni incompiuti pensati per la tomba di Giulio II.",
+      "en": "The original David, carved between 1501 and 1504, is kept here, together with the unfinished Prisoners conceived for the tomb of Julius II.",
+      "fr": "L'original du David, sculpté entre 1501 et 1504, est conservé ici, avec les Prisonniers inachevés conçus pour le tombeau de Jules II.",
+      "de": "Hier wird das Original des zwischen 1501 und 1504 geschaffenen David aufbewahrt, zusammen mit den unvollendeten Gefangenen, die für das Grabmal Julius' II. gedacht waren.",
+      "es": "Aquí se conserva el original del David, esculpido entre 1501 y 1504, junto con los Prisioneros inacabados pensados para la tumba de Julio II."
      }
     }
    },
@@ -4529,7 +4546,8 @@
     "ponte-vecchio",
     "piazza-della-signoria",
     "basilica-di-san-lorenzo",
-    "gallerie-degli-uffizi"
+    "gallerie-degli-uffizi",
+    "galleria-dellaccademia-di-firenze"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -4626,6 +4644,22 @@
       "fr": "En 1560, il confia à Vasari la construction du palais, destiné à réunir les bureaux du gouvernement.",
       "de": "1560 beauftragte er Vasari mit dem Bau des Palastes, der die Regierungsbüros vereinen sollte.",
       "es": "En 1560 encargó a Vasari la construcción del palacio, destinado a reunir las oficinas del gobierno."
+     }
+    },
+    "galleria-dellaccademia-di-firenze": {
+     "tipo": {
+      "it": "L'Accademia delle Arti del Disegno",
+      "en": "The Accademia delle Arti del Disegno",
+      "fr": "L'Accademia delle Arti del Disegno",
+      "de": "Die Accademia delle Arti del Disegno",
+      "es": "La Accademia delle Arti del Disegno"
+     },
+     "testo": {
+      "it": "L'Accademia delle Arti del Disegno, dalla cui riorganizzazione nacque il museo, fu fondata nel 1563 sotto Cosimo I.",
+      "en": "The Accademia delle Arti del Disegno, whose reorganisation gave rise to the museum, was founded in 1563 under Cosimo I.",
+      "fr": "L'Accademia delle Arti del Disegno, dont la réorganisation donna naissance au musée, fut fondée en 1563 sous Cosme Ier.",
+      "de": "Die Accademia delle Arti del Disegno, aus deren Neuordnung das Museum hervorging, wurde 1563 unter Cosimo I. gegründet.",
+      "es": "La Accademia delle Arti del Disegno, de cuya reorganización nació el museo, fue fundada en 1563 bajo Cosme I."
      }
     }
    },
@@ -5734,7 +5768,8 @@
    },
    "luoghi": [
     "palazzo-pitti",
-    "gallerie-degli-uffizi"
+    "gallerie-degli-uffizi",
+    "galleria-dellaccademia-di-firenze"
    ],
    "luoghiNote": {
     "palazzo-pitti": {
@@ -5767,6 +5802,22 @@
       "fr": "En 1769, sous son gouvernement, la Galerie fut ouverte au public.",
       "de": "1769 wurde die Galerie unter seiner Regierung für die Öffentlichkeit geöffnet.",
       "es": "En 1769, bajo su gobierno, la Galería se abrió al público."
+     }
+    },
+    "galleria-dellaccademia-di-firenze": {
+     "tipo": {
+      "it": "Il museo del 1784",
+      "en": "The museum of 1784",
+      "fr": "Le musée de 1784",
+      "de": "Das Museum von 1784",
+      "es": "El museo de 1784"
+     },
+     "testo": {
+      "it": "Nel 1784 riorganizzò l'Accademia delle Arti del Disegno e diede vita alla moderna Accademia di Belle Arti: da quella riforma nacque il museo.",
+      "en": "In 1784 he reorganised the Accademia delle Arti del Disegno and created the modern Academy of Fine Arts: the museum was born from that reform.",
+      "fr": "En 1784, il réorganisa l'Accademia delle Arti del Disegno et donna naissance à la moderne Académie des beaux-arts : le musée est né de cette réforme.",
+      "de": "1784 ordnete er die Accademia delle Arti del Disegno neu und schuf die moderne Kunstakademie: Aus dieser Reform entstand das Museum.",
+      "es": "En 1784 reorganizó la Accademia delle Arti del Disegno y dio vida a la moderna Academia de Bellas Artes: de aquella reforma nació el museo."
      }
     }
    },

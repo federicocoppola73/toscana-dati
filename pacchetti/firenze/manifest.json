@@ -1,5 +1,5 @@
 {
- "versione": "906338746e4d",
+ "versione": "4c9e36aacde2",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -4000,8 +4000,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "d6e8c2432b4938933e4aeba55e1c8eed562d9df3c2cb17aa4d22523240423079",
-   "byte": 347768
+   "sha256": "2e0dd6edd8d7718fc084c08130dcc2ada38757a811d083cd32d6002ba4a80c70",
+   "byte": 375428
   },
   {
    "path": "dati/mappa.json",
@@ -4024,8 +4024,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "26531ecd8223d6cd4888068041c1e6c1328cbdd5c5cbf0f505dae2dc09b62ffc",
-   "byte": 874772
+   "sha256": "c6e28544d5ecf3bbd8c515a21a2dd49f577ac1bb4d87803422f4a0bc42a0a1ff",
+   "byte": 878072
   },
   {
    "path": "dati/principali.json",
@@ -4065,17 +4065,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "94f33a55a645",
-   "da": "749b25b2e6d4",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 2,
-   "byte": 390589
-  },
   {
    "versione": "3b45d6ce70e0",
    "da": "94f33a55a645",
@@ -4294,6 +4283,15 @@
    ],
    "foto_nuove": 4,
    "byte": 699567
+  },
+  {
+   "versione": "4c9e36aacde2",
+   "da": "906338746e4d",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Galleria dell'Accademia di Firenze"
+   ],
+   "byte": 1253500
   }
  ]
 }
