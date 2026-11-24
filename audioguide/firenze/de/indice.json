@@ -1,5 +1,5 @@
 {
- "versione": "ee8f639b4027",
+ "versione": "0718c82bf378",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -14,6 +14,21 @@
      "secondi": 211,
      "sha256": "24ea439b4c0c1adb7a0dc6f9cb876b34b0da7cfb1c8d9b1a5c7f40993dba3da0",
      "testo": "c6cacde4ab171409"
+    }
+   ]
+  },
+  "basilica-di-san-miniato-al-monte": {
+   "byte": 1636892,
+   "secondi": 273,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-san-miniato-al-monte.mp3",
+     "byte": 1636892,
+     "secondi": 273,
+     "sha256": "9098ce6cc27833f72289f6578764e4ed706bdc9e4962953175ed826b1c1fe490",
+     "testo": "78f4f924e881ce45"
     }
    ]
   },
@@ -125,6 +140,21 @@
     }
    ]
   },
+  "chiesa-di-san-salvatore-al-monte": {
+   "byte": 821996,
+   "secondi": 137,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "chiesa-di-san-salvatore-al-monte.mp3",
+     "byte": 821996,
+     "secondi": 137,
+     "sha256": "f17a6331a94839b4b0af8408bd0f0af624b780d18fb7b67fddb2e6e74596e7f6",
+     "testo": "7313de31a8b29ccc"
+    }
+   ]
+  },
   "chiesa-e-museo-di-orsanmichele": {
    "byte": 1121372,
    "secondi": 187,
@@ -137,6 +167,21 @@
      "secondi": 187,
      "sha256": "07b8c785c6684cd47cbac8627a472752a17b51a254b499aa61961d97e70179a4",
      "testo": "d6765af0ed160ed8"
+    }
+   ]
+  },
+  "cimitero-delle-porte-sante": {
+   "byte": 1104668,
+   "secondi": 184,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "cimitero-delle-porte-sante.mp3",
+     "byte": 1104668,
+     "secondi": 184,
+     "sha256": "7a05580a4c2b731111ab2c390d2825b4cbe641a33652a49537fefb882c620d24",
+     "testo": "c1d640ab253fdb1b"
     }
    ]
   },
@@ -161,6 +206,36 @@
      "secondi": 173,
      "sha256": "6d67a3a4c2eb9141061c0a8d9fc2bc2553bcfa190f12a35a86ff9d7515e3bf01",
      "testo": "d14b68a06de8e154"
+    }
+   ]
+  },
+  "giardino-delle-rose": {
+   "byte": 978668,
+   "secondi": 163,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "giardino-delle-rose.mp3",
+     "byte": 978668,
+     "secondi": 163,
+     "sha256": "e559a950703d3b7316b0c1a4aa898929cb1d0d95ef1a5575504d5bbeafb1b3f0",
+     "testo": "8b2972330e98ef21"
+    }
+   ]
+  },
+  "giardino-delliris": {
+   "byte": 892268,
+   "secondi": 149,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "giardino-delliris.mp3",
+     "byte": 892268,
+     "secondi": 149,
+     "sha256": "94b4065030fb1e1b815a7b622ab2273443875008752c50ffd601b644d1cef3c7",
+     "testo": "d9709aefb9726f0f"
     }
    ]
   },
@@ -314,6 +389,36 @@
     }
    ]
   },
+  "parco-del-bobolino": {
+   "byte": 691532,
+   "secondi": 115,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "parco-del-bobolino.mp3",
+     "byte": 691532,
+     "secondi": 115,
+     "sha256": "09f8b7cc4860945502bf462ffc0b6e5045fcd9d6fb197f81122518d891571c2f",
+     "testo": "3bf42cd922b0dd63"
+    }
+   ]
+  },
+  "partir-la-valigia-di-folon": {
+   "byte": 822140,
+   "secondi": 137,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "partir-la-valigia-di-folon.mp3",
+     "byte": 822140,
+     "secondi": 137,
+     "sha256": "13300c1e5348e895e1befd005979d925b7dc7b0edbdca2d9db1ae10369626ec2",
+     "testo": "4ae7efa13d6ca793"
+    }
+   ]
+  },
   "piazza-della-signoria": {
    "byte": 1442780,
    "secondi": 240,
@@ -356,6 +461,51 @@
      "secondi": 206,
      "sha256": "2039a22405bfd56aa7d759284203354e629204fde9613c4d5175438e3044c5f4",
      "testo": "a6dd9e5a7157a69c"
+    }
+   ]
+  },
+  "porta-romana": {
+   "byte": 966716,
+   "secondi": 161,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "porta-romana.mp3",
+     "byte": 966716,
+     "secondi": 161,
+     "sha256": "691017a7563dfb66760727fd4359d238c471931b3bce5df73eb8638b88d09d77",
+     "testo": "a612fb861b083d85"
+    }
+   ]
+  },
+  "porta-san-niccolo": {
+   "byte": 763244,
+   "secondi": 127,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "porta-san-niccolo.mp3",
+     "byte": 763244,
+     "secondi": 127,
+     "sha256": "4bb8a8eb0c7f3292b6111dfac763e3999fe335830bf01eef417660c4d593f2da",
+     "testo": "4ff02bd38458769a"
+    }
+   ]
+  },
+  "rampe-del-poggi": {
+   "byte": 1049084,
+   "secondi": 175,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "rampe-del-poggi.mp3",
+     "byte": 1049084,
+     "secondi": 175,
+     "sha256": "057f1a6b8b524f9777f66d8161ddaee6deeebc2126a0d67e4eef40c44832291d",
+     "testo": "2b0a818a8498a4b2"
     }
    ]
   },
