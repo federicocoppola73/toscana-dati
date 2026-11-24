@@ -1917,7 +1917,8 @@
     "basilica-di-san-lorenzo",
     "palazzo-vecchio",
     "palazzo-medici-riccardi",
-    "museo-di-san-marco"
+    "museo-di-san-marco",
+    "cappella-brancacci"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -1982,6 +1983,22 @@
       "fr": "Il soutint la reconstruction du couvent, confiée à Michelozzo à partir de 1437.",
       "de": "Er unterstützte den Wiederaufbau des Klosters, den Michelozzo ab 1437 ausführte.",
       "es": "Apoyó la reconstrucción del convento, encomendada a Michelozzo desde 1437."
+     }
+    },
+    "cappella-brancacci": {
+     "tipo": {
+      "it": "Il ritorno nel 1434",
+      "en": "The return in 1434",
+      "fr": "Le retour en 1434",
+      "de": "Die Rückkehr 1434",
+      "es": "El regreso en 1434"
+     },
+     "testo": {
+      "it": "Dopo il suo ritorno al potere, nel 1434, le tensioni politiche portarono all'esilio di diversi avversari; nel 1436 fu esiliato anche Felice Brancacci, committente della cappella.",
+      "en": "After his return to power in 1434, political tensions led to the exile of several opponents; in 1436 Felice Brancacci, who commissioned the chapel, was exiled too.",
+      "fr": "Après son retour au pouvoir en 1434, les tensions politiques conduisirent à l'exil de plusieurs adversaires ; en 1436, Felice Brancacci, commanditaire de la chapelle, fut lui aussi exilé.",
+      "de": "Nach seiner Rückkehr an die Macht 1434 führten die politischen Spannungen zur Verbannung mehrerer Gegner; 1436 wurde auch Felice Brancacci, der Auftraggeber der Kapelle, verbannt.",
+      "es": "Tras su regreso al poder, en 1434, las tensiones políticas llevaron al destierro de varios adversarios; en 1436 fue desterrado también Felice Brancacci, promotor de la capilla."
      }
     }
    },
@@ -2873,7 +2890,8 @@
     ]
    },
    "luoghi": [
-    "basilica-di-santa-maria-novella"
+    "basilica-di-santa-maria-novella",
+    "cappella-brancacci"
    ],
    "luoghiNote": {
     "basilica-di-santa-maria-novella": {
@@ -2890,6 +2908,22 @@
       "fr": "Dans la nef gauche se trouve la Trinité, fresque peinte vers 1425-1428, célèbre pour son usage de la perspective.",
       "de": "Im linken Seitenschiff befindet sich die Dreifaltigkeit, ein um 1425-1428 gemaltes Fresko, berühmt für seine Perspektive.",
       "es": "En la nave izquierda se encuentra la Trinidad, fresco pintado hacia 1425-1428, célebre por su uso de la perspectiva."
+     }
+    },
+    "cappella-brancacci": {
+     "tipo": {
+      "it": "Il ciclo della Brancacci",
+      "en": "The Brancacci cycle",
+      "fr": "Le cycle de la Brancacci",
+      "de": "Der Brancacci-Zyklus",
+      "es": "El ciclo de la Brancacci"
+     },
+     "testo": {
+      "it": "Nella Cappella Brancacci dipinse la Cacciata dal Paradiso terrestre e il Tributo; morì nel 1428 lasciando il ciclo incompiuto.",
+      "en": "In the Brancacci Chapel he painted the Expulsion from Paradise and the Tribute Money; he died in 1428, leaving the cycle unfinished.",
+      "fr": "Dans la chapelle Brancacci, il peignit l'Expulsion du Paradis terrestre et le Tribut ; il mourut en 1428, laissant le cycle inachevé.",
+      "de": "In der Cappella Brancacci malte er die Vertreibung aus dem Paradies und den Zinsgroschen; er starb 1428 und ließ den Zyklus unvollendet.",
+      "es": "En la Capilla Brancacci pintó la Expulsión del Paraíso terrenal y el Tributo; murió en 1428, dejando el ciclo inacabado."
      }
     }
    },
@@ -3512,7 +3546,8 @@
     "gallerie-degli-uffizi",
     "galleria-dellaccademia-di-firenze",
     "museo-delle-cappelle-medicee",
-    "giardino-di-boboli"
+    "giardino-di-boboli",
+    "cappella-brancacci"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -3673,6 +3708,22 @@
       "fr": "Ses quatre Prisonniers furent placés à l'origine dans la grotte de Buontalenti ; aujourd'hui, les originaux sont à la Galleria dell'Accademia et la grotte abrite des copies.",
       "de": "Seine vier Gefangenen waren ursprünglich in der Buontalenti-Grotte aufgestellt; heute befinden sich die Originale in der Galleria dell'Accademia, in der Grotte stehen Kopien.",
       "es": "Sus cuatro Prisioneros se colocaron originalmente en la Gruta de Buontalenti; hoy los originales están en la Galleria dell'Accademia y en la gruta quedan copias."
+     }
+    },
+    "cappella-brancacci": {
+     "tipo": {
+      "it": "Studiò Masaccio",
+      "en": "He studied Masaccio",
+      "fr": "Il étudia Masaccio",
+      "de": "Er studierte Masaccio",
+      "es": "Estudió a Masaccio"
+     },
+     "testo": {
+      "it": "Secondo la tradizione venne alla Cappella Brancacci per disegnare e studiare le figure di Masaccio.",
+      "en": "According to tradition he came to the Brancacci Chapel to draw and study Masaccio's figures.",
+      "fr": "Selon la tradition, il vint à la chapelle Brancacci pour dessiner et étudier les figures de Masaccio.",
+      "de": "Der Überlieferung nach kam er in die Cappella Brancacci, um die Figuren Masaccios zu zeichnen und zu studieren.",
+      "es": "Según la tradición, vino a la Capilla Brancacci para dibujar y estudiar las figuras de Masaccio."
      }
     }
    },

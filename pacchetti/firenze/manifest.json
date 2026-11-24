@@ -1,5 +1,5 @@
 {
- "versione": "5624b9415fb7",
+ "versione": "65ddf15655c7",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -228,6 +228,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/campanile-di-giotto_5.webp",
    "sha256": "c2a60be0ba544535a5dd41b0498e2e92f106df1ba1ce1959dd8e035c5abebcc3",
    "byte": 237100
+  },
+  {
+   "path": "assets/luoghi/cappella-brancacci.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cappella-brancacci.webp",
+   "sha256": "c6e7436ae46aaacb9c21abfeb1ce5f19866736cddb589146c1719f486d83ea35",
+   "byte": 161546
+  },
+  {
+   "path": "assets/luoghi/cappella-brancacci_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cappella-brancacci_2.webp",
+   "sha256": "a468208f3d84b06f3adabac501c0ddc029b24601e3c2dc17d137f505047fad99",
+   "byte": 90722
+  },
+  {
+   "path": "assets/luoghi/cappella-brancacci_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cappella-brancacci_3.webp",
+   "sha256": "bf0789d0b0a39615a71e3c801809c5f915210ed4c21a8f4806962e9f81432816",
+   "byte": 180688
+  },
+  {
+   "path": "assets/luoghi/cappella-brancacci_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cappella-brancacci_4.webp",
+   "sha256": "8d792ce9a09b72cd5444875acc138b46ffe1b42bad78245134dd5cb7d986f105",
+   "byte": 87466
+  },
+  {
+   "path": "assets/luoghi/cappella-brancacci_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cappella-brancacci_5.webp",
+   "sha256": "fa86e0dedcc0264099ace5b6d21a3c5e036fde11662226aba9b518af0bbc6c93",
+   "byte": 65130
   },
   {
    "path": "assets/luoghi/cattedrale-di-santa-maria-del-fiore.webp",
@@ -4084,8 +4114,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "9c7be74c792497f358cf385848627aefb99e99dc798a1269d8bca8bfb7f68957",
-   "byte": 1183
+   "sha256": "9ace119826cea6c568d3db825088565629e57946489aedb215d50defacb92419",
+   "byte": 1210
   },
   {
    "path": "dati/itinerari.json",
@@ -4096,8 +4126,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "561ff620cd5b3feabb4d0481663f51a0433c550b2f495768a6506fef72e0106b",
-   "byte": 449058
+   "sha256": "65e471fc1831ec21b7880ead4186f58977cbf68695b9d224f0b248505d79d867",
+   "byte": 483969
   },
   {
    "path": "dati/mappa.json",
@@ -4120,8 +4150,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "1c6ba273e495c5833fd475ba30043d615d02b295d16107dabaf8840839c0abdb",
-   "byte": 884425
+   "sha256": "8033fc78449edef7af9cd203a19302b12c1c2d16a7cb9423dc5dd7d78d5edff4",
+   "byte": 887563
   },
   {
    "path": "dati/principali.json",
@@ -4161,13 +4191,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "420ef18c49ea",
-   "da": "7d6d58f1e9be",
-   "data": "2026-11-24",
-   "curiosita_nuove": 1,
-   "byte": 20000
-  },
   {
    "versione": "4b4c79dc95ff",
    "da": "420ef18c49ea",
@@ -4382,6 +4405,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1973862
+  },
+  {
+   "versione": "65ddf15655c7",
+   "da": "5624b9415fb7",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Cappella Brancacci"
+   ],
+   "foto_nuove": 5,
+   "byte": 1958294
   }
  ]
 }
