@@ -1,5 +1,5 @@
 {
- "versione": "e241248fb9a8",
+ "versione": "749b25b2e6d4",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -108,6 +108,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-maria-novella_5.webp",
    "sha256": "6a07c2a477ba72b4084a9d467a2412fe085f8fb9ee0d3ce8a82fa0a5f2883784",
    "byte": 197624
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-trinita.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-trinita.webp",
+   "sha256": "217481a5cb9748cab7c5d3661396a9b9f7ad6030227a6d1f9d8a30af0da34c26",
+   "byte": 131666
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-trinita_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-trinita_2.webp",
+   "sha256": "3cc9e192d89bdb272ce62930eb615d048c400771410fef33050b758866ded406",
+   "byte": 92138
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-trinita_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-trinita_3.webp",
+   "sha256": "09231558c1f74bf0094000edb3549850686d9f171b8776bffbe9dfe731a52573",
+   "byte": 145524
   },
   {
    "path": "assets/luoghi/battistero-di-san-giovanni.webp",
@@ -3622,8 +3640,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "72eedc4e088441c4a056d1ad430836158e9ce217d7f4198f7515072de3f0b3ea",
-   "byte": 636
+   "sha256": "b38211ff93232b41e73f1de2d29751325db4a0f23eea071bb782a6238559d380",
+   "byte": 670
   },
   {
    "path": "dati/itinerari.json",
@@ -3634,8 +3652,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "ea27cfe7ae475f2682164250a1c1792461e05b1dcc7231cbd4f6e9ee18d4a200",
-   "byte": 195648
+   "sha256": "4899a6096d86a130530602cc36a98b36a2caa6192785245a291ddaf39327a191",
+   "byte": 196095
   },
   {
    "path": "dati/mappa.json",
@@ -3699,12 +3717,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "0e33ff5460e7",
-   "da": "02f974fc8dc5",
-   "data": "2026-11-23",
-   "byte": 910465
-  },
   {
    "versione": "ba04c6d17e64",
    "da": "0e33ff5460e7",
@@ -3866,6 +3878,17 @@
     "foto"
    ],
    "byte": 297206
+  },
+  {
+   "versione": "749b25b2e6d4",
+   "da": "e241248fb9a8",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 3,
+   "byte": 566093
   }
  ]
 }

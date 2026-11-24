@@ -1762,7 +1762,24 @@
     "fr": "Basilique Santa Trinita",
     "de": "Basilika Santa Trinita",
     "es": "Basílica de Santa Trinita"
-   }
+   },
+   "immagine": {
+    "autore": "LivornoDP",
+    "licenza": "CC BY-SA 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:LivornoDP"
+   },
+   "galleria": [
+    {
+     "autore": "John Samuel",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jsamwrites"
+    },
+    {
+     "autore": "Tajchman",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Tajchman"
+    }
+   ]
   },
   {
    "id": "isolotto",
