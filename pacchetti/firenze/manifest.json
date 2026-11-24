@@ -1,5 +1,5 @@
 {
- "versione": "34f73f33d2d8",
+ "versione": "413f62a22852",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -492,6 +492,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/isolotto_5.webp",
    "sha256": "b52da16141cf626f609876794d50cb9f952435ea9110ad3706b82877e69cc184",
    "byte": 62260
+  },
+  {
+   "path": "assets/luoghi/museo-delle-cappelle-medicee.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-delle-cappelle-medicee.webp",
+   "sha256": "99aa55fba1f8f1485b4ec018ca1448efb8e8b5ae18818b0f8f090ec6d0979665",
+   "byte": 244642
+  },
+  {
+   "path": "assets/luoghi/museo-delle-cappelle-medicee_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-delle-cappelle-medicee_2.webp",
+   "sha256": "a4a163e7f364a4b9c3b5d11f30f4e180a96a90a4e216dcf2363702b42998b773",
+   "byte": 429990
+  },
+  {
+   "path": "assets/luoghi/museo-delle-cappelle-medicee_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-delle-cappelle-medicee_3.webp",
+   "sha256": "989e5ef4a2110c3f5db79f963c0d47000acc1fbbf7fed478ff40cbc131053c35",
+   "byte": 144646
+  },
+  {
+   "path": "assets/luoghi/museo-delle-cappelle-medicee_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-delle-cappelle-medicee_4.webp",
+   "sha256": "4c38527445099bc071fcfe1dfc2bcccf7156fd3c84694b7c7c9472a78dc45db5",
+   "byte": 55298
+  },
+  {
+   "path": "assets/luoghi/museo-delle-cappelle-medicee_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-delle-cappelle-medicee_5.webp",
+   "sha256": "4bcbe407c4255169fda5eed8e315292344fb093e464675edb38f01448670833a",
+   "byte": 61724
   },
   {
    "path": "assets/luoghi/museo-dellopera-del-duomo.webp",
@@ -4024,8 +4054,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "90d9a0844396169d3eb134b0e40495c43a2020e511d7b8ee340d47b5715456bf",
-   "byte": 1119
+   "sha256": "81531fbbb50597d1f72ad5a4725f46f5cd6a807bda612211385f37bb56dd975b",
+   "byte": 1156
   },
   {
    "path": "dati/itinerari.json",
@@ -4036,8 +4066,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "d8670504193f96f196edce59a83892cdf41d81e48f6a12e3fd024a04e9a6d9bd",
-   "byte": 376246
+   "sha256": "08e5cd8fe49d92792740b3ff9c7dda62f2173224b314f701648751381ed4f27c",
+   "byte": 409834
   },
   {
    "path": "dati/mappa.json",
@@ -4060,8 +4090,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "c6e28544d5ecf3bbd8c515a21a2dd49f577ac1bb4d87803422f4a0bc42a0a1ff",
-   "byte": 878072
+   "sha256": "5c2c810d60ef6768adff3cc191e41fc5adf9c6b178ed8e652b1d38dc7a4c221c",
+   "byte": 880358
   },
   {
    "path": "dati/principali.json",
@@ -4101,20 +4131,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "0a664fc40134",
-   "da": "3b45d6ce70e0",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Piazzale Michelangelo"
-   ],
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "descrizioni"
-   ],
-   "foto_nuove": 4,
-   "byte": 1455423
-  },
   {
    "versione": "7d6d58f1e9be",
    "da": "0a664fc40134",
@@ -4328,6 +4344,16 @@
    ],
    "foto_nuove": 6,
    "byte": 984645
+  },
+  {
+   "versione": "413f62a22852",
+   "da": "34f73f33d2d8",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Museo delle Cappelle Medicee"
+   ],
+   "foto_nuove": 5,
+   "byte": 2227648
   }
  ]
 }

@@ -2146,7 +2146,8 @@
     "palazzo-vecchio",
     "piazza-della-signoria",
     "basilica-di-san-lorenzo",
-    "palazzo-medici-riccardi"
+    "palazzo-medici-riccardi",
+    "museo-delle-cappelle-medicee"
    ],
    "luoghiNote": {
     "cattedrale-di-santa-maria-del-fiore": {
@@ -2227,6 +2228,22 @@
       "fr": "Il vécut dans le palais familial, théâtre de la vie politique et culturelle médicéenne.",
       "de": "Er lebte im Familienpalast, Schauplatz des politischen und kulturellen Lebens der Medici.",
       "es": "Vivió en el palacio familiar, escenario de la vida política y cultural medicea."
+     }
+    },
+    "museo-delle-cappelle-medicee": {
+     "tipo": {
+      "it": "La sua tomba",
+      "en": "His tomb",
+      "fr": "Son tombeau",
+      "de": "Sein Grab",
+      "es": "Su tumba"
+     },
+     "testo": {
+      "it": "Lorenzo e il fratello Giuliano riposano nella Sagrestia Nuova, sotto la Madonna col Bambino, in una sepoltura più raccolta di quella monumentale pensata da Michelangelo.",
+      "en": "Lorenzo and his brother Giuliano rest in the New Sacristy, beneath the Madonna and Child, in a more intimate burial than the monumental one planned by Michelangelo.",
+      "fr": "Laurent et son frère Julien reposent dans la Nouvelle Sacristie, sous la Vierge à l'Enfant, dans une sépulture plus recueillie que celle, monumentale, imaginée par Michel-Ange.",
+      "de": "Lorenzo und sein Bruder Giuliano ruhen in der Neuen Sakristei, unter der Madonna mit Kind, in einer schlichteren Grabstätte als der von Michelangelo geplanten monumentalen.",
+      "es": "Lorenzo y su hermano Juliano reposan en la Sacristía Nueva, bajo la Virgen con el Niño, en una sepultura más recogida que la monumental pensada por Miguel Ángel."
      }
     }
    },
@@ -3493,7 +3510,8 @@
     "museo-dellopera-del-duomo",
     "piazzale-michelangelo",
     "gallerie-degli-uffizi",
-    "galleria-dellaccademia-di-firenze"
+    "galleria-dellaccademia-di-firenze",
+    "museo-delle-cappelle-medicee"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -3622,6 +3640,22 @@
       "fr": "L'original du David, sculpté entre 1501 et 1504, est conservé ici, avec les Prisonniers inachevés conçus pour le tombeau de Jules II.",
       "de": "Hier wird das Original des zwischen 1501 und 1504 geschaffenen David aufbewahrt, zusammen mit den unvollendeten Gefangenen, die für das Grabmal Julius' II. gedacht waren.",
       "es": "Aquí se conserva el original del David, esculpido entre 1501 y 1504, junto con los Prisioneros inacabados pensados para la tumba de Julio II."
+     }
+    },
+    "museo-delle-cappelle-medicee": {
+     "tipo": {
+      "it": "La Sagrestia Nuova",
+      "en": "The New Sacristy",
+      "fr": "La Nouvelle Sacristie",
+      "de": "Die Neue Sakristei",
+      "es": "La Sacristía Nueva"
+     },
+     "testo": {
+      "it": "Progettò la Sagrestia Nuova a partire dal 1520, con le tombe dei due duchi e le allegorie del Giorno, della Notte, dell'Aurora e del Crepuscolo.",
+      "en": "He designed the New Sacristy from 1520, with the tombs of the two dukes and the allegories of Day, Night, Dawn and Dusk.",
+      "fr": "Il conçut la Nouvelle Sacristie à partir de 1520, avec les tombeaux des deux ducs et les allégories du Jour, de la Nuit, de l'Aurore et du Crépuscule.",
+      "de": "Er entwarf ab 1520 die Neue Sakristei, mit den Grabmälern der beiden Herzöge und den Allegorien des Tages, der Nacht, der Morgenröte und der Abenddämmerung.",
+      "es": "Proyectó la Sacristía Nueva a partir de 1520, con las tumbas de los dos duques y las alegorías del Día, la Noche, la Aurora y el Crepúsculo."
      }
     }
    },
