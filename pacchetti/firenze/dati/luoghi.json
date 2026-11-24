@@ -764,6 +764,19 @@
     "fr": "Basilique de Santa Maria Novella",
     "de": "Basilika Santa Maria Novella",
     "es": "Basílica de Santa Maria Novella"
+   },
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/sites/default/files/2025-07/note%20sull'accessibilit%C3%A0%20ai%20musei%20fiorentini%20a%20luglio%2025%20ITA.pdf",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Si entra da Piazza Santa Maria Novella 18 (a sinistra della facciata), suonando il pulsante rosso. La basilica è accessibile, tranne la Cappella Maggiore (Cappella Tornabuoni) e le due cappelle sopraelevate del transetto (Cappella Rucellai e Cappella Strozzi di Mantova). Per passare dalla basilica al museo bisogna uscire in piazza e raggiungere l'ingresso del museo sul lato opposto della chiesa (piazza della Stazione 4); il museo è interamente accessibile.",
+      "en": "Enter from Piazza Santa Maria Novella 18 (to the left of the façade), ringing the red button. The basilica is accessible, except the Main Chapel (Tornabuoni Chapel) and the two raised chapels of the transept (Rucellai Chapel and Strozzi di Mantova Chapel). To go from the basilica to the museum you must go out into the square and reach the museum entrance on the opposite side of the church (Piazza della Stazione 4); the museum is fully accessible.",
+      "fr": "On entre par la Piazza Santa Maria Novella 18 (à gauche de la façade), en appuyant sur le bouton rouge. La basilique est accessible, sauf la chapelle majeure (chapelle Tornabuoni) et les deux chapelles surélevées du transept (chapelle Rucellai et chapelle Strozzi di Mantova). Pour passer de la basilique au musée, il faut sortir sur la place et rejoindre l'entrée du musée du côté opposé de l'église (Piazza della Stazione 4) ; le musée est entièrement accessible.",
+      "de": "Der Eingang befindet sich an der Piazza Santa Maria Novella 18 (links der Fassade); man klingelt am roten Knopf. Die Basilika ist zugänglich, mit Ausnahme der Hauptkapelle (Tornabuoni-Kapelle) und der beiden erhöhten Kapellen des Querschiffs (Rucellai-Kapelle und Strozzi-di-Mantova-Kapelle). Um von der Basilika zum Museum zu gelangen, muss man auf den Platz hinausgehen und den Museumseingang auf der gegenüberliegenden Seite der Kirche erreichen (Piazza della Stazione 4); das Museum ist vollständig zugänglich.",
+      "es": "Se entra por la Piazza Santa Maria Novella 18 (a la izquierda de la fachada), pulsando el botón rojo. La basílica es accesible, salvo la Capilla Mayor (Capilla Tornabuoni) y las dos capillas elevadas del transepto (Capilla Rucellai y Capilla Strozzi di Mantova). Para pasar de la basílica al museo hay que salir a la plaza y llegar a la entrada del museo en el lado opuesto de la iglesia (Piazza della Stazione 4); el museo es totalmente accesible."
+     }
+    }
    }
   },
   {
@@ -2237,104 +2250,6 @@
    }
   },
   {
-   "id": "partir-la-valigia-di-folon",
-   "nome": "Partir – la valigia di Folon",
-   "categoria": "altri",
-   "sestiere": "Oltrarno",
-   "latitudine": 43.7633,
-   "longitudine": 11.2652,
-   "descrizione": {
-    "it": "Partir è una delle sculture più conosciute dell'artista belga Jean-Michel Folon, collocata nel Giardino delle Rose di Firenze.\n\nL'opera rappresenta una grande valigia aperta, attraverso la quale il visitatore può osservare il panorama della città. La scultura trasforma un gesto quotidiano, quello di partire e portare con sé i propri oggetti, in una riflessione sul viaggio, sulla memoria e sulla scoperta.\n\nLa valigia diventa una cornice attraverso cui Firenze appare come un paesaggio da conservare nella memoria. Il visitatore è invitato a fermarsi, guardare e immaginare il proprio viaggio.\n\nPartir fa parte del gruppo di opere di Folon presenti nel giardino, donate alla città dalla vedova dell'artista e installate nel 2011.\n\nNon è un monumento isolato: il suo significato emerge soprattutto dal rapporto con il verde, con le altre sculture e con la vista sul centro storico.",
-    "en": "Partir is one of the best-known sculptures by the Belgian artist Jean-Michel Folon, placed in the Rose Garden in Florence.\n\nThe work is a large open suitcase through which the visitor can look at the panorama of the city. The sculpture turns an everyday gesture, leaving and taking one's belongings along, into a reflection on travel, memory and discovery.\n\nThe suitcase becomes a frame through which Florence appears as a landscape to keep in memory. Visitors are invited to stop, look and imagine their own journey.\n\nPartir belongs to the group of Folon works in the garden, donated to the city by the artist's widow and installed in 2011.\n\nIt is not an isolated monument: its meaning emerges above all from its relationship with the greenery, with the other sculptures and with the view over the historic centre.",
-    "fr": "Partir est l'une des sculptures les plus connues de l'artiste belge Jean-Michel Folon, installée dans le Jardin des Roses de Florence.\n\nL'œuvre représente une grande valise ouverte à travers laquelle le visiteur peut observer le panorama de la ville. La sculpture transforme un geste quotidien, partir en emportant ses affaires, en une réflexion sur le voyage, la mémoire et la découverte.\n\nLa valise devient un cadre à travers lequel Florence apparaît comme un paysage à garder en mémoire. Le visiteur est invité à s'arrêter, à regarder et à imaginer son propre voyage.\n\nPartir fait partie du groupe d'œuvres de Folon présentes dans le jardin, données à la ville par la veuve de l'artiste et installées en 2011.\n\nCe n'est pas un monument isolé : son sens naît surtout de son rapport avec la verdure, avec les autres sculptures et avec la vue sur le centre historique.",
-    "de": "Partir ist eine der bekanntesten Skulpturen des belgischen Künstlers Jean-Michel Folon und steht im Rosengarten von Florenz.\n\nDas Werk stellt einen großen offenen Koffer dar, durch den die Besucher das Panorama der Stadt betrachten können. Die Skulptur macht aus einer alltäglichen Geste – aufzubrechen und seine Sachen mitzunehmen – eine Reflexion über Reise, Erinnerung und Entdeckung.\n\nDer Koffer wird zum Rahmen, durch den Florenz als Landschaft erscheint, die man im Gedächtnis bewahren möchte. Die Besucher sind eingeladen, innezuhalten, zu schauen und sich ihre eigene Reise vorzustellen.\n\nPartir gehört zur Gruppe der Folon-Werke im Garten, die der Stadt von der Witwe des Künstlers geschenkt und 2011 aufgestellt wurden.\n\nEs ist kein isoliertes Denkmal: Seine Bedeutung ergibt sich vor allem aus dem Zusammenspiel mit dem Grün, den anderen Skulpturen und dem Blick auf die Altstadt.",
-    "es": "Partir es una de las esculturas más conocidas del artista belga Jean-Michel Folon, situada en el Jardín de las Rosas de Florencia.\n\nLa obra representa una gran maleta abierta a través de la cual el visitante puede contemplar el panorama de la ciudad. La escultura convierte un gesto cotidiano, partir llevándose sus cosas, en una reflexión sobre el viaje, la memoria y el descubrimiento.\n\nLa maleta se convierte en un marco a través del cual Florencia aparece como un paisaje que conservar en la memoria. Se invita al visitante a detenerse, mirar e imaginar su propio viaje.\n\nPartir forma parte del grupo de obras de Folon presentes en el jardín, donadas a la ciudad por la viuda del artista e instaladas en 2011.\n\nNo es un monumento aislado: su significado surge sobre todo de la relación con el verde, con las demás esculturas y con la vista sobre el centro histórico."
-   },
-   "lo_sapevi_che": [
-    {
-     "titolo": {
-      "it": "Un titolo che significa «partire»",
-      "en": "A title that means “to leave”",
-      "fr": "Un titre qui signifie « partir »",
-      "de": "Ein Titel, der „abreisen“ bedeutet",
-      "es": "Un título que significa «partir»"
-     },
-     "testo": {
-      "en": "The title Partir means “to leave” in French: the suitcase becomes the symbol of travel, but also of the memory of what we leave behind.",
-      "fr": "Le titre Partir signifie « partir » : la valise devient le symbole du voyage, mais aussi de la mémoire de ce que nous laissons derrière nous.",
-      "de": "Der Titel Partir bedeutet auf Französisch „abreisen“: Der Koffer wird zum Symbol der Reise, aber auch der Erinnerung an das, was wir zurücklassen.",
-      "es": "El título Partir significa «marcharse» en francés: la maleta se convierte en el símbolo del viaje, pero también de la memoria de lo que dejamos atrás.",
-      "it": "Il titolo Partir significa partire in francese: la valigia diventa il simbolo del viaggio, ma anche della memoria di ciò che lasciamo alle spalle."
-     }
-    },
-    {
-     "titolo": {
-      "it": "Altre opere di Folon",
-      "en": "Other works by Folon",
-      "fr": "Autres œuvres de Folon",
-      "de": "Weitere Werke von Folon",
-      "es": "Otras obras de Folon"
-     },
-     "testo": {
-      "en": "The Rose Garden holds other works by Folon, including Je me souviens, Chat and L'Envol.",
-      "fr": "Le Jardin des Roses abrite d'autres œuvres de Folon, dont Je me souviens, Chat et L'Envol.",
-      "de": "Im Rosengarten stehen weitere Werke von Folon, darunter Je me souviens, Chat und L'Envol.",
-      "es": "En el Jardín de las Rosas se encuentran otras obras de Folon, entre ellas Je me souviens, Chat y L'Envol.",
-      "it": "Nel Giardino delle Rose sono presenti altre opere di Folon, tra cui Je me souviens, Chat e L'Envol."
-     }
-    }
-   ],
-   "orari": [
-    {
-     "giorni": "tutti",
-     "ore": "9:00–17:00",
-     "periodo": "01-01/02-28"
-    },
-    {
-     "giorni": "tutti",
-     "ore": "9:00–18:00",
-     "periodo": "03-01/03-31"
-    },
-    {
-     "giorni": "tutti",
-     "ore": "9:00–19:00",
-     "periodo": "04-01/04-30"
-    },
-    {
-     "giorni": "tutti",
-     "ore": "9:00–20:00",
-     "periodo": "05-01/09-30"
-    },
-    {
-     "giorni": "tutti",
-     "ore": "9:00–18:00",
-     "periodo": "10-01/10-31"
-    },
-    {
-     "giorni": "tutti",
-     "ore": "9:00–17:00",
-     "periodo": "11-01/12-31"
-    }
-   ],
-   "biglietto": {
-    "gratuito": true
-   },
-   "nota": {
-    "it": "Si trova all'interno del Giardino delle Rose, di cui segue gli orari; non esiste un biglietto separato per la scultura. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
-    "en": "It stands inside the Rose Garden and follows its opening hours; there is no separate ticket for the sculpture. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
-    "fr": "Elle se trouve dans le Jardin des Roses, dont elle suit les horaires ; il n'existe pas de billet séparé pour la sculpture. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
-    "de": "Sie steht im Rosengarten und folgt dessen Öffnungszeiten; für die Skulptur gibt es kein separates Ticket. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
-    "es": "Se encuentra dentro del Jardín de las Rosas, cuyo horario sigue; no existe una entrada aparte para la escultura. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
-   },
-   "nomi": {
-    "en": "Partir – Folon's suitcase",
-    "fr": "Partir – la valise de Folon",
-    "de": "Partir – Folons Koffer",
-    "es": "Partir – la maleta de Folon"
-   },
-   "curiosita": true
-  },
-  {
    "id": "giardino-delliris",
    "nome": "Giardino dell'Iris",
    "categoria": "giardini",
@@ -2590,6 +2505,465 @@
     "de": "Cimitero delle Porte Sante (Friedhof Porte Sante)",
     "es": "Cimitero delle Porte Sante (cementerio de las Porte Sante)"
    }
+  },
+  {
+   "id": "chiesa-di-san-salvatore-al-monte",
+   "nome": "Chiesa di San Salvatore al Monte",
+   "categoria": "chiese",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.764,
+   "longitudine": 11.2638,
+   "descrizione": {
+    "it": "La Chiesa di San Salvatore al Monte sorge sul Monte alle Croci, poco sotto la Basilica di San Miniato al Monte e alle spalle di Piazzale Michelangelo.\n\nÈ uno dei luoghi di culto meno conosciuti della collina, ma rappresenta una testimonianza significativa dell'architettura religiosa fiorentina tra Quattrocento e Cinquecento.\n\nLa presenza francescana nell'area è documentata già nel XV secolo. Nel 1417 venne donato ai frati un terreno con un giardino e una cappella, probabilmente dedicata ai santi Cosma e Damiano.\n\nIl complesso venne progressivamente ampliato. Tra il 1499 e il 1504 la chiesa fu ricostruita su progetto di Simone del Pollaiolo, detto il Cronaca, con il sostegno del mercante Castello Quaratesi e successivamente dell'Arte di Calimala.\n\nL'edificio presenta una struttura sobria e armoniosa, caratterizzata da una navata unica e da un linguaggio architettonico che anticipa alcune soluzioni del classicismo rinascimentale.\n\nL'interno conserva opere pittoriche quattrocentesche e testimonianze della storia francescana del complesso.\n\nLa chiesa è interessante anche per la sua posizione: si trova lungo il percorso tra Piazzale Michelangelo e San Miniato al Monte, in una zona più tranquilla rispetto alle mete turistiche principali.",
+    "en": "The Church of San Salvatore al Monte stands on Monte alle Croci, just below the Basilica of San Miniato al Monte and behind Piazzale Michelangelo.\n\nIt is one of the least-known places of worship on the hill, yet it is a significant testimony of Florentine religious architecture between the fifteenth and sixteenth centuries.\n\nThe Franciscan presence in the area is documented as early as the fifteenth century. In 1417 the friars were given a plot of land with a garden and a chapel, probably dedicated to Saints Cosmas and Damian.\n\nThe complex was gradually enlarged. Between 1499 and 1504 the church was rebuilt to a design by Simone del Pollaiolo, known as Il Cronaca, with the support of the merchant Castello Quaratesi and later of the Calimala Guild.\n\nThe building has a sober, harmonious structure, marked by a single nave and an architectural language that anticipates some solutions of Renaissance classicism.\n\nThe interior preserves fifteenth-century paintings and traces of the Franciscan history of the complex.\n\nThe church is also interesting for its position: it lies along the route between Piazzale Michelangelo and San Miniato al Monte, in a quieter area than the main tourist destinations.",
+    "fr": "L'église San Salvatore al Monte s'élève sur le Monte alle Croci, juste en dessous de la basilique de San Miniato al Monte et derrière la Piazzale Michelangelo.\n\nC'est l'un des lieux de culte les moins connus de la colline, mais elle représente un témoignage significatif de l'architecture religieuse florentine entre le XVe et le XVIe siècle.\n\nLa présence franciscaine dans la zone est documentée dès le XVe siècle. En 1417, un terrain avec un jardin et une chapelle, probablement dédiée aux saints Côme et Damien, fut donné aux frères.\n\nLe complexe fut progressivement agrandi. Entre 1499 et 1504, l'église fut reconstruite sur un projet de Simone del Pollaiolo, dit le Cronaca, avec le soutien du marchand Castello Quaratesi puis de l'Arte di Calimala.\n\nL'édifice présente une structure sobre et harmonieuse, caractérisée par une nef unique et un langage architectural qui anticipe certaines solutions du classicisme de la Renaissance.\n\nL'intérieur conserve des peintures du XVe siècle et des témoignages de l'histoire franciscaine du complexe.\n\nL'église est aussi intéressante par sa position : elle se trouve le long du parcours entre la Piazzale Michelangelo et San Miniato al Monte, dans une zone plus tranquille que les principales destinations touristiques.",
+    "de": "Die Kirche San Salvatore al Monte liegt auf dem Monte alle Croci, kurz unterhalb der Basilika San Miniato al Monte und hinter der Piazzale Michelangelo.\n\nSie ist eines der unbekanntesten Gotteshäuser auf dem Hügel, aber ein bedeutendes Zeugnis der florentinischen Kirchenarchitektur zwischen dem 15. und 16. Jahrhundert.\n\nDie franziskanische Präsenz in der Gegend ist bereits im 15. Jahrhundert belegt. 1417 wurde den Brüdern ein Grundstück mit einem Garten und einer Kapelle geschenkt, die wahrscheinlich den Heiligen Kosmas und Damian geweiht war.\n\nDie Anlage wurde nach und nach erweitert. Zwischen 1499 und 1504 wurde die Kirche nach einem Entwurf von Simone del Pollaiolo, genannt Il Cronaca, mit Unterstützung des Kaufmanns Castello Quaratesi und später der Arte di Calimala wiedererrichtet.\n\nDas Gebäude hat eine schlichte, harmonische Struktur mit einem einzigen Schiff und einer architektonischen Sprache, die einige Lösungen des Renaissance-Klassizismus vorwegnimmt.\n\nDas Innere bewahrt Gemälde aus dem 15. Jahrhundert und Zeugnisse der franziskanischen Geschichte der Anlage.\n\nDie Kirche ist auch wegen ihrer Lage interessant: Sie liegt am Weg zwischen der Piazzale Michelangelo und San Miniato al Monte, in einer ruhigeren Gegend als die wichtigsten touristischen Ziele.",
+    "es": "La iglesia de San Salvatore al Monte se alza en el Monte alle Croci, poco por debajo de la basílica de San Miniato al Monte y a espaldas de la Piazzale Michelangelo.\n\nEs uno de los lugares de culto menos conocidos de la colina, pero representa un testimonio significativo de la arquitectura religiosa florentina entre los siglos XV y XVI.\n\nLa presencia franciscana en la zona está documentada ya en el siglo XV. En 1417 se donó a los frailes un terreno con un jardín y una capilla, probablemente dedicada a los santos Cosme y Damián.\n\nEl complejo se fue ampliando progresivamente. Entre 1499 y 1504 la iglesia fue reconstruida según proyecto de Simone del Pollaiolo, llamado el Cronaca, con el apoyo del mercader Castello Quaratesi y posteriormente del Arte de Calimala.\n\nEl edificio presenta una estructura sobria y armoniosa, caracterizada por una nave única y un lenguaje arquitectónico que anticipa algunas soluciones del clasicismo renacentista.\n\nEl interior conserva obras pictóricas del siglo XV y testimonios de la historia franciscana del complejo.\n\nLa iglesia es interesante también por su posición: se encuentra a lo largo del recorrido entre la Piazzale Michelangelo y San Miniato al Monte, en una zona más tranquila que los principales destinos turísticos."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Due nomi, una collina",
+      "en": "Two names, one hill",
+      "fr": "Deux noms, une colline",
+      "de": "Zwei Namen, ein Hügel",
+      "es": "Dos nombres, una colina"
+     },
+     "testo": {
+      "en": "The church is often called San Salvatore al Monte, but it also stands in the area known as Monte alle Croci.",
+      "fr": "L'église est souvent appelée San Salvatore al Monte, mais elle se trouve aussi dans la zone connue sous le nom de Monte alle Croci.",
+      "de": "Die Kirche wird oft San Salvatore al Monte genannt, liegt aber auch im Gebiet, das als Monte alle Croci bekannt ist.",
+      "es": "La iglesia suele llamarse San Salvatore al Monte, pero se encuentra también en la zona conocida como Monte alle Croci.",
+      "it": "La chiesa viene spesso chiamata San Salvatore al Monte, ma si trova anche nella zona conosciuta come Monte alle Croci."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il progetto del Cronaca",
+      "en": "Il Cronaca's design",
+      "fr": "Le projet du Cronaca",
+      "de": "Der Entwurf von Il Cronaca",
+      "es": "El proyecto del Cronaca"
+     },
+     "testo": {
+      "en": "The reconstruction design is attributed to Simone del Pollaiolo, known as Il Cronaca, one of the Florentine architects active between the fifteenth and sixteenth centuries.",
+      "fr": "Le projet de reconstruction est attribué à Simone del Pollaiolo, dit le Cronaca, l'un des architectes florentins actifs entre le XVe et le XVIe siècle.",
+      "de": "Der Wiederaufbauentwurf wird Simone del Pollaiolo, genannt Il Cronaca, zugeschrieben, einem der florentinischen Architekten, die zwischen dem 15. und 16. Jahrhundert tätig waren.",
+      "es": "El proyecto de reconstrucción se atribuye a Simone del Pollaiolo, llamado el Cronaca, uno de los arquitectos florentinos activos entre los siglos XV y XVI.",
+      "it": "Il progetto di ricostruzione è attribuito a Simone del Pollaiolo, detto il Cronaca, uno degli architetti fiorentini attivi tra Quattrocento e Cinquecento."
+     }
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Non è disponibile un calendario di apertura turistico ufficiale stabile e verificabile. La chiesa è legata alla comunità religiosa francescana: prima di programmare una visita interna conviene contattare il luogo o verificare le celebrazioni. Ingresso gratuito, quando la chiesa è aperta al pubblico. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "No stable, verifiable official tourist opening calendar is available. The church is linked to the Franciscan religious community: before planning a visit inside, it is best to contact the church or check the services. Entry is free when the church is open to the public. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Aucun calendrier touristique officiel stable et vérifiable n'est disponible. L'église est liée à la communauté religieuse franciscaine : avant de programmer une visite intérieure, il vaut mieux contacter le lieu ou vérifier les célébrations. Entrée gratuite lorsque l'église est ouverte au public. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Es ist kein stabiler, überprüfbarer offizieller Öffnungskalender für Touristen verfügbar. Die Kirche gehört zur franziskanischen Ordensgemeinschaft: Vor einem Besuch im Inneren sollten Sie den Ort kontaktieren oder die Gottesdienste prüfen. Der Eintritt ist frei, wenn die Kirche für die Öffentlichkeit geöffnet ist. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "No hay disponible un calendario oficial de apertura turística estable y verificable. La iglesia está ligada a la comunidad religiosa franciscana: antes de programar una visita al interior conviene contactar con el lugar o comprobar las celebraciones. Entrada gratuita cuando la iglesia está abierta al público. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "Church of San Salvatore al Monte",
+    "fr": "Église San Salvatore al Monte",
+    "de": "Kirche San Salvatore al Monte",
+    "es": "Iglesia de San Salvatore al Monte"
+   },
+   "curiosita": true
+  },
+  {
+   "id": "rampe-del-poggi",
+   "nome": "Rampe del Poggi",
+   "categoria": "altri",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7632,
+   "longitudine": 11.2677,
+   "descrizione": {
+    "it": "Le Rampe del Poggi costituiscono uno degli interventi architettonici e paesaggistici più originali realizzati a Firenze nella seconda metà dell'Ottocento.\n\nFurono progettate dall'architetto Giuseppe Poggi nell'ambito del piano di ampliamento della città durante il periodo in cui Firenze fu capitale d'Italia.\n\nRealizzate tra il 1872 e il 1876, collegano Piazza Giuseppe Poggi e l'area di Porta San Niccolò con Piazzale Michelangelo, superando un dislivello di circa 54 metri.\n\nIl complesso non è una semplice scalinata: è un sistema articolato di rampe, percorsi, terrazze, grotte artificiali, vasche e fontane.\n\nLa sua funzione era anche tecnica. Le strutture murarie e il sistema idraulico contribuivano al consolidamento del pendio e alla gestione delle acque superficiali.\n\nLe grotte artificiali, le superfici rivestite con materiali naturali e le grandi vasche creano un ambiente scenografico che richiama il gusto romantico dei giardini ottocenteschi.\n\nDopo un lungo periodo di degrado, il complesso è stato sottoposto a un importante restauro, concluso nel 2019, che ha restituito alla città le fontane e i giochi d'acqua.",
+    "en": "The Poggi Ramps are one of the most original architectural and landscape projects built in Florence in the second half of the nineteenth century.\n\nThey were designed by the architect Giuseppe Poggi as part of the city's expansion plan during the period when Florence was the capital of Italy.\n\nBuilt between 1872 and 1876, they link Piazza Giuseppe Poggi and the area of Porta San Niccolò with Piazzale Michelangelo, overcoming a height difference of about 54 metres.\n\nThe complex is not a simple staircase: it is an articulated system of ramps, paths, terraces, artificial grottoes, basins and fountains.\n\nIts function was also technical. The masonry structures and the hydraulic system helped consolidate the slope and manage surface water.\n\nThe artificial grottoes, the surfaces clad with natural materials and the large basins create a scenic setting that recalls the romantic taste of nineteenth-century gardens.\n\nAfter a long period of decay, the complex underwent a major restoration, completed in 2019, which gave the fountains and water features back to the city.",
+    "fr": "Les Rampes du Poggi sont l'une des interventions architecturales et paysagères les plus originales réalisées à Florence dans la seconde moitié du XIXe siècle.\n\nElles furent conçues par l'architecte Giuseppe Poggi dans le cadre du plan d'agrandissement de la ville, à l'époque où Florence était capitale de l'Italie.\n\nRéalisées entre 1872 et 1876, elles relient la Piazza Giuseppe Poggi et la zone de Porta San Niccolò à la Piazzale Michelangelo, en franchissant un dénivelé d'environ 54 mètres.\n\nL'ensemble n'est pas un simple escalier : c'est un système articulé de rampes, de chemins, de terrasses, de grottes artificielles, de bassins et de fontaines.\n\nSa fonction était aussi technique. Les structures maçonnées et le système hydraulique contribuaient à consolider la pente et à gérer les eaux de surface.\n\nLes grottes artificielles, les surfaces revêtues de matériaux naturels et les grands bassins créent un décor scénographique qui rappelle le goût romantique des jardins du XIXe siècle.\n\nAprès une longue période de dégradation, l'ensemble a fait l'objet d'une restauration importante, achevée en 2019, qui a rendu à la ville ses fontaines et ses jeux d'eau.",
+    "de": "Die Poggi-Rampen sind eines der originellsten architektonischen und landschaftlichen Projekte, die in der zweiten Hälfte des 19. Jahrhunderts in Florenz verwirklicht wurden.\n\nSie wurden vom Architekten Giuseppe Poggi im Rahmen des Stadterweiterungsplans entworfen, als Florenz die Hauptstadt Italiens war.\n\nZwischen 1872 und 1876 erbaut, verbinden sie die Piazza Giuseppe Poggi und den Bereich von Porta San Niccolò mit der Piazzale Michelangelo und überwinden einen Höhenunterschied von rund 54 Metern.\n\nDie Anlage ist keine einfache Treppe, sondern ein gegliedertes System aus Rampen, Wegen, Terrassen, künstlichen Grotten, Becken und Brunnen.\n\nIhre Funktion war auch technisch. Die Mauerwerke und das hydraulische System trugen zur Festigung des Hangs und zur Steuerung des Oberflächenwassers bei.\n\nDie künstlichen Grotten, die mit Naturmaterialien verkleideten Flächen und die großen Becken schaffen eine szenische Umgebung, die an den romantischen Geschmack der Gärten des 19. Jahrhunderts erinnert.\n\nNach einer langen Zeit des Verfalls wurde die Anlage grundlegend restauriert, bis 2019, und der Stadt wurden die Brunnen und Wasserspiele zurückgegeben.",
+    "es": "Las Rampas del Poggi son una de las intervenciones arquitectónicas y paisajísticas más originales realizadas en Florencia en la segunda mitad del siglo XIX.\n\nFueron proyectadas por el arquitecto Giuseppe Poggi dentro del plan de ampliación de la ciudad, durante el periodo en que Florencia fue capital de Italia.\n\nConstruidas entre 1872 y 1876, conectan la Piazza Giuseppe Poggi y la zona de Porta San Niccolò con la Piazzale Michelangelo, salvando un desnivel de unos 54 metros.\n\nEl conjunto no es una simple escalinata: es un sistema articulado de rampas, caminos, terrazas, grutas artificiales, estanques y fuentes.\n\nSu función era también técnica. Las estructuras de mampostería y el sistema hidráulico contribuían a consolidar la ladera y a gestionar las aguas superficiales.\n\nLas grutas artificiales, las superficies revestidas con materiales naturales y los grandes estanques crean un ambiente escenográfico que recuerda el gusto romántico de los jardines decimonónicos.\n\nTras un largo periodo de deterioro, el conjunto fue objeto de una importante restauración, concluida en 2019, que devolvió a la ciudad las fuentes y los juegos de agua."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Capitale già persa",
+      "en": "A capital already lost",
+      "fr": "Une capitale déjà perdue",
+      "de": "Eine Hauptstadt, die schon verloren war",
+      "es": "Una capital ya perdida"
+     },
+     "testo": {
+      "en": "The Ramps were built between 1872 and 1876, when Florence had already lost its role as capital, transferred to Rome in 1871.",
+      "fr": "Les Rampes furent construites entre 1872 et 1876, alors que Florence avait déjà perdu son rôle de capitale, transféré à Rome en 1871.",
+      "de": "Die Rampen wurden zwischen 1872 und 1876 gebaut, als Florenz seine Rolle als Hauptstadt bereits verloren hatte; sie war 1871 nach Rom übergegangen.",
+      "es": "Las Rampas se construyeron entre 1872 y 1876, cuando Florencia ya había perdido su papel de capital, trasladado a Roma en 1871.",
+      "it": "Le Rampe furono costruite tra il 1872 e il 1876, quando Firenze aveva già perso il ruolo di capitale, trasferito a Roma nel 1871."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Acqua di pozzo e ricircolo",
+      "en": "Well water and recirculation",
+      "fr": "Eau de puits et recirculation",
+      "de": "Brunnenwasser und Umwälzung",
+      "es": "Agua de pozo y recirculación"
+     },
+     "testo": {
+      "en": "The restored hydraulic system uses well water and recirculation, so it does not depend entirely on the city water network.",
+      "fr": "Le système hydraulique restauré utilise de l'eau de puits et de la recirculation, sans dépendre entièrement du réseau d'eau de la ville.",
+      "de": "Das restaurierte hydraulische System nutzt Brunnenwasser und Umwälzung und hängt so nicht vollständig vom städtischen Wassernetz ab.",
+      "es": "El sistema hidráulico restaurado utiliza agua de pozo y recirculación, sin depender por completo de la red de agua de la ciudad.",
+      "it": "Il sistema idraulico restaurato utilizza acqua di pozzo e ricircolo, evitando di dipendere interamente dalla rete idrica cittadina."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "sempre aperto"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Spazio pubblico all'aperto, normalmente accessibile durante tutta la giornata. Alcuni percorsi possono essere temporaneamente interessati da manutenzione o limitazioni, e le fontane possono non essere in funzione. Ingresso gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Open-air public space, normally accessible throughout the day. Some paths may be temporarily affected by maintenance or restrictions, and the fountains may not be working. Entry is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Espace public en plein air, normalement accessible toute la journée. Certains parcours peuvent être temporairement touchés par des travaux d'entretien ou des limitations, et les fontaines peuvent ne pas fonctionner. Entrée gratuite. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Öffentlicher Raum im Freien, normalerweise den ganzen Tag zugänglich. Einige Wege können vorübergehend durch Wartungsarbeiten oder Einschränkungen betroffen sein, und die Brunnen sind möglicherweise nicht in Betrieb. Der Eintritt ist frei. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Espacio público al aire libre, normalmente accesible durante todo el día. Algunos recorridos pueden verse afectados temporalmente por mantenimiento o limitaciones, y las fuentes pueden no estar en funcionamiento. Entrada gratuita. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "Poggi Ramps",
+    "fr": "Rampes du Poggi",
+    "de": "Poggi-Rampen",
+    "es": "Rampas del Poggi"
+   }
+  },
+  {
+   "id": "porta-san-niccolo",
+   "nome": "Porta San Niccolò",
+   "categoria": "altri",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7632,
+   "longitudine": 11.2677,
+   "descrizione": {
+    "it": "Porta San Niccolò è una delle porte medievali meglio conservate della cinta muraria di Firenze.\n\nSorge sulla riva sinistra dell'Arno, nel quartiere di San Niccolò, ai piedi della collina di Piazzale Michelangelo.\n\nLa porta faceva parte del sistema difensivo costruito nel XIII secolo, quando Firenze ampliò le proprie mura per proteggere una città in forte crescita economica e demografica.\n\nA differenza di altre porte cittadine, che furono abbassate o trasformate nel corso dell'Ottocento, Porta San Niccolò conserva ancora la sua struttura verticale originaria, con la torre che si innalza sopra il passaggio.\n\nLa costruzione aveva una funzione militare e di controllo degli accessi alla città. Da qui passavano persone, merci e viaggiatori diretti verso la zona meridionale del territorio fiorentino.\n\nLa porta si trova oggi in un punto di particolare interesse urbanistico: da un lato il quartiere storico di San Niccolò e l'Arno, dall'altro le Rampe del Poggi che salgono verso Piazzale Michelangelo.",
+    "en": "Porta San Niccolò is one of the best-preserved medieval gates of Florence's city walls.\n\nIt stands on the left bank of the Arno, in the San Niccolò district, at the foot of the hill of Piazzale Michelangelo.\n\nThe gate was part of the defensive system built in the thirteenth century, when Florence extended its walls to protect a city growing fast in economy and population.\n\nUnlike other city gates, which were lowered or transformed in the nineteenth century, Porta San Niccolò still keeps its original vertical structure, with the tower rising above the passage.\n\nThe building had a military function and controlled access to the city. People, goods and travellers heading for the southern part of the Florentine territory passed through here.\n\nToday the gate lies at a point of particular urban interest: on one side the historic San Niccolò district and the Arno, on the other the Poggi Ramps climbing towards Piazzale Michelangelo.",
+    "fr": "La Porta San Niccolò est l'une des portes médiévales les mieux conservées de l'enceinte de Florence.\n\nElle s'élève sur la rive gauche de l'Arno, dans le quartier de San Niccolò, au pied de la colline de la Piazzale Michelangelo.\n\nLa porte faisait partie du système défensif construit au XIIIe siècle, lorsque Florence agrandit ses murs pour protéger une ville en forte croissance économique et démographique.\n\nContrairement à d'autres portes de la ville, abaissées ou transformées au XIXe siècle, la Porta San Niccolò conserve encore sa structure verticale d'origine, avec la tour qui s'élève au-dessus du passage.\n\nLa construction avait une fonction militaire et de contrôle des accès à la ville. Par ici passaient des personnes, des marchandises et des voyageurs en route vers la partie méridionale du territoire florentin.\n\nAujourd'hui, la porte se trouve en un point d'un intérêt urbanistique particulier : d'un côté le quartier historique de San Niccolò et l'Arno, de l'autre les Rampes du Poggi qui montent vers la Piazzale Michelangelo.",
+    "de": "Die Porta San Niccolò ist eines der am besten erhaltenen mittelalterlichen Stadttore der Florentiner Stadtmauer.\n\nSie liegt am linken Ufer des Arno, im Viertel San Niccolò, am Fuß des Hügels der Piazzale Michelangelo.\n\nDas Tor gehörte zum Verteidigungssystem aus dem 13. Jahrhundert, als Florenz seine Mauern erweiterte, um eine wirtschaftlich und demografisch stark wachsende Stadt zu schützen.\n\nAnders als andere Stadttore, die im 19. Jahrhundert abgesenkt oder umgestaltet wurden, bewahrt die Porta San Niccolò noch ihre ursprüngliche vertikale Struktur, mit dem Turm, der sich über dem Durchgang erhebt.\n\nDer Bau hatte eine militärische Funktion und kontrollierte den Zugang zur Stadt. Hier zogen Menschen, Waren und Reisende in Richtung des südlichen Florentiner Gebiets hindurch.\n\nHeute liegt das Tor an einem städtebaulich besonders interessanten Punkt: auf der einen Seite das historische Viertel San Niccolò und der Arno, auf der anderen die Poggi-Rampen, die zur Piazzale Michelangelo hinaufführen.",
+    "es": "La Puerta de San Niccolò es una de las puertas medievales mejor conservadas de las murallas de Florencia.\n\nSe alza en la orilla izquierda del Arno, en el barrio de San Niccolò, al pie de la colina de la Piazzale Michelangelo.\n\nLa puerta formaba parte del sistema defensivo construido en el siglo XIII, cuando Florencia amplió sus murallas para proteger una ciudad en fuerte crecimiento económico y demográfico.\n\nA diferencia de otras puertas de la ciudad, que fueron rebajadas o transformadas en el siglo XIX, la Puerta de San Niccolò conserva todavía su estructura vertical original, con la torre que se eleva sobre el paso.\n\nLa construcción tenía una función militar y de control de los accesos a la ciudad. Por aquí pasaban personas, mercancías y viajeros con destino a la zona meridional del territorio florentino.\n\nHoy la puerta se encuentra en un punto de especial interés urbanístico: por un lado el barrio histórico de San Niccolò y el Arno, por otro las Rampas del Poggi que suben hacia la Piazzale Michelangelo."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Ha conservato la sua altezza",
+      "en": "It kept its height",
+      "fr": "Elle a gardé sa hauteur",
+      "de": "Sie hat ihre Höhe bewahrt",
+      "es": "Conserva su altura"
+     },
+     "testo": {
+      "en": "Porta San Niccolò is one of the few medieval Florentine gates to have kept its original height.",
+      "fr": "La Porta San Niccolò est l'une des rares portes médiévales florentines à avoir conservé sa hauteur d'origine.",
+      "de": "Die Porta San Niccolò ist eines der wenigen mittelalterlichen Florentiner Stadttore, die ihre ursprüngliche Höhe bewahrt haben.",
+      "es": "La Puerta de San Niccolò es una de las pocas puertas medievales florentinas que han conservado su altura original.",
+      "it": "Porta San Niccolò è una delle poche porte medievali fiorentine ad aver conservato la propria altezza originaria."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Una torre di controllo",
+      "en": "A control tower",
+      "fr": "Une tour de contrôle",
+      "de": "Ein Kontrollturm",
+      "es": "Una torre de control"
+     },
+     "testo": {
+      "en": "The tower made it possible to control the passage through the walls and to watch over an important access point to the city.",
+      "fr": "La tour permettait de contrôler le passage à travers les murs et de surveiller une zone d'accès importante à la ville.",
+      "de": "Der Turm erlaubte es, den Durchgang durch die Mauern zu kontrollieren und einen wichtigen Zugangsbereich zur Stadt zu überwachen.",
+      "es": "La torre permitía controlar el paso a través de las murallas y vigilar una importante zona de acceso a la ciudad.",
+      "it": "La torre permetteva di controllare il passaggio attraverso le mura e di sorvegliare un'importante zona di accesso alla città."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "sempre aperto"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "L'esterno è visibile liberamente in qualsiasi momento. L'accesso alla torre e ai camminamenti non è garantito in modo continuativo: dipende da aperture straordinarie e visite organizzate dal Comune, che possono prevedere prenotazione e condizioni specifiche. Esterno gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The exterior can be seen freely at any time. Access to the tower and walkways is not guaranteed on a continuous basis: it depends on extraordinary openings and visits organised by the Municipality, which may require booking and specific conditions. The exterior is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "L'extérieur est visible librement à tout moment. L'accès à la tour et aux chemins de ronde n'est pas garanti de façon continue : il dépend d'ouvertures exceptionnelles et de visites organisées par la Municipalité, qui peuvent prévoir une réservation et des conditions spécifiques. Extérieur gratuit. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Das Äußere kann jederzeit frei besichtigt werden. Der Zugang zum Turm und zu den Wehrgängen ist nicht durchgehend gewährleistet: Er hängt von außerordentlichen Öffnungen und von der Stadtverwaltung organisierten Besichtigungen ab, die eine Reservierung und besondere Bedingungen vorsehen können. Das Äußere ist kostenlos. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "El exterior puede verse libremente en cualquier momento. El acceso a la torre y a los caminos de ronda no está garantizado de forma continuada: depende de aperturas extraordinarias y de visitas organizadas por el Ayuntamiento, que pueden requerir reserva y condiciones específicas. Exterior gratuito. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "San Niccolò Gate",
+    "fr": "Porte San Niccolò",
+    "de": "Porta San Niccolò (Stadttor)",
+    "es": "Puerta de San Niccolò"
+   }
+  },
+  {
+   "id": "parco-del-bobolino",
+   "nome": "Parco del Bobolino",
+   "categoria": "giardini",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7563,
+   "longitudine": 11.249,
+   "descrizione": {
+    "it": "Il Parco del Bobolino è un'area verde pubblica situata lungo Viale Niccolò Machiavelli, nel sistema paesaggistico del Viale dei Colli.\n\nLa sua origine è legata al grande progetto urbanistico di Giuseppe Poggi, sviluppato tra il 1865 e il 1877 durante il periodo di Firenze capitale.\n\nIl parco fa parte di un più ampio sistema di spazi verdi che comprende anche il Parco delle ex Scuderie Reali e che rappresenta una sorta di estensione oltre le antiche mura del Giardino di Boboli.\n\nIl progetto di Poggi trasformò il paesaggio collinare a sud dell'Arno in un grande giardino urbano, caratterizzato da viali sinuosi, vegetazione, spazi panoramici e aree verdi.\n\nIl Bobolino rappresenta una parte importante di questo sistema. Il suo carattere è quello di un giardino paesaggistico all'inglese, con percorsi, alberature e spazi aperti che accompagnano il tracciato del viale.\n\nIn passato la zona era legata anche ad attività ricreative e di intrattenimento. Nei pressi del Piazzale Galileo esisteva infatti lo Stabilimento Tivoli, un complesso destinato allo svago e alla ristorazione, oggi scomparso.\n\nOggi il parco è soprattutto uno spazio di quiete e di passaggio, apprezzato da chi percorre il Viale dei Colli lontano dai flussi turistici del centro.",
+    "en": "Bobolino Park is a public green area along Viale Niccolò Machiavelli, within the landscape system of the Viale dei Colli.\n\nIts origin is tied to Giuseppe Poggi's great urban project, developed between 1865 and 1877 while Florence was the capital.\n\nThe park belongs to a wider system of green spaces that also includes the Park of the former Royal Stables and that acts as a kind of extension, beyond the old walls, of the Boboli Garden.\n\nPoggi's project turned the hilly landscape south of the Arno into a great urban garden, marked by winding avenues, vegetation, panoramic spaces and green areas.\n\nThe Bobolino is an important part of this system. Its character is that of an English-style landscape garden, with paths, trees and open spaces that follow the line of the avenue.\n\nIn the past the area was also linked to recreation and entertainment. Near Piazzale Galileo there used to be the Stabilimento Tivoli, a complex for leisure and dining, now gone.\n\nToday the park is above all a place of quiet and passage, appreciated by those who walk the Viale dei Colli away from the tourist flows of the centre.",
+    "fr": "Le parc du Bobolino est un espace vert public situé le long du Viale Niccolò Machiavelli, dans le système paysager du Viale dei Colli.\n\nSon origine est liée au grand projet urbanistique de Giuseppe Poggi, développé entre 1865 et 1877 à l'époque où Florence était capitale.\n\nLe parc fait partie d'un système plus vaste d'espaces verts qui comprend aussi le parc des anciennes Écuries royales et qui constitue une sorte de prolongement, au-delà des anciennes murailles, du jardin de Boboli.\n\nLe projet de Poggi transforma le paysage de collines au sud de l'Arno en un grand jardin urbain, caractérisé par des avenues sinueuses, de la végétation, des espaces panoramiques et des zones vertes.\n\nLe Bobolino est une partie importante de ce système. Son caractère est celui d'un jardin paysager à l'anglaise, avec des chemins, des arbres et des espaces ouverts qui accompagnent le tracé de l'avenue.\n\nAutrefois, la zone était aussi liée aux loisirs et aux divertissements. Près de la Piazzale Galileo existait en effet le Stabilimento Tivoli, un complexe destiné aux loisirs et à la restauration, aujourd'hui disparu.\n\nAujourd'hui, le parc est surtout un espace de calme et de passage, apprécié par ceux qui parcourent le Viale dei Colli loin des flux touristiques du centre.",
+    "de": "Der Bobolino-Park ist eine öffentliche Grünfläche an der Viale Niccolò Machiavelli, im Landschaftssystem der Viale dei Colli.\n\nSein Ursprung ist mit dem großen Stadtplanungsprojekt von Giuseppe Poggi verbunden, das zwischen 1865 und 1877 entwickelt wurde, als Florenz Hauptstadt war.\n\nDer Park gehört zu einem größeren System von Grünflächen, zu dem auch der Park der ehemaligen Königlichen Stallungen zählt und das eine Art Erweiterung des Boboli-Gartens jenseits der alten Mauern darstellt.\n\nPoggis Projekt verwandelte die Hügellandschaft südlich des Arno in einen großen Stadtgarten, geprägt von geschwungenen Alleen, Vegetation, Aussichtsplätzen und Grünflächen.\n\nDer Bobolino ist ein wichtiger Teil dieses Systems. Sein Charakter ist der eines Landschaftsgartens im englischen Stil, mit Wegen, Baumbestand und offenen Flächen, die dem Verlauf der Straße folgen.\n\nIn der Vergangenheit war die Gegend auch mit Erholung und Unterhaltung verbunden. In der Nähe der Piazzale Galileo gab es nämlich das Stabilimento Tivoli, eine Anlage für Freizeit und Gastronomie, die heute verschwunden ist.\n\nHeute ist der Park vor allem ein Ort der Ruhe und des Durchgangs, geschätzt von denen, die die Viale dei Colli abseits der Touristenströme des Zentrums entlanggehen.",
+    "es": "El parque del Bobolino es un área verde pública situada a lo largo del Viale Niccolò Machiavelli, dentro del sistema paisajístico del Viale dei Colli.\n\nSu origen está ligado al gran proyecto urbanístico de Giuseppe Poggi, desarrollado entre 1865 y 1877 durante el periodo en que Florencia fue capital.\n\nEl parque forma parte de un sistema más amplio de espacios verdes que incluye también el Parque de las antiguas Caballerizas Reales y que representa una especie de extensión, más allá de las antiguas murallas, del Jardín de Boboli.\n\nEl proyecto de Poggi transformó el paisaje de colinas al sur del Arno en un gran jardín urbano, caracterizado por avenidas sinuosas, vegetación, espacios panorámicos y áreas verdes.\n\nEl Bobolino es una parte importante de este sistema. Su carácter es el de un jardín paisajístico a la inglesa, con caminos, arboledas y espacios abiertos que acompañan el trazado de la avenida.\n\nEn el pasado la zona estaba ligada también a actividades recreativas y de entretenimiento. Cerca de la Piazzale Galileo existía, en efecto, el Stabilimento Tivoli, un complejo destinado al ocio y la restauración, hoy desaparecido.\n\nHoy el parque es sobre todo un espacio de quietud y de paso, apreciado por quienes recorren el Viale dei Colli lejos de los flujos turísticos del centro."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Un sistema verde di Poggi",
+      "en": "Poggi's green system",
+      "fr": "Un système vert de Poggi",
+      "de": "Poggis Grünsystem",
+      "es": "Un sistema verde de Poggi"
+     },
+     "testo": {
+      "en": "The Bobolino is part of a green system designed by Giuseppe Poggi as part of the transformation of Florence as capital.",
+      "fr": "Le Bobolino fait partie d'un système vert conçu par Giuseppe Poggi dans le cadre de la transformation de Florence capitale.",
+      "de": "Der Bobolino gehört zu einem von Giuseppe Poggi entworfenen Grünsystem im Rahmen der Umgestaltung von Florenz als Hauptstadt.",
+      "es": "El Bobolino forma parte de un sistema verde proyectado por Giuseppe Poggi dentro de la transformación de Florencia capital.",
+      "it": "Il Bobolino fa parte di un sistema verde progettato da Giuseppe Poggi nell'ambito della trasformazione di Firenze capitale."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Oltre le mura, il paesaggio di Boboli",
+      "en": "Beyond the walls, the Boboli landscape",
+      "fr": "Au-delà des murs, le paysage de Boboli",
+      "de": "Jenseits der Mauern: die Landschaft von Boboli",
+      "es": "Más allá de las murallas, el paisaje de Boboli"
+     },
+     "testo": {
+      "en": "Together with the Park of the former Royal Stables, it continues the landscape of the Boboli Garden beyond the old city walls.",
+      "fr": "Avec le parc des anciennes Écuries royales, il prolonge le paysage du jardin de Boboli au-delà des anciennes murailles de la ville.",
+      "de": "Zusammen mit dem Park der ehemaligen Königlichen Stallungen setzt er die Landschaft des Boboli-Gartens jenseits der alten Stadtmauern fort.",
+      "es": "Junto con el Parque de las antiguas Caballerizas Reales, prolonga el paisaje del Jardín de Boboli más allá de las antiguas murallas de la ciudad.",
+      "it": "Insieme al Parco delle ex Scuderie Reali, rappresenta una prosecuzione del paesaggio del Giardino di Boboli oltre le antiche mura cittadine."
+     }
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Parco pubblico, normalmente accessibile durante la giornata. Il Comune non pubblica un orario turistico specifico per il parco; possono essere presenti limitazioni temporanee. Ingresso gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Public park, normally accessible during the day. The Municipality does not publish specific tourist hours for the park; temporary restrictions may apply. Entry is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Parc public, normalement accessible pendant la journée. La Municipalité ne publie pas d'horaires touristiques spécifiques pour le parc ; des limitations temporaires peuvent exister. Entrée gratuite. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Öffentlicher Park, normalerweise tagsüber zugänglich. Die Stadtverwaltung veröffentlicht keine eigenen touristischen Öffnungszeiten für den Park; vorübergehende Einschränkungen sind möglich. Der Eintritt ist frei. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Parque público, normalmente accesible durante el día. El Ayuntamiento no publica un horario turístico específico para el parque; pueden existir limitaciones temporales. Entrada gratuita. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "Bobolino Park",
+    "fr": "Parc du Bobolino",
+    "de": "Bobolino-Park",
+    "es": "Parque del Bobolino"
+   }
+  },
+  {
+   "id": "porta-romana",
+   "nome": "Porta Romana",
+   "categoria": "altri",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7557,
+   "longitudine": 11.2482,
+   "descrizione": {
+    "it": "Porta Romana è una delle principali testimonianze della cinta muraria medievale di Firenze e rappresenta l'antico accesso meridionale alla città.\n\nLa porta fu realizzata nel XIV secolo, durante la costruzione dell'ultima grande cerchia di mura medievali, e si trovava lungo la strada che collegava Firenze con Roma e Siena.\n\nLa struttura conserva ancora il grande arco di passaggio e le ante lignee del portale, oltre a elementi architettonici che testimoniano la sua originaria funzione difensiva.\n\nCon il passare dei secoli, la funzione militare delle mura venne progressivamente meno. Durante il governo del granduca Pietro Leopoldo furono aperti nuovi varchi per migliorare la circolazione, mentre nell'Ottocento la trasformazione urbanistica della città modificò profondamente il rapporto tra le antiche fortificazioni e il tessuto urbano.\n\nOggi Porta Romana si trova al centro di un importante nodo stradale, all'ingresso del quartiere di Oltrarno.\n\nSul piazzale antistante si trova anche l'opera contemporanea Dietrofront, realizzata da Michelangelo Pistoletto.\n\nLa scultura, composta da due figure femminili in marmo ocra, rappresenta un movimento in due direzioni: una figura guarda verso l'esterno della città, mentre l'altra si protende nella direzione opposta.\n\nL'opera richiama il rapporto tra passato e futuro, tra apertura verso il mondo e memoria della propria storia.",
+    "en": "Porta Romana is one of the main witnesses of Florence's medieval city walls and was the old southern entrance to the city.\n\nThe gate was built in the fourteenth century, during the construction of the last great ring of medieval walls, and stood on the road linking Florence with Rome and Siena.\n\nThe structure still keeps the great arch of the passage and the wooden doors of the portal, along with architectural elements that testify to its original defensive function.\n\nOver the centuries the military function of the walls gradually faded. Under Grand Duke Peter Leopold new openings were made to improve circulation, while in the nineteenth century the city's urban transformation profoundly changed the relationship between the old fortifications and the urban fabric.\n\nToday Porta Romana stands at the centre of an important road junction, at the entrance to the Oltrarno district.\n\nOn the square in front there is also the contemporary work Dietrofront, by Michelangelo Pistoletto.\n\nThe sculpture, made of two female figures in ochre marble, represents a movement in two directions: one figure looks towards the outside of the city, while the other leans in the opposite direction.\n\nThe work evokes the relationship between past and future, between openness to the world and the memory of one's own history.",
+    "fr": "La Porta Romana est l'un des principaux témoignages de l'enceinte médiévale de Florence et représente l'ancien accès méridional à la ville.\n\nLa porte fut réalisée au XIVe siècle, lors de la construction de la dernière grande enceinte de murs médiévaux, et se trouvait sur la route reliant Florence à Rome et à Sienne.\n\nLa structure conserve encore le grand arc de passage et les vantaux en bois du portail, ainsi que des éléments architecturaux qui témoignent de sa fonction défensive d'origine.\n\nAu fil des siècles, la fonction militaire des murs s'est progressivement effacée. Sous le gouvernement du grand-duc Pierre-Léopold, de nouveaux passages furent ouverts pour améliorer la circulation, tandis qu'au XIXe siècle la transformation urbanistique de la ville modifia profondément le rapport entre les anciennes fortifications et le tissu urbain.\n\nAujourd'hui, la Porta Romana se trouve au centre d'un important nœud routier, à l'entrée du quartier de l'Oltrarno.\n\nSur la place devant la porte se trouve aussi l'œuvre contemporaine Dietrofront, de Michelangelo Pistoletto.\n\nLa sculpture, composée de deux figures féminines en marbre ocre, représente un mouvement dans deux directions : une figure regarde vers l'extérieur de la ville, tandis que l'autre se penche dans la direction opposée.\n\nL'œuvre évoque le rapport entre passé et avenir, entre ouverture sur le monde et mémoire de sa propre histoire.",
+    "de": "Die Porta Romana ist eines der wichtigsten Zeugnisse der mittelalterlichen Stadtmauer von Florenz und war der alte südliche Zugang zur Stadt.\n\nDas Tor wurde im 14. Jahrhundert beim Bau des letzten großen mittelalterlichen Mauerrings errichtet und lag an der Straße, die Florenz mit Rom und Siena verband.\n\nDie Struktur bewahrt noch den großen Durchgangsbogen und die hölzernen Torflügel des Portals sowie architektonische Elemente, die von ihrer ursprünglichen Verteidigungsfunktion zeugen.\n\nIm Lauf der Jahrhunderte verlor die militärische Funktion der Mauern allmählich an Bedeutung. Unter Großherzog Peter Leopold wurden neue Durchbrüche geöffnet, um den Verkehr zu verbessern, während die städtebauliche Umgestaltung der Stadt im 19. Jahrhundert das Verhältnis zwischen den alten Befestigungen und dem Stadtgefüge tiefgreifend veränderte.\n\nHeute liegt die Porta Romana im Zentrum eines wichtigen Verkehrsknotens, am Eingang des Viertels Oltrarno.\n\nAuf dem Platz davor steht auch das zeitgenössische Werk Dietrofront von Michelangelo Pistoletto.\n\nDie Skulptur aus zwei weiblichen Figuren in ockerfarbenem Marmor stellt eine Bewegung in zwei Richtungen dar: Eine Figur blickt aus der Stadt hinaus, die andere neigt sich in die entgegengesetzte Richtung.\n\nDas Werk ruft das Verhältnis zwischen Vergangenheit und Zukunft hervor, zwischen Offenheit gegenüber der Welt und dem Gedächtnis der eigenen Geschichte.",
+    "es": "La Puerta Romana es uno de los principales testimonios de las murallas medievales de Florencia y representa el antiguo acceso meridional a la ciudad.\n\nLa puerta se realizó en el siglo XIV, durante la construcción del último gran cinturón de murallas medievales, y se encontraba en la carretera que unía Florencia con Roma y Siena.\n\nLa estructura conserva todavía el gran arco de paso y las hojas de madera del portal, además de elementos arquitectónicos que testimonian su función defensiva original.\n\nCon el paso de los siglos, la función militar de las murallas fue desapareciendo progresivamente. Durante el gobierno del gran duque Pedro Leopoldo se abrieron nuevos pasos para mejorar la circulación, mientras que en el siglo XIX la transformación urbanística de la ciudad modificó profundamente la relación entre las antiguas fortificaciones y el tejido urbano.\n\nHoy la Puerta Romana se encuentra en el centro de un importante nudo viario, a la entrada del barrio del Oltrarno.\n\nEn la plaza delante de la puerta se encuentra también la obra contemporánea Dietrofront, de Michelangelo Pistoletto.\n\nLa escultura, compuesta por dos figuras femeninas en mármol ocre, representa un movimiento en dos direcciones: una figura mira hacia el exterior de la ciudad, mientras que la otra se inclina en la dirección opuesta.\n\nLa obra evoca la relación entre pasado y futuro, entre apertura al mundo y memoria de la propia historia."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Le ante originali",
+      "en": "The original doors",
+      "fr": "Les vantaux d'origine",
+      "de": "Die originalen Torflügel",
+      "es": "Las hojas originales"
+     },
+     "testo": {
+      "en": "Porta Romana still keeps the old wooden doors of the portal, with the great bolts and historic locks.",
+      "fr": "La Porta Romana conserve encore les anciens vantaux en bois du portail, avec les grands boulons et les serrures historiques.",
+      "de": "Die Porta Romana bewahrt noch die alten hölzernen Torflügel des Portals, mit den großen Bolzen und den historischen Schlössern.",
+      "es": "La Puerta Romana conserva todavía las antiguas hojas de madera del portal, con los grandes pernos y las cerraduras históricas.",
+      "it": "Porta Romana conserva ancora le antiche ante lignee del portale, con i grandi bulloni e le serrature storiche."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Dietrofront",
+      "en": "Dietrofront",
+      "fr": "Dietrofront",
+      "de": "Dietrofront",
+      "es": "Dietrofront"
+     },
+     "testo": {
+      "en": "Dietrofront was made in 1984 for Michelangelo Pistoletto's exhibition at Forte Belvedere and was later placed permanently at Porta Romana.",
+      "fr": "Dietrofront fut réalisée en 1984 à l'occasion de l'exposition de Michelangelo Pistoletto au Forte Belvedere, puis installée de façon permanente à la Porta Romana.",
+      "de": "Dietrofront entstand 1984 anlässlich der Ausstellung von Michelangelo Pistoletto im Forte Belvedere und wurde später dauerhaft an der Porta Romana aufgestellt.",
+      "es": "Dietrofront se realizó en 1984 con motivo de la exposición de Michelangelo Pistoletto en el Forte Belvedere y se colocó después de forma permanente en la Puerta Romana.",
+      "it": "Dietrofront fu realizzata nel 1984 in occasione della mostra di Michelangelo Pistoletto al Forte Belvedere e successivamente collocata in modo permanente a Porta Romana."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "sempre aperto"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Porta e piazzale sono visibili liberamente dall'esterno durante tutta la giornata. L'accesso ai camminamenti interni delle mura e agli ambienti della porta dipende da aperture e iniziative organizzate dal Comune e può richiedere prenotazione. Esterno gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "The gate and the square can be seen freely from outside throughout the day. Access to the inner walkways of the walls and to the rooms of the gate depends on openings and initiatives organised by the Municipality and may require booking. The exterior is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "La porte et la place sont visibles librement de l'extérieur toute la journée. L'accès aux chemins de ronde intérieurs des murs et aux salles de la porte dépend d'ouvertures et d'initiatives organisées par la Municipalité et peut nécessiter une réservation. Extérieur gratuit. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Tor und Platz können den ganzen Tag über frei von außen besichtigt werden. Der Zugang zu den inneren Wehrgängen der Mauern und zu den Räumen des Tores hängt von Öffnungen und Initiativen der Stadtverwaltung ab und kann eine Reservierung erfordern. Das Äußere ist kostenlos. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "La puerta y la plaza pueden verse libremente desde el exterior durante todo el día. El acceso a los caminos de ronda interiores de las murallas y a las estancias de la puerta depende de aperturas e iniciativas organizadas por el Ayuntamiento y puede requerir reserva. Exterior gratuito. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "nomi": {
+    "en": "Roman Gate",
+    "fr": "Porte Romaine",
+    "de": "Porta Romana (Römisches Tor)",
+    "es": "Puerta Romana"
+   }
+  },
+  {
+   "id": "partir-la-valigia-di-folon",
+   "nome": "Partir – la valigia di Folon",
+   "categoria": "altri",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7633,
+   "longitudine": 11.2652,
+   "descrizione": {
+    "it": "Partir è una delle sculture più conosciute dell'artista belga Jean-Michel Folon, collocata nel Giardino delle Rose di Firenze.\n\nL'opera rappresenta una grande valigia aperta, attraverso la quale il visitatore può osservare il panorama della città. La scultura trasforma un gesto quotidiano, quello di partire e portare con sé i propri oggetti, in una riflessione sul viaggio, sulla memoria e sulla scoperta.\n\nLa valigia diventa una cornice attraverso cui Firenze appare come un paesaggio da conservare nella memoria. Il visitatore è invitato a fermarsi, guardare e immaginare il proprio viaggio.\n\nPartir fa parte del gruppo di opere di Folon presenti nel giardino, donate alla città dalla vedova dell'artista e installate nel 2011.\n\nNon è un monumento isolato: il suo significato emerge soprattutto dal rapporto con il verde, con le altre sculture e con la vista sul centro storico.",
+    "en": "Partir is one of the best-known sculptures by the Belgian artist Jean-Michel Folon, placed in the Rose Garden in Florence.\n\nThe work is a large open suitcase through which the visitor can look at the panorama of the city. The sculpture turns an everyday gesture, leaving and taking one's belongings along, into a reflection on travel, memory and discovery.\n\nThe suitcase becomes a frame through which Florence appears as a landscape to keep in memory. Visitors are invited to stop, look and imagine their own journey.\n\nPartir belongs to the group of Folon works in the garden, donated to the city by the artist's widow and installed in 2011.\n\nIt is not an isolated monument: its meaning emerges above all from its relationship with the greenery, with the other sculptures and with the view over the historic centre.",
+    "fr": "Partir est l'une des sculptures les plus connues de l'artiste belge Jean-Michel Folon, installée dans le Jardin des Roses de Florence.\n\nL'œuvre représente une grande valise ouverte à travers laquelle le visiteur peut observer le panorama de la ville. La sculpture transforme un geste quotidien, partir en emportant ses affaires, en une réflexion sur le voyage, la mémoire et la découverte.\n\nLa valise devient un cadre à travers lequel Florence apparaît comme un paysage à garder en mémoire. Le visiteur est invité à s'arrêter, à regarder et à imaginer son propre voyage.\n\nPartir fait partie du groupe d'œuvres de Folon présentes dans le jardin, données à la ville par la veuve de l'artiste et installées en 2011.\n\nCe n'est pas un monument isolé : son sens naît surtout de son rapport avec la verdure, avec les autres sculptures et avec la vue sur le centre historique.",
+    "de": "Partir ist eine der bekanntesten Skulpturen des belgischen Künstlers Jean-Michel Folon und steht im Rosengarten von Florenz.\n\nDas Werk stellt einen großen offenen Koffer dar, durch den die Besucher das Panorama der Stadt betrachten können. Die Skulptur macht aus einer alltäglichen Geste – aufzubrechen und seine Sachen mitzunehmen – eine Reflexion über Reise, Erinnerung und Entdeckung.\n\nDer Koffer wird zum Rahmen, durch den Florenz als Landschaft erscheint, die man im Gedächtnis bewahren möchte. Die Besucher sind eingeladen, innezuhalten, zu schauen und sich ihre eigene Reise vorzustellen.\n\nPartir gehört zur Gruppe der Folon-Werke im Garten, die der Stadt von der Witwe des Künstlers geschenkt und 2011 aufgestellt wurden.\n\nEs ist kein isoliertes Denkmal: Seine Bedeutung ergibt sich vor allem aus dem Zusammenspiel mit dem Grün, den anderen Skulpturen und dem Blick auf die Altstadt.",
+    "es": "Partir es una de las esculturas más conocidas del artista belga Jean-Michel Folon, situada en el Jardín de las Rosas de Florencia.\n\nLa obra representa una gran maleta abierta a través de la cual el visitante puede contemplar el panorama de la ciudad. La escultura convierte un gesto cotidiano, partir llevándose sus cosas, en una reflexión sobre el viaje, la memoria y el descubrimiento.\n\nLa maleta se convierte en un marco a través del cual Florencia aparece como un paisaje que conservar en la memoria. Se invita al visitante a detenerse, mirar e imaginar su propio viaje.\n\nPartir forma parte del grupo de obras de Folon presentes en el jardín, donadas a la ciudad por la viuda del artista e instaladas en 2011.\n\nNo es un monumento aislado: su significado surge sobre todo de la relación con el verde, con las demás esculturas y con la vista sobre el centro histórico."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Un titolo che significa «partire»",
+      "en": "A title that means “to leave”",
+      "fr": "Un titre qui signifie « partir »",
+      "de": "Ein Titel, der „abreisen“ bedeutet",
+      "es": "Un título que significa «partir»"
+     },
+     "testo": {
+      "en": "The title Partir means “to leave” in French: the suitcase becomes the symbol of travel, but also of the memory of what we leave behind.",
+      "fr": "Le titre Partir signifie « partir » : la valise devient le symbole du voyage, mais aussi de la mémoire de ce que nous laissons derrière nous.",
+      "de": "Der Titel Partir bedeutet auf Französisch „abreisen“: Der Koffer wird zum Symbol der Reise, aber auch der Erinnerung an das, was wir zurücklassen.",
+      "es": "El título Partir significa «marcharse» en francés: la maleta se convierte en el símbolo del viaje, pero también de la memoria de lo que dejamos atrás.",
+      "it": "Il titolo Partir significa partire in francese: la valigia diventa il simbolo del viaggio, ma anche della memoria di ciò che lasciamo alle spalle."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Altre opere di Folon",
+      "en": "Other works by Folon",
+      "fr": "Autres œuvres de Folon",
+      "de": "Weitere Werke von Folon",
+      "es": "Otras obras de Folon"
+     },
+     "testo": {
+      "en": "The Rose Garden holds other works by Folon, including Je me souviens, Chat and L'Envol.",
+      "fr": "Le Jardin des Roses abrite d'autres œuvres de Folon, dont Je me souviens, Chat et L'Envol.",
+      "de": "Im Rosengarten stehen weitere Werke von Folon, darunter Je me souviens, Chat und L'Envol.",
+      "es": "En el Jardín de las Rosas se encuentran otras obras de Folon, entre ellas Je me souviens, Chat y L'Envol.",
+      "it": "Nel Giardino delle Rose sono presenti altre opere di Folon, tra cui Je me souviens, Chat e L'Envol."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "9:00–17:00",
+     "periodo": "01-01/02-28"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–18:00",
+     "periodo": "03-01/03-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–19:00",
+     "periodo": "04-01/04-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–20:00",
+     "periodo": "05-01/09-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–18:00",
+     "periodo": "10-01/10-31"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "9:00–17:00",
+     "periodo": "11-01/12-31"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "Si trova all'interno del Giardino delle Rose, di cui segue gli orari; non esiste un biglietto separato per la scultura. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "It stands inside the Rose Garden and follows its opening hours; there is no separate ticket for the sculpture. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Elle se trouve dans le Jardin des Roses, dont elle suit les horaires ; il n'existe pas de billet séparé pour la sculpture. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Sie steht im Rosengarten und folgt dessen Öffnungszeiten; für die Skulptur gibt es kein separates Ticket. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Se encuentra dentro del Jardín de las Rosas, cuyo horario sigue; no existe una entrada aparte para la escultura. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "immagine": {
+    "autore": "Jnyssen",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Jnyssen"
+   },
+   "galleria": [
+    {
+     "autore": "Jnyssen",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jnyssen"
+    },
+    {
+     "autore": "Jnyssen",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jnyssen"
+    }
+   ],
+   "nomi": {
+    "en": "Partir – Folon's suitcase",
+    "fr": "Partir – la valise de Folon",
+    "de": "Partir – Folons Koffer",
+    "es": "Partir – la maleta de Folon"
+   },
+   "curiosita": true
   }
  ]
 }

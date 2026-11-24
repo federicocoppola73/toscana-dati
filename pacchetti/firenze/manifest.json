@@ -1,5 +1,5 @@
 {
- "versione": "3cf251a8ab31",
+ "versione": "35b74c9b8afa",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -528,6 +528,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-vecchio_5.webp",
    "sha256": "a72be11ea9aab36d3e9e47d3f5486853b67551d6e0d94f13626ee6dcc34c803c",
    "byte": 215848
+  },
+  {
+   "path": "assets/luoghi/partir-la-valigia-di-folon.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/partir-la-valigia-di-folon.webp",
+   "sha256": "8ec777d58e003ac6e63c3993883f275b65b572dccd929bef78752830b2937d2f",
+   "byte": 87096
+  },
+  {
+   "path": "assets/luoghi/partir-la-valigia-di-folon_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/partir-la-valigia-di-folon_2.webp",
+   "sha256": "b2ba4f32ed5a3f9a3e1f6caa53f7ec3236ca6b9e18bedf8aff7604b27a63c000",
+   "byte": 101142
+  },
+  {
+   "path": "assets/luoghi/partir-la-valigia-di-folon_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/partir-la-valigia-di-folon_3.webp",
+   "sha256": "af52544920197c2ed92138f8e7527edfa44f84d0d8eaaedc1192dc65251aab6e",
+   "byte": 98796
   },
   {
    "path": "assets/luoghi/piazza-della-signoria.webp",
@@ -3754,8 +3772,8 @@
   {
    "path": "dati/curiosita.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/curiosita.json",
-   "sha256": "5a4d0ef8fe15141b157f821aba14cee6458d6c78ec4e857c46b834c489e1ee5b",
-   "byte": 6818
+   "sha256": "4b9d365fc6ca1fe1309269bd4af88314aa14bf492fdd5c185541f33f126276de",
+   "byte": 8915
   },
   {
    "path": "dati/eventi.json",
@@ -3766,8 +3784,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "7434998ee7d000b7eb9d28ffc18b998f0d421efec18b440fe53391f85d36b6b2",
-   "byte": 801
+   "sha256": "7cb4f0b5f337eea3d454e221027cfc8d2638d64f36d9b0a8cb8783d939ef2466",
+   "byte": 836
   },
   {
    "path": "dati/itinerari.json",
@@ -3778,8 +3796,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "a4ec04da28cacae364fca61a95e09589e89ad3b802a2dedc5f82ce2ec1aa9cc3",
-   "byte": 283716
+   "sha256": "a501122ef1f07c14d791c54003fad7d28f8b21547903d9caaac2eb76f21f66f0",
+   "byte": 340902
   },
   {
    "path": "dati/mappa.json",
@@ -3802,8 +3820,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "50085db286e8c319492d5b2e0978ccb0f57d71de1096bee623f54aa118879268",
-   "byte": 872313
+   "sha256": "26531ecd8223d6cd4888068041c1e6c1328cbdd5c5cbf0f505dae2dc09b62ffc",
+   "byte": 874772
   },
   {
    "path": "dati/principali.json",
@@ -3843,22 +3861,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "42092f1a830d",
-   "da": "e2fb3e1c90af",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Gallerie degli Uffizi",
-    "Museo Nazionale del Bargello",
-    "Museo dell'Opera del Duomo",
-    "Palazzo Medici Riccardi",
-    "Museo di San Marco",
-    "Basilica di Santa Trinita",
-    "Isolotto",
-    "Viale dei Colli"
-   ],
-   "byte": 1055761
-  },
   {
    "versione": "12be3ed56cc2",
    "da": "42092f1a830d",
@@ -4061,6 +4063,26 @@
    "foto_nuove": 4,
    "curiosita_nuove": 2,
    "byte": 962589
+  },
+  {
+   "versione": "35b74c9b8afa",
+   "da": "3cf251a8ab31",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Chiesa di San Salvatore al Monte",
+    "Rampe del Poggi",
+    "Porta San Niccolò",
+    "Parco del Bobolino",
+    "Porta Romana"
+   ],
+   "luoghi_aggiornati": 2,
+   "aspetti": [
+    "accessibilita",
+    "foto"
+   ],
+   "foto_nuove": 3,
+   "curiosita_nuove": 1,
+   "byte": 1512459
   }
  ]
 }

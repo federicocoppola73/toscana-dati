@@ -6934,7 +6934,9 @@
    },
    "luoghi": [
     "viale-dei-colli",
-    "piazzale-michelangelo"
+    "piazzale-michelangelo",
+    "rampe-del-poggi",
+    "parco-del-bobolino"
    ],
    "luoghiNote": {
     "viale-dei-colli": {
@@ -6967,6 +6969,38 @@
       "fr": "Il conçut la terrasse panoramique et la Loggia, pensée comme un musée consacré à Michel-Ange.",
       "de": "Er entwarf die Aussichtsterrasse und die Loggia, die als Museum für Michelangelo gedacht war.",
       "es": "Proyectó la terraza panorámica y la logia, pensada como museo dedicado a Miguel Ángel."
+     }
+    },
+    "rampe-del-poggi": {
+     "tipo": {
+      "it": "Progettista",
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Planer",
+      "es": "Proyectista"
+     },
+     "testo": {
+      "it": "Progettò le Rampe tra il 1872 e il 1876: terrazze, grotte, vasche e fontane che salgono verso Piazzale Michelangelo.",
+      "en": "He designed the Ramps between 1872 and 1876: terraces, grottoes, basins and fountains climbing towards Piazzale Michelangelo.",
+      "fr": "Il conçut les Rampes entre 1872 et 1876 : terrasses, grottes, bassins et fontaines qui montent vers la Piazzale Michelangelo.",
+      "de": "Er entwarf die Rampen zwischen 1872 und 1876: Terrassen, Grotten, Becken und Brunnen, die zur Piazzale Michelangelo hinaufführen.",
+      "es": "Proyectó las Rampas entre 1872 y 1876: terrazas, grutas, estanques y fuentes que suben hacia la Piazzale Michelangelo."
+     }
+    },
+    "parco-del-bobolino": {
+     "tipo": {
+      "it": "Progettista",
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Planer",
+      "es": "Proyectista"
+     },
+     "testo": {
+      "it": "Il parco nasce dal suo grande progetto del Viale dei Colli, sviluppato tra il 1865 e il 1877.",
+      "en": "The park comes from his great Viale dei Colli project, developed between 1865 and 1877.",
+      "fr": "Le parc naît de son grand projet du Viale dei Colli, développé entre 1865 et 1877.",
+      "de": "Der Park entstand aus seinem großen Projekt der Viale dei Colli, das zwischen 1865 und 1877 entwickelt wurde.",
+      "es": "El parque nace de su gran proyecto del Viale dei Colli, desarrollado entre 1865 y 1877."
      }
     }
    },
@@ -7286,8 +7320,27 @@
      "En el mundo: la obra se ha traducido a muchísimas lenguas y ha inspirado adaptaciones teatrales, cinematográficas y televisivas."
     ]
    },
-   "luoghi": [],
-   "luoghiNote": {},
+   "luoghi": [
+    "cimitero-delle-porte-sante"
+   ],
+   "luoghiNote": {
+    "cimitero-delle-porte-sante": {
+     "tipo": {
+      "it": "Sepolto qui",
+      "en": "Buried here",
+      "fr": "Enterré ici",
+      "de": "Hier begraben",
+      "es": "Enterrado aquí"
+     },
+     "testo": {
+      "it": "Carlo Lorenzini, vero nome di Collodi, è sepolto nel cimitero delle Porte Sante.",
+      "en": "Carlo Lorenzini, Collodi's real name, is buried in the Porte Sante Cemetery.",
+      "fr": "Carlo Lorenzini, vrai nom de Collodi, est enterré au cimetière des Porte Sante.",
+      "de": "Carlo Lorenzini, Collodis richtiger Name, ist auf dem Friedhof Porte Sante begraben.",
+      "es": "Carlo Lorenzini, nombre real de Collodi, está enterrado en el cementerio de las Porte Sante."
+     }
+    }
+   },
    "collegati": [],
    "ritratto": {
     "autore": "Anonimo, da «L'Illustrazione Italiana», ritratto di Carlo Collodi",
