@@ -1,5 +1,5 @@
 {
- "versione": "09adba185544",
+ "versione": "f265e8a0729f",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -113,6 +113,21 @@
      "secondi": 193,
      "sha256": "2e3c9afcb2ad7a93d4d1fffb55b41249ef618320f6ca7b2a89be0c7db0e7e400",
      "testo": "32e40dbd0e25a593"
+    }
+   ]
+  },
+  "cappella-brancacci": {
+   "byte": 2617676,
+   "secondi": 436,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "cappella-brancacci.mp3",
+     "byte": 2617676,
+     "secondi": 436,
+     "sha256": "cd31b537938dd639f5201ed2b7164325bf4ec41f8002be9fba48743749e0926d",
+     "testo": "20b2791e14cadc5e"
     }
    ]
   },
