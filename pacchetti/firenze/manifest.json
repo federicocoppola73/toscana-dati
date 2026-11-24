@@ -1,5 +1,5 @@
 {
- "versione": "289037ce021b",
+ "versione": "a1f2fbf9e4a7",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -294,6 +294,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-dellopera-del-duomo_5.webp",
    "sha256": "357b76180a867f9d8a7897e1881cb5633aedfcc4b03ca00fe5137a930baa079f",
    "byte": 61310
+  },
+  {
+   "path": "assets/luoghi/museo-di-san-marco.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco.webp",
+   "sha256": "b48cb526ef3c0e38d75b40413d9e605566bae42c1db4b2e0ff4a822c2b3fc202",
+   "byte": 75666
+  },
+  {
+   "path": "assets/luoghi/museo-di-san-marco_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco_2.webp",
+   "sha256": "e7938a35139ace7efd76e857c22423d732d288662957557f3950f510180cd869",
+   "byte": 90498
+  },
+  {
+   "path": "assets/luoghi/museo-di-san-marco_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco_3.webp",
+   "sha256": "6c4884fe216da63aadbaf47694958dd2cef06e344329f90313ef7bb04faab2a5",
+   "byte": 142804
+  },
+  {
+   "path": "assets/luoghi/museo-di-san-marco_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco_4.webp",
+   "sha256": "ab39ae3c27f0c632f69908d81e70abfc425f6a78a1168d4eb33ccd9ba083c77f",
+   "byte": 250846
+  },
+  {
+   "path": "assets/luoghi/museo-di-san-marco_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco_5.webp",
+   "sha256": "1a3f5905d212cbc81f6dd5035b4d630856ed2a361207601d33cfcf8d344f738d",
+   "byte": 100854
   },
   {
    "path": "assets/luoghi/museo-nazionale-del-bargello.webp",
@@ -3592,8 +3622,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "66168075c9f9846bb9e7343b25fd666c0ab5e821c97490d3c1df970a6c02f7e5",
-   "byte": 609
+   "sha256": "72eedc4e088441c4a056d1ad430836158e9ce217d7f4198f7515072de3f0b3ea",
+   "byte": 636
   },
   {
    "path": "dati/itinerari.json",
@@ -3604,8 +3634,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "b880b8c3d3c59a6818c161201ea8746ade13cf7ed594bc6f9171294f76360d99",
-   "byte": 195038
+   "sha256": "a8968ca1424fc498480b525cec86a2fabb8e7429caca1ed73d5392b0ebca10b2",
+   "byte": 195640
   },
   {
    "path": "dati/mappa.json",
@@ -3669,12 +3699,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "84d7c6816ddc",
-   "da": "11f19b94c628",
-   "data": "2026-11-23",
-   "byte": 617689
-  },
   {
    "versione": "02f974fc8dc5",
    "da": "84d7c6816ddc",
@@ -3827,6 +3851,17 @@
    ],
    "foto_nuove": 5,
    "byte": 751959
+  },
+  {
+   "versione": "a1f2fbf9e4a7",
+   "da": "289037ce021b",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 856944
   }
  ]
 }

@@ -1674,7 +1674,32 @@
       "es": "Rampas y ascensores permiten visitar el interior del museo."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Vsatinet",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Vsatinet"
+   },
+   "galleria": [
+    {
+     "autore": "Rufus46",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Rufus46"
+    },
+    {
+     "autore": "Fra Angelico",
+     "licenza": "Pubblico dominio",
+     "fonte": "https://en.wikipedia.org/wiki/Fra_Angelico"
+    },
+    {
+     "autore": "Beato Angelico",
+     "licenza": "Pubblico dominio"
+    },
+    {
+     "autore": "Beato Angelico",
+     "licenza": "Pubblico dominio"
+    }
+   ]
   },
   {
    "id": "basilica-di-santa-trinita",
