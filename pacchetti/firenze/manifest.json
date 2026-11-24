@@ -1,5 +1,5 @@
 {
- "versione": "65941fbf6479",
+ "versione": "c68f86fe557e",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3484,8 +3484,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "ea4180044d0e4beeafde92d309e8370f9b09a1696748fdf17658e56ac271324f",
-   "byte": 784385
+   "sha256": "86b998bc833ca7a906b55b24e6f1951846168992b3cc082a7055ae59c5f979e8",
+   "byte": 812376
   },
   {
    "path": "dati/principali.json",
@@ -3525,12 +3525,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "8668933670e9",
-   "da": "1947d6b27943",
-   "data": "2026-11-23",
-   "byte": 367028
-  },
   {
    "versione": "04b15cec0dfb",
    "da": "8668933670e9",
@@ -3644,6 +3638,12 @@
    "da": "77e6c51b483b",
    "data": "2026-11-24",
    "byte": 969877
+  },
+  {
+   "versione": "c68f86fe557e",
+   "da": "65941fbf6479",
+   "data": "2026-11-24",
+   "byte": 812376
   }
  ]
 }
