@@ -2250,108 +2250,6 @@
    }
   },
   {
-   "id": "cimitero-delle-porte-sante",
-   "nome": "Cimitero delle Porte Sante",
-   "categoria": "altri",
-   "sestiere": "Oltrarno",
-   "latitudine": 43.7661,
-   "longitudine": 11.2653,
-   "descrizione": {
-    "it": "Il Cimitero delle Porte Sante è il cimitero monumentale di Firenze situato sulla collina di San Miniato al Monte, all'interno dell'area fortificata che circonda la basilica.\n\nLa sua origine risale alla metà dell'Ottocento. Nel 1854 l'area cimiteriale era ancora relativamente limitata e occupava uno spazio utilizzato in precedenza per le sepolture dei religiosi.\n\nNegli anni successivi il cimitero venne ampliato e trasformato grazie al lavoro di diversi architetti, tra cui Niccola Matas, Mariano Falcini e Tito Bellini.\n\nIl risultato è un complesso monumentale che unisce architetture funerarie, cappelle, sculture e monumenti commemorativi.\n\nLe sepolture raccontano la storia culturale e sociale di Firenze tra Ottocento e Novecento. Qui riposano personalità della letteratura, dell'arte, della politica e della cultura italiana.\n\nTra i nomi più conosciuti si trovano Carlo Lorenzini, autore di Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini e Franco Zeffirelli.\n\nIl cimitero può essere considerato un museo a cielo aperto, grazie alla presenza di opere realizzate da artisti e architetti di diverse generazioni.",
-    "en": "The Porte Sante Cemetery is the monumental cemetery of Florence, located on the hill of San Miniato al Monte, inside the fortified area that surrounds the basilica.\n\nIts origin dates back to the mid-nineteenth century. In 1854 the burial ground was still relatively small and occupied a space previously used for the burials of the clergy.\n\nIn the following years the cemetery was enlarged and transformed thanks to the work of several architects, including Niccola Matas, Mariano Falcini and Tito Bellini.\n\nThe result is a monumental complex that combines funerary architecture, chapels, sculptures and commemorative monuments.\n\nThe burials tell the cultural and social history of Florence between the nineteenth and twentieth centuries. Figures from Italian literature, art, politics and culture rest here.\n\nAmong the best-known names are Carlo Lorenzini, author of Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini and Franco Zeffirelli.\n\nThe cemetery can be considered an open-air museum, thanks to the works created by artists and architects of different generations.",
-    "fr": "Le cimetière des Porte Sante est le cimetière monumental de Florence, situé sur la colline de San Miniato al Monte, à l'intérieur de la zone fortifiée qui entoure la basilique.\n\nSon origine remonte au milieu du XIXe siècle. En 1854, la zone cimetériale était encore relativement limitée et occupait un espace utilisé auparavant pour les sépultures des religieux.\n\nDans les années suivantes, le cimetière fut agrandi et transformé grâce au travail de plusieurs architectes, dont Niccola Matas, Mariano Falcini et Tito Bellini.\n\nLe résultat est un ensemble monumental qui réunit architectures funéraires, chapelles, sculptures et monuments commémoratifs.\n\nLes sépultures racontent l'histoire culturelle et sociale de Florence entre le XIXe et le XXe siècle. Des personnalités de la littérature, de l'art, de la politique et de la culture italiennes y reposent.\n\nParmi les noms les plus connus figurent Carlo Lorenzini, auteur de Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini et Franco Zeffirelli.\n\nLe cimetière peut être considéré comme un musée à ciel ouvert, grâce aux œuvres réalisées par des artistes et des architectes de générations différentes.",
-    "de": "Der Friedhof Porte Sante ist der Monumentalfriedhof von Florenz auf dem Hügel von San Miniato al Monte, innerhalb des befestigten Bereichs, der die Basilika umgibt.\n\nSein Ursprung reicht in die Mitte des 19. Jahrhunderts zurück. 1854 war das Friedhofsgelände noch relativ klein und nahm einen Raum ein, der zuvor für die Bestattung von Ordensleuten genutzt worden war.\n\nIn den folgenden Jahren wurde der Friedhof dank der Arbeit mehrerer Architekten erweitert und umgestaltet, darunter Niccola Matas, Mariano Falcini und Tito Bellini.\n\nDas Ergebnis ist eine monumentale Anlage, die Grabarchitekturen, Kapellen, Skulpturen und Gedenkmonumente vereint.\n\nDie Gräber erzählen die Kultur- und Sozialgeschichte von Florenz zwischen dem 19. und 20. Jahrhundert. Hier ruhen Persönlichkeiten aus Literatur, Kunst, Politik und Kultur Italiens.\n\nZu den bekanntesten Namen gehören Carlo Lorenzini, der Autor von Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini und Franco Zeffirelli.\n\nDer Friedhof kann dank der Werke von Künstlern und Architekten verschiedener Generationen als Freilichtmuseum gelten.",
-    "es": "El cementerio de las Porte Sante es el cementerio monumental de Florencia, situado en la colina de San Miniato al Monte, dentro del área fortificada que rodea la basílica.\n\nSu origen se remonta a mediados del siglo XIX. En 1854 el área cementerial era todavía relativamente limitada y ocupaba un espacio utilizado antes para las sepulturas de los religiosos.\n\nEn los años siguientes el cementerio se amplió y se transformó gracias al trabajo de varios arquitectos, entre ellos Niccola Matas, Mariano Falcini y Tito Bellini.\n\nEl resultado es un conjunto monumental que reúne arquitecturas funerarias, capillas, esculturas y monumentos conmemorativos.\n\nLas sepulturas cuentan la historia cultural y social de Florencia entre los siglos XIX y XX. Aquí reposan personalidades de la literatura, el arte, la política y la cultura italianas.\n\nEntre los nombres más conocidos se encuentran Carlo Lorenzini, autor de Pinocho, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini y Franco Zeffirelli.\n\nEl cementerio puede considerarse un museo al aire libre, gracias a las obras realizadas por artistas y arquitectos de distintas generaciones."
-   },
-   "lo_sapevi_che": [
-    {
-     "titolo": {
-      "it": "La tomba di Collodi",
-      "en": "Collodi's tomb",
-      "fr": "La tombe de Collodi",
-      "de": "Collodis Grab",
-      "es": "La tumba de Collodi"
-     },
-     "testo": {
-      "en": "Carlo Lorenzini, known all over the world as Carlo Collodi, author of Pinocchio, is buried here.",
-      "fr": "Carlo Lorenzini, connu dans le monde entier sous le nom de Carlo Collodi, auteur de Pinocchio, est enterré ici.",
-      "de": "Hier ist Carlo Lorenzini begraben, weltweit bekannt als Carlo Collodi, der Autor von Pinocchio.",
-      "es": "Aquí está enterrado Carlo Lorenzini, conocido en todo el mundo como Carlo Collodi, autor de Pinocho.",
-      "it": "Qui è sepolto Carlo Lorenzini, conosciuto in tutto il mondo come Carlo Collodi, autore di Pinocchio."
-     }
-    },
-    {
-     "titolo": {
-      "it": "Un bene di interesse storico-artistico",
-      "en": "A site of historical and artistic interest",
-      "fr": "Un site d'intérêt historique et artistique",
-      "de": "Ein Ort von historischem und künstlerischem Interesse",
-      "es": "Un bien de interés histórico-artístico"
-     },
-     "testo": {
-      "en": "The cemetery was declared of historical and artistic interest by ministerial decree on 27 July 1995.",
-      "fr": "Le cimetière a été déclaré d'intérêt historique et artistique par décret ministériel le 27 juillet 1995.",
-      "de": "Der Friedhof wurde mit Ministerialdekret vom 27. Juli 1995 zum Ort von historisch-künstlerischem Interesse erklärt.",
-      "es": "El cementerio fue declarado de interés histórico-artístico por decreto ministerial el 27 de julio de 1995.",
-      "it": "Il cimitero è stato dichiarato di interesse storico-artistico con decreto ministeriale del 27 luglio 1995."
-     }
-    }
-   ],
-   "orari": [
-    {
-     "giorni": "lun-sab",
-     "ore": "8:00–17:00",
-     "periodo": "10-01/03-31"
-    },
-    {
-     "giorni": "dom",
-     "ore": "8:00–13:00",
-     "periodo": "10-01/03-31"
-    },
-    {
-     "giorni": "lun-sab",
-     "ore": "8:00–18:00",
-     "periodo": "04-01/06-30"
-    },
-    {
-     "giorni": "dom",
-     "ore": "8:00–13:00",
-     "periodo": "04-01/06-30"
-    },
-    {
-     "giorni": "tutti",
-     "ore": "8:00–13:00",
-     "periodo": "07-01/08-31"
-    },
-    {
-     "giorni": "lun-sab",
-     "ore": "8:00–18:00",
-     "periodo": "09-01/09-30"
-    },
-    {
-     "giorni": "dom",
-     "ore": "8:00–13:00",
-     "periodo": "09-01/09-30"
-    }
-   ],
-   "biglietto": {
-    "gratuito": true
-   },
-   "nota": {
-    "it": "È un luogo di memoria e di sepoltura: si visita con rispetto e silenzio. Orari secondo il calendario comunale 2026: 1 ottobre–31 marzo lunedì–sabato 8:00–17:00, domenica e festivi 8:00–13:00; 1 aprile–30 giugno lunedì–sabato 8:00–18:00, domenica e festivi 8:00–13:00; 1 luglio–31 agosto tutti i giorni 8:00–13:00; settembre lunedì–sabato 8:00–18:00, domenica e festivi 8:00–13:00. Gli orari possono variare per festività e disposizioni comunali. Ingresso gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
-    "en": "It is a place of memory and burial: visit it with respect and in silence. Hours according to the 2026 municipal calendar: 1 October–31 March Monday–Saturday 8:00–17:00, Sundays and holidays 8:00–13:00; 1 April–30 June Monday–Saturday 8:00–18:00, Sundays and holidays 8:00–13:00; 1 July–31 August every day 8:00–13:00; September Monday–Saturday 8:00–18:00, Sundays and holidays 8:00–13:00. Hours may change for holidays and municipal provisions. Entry is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
-    "fr": "C'est un lieu de mémoire et de sépulture : il se visite avec respect et en silence. Horaires selon le calendrier municipal 2026 : du 1er octobre au 31 mars, du lundi au samedi 8h00–17h00, dimanche et jours fériés 8h00–13h00 ; du 1er avril au 30 juin, du lundi au samedi 8h00–18h00, dimanche et jours fériés 8h00–13h00 ; du 1er juillet au 31 août, tous les jours 8h00–13h00 ; en septembre, du lundi au samedi 8h00–18h00, dimanche et jours fériés 8h00–13h00. Les horaires peuvent varier selon les jours fériés et les dispositions municipales. Entrée gratuite. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
-    "de": "Es ist ein Ort des Gedenkens und der Bestattung: Besuchen Sie ihn mit Respekt und in Stille. Öffnungszeiten nach dem städtischen Kalender 2026: 1. Oktober–31. März Montag–Samstag 8:00–17:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr; 1. April–30. Juni Montag–Samstag 8:00–18:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr; 1. Juli–31. August täglich 8:00–13:00 Uhr; September Montag–Samstag 8:00–18:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr. Die Zeiten können sich an Feiertagen und aufgrund städtischer Vorgaben ändern. Der Eintritt ist frei. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
-    "es": "Es un lugar de memoria y de sepultura: se visita con respeto y en silencio. Horario según el calendario municipal de 2026: del 1 de octubre al 31 de marzo, de lunes a sábado 8:00–17:00, domingos y festivos 8:00–13:00; del 1 de abril al 30 de junio, de lunes a sábado 8:00–18:00, domingos y festivos 8:00–13:00; del 1 de julio al 31 de agosto, todos los días 8:00–13:00; en septiembre, de lunes a sábado 8:00–18:00, domingos y festivos 8:00–13:00. Los horarios pueden variar por festividades y disposiciones municipales. Entrada gratuita. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
-   },
-   "nomi": {
-    "en": "Cimitero delle Porte Sante (Porte Sante Cemetery)",
-    "fr": "Cimitero delle Porte Sante (cimetière des Porte Sante)",
-    "de": "Cimitero delle Porte Sante (Friedhof Porte Sante)",
-    "es": "Cimitero delle Porte Sante (cementerio de las Porte Sante)"
-   }
-  },
-  {
    "id": "chiesa-di-san-salvatore-al-monte",
    "nome": "Chiesa di San Salvatore al Monte",
    "categoria": "chiese",
@@ -3013,6 +2911,134 @@
      "fonte": "https://commons.wikimedia.org/wiki/User:Tulumnes"
     }
    ]
+  },
+  {
+   "id": "cimitero-delle-porte-sante",
+   "nome": "Cimitero delle Porte Sante",
+   "categoria": "altri",
+   "sestiere": "Oltrarno",
+   "latitudine": 43.7661,
+   "longitudine": 11.2653,
+   "descrizione": {
+    "it": "Il Cimitero delle Porte Sante è il cimitero monumentale di Firenze situato sulla collina di San Miniato al Monte, all'interno dell'area fortificata che circonda la basilica.\n\nLa sua origine risale alla metà dell'Ottocento. Nel 1854 l'area cimiteriale era ancora relativamente limitata e occupava uno spazio utilizzato in precedenza per le sepolture dei religiosi.\n\nNegli anni successivi il cimitero venne ampliato e trasformato grazie al lavoro di diversi architetti, tra cui Niccola Matas, Mariano Falcini e Tito Bellini.\n\nIl risultato è un complesso monumentale che unisce architetture funerarie, cappelle, sculture e monumenti commemorativi.\n\nLe sepolture raccontano la storia culturale e sociale di Firenze tra Ottocento e Novecento. Qui riposano personalità della letteratura, dell'arte, della politica e della cultura italiana.\n\nTra i nomi più conosciuti si trovano Carlo Lorenzini, autore di Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini e Franco Zeffirelli.\n\nIl cimitero può essere considerato un museo a cielo aperto, grazie alla presenza di opere realizzate da artisti e architetti di diverse generazioni.",
+    "en": "The Porte Sante Cemetery is the monumental cemetery of Florence, located on the hill of San Miniato al Monte, inside the fortified area that surrounds the basilica.\n\nIts origin dates back to the mid-nineteenth century. In 1854 the burial ground was still relatively small and occupied a space previously used for the burials of the clergy.\n\nIn the following years the cemetery was enlarged and transformed thanks to the work of several architects, including Niccola Matas, Mariano Falcini and Tito Bellini.\n\nThe result is a monumental complex that combines funerary architecture, chapels, sculptures and commemorative monuments.\n\nThe burials tell the cultural and social history of Florence between the nineteenth and twentieth centuries. Figures from Italian literature, art, politics and culture rest here.\n\nAmong the best-known names are Carlo Lorenzini, author of Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini and Franco Zeffirelli.\n\nThe cemetery can be considered an open-air museum, thanks to the works created by artists and architects of different generations.",
+    "fr": "Le cimetière des Porte Sante est le cimetière monumental de Florence, situé sur la colline de San Miniato al Monte, à l'intérieur de la zone fortifiée qui entoure la basilique.\n\nSon origine remonte au milieu du XIXe siècle. En 1854, la zone cimetériale était encore relativement limitée et occupait un espace utilisé auparavant pour les sépultures des religieux.\n\nDans les années suivantes, le cimetière fut agrandi et transformé grâce au travail de plusieurs architectes, dont Niccola Matas, Mariano Falcini et Tito Bellini.\n\nLe résultat est un ensemble monumental qui réunit architectures funéraires, chapelles, sculptures et monuments commémoratifs.\n\nLes sépultures racontent l'histoire culturelle et sociale de Florence entre le XIXe et le XXe siècle. Des personnalités de la littérature, de l'art, de la politique et de la culture italiennes y reposent.\n\nParmi les noms les plus connus figurent Carlo Lorenzini, auteur de Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini et Franco Zeffirelli.\n\nLe cimetière peut être considéré comme un musée à ciel ouvert, grâce aux œuvres réalisées par des artistes et des architectes de générations différentes.",
+    "de": "Der Friedhof Porte Sante ist der Monumentalfriedhof von Florenz auf dem Hügel von San Miniato al Monte, innerhalb des befestigten Bereichs, der die Basilika umgibt.\n\nSein Ursprung reicht in die Mitte des 19. Jahrhunderts zurück. 1854 war das Friedhofsgelände noch relativ klein und nahm einen Raum ein, der zuvor für die Bestattung von Ordensleuten genutzt worden war.\n\nIn den folgenden Jahren wurde der Friedhof dank der Arbeit mehrerer Architekten erweitert und umgestaltet, darunter Niccola Matas, Mariano Falcini und Tito Bellini.\n\nDas Ergebnis ist eine monumentale Anlage, die Grabarchitekturen, Kapellen, Skulpturen und Gedenkmonumente vereint.\n\nDie Gräber erzählen die Kultur- und Sozialgeschichte von Florenz zwischen dem 19. und 20. Jahrhundert. Hier ruhen Persönlichkeiten aus Literatur, Kunst, Politik und Kultur Italiens.\n\nZu den bekanntesten Namen gehören Carlo Lorenzini, der Autor von Pinocchio, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini und Franco Zeffirelli.\n\nDer Friedhof kann dank der Werke von Künstlern und Architekten verschiedener Generationen als Freilichtmuseum gelten.",
+    "es": "El cementerio de las Porte Sante es el cementerio monumental de Florencia, situado en la colina de San Miniato al Monte, dentro del área fortificada que rodea la basílica.\n\nSu origen se remonta a mediados del siglo XIX. En 1854 el área cementerial era todavía relativamente limitada y ocupaba un espacio utilizado antes para las sepulturas de los religiosos.\n\nEn los años siguientes el cementerio se amplió y se transformó gracias al trabajo de varios arquitectos, entre ellos Niccola Matas, Mariano Falcini y Tito Bellini.\n\nEl resultado es un conjunto monumental que reúne arquitecturas funerarias, capillas, esculturas y monumentos conmemorativos.\n\nLas sepulturas cuentan la historia cultural y social de Florencia entre los siglos XIX y XX. Aquí reposan personalidades de la literatura, el arte, la política y la cultura italianas.\n\nEntre los nombres más conocidos se encuentran Carlo Lorenzini, autor de Pinocho, Giovanni Papini, Vasco Pratolini, Ottone Rosai, Pellegrino Artusi, Giovanni Spadolini y Franco Zeffirelli.\n\nEl cementerio puede considerarse un museo al aire libre, gracias a las obras realizadas por artistas y arquitectos de distintas generaciones."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "La tomba di Collodi",
+      "en": "Collodi's tomb",
+      "fr": "La tombe de Collodi",
+      "de": "Collodis Grab",
+      "es": "La tumba de Collodi"
+     },
+     "testo": {
+      "en": "Carlo Lorenzini, known all over the world as Carlo Collodi, author of Pinocchio, is buried here.",
+      "fr": "Carlo Lorenzini, connu dans le monde entier sous le nom de Carlo Collodi, auteur de Pinocchio, est enterré ici.",
+      "de": "Hier ist Carlo Lorenzini begraben, weltweit bekannt als Carlo Collodi, der Autor von Pinocchio.",
+      "es": "Aquí está enterrado Carlo Lorenzini, conocido en todo el mundo como Carlo Collodi, autor de Pinocho.",
+      "it": "Qui è sepolto Carlo Lorenzini, conosciuto in tutto il mondo come Carlo Collodi, autore di Pinocchio."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un bene di interesse storico-artistico",
+      "en": "A site of historical and artistic interest",
+      "fr": "Un site d'intérêt historique et artistique",
+      "de": "Ein Ort von historischem und künstlerischem Interesse",
+      "es": "Un bien de interés histórico-artístico"
+     },
+     "testo": {
+      "en": "The cemetery was declared of historical and artistic interest by ministerial decree on 27 July 1995.",
+      "fr": "Le cimetière a été déclaré d'intérêt historique et artistique par décret ministériel le 27 juillet 1995.",
+      "de": "Der Friedhof wurde mit Ministerialdekret vom 27. Juli 1995 zum Ort von historisch-künstlerischem Interesse erklärt.",
+      "es": "El cementerio fue declarado de interés histórico-artístico por decreto ministerial el 27 de julio de 1995.",
+      "it": "Il cimitero è stato dichiarato di interesse storico-artistico con decreto ministeriale del 27 luglio 1995."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "8:00–17:00",
+     "periodo": "10-01/03-31"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:00–13:00",
+     "periodo": "10-01/03-31"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "8:00–18:00",
+     "periodo": "04-01/06-30"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:00–13:00",
+     "periodo": "04-01/06-30"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "8:00–13:00",
+     "periodo": "07-01/08-31"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "8:00–18:00",
+     "periodo": "09-01/09-30"
+    },
+    {
+     "giorni": "dom",
+     "ore": "8:00–13:00",
+     "periodo": "09-01/09-30"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "È un luogo di memoria e di sepoltura: si visita con rispetto e silenzio. Orari secondo il calendario comunale 2026: 1 ottobre–31 marzo lunedì–sabato 8:00–17:00, domenica e festivi 8:00–13:00; 1 aprile–30 giugno lunedì–sabato 8:00–18:00, domenica e festivi 8:00–13:00; 1 luglio–31 agosto tutti i giorni 8:00–13:00; settembre lunedì–sabato 8:00–18:00, domenica e festivi 8:00–13:00. Gli orari possono variare per festività e disposizioni comunali. Ingresso gratuito. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "It is a place of memory and burial: visit it with respect and in silence. Hours according to the 2026 municipal calendar: 1 October–31 March Monday–Saturday 8:00–17:00, Sundays and holidays 8:00–13:00; 1 April–30 June Monday–Saturday 8:00–18:00, Sundays and holidays 8:00–13:00; 1 July–31 August every day 8:00–13:00; September Monday–Saturday 8:00–18:00, Sundays and holidays 8:00–13:00. Hours may change for holidays and municipal provisions. Entry is free. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "C'est un lieu de mémoire et de sépulture : il se visite avec respect et en silence. Horaires selon le calendrier municipal 2026 : du 1er octobre au 31 mars, du lundi au samedi 8h00–17h00, dimanche et jours fériés 8h00–13h00 ; du 1er avril au 30 juin, du lundi au samedi 8h00–18h00, dimanche et jours fériés 8h00–13h00 ; du 1er juillet au 31 août, tous les jours 8h00–13h00 ; en septembre, du lundi au samedi 8h00–18h00, dimanche et jours fériés 8h00–13h00. Les horaires peuvent varier selon les jours fériés et les dispositions municipales. Entrée gratuite. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Es ist ein Ort des Gedenkens und der Bestattung: Besuchen Sie ihn mit Respekt und in Stille. Öffnungszeiten nach dem städtischen Kalender 2026: 1. Oktober–31. März Montag–Samstag 8:00–17:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr; 1. April–30. Juni Montag–Samstag 8:00–18:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr; 1. Juli–31. August täglich 8:00–13:00 Uhr; September Montag–Samstag 8:00–18:00 Uhr, Sonn- und Feiertage 8:00–13:00 Uhr. Die Zeiten können sich an Feiertagen und aufgrund städtischer Vorgaben ändern. Der Eintritt ist frei. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Es un lugar de memoria y de sepultura: se visita con respeto y en silencio. Horario según el calendario municipal de 2026: del 1 de octubre al 31 de marzo, de lunes a sábado 8:00–17:00, domingos y festivos 8:00–13:00; del 1 de abril al 30 de junio, de lunes a sábado 8:00–18:00, domingos y festivos 8:00–13:00; del 1 de julio al 31 de agosto, todos los días 8:00–13:00; en septiembre, de lunes a sábado 8:00–18:00, domingos y festivos 8:00–13:00. Los horarios pueden variar por festividades y disposiciones municipales. Entrada gratuita. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+   },
+   "immagine": {
+    "autore": "Jean-Christophe Benoist",
+    "licenza": "GFDL 1.2",
+    "fonte": "https://fr.wikipedia.org/wiki/User:Jean-Christophe_BENOIST"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Repuli",
+     "licenza": "CC BY 3.0"
+    },
+    {
+     "autore": "Yair Haklai",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Yair-haklai"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ],
+   "nomi": {
+    "en": "Cimitero delle Porte Sante (Porte Sante Cemetery)",
+    "fr": "Cimitero delle Porte Sante (cimetière des Porte Sante)",
+    "de": "Cimitero delle Porte Sante (Friedhof Porte Sante)",
+    "es": "Cimitero delle Porte Sante (cementerio de las Porte Sante)"
+   }
   }
  ]
 }
