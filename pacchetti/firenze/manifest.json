@@ -1,5 +1,5 @@
 {
- "versione": "420ef18c49ea",
+ "versione": "4b4c79dc95ff",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -582,6 +582,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ponte-vecchio_4.webp",
    "sha256": "d8e2d8e531aebd18fd88ce88f29fdc6e5aa42817bcb8d102bdc5fc648369ea44",
    "byte": 85552
+  },
+  {
+   "path": "assets/luoghi/santa-maria-alla-querce.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/santa-maria-alla-querce.webp",
+   "sha256": "19a875854821f0ad0453a9fa41406eecb9e973bc315f7c4e4666f4027506a28c",
+   "byte": 34552
+  },
+  {
+   "path": "assets/luoghi/santa-maria-alla-querce_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/santa-maria-alla-querce_2.webp",
+   "sha256": "4b0752a18a75ac281a55a77be30bf545b7afa86b41b8fb730c0871eaaa1fc445",
+   "byte": 148008
+  },
+  {
+   "path": "assets/luoghi/santa-maria-alla-querce_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/santa-maria-alla-querce_3.webp",
+   "sha256": "29808268aac587ce86fb55d9fe425b96cccf37c81505bae37b74798415cb84e5",
+   "byte": 55624
   },
   {
    "path": "assets/luoghi/viale-dei-colli.webp",
@@ -3712,8 +3730,8 @@
   {
    "path": "dati/curiosita.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/curiosita.json",
-   "sha256": "4d10f90b1e4c69edd96eb920cd7f24e157a435ce26ab0c19ff43c213decdc8c4",
-   "byte": 20000
+   "sha256": "921752ab950551004f0f2185685a8c426048b592ebd647141074c3b4b1575fc6",
+   "byte": 2803
   },
   {
    "path": "dati/eventi.json",
@@ -3724,8 +3742,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "e076a1ef904983789fef05370c569ec264876fc3ee12c580f8a62a0b92970192",
-   "byte": 741
+   "sha256": "6d9d6afc1d260149a6136223b3428643de5e9fe704eae968fb6d84c9cca38c28",
+   "byte": 773
   },
   {
    "path": "dati/itinerari.json",
@@ -3736,8 +3754,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "4b3ed72a5e46e675f40f60e2b7ec34cbf753b8cda87441572667022600fd6b86",
-   "byte": 202308
+   "sha256": "3b8e936a421d47aa100a10677ae85a1de4af034ea7c04eefc827d30e36788abf",
+   "byte": 223111
   },
   {
    "path": "dati/mappa.json",
@@ -3801,12 +3819,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "77e6c51b483b",
-   "da": "80d62d1aef9e",
-   "data": "2026-11-24",
-   "byte": 1154518
-  },
   {
    "versione": "65941fbf6479",
    "da": "77e6c51b483b",
@@ -3998,6 +4010,16 @@
    "data": "2026-11-24",
    "curiosita_nuove": 1,
    "byte": 20000
+  },
+  {
+   "versione": "4b4c79dc95ff",
+   "da": "420ef18c49ea",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Oratorio di Santa Maria alla Querce"
+   ],
+   "foto_nuove": 3,
+   "byte": 464871
   }
  ]
 }
