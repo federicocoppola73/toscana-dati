@@ -1841,7 +1841,30 @@
    },
    "wikipedia": {
     "it": "Isolotto (Firenze)"
-   }
+   },
+   "immagine": {
+    "autore": "Cyberuly",
+    "licenza": "CC BY 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/8052196"
+   },
+   "galleria": [
+    {
+     "autore": "Cyberuly",
+     "licenza": "CC BY 3.0"
+    },
+    {
+     "autore": "Cyberuly",
+     "licenza": "CC BY 3.0"
+    },
+    {
+     "autore": "Cyberuly",
+     "licenza": "CC BY 3.0"
+    },
+    {
+     "autore": "Cyberuly",
+     "licenza": "CC BY 3.0"
+    }
+   ]
   },
   {
    "id": "viale-dei-colli",

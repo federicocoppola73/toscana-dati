@@ -1,5 +1,5 @@
 {
- "versione": "94f33a55a645",
+ "versione": "3b45d6ce70e0",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -294,6 +294,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_6.webp",
    "sha256": "ff6f348a20cc000ab9ed9b3db047468da5ee88abfd31aa823080b10e524980a2",
    "byte": 155458
+  },
+  {
+   "path": "assets/luoghi/isolotto.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/isolotto.webp",
+   "sha256": "b90878f1bedba953b617bb14303341972676fdc5473cf5b3a13e0f012ab7e8ff",
+   "byte": 91830
+  },
+  {
+   "path": "assets/luoghi/isolotto_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/isolotto_2.webp",
+   "sha256": "29e9e1fd1e44a9a878c80efcfe734ab25ce174edb656e147de4a129f55eb8b8b",
+   "byte": 184654
+  },
+  {
+   "path": "assets/luoghi/isolotto_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/isolotto_3.webp",
+   "sha256": "99f1d14d33e417cdf2b104997f20f4697b2d7137f52b8bbcaa4586e083686e36",
+   "byte": 107678
+  },
+  {
+   "path": "assets/luoghi/isolotto_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/isolotto_4.webp",
+   "sha256": "ca6fda70a9a14fd6e40d7163d285aad0368a3b527a5516d0470f200b9e860125",
+   "byte": 106048
+  },
+  {
+   "path": "assets/luoghi/isolotto_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/isolotto_5.webp",
+   "sha256": "b52da16141cf626f609876794d50cb9f952435ea9110ad3706b82877e69cc184",
+   "byte": 62260
   },
   {
    "path": "assets/luoghi/museo-dellopera-del-duomo.webp",
@@ -3652,8 +3682,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "c9650b3fb56dce49d264c9b07fd09c4be35d6890cfa773c6f5df4aefea5500a3",
-   "byte": 670
+   "sha256": "10cb430e53ea7e5d18fa3a695849627c1ca5c700212cb45307abad5b400eb6f3",
+   "byte": 687
   },
   {
    "path": "dati/itinerari.json",
@@ -3664,8 +3694,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "7d2415bddb78a98096bb073d54b286968245ea0265fa4f4c4e5674e50f66eeac",
-   "byte": 196361
+   "sha256": "81049b14ccca31c10a851e13444858864adf3cbcb3dcda4488b9d90b5b25180f",
+   "byte": 196812
   },
   {
    "path": "dati/mappa.json",
@@ -3729,12 +3759,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "b8d3bebf57b8",
-   "da": "ba04c6d17e64",
-   "data": "2026-11-23",
-   "byte": 656767
-  },
   {
    "versione": "b7724c8d6df2",
    "da": "b8d3bebf57b8",
@@ -3906,6 +3930,17 @@
    ],
    "foto_nuove": 2,
    "byte": 390589
+  },
+  {
+   "versione": "3b45d6ce70e0",
+   "da": "94f33a55a645",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 749969
   }
  ]
 }
