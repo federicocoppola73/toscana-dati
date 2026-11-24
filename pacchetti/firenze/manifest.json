@@ -1,5 +1,5 @@
 {
- "versione": "42092f1a830d",
+ "versione": "12be3ed56cc2",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3478,8 +3478,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "ebf0cfb4a7e237588c10bcaadda004f3c0a2b2941c391b757a5e17fcac9ce20d",
-   "byte": 184209
+   "sha256": "8c7e2126d7db31849b6ba0c95abfcecf144c68389bff4e707cbd52b39215d035",
+   "byte": 192123
   },
   {
    "path": "dati/mappa.json",
@@ -3543,12 +3543,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "f6afe18b4a95",
-   "da": "c4b11b73cd0f",
-   "data": "2026-11-23",
-   "byte": 379090
-  },
   {
    "versione": "1ecdd6c34526",
    "da": "f6afe18b4a95",
@@ -3672,6 +3666,16 @@
     "Viale dei Colli"
    ],
    "byte": 1055761
+  },
+  {
+   "versione": "12be3ed56cc2",
+   "da": "42092f1a830d",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 5,
+   "aspetti": [
+    "accessibilita"
+   ],
+   "byte": 192123
   }
  ]
 }

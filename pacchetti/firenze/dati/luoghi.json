@@ -1151,6 +1151,33 @@
     "fr": "Galerie des Offices",
     "de": "Uffizien",
     "es": "Galería de los Uffizi"
+   },
+   "accessibilita": {
+    "fonte": "https://www.visittuscany.com/it/idee/accessibilita-nei-musei-di-firenze/",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Ingresso accessibile. Sedie a rotelle e deambulatori si noleggiano gratuitamente, senza prenotazione né cauzione, all'ingresso accessibile. Servizi igienici attrezzati al primo e al secondo piano. Cani guida ammessi senza restrizioni.",
+      "en": "Accessible entrance. Wheelchairs and walkers can be borrowed free of charge, with no booking or deposit, at the accessible entrance. Accessible toilets on the first and second floors. Guide dogs are admitted without restrictions.",
+      "fr": "Entrée accessible. Fauteuils roulants et déambulateurs sont prêtés gratuitement, sans réservation ni caution, à l'entrée accessible. Toilettes adaptées au premier et au deuxième étage. Chiens guides admis sans restriction.",
+      "de": "Barrierefreier Eingang. Rollstühle und Gehhilfen werden am barrierefreien Eingang kostenlos, ohne Reservierung und ohne Kaution verliehen. Behindertengerechte Toiletten im ersten und zweiten Stock. Blindenhunde sind uneingeschränkt zugelassen.",
+      "es": "Entrada accesible. Las sillas de ruedas y los andadores se prestan gratuitamente, sin reserva ni fianza, en la entrada accesible. Aseos adaptados en la primera y la segunda planta. Se admiten perros guía sin restricciones."
+     },
+     "ascensore": {
+      "it": "Ascensori collegano i piani del museo.",
+      "en": "Lifts connect the museum's floors.",
+      "fr": "Des ascenseurs relient les étages du musée.",
+      "de": "Aufzüge verbinden die Stockwerke des Museums.",
+      "es": "Ascensores conectan las plantas del museo."
+     },
+     "tattile": {
+      "it": "Servizio di visite tattili e percorso «Uffizi da toccare» (guanti obbligatori, da richiedere al personale).",
+      "en": "Tactile tours and the “Uffizi da toccare” route are offered (gloves are compulsory and must be requested from staff).",
+      "fr": "Visites tactiles et parcours « Uffizi da toccare » (gants obligatoires, à demander au personnel).",
+      "de": "Es gibt taktile Führungen und den Parcours „Uffizi da toccare“ (Handschuhe sind Pflicht und beim Personal zu erfragen).",
+      "es": "Servicio de visitas táctiles y recorrido «Uffizi da toccare» (guantes obligatorios, que se piden al personal)."
+     }
+    }
    }
   },
   {
@@ -1230,6 +1257,19 @@
     "fr": "Musée national du Bargello",
     "de": "Nationalmuseum Bargello",
     "es": "Museo Nacional del Bargello"
+   },
+   "accessibilita": {
+    "fonte": "https://www.visittuscany.com/it/idee/accessibilita-nei-musei-di-firenze/",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Accesso per persone con disabilità motoria dal marciapiede raccordato al piano stradale.",
+      "en": "Access for people with motor disabilities from the pavement, which is levelled with the street.",
+      "fr": "Accès pour les personnes à mobilité réduite par le trottoir raccordé au niveau de la rue.",
+      "de": "Zugang für Menschen mit Bewegungseinschränkung über den mit der Straße verbundenen Gehweg.",
+      "es": "Acceso para personas con discapacidad motriz desde la acera, enrasada con la calzada."
+     }
+    }
    }
   },
   {
@@ -1306,6 +1346,33 @@
     "fr": "Musée de l'Œuvre du Dôme",
     "de": "Dommuseum",
     "es": "Museo de la Obra del Duomo"
+   },
+   "accessibilita": {
+    "fonte": "https://visittuscany.com/en/ideas/accessible-museums-in-florence",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Museo accessibile anche a chi ha difficoltà motorie, ma la prenotazione è sempre necessaria. Sedie a rotelle disponibili all'ingresso della Cattedrale e del Museo.",
+      "en": "The museum is accessible to people with mobility difficulties, but booking is always required. Wheelchairs are available at the entrance of the Cathedral and the Museum.",
+      "fr": "Le musée est accessible aux personnes à mobilité réduite, mais la réservation est toujours obligatoire. Des fauteuils roulants sont disponibles à l'entrée de la cathédrale et du musée.",
+      "de": "Das Museum ist auch für Menschen mit Bewegungseinschränkung zugänglich, eine Reservierung ist jedoch immer erforderlich. Am Eingang von Kathedrale und Museum stehen Rollstühle bereit.",
+      "es": "El museo es accesible para personas con dificultades de movilidad, pero siempre es necesario reservar. Hay sillas de ruedas disponibles en la entrada de la catedral y del museo."
+     },
+     "ascensore": {
+      "it": "Ascensori raggiungono i tre piani espositivi e la terrazza.",
+      "en": "Lifts reach the three exhibition floors and the terrace.",
+      "fr": "Des ascenseurs desservent les trois niveaux d'exposition et la terrasse.",
+      "de": "Aufzüge erreichen die drei Ausstellungsebenen und die Terrasse.",
+      "es": "Los ascensores llegan a las tres plantas de exposición y a la terraza."
+     },
+     "tattile": {
+      "it": "Percorso TouchAble per persone con disabilità visiva.",
+      "en": "TouchAble route for visually impaired visitors.",
+      "fr": "Parcours TouchAble pour les personnes déficientes visuelles.",
+      "de": "TouchAble-Parcours für sehbehinderte Besucher.",
+      "es": "Recorrido TouchAble para personas con discapacidad visual."
+     }
+    }
    }
   },
   {
@@ -1385,6 +1452,19 @@
     "fr": "Palais Médicis-Riccardi",
     "de": "Palazzo Medici Riccardi",
     "es": "Palacio Médici Riccardi"
+   },
+   "accessibilita": {
+    "fonte": "https://www.visittuscany.com/it/idee/accessibilita-nei-musei-di-firenze/",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Completamente accessibile alle persone con disabilità motoria, tranne la Cappella dei Magi, accessibile solo in parte. L'ingresso accessibile è da via de' Ginori 2.",
+      "en": "Fully accessible to people with motor disabilities, except the Chapel of the Magi, which is only partly accessible. The accessible entrance is at Via de' Ginori 2.",
+      "fr": "Entièrement accessible aux personnes à mobilité réduite, sauf la Chapelle des Mages, accessible en partie seulement. L'entrée accessible se trouve au 2 via de' Ginori.",
+      "de": "Für Menschen mit Bewegungseinschränkung vollständig zugänglich, außer der Kapelle der Könige, die nur teilweise zugänglich ist. Der barrierefreie Eingang liegt in der Via de' Ginori 2.",
+      "es": "Totalmente accesible para personas con discapacidad motriz, salvo la Capilla de los Magos, que solo lo es en parte. La entrada accesible está en Via de' Ginori 2."
+     }
+    }
    }
   },
   {
@@ -1464,6 +1544,26 @@
     "fr": "Musée de San Marco",
     "de": "Museum San Marco",
     "es": "Museo de San Marcos"
+   },
+   "accessibilita": {
+    "fonte": "https://www.visittuscany.com/en/ideas/accessible-florence/",
+    "verificato": "2026-11-24",
+    "voci": {
+     "motoria": {
+      "it": "Il marciapiede verso il museo è stretto e c'è un gradino: si chiede al personale la pedana mobile. L'interno del museo è interamente fruibile. La chiesa di San Marco non è accessibile.",
+      "en": "The pavement leading to the museum is narrow and there is a step: ask the staff for the mobile platform. The interior of the museum is entirely usable. The church of San Marco is not accessible.",
+      "fr": "Le trottoir menant au musée est étroit et il y a une marche : on demande au personnel la plateforme mobile. L'intérieur du musée est entièrement utilisable. L'église de San Marco n'est pas accessible.",
+      "de": "Der Gehweg zum Museum ist schmal und es gibt eine Stufe: Die mobile Rampe kann beim Personal angefordert werden. Das Museum ist im Inneren vollständig nutzbar. Die Kirche San Marco ist nicht zugänglich.",
+      "es": "La acera que lleva al museo es estrecha y hay un escalón: se pide al personal la plataforma móvil. El interior del museo es totalmente utilizable. La iglesia de San Marcos no es accesible."
+     },
+     "ascensore": {
+      "it": "Rampe e ascensori permettono di visitare l'interno del museo.",
+      "en": "Ramps and lifts make it possible to visit the interior of the museum.",
+      "fr": "Des rampes et des ascenseurs permettent de visiter l'intérieur du musée.",
+      "de": "Rampen und Aufzüge ermöglichen den Besuch des Museums im Inneren.",
+      "es": "Rampas y ascensores permiten visitar el interior del museo."
+     }
+    }
    }
   },
   {
