@@ -538,7 +538,9 @@
     ]
    },
    "luoghi": [
-    "basilica-di-santa-croce"
+    "basilica-di-santa-croce",
+    "basilica-di-santa-trinita",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "basilica-di-santa-croce": {
@@ -555,6 +557,22 @@
       "fr": "Le Crucifix de Cimabue se trouve aujourd'hui au Museo dell'Opera di Santa Croce, dans le complexe de la basilique. Il fut gravement endommagé par l'inondation de 1966, puis restauré.",
       "de": "Cimabues Kruzifix befindet sich heute im Museo dell'Opera di Santa Croce im Komplex der Basilika. Es wurde von der Überschwemmung 1966 schwer beschädigt und anschließend restauriert.",
       "es": "El Crucifijo de Cimabue se encuentra hoy en el Museo dell'Opera di Santa Croce, en el complejo de la basílica. Resultó gravemente dañado por la inundación de 1966 y después fue restaurado."
+     }
+    },
+    "basilica-di-santa-trinita": {
+     "tipo": {
+      "it": "Opera conservata",
+      "en": "Work preserved here",
+      "fr": "Œuvre conservée",
+      "de": "Hier aufbewahrtes Werk",
+      "es": "Obra conservada"
+     },
+     "testo": {
+      "it": "La Maestà di Cimabue era in origine nella chiesa; oggi è agli Uffizi.",
+      "en": "Cimabue's Maestà was originally in the church; it is now in the Uffizi.",
+      "fr": "La Maestà de Cimabue se trouvait à l'origine dans l'église ; elle est aujourd'hui aux Offices.",
+      "de": "Cimabues Maestà befand sich ursprünglich in der Kirche; heute ist sie in den Uffizien.",
+      "es": "La Maestà de Cimabue estaba originalmente en la iglesia; hoy se encuentra en los Uffizi."
      }
     }
    },
@@ -667,7 +685,8 @@
    "luoghi": [
     "campanile-di-giotto",
     "basilica-di-santa-croce",
-    "cattedrale-di-santa-maria-del-fiore"
+    "cattedrale-di-santa-maria-del-fiore",
+    "museo-dellopera-del-duomo"
    ],
    "luoghiNote": {
     "campanile-di-giotto": {
@@ -848,7 +867,8 @@
    "luoghi": [
     "cattedrale-di-santa-maria-del-fiore",
     "palazzo-vecchio",
-    "basilica-di-santa-croce"
+    "basilica-di-santa-croce",
+    "museo-dellopera-del-duomo"
    ],
    "luoghiNote": {
     "cattedrale-di-santa-maria-del-fiore": {
@@ -1014,7 +1034,8 @@
    "luoghi": [
     "battistero-di-san-giovanni",
     "basilica-di-santa-croce",
-    "piazza-della-signoria"
+    "piazza-della-signoria",
+    "museo-nazionale-del-bargello"
    ],
    "luoghiNote": {
     "battistero-di-san-giovanni": {
@@ -1894,7 +1915,9 @@
    },
    "luoghi": [
     "basilica-di-san-lorenzo",
-    "palazzo-vecchio"
+    "palazzo-vecchio",
+    "palazzo-medici-riccardi",
+    "museo-di-san-marco"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -1927,6 +1950,38 @@
       "fr": "Cosme fut emprisonné ici en 1433, avant d'être envoyé en exil.",
       "de": "Hier wurde Cosimo 1433 inhaftiert, bevor er ins Exil geschickt wurde.",
       "es": "Aquí fue encarcelado Cosme en 1433, antes de ser enviado al exilio."
+     }
+    },
+    "palazzo-medici-riccardi": {
+     "tipo": {
+      "it": "Committente",
+      "en": "Patron",
+      "fr": "Commanditaire",
+      "de": "Auftraggeber",
+      "es": "Comitente"
+     },
+     "testo": {
+      "it": "Nel 1444 commissionò il palazzo a Michelozzo e vi abitò.",
+      "en": "In 1444 he commissioned the palace from Michelozzo and lived there.",
+      "fr": "En 1444, il commanda le palais à Michelozzo et y habita.",
+      "de": "1444 gab er den Palast bei Michelozzo in Auftrag und wohnte dort.",
+      "es": "En 1444 encargó el palacio a Michelozzo y vivió en él."
+     }
+    },
+    "museo-di-san-marco": {
+     "tipo": {
+      "it": "Committente",
+      "en": "Patron",
+      "fr": "Commanditaire",
+      "de": "Auftraggeber",
+      "es": "Comitente"
+     },
+     "testo": {
+      "it": "Sostenne la ricostruzione del convento, affidata a Michelozzo dal 1437.",
+      "en": "He supported the rebuilding of the convent, entrusted to Michelozzo from 1437.",
+      "fr": "Il soutint la reconstruction du couvent, confiée à Michelozzo à partir de 1437.",
+      "de": "Er unterstützte den Wiederaufbau des Klosters, den Michelozzo ab 1437 ausführte.",
+      "es": "Apoyó la reconstrucción del convento, encomendada a Michelozzo desde 1437."
      }
     }
    },
@@ -2090,7 +2145,8 @@
     "cattedrale-di-santa-maria-del-fiore",
     "palazzo-vecchio",
     "piazza-della-signoria",
-    "basilica-di-san-lorenzo"
+    "basilica-di-san-lorenzo",
+    "palazzo-medici-riccardi"
    ],
    "luoghiNote": {
     "cattedrale-di-santa-maria-del-fiore": {
@@ -2155,6 +2211,22 @@
       "fr": "Laurent et son frère Julien sont enterrés sous l'autel de la Sacristie Neuve, dans le complexe de San Lorenzo.",
       "de": "Lorenzo und sein Bruder Giuliano sind unter dem Altar der Neuen Sakristei im Komplex von San Lorenzo beigesetzt.",
       "es": "Lorenzo y su hermano Giuliano están sepultados bajo el altar de la Sacristía Nueva, en el complejo de San Lorenzo."
+     }
+    },
+    "palazzo-medici-riccardi": {
+     "tipo": {
+      "it": "Legame diretto",
+      "en": "Direct link",
+      "fr": "Lien direct",
+      "de": "Direkter Bezug",
+      "es": "Vínculo directo"
+     },
+     "testo": {
+      "it": "Visse nel palazzo di famiglia, teatro della vita politica e culturale medicea.",
+      "en": "He lived in the family palace, setting of Medici political and cultural life.",
+      "fr": "Il vécut dans le palais familial, théâtre de la vie politique et culturelle médicéenne.",
+      "de": "Er lebte im Familienpalast, Schauplatz des politischen und kulturellen Lebens der Medici.",
+      "es": "Vivió en el palacio familiar, escenario de la vida política y cultural medicea."
      }
     }
    },
@@ -2337,7 +2409,9 @@
    "luoghi": [
     "cattedrale-di-santa-maria-del-fiore",
     "basilica-di-san-lorenzo",
-    "basilica-di-santa-croce"
+    "basilica-di-santa-croce",
+    "museo-nazionale-del-bargello",
+    "museo-dellopera-del-duomo"
    ],
    "luoghiNote": {
     "cattedrale-di-santa-maria-del-fiore": {
@@ -2548,7 +2622,10 @@
    "luoghi": [
     "chiesa-e-museo-di-orsanmichele",
     "campanile-di-giotto",
-    "basilica-di-san-lorenzo"
+    "basilica-di-san-lorenzo",
+    "museo-nazionale-del-bargello",
+    "museo-dellopera-del-duomo",
+    "palazzo-medici-riccardi"
    ],
    "luoghiNote": {
     "chiesa-e-museo-di-orsanmichele": {
@@ -2597,6 +2674,38 @@
       "fr": "Pour la basilique, il réalisa les portes de bronze et les médaillons de la Sacristie Vieille et, dans ses dernières années, les chaires. Il y est enterré, près de Cosme.",
       "de": "Für die Basilika schuf er die Bronzetüren und Rundreliefs der Alten Sakristei und in seinen letzten Jahren die Kanzeln. Er ist hier nahe bei Cosimo beigesetzt.",
       "es": "Para la basílica realizó las puertas de bronce y los tondos de la Sacristía Vieja y, en sus últimos años, los púlpitos. Está sepultado aquí, cerca de Cosme."
+     }
+    },
+    "museo-nazionale-del-bargello": {
+     "tipo": {
+      "it": "Opere conservate",
+      "en": "Works preserved here",
+      "fr": "Œuvres conservées",
+      "de": "Hier aufbewahrte Werke",
+      "es": "Obras conservadas"
+     },
+     "testo": {
+      "it": "Vi sono conservati il David in bronzo e il San Giorgio.",
+      "en": "The bronze David and the St George are kept here.",
+      "fr": "Le David en bronze et le Saint Georges y sont conservés.",
+      "de": "Hier werden der bronzene David und der heilige Georg aufbewahrt.",
+      "es": "Aquí se conservan el David en bronce y el San Jorge."
+     }
+    },
+    "museo-dellopera-del-duomo": {
+     "tipo": {
+      "it": "Opere conservate",
+      "en": "Works preserved here",
+      "fr": "Œuvres conservées",
+      "de": "Hier aufbewahrte Werke",
+      "es": "Obras conservadas"
+     },
+     "testo": {
+      "it": "Vi sono conservate la Maddalena penitente e la cantoria realizzata per la cattedrale.",
+      "en": "The Penitent Magdalene and the choir loft made for the cathedral are kept here.",
+      "fr": "La Madeleine pénitente et la cantoria réalisée pour la cathédrale y sont conservées.",
+      "de": "Hier werden die büßende Magdalena und die für die Kathedrale geschaffene Sängerkanzel aufbewahrt.",
+      "es": "Aquí se conservan la Magdalena penitente y la cantoría realizada para la catedral."
      }
     }
    },
@@ -2898,8 +3007,27 @@
      "Sepultado en Roma: murió en Roma en 1455 y fue sepultado en la iglesia de Santa Maria sopra Minerva."
     ]
    },
-   "luoghi": [],
-   "luoghiNote": {},
+   "luoghi": [
+    "museo-di-san-marco"
+   ],
+   "luoghiNote": {
+    "museo-di-san-marco": {
+     "tipo": {
+      "it": "Opere conservate",
+      "en": "Works preserved here",
+      "fr": "Œuvres conservées",
+      "de": "Hier aufbewahrte Werke",
+      "es": "Obras conservadas"
+     },
+     "testo": {
+      "it": "Il museo conserva la più ampia raccolta delle sue opere, tra cui gli affreschi delle celle e l'Annunciazione.",
+      "en": "The museum holds the largest collection of his works, including the cell frescoes and the Annunciation.",
+      "fr": "Le musée conserve la plus vaste collection de ses œuvres, dont les fresques des cellules et l'Annonciation.",
+      "de": "Das Museum besitzt die größte Sammlung seiner Werke, darunter die Zellenfresken und die Verkündigung.",
+      "es": "El museo conserva la mayor colección de sus obras, entre ellas los frescos de las celdas y la Anunciación."
+     }
+    }
+   },
    "collegati": [
     {
      "id": "cosimo-il-vecchio",
@@ -3003,7 +3131,8 @@
    },
    "luoghi": [
     "basilica-di-santa-maria-novella",
-    "piazza-della-signoria"
+    "piazza-della-signoria",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "basilica-di-santa-maria-novella": {
@@ -3162,7 +3291,8 @@
    },
    "luoghi": [
     "palazzo-vecchio",
-    "cattedrale-di-santa-maria-del-fiore"
+    "cattedrale-di-santa-maria-del-fiore",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -3358,7 +3488,11 @@
     "basilica-di-san-lorenzo",
     "piazza-della-signoria",
     "palazzo-vecchio",
-    "basilica-di-santa-croce"
+    "basilica-di-santa-croce",
+    "museo-nazionale-del-bargello",
+    "museo-dellopera-del-duomo",
+    "viale-dei-colli",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -3423,6 +3557,54 @@
       "fr": "Il est enterré ici. Le monument funéraire, dessiné par Vasari, fut achevé en 1576.",
       "de": "Hier ist er begraben. Das von Vasari entworfene Grabmal wurde 1576 vollendet.",
       "es": "Aquí está enterrado. El monumento funerario, diseñado por Vasari, se completó en 1576."
+     }
+    },
+    "museo-nazionale-del-bargello": {
+     "tipo": {
+      "it": "Opere conservate",
+      "en": "Works preserved here",
+      "fr": "Œuvres conservées",
+      "de": "Hier aufbewahrte Werke",
+      "es": "Obras conservadas"
+     },
+     "testo": {
+      "it": "Vi sono conservati il Bacco e il busto di Bruto.",
+      "en": "The Bacchus and the bust of Brutus are kept here.",
+      "fr": "Le Bacchus et le buste de Brutus y sont conservés.",
+      "de": "Hier werden der Bacchus und die Büste des Brutus aufbewahrt.",
+      "es": "Aquí se conservan el Baco y el busto de Bruto."
+     }
+    },
+    "museo-dellopera-del-duomo": {
+     "tipo": {
+      "it": "Opera conservata",
+      "en": "Work preserved here",
+      "fr": "Œuvre conservée",
+      "de": "Hier aufbewahrtes Werk",
+      "es": "Obra conservada"
+     },
+     "testo": {
+      "it": "Vi è conservata la Pietà Bandini.",
+      "en": "The Bandini Pietà is kept here.",
+      "fr": "La Pietà Bandini y est conservée.",
+      "de": "Hier wird die Bandini-Pietà aufbewahrt.",
+      "es": "Aquí se conserva la Piedad Bandini."
+     }
+    },
+    "viale-dei-colli": {
+     "tipo": {
+      "it": "Opera conservata",
+      "en": "Work preserved here",
+      "fr": "Œuvre conservée",
+      "de": "Hier aufbewahrtes Werk",
+      "es": "Obra conservada"
+     },
+     "testo": {
+      "it": "A Piazzale Michelangelo si trova una copia in bronzo del suo David.",
+      "en": "At Piazzale Michelangelo stands a bronze copy of his David.",
+      "fr": "Sur la Piazzale Michelangelo se dresse une copie en bronze de son David.",
+      "de": "Auf der Piazzale Michelangelo steht eine Bronzekopie seines David.",
+      "es": "En la Piazzale Michelangelo se alza una copia en bronce de su David."
      }
     }
    },
@@ -3895,7 +4077,8 @@
    },
    "luoghi": [
     "piazza-della-signoria",
-    "palazzo-vecchio"
+    "palazzo-vecchio",
+    "museo-di-san-marco"
    ],
    "luoghiNote": {
     "piazza-della-signoria": {
@@ -3928,6 +4111,22 @@
       "fr": "En 1495-1496 fut construite la grande salle du Grand Conseil, organe du nouvel ordre républicain soutenu par Savonarole : c'est l'actuel Salone dei Cinquecento.",
       "de": "1495-1496 wurde der große Saal des Großen Rates errichtet, des Organs der von Savonarola unterstützten neuen republikanischen Ordnung: Es ist der heutige Salone dei Cinquecento.",
       "es": "En 1495-1496 se construyó la gran sala del Consejo Mayor, órgano del nuevo orden republicano apoyado por Savonarola: es el actual Salone dei Cinquecento."
+     }
+    },
+    "museo-di-san-marco": {
+     "tipo": {
+      "it": "Legame diretto",
+      "en": "Direct link",
+      "fr": "Lien direct",
+      "de": "Direkter Bezug",
+      "es": "Vínculo directo"
+     },
+     "testo": {
+      "it": "Fu priore del convento di San Marco dal 1491.",
+      "en": "He was prior of the convent of San Marco from 1491.",
+      "fr": "Il fut prieur du couvent de San Marco à partir de 1491.",
+      "de": "Er war ab 1491 Prior des Klosters San Marco.",
+      "es": "Fue prior del convento de San Marcos desde 1491."
      }
     }
    },
@@ -4329,7 +4528,8 @@
     "palazzo-pitti",
     "ponte-vecchio",
     "piazza-della-signoria",
-    "basilica-di-san-lorenzo"
+    "basilica-di-san-lorenzo",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -4410,6 +4610,22 @@
       "fr": "En 1564, il consentit à ce que les obsèques de Michel-Ange se tiennent ici, et en 1574 les siennes y furent célébrées.",
       "de": "1564 stimmte er zu, dass hier die Trauerfeier für Michelangelo stattfand, und 1574 wurde hier seine eigene begangen.",
       "es": "En 1564 consintió que aquí se celebraran las exequias de Miguel Ángel, y en 1574 aquí se celebraron las suyas."
+     }
+    },
+    "gallerie-degli-uffizi": {
+     "tipo": {
+      "it": "Committente",
+      "en": "Patron",
+      "fr": "Commanditaire",
+      "de": "Auftraggeber",
+      "es": "Comitente"
+     },
+     "testo": {
+      "it": "Nel 1560 affidò a Vasari la costruzione del palazzo, destinato a riunire gli uffici del governo.",
+      "en": "In 1560 he entrusted Vasari with building the palace, meant to bring together the offices of the government.",
+      "fr": "En 1560, il confia à Vasari la construction du palais, destiné à réunir les bureaux du gouvernement.",
+      "de": "1560 beauftragte er Vasari mit dem Bau des Palastes, der die Regierungsbüros vereinen sollte.",
+      "es": "En 1560 encargó a Vasari la construcción del palacio, destinado a reunir las oficinas del gobierno."
      }
     }
    },
@@ -4583,7 +4799,8 @@
     "palazzo-vecchio",
     "basilica-di-santa-maria-novella",
     "basilica-di-santa-croce",
-    "ponte-vecchio"
+    "ponte-vecchio",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -4648,6 +4865,22 @@
       "fr": "En 1565, il y construisit au-dessus le corridor de Vasari, qui relie le Palazzo Vecchio et les Offices au Palazzo Pitti.",
       "de": "1565 baute er darüber den Vasari-Korridor, der den Palazzo Vecchio und die Uffizien mit dem Palazzo Pitti verbindet.",
       "es": "En 1565 construyó sobre él el Corredor Vasariano, que une el Palazzo Vecchio y los Uffizi con el Palazzo Pitti."
+     }
+    },
+    "gallerie-degli-uffizi": {
+     "tipo": {
+      "it": "Progettista",
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Planer",
+      "es": "Proyectista"
+     },
+     "testo": {
+      "it": "Progettò il palazzo per Cosimo I a partire dal 1560 e, nel 1565, il Corridoio Vasariano.",
+      "en": "He designed the palace for Cosimo I from 1560 and, in 1565, the Vasari Corridor.",
+      "fr": "Il conçut le palais pour Cosme Ier à partir de 1560 et, en 1565, le corridor de Vasari.",
+      "de": "Er entwarf den Palast für Cosimo I. ab 1560 und 1565 den Vasari-Korridor.",
+      "es": "Proyectó el palacio para Cosme I a partir de 1560 y, en 1565, el Corredor Vasariano."
      }
     }
    },
@@ -4819,7 +5052,8 @@
    },
    "luoghi": [
     "piazza-della-signoria",
-    "ponte-vecchio"
+    "ponte-vecchio",
+    "museo-nazionale-del-bargello"
    ],
    "luoghiNote": {
     "piazza-della-signoria": {
@@ -4961,8 +5195,28 @@
      "La porcelana medicea: en el Casino di San Marco, proyectado por él, Francisco I hizo experimentar entre 1575 y 1587 una porcelana de pasta tierna inspirada en modelos orientales."
     ]
    },
-   "luoghi": [],
-   "luoghiNote": {},
+   "luoghi": [
+    "basilica-di-santa-trinita",
+    "gallerie-degli-uffizi"
+   ],
+   "luoghiNote": {
+    "basilica-di-santa-trinita": {
+     "tipo": {
+      "it": "Progettista",
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Planer",
+      "es": "Proyectista"
+     },
+     "testo": {
+      "it": "Progettò la facciata, realizzata tra il 1593 e il 1594.",
+      "en": "He designed the façade, built between 1593 and 1594.",
+      "fr": "Il conçut la façade, réalisée entre 1593 et 1594.",
+      "de": "Er entwarf die Fassade, die zwischen 1593 und 1594 ausgeführt wurde.",
+      "es": "Proyectó la fachada, realizada entre 1593 y 1594."
+     }
+    }
+   },
    "collegati": [
     {
      "id": "cosimo-i-de-medici",
@@ -5080,7 +5334,8 @@
     ]
    },
    "luoghi": [
-    "palazzo-vecchio"
+    "palazzo-vecchio",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -5097,6 +5352,22 @@
       "fr": "À l'intérieur du palais se trouve le Studiolo, pièce privée décorée sous la direction de Vasari (1570-1572) selon un programme de Vincenzo Borghini, destinée aux collections du prince.",
       "de": "Im Inneren des Palastes befindet sich das Studiolo, ein privater Raum, der unter Vasaris Leitung (1570-1572) nach einem Programm von Vincenzo Borghini ausgestattet wurde und für die Sammlungen des Fürsten bestimmt war.",
       "es": "En el interior del palacio se encuentra el Studiolo, sala privada decorada bajo la dirección de Vasari (1570-1572) según un programa de Vincenzo Borghini, destinada a las colecciones del príncipe."
+     }
+    },
+    "gallerie-degli-uffizi": {
+     "tipo": {
+      "it": "Legame diretto",
+      "en": "Direct link",
+      "fr": "Lien direct",
+      "de": "Direkter Bezug",
+      "es": "Vínculo directo"
+     },
+     "testo": {
+      "it": "Promosse l'allestimento della Galleria granducale negli ambienti degli Uffizi.",
+      "en": "He promoted the setting up of the Grand-Ducal Gallery in the rooms of the Uffizi.",
+      "fr": "Il promut l'aménagement de la Galerie grand-ducale dans les salles des Offices.",
+      "de": "Er förderte die Einrichtung der großherzoglichen Galerie in den Räumen der Uffizien.",
+      "es": "Promovió la instalación de la Galería granducal en las salas de los Uffizi."
      }
     }
    },
@@ -5344,7 +5615,8 @@
     ]
    },
    "luoghi": [
-    "basilica-di-san-lorenzo"
+    "basilica-di-san-lorenzo",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "basilica-di-san-lorenzo": {
@@ -5461,7 +5733,8 @@
     ]
    },
    "luoghi": [
-    "palazzo-pitti"
+    "palazzo-pitti",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "palazzo-pitti": {
@@ -5478,6 +5751,22 @@
       "fr": "Le Palazzo Pitti fut la résidence des grands-ducs lorrains. C'est ici que Pierre-Léopold fit construire la « boîte aux mémoriaux », où les sujets pouvaient laisser leurs requêtes destinées au souverain.",
       "de": "Der Palazzo Pitti war die Residenz der lothringischen Großherzöge. Hier ließ Peter Leopold den „Memorialschlitz“ einbauen, in den Untertanen ihre an den Herrscher gerichteten Anliegen einwerfen konnten.",
       "es": "El Palazzo Pitti fue la residencia de los grandes duques de Lorena. Aquí Pedro Leopoldo hizo construir el «buzón de memoriales», donde los súbditos podían dejar sus peticiones dirigidas al soberano."
+     }
+    },
+    "gallerie-degli-uffizi": {
+     "tipo": {
+      "it": "Legame diretto",
+      "en": "Direct link",
+      "fr": "Lien direct",
+      "de": "Direkter Bezug",
+      "es": "Vínculo directo"
+     },
+     "testo": {
+      "it": "Nel 1769, sotto il suo governo, la Galleria fu aperta al pubblico.",
+      "en": "In 1769, under his rule, the Gallery was opened to the public.",
+      "fr": "En 1769, sous son gouvernement, la Galerie fut ouverte au public.",
+      "de": "1769 wurde die Galerie unter seiner Regierung für die Öffentlichkeit geöffnet.",
+      "es": "En 1769, bajo su gobierno, la Galería se abrió al público."
      }
     }
    },
@@ -5852,7 +6141,9 @@
    "luoghi": [
     "battistero-di-san-giovanni",
     "chiesa-e-museo-di-orsanmichele",
-    "cattedrale-di-santa-maria-del-fiore"
+    "cattedrale-di-santa-maria-del-fiore",
+    "museo-dellopera-del-duomo",
+    "museo-nazionale-del-bargello"
    ],
    "luoghiNote": {
     "battistero-di-san-giovanni": {
@@ -5901,6 +6192,22 @@
       "fr": "Entre 1432 et 1442, il réalisa la châsse de bronze de saint Zanobi, dans la chapelle centrale de la tribune. Pour la cathédrale, il dessina aussi une série de vitraux.",
       "de": "Zwischen 1432 und 1442 schuf er den Bronzeschrein des heiligen Zenobius in der mittleren Kapelle der Tribuna. Für die Kathedrale entwarf er außerdem eine Reihe von Glasfenstern.",
       "es": "Entre 1432 y 1442 realizó el arca de bronce de San Zenobio, en la capilla central de la tribuna. Para la Catedral diseñó también una serie de vidrieras."
+     }
+    },
+    "museo-dellopera-del-duomo": {
+     "tipo": {
+      "it": "Opera conservata",
+      "en": "Work preserved here",
+      "fr": "Œuvre conservée",
+      "de": "Hier aufbewahrtes Werk",
+      "es": "Obra conservada"
+     },
+     "testo": {
+      "it": "Vi è esposto l'originale della Porta del Paradiso.",
+      "en": "The original Gates of Paradise are displayed here.",
+      "fr": "L'original de la Porte du Paradis y est exposé.",
+      "de": "Hier ist das Original der Paradiesestür ausgestellt.",
+      "es": "Aquí se exhibe el original de la Puerta del Paraíso."
      }
     }
    },
@@ -6151,7 +6458,9 @@
     "cattedrale-di-santa-maria-del-fiore",
     "basilica-di-san-lorenzo",
     "palazzo-vecchio",
-    "chiesa-e-museo-di-orsanmichele"
+    "chiesa-e-museo-di-orsanmichele",
+    "museo-nazionale-del-bargello",
+    "gallerie-degli-uffizi"
    ],
    "luoghiNote": {
     "cattedrale-di-santa-maria-del-fiore": {
@@ -6216,6 +6525,22 @@
       "fr": "Le groupe en bronze du Christ et de saint Thomas, exécuté entre 1467 et 1483, fut réalisé pour l'une des niches extérieures de l'édifice.",
       "de": "Die Bronzegruppe von Christus und dem heiligen Thomas, zwischen 1467 und 1483 entstanden, wurde für eine der Außennischen des Gebäudes geschaffen.",
       "es": "El grupo en bronce de Cristo y Santo Tomás, realizado entre 1467 y 1483, se hizo para una de las hornacinas exteriores del edificio."
+     }
+    },
+    "museo-nazionale-del-bargello": {
+     "tipo": {
+      "it": "Opera conservata",
+      "en": "Work preserved here",
+      "fr": "Œuvre conservée",
+      "de": "Hier aufbewahrtes Werk",
+      "es": "Obra conservada"
+     },
+     "testo": {
+      "it": "Vi è conservato il suo David.",
+      "en": "His David is kept here.",
+      "fr": "Son David y est conservé.",
+      "de": "Hier wird sein David aufbewahrt.",
+      "es": "Aquí se conserva su David."
      }
     }
    },
@@ -6607,8 +6932,27 @@
      "Una ciudad más grande: el plan estaba calculado para un aumento de población de unos 50.000 habitantes."
     ]
    },
-   "luoghi": [],
-   "luoghiNote": {},
+   "luoghi": [
+    "viale-dei-colli"
+   ],
+   "luoghiNote": {
+    "viale-dei-colli": {
+     "tipo": {
+      "it": "Progettista",
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Planer",
+      "es": "Proyectista"
+     },
+     "testo": {
+      "it": "Progettò il viale tra il 1865 e il 1875 e Piazzale Michelangelo.",
+      "en": "He designed the avenue between 1865 and 1875, and Piazzale Michelangelo.",
+      "fr": "Il conçut le viale entre 1865 et 1875, ainsi que la Piazzale Michelangelo.",
+      "de": "Er entwarf den Viale zwischen 1865 und 1875 sowie die Piazzale Michelangelo.",
+      "es": "Proyectó el viale entre 1865 y 1875, y la Piazzale Michelangelo."
+     }
+    }
+   },
    "collegati": [
     {
      "id": "ubaldino-peruzzi",
@@ -7315,7 +7659,8 @@
     ]
    },
    "luoghi": [
-    "palazzo-vecchio"
+    "palazzo-vecchio",
+    "isolotto"
    ],
    "luoghiNote": {
     "palazzo-vecchio": {
@@ -7332,6 +7677,22 @@
       "fr": "En tant que maire, La Pira travailla au Palazzo Vecchio, siège du gouvernement de la ville.",
       "de": "Als Bürgermeister arbeitete La Pira im Palazzo Vecchio, dem Sitz der Stadtregierung.",
       "es": "Como alcalde, La Pira trabajó en el Palazzo Vecchio, sede del gobierno de la ciudad."
+     }
+    },
+    "isolotto": {
+     "tipo": {
+      "it": "Legame diretto",
+      "en": "Direct link",
+      "fr": "Lien direct",
+      "de": "Direkter Bezug",
+      "es": "Vínculo directo"
+     },
+     "testo": {
+      "it": "Da sindaco volle il quartiere e consegnò le prime chiavi il 6 novembre 1954.",
+      "en": "As mayor he backed the district and handed over the first keys on 6 November 1954.",
+      "fr": "Maire, il voulut le quartier et remit les premières clés le 6 novembre 1954.",
+      "de": "Als Bürgermeister trieb er das Viertel voran und übergab am 6. November 1954 die ersten Schlüssel.",
+      "es": "Como alcalde impulsó el barrio y entregó las primeras llaves el 6 de noviembre de 1954."
      }
     }
    },
@@ -7553,7 +7914,8 @@
     ]
    },
    "luoghi": [
-    "basilica-di-santa-maria-novella"
+    "basilica-di-santa-maria-novella",
+    "isolotto"
    ],
    "luoghiNote": {
     "basilica-di-santa-maria-novella": {
@@ -7570,6 +7932,22 @@
       "fr": "La gare de Michelucci et du Gruppo Toscano se dresse à côté de la basilique et fut conçue en rapport avec son abside.",
       "de": "Der Bahnhof von Michelucci und dem Gruppo Toscano steht neben der Basilika und wurde in Beziehung zu ihrer Apsis konzipiert.",
       "es": "La estación de Michelucci y del Gruppo Toscano se alza junto a la basílica y fue concebida en relación con su ábside."
+     }
+    },
+    "isolotto": {
+     "tipo": {
+      "it": "Progettista",
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Planer",
+      "es": "Proyectista"
+     },
+     "testo": {
+      "it": "Fu tra gli architetti del quartiere INA-Casa dell'Isolotto.",
+      "en": "He was among the architects of the INA-Casa district of Isolotto.",
+      "fr": "Il fut parmi les architectes du quartier INA-Casa de l'Isolotto.",
+      "de": "Er gehörte zu den Architekten des INA-Casa-Viertels Isolotto.",
+      "es": "Fue uno de los arquitectos del barrio INA-Casa del Isolotto."
      }
     }
    },

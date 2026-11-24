@@ -1,5 +1,5 @@
 {
- "versione": "e2fb3e1c90af",
+ "versione": "42092f1a830d",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3478,8 +3478,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "6630858f99ecf1a4e9d9d9f9e462d517d6dc12d0be9a78e34e1c80d325328f1d",
-   "byte": 105437
+   "sha256": "ebf0cfb4a7e237588c10bcaadda004f3c0a2b2941c391b757a5e17fcac9ce20d",
+   "byte": 184209
   },
   {
    "path": "dati/mappa.json",
@@ -3502,8 +3502,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "83b488a771defa2f3e6949836ea3be3427f1cb9064f57d7e218df5d28e74681b",
-   "byte": 856669
+   "sha256": "f353327d4654059512c9e7c201fdb851e738be884bc356352b0740b1743f4690",
+   "byte": 871552
   },
   {
    "path": "dati/principali.json",
@@ -3543,12 +3543,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "c4b11b73cd0f",
-   "da": "04b15cec0dfb",
-   "data": "2026-11-23",
-   "byte": 314760
-  },
   {
    "versione": "f6afe18b4a95",
    "da": "c4b11b73cd0f",
@@ -3662,6 +3656,22 @@
    "da": "c68f86fe557e",
    "data": "2026-11-24",
    "byte": 1056113
+  },
+  {
+   "versione": "42092f1a830d",
+   "da": "e2fb3e1c90af",
+   "data": "2026-11-24",
+   "luoghi_nuovi": [
+    "Gallerie degli Uffizi",
+    "Museo Nazionale del Bargello",
+    "Museo dell'Opera del Duomo",
+    "Palazzo Medici Riccardi",
+    "Museo di San Marco",
+    "Basilica di Santa Trinita",
+    "Isolotto",
+    "Viale dei Colli"
+   ],
+   "byte": 1055761
   }
  ]
 }
