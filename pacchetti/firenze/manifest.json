@@ -1,5 +1,5 @@
 {
- "versione": "4c9e36aacde2",
+ "versione": "34f73f33d2d8",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -342,6 +342,42 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cimitero-delle-porte-sante_5.webp",
    "sha256": "20070f0572437fe8f4f4b5a13e779047f6a55599c17b16cfb167b53a3760be82",
    "byte": 77510
+  },
+  {
+   "path": "assets/luoghi/galleria-dellaccademia-di-firenze.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/galleria-dellaccademia-di-firenze.webp",
+   "sha256": "0ecc4bf6e582c451e4489abea861fc9dc2481beac73eae15834d4d1ea598f45f",
+   "byte": 78760
+  },
+  {
+   "path": "assets/luoghi/galleria-dellaccademia-di-firenze_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/galleria-dellaccademia-di-firenze_2.webp",
+   "sha256": "4c8ab7d3b09002e514a225235d1684567ee3b76b13a5be59d08d016245e5c363",
+   "byte": 116116
+  },
+  {
+   "path": "assets/luoghi/galleria-dellaccademia-di-firenze_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/galleria-dellaccademia-di-firenze_3.webp",
+   "sha256": "2c1b96bbf3c6fb1fe74d14926c3c7766f52c64ed50dc0bfc703444eb1ab24422",
+   "byte": 43206
+  },
+  {
+   "path": "assets/luoghi/galleria-dellaccademia-di-firenze_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/galleria-dellaccademia-di-firenze_4.webp",
+   "sha256": "fd75e3b30b50747689ca474d371b6d42651c079d762730d81e42c122c452b5fd",
+   "byte": 62264
+  },
+  {
+   "path": "assets/luoghi/galleria-dellaccademia-di-firenze_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/galleria-dellaccademia-di-firenze_5.webp",
+   "sha256": "7bc3f25861a6f78d99dd0b4fffc0ff8bf6e023324a3de51db495a419e8b1980a",
+   "byte": 121674
+  },
+  {
+   "path": "assets/luoghi/galleria-dellaccademia-di-firenze_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/galleria-dellaccademia-di-firenze_6.webp",
+   "sha256": "44e6206beaddaf936d748c2e9d18597ac352b34ad356f88d4fd10f816747696f",
+   "byte": 185260
   },
   {
    "path": "assets/luoghi/gallerie-degli-uffizi.webp",
@@ -3988,8 +4024,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "6e02c280111e915cc3b8a7d79b9df2299134136b89753ceb05e67a4f5a92a436",
-   "byte": 1077
+   "sha256": "90d9a0844396169d3eb134b0e40495c43a2020e511d7b8ee340d47b5715456bf",
+   "byte": 1119
   },
   {
    "path": "dati/itinerari.json",
@@ -4000,8 +4036,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "2e0dd6edd8d7718fc084c08130dcc2ada38757a811d083cd32d6002ba4a80c70",
-   "byte": 375428
+   "sha256": "d8670504193f96f196edce59a83892cdf41d81e48f6a12e3fd024a04e9a6d9bd",
+   "byte": 376246
   },
   {
    "path": "dati/mappa.json",
@@ -4065,17 +4101,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "3b45d6ce70e0",
-   "da": "94f33a55a645",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 5,
-   "byte": 749969
-  },
   {
    "versione": "0a664fc40134",
    "da": "3b45d6ce70e0",
@@ -4292,6 +4317,17 @@
     "Galleria dell'Accademia di Firenze"
    ],
    "byte": 1253500
+  },
+  {
+   "versione": "34f73f33d2d8",
+   "da": "4c9e36aacde2",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 6,
+   "byte": 984645
   }
  ]
 }

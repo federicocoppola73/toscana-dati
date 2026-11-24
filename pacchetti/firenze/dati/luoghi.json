@@ -3394,7 +3394,38 @@
     "fr": "Galleria dell'Accademia (Galerie de l'Académie)",
     "de": "Galleria dell'Accademia (Akademie-Galerie)",
     "es": "Galleria dell'Accademia (Galería de la Academia)"
-   }
+   },
+   "immagine": {
+    "autore": "Francesco Bini",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Sandro Botticelli",
+     "licenza": "Pubblico dominio"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ]
   }
  ]
 }
