@@ -1300,7 +1300,34 @@
       "es": "Acceso para personas con discapacidad motriz desde la acera, enrasada con la calzada."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Yair-haklai",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Yair-haklai"
+    },
+    {
+     "autore": "Paulacastelli",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Paulacastelli"
+    },
+    {
+     "autore": "MenkinAlRire",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:MenkinAlRire"
+    },
+    {
+     "autore": "Nicola Quirico",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Nicola_Quirico"
+    }
+   ]
   },
   {
    "id": "museo-dellopera-del-duomo",

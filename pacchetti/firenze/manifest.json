@@ -1,5 +1,5 @@
 {
- "versione": "32722b93d67e",
+ "versione": "52f5ba762317",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -264,6 +264,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/gallerie-degli-uffizi_6.webp",
    "sha256": "ff6f348a20cc000ab9ed9b3db047468da5ee88abfd31aa823080b10e524980a2",
    "byte": 155458
+  },
+  {
+   "path": "assets/luoghi/museo-nazionale-del-bargello.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello.webp",
+   "sha256": "b9323c12816e5515080ddc52963870f4666c40890d98f856d7c461881abebff1",
+   "byte": 292078
+  },
+  {
+   "path": "assets/luoghi/museo-nazionale-del-bargello_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_2.webp",
+   "sha256": "fb007f2021dd4f69e8d7b7935e584d4f1aadc6774fbab323083b0e0f4fff7456",
+   "byte": 142102
+  },
+  {
+   "path": "assets/luoghi/museo-nazionale-del-bargello_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_3.webp",
+   "sha256": "1c1c630180ab27982407a6c6a24bd363ac5e7e33116dc2d855efa34c09d82386",
+   "byte": 96010
+  },
+  {
+   "path": "assets/luoghi/museo-nazionale-del-bargello_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_4.webp",
+   "sha256": "40f7efc42413bed96ab0c22f352611c91b3d0d5927a0c573cd03304e5a8ae74a",
+   "byte": 68360
+  },
+  {
+   "path": "assets/luoghi/museo-nazionale-del-bargello_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_5.webp",
+   "sha256": "bd01551ef45e86296e16f82cbfc51bf8fb1eb6b1eea96e849e2a6cf8408f9994",
+   "byte": 79166
   },
   {
    "path": "assets/luoghi/palazzo-pitti.webp",
@@ -3502,8 +3532,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "7c21e5d9c944044b4e4606a109e40f9bd658485a168b686b9c458c410be0b671",
-   "byte": 506
+   "sha256": "58a3ea0d60fa4805224fd68906d94d3c75133bfdbe8358c185b261293b2858cb",
+   "byte": 543
   },
   {
    "path": "dati/itinerari.json",
@@ -3514,8 +3544,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "3c63e586e16b223c7bc6642c300782ff1013b3e993f837c349e6d11da08ce993",
-   "byte": 192899
+   "sha256": "58228352f551bae17429bafa9d038435ab89da647b812afc6f341b23aad6a868",
+   "byte": 193642
   },
   {
    "path": "dati/mappa.json",
@@ -3579,12 +3609,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "24111c33427d",
-   "da": "1450439f76a9",
-   "data": "2026-11-23",
-   "byte": 653578
-  },
   {
    "versione": "1cda4aee96eb",
    "da": "24111c33427d",
@@ -3722,6 +3746,17 @@
    ],
    "foto_nuove": 1,
    "byte": 348863
+  },
+  {
+   "versione": "52f5ba762317",
+   "da": "32722b93d67e",
+   "data": "2026-11-24",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 871901
   }
  ]
 }
