@@ -19,63 +19,6 @@
     "es": "Un oratorio del siglo XV escondido entre las casas del barrio del Isolotto, querido por la familia Mannelli y consagrado en 1459. Custodia frescos atribuidos a Paolo Schiavo y un retablo de la Asunción de 1460 en el que la Virgen entrega su cinturón a Santo Tomás, una referencia a la Sagrada Cintura de Prato. Para visitarlo conviene contactar antes con la parroquia: los detalles están en la ficha del lugar."
    },
    "luogo_id": "santa-maria-alla-querce"
-  },
-  {
-   "id": "chiesa-di-san-salvatore-al-monte",
-   "titolo": {
-    "it": "San Salvatore al Monte: una chiesa nascosta sulla collina",
-    "en": "San Salvatore al Monte: a hidden church on the hill",
-    "fr": "San Salvatore al Monte : une église cachée sur la colline",
-    "de": "San Salvatore al Monte: eine versteckte Kirche auf dem Hügel",
-    "es": "San Salvatore al Monte: una iglesia escondida en la colina"
-   },
-   "sestiere": "Oltrarno",
-   "testo": {
-    "it": "Una chiesa sobria ricostruita tra il 1499 e il 1504 su progetto del Cronaca, lungo il percorso tra Piazzale Michelangelo e San Miniato al Monte. È legata alla presenza francescana sul Monte alle Croci. L'apertura interna non è garantita: i dettagli sono nella scheda del luogo.",
-    "en": "A sober church rebuilt between 1499 and 1504 to a design by Il Cronaca, along the route between Piazzale Michelangelo and San Miniato al Monte. It is linked to the Franciscan presence on Monte alle Croci. Opening inside is not guaranteed: details are on the place's page.",
-    "fr": "Une église sobre reconstruite entre 1499 et 1504 sur un projet du Cronaca, le long du parcours entre la Piazzale Michelangelo et San Miniato al Monte. Elle est liée à la présence franciscaine sur le Monte alle Croci. L'ouverture intérieure n'est pas garantie : les détails figurent dans la fiche du lieu.",
-    "de": "Eine schlichte Kirche, zwischen 1499 und 1504 nach einem Entwurf von Il Cronaca wiedererrichtet, am Weg zwischen der Piazzale Michelangelo und San Miniato al Monte. Sie ist mit der franziskanischen Präsenz auf dem Monte alle Croci verbunden. Die Öffnung des Innenraums ist nicht garantiert: Einzelheiten finden Sie in der Ortsbeschreibung.",
-    "es": "Una iglesia sobria reconstruida entre 1499 y 1504 según proyecto del Cronaca, en el camino entre la Piazzale Michelangelo y San Miniato al Monte. Está ligada a la presencia franciscana en el Monte alle Croci. La apertura del interior no está garantizada: los detalles están en la ficha del lugar."
-   },
-   "luogo_id": "chiesa-di-san-salvatore-al-monte"
-  },
-  {
-   "id": "partir-la-valigia-di-folon",
-   "titolo": {
-    "it": "Partir: la valigia di Folon",
-    "en": "Partir: Folon's suitcase",
-    "fr": "Partir : la valise de Folon",
-    "de": "Partir: Folons Koffer",
-    "es": "Partir: la maleta de Folon"
-   },
-   "sestiere": "Oltrarno",
-   "testo": {
-    "it": "Una grande valigia aperta, opera dell'artista belga Jean-Michel Folon, nascosta nel Giardino delle Rose. Guardando attraverso la sua apertura, il panorama di Firenze diventa un'immagine da portare con sé. Fa parte del gruppo di sculture donate alla città e installate nel 2011: la scheda del luogo spiega come visitarla.",
-    "en": "A large open suitcase by the Belgian artist Jean-Michel Folon, hidden in the Rose Garden. Looking through its opening, the panorama of Florence becomes an image to take with you. It belongs to the group of sculptures donated to the city and installed in 2011: the place's page explains how to visit it.",
-    "fr": "Une grande valise ouverte, œuvre de l'artiste belge Jean-Michel Folon, cachée dans le Jardin des Roses. En regardant par son ouverture, le panorama de Florence devient une image à emporter avec soi. Elle fait partie du groupe de sculptures données à la ville et installées en 2011 : la fiche du lieu explique comment la visiter.",
-    "de": "Ein großer offener Koffer des belgischen Künstlers Jean-Michel Folon, versteckt im Rosengarten. Wenn Sie durch seine Öffnung blicken, wird das Panorama von Florenz zu einem Bild, das Sie mitnehmen können. Er gehört zu den Skulpturen, die der Stadt geschenkt und 2011 aufgestellt wurden: Die Ortsbeschreibung erklärt, wie Sie ihn besuchen.",
-    "es": "Una gran maleta abierta, obra del artista belga Jean-Michel Folon, escondida en el Jardín de las Rosas. Al mirar por su abertura, el panorama de Florencia se convierte en una imagen que llevarte contigo. Forma parte del grupo de esculturas donadas a la ciudad e instaladas en 2011: la ficha del lugar explica cómo visitarla."
-   },
-   "luogo_id": "partir-la-valigia-di-folon"
-  },
-  {
-   "id": "giardino-delliris",
-   "titolo": {
-    "it": "Il Giardino dell'Iris: il fiore simbolo di Firenze",
-    "en": "The Iris Garden: the flower that symbolises Florence",
-    "fr": "Le Jardin de l'Iris : la fleur emblème de Florence",
-    "de": "Der Iris-Garten: die Blume als Wahrzeichen von Florenz",
-    "es": "El Jardín del Iris: la flor símbolo de Florencia"
-   },
-   "sestiere": "Oltrarno",
-   "testo": {
-    "it": "Un giardino botanico di due ettari e mezzo sulla collina di Piazzale Michelangelo, dedicato all'iris, il fiore da cui deriva il giglio dello stemma cittadino. Inaugurato nel 1957, si visita in primavera: l'apertura è stagionale, quindi controlla le date nella scheda del luogo.",
-    "en": "A two-and-a-half-hectare botanical garden on the Piazzale Michelangelo hill, devoted to the iris, the flower behind the lily on the city's coat of arms. Opened in 1957, it can be visited in spring: opening is seasonal, so check the dates on the place's page.",
-    "fr": "Un jardin botanique de deux hectares et demi sur la colline de la Piazzale Michelangelo, consacré à l'iris, la fleur dont dérive le lys des armoiries de la ville. Inauguré en 1957, il se visite au printemps : l'ouverture est saisonnière, vérifiez donc les dates dans la fiche du lieu.",
-    "de": "Ein botanischer Garten von zweieinhalb Hektar auf dem Hügel der Piazzale Michelangelo, der der Iris gewidmet ist, der Blume, auf die die Lilie im Stadtwappen zurückgeht. Er wurde 1957 eröffnet und ist im Frühling zu besichtigen: Die Öffnung ist saisonal, prüfen Sie also die Termine in der Ortsbeschreibung.",
-    "es": "Un jardín botánico de dos hectáreas y media en la colina de la Piazzale Michelangelo, dedicado al iris, la flor de la que deriva el lirio del escudo de la ciudad. Inaugurado en 1957, se visita en primavera: la apertura es estacional, así que consulta las fechas en la ficha del lugar."
-   },
-   "luogo_id": "giardino-delliris"
   }
  ]
 }
