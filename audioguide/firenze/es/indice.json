@@ -1,5 +1,5 @@
 {
- "versione": "6bac33793adc",
+ "versione": "8124433df53d",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -356,6 +356,21 @@
      "secondi": 197,
      "sha256": "ef8965fe1599a8fc16dac51a62b68592df9de30bcf37ce32a4346f0cc8fa526b",
      "testo": "225625e8ff39bdf9"
+    }
+   ]
+  },
+  "santa-maria-alla-querce": {
+   "byte": 2438540,
+   "secondi": 406,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "santa-maria-alla-querce.mp3",
+     "byte": 2438540,
+     "secondi": 406,
+     "sha256": "37f06a55ede8151d2d94834e3de9b529ff9f24fd9187b01b74056b6284607c14",
+     "testo": "46efd63e38d243cb"
     }
    ]
   },
