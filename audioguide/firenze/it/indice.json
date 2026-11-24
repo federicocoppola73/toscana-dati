@@ -1,5 +1,5 @@
 {
- "versione": "b77db7199d14",
+ "versione": "0396e1f9f527",
  "voce": "it-IT-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -329,6 +329,21 @@
     }
    ]
   },
+  "piazzale-michelangelo": {
+   "byte": 2881772,
+   "secondi": 480,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "piazzale-michelangelo.mp3",
+     "byte": 2881772,
+     "secondi": 480,
+     "sha256": "5c19fa9a2c64410219e45bd966e5b69749b62d4c0d3c5f525325fc80424da06a",
+     "testo": "7bfe8081b149aa33"
+    }
+   ]
+  },
   "ponte-vecchio": {
    "byte": 1206188,
    "secondi": 201,
@@ -450,17 +465,17 @@
    ]
   },
   "viale-dei-colli": {
-   "byte": 1641932,
-   "secondi": 274,
+   "byte": 1099484,
+   "secondi": 183,
    "tracce": [
     {
      "id": null,
      "titolo": null,
      "file": "viale-dei-colli.mp3",
-     "byte": 1641932,
-     "secondi": 274,
-     "sha256": "e187c51f374ad5a4ff239861f37a138ece2fefe0fd91edcf043022492d981731",
-     "testo": "9c13db78c86be4b5"
+     "byte": 1099484,
+     "secondi": 183,
+     "sha256": "b1dc5331760e79988afefc6bbd6397a3fc433f8201d315a2986c8968a08dccf5",
+     "testo": "ec9d7d82a3b9ed03"
     }
    ]
   }
