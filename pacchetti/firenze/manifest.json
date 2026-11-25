@@ -1,5 +1,5 @@
 {
- "versione": "4044d4ba2756",
+ "versione": "fd6ddc1a16c6",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -774,6 +774,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-archeologico-nazionale-di-firenze_5.webp",
    "sha256": "64ea73cacbd06025480ae1d4fca17d9e1946e33827cfd67b5f76cfa999990464",
    "byte": 407340
+  },
+  {
+   "path": "assets/luoghi/museo-de-medici.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-de-medici.webp",
+   "sha256": "338107bc4225ca512a3e92d437b393e54d7d3aa18aae02b69205cc64c7e4c42b",
+   "byte": 181134
+  },
+  {
+   "path": "assets/luoghi/museo-de-medici_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-de-medici_2.webp",
+   "sha256": "d2889f9b8cf76273478d04e4e35b88a76031c3b3279ae07f196aa5405d7961c7",
+   "byte": 66958
+  },
+  {
+   "path": "assets/luoghi/museo-de-medici_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-de-medici_3.webp",
+   "sha256": "fbf3d69825591fea64a6ef126e9a44bad1e7b8c5c749da17f7fb3c36f138f152",
+   "byte": 124100
+  },
+  {
+   "path": "assets/luoghi/museo-de-medici_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-de-medici_4.webp",
+   "sha256": "632ef0700511b43d4719c51310e1d27f03f653a32a99485a4c9555fda55daeca",
+   "byte": 161102
   },
   {
    "path": "assets/luoghi/museo-delle-cappelle-medicee.webp",
@@ -5404,8 +5428,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "767b7dfe4381d96ee6390a00585ed64d13ac2da0c872b66d2b6531cec28d580a",
-   "byte": 1899
+   "sha256": "4c27ca33aaf26d8dbe6ac775585438eaa5fdea808f91fc8480e719232d79e7aa",
+   "byte": 1923
   },
   {
    "path": "dati/itinerari.json",
@@ -5416,8 +5440,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "dd3b9d7769987eba2e6716e54c28757f35189e8862bb6886b1c3f343c59ed62b",
-   "byte": 1134775
+   "sha256": "ad06b24be4fd5fd9a00e9f4c9ebd7409618fd4854bf6fcc9433bfb04794a1594",
+   "byte": 1161692
   },
   {
    "path": "dati/mappa.json",
@@ -5481,16 +5505,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "3148fbf15880",
-   "da": "4183d017724b",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Ospedale degli Innocenti"
-   ],
-   "foto_nuove": 5,
-   "byte": 1271304
-  },
   {
    "versione": "4640266b4e51",
    "da": "3148fbf15880",
@@ -5680,6 +5694,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1541936
+  },
+  {
+   "versione": "fd6ddc1a16c6",
+   "da": "4044d4ba2756",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Museo de' Medici"
+   ],
+   "foto_nuove": 4,
+   "byte": 1696909
   }
  ]
 }
