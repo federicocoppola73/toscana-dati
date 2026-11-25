@@ -1,5 +1,5 @@
 {
- "versione": "7431b2d23040",
+ "versione": "5407d969fae4",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -912,6 +912,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-horne_3.webp",
    "sha256": "fe91191ce5505dbff90f5aa3f3e2ab85e76138f4aa0c8c14c39ed4ff3b5def60",
    "byte": 129576
+  },
+  {
+   "path": "assets/luoghi/museo-marino-marini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-marino-marini.webp",
+   "sha256": "d0beadac794dec4e32c5f9e780c1a6ee07bda12586abd453c2e439d6cb6a77ad",
+   "byte": 88712
+  },
+  {
+   "path": "assets/luoghi/museo-marino-marini_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-marino-marini_2.webp",
+   "sha256": "584fa021e36f203e6e5a10d20013e67fa2744066f8d21aeaa9f82b7502cc3cb8",
+   "byte": 215318
+  },
+  {
+   "path": "assets/luoghi/museo-marino-marini_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-marino-marini_3.webp",
+   "sha256": "54693fe54ebdfefd73d057c805a8575fe8376b68a11503288087b8350985650e",
+   "byte": 32292
+  },
+  {
+   "path": "assets/luoghi/museo-marino-marini_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-marino-marini_4.webp",
+   "sha256": "c15d1ec17a5989f2c2a67db4ee3763e6b1ae91d2fdef8b138dc1c679a7fe5617",
+   "byte": 20962
+  },
+  {
+   "path": "assets/luoghi/museo-marino-marini_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-marino-marini_5.webp",
+   "sha256": "b5f7c596d8e63cedfe99c6b816e5908496e4e8ac7a0616736761118a3939117b",
+   "byte": 30798
   },
   {
    "path": "assets/luoghi/museo-nazionale-del-bargello.webp",
@@ -5326,8 +5356,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "e40b4a0f2a2eed22ec10b939ddac681c92a7ea4b43f87e179483bd464710d575",
-   "byte": 1804
+   "sha256": "428235bf36c8be82a839f8369df7518840281773e4e30987cf236013127b8ca4",
+   "byte": 1832
   },
   {
    "path": "dati/itinerari.json",
@@ -5338,8 +5368,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "efe4b501157ecb3aafe15279712fe8c8fba58496b8329f7c4aab1ad3d52edeb5",
-   "byte": 1049447
+   "sha256": "15d7096e953c085ac962380d7857c5619299b5fcec7f50ecd6155bfc8cb0ed2f",
+   "byte": 1078272
   },
   {
    "path": "dati/mappa.json",
@@ -5403,16 +5433,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "cb3098784719",
-   "da": "4c510d1bfb78",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Villa e Giardino Bardini"
-   ],
-   "foto_nuove": 5,
-   "byte": 1213319
-  },
   {
    "versione": "76036ae1d939",
    "da": "cb3098784719",
@@ -5599,6 +5619,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1646237
+  },
+  {
+   "versione": "5407d969fae4",
+   "da": "7431b2d23040",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Museo Marino Marini"
+   ],
+   "foto_nuove": 5,
+   "byte": 1468186
   }
  ]
 }
