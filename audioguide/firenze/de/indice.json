@@ -1,5 +1,5 @@
 {
- "versione": "845731aee55a",
+ "versione": "408097dafb40",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -506,6 +506,21 @@
      "secondi": 214,
      "sha256": "fad2e8f71ff42acedd5df35e808f47a3fc33b844fd926e7f7e596c4d82d3ecde",
      "testo": "a88ed98b291e11c0"
+    }
+   ]
+  },
+  "palazzo-davanzati": {
+   "byte": 957644,
+   "secondi": 160,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "palazzo-davanzati.mp3",
+     "byte": 957644,
+     "secondi": 160,
+     "sha256": "47ede3ddd5d8a0ae57baea8eee8d7bfc7926b1db267bdc443ec777cfbb56d5c9",
+     "testo": "5385107dbafe8263"
     }
    ]
   },
