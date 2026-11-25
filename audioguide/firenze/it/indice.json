@@ -1,5 +1,5 @@
 {
- "versione": "b005fcc3d172",
+ "versione": "c0484778d755",
  "voce": "it-IT-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -551,6 +551,21 @@
      "secondi": 136,
      "sha256": "ab762825b0b10bb5f611c93f61bc4d0aeea3f878df002c7b31acd549b5f3a719",
      "testo": "ef1a2583506b2799"
+    }
+   ]
+  },
+  "museo-novecento": {
+   "byte": 1967516,
+   "secondi": 328,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "museo-novecento.mp3",
+     "byte": 1967516,
+     "secondi": 328,
+     "sha256": "200e89063ab2763f79512df043a883967b14ff5a10c8795b996a572d96ddc987",
+     "testo": "8d5997964b1e8837"
     }
    ]
   },
