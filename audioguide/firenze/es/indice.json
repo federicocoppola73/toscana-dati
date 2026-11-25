@@ -1,5 +1,5 @@
 {
- "versione": "5152feeceab5",
+ "versione": "4fb20bebfc5a",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -551,6 +551,21 @@
      "secondi": 132,
      "sha256": "b3aa463fc2388ed486f7a15b223e6f8e22fe7f31ad21b874e4e99bbc15608ceb",
      "testo": "44be80ef9bd2bf16"
+    }
+   ]
+  },
+  "museo-stibbert": {
+   "byte": 1497788,
+   "secondi": 250,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "museo-stibbert.mp3",
+     "byte": 1497788,
+     "secondi": 250,
+     "sha256": "7f7e5928e620ccd8f93f87c5852216d42bdf8631c21971db5ebea7bdcac9716c",
+     "testo": "534a24494a59f8fe"
     }
    ]
   },
