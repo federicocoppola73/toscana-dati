@@ -1,5 +1,5 @@
 {
- "versione": "56080fd9c666",
+ "versione": "d5d6e90d326c",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -342,6 +342,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore_5.webp",
    "sha256": "02f8995233c5e6baa21fd5b61bb5d7a108bd0acfd05dc6c44197a93023faa2a1",
    "byte": 308624
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi.webp",
+   "sha256": "4c52330181e95d034eb423685e9ee0bccbcd45c790a1926797604b3616cd3cb1",
+   "byte": 48714
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_2.webp",
+   "sha256": "5fb95d2cc1d0e01780630b0389105ff854bdec09fe77eb5a724adf265772bba2",
+   "byte": 43830
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_3.webp",
+   "sha256": "8e06045bbe06048dcdd7e6494e999395ad54735ff433fcc44192ad79ff2b899f",
+   "byte": 72300
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_4.webp",
+   "sha256": "de00782b478344762b77ab1c73be8aa5602e9515044d30cb014a4cea01d8f684",
+   "byte": 44720
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_5.webp",
+   "sha256": "81fe5570afb15063246d4a774e46920e30092515d7ef1d8efa8ab0f74a2f1062",
+   "byte": 151106
   },
   {
    "path": "assets/luoghi/cenacolo-di-sant-apollonia.webp",
@@ -5188,8 +5218,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "87c9ccef692285163727327b34881e5616d2a907d1e4363fba5b39d2470f701b",
-   "byte": 1660
+   "sha256": "e53513040989ad5b84a31d692f174d879ba6a42e794536b5350a647056406280",
+   "byte": 1709
   },
   {
    "path": "dati/itinerari.json",
@@ -5200,8 +5230,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "1ad28d78a18c15cf47b4d1d954a7447ce2e4f92c1af52990f142761deb935fba",
-   "byte": 926028
+   "sha256": "8787c4492805a179c1120882561a98f9744f3a157db9466877b1fd66557feb5a",
+   "byte": 949700
   },
   {
    "path": "dati/mappa.json",
@@ -5265,16 +5295,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "65ddf15655c7",
-   "da": "5624b9415fb7",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Cappella Brancacci"
-   ],
-   "foto_nuove": 5,
-   "byte": 1958294
-  },
   {
    "versione": "77dd76018bab",
    "da": "65ddf15655c7",
@@ -5459,6 +5479,16 @@
    ],
    "foto_nuove": 3,
    "byte": 2061012
+  },
+  {
+   "versione": "d5d6e90d326c",
+   "da": "56080fd9c666",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Cenacolo di Andrea del Sarto a San Salvi"
+   ],
+   "foto_nuove": 5,
+   "byte": 1312079
   }
  ]
 }
