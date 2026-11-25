@@ -1,5 +1,5 @@
 {
- "versione": "56c6156baa04",
+ "versione": "3be555747c42",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -569,6 +569,21 @@
      "secondi": 115,
      "sha256": "6720c9924e1a44de99042c5aecffc093a5535992ccde34f5ca16f5afe8ead047",
      "testo": "3d78a99d8380c27f"
+    }
+   ]
+  },
+  "piazza-della-santissima-annunziata": {
+   "byte": 1423196,
+   "secondi": 237,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "piazza-della-santissima-annunziata.mp3",
+     "byte": 1423196,
+     "secondi": 237,
+     "sha256": "1dd46216b4ef9d3ef3bf6cf2076d6ba01a89af913d0246a3c32c0e141bc5a82f",
+     "testo": "25d0ac7a36bf6503"
     }
    ]
   },
