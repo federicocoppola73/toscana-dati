@@ -6063,29 +6063,22 @@
     "es": "Casa Buonarroti"
    },
    "accessibilita": {
-    "fonte": "https://maf.cultura.gov.it/",
+    "fonte": "https://www.casabuonarroti.it/",
     "verificato": "2026-11-25",
     "voci": {
      "motoria": {
-      "it": "Il museo prevede l'accesso con la sedia a rotelle: per organizzare l'ingresso, rivolgiti alla biglietteria e segnala prima le tue esigenze. Sono disponibili sedie a rotelle e servizi igienici accessibili.",
-      "en": "The museum provides wheelchair access: to arrange your entry, contact the ticket office and let them know your needs in advance. Wheelchairs and accessible toilets are available.",
-      "fr": "Le musée prévoit l'accès en fauteuil roulant : pour organiser votre entrée, adressez-vous à la billetterie et signalez vos besoins à l'avance. Des fauteuils roulants et des toilettes accessibles sont à votre disposition.",
-      "de": "Das Museum bietet Zugang mit dem Rollstuhl: Um Ihren Besuch zu organisieren, wenden Sie sich an die Kasse und teilen Sie Ihre Bedürfnisse vorab mit. Rollstühle und barrierefreie Toiletten stehen zur Verfügung.",
-      "es": "El museo prevé el acceso en silla de ruedas: para organizar la entrada, dirígete a la taquilla y comunica antes tus necesidades. Hay sillas de ruedas y aseos accesibles a tu disposición."
+      "it": "Il museo è parzialmente accessibile. Il piano terreno, usato anche per le mostre, è accessibile. Il museo mette a disposizione una carrozzina specifica per il trasferimento al piano superiore, quando possibile: chiedi al personale.",
+      "en": "The museum is partly accessible. The ground floor, also used for exhibitions, is accessible. The museum provides a special wheelchair for the transfer to the upper floor, when possible: ask the staff.",
+      "fr": "Le musée est partiellement accessible. Le rez-de-chaussée, utilisé aussi pour les expositions, est accessible. Le musée met à disposition un fauteuil spécifique pour le transfert à l'étage, quand c'est possible : demandez au personnel.",
+      "de": "Das Museum ist teilweise zugänglich. Das Erdgeschoss, das auch für Ausstellungen genutzt wird, ist zugänglich. Für den Transfer ins Obergeschoss stellt das Museum, wenn möglich, einen speziellen Rollstuhl bereit: Fragen Sie das Personal.",
+      "es": "El museo es parcialmente accesible. La planta baja, utilizada también para exposiciones, es accesible. El museo pone a disposición una silla específica para el traslado a la planta superior, cuando es posible: pregunta al personal."
      },
      "ascensore": {
-      "it": "Ascensori interni portano ai piani superiori e ai servizi.",
-      "en": "Internal lifts reach the upper floors and the facilities.",
-      "fr": "Des ascenseurs intérieurs desservent les étages supérieurs et les services.",
-      "de": "Innenaufzüge führen zu den oberen Stockwerken und zu den Einrichtungen.",
-      "es": "Ascensores interiores llevan a las plantas superiores y a los servicios."
-     },
-     "tattile": {
-      "it": "Il museo organizza iniziative di visita tattile per persone non vedenti e ipovedenti.",
-      "en": "The museum runs tactile visit initiatives for blind and partially sighted people.",
-      "fr": "Le musée organise des initiatives de visite tactile pour les personnes aveugles et malvoyantes.",
-      "de": "Das Museum organisiert taktile Besuchsangebote für blinde und sehbehinderte Menschen.",
-      "es": "El museo organiza iniciativas de visita táctil para personas ciegas y con baja visión."
+      "it": "L'ascensore che porta al piano superiore è adatto soltanto a sedie a rotelle di dimensioni ridotte. Al piano terreno una postazione multimediale permette di visitare virtualmente il piano superiore.",
+      "en": "The lift to the upper floor suits only small-sized wheelchairs. On the ground floor a multimedia station lets you visit the upper floor virtually.",
+      "fr": "L'ascenseur qui mène à l'étage convient uniquement aux fauteuils roulants de petites dimensions. Au rez-de-chaussée, un poste multimédia permet de visiter virtuellement l'étage.",
+      "de": "Der Aufzug ins Obergeschoss eignet sich nur für Rollstühle mit geringen Abmessungen. Im Erdgeschoss ermöglicht eine Multimedia-Station den virtuellen Besuch des Obergeschosses.",
+      "es": "El ascensor que lleva a la planta superior solo es apto para sillas de ruedas de dimensiones reducidas. En la planta baja, un puesto multimedia permite visitar virtualmente la planta superior."
      }
     }
    },
