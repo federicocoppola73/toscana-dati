@@ -1,5 +1,5 @@
 {
- "versione": "c825eaaccccf",
+ "versione": "267295cb8b75",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -894,6 +894,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-galileo_5.webp",
    "sha256": "b96827bbcedc257a5c7789b7dd6db5375a3ff3ef036a93f459de9fc868765d48",
    "byte": 68582
+  },
+  {
+   "path": "assets/luoghi/museo-horne.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-horne.webp",
+   "sha256": "737e3ae594f1499cdf7b06753dcfa0586737714f70281203594fc728cb42daef",
+   "byte": 120908
+  },
+  {
+   "path": "assets/luoghi/museo-horne_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-horne_2.webp",
+   "sha256": "3caf492483e255f1aa4efbd47223b9941790091061b2d0600a4cdcbca03507a9",
+   "byte": 139584
+  },
+  {
+   "path": "assets/luoghi/museo-horne_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-horne_3.webp",
+   "sha256": "fe91191ce5505dbff90f5aa3f3e2ab85e76138f4aa0c8c14c39ed4ff3b5def60",
+   "byte": 129576
   },
   {
    "path": "assets/luoghi/museo-nazionale-del-bargello.webp",
@@ -5248,8 +5266,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "9ba67baa9fc9cfac393a65de7bd5d320d77cec0811b09fd5a04e5b51f5016b94",
-   "byte": 1737
+   "sha256": "954a2dfae987950fad025cfac601a42951a259b0832238d427bc29644a30e1e8",
+   "byte": 1757
   },
   {
    "path": "dati/itinerari.json",
@@ -5260,8 +5278,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "507cf8ec65131a53c308270654498820426987c68e977eee36f964a91f60ec11",
-   "byte": 972509
+   "sha256": "1be8d465384b8a05c0d43db0cc58f7648aa7089c5dfea09feb4a4a6ec0709d32",
+   "byte": 994144
   },
   {
    "path": "dati/mappa.json",
@@ -5325,17 +5343,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "038866dd7d2b",
-   "da": "77dd76018bab",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "altro"
-   ],
-   "mappa": true,
-   "byte": 8712574
-  },
   {
    "versione": "b0eb4aeb4a04",
    "da": "038866dd7d2b",
@@ -5519,6 +5526,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1565346
+  },
+  {
+   "versione": "267295cb8b75",
+   "da": "c825eaaccccf",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Museo Horne"
+   ],
+   "foto_nuove": 3,
+   "byte": 1385969
   }
  ]
 }
