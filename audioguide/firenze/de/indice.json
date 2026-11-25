@@ -1,5 +1,5 @@
 {
- "versione": "9f2adb31990e",
+ "versione": "e474ed4f2766",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -527,6 +527,21 @@
      "secondi": 134,
      "sha256": "0ec8cb2c79ac160eb20e1a007a24f30398e95e875e267078727dac8848b22655",
      "testo": "52c06edd539ffe0a"
+    }
+   ]
+  },
+  "museo-marino-marini": {
+   "byte": 1958588,
+   "secondi": 326,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "museo-marino-marini.mp3",
+     "byte": 1958588,
+     "secondi": 326,
+     "sha256": "59c31057b0567791c56dbdb187b8647ee91423159dceca0f08273a86b54d81d8",
+     "testo": "3037244957d105c3"
     }
    ]
   },
