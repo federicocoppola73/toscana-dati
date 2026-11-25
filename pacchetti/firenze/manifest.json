@@ -1,5 +1,5 @@
 {
- "versione": "cb3098784719",
+ "versione": "76036ae1d939",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -792,6 +792,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-pitti_5.webp",
    "sha256": "0daea1344b77be91e29289229bb8fe6cffdc63100159921b47271071c432a46a",
    "byte": 158454
+  },
+  {
+   "path": "assets/luoghi/palazzo-strozzi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-strozzi.webp",
+   "sha256": "8102acb2ccc6b30cc3da1d17fb5050da8381f786176c1fb48fdff36c586001b2",
+   "byte": 153314
+  },
+  {
+   "path": "assets/luoghi/palazzo-strozzi_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-strozzi_2.webp",
+   "sha256": "6b15dfd2a2c1c02803bcb7e71e3cfbc2646a07fbe6200b52c805e14870a05f87",
+   "byte": 83268
+  },
+  {
+   "path": "assets/luoghi/palazzo-strozzi_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-strozzi_3.webp",
+   "sha256": "a919cc0c2da820eaf387ccb2a3c2c4f8e59f6a5a33d972b17d2ff2b6a98cae36",
+   "byte": 312618
+  },
+  {
+   "path": "assets/luoghi/palazzo-strozzi_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-strozzi_4.webp",
+   "sha256": "1b125c5b5dc17a1ba10c2fc997dca09dff283485fbe290a05d96c2ea250a6f72",
+   "byte": 96866
+  },
+  {
+   "path": "assets/luoghi/palazzo-strozzi_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-strozzi_5.webp",
+   "sha256": "ae3076065809f81ebf7d054269004a3af45c92fc3c2414f66c8aa37c0f5c55ec",
+   "byte": 68800
   },
   {
    "path": "assets/luoghi/palazzo-vecchio.webp",
@@ -4888,8 +4918,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "322af03be104641dd99d4fc6997844bdf484ea41a1a796a0a48a59358d868f3f",
-   "byte": 1289
+   "sha256": "361bc9ac8d3e25b8081b2e5b0fab5423fed7055c53032770f47431b82e62029c",
+   "byte": 1313
   },
   {
    "path": "dati/itinerari.json",
@@ -4900,8 +4930,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "6896031c5dbadbb90d1b1c67c9d2c380a7fcfade821cf7f3f75733edb458d544",
-   "byte": 593184
+   "sha256": "36067173ebe4a19e0ea8bbfb3fbd556609106cc8a48f08e13d814384fb8282b7",
+   "byte": 622896
   },
   {
    "path": "dati/mappa.json",
@@ -4965,17 +4995,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "c2a9b7357f74",
-   "da": "35b74c9b8afa",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 2,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 9,
-   "byte": 1927952
-  },
   {
    "versione": "31cd4643b408",
    "da": "c2a9b7357f74",
@@ -5172,6 +5191,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1213319
+  },
+  {
+   "versione": "76036ae1d939",
+   "da": "cb3098784719",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Palazzo Strozzi"
+   ],
+   "foto_nuove": 5,
+   "byte": 1339075
   }
  ]
 }
