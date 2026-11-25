@@ -1,5 +1,5 @@
 {
- "versione": "ebb8daae9871",
+ "versione": "b4a6cbbe555b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -660,6 +660,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/isolotto_5.webp",
    "sha256": "b52da16141cf626f609876794d50cb9f952435ea9110ad3706b82877e69cc184",
    "byte": 62260
+  },
+  {
+   "path": "assets/luoghi/la-specola.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/la-specola.webp",
+   "sha256": "3933648c23d2e0df37626d47195e894dc27051f509d18f03a892c3a44c61b3cc",
+   "byte": 221922
+  },
+  {
+   "path": "assets/luoghi/la-specola_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/la-specola_2.webp",
+   "sha256": "0ed1b7c4ffb7b666f4904271d295bdf37b2689544589accfdd86d14adb9b2b7d",
+   "byte": 72384
+  },
+  {
+   "path": "assets/luoghi/la-specola_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/la-specola_3.webp",
+   "sha256": "a282a06315b1dbf094baa28dc36a0f09bbccad0595f1056df8abf8ad8d2f12bb",
+   "byte": 130928
+  },
+  {
+   "path": "assets/luoghi/la-specola_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/la-specola_4.webp",
+   "sha256": "ae0c1570fe67cc3c165b015e70ce9c7f9925c919ca15fd57ccdadd451d9b4e4c",
+   "byte": 183540
   },
   {
    "path": "assets/luoghi/museo-archeologico-nazionale-di-firenze.webp",
@@ -5146,8 +5170,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "df30cef9dee5b81e7bbbfe5c3350cf18011ea1249c1b5d1ba542334763ebb5e0",
-   "byte": 1597
+   "sha256": "15e25ef54fd72e320a2bef4ccdf697dd859525ba12e323189015e98300274524",
+   "byte": 1616
   },
   {
    "path": "dati/itinerari.json",
@@ -5158,8 +5182,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "63cca85a02f179d0442d978b20ac67a02d523337ab45a7c011365c19b3bcdc8b",
-   "byte": 873612
+   "sha256": "32a4cf716ecfb0bd05f43b9fd38e90c58600cdef23fe6f0fc76b96cd762a2b61",
+   "byte": 901070
   },
   {
    "path": "dati/mappa.json",
@@ -5223,16 +5247,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "413f62a22852",
-   "da": "34f73f33d2d8",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Museo delle Cappelle Medicee"
-   ],
-   "foto_nuove": 5,
-   "byte": 2227648
-  },
   {
    "versione": "5624b9415fb7",
    "da": "413f62a22852",
@@ -5417,6 +5431,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1385435
+  },
+  {
+   "versione": "b4a6cbbe555b",
+   "da": "ebb8daae9871",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "La Specola – Museo di Storia Naturale"
+   ],
+   "foto_nuove": 4,
+   "byte": 1511460
   }
  ]
 }
