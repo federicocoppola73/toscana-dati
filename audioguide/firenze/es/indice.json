@@ -1,5 +1,5 @@
 {
- "versione": "3d69ff490ef1",
+ "versione": "b7716816c80a",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -506,6 +506,21 @@
      "secondi": 132,
      "sha256": "b3aa463fc2388ed486f7a15b223e6f8e22fe7f31ad21b874e4e99bbc15608ceb",
      "testo": "44be80ef9bd2bf16"
+    }
+   ]
+  },
+  "orto-botanico-giardino-dei-semplici": {
+   "byte": 847484,
+   "secondi": 141,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "orto-botanico-giardino-dei-semplici.mp3",
+     "byte": 847484,
+     "secondi": 141,
+     "sha256": "ee64cea17199e9dae315687c2d2c3937212958f6fcaa538d60884504d7a8b57b",
+     "testo": "8f46fe70911441ba"
     }
    ]
   },
