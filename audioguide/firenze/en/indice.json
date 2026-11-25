@@ -1,5 +1,5 @@
 {
- "versione": "affd95460768",
+ "versione": "48bec26b2c05",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -143,6 +143,21 @@
      "secondi": 436,
      "sha256": "cd31b537938dd639f5201ed2b7164325bf4ec41f8002be9fba48743749e0926d",
      "testo": "20b2791e14cadc5e"
+    }
+   ]
+  },
+  "casa-buonarroti": {
+   "byte": 694412,
+   "secondi": 116,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "casa-buonarroti.mp3",
+     "byte": 694412,
+     "secondi": 116,
+     "sha256": "e872f1e19ff52bd5a2f08f9eaeddde800984d1fe239191e6ff647ddb835f3645",
+     "testo": "61d84b3f54a946ff"
     }
    ]
   },
