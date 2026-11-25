@@ -1,5 +1,5 @@
 {
- "versione": "3e2b055b0453",
+ "versione": "6db2c251650a",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -461,6 +461,21 @@
      "secondi": 246,
      "sha256": "60572a7044447ee050f27e8a653c652c6eb4982652619ff0ac5791291ac84e8c",
      "testo": "62317e222a98a6ae"
+    }
+   ]
+  },
+  "palazzo-budini-gattai": {
+   "byte": 1283948,
+   "secondi": 214,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "palazzo-budini-gattai.mp3",
+     "byte": 1283948,
+     "secondi": 214,
+     "sha256": "fad2e8f71ff42acedd5df35e808f47a3fc33b844fd926e7f7e596c4d82d3ecde",
+     "testo": "a88ed98b291e11c0"
     }
    ]
   },
