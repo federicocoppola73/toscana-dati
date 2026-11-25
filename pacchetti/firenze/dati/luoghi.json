@@ -2251,6 +2251,19 @@
    "sito": "https://www.visittuscany.com/it/attrazioni/il-giardino-delle-rose-di-firenze/",
    "wikipedia": {
     "en": "Giardino delle Rose"
+   },
+   "accessibilita": {
+    "fonte": "https://www.lanazione.it/cultura-e-spettacoli/giardino-delle-rose-un-podcast-innovativo-per-visitatori-ciechi-e-ipovedenti-20810f14",
+    "verificato": "2026-11-25",
+    "voci": {
+     "tattile": {
+      "it": "Un percorso sensoriale pensato per le persone cieche e ipovedenti accompagna la visita tra le rose e le sculture di Folon. Si ascolta con un podcast gratuito, a cui si accede all'ingresso tramite QR code. Il percorso è stato ideato con l'Unione Italiana Ciechi.",
+      "en": "A sensory route designed for blind and partially sighted visitors guides you among the roses and the Folon sculptures. You listen to it through a free podcast, reached at the entrance with a QR code. The route was devised with the Unione Italiana Ciechi.",
+      "fr": "Un parcours sensoriel conçu pour les personnes aveugles et malvoyantes accompagne la visite entre les roses et les sculptures de Folon. Il s'écoute grâce à un podcast gratuit, accessible à l'entrée avec un QR code. Le parcours a été imaginé avec l'Unione Italiana Ciechi.",
+      "de": "Ein sensorischer Rundgang für blinde und sehbehinderte Besucher begleitet Sie zwischen den Rosen und den Skulpturen von Folon. Sie hören ihn über einen kostenlosen Podcast, der am Eingang per QR-Code abrufbar ist. Der Rundgang wurde mit der Unione Italiana Ciechi entwickelt.",
+      "es": "Un recorrido sensorial pensado para personas ciegas y con baja visión acompaña la visita entre las rosas y las esculturas de Folon. Se escucha con un pódcast gratuito, al que se accede en la entrada mediante un código QR. El recorrido se ideó con la Unione Italiana Ciechi."
+     }
+    }
    }
   },
   {
@@ -2839,6 +2852,19 @@
     "fr": "Partir – la valise de Folon",
     "de": "Partir – Folons Koffer",
     "es": "Partir – la maleta de Folon"
+   },
+   "accessibilita": {
+    "fonte": "https://www.lanazione.it/cultura-e-spettacoli/giardino-delle-rose-un-podcast-innovativo-per-visitatori-ciechi-e-ipovedenti-20810f14",
+    "verificato": "2026-11-25",
+    "voci": {
+     "tattile": {
+      "it": "Un percorso sensoriale pensato per le persone cieche e ipovedenti accompagna la visita tra le rose e le sculture di Folon. Si ascolta con un podcast gratuito, a cui si accede all'ingresso tramite QR code. Il percorso è stato ideato con l'Unione Italiana Ciechi.",
+      "en": "A sensory route designed for blind and partially sighted visitors guides you among the roses and the Folon sculptures. You listen to it through a free podcast, reached at the entrance with a QR code. The route was devised with the Unione Italiana Ciechi.",
+      "fr": "Un parcours sensoriel conçu pour les personnes aveugles et malvoyantes accompagne la visite entre les roses et les sculptures de Folon. Il s'écoute grâce à un podcast gratuit, accessible à l'entrée avec un QR code. Le parcours a été imaginé avec l'Unione Italiana Ciechi.",
+      "de": "Ein sensorischer Rundgang für blinde und sehbehinderte Besucher begleitet Sie zwischen den Rosen und den Skulpturen von Folon. Sie hören ihn über einen kostenlosen Podcast, der am Eingang per QR-Code abrufbar ist. Der Rundgang wurde mit der Unione Italiana Ciechi entwickelt.",
+      "es": "Un recorrido sensorial pensado para personas ciegas y con baja visión acompaña la visita entre las rosas y las esculturas de Folon. Se escucha con un pódcast gratuito, al que se accede en la entrada mediante un código QR. El recorrido se ideó con la Unione Italiana Ciechi."
+     }
+    }
    }
   },
   {
@@ -4643,7 +4669,27 @@
      "licenza": "CC BY-SA 3.0",
      "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
     }
-   ]
+   ],
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/sites/default/files/2025-07/note%20sull'accessibilit%C3%A0%20ai%20musei%20fiorentini%20a%20luglio%2025%20ITA.pdf",
+    "verificato": "2026-11-25",
+    "voci": {
+     "motoria": {
+      "it": "Il percorso dal parcheggio all'ingresso pedonale ha una superficie uniforme, in piano o con pendenze minime. L'accesso è garantito anche a chi usa la carrozzina. Il primo spalto vicino all'ascensore è accessibile e offre una visione completa del panorama. La Palazzina Medicea ha i pavimenti complanari, senza ostacoli, e la sua terrazza è raggiungibile grazie a una rampa. Il complesso ha un bagno accessibile.",
+      "en": "The route from the parking area to the pedestrian entrance has an even surface, level or with very slight slopes. Access is guaranteed for wheelchair users too. The first rampart next to the lift is accessible and gives a full view of the panorama. The Palazzina Medicea has level floors with no obstacles, and its terrace is reached by a ramp. The complex has an accessible toilet.",
+      "fr": "Le parcours entre le parking et l'entrée piétonne a une surface uniforme, plate ou en très faible pente. L'accès est garanti aussi aux personnes en fauteuil roulant. Le premier rempart près de l'ascenseur est accessible et offre une vue complète sur le panorama. La Palazzina Medicea a des sols de plain-pied, sans obstacles, et sa terrasse est accessible par une rampe. Le site dispose de toilettes accessibles.",
+      "de": "Der Weg vom Parkplatz zum Fußgängereingang hat einen ebenen Belag, eben oder mit sehr geringer Steigung. Der Zugang ist auch für Rollstuhlfahrer gewährleistet. Der erste Wall neben dem Aufzug ist zugänglich und bietet einen vollständigen Blick auf das Panorama. Die Palazzina Medicea hat ebene Böden ohne Hindernisse, und ihre Terrasse ist über eine Rampe erreichbar. Die Anlage hat eine barrierefreie Toilette.",
+      "es": "El recorrido desde el aparcamiento hasta la entrada peatonal tiene una superficie uniforme, llana o con pendientes mínimas. El acceso está garantizado también para quienes usan silla de ruedas. El primer baluarte junto al ascensor es accesible y ofrece una vista completa del panorama. La Palazzina Medicea tiene suelos a un mismo nivel, sin obstáculos, y su terraza se alcanza por una rampa. El complejo tiene un aseo accesible."
+     },
+     "ascensore": {
+      "it": "Due ascensori collegano il livello della strada e della sosta al primo livello degli spalti, e da lì alla Palazzina Medicea, con accesso ai suoi due piani e alle terrazze. Gli ascensori sono collegati da percorsi in piano.",
+      "en": "Two lifts connect the street and parking level to the first level of the ramparts, and from there to the Palazzina Medicea, with access to both its floors and the terraces. The lifts are linked by level paths.",
+      "fr": "Deux ascenseurs relient le niveau de la rue et du stationnement au premier niveau des remparts, puis à la Palazzina Medicea, avec accès à ses deux étages et aux terrasses. Les ascenseurs sont reliés par des parcours de plain-pied.",
+      "de": "Zwei Aufzüge verbinden die Straßen- und Parkebene mit der ersten Ebene der Wälle und von dort mit der Palazzina Medicea, mit Zugang zu ihren zwei Stockwerken und den Terrassen. Die Aufzüge sind durch ebene Wege verbunden.",
+      "es": "Dos ascensores conectan el nivel de la calle y del aparcamiento con el primer nivel de los baluartes y, desde allí, con la Palazzina Medicea, con acceso a sus dos plantas y a las terrazas. Los ascensores están unidos por recorridos llanos."
+     }
+    }
+   }
   },
   {
    "id": "villa-e-giardino-bardini",
@@ -4898,7 +4944,20 @@
      "licenza": "CC BY-SA 4.0",
      "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
     }
-   ]
+   ],
+   "accessibilita": {
+    "fonte": "https://www.feelflorence.it/sites/default/files/2025-07/note%20sull'accessibilit%C3%A0%20ai%20musei%20fiorentini%20a%20luglio%2025%20ITA.pdf",
+    "verificato": "2026-11-25",
+    "voci": {
+     "motoria": {
+      "it": "La Villa è accessibile alle persone in carrozzina dal numero 4 di Costa San Giorgio: chiama o avvisa in anticipo la biglietteria per farti aprire il cancello. Il giardino si visita con un accompagnatore: il fondo, in terra e ghiaia, è scomodo e presenta vari dislivelli.",
+      "en": "The Villa is accessible to wheelchair users from number 4 Costa San Giorgio: call or tell the ticket office in advance so they can open the gate for you. The garden is best visited with a companion: the surface, earth and gravel, is uncomfortable and has several changes of level.",
+      "fr": "La Villa est accessible aux personnes en fauteuil roulant depuis le numéro 4 de la Costa San Giorgio : appelez ou prévenez la billetterie à l'avance pour qu'on vous ouvre le portail. Le jardin se visite avec un accompagnateur : le sol, en terre et gravier, est inconfortable et présente plusieurs dénivelés.",
+      "de": "Die Villa ist für Rollstuhlfahrer von der Costa San Giorgio Nr. 4 aus zugänglich: Rufen Sie vorab an oder informieren Sie die Kasse, damit man Ihnen das Tor öffnet. Der Garten wird mit Begleitperson besichtigt: Der Boden aus Erde und Kies ist unbequem und weist mehrere Höhenunterschiede auf.",
+      "es": "La Villa es accesible para quienes usan silla de ruedas desde el número 4 de Costa San Giorgio: llama o avisa con antelación a la taquilla para que te abran la verja. El jardín se visita con acompañante: el suelo, de tierra y grava, resulta incómodo y presenta varios desniveles."
+     }
+    }
+   }
   },
   {
    "id": "palazzo-strozzi",
