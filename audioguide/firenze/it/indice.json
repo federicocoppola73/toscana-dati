@@ -1,5 +1,5 @@
 {
- "versione": "5a1ee44c30ff",
+ "versione": "c54d8a1732c8",
  "voce": "it-IT-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -470,6 +470,21 @@
      "secondi": 223,
      "sha256": "a77c0cc4fd40668f62242288c2a6d0b382756960efbbb3b365eca532a2a40594",
      "testo": "7ee6ac47443c90ac"
+    }
+   ]
+  },
+  "palazzo-strozzi": {
+   "byte": 1540844,
+   "secondi": 257,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "palazzo-strozzi.mp3",
+     "byte": 1540844,
+     "secondi": 257,
+     "sha256": "da6e9dab738b9aa6e4823704a61c7d4549ef1b60522f47fd7945bea94b2496b9",
+     "testo": "5fba000391b97966"
     }
    ]
   },
