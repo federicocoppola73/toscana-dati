@@ -1,5 +1,5 @@
 {
- "versione": "e145594bb088",
+ "versione": "4b62f94a3fc8",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -197,6 +197,21 @@
      "secondi": 154,
      "sha256": "32b0e05698675e459be9dc97bb8ce2894b2017c5aa39a69d484ef9e70ae5f41f",
      "testo": "94622db4e0190732"
+    }
+   ]
+  },
+  "forte-belvedere": {
+   "byte": 1706732,
+   "secondi": 284,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "forte-belvedere.mp3",
+     "byte": 1706732,
+     "secondi": 284,
+     "sha256": "30d1c456497dfcb9816c2c794a8280a8daf89af7214a90f92c63c64fbb621b84",
+     "testo": "a213c45a22bc0c57"
     }
    ]
   },
