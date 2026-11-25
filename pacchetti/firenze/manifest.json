@@ -1,5 +1,5 @@
 {
- "versione": "4640266b4e51",
+ "versione": "097da795e5c5",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -948,6 +948,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/partir-la-valigia-di-folon_3.webp",
    "sha256": "af52544920197c2ed92138f8e7527edfa44f84d0d8eaaedc1192dc65251aab6e",
    "byte": 98796
+  },
+  {
+   "path": "assets/luoghi/piazza-della-santissima-annunziata.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-santissima-annunziata.webp",
+   "sha256": "c317cda70308889d59446c696b82680138e87028210e56381e1a519dedfe5f0c",
+   "byte": 39048
+  },
+  {
+   "path": "assets/luoghi/piazza-della-santissima-annunziata_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-santissima-annunziata_2.webp",
+   "sha256": "e69c452ba57ea3e9e8ccd87b7030e3072f6bfe9b741353ff44df5bab15503349",
+   "byte": 122872
+  },
+  {
+   "path": "assets/luoghi/piazza-della-santissima-annunziata_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-santissima-annunziata_3.webp",
+   "sha256": "34569f0aba083679fcf3ed08db31bf602668602eab0238335ac0380f3aeefff0",
+   "byte": 61658
+  },
+  {
+   "path": "assets/luoghi/piazza-della-santissima-annunziata_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-santissima-annunziata_4.webp",
+   "sha256": "c4e9232921fe33e84b2f188098c714ead79f766844ca934fb0cd3f3e37545a40",
+   "byte": 65280
+  },
+  {
+   "path": "assets/luoghi/piazza-della-santissima-annunziata_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-santissima-annunziata_5.webp",
+   "sha256": "6d0f392bb40cdbf58ac945d887be41d2e1d7e28c661420c91b5e0a9fefecb770",
+   "byte": 79292
   },
   {
    "path": "assets/luoghi/piazza-della-signoria.webp",
@@ -4978,8 +5008,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "c1198a56a09245d19caba732797e8919015158fdd4bb40738bcc4566d84b4cf6",
-   "byte": 1391
+   "sha256": "4cc03059470822f3163fc43a91b61061eb55b9c2fd4de05b93e3eabe90dbafbd",
+   "byte": 1434
   },
   {
    "path": "dati/itinerari.json",
@@ -4990,8 +5020,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "47d8e8b13a52f2c25fa0a90327d8b661ca547e31e97b23724501056af57976e0",
-   "byte": 687617
+   "sha256": "0947fa2f0a207de5a2df0e47fc7dd3cb5972a04daa85e671620bfaf04e41e8b7",
+   "byte": 719578
   },
   {
    "path": "dati/mappa.json",
@@ -5055,18 +5085,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "70eabde3fdb7",
-   "da": "0daf9d1ae07c",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 2,
-   "aspetti": [
-    "orari",
-    "descrizioni",
-    "accessibilita"
-   ],
-   "byte": 344935
-  },
   {
    "versione": "564863e55f86",
    "da": "70eabde3fdb7",
@@ -5256,6 +5274,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1255822
+  },
+  {
+   "versione": "097da795e5c5",
+   "da": "4640266b4e51",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Piazza della Santissima Annunziata"
+   ],
+   "foto_nuove": 5,
+   "byte": 1089162
   }
  ]
 }
