@@ -1,5 +1,5 @@
 {
- "versione": "a1be26bcbe61",
+ "versione": "aa677c66d7a0",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -182,6 +182,21 @@
      "secondi": 168,
      "sha256": "03121e308a277814be7730a1c16ace482d74d389f8ab837be28062b6e3dbd73d",
      "testo": "a2021e9eb38fff01"
+    }
+   ]
+  },
+  "cenacolo-di-andrea-del-sarto-a-san-salvi": {
+   "byte": 815372,
+   "secondi": 136,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "cenacolo-di-andrea-del-sarto-a-san-salvi.mp3",
+     "byte": 815372,
+     "secondi": 136,
+     "sha256": "5cd3e28f4c455d76dd9a8607362b1630ab483d14b023fa6d7de0f7beeb24b4c2",
+     "testo": "8969a2f3708f1ba2"
     }
    ]
   },
