@@ -1,5 +1,5 @@
 {
- "versione": "5f0dc64a3b3a",
+ "versione": "5a1ee44c30ff",
  "voce": "it-IT-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -749,6 +749,21 @@
      "secondi": 183,
      "sha256": "b1dc5331760e79988afefc6bbd6397a3fc433f8201d315a2986c8968a08dccf5",
      "testo": "ec9d7d82a3b9ed03"
+    }
+   ]
+  },
+  "villa-e-giardino-bardini": {
+   "byte": 2214332,
+   "secondi": 369,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "villa-e-giardino-bardini.mp3",
+     "byte": 2214332,
+     "secondi": 369,
+     "sha256": "adb7cbccfd4900487cf291df3c9bab69c82e9637acde9da3198d41c2596bed4f",
+     "testo": "f9abdb66f6f0e432"
     }
    ]
   }
