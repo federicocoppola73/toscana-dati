@@ -1,5 +1,5 @@
 {
- "versione": "b4a6cbbe555b",
+ "versione": "56080fd9c666",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -864,6 +864,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_5.webp",
    "sha256": "bd01551ef45e86296e16f82cbfc51bf8fb1eb6b1eea96e849e2a6cf8408f9994",
    "byte": 79166
+  },
+  {
+   "path": "assets/luoghi/orto-botanico-giardino-dei-semplici.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/orto-botanico-giardino-dei-semplici.webp",
+   "sha256": "f344d291633a6c42a31acd5619d6728ccf82980564002d852166a6ecf30b242a",
+   "byte": 345806
+  },
+  {
+   "path": "assets/luoghi/orto-botanico-giardino-dei-semplici_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/orto-botanico-giardino-dei-semplici_2.webp",
+   "sha256": "be8f0acf69af19153a9a210407655952ff2d929e367ebfe87e41cf8b9a3bb693",
+   "byte": 276198
+  },
+  {
+   "path": "assets/luoghi/orto-botanico-giardino-dei-semplici_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/orto-botanico-giardino-dei-semplici_3.webp",
+   "sha256": "4eb848bb96055133aa9930944098583fd3d104fdb0bd2cfe7e7477ad28671a5d",
+   "byte": 511320
   },
   {
    "path": "assets/luoghi/ospedale-degli-innocenti.webp",
@@ -5170,8 +5188,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "15e25ef54fd72e320a2bef4ccdf697dd859525ba12e323189015e98300274524",
-   "byte": 1616
+   "sha256": "87c9ccef692285163727327b34881e5616d2a907d1e4363fba5b39d2470f701b",
+   "byte": 1660
   },
   {
    "path": "dati/itinerari.json",
@@ -5182,8 +5200,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "32a4cf716ecfb0bd05f43b9fd38e90c58600cdef23fe6f0fc76b96cd762a2b61",
-   "byte": 901070
+   "sha256": "1ad28d78a18c15cf47b4d1d954a7447ce2e4f92c1af52990f142761deb935fba",
+   "byte": 926028
   },
   {
    "path": "dati/mappa.json",
@@ -5247,16 +5265,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "5624b9415fb7",
-   "da": "413f62a22852",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Giardino di Boboli"
-   ],
-   "foto_nuove": 5,
-   "byte": 1973862
-  },
   {
    "versione": "65ddf15655c7",
    "da": "5624b9415fb7",
@@ -5441,6 +5449,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1511460
+  },
+  {
+   "versione": "56080fd9c666",
+   "da": "b4a6cbbe555b",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Orto Botanico – Giardino dei Semplici"
+   ],
+   "foto_nuove": 3,
+   "byte": 2061012
   }
  ]
 }
