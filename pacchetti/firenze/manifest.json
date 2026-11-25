@@ -1,5 +1,5 @@
 {
- "versione": "9b8b5450576f",
+ "versione": "7431b2d23040",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -942,6 +942,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_5.webp",
    "sha256": "bd01551ef45e86296e16f82cbfc51bf8fb1eb6b1eea96e849e2a6cf8408f9994",
    "byte": 79166
+  },
+  {
+   "path": "assets/luoghi/museo-novecento.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-novecento.webp",
+   "sha256": "15d5720c40d1fe9e66e7f99f4e9d3ed5e638d5dc7d4b6f430163d1f35670f416",
+   "byte": 64990
+  },
+  {
+   "path": "assets/luoghi/museo-novecento_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-novecento_2.webp",
+   "sha256": "506a77c9f05c86de8066e02cf14340ef88c156823cf030acaf63f0b8b7215ee5",
+   "byte": 147738
+  },
+  {
+   "path": "assets/luoghi/museo-novecento_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-novecento_3.webp",
+   "sha256": "3932a80b25755dc6dd8b7adb4901ccd5869708af5b67fd8ec753eec425776e1c",
+   "byte": 32324
+  },
+  {
+   "path": "assets/luoghi/museo-novecento_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-novecento_4.webp",
+   "sha256": "7f36544b0d79e224e64c16df8da529c0ab1205dbd74107d033e79b992f1a960b",
+   "byte": 220142
+  },
+  {
+   "path": "assets/luoghi/museo-novecento_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-novecento_5.webp",
+   "sha256": "402dedf71d843eb38e161e1cbd8db8908fa2199fd3dcf326dcbdda4d202e5a76",
+   "byte": 129792
   },
   {
    "path": "assets/luoghi/museo-stibbert.webp",
@@ -5296,8 +5326,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "56529d394f65fea2b2a8ef3df33cba5e4cec95c7aa0839739218ed07b7493258",
-   "byte": 1780
+   "sha256": "e40b4a0f2a2eed22ec10b939ddac681c92a7ea4b43f87e179483bd464710d575",
+   "byte": 1804
   },
   {
    "path": "dati/itinerari.json",
@@ -5308,8 +5338,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "3f4479d56ecaf423f711aea9094cc61f57a1370c8e685e191457874dc7900df8",
-   "byte": 1022591
+   "sha256": "efe4b501157ecb3aafe15279712fe8c8fba58496b8329f7c4aab1ad3d52edeb5",
+   "byte": 1049447
   },
   {
    "path": "dati/mappa.json",
@@ -5373,16 +5403,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4c510d1bfb78",
-   "da": "b0eb4aeb4a04",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Forte Belvedere"
-   ],
-   "foto_nuove": 5,
-   "byte": 1977470
-  },
   {
    "versione": "cb3098784719",
    "da": "4c510d1bfb78",
@@ -5569,6 +5589,16 @@
    ],
    "foto_nuove": 5,
    "byte": 2093163
+  },
+  {
+   "versione": "7431b2d23040",
+   "da": "9b8b5450576f",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Museo Novecento"
+   ],
+   "foto_nuove": 5,
+   "byte": 1646237
   }
  ]
 }
