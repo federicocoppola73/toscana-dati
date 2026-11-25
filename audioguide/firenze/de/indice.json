@@ -1,5 +1,5 @@
 {
- "versione": "d7fd4d0914b7",
+ "versione": "7af8b0acd31e",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -764,6 +764,21 @@
      "secondi": 137,
      "sha256": "13300c1e5348e895e1befd005979d925b7dc7b0edbdca2d9db1ae10369626ec2",
      "testo": "4ae7efa13d6ca793"
+    }
+   ]
+  },
+  "piazza-della-liberta": {
+   "byte": 1660652,
+   "secondi": 277,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "piazza-della-liberta.mp3",
+     "byte": 1660652,
+     "secondi": 277,
+     "sha256": "96c6d7901c95a1dd71e057e02156edafcb2546fb00167cab549ac6602c477313",
+     "testo": "72c0051f5437d4e6"
     }
    ]
   },
