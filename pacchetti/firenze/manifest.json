@@ -1,5 +1,5 @@
 {
- "versione": "b0eb4aeb4a04",
+ "versione": "4c510d1bfb78",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -372,6 +372,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cimitero-delle-porte-sante_5.webp",
    "sha256": "20070f0572437fe8f4f4b5a13e779047f6a55599c17b16cfb167b53a3760be82",
    "byte": 77510
+  },
+  {
+   "path": "assets/luoghi/forte-belvedere.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/forte-belvedere.webp",
+   "sha256": "9b74de8be41839b8cbea6f1a2d65f66052db41a06756b71a4adf5a6bcd300d1b",
+   "byte": 97954
+  },
+  {
+   "path": "assets/luoghi/forte-belvedere_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/forte-belvedere_2.webp",
+   "sha256": "d381e08b9ff7e8177cb7dd515838c07b22fead08ac3d798f2240f2889ab2f003",
+   "byte": 109718
+  },
+  {
+   "path": "assets/luoghi/forte-belvedere_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/forte-belvedere_3.webp",
+   "sha256": "b6cfa728398725deb1e915459ec009cb2722549b256af9837db7d7129e33de84",
+   "byte": 85460
+  },
+  {
+   "path": "assets/luoghi/forte-belvedere_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/forte-belvedere_4.webp",
+   "sha256": "fd735811f132aef8e4762c1f05ad5a196e1f546f965d3d54ddf5476102575bae",
+   "byte": 117980
+  },
+  {
+   "path": "assets/luoghi/forte-belvedere_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/forte-belvedere_5.webp",
+   "sha256": "bf8ecab12ed458131625464a1d8fe15057b1ea9eda3aeeeb1968a868900a4e51",
+   "byte": 119150
   },
   {
    "path": "assets/luoghi/galleria-dellaccademia-di-firenze.webp",
@@ -4828,8 +4858,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "2afae0a02e97755770c014ed24706c9141f3836fe66b4b39bd546b24a75dfdf6",
-   "byte": 1232
+   "sha256": "7c56badd636fc60f1ae7b69f0252cf523b6bbdaf0c3ae7bca03666431c5df647",
+   "byte": 1256
   },
   {
    "path": "dati/itinerari.json",
@@ -4840,8 +4870,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "0e2cdde45e9f31efd3b2c5b167f1f956138930168fec37a5f008728a34ef582b",
-   "byte": 524264
+   "sha256": "317baeb214e3a1efadbd65012487288dbf0d07d02991d7c76d7a205898dda931",
+   "byte": 554344
   },
   {
    "path": "dati/mappa.json",
@@ -4864,8 +4894,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/personaggi.json",
-   "sha256": "794ff6d2a07cf902ac97a66733d1008eb01b04f1c86742ef145f312d17101f85",
-   "byte": 890671
+   "sha256": "458e0585f0c852308e977a3ad5c01ae1b099a89afb6ec4574f163886e894c630",
+   "byte": 891608
   },
   {
    "path": "dati/principali.json",
@@ -4905,21 +4935,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "3cf251a8ab31",
-   "da": "4d4d83954c33",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Giardino delle Rose",
-    "Partir – la valigia di Folon",
-    "Giardino dell'Iris",
-    "Basilica di San Miniato al Monte",
-    "Cimitero delle Porte Sante"
-   ],
-   "foto_nuove": 4,
-   "curiosita_nuove": 2,
-   "byte": 962589
-  },
   {
    "versione": "35b74c9b8afa",
    "da": "3cf251a8ab31",
@@ -5127,6 +5142,16 @@
    "data": "2026-11-25",
    "mappa": true,
    "byte": 3997238
+  },
+  {
+   "versione": "4c510d1bfb78",
+   "da": "b0eb4aeb4a04",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Forte Belvedere"
+   ],
+   "foto_nuove": 5,
+   "byte": 1977470
   }
  ]
 }

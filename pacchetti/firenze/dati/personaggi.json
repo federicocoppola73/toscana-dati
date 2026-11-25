@@ -5385,7 +5385,8 @@
    "luoghi": [
     "basilica-di-santa-trinita",
     "gallerie-degli-uffizi",
-    "giardino-di-boboli"
+    "giardino-di-boboli",
+    "forte-belvedere"
    ],
    "luoghiNote": {
     "basilica-di-santa-trinita": {
@@ -5418,6 +5419,22 @@
       "fr": "Entre 1583 et 1593, il réalisa la Grotta Grande, dite grotte de Buontalenti, exemple extraordinaire du goût maniériste.",
       "de": "Zwischen 1583 und 1593 schuf er die Grotta Grande, genannt Buontalenti-Grotte, ein außergewöhnliches Beispiel manieristischen Geschmacks.",
       "es": "Entre 1583 y 1593 realizó la Grotta Grande, llamada Gruta de Buontalenti, un ejemplo extraordinario del gusto manierista."
+     }
+    },
+    "forte-belvedere": {
+     "tipo": {
+      "it": "L'architetto del Forte",
+      "en": "The Fort's architect",
+      "fr": "L'architecte du fort",
+      "de": "Der Architekt des Forts",
+      "es": "El arquitecto del fuerte"
+     },
+     "testo": {
+      "it": "A lui è associato soprattutto il progetto del Forte, costruito tra il 1590 e il 1595 per Ferdinando I de' Medici.",
+      "en": "The design of the Fort, built between 1590 and 1595 for Ferdinando I de' Medici, is associated above all with him.",
+      "fr": "Le projet du fort, construit entre 1590 et 1595 pour Ferdinand Ier de Médicis, lui est associé avant tout.",
+      "de": "Ihm wird vor allem der Entwurf des Forts zugeschrieben, das zwischen 1590 und 1595 für Ferdinando I. de' Medici gebaut wurde.",
+      "es": "A él se asocia sobre todo el proyecto del fuerte, construido entre 1590 y 1595 para Fernando I de Médici."
      }
     }
    },
