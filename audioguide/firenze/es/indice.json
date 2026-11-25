@@ -1,5 +1,5 @@
 {
- "versione": "a0b97867ecef",
+ "versione": "03c0000d7ac8",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-di-san-lorenzo": {
@@ -431,6 +431,21 @@
      "secondi": 132,
      "sha256": "b3aa463fc2388ed486f7a15b223e6f8e22fe7f31ad21b874e4e99bbc15608ceb",
      "testo": "44be80ef9bd2bf16"
+    }
+   ]
+  },
+  "ospedale-degli-innocenti": {
+   "byte": 1442492,
+   "secondi": 240,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "ospedale-degli-innocenti.mp3",
+     "byte": 1442492,
+     "secondi": 240,
+     "sha256": "05d48e7b1469060f8a08183a780353643f09d9d7cb285dd1589148104b077b74",
+     "testo": "5fd658816f2c6c58"
     }
    ]
   },
