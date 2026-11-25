@@ -1,5 +1,5 @@
 {
- "versione": "5407d969fae4",
+ "versione": "e161665f0a33",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1032,6 +1032,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-stibbert_5.webp",
    "sha256": "cf2ede9224105429f3d0940374558df4f0d190a55e750e3ea29a99ac6670a819",
    "byte": 145898
+  },
+  {
+   "path": "assets/luoghi/opificio-delle-pietre-dure.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/opificio-delle-pietre-dure.webp",
+   "sha256": "8d871d5e80a9cf2eaeb889e4923b8181bbbf30a5c40a66d20acda2d0653c8d15",
+   "byte": 142042
+  },
+  {
+   "path": "assets/luoghi/opificio-delle-pietre-dure_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/opificio-delle-pietre-dure_2.webp",
+   "sha256": "654d46547f9031745140123a9c5272477bef80e7be1c483f4be0cec9199f980e",
+   "byte": 125068
+  },
+  {
+   "path": "assets/luoghi/opificio-delle-pietre-dure_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/opificio-delle-pietre-dure_3.webp",
+   "sha256": "9b0f2903293dfca62f575383097c76702f73ad738cb86b7af259366dc277d4f9",
+   "byte": 76626
+  },
+  {
+   "path": "assets/luoghi/opificio-delle-pietre-dure_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/opificio-delle-pietre-dure_4.webp",
+   "sha256": "439702784f8d25aa82e704776be19502e3cc61a920e5983c14499aae4e51e78c",
+   "byte": 119090
   },
   {
    "path": "assets/luoghi/orto-botanico-giardino-dei-semplici.webp",
@@ -5356,8 +5380,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "428235bf36c8be82a839f8369df7518840281773e4e30987cf236013127b8ca4",
-   "byte": 1832
+   "sha256": "f0f833fecf12e5398a847f6b349a294d2af21e9efda9e05788c8a485adf744b6",
+   "byte": 1867
   },
   {
    "path": "dati/itinerari.json",
@@ -5368,8 +5392,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "15d7096e953c085ac962380d7857c5619299b5fcec7f50ecd6155bfc8cb0ed2f",
-   "byte": 1078272
+   "sha256": "562eba0f71cca4d5313e2353233412c508715469b2f6dc7a309e7fba6e46bfb8",
+   "byte": 1107500
   },
   {
    "path": "dati/mappa.json",
@@ -5433,16 +5457,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "76036ae1d939",
-   "da": "cb3098784719",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Palazzo Strozzi"
-   ],
-   "foto_nuove": 5,
-   "byte": 1339075
-  },
   {
    "versione": "4183d017724b",
    "da": "76036ae1d939",
@@ -5629,6 +5643,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1468186
+  },
+  {
+   "versione": "e161665f0a33",
+   "da": "5407d969fae4",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Museo dell'Opificio delle Pietre Dure"
+   ],
+   "foto_nuove": 4,
+   "byte": 1572193
   }
  ]
 }
