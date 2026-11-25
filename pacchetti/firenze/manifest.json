@@ -1,5 +1,5 @@
 {
- "versione": "fd6ddc1a16c6",
+ "versione": "c52786d70071",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -744,6 +744,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/la-specola_4.webp",
    "sha256": "ae0c1570fe67cc3c165b015e70ce9c7f9925c919ca15fd57ccdadd451d9b4e4c",
    "byte": 183540
+  },
+  {
+   "path": "assets/luoghi/loggia-del-porcellino.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/loggia-del-porcellino.webp",
+   "sha256": "0ddb840f5d0ce956346e9305e26e139633c8a01bd28f83b1ac95d1635be0cd0b",
+   "byte": 119760
+  },
+  {
+   "path": "assets/luoghi/loggia-del-porcellino_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/loggia-del-porcellino_2.webp",
+   "sha256": "8775a24db360aa757696e853e33f3208edb3048f55f64328fa7337c6e4871518",
+   "byte": 76056
+  },
+  {
+   "path": "assets/luoghi/loggia-del-porcellino_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/loggia-del-porcellino_3.webp",
+   "sha256": "ef449f920f3ad7b48bb260af743221bd463ef6870dcca40a70205c4e2687fbdf",
+   "byte": 135332
+  },
+  {
+   "path": "assets/luoghi/loggia-del-porcellino_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/loggia-del-porcellino_4.webp",
+   "sha256": "ad286d0a3811b8a426bcff08cb93da74da2bcc73fff87928979c5724ed912162",
+   "byte": 55408
   },
   {
    "path": "assets/luoghi/museo-archeologico-nazionale-di-firenze.webp",
@@ -5428,8 +5452,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "4c27ca33aaf26d8dbe6ac775585438eaa5fdea808f91fc8480e719232d79e7aa",
-   "byte": 1923
+   "sha256": "b416ec7130810caeb5b08b4a6fafd2d4692b76da3054709e45d45c35117e2612",
+   "byte": 1953
   },
   {
    "path": "dati/itinerari.json",
@@ -5440,8 +5464,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "ad06b24be4fd5fd9a00e9f4c9ebd7409618fd4854bf6fcc9433bfb04794a1594",
-   "byte": 1161692
+   "sha256": "b1761fc48b5a0999fbc58482583a4eda4270ecbc28acc0f5dfdec02a6346cdeb",
+   "byte": 1185970
   },
   {
    "path": "dati/mappa.json",
@@ -5505,16 +5529,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4640266b4e51",
-   "da": "3148fbf15880",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Basilica della Santissima Annunziata"
-   ],
-   "foto_nuove": 5,
-   "byte": 1255822
-  },
   {
    "versione": "097da795e5c5",
    "da": "4640266b4e51",
@@ -5704,6 +5718,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1696909
+  },
+  {
+   "versione": "c52786d70071",
+   "da": "fd6ddc1a16c6",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Loggia del Porcellino (Loggia del Mercato Nuovo)"
+   ],
+   "foto_nuove": 4,
+   "byte": 1574479
   }
  ]
 }
