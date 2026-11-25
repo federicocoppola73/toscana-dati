@@ -1,5 +1,5 @@
 {
- "versione": "6603058ef2f8",
+ "versione": "4fcdbb89445a",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1482,6 +1482,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria_5.webp",
    "sha256": "f258c07fd683853859b65b5c3b2d0dcf5203da588eb91ffb07818661f512b17c",
    "byte": 97574
+  },
+  {
+   "path": "assets/luoghi/piazza-santa-croce.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-santa-croce.webp",
+   "sha256": "10335204879c4e3ab59faadcb1b507aab776eecf0ca7606a106d7a6ed2047f44",
+   "byte": 77500
+  },
+  {
+   "path": "assets/luoghi/piazza-santa-croce_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-santa-croce_2.webp",
+   "sha256": "ea091f941c6ca3a762f467a19b6037f2118bf93e12055770b21509935cb2b0b5",
+   "byte": 295136
+  },
+  {
+   "path": "assets/luoghi/piazza-santa-croce_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-santa-croce_3.webp",
+   "sha256": "1c7574a5e74a3ca33353391369dde1b3766f7ee638299f1036b9cab0e25c36eb",
+   "byte": 117272
+  },
+  {
+   "path": "assets/luoghi/piazza-santa-croce_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-santa-croce_4.webp",
+   "sha256": "63c77456fb8f2a53943a7602f60abf6d2df25b21011367752bec2380f569177b",
+   "byte": 118576
+  },
+  {
+   "path": "assets/luoghi/piazza-santa-croce_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-santa-croce_5.webp",
+   "sha256": "119a252e98144477243d8fc917827d484ae32276990a4a74570518a1172a1b4b",
+   "byte": 160370
   },
   {
    "path": "assets/luoghi/piazzale-michelangelo.webp",
@@ -5482,8 +5512,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "bd1e5a6556dbf30355580de7b8310a9039ec70e27067bd718126fff53dc6d353",
-   "byte": 1985
+   "sha256": "bd8f4fe7f9ca964d13ababd35323cce34d4f1afd4bcf13abbc68fe6ccca0925f",
+   "byte": 2012
   },
   {
    "path": "dati/itinerari.json",
@@ -5494,8 +5524,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "9b0b612539434fedb8d0509bbda47ac89cf500b5a4d1c5e58595e12f72b93315",
-   "byte": 1213062
+   "sha256": "bba7634fa583e1400ce3d26c5c901beab8d69f5d4fa5a7032a1b27ab1a241f03",
+   "byte": 1238613
   },
   {
    "path": "dati/mappa.json",
@@ -5559,16 +5589,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "162df0dd4f10",
-   "da": "097da795e5c5",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Palazzo Budini Gattai"
-   ],
-   "foto_nuove": 5,
-   "byte": 1990810
-  },
   {
    "versione": "88ec0784bc3e",
    "da": "162df0dd4f10",
@@ -5758,6 +5778,16 @@
    ],
    "foto_nuove": 5,
    "byte": 2158763
+  },
+  {
+   "versione": "4fcdbb89445a",
+   "da": "6603058ef2f8",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Piazza Santa Croce"
+   ],
+   "foto_nuove": 5,
+   "byte": 2009479
   }
  ]
 }
