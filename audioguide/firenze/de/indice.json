@@ -1,5 +1,5 @@
 {
- "versione": "6db2c251650a",
+ "versione": "9c253fff005c",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -335,6 +335,21 @@
      "secondi": 260,
      "sha256": "40634d654456bb069c2daa32e9f87ab343a48e34d8936588b988649f694550f9",
      "testo": "1cf6407297279119"
+    }
+   ]
+  },
+  "museo-archeologico-nazionale-di-firenze": {
+   "byte": 951452,
+   "secondi": 159,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "museo-archeologico-nazionale-di-firenze.mp3",
+     "byte": 951452,
+     "secondi": 159,
+     "sha256": "1e8ed2e6ee5a8f3818b241b817d762f6108af7b7db65b43bc72db2213509e567",
+     "testo": "2512f928134f9c95"
     }
    ]
   },
