@@ -1,5 +1,5 @@
 {
- "versione": "c52786d70071",
+ "versione": "6603058ef2f8",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1392,6 +1392,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/partir-la-valigia-di-folon_3.webp",
    "sha256": "af52544920197c2ed92138f8e7527edfa44f84d0d8eaaedc1192dc65251aab6e",
    "byte": 98796
+  },
+  {
+   "path": "assets/luoghi/piazza-della-repubblica.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-repubblica.webp",
+   "sha256": "a8a505bb5991717f3d87641a005afaefe7a839760fc2bfb81957e66692120fb6",
+   "byte": 176138
+  },
+  {
+   "path": "assets/luoghi/piazza-della-repubblica_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-repubblica_2.webp",
+   "sha256": "6253da86b7cb0edc5a62e4ca576b610a706681e1d7c846fa058bde972c59c32b",
+   "byte": 94712
+  },
+  {
+   "path": "assets/luoghi/piazza-della-repubblica_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-repubblica_3.webp",
+   "sha256": "2daf85f115eb8cb6905e3cb36e2a5d49c48159ccc00d4c90a5bfc1ff80c8919d",
+   "byte": 319194
+  },
+  {
+   "path": "assets/luoghi/piazza-della-repubblica_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-repubblica_4.webp",
+   "sha256": "2ca6ac4927e803551f8442b12982c0958ab2f3b9d59e731bc6b7fc7276d5c3bb",
+   "byte": 131106
+  },
+  {
+   "path": "assets/luoghi/piazza-della-repubblica_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-repubblica_5.webp",
+   "sha256": "55feb07c623b5fcdfe421340713236d3ad7ac4c75c2dd911e74ade38534b35ca",
+   "byte": 222566
   },
   {
    "path": "assets/luoghi/piazza-della-santissima-annunziata.webp",
@@ -5452,8 +5482,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "b416ec7130810caeb5b08b4a6fafd2d4692b76da3054709e45d45c35117e2612",
-   "byte": 1953
+   "sha256": "bd1e5a6556dbf30355580de7b8310a9039ec70e27067bd718126fff53dc6d353",
+   "byte": 1985
   },
   {
    "path": "dati/itinerari.json",
@@ -5464,8 +5494,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "b1761fc48b5a0999fbc58482583a4eda4270ecbc28acc0f5dfdec02a6346cdeb",
-   "byte": 1185970
+   "sha256": "9b0b612539434fedb8d0509bbda47ac89cf500b5a4d1c5e58595e12f72b93315",
+   "byte": 1213062
   },
   {
    "path": "dati/mappa.json",
@@ -5529,16 +5559,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "097da795e5c5",
-   "da": "4640266b4e51",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Piazza della Santissima Annunziata"
-   ],
-   "foto_nuove": 5,
-   "byte": 1089162
-  },
   {
    "versione": "162df0dd4f10",
    "da": "097da795e5c5",
@@ -5728,6 +5748,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1574479
+  },
+  {
+   "versione": "6603058ef2f8",
+   "da": "c52786d70071",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Piazza della Repubblica"
+   ],
+   "foto_nuove": 5,
+   "byte": 2158763
   }
  ]
 }
