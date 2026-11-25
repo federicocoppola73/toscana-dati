@@ -1,5 +1,5 @@
 {
- "versione": "15b03edc6cdc",
+ "versione": "e66dbde3e44b",
  "voce": "it-IT-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -512,6 +512,21 @@
      "secondi": 571,
      "sha256": "2e14f758079c5f0dae96716c49ede50bdb0558808008e99702c5c0209715b07b",
      "testo": "644b52a8ffb49513"
+    }
+   ]
+  },
+  "museo-horne": {
+   "byte": 772460,
+   "secondi": 129,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "museo-horne.mp3",
+     "byte": 772460,
+     "secondi": 129,
+     "sha256": "9d0bdf4864164861e6be333b3d7c654441a80a56511a673b57e07d56ad52b62f",
+     "testo": "322d500e41b896eb"
     }
    ]
   },
