@@ -1,5 +1,5 @@
 {
- "versione": "56336a00f8be",
+ "versione": "ebb8daae9871",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -342,6 +342,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cattedrale-di-santa-maria-del-fiore_5.webp",
    "sha256": "02f8995233c5e6baa21fd5b61bb5d7a108bd0acfd05dc6c44197a93023faa2a1",
    "byte": 308624
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-sant-apollonia.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-sant-apollonia.webp",
+   "sha256": "287de91c5c58401cd6a076274b49627432ab93b51e667fc4bbd2ad0f9c9c91c0",
+   "byte": 130738
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-sant-apollonia_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-sant-apollonia_2.webp",
+   "sha256": "41d0e98aca7b10387a3e2e57ebf9842d045cb89409f5a96d47dec987226f5e4c",
+   "byte": 93468
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-sant-apollonia_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-sant-apollonia_3.webp",
+   "sha256": "f598509e572f0161c3ca294da710c713ddec4cef42b8fd762d4b0934ef176d7d",
+   "byte": 89062
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-sant-apollonia_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-sant-apollonia_4.webp",
+   "sha256": "57574e90035083d34b6619ab179825f71fae0dbac21fbba130621845942cfdc6",
+   "byte": 196958
   },
   {
    "path": "assets/luoghi/chiesa-di-san-salvatore-al-monte.webp",
@@ -5122,8 +5146,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "66ddba7a05c947342c848c0237b8b4d96263fd1343cc5f5db4303997131fac8e",
-   "byte": 1562
+   "sha256": "df30cef9dee5b81e7bbbfe5c3350cf18011ea1249c1b5d1ba542334763ebb5e0",
+   "byte": 1597
   },
   {
    "path": "dati/itinerari.json",
@@ -5134,8 +5158,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "33a4c325712d87929c290524cab0b6a85c4f8c4569b4f160a30bcf7c1e3e245b",
-   "byte": 847117
+   "sha256": "63cca85a02f179d0442d978b20ac67a02d523337ab45a7c011365c19b3bcdc8b",
+   "byte": 873612
   },
   {
    "path": "dati/mappa.json",
@@ -5199,17 +5223,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "34f73f33d2d8",
-   "da": "4c9e36aacde2",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 6,
-   "byte": 984645
-  },
   {
    "versione": "413f62a22852",
    "da": "34f73f33d2d8",
@@ -5394,6 +5407,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1582473
+  },
+  {
+   "versione": "ebb8daae9871",
+   "da": "56336a00f8be",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Cenacolo di Sant'Apollonia"
+   ],
+   "foto_nuove": 4,
+   "byte": 1385435
   }
  ]
 }
