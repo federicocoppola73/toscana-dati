@@ -1,5 +1,5 @@
 {
- "versione": "3148fbf15880",
+ "versione": "4640266b4e51",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -18,6 +18,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/.gitkeep",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "byte": 0
+  },
+  {
+   "path": "assets/luoghi/basilica-della-santissima-annunziata.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-della-santissima-annunziata.webp",
+   "sha256": "4d8dacbea53b56ba55bffb50d06654b2753450b3bef384451d4bcf51fe81e03a",
+   "byte": 138206
+  },
+  {
+   "path": "assets/luoghi/basilica-della-santissima-annunziata_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-della-santissima-annunziata_2.webp",
+   "sha256": "4def1bd3f3b4ca1b06daf5daaf6eba6f0f5ab4beaa1786d5372fc8940f34bf54",
+   "byte": 154194
+  },
+  {
+   "path": "assets/luoghi/basilica-della-santissima-annunziata_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-della-santissima-annunziata_3.webp",
+   "sha256": "0d5f6b9019b8aa81990064fa68f62c25f0bc1c62c7c4c845af790512b45307ae",
+   "byte": 77700
+  },
+  {
+   "path": "assets/luoghi/basilica-della-santissima-annunziata_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-della-santissima-annunziata_4.webp",
+   "sha256": "4679177eac8c17670d958fd1033c40a7cff1971a9b86206a31ec0cd21a3a807d",
+   "byte": 73600
+  },
+  {
+   "path": "assets/luoghi/basilica-della-santissima-annunziata_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-della-santissima-annunziata_5.webp",
+   "sha256": "cd07da099e90b322c9fe4432c9d61fc307f76784307ce89d4163057ff7aa7036",
+   "byte": 123114
   },
   {
    "path": "assets/luoghi/basilica-di-san-lorenzo.webp",
@@ -4948,8 +4978,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "1f6bca897c665bee7fd29b4a513c27c7ceb00b7f2bba1a813017fcb3d091aeb6",
-   "byte": 1346
+   "sha256": "c1198a56a09245d19caba732797e8919015158fdd4bb40738bcc4566d84b4cf6",
+   "byte": 1391
   },
   {
    "path": "dati/itinerari.json",
@@ -4960,8 +4990,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "c7bd56d6e2c91a7018c7c7a5e9d8dc71fabc054b80ea5bd97d2984b266881c88",
-   "byte": 658174
+   "sha256": "47d8e8b13a52f2c25fa0a90327d8b661ca547e31e97b23724501056af57976e0",
+   "byte": 687617
   },
   {
    "path": "dati/mappa.json",
@@ -5025,17 +5055,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "0daf9d1ae07c",
-   "da": "033994e52c04",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 9,
-   "aspetti": [
-    "accessibilita",
-    "altro"
-   ],
-   "byte": 344680
-  },
   {
    "versione": "70eabde3fdb7",
    "da": "0daf9d1ae07c",
@@ -5227,6 +5246,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1271304
+  },
+  {
+   "versione": "4640266b4e51",
+   "da": "3148fbf15880",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Basilica della Santissima Annunziata"
+   ],
+   "foto_nuove": 5,
+   "byte": 1255822
   }
  ]
 }
