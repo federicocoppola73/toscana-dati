@@ -121,7 +121,8 @@
    },
    "inizio": "2026-10-21",
    "fine": "2027-04-04",
-   "luogo": "Museo degli Innocenti",
+   "luogo": "Ospedale degli Innocenti",
+   "luogoId": "ospedale-degli-innocenti",
    "descrizione": {
     "it": "Oltre 50 opere raccontano gli anni fiorentini di Artemisia Gentileschi, tra il 1613 e il 1620, con due capolavori di Caravaggio.",
     "en": "More than 50 works tell of Artemisia Gentileschi's Florentine years, between 1613 and 1620, with two Caravaggio masterpieces.",

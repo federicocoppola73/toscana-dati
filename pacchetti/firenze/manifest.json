@@ -1,5 +1,5 @@
 {
- "versione": "4183d017724b",
+ "versione": "3148fbf15880",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -732,6 +732,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_5.webp",
    "sha256": "bd01551ef45e86296e16f82cbfc51bf8fb1eb6b1eea96e849e2a6cf8408f9994",
    "byte": 79166
+  },
+  {
+   "path": "assets/luoghi/ospedale-degli-innocenti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ospedale-degli-innocenti.webp",
+   "sha256": "c489496e3c65bd6702656f9bb58378d9583d9a7ecdac6f20e499a399760416d1",
+   "byte": 87008
+  },
+  {
+   "path": "assets/luoghi/ospedale-degli-innocenti_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ospedale-degli-innocenti_2.webp",
+   "sha256": "ec078a6a63bd62b0899b7a373727a815283d8ba6fdeab420e8e93de8ed536275",
+   "byte": 77252
+  },
+  {
+   "path": "assets/luoghi/ospedale-degli-innocenti_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ospedale-degli-innocenti_3.webp",
+   "sha256": "f3e7343b0438fff1ad8ab53b522672620a67a7777081b1c37d73761209c4b7a3",
+   "byte": 98196
+  },
+  {
+   "path": "assets/luoghi/ospedale-degli-innocenti_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ospedale-degli-innocenti_4.webp",
+   "sha256": "a07123eea7e854aa1fa64985c598edbe0875a56b95708cba2a75ec37492d98cc",
+   "byte": 75412
+  },
+  {
+   "path": "assets/luoghi/ospedale-degli-innocenti_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ospedale-degli-innocenti_5.webp",
+   "sha256": "c9217843643e4705234db1d821bd9392ffd3d7ac87c6bc9619a6da8651ab8755",
+   "byte": 249170
   },
   {
    "path": "assets/luoghi/palazzo-medici-riccardi.webp",
@@ -4912,14 +4942,14 @@
   {
    "path": "dati/eventi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/eventi.json",
-   "sha256": "b438ac2c3ef46981dde5d2c3c7408955a2be85c43649c797bfb921a559a3339d",
-   "byte": 24701
+   "sha256": "d410d3ee43268c7386cb48b1be723a08d2923811e2e436c5149aeb7f707992d6",
+   "byte": 24746
   },
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "361bc9ac8d3e25b8081b2e5b0fab5423fed7055c53032770f47431b82e62029c",
-   "byte": 1313
+   "sha256": "1f6bca897c665bee7fd29b4a513c27c7ceb00b7f2bba1a813017fcb3d091aeb6",
+   "byte": 1346
   },
   {
    "path": "dati/itinerari.json",
@@ -4930,8 +4960,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "36067173ebe4a19e0ea8bbfb3fbd556609106cc8a48f08e13d814384fb8282b7",
-   "byte": 622896
+   "sha256": "c7bd56d6e2c91a7018c7c7a5e9d8dc71fabc054b80ea5bd97d2984b266881c88",
+   "byte": 658174
   },
   {
    "path": "dati/mappa.json",
@@ -4995,16 +5025,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "033994e52c04",
-   "da": "31cd4643b408",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 3,
-   "aspetti": [
-    "descrizioni"
-   ],
-   "byte": 345566
-  },
   {
    "versione": "0daf9d1ae07c",
    "da": "033994e52c04",
@@ -5197,6 +5217,16 @@
    "data": "2026-11-25",
    "eventi_nuovi": 22,
    "byte": 24701
+  },
+  {
+   "versione": "3148fbf15880",
+   "da": "4183d017724b",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Ospedale degli Innocenti"
+   ],
+   "foto_nuove": 5,
+   "byte": 1271304
   }
  ]
 }
