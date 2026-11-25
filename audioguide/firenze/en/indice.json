@@ -1,5 +1,5 @@
 {
- "versione": "818177ae5f85",
+ "versione": "584b78fb7d45",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -767,6 +767,21 @@
     }
    ]
   },
+  "piazza-della-repubblica": {
+   "byte": 1663532,
+   "secondi": 277,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "piazza-della-repubblica.mp3",
+     "byte": 1663532,
+     "secondi": 277,
+     "sha256": "3ef39c63e62559a962302f21021c131b5488fe74fb145a6957154fbd73ad191c",
+     "testo": "e8ab205fe90df667"
+    }
+   ]
+  },
   "piazza-della-santissima-annunziata": {
    "byte": 1423196,
    "secondi": 237,
@@ -794,6 +809,21 @@
      "secondi": 205,
      "sha256": "4666afd5b460c01ddf0e68d2ff06601521a56091d8a0375ba4bb2517e66ebc91",
      "testo": "557ca2ea32808f11"
+    }
+   ]
+  },
+  "piazza-santa-croce": {
+   "byte": 1504124,
+   "secondi": 251,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "piazza-santa-croce.mp3",
+     "byte": 1504124,
+     "secondi": 251,
+     "sha256": "2d2192d6de659af8d366cfacd29d1380723c2e4158ace1a0e5c7c584099304d0",
+     "testo": "75ae1089d513cd90"
     }
    ]
   },
