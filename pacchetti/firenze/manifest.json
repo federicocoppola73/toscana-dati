@@ -1,5 +1,5 @@
 {
- "versione": "9548a80cf47a",
+ "versione": "75d2ce68b85f",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -288,6 +288,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cappella-brancacci_5.webp",
    "sha256": "fa86e0dedcc0264099ace5b6d21a3c5e036fde11662226aba9b518af0bbc6c93",
    "byte": 65130
+  },
+  {
+   "path": "assets/luoghi/casa-buonarroti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/casa-buonarroti.webp",
+   "sha256": "209fb045c445a0085786f03334618ce356b6a85a1fc36c35c538a2fc2da77354",
+   "byte": 158420
+  },
+  {
+   "path": "assets/luoghi/casa-buonarroti_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/casa-buonarroti_2.webp",
+   "sha256": "a6c139ebc6d5d4eaf33862062d7d74bbf8d4eadfc7f0b97e658d69c1104e7802",
+   "byte": 86294
+  },
+  {
+   "path": "assets/luoghi/casa-buonarroti_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/casa-buonarroti_3.webp",
+   "sha256": "653c94de11048011e8ae64cf2062ed736b64a87017f508074e29a7315da81799",
+   "byte": 137430
+  },
+  {
+   "path": "assets/luoghi/casa-buonarroti_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/casa-buonarroti_4.webp",
+   "sha256": "29d255944930215faa0e957311edf9420456674c2577f9fdb54351cdd5d7e15c",
+   "byte": 144506
   },
   {
    "path": "assets/luoghi/cattedrale-di-santa-maria-del-fiore.webp",
@@ -5068,8 +5092,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "677c3adbf2a9b6ce5d1822e64b9675f3bfd2b4099a37f7fc8ae4d2f388258b04",
-   "byte": 1512
+   "sha256": "9a75a8bda05093240edc739178cf555ba4f91ddc48179e90e3dc3a9b826300ac",
+   "byte": 1536
   },
   {
    "path": "dati/itinerari.json",
@@ -5080,8 +5104,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "38184fa6fd88ecf8a1a9dbeb229eed2b33bbbc6cb1281a7643a3ca88246bf59b",
-   "byte": 786474
+   "sha256": "d2a8d951c21ee9ece639659a89ce31c936835e13fe04b89817a24cc2a75b2088",
+   "byte": 813600
   },
   {
    "path": "dati/mappa.json",
@@ -5145,17 +5169,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "0d3b50a9fdf4",
-   "da": "618403931c60",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 3,
-   "byte": 930213
-  },
   {
    "versione": "906338746e4d",
    "da": "0d3b50a9fdf4",
@@ -5341,6 +5354,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1830028
+  },
+  {
+   "versione": "75d2ce68b85f",
+   "da": "9548a80cf47a",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Casa Buonarroti"
+   ],
+   "foto_nuove": 4,
+   "byte": 1341786
   }
  ]
 }
