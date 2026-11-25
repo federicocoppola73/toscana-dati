@@ -1,5 +1,5 @@
 {
- "versione": "e161665f0a33",
+ "versione": "4044d4ba2756",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -864,6 +864,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-di-san-marco_5.webp",
    "sha256": "1a3f5905d212cbc81f6dd5035b4d630856ed2a361207601d33cfcf8d344f738d",
    "byte": 100854
+  },
+  {
+   "path": "assets/luoghi/museo-franco-zeffirelli.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-franco-zeffirelli.webp",
+   "sha256": "27a4cd3ccabf4f017ebdc60200def432a5e4f5f5beb3ffe1ac2f8d8c5fa414d1",
+   "byte": 150442
+  },
+  {
+   "path": "assets/luoghi/museo-franco-zeffirelli_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-franco-zeffirelli_2.webp",
+   "sha256": "5c5dbd795184f8c383e00a75dad81db7927393dc00e99ce4528971c9c8507456",
+   "byte": 145138
+  },
+  {
+   "path": "assets/luoghi/museo-franco-zeffirelli_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-franco-zeffirelli_3.webp",
+   "sha256": "aa5bac229e565f0797b971d2ef541713143798d3671e04451e983327da6e43dc",
+   "byte": 35096
+  },
+  {
+   "path": "assets/luoghi/museo-franco-zeffirelli_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-franco-zeffirelli_4.webp",
+   "sha256": "ff806655d02c5b9b7f5c7c84f492244f7401ed8ecb02174462cd8f9d09d52a56",
+   "byte": 74586
   },
   {
    "path": "assets/luoghi/museo-galileo.webp",
@@ -5380,8 +5404,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "f0f833fecf12e5398a847f6b349a294d2af21e9efda9e05788c8a485adf744b6",
-   "byte": 1867
+   "sha256": "767b7dfe4381d96ee6390a00585ed64d13ac2da0c872b66d2b6531cec28d580a",
+   "byte": 1899
   },
   {
    "path": "dati/itinerari.json",
@@ -5392,8 +5416,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "562eba0f71cca4d5313e2353233412c508715469b2f6dc7a309e7fba6e46bfb8",
-   "byte": 1107500
+   "sha256": "dd3b9d7769987eba2e6716e54c28757f35189e8862bb6886b1c3f343c59ed62b",
+   "byte": 1134775
   },
   {
    "path": "dati/mappa.json",
@@ -5457,13 +5481,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4183d017724b",
-   "da": "76036ae1d939",
-   "data": "2026-11-25",
-   "eventi_nuovi": 22,
-   "byte": 24701
-  },
   {
    "versione": "3148fbf15880",
    "da": "4183d017724b",
@@ -5653,6 +5670,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1572193
+  },
+  {
+   "versione": "4044d4ba2756",
+   "da": "e161665f0a33",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Museo Franco Zeffirelli"
+   ],
+   "foto_nuove": 4,
+   "byte": 1541936
   }
  ]
 }
