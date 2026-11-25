@@ -1,4 +1,480 @@
 {
- "_nota": "Firenze: eventi (aggiornati ogni 15 giorni)",
- "eventi": []
+ "_nota": "Firenze: eventi da fonti ufficiali di musei, Comune e teatri (25 novembre 2026). Aggiornati ogni 15 giorni.",
+ "eventi": [
+  {
+   "nome": "Il genio di Sarmi",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-06-18",
+   "fine": "2026-12-31",
+   "luogo": "Museo della Moda e del Costume, Palazzo Pitti",
+   "luogoId": "palazzo-pitti",
+   "descrizione": {
+    "it": "Nuova mostra dedicata a Ferdinando Sarmi al Museo della Moda e del Costume di Palazzo Pitti.",
+    "en": "New exhibition devoted to Ferdinando Sarmi at the Museum of Fashion and Costume in Palazzo Pitti.",
+    "fr": "Nouvelle exposition consacrée à Ferdinando Sarmi au Musée de la Mode et du Costume du Palazzo Pitti.",
+    "de": "Neue Ausstellung über Ferdinando Sarmi im Museum für Mode und Kostüm im Palazzo Pitti.",
+    "es": "Nueva exposición dedicada a Ferdinando Sarmi en el Museo de la Moda y del Traje del Palacio Pitti."
+   },
+   "link": "https://www.uffizi.it/"
+  },
+  {
+   "nome": "Oltre il Rinascimento. Tra Dürer e Parmigianino",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-09-10",
+   "fine": "2027-01-05",
+   "luogo": "Palazzo Medici Riccardi",
+   "luogoId": "palazzo-medici-riccardi",
+   "descrizione": {
+    "it": "Circa 150 opere di grafica manierista europea e il dialogo di Georg Baselitz con i maestri del Cinquecento.",
+    "en": "About 150 works of European Mannerist graphic art and the dialogue of Georg Baselitz with the masters of the 16th century.",
+    "fr": "Environ 150 œuvres graphiques maniéristes européennes et le dialogue de Georg Baselitz avec les maîtres du XVIe siècle.",
+    "de": "Rund 150 Werke der europäischen manieristischen Grafik und der Dialog von Georg Baselitz mit den Meistern des 16. Jahrhunderts.",
+    "es": "Unas 150 obras de grafismo manierista europeo y el diálogo de Georg Baselitz con los maestros del siglo XVI."
+   },
+   "link": "https://www.palazzomediciriccardi.it/mostra/oltre-il-rinascimento/"
+  },
+  {
+   "nome": "San Francesco d'Assisi e Giuseppe Nicola Nasini. Un episodio di committenza medicea",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-09-24",
+   "fine": "2027-01-31",
+   "luogo": "Palazzo Medici Riccardi",
+   "luogoId": "palazzo-medici-riccardi",
+   "descrizione": {
+    "it": "A ottocento anni dalla morte di san Francesco, quattro grandi tele di Nasini ricostruiscono una pagina di devozione e mecenatismo mediceo.",
+    "en": "Eight hundred years after the death of Saint Francis, four large canvases by Nasini retrace a chapter of Medici devotion and patronage.",
+    "fr": "Huit cents ans après la mort de saint François, quatre grandes toiles de Nasini retracent une page de dévotion et de mécénat des Médicis.",
+    "de": "Achthundert Jahre nach dem Tod des heiligen Franziskus zeichnen vier große Gemälde von Nasini ein Kapitel medicäischer Frömmigkeit und Mäzenatentums nach.",
+    "es": "A ochocientos años de la muerte de san Francisco, cuatro grandes lienzos de Nasini reconstruyen una página de devoción y mecenazgo mediceo."
+   },
+   "link": "https://www.palazzomediciriccardi.it/"
+  },
+  {
+   "nome": "Broken. Il potere del frammento",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-09-25",
+   "fine": "2027-01-24",
+   "luogo": "Palazzo Strozzi",
+   "luogoId": "palazzo-strozzi",
+   "descrizione": {
+    "it": "Mostra di Palazzo Strozzi dedicata al frammento, negli spazi del cortile e del piano nobile.",
+    "en": "Palazzo Strozzi exhibition devoted to the fragment, in the courtyard and on the piano nobile.",
+    "fr": "Exposition du Palazzo Strozzi consacrée au fragment, dans la cour et à l'étage noble.",
+    "de": "Ausstellung im Palazzo Strozzi über das Fragment, im Hof und im Piano nobile.",
+    "es": "Exposición del Palacio Strozzi dedicada al fragmento, en el patio y en la planta noble."
+   },
+   "link": "https://www.palazzostrozzi.org/"
+  },
+  {
+   "nome": "Victor Man",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-09-26",
+   "fine": "2027-03-07",
+   "luogo": "Museo Novecento, Ex Leopoldine",
+   "descrizione": {
+    "it": "Circa 25 opere del pittore Victor Man, esponente della Scuola di Cluj, alle Ex Leopoldine di piazza Santa Maria Novella.",
+    "en": "About 25 works by the painter Victor Man, a figure of the Cluj School, at the Ex Leopoldine in Piazza Santa Maria Novella.",
+    "fr": "Environ 25 œuvres du peintre Victor Man, représentant de l'école de Cluj, aux Ex Leopoldine, sur la Piazza Santa Maria Novella.",
+    "de": "Rund 25 Werke des Malers Victor Man, eines Vertreters der Schule von Cluj, in den Ex Leopoldine an der Piazza Santa Maria Novella.",
+    "es": "Unas 25 obras del pintor Victor Man, exponente de la Escuela de Cluj, en las Ex Leopoldine de la Piazza Santa Maria Novella."
+   },
+   "link": "https://www.firenzemadeintuscany.com/it/articolo/le-mostre-da-vedere-assolutamente-a-firenze/"
+  },
+  {
+   "nome": "Artemisia Gentileschi a Firenze",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-10-21",
+   "fine": "2027-04-04",
+   "luogo": "Museo degli Innocenti",
+   "descrizione": {
+    "it": "Oltre 50 opere raccontano gli anni fiorentini di Artemisia Gentileschi, tra il 1613 e il 1620, con due capolavori di Caravaggio.",
+    "en": "More than 50 works tell of Artemisia Gentileschi's Florentine years, between 1613 and 1620, with two Caravaggio masterpieces.",
+    "fr": "Plus de 50 œuvres racontent les années florentines d'Artemisia Gentileschi, entre 1613 et 1620, avec deux chefs-d'œuvre du Caravage.",
+    "de": "Über 50 Werke erzählen von Artemisia Gentileschis Florentiner Jahren zwischen 1613 und 1620, mit zwei Meisterwerken Caravaggios.",
+    "es": "Más de 50 obras cuentan los años florentinos de Artemisia Gentileschi, entre 1613 y 1620, con dos obras maestras de Caravaggio."
+   },
+   "link": "https://www.visittuscany.com/it/eventi/firenze-artemisia-gentileschi-ottobre-aprile-2027/"
+  },
+  {
+   "nome": "I leoni di Firenze",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-10-27",
+   "fine": "2027-01-18",
+   "luogo": "Palazzo Vecchio, Sala dei Gigli",
+   "luogoId": "palazzo-vecchio",
+   "descrizione": {
+    "it": "Il leone come simbolo di potere, libertà e identità cittadina, con un itinerario tra i leoni dipinti e scolpiti del museo.",
+    "en": "The lion as a symbol of power, freedom and civic identity, with a trail through the museum's painted and sculpted lions.",
+    "fr": "Le lion comme symbole de pouvoir, de liberté et d'identité civique, avec un parcours parmi les lions peints et sculptés du musée.",
+    "de": "Der Löwe als Symbol von Macht, Freiheit und städtischer Identität, mit einem Rundgang durch die gemalten und gemeißelten Löwen des Museums.",
+    "es": "El león como símbolo de poder, libertad e identidad ciudadana, con un itinerario por los leones pintados y esculpidos del museo."
+   },
+   "link": "https://cultura.comune.fi.it/dalle-redazioni/i-leoni-di-firenze"
+  },
+  {
+   "nome": "Joanna Piotrowska. BURROWED",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-11-10",
+   "fine": "2027-01-24",
+   "luogo": "Palazzo Strozzi",
+   "luogoId": "palazzo-strozzi",
+   "descrizione": {
+    "it": "Mostra dell'artista Joanna Piotrowska nel Project Space di Palazzo Strozzi.",
+    "en": "Exhibition by the artist Joanna Piotrowska in the Project Space of Palazzo Strozzi.",
+    "fr": "Exposition de l'artiste Joanna Piotrowska dans le Project Space du Palazzo Strozzi.",
+    "de": "Ausstellung der Künstlerin Joanna Piotrowska im Project Space des Palazzo Strozzi.",
+    "es": "Exposición de la artista Joanna Piotrowska en el Project Space del Palacio Strozzi."
+   },
+   "link": "https://www.palazzostrozzi.org/"
+  },
+  {
+   "nome": "Mercatino di Natale (Weihnachtsmarkt)",
+   "tipo": {
+    "it": "Mercato",
+    "en": "Market",
+    "fr": "Marché",
+    "de": "Markt",
+    "es": "Mercado"
+   },
+   "inizio": "2026-11-14",
+   "fine": "2026-12-20",
+   "luogo": "Piazza Santa Croce",
+   "luogoId": "basilica-di-santa-croce",
+   "descrizione": {
+    "it": "Oltre cinquanta casette di legno con artigianato, decorazioni e specialità europee. Aperto dal lunedì al giovedì 10–22 e dal venerdì alla domenica 10–23.",
+    "en": "More than fifty wooden chalets with crafts, decorations and European specialities. Open Monday to Thursday 10 am–10 pm and Friday to Sunday 10 am–11 pm.",
+    "fr": "Plus de cinquante chalets en bois proposant artisanat, décorations et spécialités européennes. Ouvert du lundi au jeudi de 10 h à 22 h et du vendredi au dimanche de 10 h à 23 h.",
+    "de": "Über fünfzig Holzhütten mit Kunsthandwerk, Dekoration und europäischen Spezialitäten. Geöffnet Montag bis Donnerstag 10–22 Uhr und Freitag bis Sonntag 10–23 Uhr.",
+    "es": "Más de cincuenta casetas de madera con artesanía, decoración y especialidades europeas. Abierto de lunes a jueves de 10:00 a 22:00 y de viernes a domingo de 10:00 a 23:00."
+   },
+   "link": "https://www.firenzemadeintuscany.com/it/articolo/i-mercatini-di-natale-da-vedere-assolutamente-in-toscana/"
+  },
+  {
+   "nome": "Echi d'Africa. Strumenti musicali in dialogo tra le sponde del Mediterraneo",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-11-23",
+   "fine": "2027-02-10",
+   "luogo": "Galleria dell'Accademia di Firenze",
+   "luogoId": "galleria-dellaccademia-di-firenze",
+   "descrizione": {
+    "it": "Quattro strumenti musicali del Nord Africa raccontano la circolazione di suoni e modelli artistici nel Mediterraneo.",
+    "en": "Four musical instruments from North Africa tell of the movement of sounds and artistic models across the Mediterranean.",
+    "fr": "Quatre instruments de musique d'Afrique du Nord racontent la circulation des sons et des modèles artistiques en Méditerranée.",
+    "de": "Vier Musikinstrumente aus Nordafrika erzählen von der Verbreitung von Klängen und künstlerischen Vorbildern im Mittelmeerraum.",
+    "es": "Cuatro instrumentos musicales del norte de África cuentan la circulación de sonidos y modelos artísticos por el Mediterráneo."
+   },
+   "link": "https://www.galleriaaccademiafirenze.it/news/stagione-mostre/"
+  },
+  {
+   "nome": "Intrecci del tempo. Dal Tardogotico al Rinascimento nello scrigno di Palazzo Davanzati",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-11-30",
+   "fine": "2027-03-01",
+   "luogo": "Museo di Palazzo Davanzati",
+   "descrizione": {
+    "it": "Il passaggio dal gusto tardogotico al Rinascimento fiorentino, con capolavori di Masolino e Paolo Uccello, tra gli altri.",
+    "en": "The shift from late Gothic taste to the Florentine Renaissance, with masterpieces by Masolino and Paolo Uccello, among others.",
+    "fr": "Le passage du goût gothique tardif à la Renaissance florentine, avec des chefs-d'œuvre de Masolino et de Paolo Uccello, entre autres.",
+    "de": "Der Übergang vom spätgotischen Geschmack zur florentinischen Renaissance, mit Meisterwerken unter anderem von Masolino und Paolo Uccello.",
+    "es": "El paso del gusto tardogótico al Renacimiento florentino, con obras maestras de Masolino y Paolo Uccello, entre otros."
+   },
+   "link": "https://www.galleriaaccademiafirenze.it/news/stagione-mostre/"
+  },
+  {
+   "nome": "Magnifico 1492",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-12-03",
+   "fine": "2027-03-01",
+   "luogo": "Palazzo Pitti, Tesoro dei Granduchi",
+   "luogoId": "palazzo-pitti",
+   "descrizione": {
+    "it": "Oltre cento opere sul collezionismo di Lorenzo de' Medici, con la Battaglia di San Romano di Paolo Uccello riunita a Firenze per la prima volta. Si visita negli orari di Palazzo Pitti, da martedì a domenica.",
+    "en": "More than a hundred works on the collecting of Lorenzo de' Medici, with Paolo Uccello's Battle of San Romano brought together in Florence for the first time. Open during Palazzo Pitti's hours, Tuesday to Sunday.",
+    "fr": "Plus de cent œuvres sur le collectionnisme de Laurent de Médicis, avec la Bataille de San Romano de Paolo Uccello réunie pour la première fois à Florence. Visible aux horaires du Palazzo Pitti, du mardi au dimanche.",
+    "de": "Mehr als hundert Werke zur Sammlertätigkeit Lorenzo de' Medicis, mit Paolo Uccellos Schlacht von San Romano, die erstmals in Florenz vereint ist. Zu den Öffnungszeiten des Palazzo Pitti, Dienstag bis Sonntag.",
+    "es": "Más de cien obras sobre el coleccionismo de Lorenzo de Médici, con la Batalla de San Romano de Paolo Uccello reunida por primera vez en Florencia. Se visita en el horario del Palacio Pitti, de martes a domingo."
+   },
+   "link": "https://www.uffizi.it/eventi/magnifico-1492"
+  },
+  {
+   "nome": "L'anima dei marmi. Michelangelo e le visioni del Simbolismo",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2026-12-15",
+   "fine": "2027-05-02",
+   "luogo": "Galleria dell'Accademia di Firenze",
+   "luogoId": "galleria-dellaccademia-di-firenze",
+   "descrizione": {
+    "it": "L'influenza di Michelangelo sui simbolisti, in dialogo con opere di Rodin, Bourdelle e Gustave Moreau.",
+    "en": "Michelangelo's influence on the Symbolists, in dialogue with works by Rodin, Bourdelle and Gustave Moreau.",
+    "fr": "L'influence de Michel-Ange sur les symbolistes, en dialogue avec des œuvres de Rodin, de Bourdelle et de Gustave Moreau.",
+    "de": "Michelangelos Einfluss auf die Symbolisten, im Dialog mit Werken von Rodin, Bourdelle und Gustave Moreau.",
+    "es": "La influencia de Miguel Ángel en los simbolistas, en diálogo con obras de Rodin, Bourdelle y Gustave Moreau."
+   },
+   "link": "https://www.galleriaaccademiafirenze.it/news/stagione-mostre/"
+  },
+  {
+   "nome": "Les contes d'Hoffmann",
+   "tipo": {
+    "it": "Opera",
+    "en": "Opera",
+    "fr": "Opéra",
+    "de": "Oper",
+    "es": "Ópera"
+   },
+   "inizio": "2026-12-20",
+   "fine": "2027-01-02",
+   "luogo": "Teatro del Maggio Musicale Fiorentino",
+   "descrizione": {
+    "it": "Opera di Jacques Offenbach, con repliche il 27 e il 30 dicembre e il 2 gennaio.",
+    "en": "Opera by Jacques Offenbach, with further performances on 27 and 30 December and 2 January.",
+    "fr": "Opéra de Jacques Offenbach, avec d'autres représentations les 27 et 30 décembre et le 2 janvier.",
+    "de": "Oper von Jacques Offenbach, mit weiteren Aufführungen am 27. und 30. Dezember und am 2. Januar.",
+    "es": "Ópera de Jacques Offenbach, con representaciones el 27 y el 30 de diciembre y el 2 de enero."
+   },
+   "link": "https://www.maggiofiorentino.com/"
+  },
+  {
+   "nome": "Ai piedi del Perseo. I dettagli invisibili del basamento di Benvenuto Cellini",
+   "tipo": {
+    "it": "Iniziativa",
+    "en": "Initiative",
+    "fr": "Initiative",
+    "de": "Initiative",
+    "es": "Iniciativa"
+   },
+   "inizio": "2026-12-21",
+   "fine": "2026-12-21",
+   "luogo": "Museo Nazionale del Bargello",
+   "luogoId": "museo-nazionale-del-bargello",
+   "descrizione": {
+    "it": "Presentazione dei risultati del restauro del basamento del Perseo di Benvenuto Cellini, condotto a porte aperte.",
+    "en": "Presentation of the results of the restoration of the base of Benvenuto Cellini's Perseus, carried out with the museum open to visitors.",
+    "fr": "Présentation des résultats de la restauration du socle du Persée de Benvenuto Cellini, menée à portes ouvertes.",
+    "de": "Vorstellung der Ergebnisse der Restaurierung des Sockels von Benvenuto Cellinis Perseus, die bei offenem Haus durchgeführt wurde.",
+    "es": "Presentación de los resultados de la restauración de la base del Perseo de Benvenuto Cellini, realizada con las puertas abiertas."
+   },
+   "link": "https://www.galleriaaccademiafirenze.it/news/stagione-mostre/"
+  },
+  {
+   "nome": "Lo schiaccianoci in forma di concerto",
+   "tipo": {
+    "it": "Concerto",
+    "en": "Concert",
+    "fr": "Concert",
+    "de": "Konzert",
+    "es": "Concierto"
+   },
+   "inizio": "2026-12-23",
+   "fine": "2026-12-23",
+   "luogo": "Teatro del Maggio Musicale Fiorentino",
+   "descrizione": {
+    "it": "Esecuzione integrale de Lo schiaccianoci di Čajkovskij, diretta da Gianandrea Noseda, con l'Orchestra del Maggio e il Coro di voci bianche.",
+    "en": "Complete performance of Tchaikovsky's The Nutcracker in concert form, conducted by Gianandrea Noseda, with the Maggio Orchestra and children's choir.",
+    "fr": "Exécution intégrale de Casse-Noisette de Tchaïkovski en version de concert, dirigée par Gianandrea Noseda, avec l'Orchestre du Maggio et le chœur d'enfants.",
+    "de": "Vollständige Aufführung von Tschaikowskis Nussknacker in Konzertform unter der Leitung von Gianandrea Noseda, mit dem Orchester des Maggio und dem Kinderchor.",
+    "es": "Interpretación íntegra de El cascanueces de Chaikovski en versión de concierto, dirigida por Gianandrea Noseda, con la Orquesta del Maggio y el coro de voces blancas."
+   },
+   "link": "https://www.maggiofiorentino.com/"
+  },
+  {
+   "nome": "Fantasia di Walt Disney in concerto",
+   "tipo": {
+    "it": "Concerto",
+    "en": "Concert",
+    "fr": "Concert",
+    "de": "Konzert",
+    "es": "Concierto"
+   },
+   "inizio": "2027-01-03",
+   "fine": "2027-01-03",
+   "luogo": "Teatro del Maggio Musicale Fiorentino",
+   "descrizione": {
+    "it": "Fantasia di Walt Disney eseguito dal vivo dall'Orchestra del Maggio: apre la stagione 2027 del teatro.",
+    "en": "Walt Disney's Fantasia performed live by the Maggio Orchestra: it opens the theatre's 2027 season.",
+    "fr": "Fantasia de Walt Disney interprété en direct par l'Orchestre du Maggio : il ouvre la saison 2027 du théâtre.",
+    "de": "Walt Disneys Fantasia, live vom Orchester des Maggio gespielt: Es eröffnet die Saison 2027 des Theaters.",
+    "es": "Fantasia de Walt Disney interpretada en directo por la Orquesta del Maggio: abre la temporada 2027 del teatro."
+   },
+   "link": "https://www.maggiofiorentino.com/"
+  },
+  {
+   "nome": "Cavalcata dei Magi",
+   "tipo": {
+    "it": "Tradizione",
+    "en": "Tradition",
+    "fr": "Tradition",
+    "de": "Brauchtum",
+    "es": "Tradición"
+   },
+   "inizio": "2027-01-06",
+   "fine": "2027-01-06",
+   "luogo": "Da Palazzo Pitti a Piazza del Duomo",
+   "descrizione": {
+    "it": "Rievocazione storica dell'Epifania organizzata dall'Opera di Santa Maria del Fiore: il corteo parte da Palazzo Pitti, passa da Ponte Vecchio e Piazza della Signoria e arriva in Piazza del Duomo. Ingresso libero.",
+    "en": "Historical re-enactment of Epiphany organised by the Opera di Santa Maria del Fiore: the procession leaves Palazzo Pitti, crosses Ponte Vecchio and Piazza della Signoria and ends in Piazza del Duomo. Free admission.",
+    "fr": "Reconstitution historique de l'Épiphanie organisée par l'Opera di Santa Maria del Fiore : le cortège part du Palazzo Pitti, passe par le Ponte Vecchio et la Piazza della Signoria et arrive Piazza del Duomo. Entrée libre.",
+    "de": "Historisches Nachspiel des Dreikönigsfestes, organisiert von der Opera di Santa Maria del Fiore: Der Zug startet am Palazzo Pitti, führt über die Ponte Vecchio und die Piazza della Signoria und endet auf der Piazza del Duomo. Eintritt frei.",
+    "es": "Recreación histórica de la Epifanía organizada por la Opera di Santa Maria del Fiore: el cortejo parte del Palacio Pitti, pasa por el Ponte Vecchio y la Piazza della Signoria y llega a la Piazza del Duomo. Entrada libre."
+   },
+   "link": "https://feelflorence.it/en/node/38731"
+  },
+  {
+   "nome": "Beatrice Rana in concerto",
+   "tipo": {
+    "it": "Concerto",
+    "en": "Concert",
+    "fr": "Concert",
+    "de": "Konzert",
+    "es": "Concierto"
+   },
+   "inizio": "2027-01-09",
+   "fine": "2027-01-09",
+   "luogo": "Teatro del Maggio Musicale Fiorentino, Auditorium",
+   "descrizione": {
+    "it": "La pianista Beatrice Rana inaugura la stagione dei concerti 2027, alle 16.",
+    "en": "The pianist Beatrice Rana opens the 2027 concert season, at 4 pm.",
+    "fr": "La pianiste Beatrice Rana inaugure la saison de concerts 2027, à 16 h.",
+    "de": "Die Pianistin Beatrice Rana eröffnet die Konzertsaison 2027, um 16 Uhr.",
+    "es": "La pianista Beatrice Rana inaugura la temporada de conciertos 2027, a las 16:00."
+   },
+   "link": "https://www.maggiofiorentino.com/"
+  },
+  {
+   "nome": "La traviata",
+   "tipo": {
+    "it": "Opera",
+    "en": "Opera",
+    "fr": "Opéra",
+    "de": "Oper",
+    "es": "Ópera"
+   },
+   "inizio": "2027-01-15",
+   "fine": "2027-01-22",
+   "luogo": "Teatro del Maggio Musicale Fiorentino",
+   "descrizione": {
+    "it": "Ripresa dell'opera di Giuseppe Verdi nell'allestimento del 2024, con recite il 15, 17, 20 e 22 gennaio.",
+    "en": "Revival of Giuseppe Verdi's opera in the 2024 production, with performances on 15, 17, 20 and 22 January.",
+    "fr": "Reprise de l'opéra de Giuseppe Verdi dans la mise en scène de 2024, avec des représentations les 15, 17, 20 et 22 janvier.",
+    "de": "Wiederaufnahme von Giuseppe Verdis Oper in der Inszenierung von 2024, mit Vorstellungen am 15., 17., 20. und 22. Januar.",
+    "es": "Reposición de la ópera de Giuseppe Verdi en el montaje de 2024, con funciones el 15, 17, 20 y 22 de enero."
+   },
+   "link": "https://www.maggiofiorentino.com/"
+  },
+  {
+   "nome": "Il segno di Michelangelo in figure e rime. Disegni dal Teylers Museum di Haarlem",
+   "tipo": {
+    "it": "Mostra",
+    "en": "Exhibition",
+    "fr": "Exposition",
+    "de": "Ausstellung",
+    "es": "Exposición"
+   },
+   "inizio": "2027-02-02",
+   "fine": "2027-05-02",
+   "luogo": "Museo delle Cappelle Medicee",
+   "luogoId": "museo-delle-cappelle-medicee",
+   "descrizione": {
+    "it": "Dieci disegni di Michelangelo dal Teylers Museum di Haarlem, in gran parte mai esposti in Italia, dialogano con i suoi versi e con altre opere.",
+    "en": "Ten drawings by Michelangelo from the Teylers Museum in Haarlem, many never shown in Italy before, in dialogue with his verses and other works.",
+    "fr": "Dix dessins de Michel-Ange du Teylers Museum de Haarlem, pour la plupart jamais exposés en Italie, dialoguent avec ses vers et d'autres œuvres.",
+    "de": "Zehn Zeichnungen Michelangelos aus dem Teylers Museum in Haarlem, viele davon noch nie in Italien gezeigt, im Dialog mit seinen Versen und weiteren Werken.",
+    "es": "Diez dibujos de Miguel Ángel del Teylers Museum de Haarlem, muchos nunca expuestos en Italia, dialogan con sus versos y con otras obras."
+   },
+   "link": "https://www.galleriaaccademiafirenze.it/news/stagione-mostre/"
+  },
+  {
+   "nome": "Scoppio del Carro",
+   "tipo": {
+    "it": "Tradizione",
+    "en": "Tradition",
+    "fr": "Tradition",
+    "de": "Brauchtum",
+    "es": "Tradición"
+   },
+   "inizio": "2027-03-28",
+   "fine": "2027-03-28",
+   "luogo": "Piazza del Duomo",
+   "luogoId": "cattedrale-di-santa-maria-del-fiore",
+   "descrizione": {
+    "it": "Nella domenica di Pasqua il carro storico esplode davanti al Duomo, in una delle più antiche tradizioni popolari fiorentine.",
+    "en": "On Easter Sunday the historic cart bursts in front of the Duomo, in one of Florence's oldest popular traditions.",
+    "fr": "Le dimanche de Pâques, le char historique explose devant le Duomo, dans l'une des plus anciennes traditions populaires florentines.",
+    "de": "Am Ostersonntag explodiert der historische Wagen vor dem Dom, in einem der ältesten Volksbräuche von Florenz.",
+    "es": "El domingo de Pascua el carro histórico estalla delante del Duomo, en una de las tradiciones populares más antiguas de Florencia."
+   },
+   "link": "https://www.visitflorence.com/eventi-a-firenze/scoppio-del-carro-pasqua.html"
+  }
+ ]
 }

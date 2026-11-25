@@ -1,5 +1,5 @@
 {
- "versione": "76036ae1d939",
+ "versione": "4183d017724b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -4912,8 +4912,8 @@
   {
    "path": "dati/eventi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/eventi.json",
-   "sha256": "b32e45d250c034bf5c148b6fc1b4b2ff2f23730bc0df5f69085efa4d2c31f921",
-   "byte": 75
+   "sha256": "b438ac2c3ef46981dde5d2c3c7408955a2be85c43649c797bfb921a559a3339d",
+   "byte": 24701
   },
   {
    "path": "dati/immagini.json",
@@ -4995,17 +4995,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "31cd4643b408",
-   "da": "c2a9b7357f74",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 5,
-   "byte": 1284835
-  },
   {
    "versione": "033994e52c04",
    "da": "31cd4643b408",
@@ -5201,6 +5190,13 @@
    ],
    "foto_nuove": 5,
    "byte": 1339075
+  },
+  {
+   "versione": "4183d017724b",
+   "da": "76036ae1d939",
+   "data": "2026-11-25",
+   "eventi_nuovi": 22,
+   "byte": 24701
   }
  ]
 }

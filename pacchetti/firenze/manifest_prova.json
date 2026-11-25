@@ -1,5 +1,5 @@
 {
- "versione": "601735fe0e24",
+ "versione": "8bb208742d34",
  "tipo": "prova",
  "file": [
   {
@@ -3767,8 +3767,8 @@
   {
    "path": "dati/eventi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/prova/dati/eventi.json",
-   "sha256": "2a35f5c02ba3b5574eb5665f3853a366e91bcf526eee7bdee3003f02ecafa0d4",
-   "byte": 74
+   "sha256": "f72b3a8a3a3208e97c7dc3b423b7e8a8cb17c4983c37fc12f43dc1823403115d",
+   "byte": 138
   },
   {
    "path": "dati/immagini.json",
