@@ -1,5 +1,5 @@
 {
- "versione": "d5d6e90d326c",
+ "versione": "c825eaaccccf",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -372,6 +372,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-andrea-del-sarto-a-san-salvi_5.webp",
    "sha256": "81fe5570afb15063246d4a774e46920e30092515d7ef1d8efa8ab0f74a2f1062",
    "byte": 151106
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-fuligno.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-fuligno.webp",
+   "sha256": "cecd9bd7a725516dd38db03b86bdc2475b11d73a2722816481de4a77e8717796",
+   "byte": 78970
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-fuligno_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-fuligno_2.webp",
+   "sha256": "8557fa07cd8fa9eba104d8273b02a2995657baac563d2531ca53daeba85f054c",
+   "byte": 46528
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-fuligno_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-fuligno_3.webp",
+   "sha256": "39f976fb29589ddb97b80cff8be2ae36da0f1ddc2cb811e3a8f6043c3e1a0506",
+   "byte": 140812
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-fuligno_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-fuligno_4.webp",
+   "sha256": "bbd13515ca31a80ef26035c1d1305fb4b912c1bf4d7cc636d745f53732e17027",
+   "byte": 162376
+  },
+  {
+   "path": "assets/luoghi/cenacolo-di-fuligno_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-fuligno_5.webp",
+   "sha256": "56295f3f7d8d3f3561d27a1af84ffb467ea9d48d36747672f6728c7ae7466b80",
+   "byte": 162414
   },
   {
    "path": "assets/luoghi/cenacolo-di-sant-apollonia.webp",
@@ -5218,8 +5248,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "e53513040989ad5b84a31d692f174d879ba6a42e794536b5350a647056406280",
-   "byte": 1709
+   "sha256": "9ba67baa9fc9cfac393a65de7bd5d320d77cec0811b09fd5a04e5b51f5016b94",
+   "byte": 1737
   },
   {
    "path": "dati/itinerari.json",
@@ -5230,8 +5260,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "8787c4492805a179c1120882561a98f9744f3a157db9466877b1fd66557feb5a",
-   "byte": 949700
+   "sha256": "507cf8ec65131a53c308270654498820426987c68e977eee36f964a91f60ec11",
+   "byte": 972509
   },
   {
    "path": "dati/mappa.json",
@@ -5295,16 +5325,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "77dd76018bab",
-   "da": "65ddf15655c7",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Museo Galileo"
-   ],
-   "foto_nuove": 5,
-   "byte": 2122987
-  },
   {
    "versione": "038866dd7d2b",
    "da": "77dd76018bab",
@@ -5489,6 +5509,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1312079
+  },
+  {
+   "versione": "c825eaaccccf",
+   "da": "d5d6e90d326c",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Cenacolo di Fuligno"
+   ],
+   "foto_nuove": 5,
+   "byte": 1565346
   }
  ]
 }
