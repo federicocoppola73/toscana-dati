@@ -1,5 +1,5 @@
 {
- "versione": "097da795e5c5",
+ "versione": "162df0dd4f10",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -792,6 +792,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/ospedale-degli-innocenti_5.webp",
    "sha256": "c9217843643e4705234db1d821bd9392ffd3d7ac87c6bc9619a6da8651ab8755",
    "byte": 249170
+  },
+  {
+   "path": "assets/luoghi/palazzo-budini-gattai.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-budini-gattai.webp",
+   "sha256": "891cb4bb6e2b8b54dd7eb29f570a517b0f00823820fd2ebef08fda2530f0da0a",
+   "byte": 159604
+  },
+  {
+   "path": "assets/luoghi/palazzo-budini-gattai_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-budini-gattai_2.webp",
+   "sha256": "8fbd1f97b71ad86005afa8ad5812d19aa0b551856f74fd90e953048474e9c6a1",
+   "byte": 379514
+  },
+  {
+   "path": "assets/luoghi/palazzo-budini-gattai_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-budini-gattai_3.webp",
+   "sha256": "fe923c33ecd0d46ed8bebe4b2e4854c3cbc121e3b452e5deb9f305a05ebf5cb4",
+   "byte": 331236
+  },
+  {
+   "path": "assets/luoghi/palazzo-budini-gattai_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-budini-gattai_4.webp",
+   "sha256": "7dad7e66e99247d72801ba68ff0e4f73c2be3ffef51a79901c3335c74cb83a23",
+   "byte": 234006
+  },
+  {
+   "path": "assets/luoghi/palazzo-budini-gattai_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-budini-gattai_5.webp",
+   "sha256": "14ab5573ed530b9a04295ee5653c9e5af66ce53419a6343a374a6dafb08ab259",
+   "byte": 136670
   },
   {
    "path": "assets/luoghi/palazzo-medici-riccardi.webp",
@@ -5008,8 +5038,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "4cc03059470822f3163fc43a91b61061eb55b9c2fd4de05b93e3eabe90dbafbd",
-   "byte": 1434
+   "sha256": "07594ce657480c532212c5d8f58bdd70b406a648b25ed6058e2b2556abe3642f",
+   "byte": 1464
   },
   {
    "path": "dati/itinerari.json",
@@ -5020,8 +5050,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "0947fa2f0a207de5a2df0e47fc7dd3cb5972a04daa85e671620bfaf04e41e8b7",
-   "byte": 719578
+   "sha256": "3a06c60f1f4d89d39d35d88a75fa301f505103916f5040d2936ced5a7d2a631f",
+   "byte": 748316
   },
   {
    "path": "dati/mappa.json",
@@ -5085,17 +5115,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "564863e55f86",
-   "da": "70eabde3fdb7",
-   "data": "2026-11-24",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 4,
-   "byte": 745937
-  },
   {
    "versione": "49b9db96cd4b",
    "da": "564863e55f86",
@@ -5284,6 +5303,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1089162
+  },
+  {
+   "versione": "162df0dd4f10",
+   "da": "097da795e5c5",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Palazzo Budini Gattai"
+   ],
+   "foto_nuove": 5,
+   "byte": 1990810
   }
  ]
 }
