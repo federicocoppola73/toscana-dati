@@ -1,5 +1,5 @@
 {
- "versione": "267295cb8b75",
+ "versione": "9b8b5450576f",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -942,6 +942,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-nazionale-del-bargello_5.webp",
    "sha256": "bd01551ef45e86296e16f82cbfc51bf8fb1eb6b1eea96e849e2a6cf8408f9994",
    "byte": 79166
+  },
+  {
+   "path": "assets/luoghi/museo-stibbert.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-stibbert.webp",
+   "sha256": "070251479c392ce0c163c8a77d7c5361ca677182eee1af0f10d02b9bcac71d4a",
+   "byte": 125914
+  },
+  {
+   "path": "assets/luoghi/museo-stibbert_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-stibbert_2.webp",
+   "sha256": "c10ab013c0318b0b4c643359388bda39e380615cd2bdcf1555f33cbfd7e7e7d8",
+   "byte": 428688
+  },
+  {
+   "path": "assets/luoghi/museo-stibbert_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-stibbert_3.webp",
+   "sha256": "ae3a9e7dd8d807e9fbfebfe46911a5ac2c26b7ea8666451bcfb15d0cc1eeb287",
+   "byte": 86490
+  },
+  {
+   "path": "assets/luoghi/museo-stibbert_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-stibbert_4.webp",
+   "sha256": "72f6fcc51cb9d5f8fa66c4cca8069533781ef4558935443306836387ee39e90f",
+   "byte": 281802
+  },
+  {
+   "path": "assets/luoghi/museo-stibbert_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-stibbert_5.webp",
+   "sha256": "cf2ede9224105429f3d0940374558df4f0d190a55e750e3ea29a99ac6670a819",
+   "byte": 145898
   },
   {
    "path": "assets/luoghi/orto-botanico-giardino-dei-semplici.webp",
@@ -5266,8 +5296,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "954a2dfae987950fad025cfac601a42951a259b0832238d427bc29644a30e1e8",
-   "byte": 1757
+   "sha256": "56529d394f65fea2b2a8ef3df33cba5e4cec95c7aa0839739218ed07b7493258",
+   "byte": 1780
   },
   {
    "path": "dati/itinerari.json",
@@ -5278,8 +5308,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "1be8d465384b8a05c0d43db0cc58f7648aa7089c5dfea09feb4a4a6ec0709d32",
-   "byte": 994144
+   "sha256": "3f4479d56ecaf423f711aea9094cc61f57a1370c8e685e191457874dc7900df8",
+   "byte": 1022591
   },
   {
    "path": "dati/mappa.json",
@@ -5343,13 +5373,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "b0eb4aeb4a04",
-   "da": "038866dd7d2b",
-   "data": "2026-11-25",
-   "mappa": true,
-   "byte": 3997238
-  },
   {
    "versione": "4c510d1bfb78",
    "da": "b0eb4aeb4a04",
@@ -5536,6 +5559,16 @@
    ],
    "foto_nuove": 3,
    "byte": 1385969
+  },
+  {
+   "versione": "9b8b5450576f",
+   "da": "267295cb8b75",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Museo Stibbert"
+   ],
+   "foto_nuove": 5,
+   "byte": 2093163
   }
  ]
 }
