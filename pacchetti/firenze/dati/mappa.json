@@ -1,13 +1,13 @@
 {
   "_nota": "Mappa disegnata con dati © OpenStreetMap contributors (licenza ODbL). I punti di riferimento servono all'app per posizionare i luoghi a partire da latitudine e longitudine.",
   "immagine": "mappa-firenze.webp",
-  "larghezza": 6000,
+  "larghezza": 7570,
   "altezza": 4858,
   "punti_riferimento": [
     {
       "nome": "Angolo nord-ovest",
       "latitudine": 43.79,
-      "longitudine": 11.225,
+      "longitudine": 11.208,
       "x": 0.0,
       "y": 0.0
     },
@@ -15,13 +15,13 @@
       "nome": "Angolo nord-est",
       "latitudine": 43.79,
       "longitudine": 11.29,
-      "x": 6000.0,
+      "x": 7570.0,
       "y": 0.0
     },
     {
       "nome": "Angolo sud-ovest",
       "latitudine": 43.752,
-      "longitudine": 11.225,
+      "longitudine": 11.208,
       "x": 0.0,
       "y": 4858.0
     },
@@ -29,14 +29,14 @@
       "nome": "Angolo sud-est",
       "latitudine": 43.752,
       "longitudine": 11.29,
-      "x": 6000.0,
+      "x": 7570.0,
       "y": 4858.0
     },
     {
       "nome": "Centro",
       "latitudine": 43.7696,
       "longitudine": 11.2558,
-      "x": 2843.1,
+      "x": 4412.8,
       "y": 2608.0
     }
   ]
