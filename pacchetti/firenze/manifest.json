@@ -1,5 +1,5 @@
 {
- "versione": "4fcdbb89445a",
+ "versione": "a2f26bd1af1c",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1482,6 +1482,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-signoria_5.webp",
    "sha256": "f258c07fd683853859b65b5c3b2d0dcf5203da588eb91ffb07818661f512b17c",
    "byte": 97574
+  },
+  {
+   "path": "assets/luoghi/piazza-san-marco.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-san-marco.webp",
+   "sha256": "4f508a1769f547b666798c904ff506c461a283606695e30e8323d6db25811b0a",
+   "byte": 111770
+  },
+  {
+   "path": "assets/luoghi/piazza-san-marco_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-san-marco_2.webp",
+   "sha256": "72182aa62c5e98f38e35a3283cfc6fd0b84b596dc75d26a7b5fe087db868d8aa",
+   "byte": 120296
+  },
+  {
+   "path": "assets/luoghi/piazza-san-marco_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-san-marco_3.webp",
+   "sha256": "bc543863b5be10b73ffa434125b3bf8e3be3fe04f388a719a372707f9b100273",
+   "byte": 89352
+  },
+  {
+   "path": "assets/luoghi/piazza-san-marco_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-san-marco_4.webp",
+   "sha256": "65733b74dd0215503e0eecaea04f8113324fff1b633b2ea417f3a22be4123bf6",
+   "byte": 64406
   },
   {
    "path": "assets/luoghi/piazza-santa-croce.webp",
@@ -5512,8 +5536,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "bd8f4fe7f9ca964d13ababd35323cce34d4f1afd4bcf13abbc68fe6ccca0925f",
-   "byte": 2012
+   "sha256": "eb93b69b24fab99f8c09b191ed06d646e0ee1be5ce3e5094f7404e840a582246",
+   "byte": 2037
   },
   {
    "path": "dati/itinerari.json",
@@ -5524,8 +5548,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "bba7634fa583e1400ce3d26c5c901beab8d69f5d4fa5a7032a1b27ab1a241f03",
-   "byte": 1238613
+   "sha256": "fb92b891b870fd5a9b37fe50b1f6da27c5b5f5a388698114c95fb2f6796d510a",
+   "byte": 1264207
   },
   {
    "path": "dati/mappa.json",
@@ -5589,16 +5613,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "88ec0784bc3e",
-   "da": "162df0dd4f10",
-   "data": "2026-11-25",
-   "luoghi_aggiornati": 4,
-   "aspetti": [
-    "accessibilita"
-   ],
-   "byte": 757116
-  },
   {
    "versione": "9548a80cf47a",
    "da": "88ec0784bc3e",
@@ -5788,6 +5802,16 @@
    ],
    "foto_nuove": 5,
    "byte": 2009479
+  },
+  {
+   "versione": "a2f26bd1af1c",
+   "da": "4fcdbb89445a",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Piazza San Marco"
+   ],
+   "foto_nuove": 4,
+   "byte": 1652068
   }
  ]
 }
