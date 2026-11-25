@@ -1,5 +1,5 @@
 {
- "versione": "4c510d1bfb78",
+ "versione": "cb3098784719",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1050,6 +1050,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/viale-dei-colli_3.webp",
    "sha256": "6c03154df2c1a8607f0564c11acc1f32a95cce45d98340691f1c61e02b6a26b7",
    "byte": 180284
+  },
+  {
+   "path": "assets/luoghi/villa-e-giardino-bardini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-e-giardino-bardini.webp",
+   "sha256": "c69907f7ec98a8e7eed12a701d6cb690d538688f9140c9109d5dd21af5f2dab7",
+   "byte": 76140
+  },
+  {
+   "path": "assets/luoghi/villa-e-giardino-bardini_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-e-giardino-bardini_2.webp",
+   "sha256": "e8bb02cf6f7348bf56157684e52e5e49059f3ecccd2e4a3fc452948641c2fb51",
+   "byte": 43380
+  },
+  {
+   "path": "assets/luoghi/villa-e-giardino-bardini_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-e-giardino-bardini_3.webp",
+   "sha256": "96281300d0506cb03651cf374d455df02e88bab11932f69ca08d164aa99554d6",
+   "byte": 101188
+  },
+  {
+   "path": "assets/luoghi/villa-e-giardino-bardini_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-e-giardino-bardini_4.webp",
+   "sha256": "eadb09f465e0bc2d90671edc6cd3f9441ec633539e6da7d8af778f1b8867e9b6",
+   "byte": 203564
+  },
+  {
+   "path": "assets/luoghi/villa-e-giardino-bardini_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-e-giardino-bardini_5.webp",
+   "sha256": "4f6a66274c93ba7741b81781fea412b8e1fcd962166b464c49a3d697525ea04f",
+   "byte": 194574
   },
   {
    "path": "assets/mappa-firenze.webp",
@@ -4858,8 +4888,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "7c56badd636fc60f1ae7b69f0252cf523b6bbdaf0c3ae7bca03666431c5df647",
-   "byte": 1256
+   "sha256": "322af03be104641dd99d4fc6997844bdf484ea41a1a796a0a48a59358d868f3f",
+   "byte": 1289
   },
   {
    "path": "dati/itinerari.json",
@@ -4870,8 +4900,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "317baeb214e3a1efadbd65012487288dbf0d07d02991d7c76d7a205898dda931",
-   "byte": 554344
+   "sha256": "6896031c5dbadbb90d1b1c67c9d2c380a7fcfade821cf7f3f75733edb458d544",
+   "byte": 593184
   },
   {
    "path": "dati/mappa.json",
@@ -4935,26 +4965,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "35b74c9b8afa",
-   "da": "3cf251a8ab31",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Chiesa di San Salvatore al Monte",
-    "Rampe del Poggi",
-    "Porta San Niccolò",
-    "Parco del Bobolino",
-    "Porta Romana"
-   ],
-   "luoghi_aggiornati": 2,
-   "aspetti": [
-    "accessibilita",
-    "foto"
-   ],
-   "foto_nuove": 3,
-   "curiosita_nuove": 1,
-   "byte": 1512459
-  },
   {
    "versione": "c2a9b7357f74",
    "da": "35b74c9b8afa",
@@ -5152,6 +5162,16 @@
    ],
    "foto_nuove": 5,
    "byte": 1977470
+  },
+  {
+   "versione": "cb3098784719",
+   "da": "4c510d1bfb78",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Villa e Giardino Bardini"
+   ],
+   "foto_nuove": 5,
+   "byte": 1213319
   }
  ]
 }
