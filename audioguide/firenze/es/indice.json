@@ -1,5 +1,5 @@
 {
- "versione": "dad85cc060ad",
+ "versione": "3d69ff490ef1",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -365,6 +365,21 @@
      "secondi": 249,
      "sha256": "eb972ffb4be161228af165305c9d602ba4caf6299eb7aa11f856a1270c580092",
      "testo": "690df56bba7e70ca"
+    }
+   ]
+  },
+  "la-specola": {
+   "byte": 874268,
+   "secondi": 146,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "la-specola.mp3",
+     "byte": 874268,
+     "secondi": 146,
+     "sha256": "ad0ba21a4fc46333fe1a76569f382883b5445efa22f4f76ecb99517167879c26",
+     "testo": "3e38f790e8b9793f"
     }
    ]
   },
