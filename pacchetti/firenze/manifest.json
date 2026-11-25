@@ -1,5 +1,5 @@
 {
- "versione": "e2807a21748e",
+ "versione": "56336a00f8be",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -876,6 +876,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-budini-gattai_5.webp",
    "sha256": "14ab5573ed530b9a04295ee5653c9e5af66ce53419a6343a374a6dafb08ab259",
    "byte": 136670
+  },
+  {
+   "path": "assets/luoghi/palazzo-davanzati.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-davanzati.webp",
+   "sha256": "4e0aca56dc5d64f4fff00300be0734b6de037e4fa9613b79a12517edf3c0fe55",
+   "byte": 158568
+  },
+  {
+   "path": "assets/luoghi/palazzo-davanzati_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-davanzati_2.webp",
+   "sha256": "00e3e5a32e88b7b22f34a24fb989cbca51d112e4d4ac8a3b6e48c01d5db543be",
+   "byte": 120700
+  },
+  {
+   "path": "assets/luoghi/palazzo-davanzati_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-davanzati_3.webp",
+   "sha256": "57bd15233b0ff1019d4635d664f2cebfac5a1d357cb0149893edcb483d5ae0fb",
+   "byte": 143956
+  },
+  {
+   "path": "assets/luoghi/palazzo-davanzati_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-davanzati_4.webp",
+   "sha256": "d72b5703fd8e36e98c817932b8e2034e501f7f03aa770a7b03c8ea0b794bf202",
+   "byte": 245536
+  },
+  {
+   "path": "assets/luoghi/palazzo-davanzati_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-davanzati_5.webp",
+   "sha256": "cc2f9852127e78da9ef49ee7ef0e0346744d42258778670a7f96e0b33d7950a6",
+   "byte": 65034
   },
   {
    "path": "assets/luoghi/palazzo-medici-riccardi.webp",
@@ -5092,8 +5122,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "9a75a8bda05093240edc739178cf555ba4f91ddc48179e90e3dc3a9b826300ac",
-   "byte": 1536
+   "sha256": "66ddba7a05c947342c848c0237b8b4d96263fd1343cc5f5db4303997131fac8e",
+   "byte": 1562
   },
   {
    "path": "dati/itinerari.json",
@@ -5104,8 +5134,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "189637b77707fe4ef9fb91230de764d0bde4d0f57637195074382681657726cf",
-   "byte": 813765
+   "sha256": "33a4c325712d87929c290524cab0b6a85c4f8c4569b4f160a30bcf7c1e3e245b",
+   "byte": 847117
   },
   {
    "path": "dati/mappa.json",
@@ -5169,15 +5199,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4c9e36aacde2",
-   "da": "906338746e4d",
-   "data": "2026-11-24",
-   "luoghi_nuovi": [
-    "Galleria dell'Accademia di Firenze"
-   ],
-   "byte": 1253500
-  },
   {
    "versione": "34f73f33d2d8",
    "da": "4c9e36aacde2",
@@ -5363,6 +5384,16 @@
     "accessibilita"
    ],
    "byte": 813765
+  },
+  {
+   "versione": "56336a00f8be",
+   "da": "e2807a21748e",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Palazzo Davanzati"
+   ],
+   "foto_nuove": 5,
+   "byte": 1582473
   }
  ]
 }
