@@ -1,7 +1,22 @@
 {
- "versione": "03c0000d7ac8",
+ "versione": "5497a6f921f4",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
+  "basilica-della-santissima-annunziata": {
+   "byte": 1195676,
+   "secondi": 199,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-della-santissima-annunziata.mp3",
+     "byte": 1195676,
+     "secondi": 199,
+     "sha256": "900e0e83a3654f3208b3836731e7eb425917b37064c5f08f59273fd3a7ab3436",
+     "testo": "b468e4bed56380d0"
+    }
+   ]
+  },
   "basilica-di-san-lorenzo": {
    "byte": 1180700,
    "secondi": 197,
