@@ -1,5 +1,5 @@
 {
- "versione": "aa677c66d7a0",
+ "versione": "8797a7f756ce",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -197,6 +197,21 @@
      "secondi": 136,
      "sha256": "5cd3e28f4c455d76dd9a8607362b1630ab483d14b023fa6d7de0f7beeb24b4c2",
      "testo": "8969a2f3708f1ba2"
+    }
+   ]
+  },
+  "cenacolo-di-fuligno": {
+   "byte": 793772,
+   "secondi": 132,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "cenacolo-di-fuligno.mp3",
+     "byte": 793772,
+     "secondi": 132,
+     "sha256": "cf320c0bb8e4a694f343469d9eb9b7538eabc0e728395eac90d73dcdcd7e4d91",
+     "testo": "7acd193c493cd211"
     }
    ]
   },
