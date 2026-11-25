@@ -1,5 +1,5 @@
 {
- "versione": "a2f26bd1af1c",
+ "versione": "2a85500b8880",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1392,6 +1392,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/partir-la-valigia-di-folon_3.webp",
    "sha256": "af52544920197c2ed92138f8e7527edfa44f84d0d8eaaedc1192dc65251aab6e",
    "byte": 98796
+  },
+  {
+   "path": "assets/luoghi/piazza-della-liberta.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-liberta.webp",
+   "sha256": "d925f576cf72d0c9a24f59b81aa1f3add1c0ca727c4f8650b2d635d4c36a4059",
+   "byte": 108016
+  },
+  {
+   "path": "assets/luoghi/piazza-della-liberta_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-liberta_2.webp",
+   "sha256": "6b3208cb19316300550ab069e456533d2443dd068ab89c0fd0948d61dc22c819",
+   "byte": 90336
+  },
+  {
+   "path": "assets/luoghi/piazza-della-liberta_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-liberta_3.webp",
+   "sha256": "7ce8f3ddc12a5554550cde1df3cb081e795222c758e71516f0b94771b8040973",
+   "byte": 122572
+  },
+  {
+   "path": "assets/luoghi/piazza-della-liberta_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/piazza-della-liberta_4.webp",
+   "sha256": "db2727e859317146c46d716b9ad0789c3ca0a3eeb19ad15d6c226d07f3f20517",
+   "byte": 83968
   },
   {
    "path": "assets/luoghi/piazza-della-repubblica.webp",
@@ -5536,8 +5560,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "eb93b69b24fab99f8c09b191ed06d646e0ee1be5ce3e5094f7404e840a582246",
-   "byte": 2037
+   "sha256": "15e08582b371724fa8718abe35a96c51abcb9fa3178cb431261fd420cf19afd3",
+   "byte": 2066
   },
   {
    "path": "dati/itinerari.json",
@@ -5548,8 +5572,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "fb92b891b870fd5a9b37fe50b1f6da27c5b5f5a388698114c95fb2f6796d510a",
-   "byte": 1264207
+   "sha256": "2943299464871aa70d33f97156ac33dfe44e091127f1506f83e9b0f1f3f50bff",
+   "byte": 1288388
   },
   {
    "path": "dati/mappa.json",
@@ -5613,16 +5637,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "9548a80cf47a",
-   "da": "88ec0784bc3e",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo Archeologico Nazionale di Firenze"
-   ],
-   "foto_nuove": 5,
-   "byte": 1830028
-  },
   {
    "versione": "75d2ce68b85f",
    "da": "9548a80cf47a",
@@ -5812,6 +5826,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1652068
+  },
+  {
+   "versione": "2a85500b8880",
+   "da": "a2f26bd1af1c",
+   "data": "2026-11-25",
+   "luoghi_nuovi": [
+    "Piazza della Libertà"
+   ],
+   "foto_nuove": 4,
+   "byte": 1695346
   }
  ]
 }
