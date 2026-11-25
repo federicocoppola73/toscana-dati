@@ -1,5 +1,5 @@
 {
- "versione": "9106164fb282",
+ "versione": "a4f70490b51f",
  "voce": "it-IT-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -182,6 +182,21 @@
      "secondi": 187,
      "sha256": "5c10294e37c1b6cb634e5bd76bc3a656a9933e95e59f5a2f50677428b7b26082",
      "testo": "d6e6891b12d6d060"
+    }
+   ]
+  },
+  "cenacolo-di-sant-apollonia": {
+   "byte": 920924,
+   "secondi": 153,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "cenacolo-di-sant-apollonia.mp3",
+     "byte": 920924,
+     "secondi": 153,
+     "sha256": "0df8cca5bbd02f7ce69496e52288f2704c8ef5b36a539f41a95ee760693ccf78",
+     "testo": "06b25f8181252fc1"
     }
    ]
   },
