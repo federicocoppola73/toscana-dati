@@ -1,5 +1,5 @@
 {
- "versione": "7af8b0acd31e",
+ "versione": "bd47dd576b27",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -1034,6 +1034,21 @@
      "secondi": 243,
      "sha256": "ee927c625a250bf3948cd9f67c9816c156e4ed625cafe3c629e9d0be59a669bb",
      "testo": "006b796a36a14d67"
+    }
+   ]
+  },
+  "torre-della-zecca": {
+   "byte": 1532492,
+   "secondi": 255,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "torre-della-zecca.mp3",
+     "byte": 1532492,
+     "secondi": 255,
+     "sha256": "20a8bd056d265653c819ebe84fd91d6f5c0274da7110bce27dd3964160e6107f",
+     "testo": "ae52775d8cd61d77"
     }
    ]
   },
