@@ -1,5 +1,5 @@
 {
- "versione": "e5473fdd5df2",
+ "versione": "1d76f2c2ff63",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -287,6 +287,21 @@
      "secondi": 306,
      "sha256": "7ade3ca12e593c43bc425dba6aa315d5db6a498fecee1f60df31c9ac6c37e3b7",
      "testo": "80e7c7382b31fd6e"
+    }
+   ]
+  },
+  "fortezza-da-basso": {
+   "byte": 1492892,
+   "secondi": 249,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "fortezza-da-basso.mp3",
+     "byte": 1492892,
+     "secondi": 249,
+     "sha256": "199a8adbdebc002fa766f356ba3831e2d7584ad28a736a4a0f10f2ecc906dedb",
+     "testo": "6afa62800bfeafac"
     }
    ]
   },
