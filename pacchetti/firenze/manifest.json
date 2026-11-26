@@ -1,5 +1,5 @@
 {
- "versione": "2a85500b8880",
+ "versione": "fb996c37561b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1704,6 +1704,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/santa-maria-alla-querce_3.webp",
    "sha256": "29808268aac587ce86fb55d9fe425b96cccf37c81505bae37b74798415cb84e5",
    "byte": 55624
+  },
+  {
+   "path": "assets/luoghi/torre-della-zecca.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/torre-della-zecca.webp",
+   "sha256": "5c1fe2579301670a8ed798ebef072d94dc1ec8f1a37ba3e9908d079ea352c056",
+   "byte": 245070
+  },
+  {
+   "path": "assets/luoghi/torre-della-zecca_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/torre-della-zecca_2.webp",
+   "sha256": "0766077e4c1683dcb7420fa82787436fcd27d1432daf26498aa95616198d9fcd",
+   "byte": 176164
+  },
+  {
+   "path": "assets/luoghi/torre-della-zecca_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/torre-della-zecca_3.webp",
+   "sha256": "9db02e664d88a851b6623b17440fb9ed0239d5729b0803a455764cbbb942aa11",
+   "byte": 105048
   },
   {
    "path": "assets/luoghi/viale-dei-colli.webp",
@@ -5560,8 +5578,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "15e08582b371724fa8718abe35a96c51abcb9fa3178cb431261fd420cf19afd3",
-   "byte": 2066
+   "sha256": "8b6a627b6292086724faad11ac30db6988b9352457fa3efedf1d86fcf537ffca",
+   "byte": 2092
   },
   {
    "path": "dati/itinerari.json",
@@ -5572,8 +5590,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "2943299464871aa70d33f97156ac33dfe44e091127f1506f83e9b0f1f3f50bff",
-   "byte": 1288388
+   "sha256": "36ab9aaba3eabf8ee168fc20033993bdff45604f7411ab61abe50a553065a004",
+   "byte": 1315754
   },
   {
    "path": "dati/mappa.json",
@@ -5637,16 +5655,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "75d2ce68b85f",
-   "da": "9548a80cf47a",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Casa Buonarroti"
-   ],
-   "foto_nuove": 4,
-   "byte": 1341786
-  },
   {
    "versione": "e2807a21748e",
    "da": "75d2ce68b85f",
@@ -5836,6 +5844,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1695346
+  },
+  {
+   "versione": "fb996c37561b",
+   "da": "2a85500b8880",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Torre della Zecca"
+   ],
+   "foto_nuove": 3,
+   "byte": 1844128
   }
  ]
 }
