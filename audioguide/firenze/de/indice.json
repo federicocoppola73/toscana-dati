@@ -1,5 +1,5 @@
 {
- "versione": "88aac62c9cea",
+ "versione": "4dce4aa102f5",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -749,6 +749,21 @@
      "secondi": 115,
      "sha256": "09f8b7cc4860945502bf462ffc0b6e5045fcd9d6fb197f81122518d891571c2f",
      "testo": "3bf42cd922b0dd63"
+    }
+   ]
+  },
+  "parco-delle-cascine": {
+   "byte": 1577852,
+   "secondi": 263,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "parco-delle-cascine.mp3",
+     "byte": 1577852,
+     "secondi": 263,
+     "sha256": "2a5c3a0f4be6c5b7ebdfe1f2a08cbec8c942cee14954712135c80422268d8e9d",
+     "testo": "2a954bf87ed733c1"
     }
    ]
   },
