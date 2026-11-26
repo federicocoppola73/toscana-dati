@@ -11843,7 +11843,34 @@
       "es": "Según Visit Tuscany (Región de Toscana), la iglesia de San Marcos no es accesible. El Museo di San Marco contiguo tiene, en cambio, su propio acceso, descrito en su ficha."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    },
+    {
+     "autore": "Mentnafunangann",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Mentnafunangann"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+    },
+    {
+     "autore": "Txllxt TxllxT",
+     "licenza": "CC BY 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+    }
+   ]
   },
   {
    "id": "museo-casa-di-dante",
