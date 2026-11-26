@@ -1,5 +1,5 @@
 {
- "versione": "fb996c37561b",
+ "versione": "56b1bc012180",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1636,26 +1636,26 @@
   {
    "path": "assets/luoghi/porta-san-niccolo.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/porta-san-niccolo.webp",
-   "sha256": "254a55afd0a7cff8e7398aa7a8eb90febc6425b85a160d8eb425e435e06b7ab7",
-   "byte": 115164
+   "sha256": "34acf01805e36caa2f6d790f506cb23cdd81f3979cecf633a10bca7c3d51b614",
+   "byte": 154090
   },
   {
    "path": "assets/luoghi/porta-san-niccolo_2.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/porta-san-niccolo_2.webp",
-   "sha256": "863e9f8cd02fd835b9d9b194d6ff54d7cea6ad698ad664b05dbcb26e5648c019",
-   "byte": 181956
+   "sha256": "bd5d9e410156c374d9b85631af9ac409d1e045a0a116cb2e5c6b16b7649f2495",
+   "byte": 406092
   },
   {
    "path": "assets/luoghi/porta-san-niccolo_3.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/porta-san-niccolo_3.webp",
-   "sha256": "9fc028cf857a97825da5d9c5290693fbc095e864bfbee90b59d9b08a26c3bb23",
-   "byte": 375272
+   "sha256": "7626ff4e2e6d9eabe53e848a3e1a5c923d3ac9a9d08ac7de74366dbfa7ab0a6e",
+   "byte": 105466
   },
   {
    "path": "assets/luoghi/porta-san-niccolo_4.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/porta-san-niccolo_4.webp",
-   "sha256": "b784383299e6814d03115c9e0ea8094c391c0103b14e965be214b3c3ba5ca6ff",
-   "byte": 163776
+   "sha256": "2d5a0585d758fd542f5e9cc708333bcf0e4b6dba06d1cd516074407d00160c2b",
+   "byte": 84462
   },
   {
    "path": "assets/luoghi/rampe-del-poggi.webp",
@@ -5590,8 +5590,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "36ab9aaba3eabf8ee168fc20033993bdff45604f7411ab61abe50a553065a004",
-   "byte": 1315754
+   "sha256": "62114fbe8fc57cd6fe7550b84486c365cdc07aaefc8711d7915dcdc5c97a515c",
+   "byte": 1336465
   },
   {
    "path": "dati/mappa.json",
@@ -5655,16 +5655,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "e2807a21748e",
-   "da": "75d2ce68b85f",
-   "data": "2026-11-25",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "accessibilita"
-   ],
-   "byte": 813765
-  },
   {
    "versione": "56336a00f8be",
    "da": "e2807a21748e",
@@ -5854,6 +5844,19 @@
    ],
    "foto_nuove": 3,
    "byte": 1844128
+  },
+  {
+   "versione": "56b1bc012180",
+   "da": "fb996c37561b",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "descrizioni",
+    "accessibilita",
+    "foto",
+    "altro"
+   ],
+   "byte": 2086575
   }
  ]
 }
