@@ -1,5 +1,5 @@
 {
- "versione": "b58d308d79c8",
+ "versione": "2717c5edab89",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1812,6 +1812,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rampe-del-poggi_5.webp",
    "sha256": "adc70f9b68505fa27720b6930df31bc7aa9cf884d961f8f15be2bb49a903ce92",
    "byte": 193392
+  },
+  {
+   "path": "assets/luoghi/rifugio-digitale.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rifugio-digitale.webp",
+   "sha256": "184e7b6cb504d804bbb5e3e96b57abf7d52e85bf25662acb51439a4dee0eff47",
+   "byte": 89208
+  },
+  {
+   "path": "assets/luoghi/rifugio-digitale_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rifugio-digitale_2.webp",
+   "sha256": "4075ec8ffcea69b96933fe02b3879bc0d95368aebb7a3ffeb29552bc44c8aa6f",
+   "byte": 98546
+  },
+  {
+   "path": "assets/luoghi/rifugio-digitale_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rifugio-digitale_3.webp",
+   "sha256": "25807481cfd81bbc36498ff47fd60f9c667adf77272928193d633915ded9685b",
+   "byte": 120572
+  },
+  {
+   "path": "assets/luoghi/rifugio-digitale_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/rifugio-digitale_4.webp",
+   "sha256": "48aa387639ba4efc1dfe28dc35266955faeb1e177dfc481c4121e3f20debaf5d",
+   "byte": 139778
   },
   {
    "path": "assets/luoghi/santa-maria-alla-querce.webp",
@@ -5794,8 +5818,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "6caa1b288c5c0ec1b1207b8d784ae053bc50e3a7c4d6dd54a6bf07711e680b24",
-   "byte": 2334
+   "sha256": "ba8f4c0c63b876b2cee201d9c585f7dc078e185c8d70fb849b3bdcbf29cc2ba9",
+   "byte": 2359
   },
   {
    "path": "dati/itinerari.json",
@@ -5806,8 +5830,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "6aa9dc6e295bdc285981bacecb021efab8151d8710016b960946ca5b204f826b",
-   "byte": 1570743
+   "sha256": "fe0f12b3eb77c3b59f142a235121bf6cfa4068c40dcfb4ecd599cebebb2271fc",
+   "byte": 1571352
   },
   {
    "path": "dati/mappa.json",
@@ -5871,16 +5895,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "5407d969fae4",
-   "da": "7431b2d23040",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo Marino Marini"
-   ],
-   "foto_nuove": 5,
-   "byte": 1468186
-  },
   {
    "versione": "e161665f0a33",
    "da": "5407d969fae4",
@@ -6079,6 +6093,17 @@
    ],
    "foto_nuove": 4,
    "byte": 2436661
+  },
+  {
+   "versione": "2717c5edab89",
+   "da": "b58d308d79c8",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 2021815
   }
  ]
 }
