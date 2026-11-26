@@ -10831,6 +10831,33 @@
       },
       "chiuso": [
         "mar"
+      ],
+      "immagine": {
+        "autore": "Lucarelli",
+        "licenza": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/User:Lucarelli"
+      },
+      "galleria": [
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+        },
+        {
+          "autore": "Ricardalovesmonuments",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Ricardalovesmonuments"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+        }
       ]
     },
     {

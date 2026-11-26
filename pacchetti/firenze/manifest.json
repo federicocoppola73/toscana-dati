@@ -1,5 +1,5 @@
 {
- "versione": "e079d3fe0615",
+ "versione": "5c47d4ec8ea9",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -534,6 +534,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-al-monte_4.webp",
    "sha256": "8a37d2e5f0c624a5e10661c36495d6a72faa4b0a164bc4f5aab5275946039877",
    "byte": 84152
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-in-ognissanti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-in-ognissanti.webp",
+   "sha256": "3247d7a1c84ce715ff486023662e2e8a089fc79bb51e8359f3e6bfd029b3dc3f",
+   "byte": 246432
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_2.webp",
+   "sha256": "8632353de43f0c6426c8720602509b9ca3350c022f8b2007a404639d8de7a954",
+   "byte": 124976
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_3.webp",
+   "sha256": "4cfd48af2caea0e6b796f9be0b1d6c510804cf8223ef80f899e45279aa3df871",
+   "byte": 318088
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_4.webp",
+   "sha256": "f5c759beb67283fade8c3f24b285a9a660ff1437c95d1713171dae147864454d",
+   "byte": 235014
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_5.webp",
+   "sha256": "553793e8a91a040ef226d4041a0616f527dfee3403c1fb3bc3a3bf9c841aca9c",
+   "byte": 176712
   },
   {
    "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele.webp",
@@ -5902,8 +5932,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "8aaab12f693de731285eb71f55c271017387ff46133db118829206a691fd62a1",
-   "byte": 2463
+   "sha256": "2ce745941d0c031099ddb601093a382b6933d1f47db90be4797f1333a398cae3",
+   "byte": 2509
   },
   {
    "path": "dati/itinerari.json",
@@ -5914,8 +5944,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "7332ad22189833095545613ae8c3fbbf599ab62bdc2f256bd0c351113fbc7a1f",
-   "byte": 1816499
+   "sha256": "eb05bdce5e2a701bd3fbdacce8dd15b5542790f74cd2c4e5841d110d5b989530",
+   "byte": 1817330
   },
   {
    "path": "dati/mappa.json",
@@ -5979,19 +6009,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "56b1bc012180",
-   "da": "fb996c37561b",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "descrizioni",
-    "accessibilita",
-    "foto",
-    "altro"
-   ],
-   "byte": 2086575
-  },
   {
    "versione": "da0315b9fb6c",
    "da": "56b1bc012180",
@@ -6203,6 +6220,17 @@
    ],
    "foto_nuove": 3,
    "byte": 2192262
+  },
+  {
+   "versione": "5c47d4ec8ea9",
+   "da": "e079d3fe0615",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 2921061
   }
  ]
 }
