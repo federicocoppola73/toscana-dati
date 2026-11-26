@@ -1,5 +1,5 @@
 {
- "versione": "5c47d4ec8ea9",
+ "versione": "ff86bb622aec",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -510,6 +510,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cenacolo-di-sant-apollonia_4.webp",
    "sha256": "57574e90035083d34b6619ab179825f71fae0dbac21fbba130621845942cfdc6",
    "byte": 196958
+  },
+  {
+   "path": "assets/luoghi/chiesa-dei-santi-apostoli.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-dei-santi-apostoli.webp",
+   "sha256": "d1295020f8282ca68407295cdd81da6028b38619237a652fac7073a4e9e53200",
+   "byte": 172130
+  },
+  {
+   "path": "assets/luoghi/chiesa-dei-santi-apostoli_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-dei-santi-apostoli_2.webp",
+   "sha256": "39d929c2cb6ea949b20054cb6e913f3cb9557864ade3fd43889af0998dd67e19",
+   "byte": 148898
+  },
+  {
+   "path": "assets/luoghi/chiesa-dei-santi-apostoli_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-dei-santi-apostoli_3.webp",
+   "sha256": "5c4d2d5e241abf4bd67b12b34b1cd46602725c9281fec78c835dee813e405122",
+   "byte": 96772
+  },
+  {
+   "path": "assets/luoghi/chiesa-dei-santi-apostoli_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-dei-santi-apostoli_4.webp",
+   "sha256": "869df36b80f2a6ad9956259b003de982907cf001e5fcc4ecc8b536eaa93a39ef",
+   "byte": 97072
+  },
+  {
+   "path": "assets/luoghi/chiesa-dei-santi-apostoli_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-dei-santi-apostoli_5.webp",
+   "sha256": "b87dea680a1a92d9eb888dfbe938f03a0a576620670e250a12d540598d51b710",
+   "byte": 68330
   },
   {
    "path": "assets/luoghi/chiesa-di-san-salvatore-al-monte.webp",
@@ -5932,8 +5962,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "2ce745941d0c031099ddb601093a382b6933d1f47db90be4797f1333a398cae3",
-   "byte": 2509
+   "sha256": "cf44b05ba45e9944ffd74524147a3545331db5a6ceff3f6e0305bb44fc7e716d",
+   "byte": 2543
   },
   {
    "path": "dati/itinerari.json",
@@ -5944,8 +5974,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "eb05bdce5e2a701bd3fbdacce8dd15b5542790f74cd2c4e5841d110d5b989530",
-   "byte": 1817330
+   "sha256": "37a889e08ad785a39b902ca83ecafd8566bf940cdb347e539ecfad5a5fec0d5c",
+   "byte": 1818125
   },
   {
    "path": "dati/mappa.json",
@@ -6009,16 +6039,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "da0315b9fb6c",
-   "da": "56b1bc012180",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Giardino Torrigiani"
-   ],
-   "foto_nuove": 7,
-   "byte": 3018659
-  },
   {
    "versione": "4f1d80ae400b",
    "da": "da0315b9fb6c",
@@ -6231,6 +6251,17 @@
    ],
    "foto_nuove": 5,
    "byte": 2921061
+  },
+  {
+   "versione": "ff86bb622aec",
+   "da": "5c47d4ec8ea9",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 2403870
   }
  ]
 }
