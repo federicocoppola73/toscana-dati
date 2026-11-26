@@ -89,20 +89,26 @@
  },
  "cibi": [
   "bistecca-alla-fiorentina",
+  "chianti-classico-docg",
   "coccoli",
   "crespelle-alla-fiorentina",
   "crostini-neri-toscani",
   "fagioli-alluccelletto",
+  "finocchiona-igp",
   "francesina",
+  "marrone-del-mugello-igp",
   "pan-di-ramerino",
+  "pane-toscano-dop",
   "panino-al-lampredotto",
   "panzanella",
   "pappa-al-pomodoro",
+  "pecorino-toscano-dop",
   "peposo-dellimpruneta",
   "ribollita",
   "schiacciata-alla-fiorentina",
   "schiacciata-con-luva",
-  "trippa-alla-fiorentina"
+  "trippa-alla-fiorentina",
+  "vin-santo-del-chianti-doc"
  ],
  "aguzza": []
 }
