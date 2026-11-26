@@ -1,7 +1,22 @@
 {
- "versione": "768e63d8a94d",
+ "versione": "eaf1225a5842",
  "voce": "fr-FR-Chirp3-HD-Kore",
  "luoghi": {
+  "badia-fiorentina": {
+   "byte": 867212,
+   "secondi": 145,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "badia-fiorentina.mp3",
+     "byte": 867212,
+     "secondi": 145,
+     "sha256": "1e5a2ebeb97fd84a655d01677cfbfd119d420ce913cd5eefe86cfbf7b1bb31b6",
+     "testo": "bccf723504a24714"
+    }
+   ]
+  },
   "basilica-della-santissima-annunziata": {
    "byte": 1154492,
    "secondi": 192,
@@ -59,6 +74,36 @@
      "secondi": 228,
      "sha256": "bbca55345223d7fb5e3202894e5f5fdafda7407ba7ed201812cdfc320d58f8de",
      "testo": "c34c5ff2696c7caf"
+    }
+   ]
+  },
+  "basilica-di-santa-felicita": {
+   "byte": 853676,
+   "secondi": 142,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-santa-felicita.mp3",
+     "byte": 853676,
+     "secondi": 142,
+     "sha256": "2dcd2086e8d65ecb564423d5c926ff041df4af591af880ba088d19698a635a67",
+     "testo": "d4c44cc515f7e0cd"
+    }
+   ]
+  },
+  "basilica-di-santa-maria-del-carmine": {
+   "byte": 914012,
+   "secondi": 152,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-santa-maria-del-carmine.mp3",
+     "byte": 914012,
+     "secondi": 152,
+     "sha256": "4f74c90bff61b0b8f7158ee3178e0f0f3dd8f902f63845fd0192438f1cc75855",
+     "testo": "84e1b563e18a0275"
     }
    ]
   },
@@ -242,6 +287,36 @@
      "secondi": 130,
      "sha256": "69b93543c037b40d0ccda7ac1990438018c40ea89721973a4a8a3143668de5c6",
      "testo": "c07ab440a31f0123"
+    }
+   ]
+  },
+  "chiesa-di-san-salvatore-in-ognissanti": {
+   "byte": 914588,
+   "secondi": 152,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "chiesa-di-san-salvatore-in-ognissanti.mp3",
+     "byte": 914588,
+     "secondi": 152,
+     "sha256": "a5b71b2ce3874e57ce266cde116df77a20a56055cf65a916edfad60c2403e7c0",
+     "testo": "35791b9062b5525f"
+    }
+   ]
+  },
+  "chiesa-di-santa-maria-maddalena-de-pazzi": {
+   "byte": 857132,
+   "secondi": 143,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "chiesa-di-santa-maria-maddalena-de-pazzi.mp3",
+     "byte": 857132,
+     "secondi": 143,
+     "sha256": "31bf92b3840fac50e3b851147636352e2e3042d84f6ad80d23a3f864847e1acc",
+     "testo": "0730af2d47194526"
     }
    ]
   },
