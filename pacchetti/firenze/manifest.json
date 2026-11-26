@@ -1,5 +1,5 @@
 {
- "versione": "2717c5edab89",
+ "versione": "d6ee75c2cdcd",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -5830,8 +5830,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "fe0f12b3eb77c3b59f142a235121bf6cfa4068c40dcfb4ecd599cebebb2271fc",
-   "byte": 1571352
+   "sha256": "9ca1cc6cf980eb118b330aa58cf2ca795cba5bd105ffc0bb22fe689637c3b2c5",
+   "byte": 1622847
   },
   {
    "path": "dati/mappa.json",
@@ -5895,16 +5895,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "e161665f0a33",
-   "da": "5407d969fae4",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo dell'Opificio delle Pietre Dure"
-   ],
-   "foto_nuove": 4,
-   "byte": 1572193
-  },
   {
    "versione": "4044d4ba2756",
    "da": "e161665f0a33",
@@ -6104,6 +6094,17 @@
    ],
    "foto_nuove": 4,
    "byte": 2021815
+  },
+  {
+   "versione": "d6ee75c2cdcd",
+   "da": "2717c5edab89",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Chiesa di Santa Maria Maddalena de' Pazzi",
+    "Basilica di Santa Maria del Carmine",
+    "Badia Fiorentina"
+   ],
+   "byte": 1622847
   }
  ]
 }
