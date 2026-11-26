@@ -11699,7 +11699,24 @@
    "wikipedia": {
     "it": "Palazzo Rucellai"
    },
-   "accessibilita": null
+   "accessibilita": null,
+   "immagine": {
+    "autore": "Rendor Thuces Al'Nachkar",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Rendor_Thuces_Al%27Nachkar"
+   },
+   "galleria": [
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ]
   },
   {
    "id": "basilica-di-san-marco",

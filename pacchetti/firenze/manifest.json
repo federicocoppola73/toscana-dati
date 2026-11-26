@@ -1,5 +1,5 @@
 {
- "versione": "429743aa09e4",
+ "versione": "94b3ea01cd28",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1650,6 +1650,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-pitti_5.webp",
    "sha256": "0daea1344b77be91e29289229bb8fe6cffdc63100159921b47271071c432a46a",
    "byte": 158454
+  },
+  {
+   "path": "assets/luoghi/palazzo-rucellai.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-rucellai.webp",
+   "sha256": "40e8f6e8fc150d213e22b688c3b7edce109d1248d4d6674ce04ed46b9a1bdf7c",
+   "byte": 279344
+  },
+  {
+   "path": "assets/luoghi/palazzo-rucellai_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-rucellai_2.webp",
+   "sha256": "6c6d524dabe4ef09635fa5b9636da47b765393d9db5a5c80f5ac97474c52d05b",
+   "byte": 101398
+  },
+  {
+   "path": "assets/luoghi/palazzo-rucellai_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/palazzo-rucellai_3.webp",
+   "sha256": "b56c1c82e691619378b5afb3f585dffb71f46deb768b9f5f4937b5126950a52b",
+   "byte": 206548
   },
   {
    "path": "assets/luoghi/palazzo-strozzi.webp",
@@ -6070,8 +6088,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "42cc99791e80e09deca1bf2508102e8cecc800748ea85090089c9321973335b8",
-   "byte": 2696
+   "sha256": "990f7ab36bf43d32a19e39ca0d66f521508c0708e77fce73e0a69624dd940f0a",
+   "byte": 2721
   },
   {
    "path": "dati/itinerari.json",
@@ -6082,8 +6100,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "01e5d8a499c7e4ac97f2e5bcc7fc266bff1fa2d37b390a61e084a10bb8613c97",
-   "byte": 1836495
+   "sha256": "a93e28ba23479378560a0b25f12961fe266d52f10049c4c58d01289f3bba4c56",
+   "byte": 1836977
   },
   {
    "path": "dati/mappa.json",
@@ -6147,17 +6165,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "daabb9fccc70",
-   "da": "b27b828dc397",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 2,
-   "byte": 2018330
-  },
   {
    "versione": "bd6cedea8fce",
    "da": "daabb9fccc70",
@@ -6373,6 +6380,17 @@
    ],
    "foto_nuove": 4,
    "byte": 2228501
+  },
+  {
+   "versione": "94b3ea01cd28",
+   "da": "429743aa09e4",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 3,
+   "byte": 2426988
   }
  ]
 }
