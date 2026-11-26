@@ -1,5 +1,5 @@
 {
- "versione": "84a9a8480cef",
+ "versione": "b27b828dc397",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -5722,8 +5722,8 @@
   {
    "path": "dati/curiosita.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/curiosita.json",
-   "sha256": "921752ab950551004f0f2185685a8c426048b592ebd647141074c3b4b1575fc6",
-   "byte": 2803
+   "sha256": "2398f2e46336b17f4d3aa38619f6c6aebd599880b434262314bf7e96a34b78a1",
+   "byte": 12692
   },
   {
    "path": "dati/eventi.json",
@@ -5746,8 +5746,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "88d0463e75422836d55a4390ddab4df613c6be6e909090e100e8f0f276b86aa6",
-   "byte": 1482084
+   "sha256": "80a746245002392487e396d3efcfd3d2790bb7ef59c39998b35438038f7c743f",
+   "byte": 1569206
   },
   {
    "path": "dati/mappa.json",
@@ -5811,16 +5811,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "c825eaaccccf",
-   "da": "d5d6e90d326c",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Cenacolo di Fuligno"
-   ],
-   "foto_nuove": 5,
-   "byte": 1565346
-  },
   {
    "versione": "267295cb8b75",
    "da": "c825eaaccccf",
@@ -6013,6 +6003,19 @@
    ],
    "foto_nuove": 6,
    "byte": 2459804
+  },
+  {
+   "versione": "b27b828dc397",
+   "da": "84a9a8480cef",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Monumento all'Indiano",
+    "Tepidarium del Roster",
+    "Cimitero degli Inglesi",
+    "Rifugio Digitale"
+   ],
+   "curiosita_nuove": 4,
+   "byte": 1581898
   }
  ]
 }

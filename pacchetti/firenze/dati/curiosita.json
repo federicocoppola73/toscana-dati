@@ -19,6 +19,82 @@
     "es": "Un oratorio del siglo XV escondido entre las casas del barrio del Isolotto, querido por la familia Mannelli y consagrado en 1459. Custodia frescos atribuidos a Paolo Schiavo y un retablo de la Asunción de 1460 en el que la Virgen entrega su cinturón a Santo Tomás, una referencia a la Sagrada Cintura de Prato. Para visitarlo conviene contactar antes con la parroquia: los detalles están en la ficha del lugar."
    },
    "luogo_id": "santa-maria-alla-querce"
+  },
+  {
+   "id": "monumento-allindiano",
+   "titolo": {
+    "it": "Il Monumento all'Indiano: un principe indiano alle Cascine",
+    "en": "The Monument to the Indian: an Indian prince in the Cascine",
+    "fr": "Le Monument à l'Indien : un prince indien aux Cascine",
+    "de": "Das Denkmal des Inders: ein indischer Prinz in den Cascine",
+    "es": "El Monumento al Indio: un príncipe indio en las Cascine"
+   },
+   "sestiere": "Cascine",
+   "testo": {
+    "it": "Un tempietto a forma di pagoda, all'estremità occidentale del Parco delle Cascine, ricorda Rajaram Chuttraputti, giovane principe di Kolhapur morto a Firenze nel 1870 e cremato alla confluenza di Arno e Mugnone. Il monumento, inaugurato nel 1876, è opera dell'ingegnere britannico Charles Mant; il luogo e il vicino Ponte all'Indiano ne hanno preso il nome.",
+    "en": "A pagoda-shaped little temple at the western end of the Cascine Park commemorates Rajaram Chuttraputti, a young prince of Kolhapur who died in Florence in 1870 and was cremated at the confluence of the Arno and the Mugnone. The monument, inaugurated in 1876, is the work of the British engineer Charles Mant; the place and the nearby Ponte all'Indiano took their name from it.",
+    "fr": "Un petit temple en forme de pagode, à l'extrémité occidentale du parc des Cascine, rappelle Rajaram Chuttraputti, jeune prince de Kolhapur mort à Florence en 1870 et incinéré au confluent de l'Arno et du Mugnone. Le monument, inauguré en 1876, est l'œuvre de l'ingénieur britannique Charles Mant ; le lieu et le Ponte all'Indiano voisin en ont pris le nom.",
+    "de": "Ein pagodenförmiges Tempelchen am westlichen Ende des Parks der Cascine erinnert an Rajaram Chuttraputti, einen jungen Prinzen von Kolhapur, der 1870 in Florenz starb und am Zusammenfluss von Arno und Mugnone eingeäschert wurde. Das 1876 eingeweihte Denkmal stammt vom britischen Ingenieur Charles Mant; der Ort und die nahe Ponte all'Indiano tragen seinen Namen.",
+    "es": "Un templete en forma de pagoda, en el extremo occidental del Parque de las Cascine, recuerda a Rajaram Chuttraputti, joven príncipe de Kolhapur fallecido en Florencia en 1870 e incinerado en la confluencia del Arno y el Mugnone. El monumento, inaugurado en 1876, es obra del ingeniero británico Charles Mant; el lugar y el cercano Ponte all'Indiano tomaron su nombre de él."
+   },
+   "luogo_id": "monumento-allindiano"
+  },
+  {
+   "id": "tepidarium-del-roster",
+   "titolo": {
+    "it": "Il Tepidarium del Roster: la serra di ferro e vetro",
+    "en": "The Roster Tepidarium: the iron-and-glass greenhouse",
+    "fr": "Le Tepidarium de Roster : la serre de fer et de verre",
+    "de": "Das Tepidarium von Roster: das Gewächshaus aus Eisen und Glas",
+    "es": "El Tepidarium de Roster: el invernadero de hierro y vidrio"
+   },
+   "sestiere": "San Giovanni",
+   "testo": {
+    "it": "Nel Giardino dell'Orticoltura una grande serra in ferro e vetro, con il tetto a forma di carena di nave, ricorda i palazzi espositivi europei dell'Ottocento. Progettata da Giacomo Roster e inaugurata il 18 maggio 1880, è stata riaperta il 2 ottobre 2026 dopo un restauro. L'interno ospita mostre ed eventi e non ha un orario di visita quotidiano: i dettagli sono nella scheda del luogo.",
+    "en": "In the Giardino dell'Orticoltura, a large iron-and-glass greenhouse with a ship's-hull roof recalls the European exhibition palaces of the 19th century. Designed by Giacomo Roster and inaugurated on 18 May 1880, it reopened on 2 October 2026 after a restoration. The interior hosts exhibitions and events and has no daily visiting hours: details are on the place's page.",
+    "fr": "Dans le Giardino dell'Orticoltura, une grande serre en fer et verre, au toit en forme de carène de navire, rappelle les palais d'exposition européens du XIXe siècle. Conçue par Giacomo Roster et inaugurée le 18 mai 1880, elle a rouvert le 2 octobre 2026 après une restauration. L'intérieur accueille expositions et événements et n'a pas d'horaire de visite quotidien : les détails figurent dans la fiche du lieu.",
+    "de": "Im Giardino dell'Orticoltura erinnert ein großes Gewächshaus aus Eisen und Glas mit einem Dach in Schiffsrumpfform an die europäischen Ausstellungspaläste des 19. Jahrhunderts. Von Giacomo Roster entworfen und am 18. Mai 1880 eingeweiht, wurde es am 2. Oktober 2026 nach einer Restaurierung wiedereröffnet. Das Innere beherbergt Ausstellungen und Veranstaltungen und hat keine täglichen Besuchszeiten: Einzelheiten finden Sie in der Ortsbeschreibung.",
+    "es": "En el Giardino dell'Orticoltura, un gran invernadero de hierro y vidrio, con el tejado en forma de quilla de barco, recuerda los palacios de exposiciones europeos del siglo XIX. Proyectado por Giacomo Roster e inaugurado el 18 de mayo de 1880, reabrió el 2 de octubre de 2026 tras una restauración. El interior acoge muestras y eventos y no tiene horario de visita diario: los detalles están en la ficha del lugar."
+   },
+   "luogo_id": "tepidarium-del-roster"
+  },
+  {
+   "id": "cimitero-degli-inglesi",
+   "titolo": {
+    "it": "Il Cimitero degli Inglesi: un'isola verde in mezzo al traffico",
+    "en": "The English Cemetery: a green island amid the traffic",
+    "fr": "Le Cimetière des Anglais : une île verte au milieu de la circulation",
+    "de": "Der Englische Friedhof: eine grüne Insel mitten im Verkehr",
+    "es": "El Cementerio de los Ingleses: una isla verde entre el tráfico"
+   },
+   "sestiere": "San Giovanni",
+   "testo": {
+    "it": "Al centro di Piazzale Donatello, un piccolo cimitero ovale su una collinetta alberata custodisce la memoria della Firenze cosmopolita dell'Ottocento: vi riposano, tra gli altri, Elizabeth Barrett Browning, Walter Savage Landor e Giovan Pietro Vieusseux. Fondato nel 1827 e chiuso alle nuove sepolture nel 1877, è visitabile in orari limitati: i dettagli sono nella scheda del luogo.",
+    "en": "In the middle of Piazzale Donatello, a small oval cemetery on a tree-covered hillock preserves the memory of cosmopolitan 19th-century Florence: among others, Elizabeth Barrett Browning, Walter Savage Landor and Giovan Pietro Vieusseux rest here. Founded in 1827 and closed to new burials in 1877, it can be visited at limited hours: details are on the place's page.",
+    "fr": "Au centre de la Piazzale Donatello, un petit cimetière ovale sur une colline boisée garde la mémoire de la Florence cosmopolite du XIXe siècle : y reposent notamment Elizabeth Barrett Browning, Walter Savage Landor et Giovan Pietro Vieusseux. Fondé en 1827 et fermé aux nouvelles sépultures en 1877, il se visite à des horaires limités : les détails figurent dans la fiche du lieu.",
+    "de": "Mitten auf der Piazzale Donatello bewahrt ein kleiner ovaler Friedhof auf einem bewaldeten Hügel die Erinnerung an das kosmopolitische Florenz des 19. Jahrhunderts: Hier ruhen unter anderen Elizabeth Barrett Browning, Walter Savage Landor und Giovan Pietro Vieusseux. 1827 gegründet und 1877 für neue Bestattungen geschlossen, ist er nur zu begrenzten Zeiten zu besichtigen: Einzelheiten finden Sie in der Ortsbeschreibung.",
+    "es": "En el centro de la Piazzale Donatello, un pequeño cementerio ovalado sobre una colina arbolada guarda la memoria de la Florencia cosmopolita del siglo XIX: aquí reposan, entre otros, Elizabeth Barrett Browning, Walter Savage Landor y Giovan Pietro Vieusseux. Fundado en 1827 y cerrado a nuevas sepulturas en 1877, se visita en horarios limitados: los detalles están en la ficha del lugar."
+   },
+   "luogo_id": "cimitero-degli-inglesi"
+  },
+  {
+   "id": "rifugio-digitale",
+   "titolo": {
+    "it": "Rifugio Digitale: un rifugio antiaereo diventato galleria",
+    "en": "Rifugio Digitale: an air-raid shelter turned gallery",
+    "fr": "Rifugio Digitale : un abri antiaérien devenu galerie",
+    "de": "Rifugio Digitale: ein Luftschutzbunker wird zur Galerie",
+    "es": "Rifugio Digitale: un refugio antiaéreo convertido en galería"
+   },
+   "sestiere": "Oltrarno",
+   "testo": {
+    "it": "A San Niccolò, un tunnel antiaereo progettato nel 1943 è oggi uno spazio di arte digitale e fotografia, con 16 schermi 4K lungo il percorso. Il recupero è dello studio Archea Associati; lo spazio è gestito dall'Associazione Rifugio Digitale ETS. L'ingresso è gratuito da mercoledì a sabato: i dettagli sono nella scheda del luogo.",
+    "en": "In San Niccolò, an air-raid tunnel designed in 1943 is now a space for digital art and photography, with 16 4K screens along the route. The renovation is by the studio Archea Associati; the space is run by the Associazione Rifugio Digitale ETS. Admission is free from Wednesday to Saturday: details are on the place's page.",
+    "fr": "À San Niccolò, un tunnel antiaérien conçu en 1943 est aujourd'hui un espace d'art numérique et de photographie, avec 16 écrans 4K le long du parcours. La requalification est due au studio Archea Associati ; l'espace est géré par l'Associazione Rifugio Digitale ETS. L'entrée est gratuite du mercredi au samedi : les détails figurent dans la fiche du lieu.",
+    "de": "In San Niccolò ist ein 1943 entworfener Luftschutztunnel heute ein Raum für digitale Kunst und Fotografie, mit 16 4K-Bildschirmen entlang des Weges. Die Umnutzung stammt vom Büro Archea Associati; der Raum wird von der Associazione Rifugio Digitale ETS betrieben. Der Eintritt ist von Mittwoch bis Samstag frei: Einzelheiten finden Sie in der Ortsbeschreibung.",
+    "es": "En San Niccolò, un túnel antiaéreo proyectado en 1943 es hoy un espacio de arte digital y fotografía, con 16 pantallas 4K a lo largo del recorrido. La rehabilitación es del estudio Archea Associati; el espacio lo gestiona la Associazione Rifugio Digitale ETS. La entrada es gratuita de miércoles a sábado: los detalles están en la ficha del lugar."
+   },
+   "luogo_id": "rifugio-digitale"
   }
  ]
 }
