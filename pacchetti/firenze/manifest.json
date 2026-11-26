@@ -1,5 +1,5 @@
 {
- "versione": "b920a8986910",
+ "versione": "9fd4f8bc3df9",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -168,6 +168,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-croce_5.webp",
    "sha256": "4a8e1db2dcac9a236fa192106a1eec263d721a9fcaf8c5fbbd49528a67ec8214",
    "byte": 163444
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-felicita.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-felicita.webp",
+   "sha256": "debada76b884aed171872f22bd2c16cee6a7c6b30258e8affed3edf8b4b29bb1",
+   "byte": 128420
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-felicita_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-felicita_2.webp",
+   "sha256": "aba3c37ecd5c48d7a1287616d7d726a5081a66987f57415764aa9673b68fa02b",
+   "byte": 238030
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-felicita_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-felicita_3.webp",
+   "sha256": "f29337a22cb335e22d4467d2492b6905e96644681c44ddc9480b9f0501f80b94",
+   "byte": 254944
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-felicita_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-felicita_4.webp",
+   "sha256": "c6fdc6511b6a246598b5a16c2fd60e6b86ce98d7c223f26e3f73c1f924c88cbf",
+   "byte": 119370
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-felicita_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-felicita_5.webp",
+   "sha256": "b15668eb7d0677edc59b6030fd015edb3f125e4216121f6936489357894a61af",
+   "byte": 169572
   },
   {
    "path": "assets/luoghi/basilica-di-santa-maria-novella.webp",
@@ -5848,8 +5878,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "61091f57fdf7e9a1407ed42a9fa1c84bb10e314c518293ee1e8f0d79d03c7b9e",
-   "byte": 2384
+   "sha256": "7a20d80006384abd151d8a1c85fa2cfa91d9a7a5ca8ecb5bf1ca7c944d44af7a",
+   "byte": 2419
   },
   {
    "path": "dati/itinerari.json",
@@ -5860,8 +5890,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "c8cb867be0fbe9cae2b65607562fae141226a88fda731832d55302f063daffed",
-   "byte": 1814831
+   "sha256": "dc41c17f33b7ee07e7a94af02e0b2307b179608aba7866d819504723fb0c6af7",
+   "byte": 1815759
   },
   {
    "path": "dati/mappa.json",
@@ -5925,16 +5955,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "a2f26bd1af1c",
-   "da": "4fcdbb89445a",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Piazza San Marco"
-   ],
-   "foto_nuove": 4,
-   "byte": 1652068
-  },
   {
    "versione": "2a85500b8880",
    "da": "a2f26bd1af1c",
@@ -6146,6 +6166,17 @@
    ],
    "foto_nuove": 5,
    "byte": 2320279
+  },
+  {
+   "versione": "9fd4f8bc3df9",
+   "da": "b920a8986910",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 2728514
   }
  ]
 }

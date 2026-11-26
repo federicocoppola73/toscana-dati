@@ -10931,6 +10931,33 @@
       },
       "chiuso": [
         "dom"
+      ],
+      "immagine": {
+        "autore": "Ricardalovesmonuments",
+        "licenza": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/110615084"
+      },
+      "galleria": [
+        {
+          "autore": "Ricardalovesmonuments",
+          "licenza": "CC BY-SA 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/110615090"
+        },
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY 3.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/69764675"
+        },
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY 3.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/52199066"
+        },
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY 3.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/52199060"
+        }
       ]
     },
     {
