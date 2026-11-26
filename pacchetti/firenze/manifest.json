@@ -1,5 +1,5 @@
 {
- "versione": "7679ad4cbacd",
+ "versione": "749fb1fb0598",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -6058,8 +6058,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "98baf610cabd38b90a559e04ff5846e5e78d7949b9630593e15b79952e6b5e26",
-   "byte": 1820617
+   "sha256": "a4319509e81f861cc4fbd6cd92d6c4e983c2c6b818841a2d61a8bb475e49dcfb",
+   "byte": 1835907
   },
   {
    "path": "dati/mappa.json",
@@ -6123,16 +6123,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "84a9a8480cef",
-   "da": "fc163f9d24c8",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Villa Medicea di Castello e Giardino"
-   ],
-   "foto_nuove": 6,
-   "byte": 2459804
-  },
   {
    "versione": "b27b828dc397",
    "da": "84a9a8480cef",
@@ -6349,6 +6339,18 @@
    ],
    "foto_nuove": 5,
    "byte": 2564499
+  },
+  {
+   "versione": "749fb1fb0598",
+   "da": "7679ad4cbacd",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Chiostro dello Scalzo",
+    "Palazzo Rucellai",
+    "Basilica di San Marco",
+    "Museo Casa di Dante"
+   ],
+   "byte": 1835907
   }
  ]
 }
