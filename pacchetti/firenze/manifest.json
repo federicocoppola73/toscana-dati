@@ -1,5 +1,5 @@
 {
- "versione": "3962120d96c5",
+ "versione": "1340f88e6020",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -624,6 +624,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_5.webp",
    "sha256": "553793e8a91a040ef226d4041a0616f527dfee3403c1fb3bc3a3bf9c841aca9c",
    "byte": 176712
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santambrogio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santambrogio.webp",
+   "sha256": "badb5232c52bde522d2319b851ed16d631e1470cdc0f375b5e9fc54e8e799120",
+   "byte": 138170
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santambrogio_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santambrogio_2.webp",
+   "sha256": "bf57c310aa0e519908ae60733e3048b7aa41cf94d235a2312d26537be0acc37c",
+   "byte": 126442
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santambrogio_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santambrogio_3.webp",
+   "sha256": "01132bdf65b155a50b8177b3ecedd7f4c87fbcee4259498b3913261a9f05f5f3",
+   "byte": 94854
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santambrogio_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santambrogio_4.webp",
+   "sha256": "a0ae71692426fce079638ca445ba63af06a94c3d4e29f622bf24d8b77ab3eaaa",
+   "byte": 135066
   },
   {
    "path": "assets/luoghi/chiesa-e-museo-di-orsanmichele.webp",
@@ -5992,8 +6016,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "26a68c06746dd6496308c078ebef168e0c2df7836478935a352861c1119ef309",
-   "byte": 2586
+   "sha256": "7b42a668a3edc58b53a53e029c273e3770a77b7d5f6388433dcd10ddcced8a05",
+   "byte": 2617
   },
   {
    "path": "dati/itinerari.json",
@@ -6004,8 +6028,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "f4602a61cac90879102b795e681ba48be3131097c06cdb19ef29d11ea1d4a37b",
-   "byte": 1818974
+   "sha256": "07c1cd7e3e375edce74cc34aa6781ab5d20b1e218322edbc49161b4220022700",
+   "byte": 1819684
   },
   {
    "path": "dati/mappa.json",
@@ -6069,16 +6093,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "128d724e7f3e",
-   "da": "4f1d80ae400b",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Fortezza da Basso"
-   ],
-   "foto_nuove": 4,
-   "byte": 1696767
-  },
   {
    "versione": "fc163f9d24c8",
    "da": "128d724e7f3e",
@@ -6293,6 +6307,17 @@
    ],
    "foto_nuove": 5,
    "byte": 2351948
+  },
+  {
+   "versione": "1340f88e6020",
+   "da": "3962120d96c5",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 2316833
   }
  ]
 }

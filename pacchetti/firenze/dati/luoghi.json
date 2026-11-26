@@ -11408,7 +11408,29 @@
             "es": "La iglesia no se indica como accesible para personas con discapacidad motriz."
           }
         }
-      }
+      },
+      "immagine": {
+        "autore": "Txllxt TxllxT",
+        "licenza": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+      },
+      "galleria": [
+        {
+          "autore": "Txllxt TxllxT",
+          "licenza": "CC BY-SA 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+        },
+        {
+          "autore": "Txllxt TxllxT",
+          "licenza": "CC BY-SA 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+        },
+        {
+          "autore": "Txllxt TxllxT",
+          "licenza": "CC BY-SA 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+        }
+      ]
     }
   ]
 }
