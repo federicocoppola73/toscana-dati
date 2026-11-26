@@ -1,5 +1,5 @@
 {
- "versione": "ff86bb622aec",
+ "versione": "3962120d96c5",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -540,6 +540,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-dei-santi-apostoli_5.webp",
    "sha256": "b87dea680a1a92d9eb888dfbe938f03a0a576620670e250a12d540598d51b710",
    "byte": 68330
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-frediano-in-cestello.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-frediano-in-cestello.webp",
+   "sha256": "f7bbb4f48902b259250fb681d6b23cd85a3c704b5e9ddc5c45b52d9a3dd15322",
+   "byte": 103828
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-frediano-in-cestello_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-frediano-in-cestello_2.webp",
+   "sha256": "3e479b98021879d2e6610a448390be2f1a5b523c23c51cbbe6f84448a3576785",
+   "byte": 109860
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-frediano-in-cestello_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-frediano-in-cestello_3.webp",
+   "sha256": "e9e97ca94270f9824e60ff64615d3b649fe25d1a46aa1e3f1bc8172a506a7c87",
+   "byte": 85558
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-frediano-in-cestello_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-frediano-in-cestello_4.webp",
+   "sha256": "410349f1e5be59d3b020201767abb516fdea771dc5d79e9ddacb8bec57b67694",
+   "byte": 80666
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-san-frediano-in-cestello_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-frediano-in-cestello_5.webp",
+   "sha256": "08a9dbb6a6ac6dc7c0bb5449864e73cd77d75913b4dc2e33d25bb7f9329baa3e",
+   "byte": 150476
   },
   {
    "path": "assets/luoghi/chiesa-di-san-salvatore-al-monte.webp",
@@ -5962,8 +5992,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "cf44b05ba45e9944ffd74524147a3545331db5a6ceff3f6e0305bb44fc7e716d",
-   "byte": 2543
+   "sha256": "26a68c06746dd6496308c078ebef168e0c2df7836478935a352861c1119ef309",
+   "byte": 2586
   },
   {
    "path": "dati/itinerari.json",
@@ -5974,8 +6004,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "37a889e08ad785a39b902ca83ecafd8566bf940cdb347e539ecfad5a5fec0d5c",
-   "byte": 1818125
+   "sha256": "f4602a61cac90879102b795e681ba48be3131097c06cdb19ef29d11ea1d4a37b",
+   "byte": 1818974
   },
   {
    "path": "dati/mappa.json",
@@ -6039,16 +6069,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4f1d80ae400b",
-   "da": "da0315b9fb6c",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Parco delle Cascine"
-   ],
-   "foto_nuove": 4,
-   "byte": 2056339
-  },
   {
    "versione": "128d724e7f3e",
    "da": "4f1d80ae400b",
@@ -6262,6 +6282,17 @@
    ],
    "foto_nuove": 5,
    "byte": 2403870
+  },
+  {
+   "versione": "3962120d96c5",
+   "da": "ff86bb622aec",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 2351948
   }
  ]
 }

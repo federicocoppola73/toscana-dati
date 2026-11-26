@@ -11267,7 +11267,34 @@
       "wikipedia": {
         "it": "Chiesa di San Frediano in Cestello"
       },
-      "accessibilita": null
+      "accessibilita": null,
+      "immagine": {
+        "autore": "Xosema",
+        "licenza": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/User:Xosema"
+      },
+      "galleria": [
+        {
+          "autore": "Mentnafunangann",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Mentnafunangann"
+        },
+        {
+          "autore": "Mentnafunangann",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Mentnafunangann"
+        },
+        {
+          "autore": "Mentnafunangann",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Mentnafunangann"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+        }
+      ]
     },
     {
       "id": "chiesa-di-santambrogio",
