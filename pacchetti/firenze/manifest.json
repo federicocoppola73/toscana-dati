@@ -1,5 +1,5 @@
 {
- "versione": "75af86ed265b",
+ "versione": "f28068b6552b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -6244,8 +6244,8 @@
   {
    "path": "dati/cibi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/cibi.json",
-   "sha256": "28b32b3dfb59edba96d20db13b8f71c90adf14a30f710c1eafebb13cbc0ba723",
-   "byte": 324766
+   "sha256": "b7df3b7c59e820cf0c159dc250b58f65d589f69ea22c8e4a5d7c538babbe4439",
+   "byte": 325846
   },
   {
    "path": "dati/citta.json",
@@ -6345,17 +6345,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "e079d3fe0615",
-   "da": "92f72260f49d",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 3,
-   "byte": 2192262
-  },
   {
    "versione": "5c47d4ec8ea9",
    "da": "e079d3fe0615",
@@ -6531,6 +6520,12 @@
    "data": "2026-11-26",
    "cibi_nuovi": 6,
    "byte": 775541
+  },
+  {
+   "versione": "f28068b6552b",
+   "da": "75af86ed265b",
+   "data": "2026-11-26",
+   "byte": 325846
   }
  ]
 }
