@@ -1,5 +1,5 @@
 {
- "versione": "71d69932a57c",
+ "versione": "9e8b051556f3",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1182,6 +1182,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-archeologico-nazionale-di-firenze_5.webp",
    "sha256": "64ea73cacbd06025480ae1d4fca17d9e1946e33827cfd67b5f76cfa999990464",
    "byte": 407340
+  },
+  {
+   "path": "assets/luoghi/museo-casa-di-dante.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-casa-di-dante.webp",
+   "sha256": "4a3a372f7dc20632bfb3742dab214b69ac0e2c207ffbedbb3663fc5073aba0be",
+   "byte": 230138
+  },
+  {
+   "path": "assets/luoghi/museo-casa-di-dante_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-casa-di-dante_2.webp",
+   "sha256": "df9f101d396f9e3fb5583bd3a776915afcf252c8d0b8e84f5b562466a4e57c32",
+   "byte": 92338
+  },
+  {
+   "path": "assets/luoghi/museo-casa-di-dante_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-casa-di-dante_3.webp",
+   "sha256": "0612bd53aed5b3cbd518b30a6ec75d5db9ec23b5d2d51a72004df759a925a6e6",
+   "byte": 249560
+  },
+  {
+   "path": "assets/luoghi/museo-casa-di-dante_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/museo-casa-di-dante_4.webp",
+   "sha256": "b87164429d861ff79d84a65453139c60c7cdc95b34e49ef6b524805525c9569f",
+   "byte": 147792
   },
   {
    "path": "assets/luoghi/museo-de-medici.webp",
@@ -6118,8 +6142,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "02fafb16a3e31d95cd0af02ecafc8a16c65bd207dded6b6617dbe7a14820015a",
-   "byte": 2751
+   "sha256": "529b437a01519932e1a90d6a3d8331464a83607b388218b86f116bc0c3113a2d",
+   "byte": 2779
   },
   {
    "path": "dati/itinerari.json",
@@ -6130,8 +6154,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "7634b8af8a49f0d108e6a7d45276eb680d7c1e0c7a49bdddc044cf002c779fd9",
-   "byte": 1837688
+   "sha256": "12c62c1dea7865308278296d26cf69f6574a5971d1ec3d54d8621765373a6e24",
+   "byte": 1838332
   },
   {
    "path": "dati/mappa.json",
@@ -6195,17 +6219,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "b58d308d79c8",
-   "da": "bd6cedea8fce",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 4,
-   "byte": 2436661
-  },
   {
    "versione": "2717c5edab89",
    "da": "b58d308d79c8",
@@ -6421,6 +6434,17 @@
    ],
    "foto_nuove": 5,
    "byte": 2673219
+  },
+  {
+   "versione": "9e8b051556f3",
+   "da": "71d69932a57c",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 2560939
   }
  ]
 }

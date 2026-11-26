@@ -11990,7 +11990,29 @@
       "es": "Accesibilidad parcial. La planta baja, la primera y la segunda planta se alcanzan en ascensor. La tercera planta y la sala de talleres solo son accesibles por escaleras. En la entrada hay un umbral ligeramente elevado."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Francesco Bini",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Draupnir3",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Draupnir3"
+    },
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    },
+    {
+     "autore": "Itto Ogami",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://web.archive.org/web/20161015190003/http://www.panoramio.com/user/1876835?with_photo_id=34287404"
+    }
+   ]
   }
  ]
 }
