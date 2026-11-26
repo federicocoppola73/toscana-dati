@@ -1,5 +1,5 @@
 {
- "versione": "d6ee75c2cdcd",
+ "versione": "ed19de538fd5",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -5830,8 +5830,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "9ca1cc6cf980eb118b330aa58cf2ca795cba5bd105ffc0bb22fe689637c3b2c5",
-   "byte": 1622847
+   "sha256": "55a58a858b400cd7131c99a4daab3348e484aaac3f208a9fb2640bf4b55f526d",
+   "byte": 1705227
   },
   {
    "path": "dati/mappa.json",
@@ -5895,16 +5895,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4044d4ba2756",
-   "da": "e161665f0a33",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo Franco Zeffirelli"
-   ],
-   "foto_nuove": 4,
-   "byte": 1541936
-  },
   {
    "versione": "fd6ddc1a16c6",
    "da": "4044d4ba2756",
@@ -6105,6 +6095,23 @@
     "Badia Fiorentina"
    ],
    "byte": 1622847
+  },
+  {
+   "versione": "ed19de538fd5",
+   "da": "d6ee75c2cdcd",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Chiesa di San Salvatore in Ognissanti",
+    "Basilica di Santa Felicita",
+    "Chiesa dei Santi Apostoli",
+    "Chiesa di San Frediano in Cestello",
+    "Chiesa di Sant'Ambrogio"
+   ],
+   "luoghi_aggiornati": 3,
+   "aspetti": [
+    "descrizioni"
+   ],
+   "byte": 1705227
   }
  ]
 }
