@@ -1,5 +1,5 @@
 {
- "versione": "4f1d80ae400b",
+ "versione": "128d724e7f3e",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -540,6 +540,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/forte-belvedere_5.webp",
    "sha256": "bf8ecab12ed458131625464a1d8fe15057b1ea9eda3aeeeb1968a868900a4e51",
    "byte": 119150
+  },
+  {
+   "path": "assets/luoghi/fortezza-da-basso.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/fortezza-da-basso.webp",
+   "sha256": "cb919751995e70216eb642d4e663f0f5de2cc95d53b2774be9ccda38c37d05b8",
+   "byte": 72832
+  },
+  {
+   "path": "assets/luoghi/fortezza-da-basso_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/fortezza-da-basso_2.webp",
+   "sha256": "672465735e3a20f6b33d6ae3f6df99f4786ff74296bed85e2059f7c049fb78c4",
+   "byte": 37502
+  },
+  {
+   "path": "assets/luoghi/fortezza-da-basso_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/fortezza-da-basso_3.webp",
+   "sha256": "2f5e7bfbb021d68db5deaefa4513c67652722ffddde41061ec9b0d697f8d9029",
+   "byte": 79448
+  },
+  {
+   "path": "assets/luoghi/fortezza-da-basso_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/fortezza-da-basso_4.webp",
+   "sha256": "411fa12b7a622832ee8468e6a15581724aa955f4833e4f0da7e118e103a9d8ae",
+   "byte": 75250
   },
   {
    "path": "assets/luoghi/galleria-dellaccademia-di-firenze.webp",
@@ -5644,8 +5668,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "a28e103b3306bab868685f751e0d28417f04612f23bfabf998039a84bf2b7c77",
-   "byte": 2148
+   "sha256": "6fd88d7eccd15a8f8e28f06e5f2e436c90a21c9d189b76e6224a15de73e9ae1e",
+   "byte": 2174
   },
   {
    "path": "dati/itinerari.json",
@@ -5656,8 +5680,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "1202070438a55081cee1d698382b9f180ca3c7dfd54588d9ee635dbeb97cfb67",
-   "byte": 1399453
+   "sha256": "d29ae823edc2c30015de7c21a8465dc231d24cb4f62c48b18bfd2615c8c8e158",
+   "byte": 1429561
   },
   {
    "path": "dati/mappa.json",
@@ -5721,16 +5745,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "b4a6cbbe555b",
-   "da": "ebb8daae9871",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "La Specola – Museo di Storia Naturale"
-   ],
-   "foto_nuove": 4,
-   "byte": 1511460
-  },
   {
    "versione": "56080fd9c666",
    "da": "b4a6cbbe555b",
@@ -5923,6 +5937,16 @@
    ],
    "foto_nuove": 4,
    "byte": 2056339
+  },
+  {
+   "versione": "128d724e7f3e",
+   "da": "4f1d80ae400b",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Fortezza da Basso"
+   ],
+   "foto_nuove": 4,
+   "byte": 1696767
   }
  ]
 }
