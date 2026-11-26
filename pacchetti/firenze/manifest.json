@@ -1,5 +1,5 @@
 {
- "versione": "56b1bc012180",
+ "versione": "da0315b9fb6c",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -690,6 +690,48 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-di-boboli_5.webp",
    "sha256": "5be2dba8ee5c46764a0df133efe0d0ab5e3b00ff46a79e39605f5e8b82a04c24",
    "byte": 186484
+  },
+  {
+   "path": "assets/luoghi/giardino-torrigiani.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-torrigiani.webp",
+   "sha256": "43e44e560f86ef388f59d991c5483ea213097b2d0f6c5f0f4ab68e4c4963cebc",
+   "byte": 122978
+  },
+  {
+   "path": "assets/luoghi/giardino-torrigiani_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-torrigiani_2.webp",
+   "sha256": "e53d60dfcef410a9ded974a36cb2fb554a3559461f01a9bc0a079cc04ea64075",
+   "byte": 462876
+  },
+  {
+   "path": "assets/luoghi/giardino-torrigiani_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-torrigiani_3.webp",
+   "sha256": "c014c5dace17174f0e0c7ecd8f85a820d072baf2e9048bd07655b4c19f1dbe0a",
+   "byte": 188554
+  },
+  {
+   "path": "assets/luoghi/giardino-torrigiani_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-torrigiani_4.webp",
+   "sha256": "f1829d62fc00ea168ec875b07a06238f7101dd754216cd39dbaef454a88d05d6",
+   "byte": 194146
+  },
+  {
+   "path": "assets/luoghi/giardino-torrigiani_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-torrigiani_5.webp",
+   "sha256": "a201c553c74e976e4ba0585d265d426e8455c867de990fb0d084cdd7f76d04c8",
+   "byte": 270974
+  },
+  {
+   "path": "assets/luoghi/giardino-torrigiani_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-torrigiani_6.webp",
+   "sha256": "d2fcd749d5cebfd1030e9a4602deb067e78c81d68734b4e14891c1ebf429a41c",
+   "byte": 64106
+  },
+  {
+   "path": "assets/luoghi/giardino-torrigiani_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/giardino-torrigiani_7.webp",
+   "sha256": "49aa8aae2dc10f132d6cc83c2de136e9af3de9d125aef466b417146fc1a0e708",
+   "byte": 346076
   },
   {
    "path": "assets/luoghi/isolotto.webp",
@@ -5578,8 +5620,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "8b6a627b6292086724faad11ac30db6988b9352457fa3efedf1d86fcf537ffca",
-   "byte": 2092
+   "sha256": "d2576b2b2e735cafc557721df35ac3f8e832baeae0cc259045294e0fdbd9f3a2",
+   "byte": 2120
   },
   {
    "path": "dati/itinerari.json",
@@ -5590,8 +5632,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "62114fbe8fc57cd6fe7550b84486c365cdc07aaefc8711d7915dcdc5c97a515c",
-   "byte": 1336465
+   "sha256": "6aacb36fcf157f99a6aca61bd85f63b29e46bf168c5ebdb06537810052b54858",
+   "byte": 1366829
   },
   {
    "path": "dati/mappa.json",
@@ -5655,16 +5697,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "56336a00f8be",
-   "da": "e2807a21748e",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Palazzo Davanzati"
-   ],
-   "foto_nuove": 5,
-   "byte": 1582473
-  },
   {
    "versione": "ebb8daae9871",
    "da": "56336a00f8be",
@@ -5857,6 +5889,16 @@
     "altro"
    ],
    "byte": 2086575
+  },
+  {
+   "versione": "da0315b9fb6c",
+   "da": "56b1bc012180",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Giardino Torrigiani"
+   ],
+   "foto_nuove": 7,
+   "byte": 3018659
   }
  ]
 }
