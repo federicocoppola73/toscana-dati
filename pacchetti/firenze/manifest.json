@@ -1,5 +1,5 @@
 {
- "versione": "da0315b9fb6c",
+ "versione": "4f1d80ae400b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1416,6 +1416,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-del-bobolino_3.webp",
    "sha256": "3285103f482425387253dd4f1106c9c027e2a24e151c538420f720c66c963be2",
    "byte": 182360
+  },
+  {
+   "path": "assets/luoghi/parco-delle-cascine.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-delle-cascine.webp",
+   "sha256": "70c9e6e9db6e14f807e8e113c4fd8a33419cf98de69f38f9493a9c94a6e71b9d",
+   "byte": 180146
+  },
+  {
+   "path": "assets/luoghi/parco-delle-cascine_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-delle-cascine_2.webp",
+   "sha256": "7eca2af213f041f195bc57872bbc6620377084899777214c0ed025ec5b729344",
+   "byte": 246706
+  },
+  {
+   "path": "assets/luoghi/parco-delle-cascine_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-delle-cascine_3.webp",
+   "sha256": "ac6e7523565678ff942521c01adc5b182d9978a2350be71598d5c5f74385bf2d",
+   "byte": 97134
+  },
+  {
+   "path": "assets/luoghi/parco-delle-cascine_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/parco-delle-cascine_4.webp",
+   "sha256": "d0350350e3b873423f92bddf8094c20a4f392bf552cf5bb8b188c1e8c31fd6e5",
+   "byte": 130752
   },
   {
    "path": "assets/luoghi/partir-la-valigia-di-folon.webp",
@@ -5620,8 +5644,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "d2576b2b2e735cafc557721df35ac3f8e832baeae0cc259045294e0fdbd9f3a2",
-   "byte": 2120
+   "sha256": "a28e103b3306bab868685f751e0d28417f04612f23bfabf998039a84bf2b7c77",
+   "byte": 2148
   },
   {
    "path": "dati/itinerari.json",
@@ -5632,8 +5656,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "6aacb36fcf157f99a6aca61bd85f63b29e46bf168c5ebdb06537810052b54858",
-   "byte": 1366829
+   "sha256": "1202070438a55081cee1d698382b9f180ca3c7dfd54588d9ee635dbeb97cfb67",
+   "byte": 1399453
   },
   {
    "path": "dati/mappa.json",
@@ -5697,16 +5721,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "ebb8daae9871",
-   "da": "56336a00f8be",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Cenacolo di Sant'Apollonia"
-   ],
-   "foto_nuove": 4,
-   "byte": 1385435
-  },
   {
    "versione": "b4a6cbbe555b",
    "da": "ebb8daae9871",
@@ -5899,6 +5913,16 @@
    ],
    "foto_nuove": 7,
    "byte": 3018659
+  },
+  {
+   "versione": "4f1d80ae400b",
+   "da": "da0315b9fb6c",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Parco delle Cascine"
+   ],
+   "foto_nuove": 4,
+   "byte": 2056339
   }
  ]
 }
