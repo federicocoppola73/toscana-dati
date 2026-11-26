@@ -1792,6 +1792,590 @@
           ]
         }
       }
+    },
+    {
+      "id": "crespelle-alla-fiorentina",
+      "nome": "Crespelle alla fiorentina",
+      "portata": "primo",
+      "testo": {
+        "it": "Le crespelle alla fiorentina sono una preparazione al forno composta da sottili frittatine simili alle crêpes, farcite con ricotta e spinaci, arrotolate e ricoperte di besciamella, parmigiano e, in alcune versioni, salsa di pomodoro.\n\nSono un piatto molto diffuso nella cucina fiorentina, legato anche alla tradizione delle pezzole della nonna, nome con cui si indicano alcune varianti ripiegate a fazzoletto. La storia che collega le crespelle a Caterina de' Medici e alla diffusione delle crêpes in Francia è popolare, ma non dimostra una derivazione storica certa.\n\nCuriosità: la ricetta si presta a diverse forme: crespelle arrotolate, piegate a fazzoletto oppure tagliate a rombi e disposte nella pirofila. La combinazione di spinaci, ricotta e besciamella è il suo tratto distintivo.",
+        "en": "Crespelle alla fiorentina is a baked dish made of thin crêpe-like pancakes, filled with ricotta and spinach, rolled up and covered with béchamel, Parmesan and, in some versions, tomato sauce.\n\nIt is a very common dish in Florentine cooking, also tied to the tradition of the “pezzole della nonna” (grandmother's cloths), a name used for some versions folded like a handkerchief. The story linking crespelle to Catherine de' Medici and the spread of crêpes in France is popular, but it does not prove a certain historical derivation.\n\nDid you know? The recipe lends itself to different shapes: rolled crespelle, folded like a handkerchief, or cut into diamonds and arranged in the baking dish. The combination of spinach, ricotta and béchamel is its distinctive trait.",
+        "fr": "Les crespelle alla fiorentina sont une préparation au four composée de fines crêpes, farcies de ricotta et d'épinards, roulées et recouvertes de béchamel, de parmesan et, dans certaines versions, de sauce tomate.\n\nC'est un plat très répandu dans la cuisine florentine, lié aussi à la tradition des « pezzole della nonna » (les mouchoirs de la grand-mère), nom que l'on donne à certaines variantes pliées en mouchoir. L'histoire qui relie les crespelle à Catherine de Médicis et à la diffusion des crêpes en France est populaire, mais ne prouve pas une filiation historique certaine.\n\nLe saviez-vous ? La recette se prête à différentes formes : crespelle roulées, pliées en mouchoir ou coupées en losanges et disposées dans le plat. L'association des épinards, de la ricotta et de la béchamel est son trait distinctif.",
+        "de": "Die Crespelle alla fiorentina sind ein Ofengericht aus dünnen crêpeartigen Pfannkuchen, gefüllt mit Ricotta und Spinat, aufgerollt und mit Béchamel, Parmesan und in manchen Versionen Tomatensauce überzogen.\n\nSie sind in der florentinischen Küche sehr verbreitet und auch mit der Tradition der „pezzole della nonna“ („Großmutters Tücher“) verbunden, so heißen einige wie ein Taschentuch gefaltete Varianten. Die Geschichte, die die Crespelle mit Katharina von Medici und der Verbreitung der Crêpes in Frankreich verbindet, ist volkstümlich, belegt aber keine sichere historische Herkunft.\n\nWussten Sie schon? Das Rezept eignet sich für verschiedene Formen: aufgerollte Crespelle, wie ein Taschentuch gefaltet oder in Rauten geschnitten und in der Auflaufform angeordnet. Die Kombination aus Spinat, Ricotta und Béchamel ist ihr Kennzeichen.",
+        "es": "Las crespelle alla fiorentina son una preparación al horno compuesta de finas tortitas parecidas a las crêpes, rellenas de ricotta y espinacas, enrolladas y cubiertas de bechamel, parmesano y, en algunas versiones, salsa de tomate.\n\nSon un plato muy extendido en la cocina florentina, ligado también a la tradición de las «pezzole della nonna» (los paños de la abuela), nombre con el que se indican algunas variantes dobladas como un pañuelo. La historia que une las crespelle con Catalina de Médici y la difusión de las crêpes en Francia es popular, pero no demuestra una derivación histórica cierta.\n\nCuriosidad: la receta admite diversas formas: crespelle enrolladas, dobladas como un pañuelo o cortadas en rombos y dispuestas en la fuente. La combinación de espinacas, ricotta y bechamel es su rasgo distintivo."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "35 min + 30 min di riposo della pastella + 25 min di cottura (circa 1 h 30 in tutto)",
+          "en": "35 min + 30 min batter resting + 25 min baking (about 1 h 30 in all)",
+          "fr": "35 min + 30 min de repos de la pâte + 25 min de cuisson (environ 1 h 30 au total)",
+          "de": "35 Min. + 30 Min. Ruhezeit des Teigs + 25 Min. Backzeit (insgesamt etwa 1 Std. 30 Min.)",
+          "es": "35 min + 30 min de reposo de la masa + 25 min de cocción (unas 1 h 30 en total)"
+        },
+        "ingredienti": {
+          "it": [
+            "Per le crespelle: 125 g di farina 00",
+            "2 uova",
+            "250 ml di latte",
+            "20 g di burro fuso",
+            "1 pizzico di sale",
+            "Per il ripieno: 300 g di spinaci freschi, oppure 200 g già lessati",
+            "250 g di ricotta",
+            "50 g di parmigiano grattugiato",
+            "1 uovo",
+            "Noce moscata q.b.",
+            "Sale e pepe q.b.",
+            "Per la besciamella: 40 g di burro",
+            "40 g di farina",
+            "500 ml di latte",
+            "Noce moscata q.b.",
+            "Sale q.b.",
+            "Per completare: 100 g di passata di pomodoro, facoltativa",
+            "20 g di parmigiano grattugiato",
+            "Burro q.b. per la teglia"
+          ],
+          "en": [
+            "For the crespelle: 125 g 00 flour",
+            "2 eggs",
+            "250 ml milk",
+            "20 g melted butter",
+            "1 pinch of salt",
+            "For the filling: 300 g fresh spinach, or 200 g already boiled",
+            "250 g ricotta",
+            "50 g grated Parmesan",
+            "1 egg",
+            "Nutmeg as needed",
+            "Salt and pepper as needed",
+            "For the béchamel: 40 g butter",
+            "40 g flour",
+            "500 ml milk",
+            "Nutmeg as needed",
+            "Salt as needed",
+            "To finish: 100 g tomato passata, optional",
+            "20 g grated Parmesan",
+            "Butter as needed for the dish"
+          ],
+          "fr": [
+            "Pour les crespelle : 125 g de farine 00",
+            "2 œufs",
+            "250 ml de lait",
+            "20 g de beurre fondu",
+            "1 pincée de sel",
+            "Pour la farce : 300 g d'épinards frais, ou 200 g déjà cuits",
+            "250 g de ricotta",
+            "50 g de parmesan râpé",
+            "1 œuf",
+            "Noix de muscade selon besoin",
+            "Sel et poivre selon besoin",
+            "Pour la béchamel : 40 g de beurre",
+            "40 g de farine",
+            "500 ml de lait",
+            "Noix de muscade selon besoin",
+            "Sel selon besoin",
+            "Pour finir : 100 g de purée de tomate, facultatif",
+            "20 g de parmesan râpé",
+            "Beurre selon besoin pour le plat"
+          ],
+          "de": [
+            "Für die Crespelle: 125 g Mehl Type 00",
+            "2 Eier",
+            "250 ml Milch",
+            "20 g geschmolzene Butter",
+            "1 Prise Salz",
+            "Für die Füllung: 300 g frischer Spinat oder 200 g bereits gekochter",
+            "250 g Ricotta",
+            "50 g geriebener Parmesan",
+            "1 Ei",
+            "Muskatnuss nach Bedarf",
+            "Salz und Pfeffer nach Bedarf",
+            "Für die Béchamel: 40 g Butter",
+            "40 g Mehl",
+            "500 ml Milch",
+            "Muskatnuss nach Bedarf",
+            "Salz nach Bedarf",
+            "Zum Vollenden: 100 g Tomatenpassata, nach Belieben",
+            "20 g geriebener Parmesan",
+            "Butter nach Bedarf für die Form"
+          ],
+          "es": [
+            "Para las crespelle: 125 g de harina 00",
+            "2 huevos",
+            "250 ml de leche",
+            "20 g de mantequilla derretida",
+            "1 pizca de sal",
+            "Para el relleno: 300 g de espinacas frescas, o 200 g ya hervidas",
+            "250 g de ricotta",
+            "50 g de parmesano rallado",
+            "1 huevo",
+            "Nuez moscada al gusto",
+            "Sal y pimienta al gusto",
+            "Para la bechamel: 40 g de mantequilla",
+            "40 g de harina",
+            "500 ml de leche",
+            "Nuez moscada al gusto",
+            "Sal al gusto",
+            "Para terminar: 100 g de tomate triturado, opcional",
+            "20 g de parmesano rallado",
+            "Mantequilla al gusto para la fuente"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara la pastella. Sbatti le uova in una ciotola, aggiungi la farina setacciata e incorpora il latte poco alla volta, mescolando per evitare grumi. Unisci il burro fuso e il sale. Lascia riposare la pastella per circa 30 minuti.",
+            "Cuoci gli spinaci. Lava gli spinaci e lessali per pochi minuti in acqua leggermente salata, oppure cuocili in padella con poca acqua. Scolali, strizzali molto bene e tritali finemente.",
+            "Prepara il ripieno. Mescola ricotta, spinaci, uovo, parmigiano, sale, pepe e una grattugiata di noce moscata. Amalgama fino a ottenere una farcia uniforme.",
+            "Prepara la besciamella. Sciogli il burro in un pentolino, aggiungi la farina e mescola per circa un minuto. Versa il latte poco alla volta, continuando a mescolare con una frusta. Cuoci a fuoco medio-basso finché la salsa si addensa. Regola di sale e noce moscata.",
+            "Cuoci le crespelle. Scalda una padella antiaderente da circa 18–20 cm e ungila con pochissimo burro. Versa un mestolino di pastella, ruota la padella per distribuirla in uno strato sottile e cuoci per circa un minuto. Gira la crespella e cuoci brevemente anche l'altro lato. Ripeti fino a terminare la pastella.",
+            "Farcisci. Distribuisci il ripieno sulle crespelle e arrotolale come piccoli cannelloni. In alternativa, piegale a fazzoletto.",
+            "Prepara la teglia. Imburra una pirofila e distribuisci sul fondo qualche cucchiaio di besciamella. Disponi le crespelle una accanto all'altra.",
+            "Condisci. Copri con la besciamella rimasta. Aggiungi qualche cucchiaiata di passata di pomodoro, se gradita, e completa con parmigiano grattugiato.",
+            "Gratina. Cuoci in forno statico preriscaldato a 180 °C per circa 20–25 minuti, finché la superficie sarà dorata. Se necessario, aziona il grill per gli ultimi minuti.",
+            "Servi. Lascia riposare per circa 5 minuti prima di portare in tavola."
+          ],
+          "en": [
+            "Make the batter. Beat the eggs in a bowl, add the sifted flour and work in the milk little by little, stirring to avoid lumps. Add the melted butter and the salt. Let the batter rest for about 30 minutes.",
+            "Cook the spinach. Wash the spinach and boil it for a few minutes in lightly salted water, or cook it in a pan with a little water. Drain, squeeze very well and chop finely.",
+            "Make the filling. Mix the ricotta, spinach, egg, Parmesan, salt, pepper and a grating of nutmeg. Blend until you have an even filling.",
+            "Make the béchamel. Melt the butter in a small pan, add the flour and stir for about a minute. Pour in the milk little by little, stirring continuously with a whisk. Cook over medium-low heat until the sauce thickens. Season with salt and nutmeg.",
+            "Cook the crespelle. Heat a non-stick pan of about 18–20 cm and grease it with a very little butter. Pour in a small ladle of batter, tilt the pan to spread it in a thin layer and cook for about a minute. Turn the crespella and cook the other side briefly. Repeat until the batter is used up.",
+            "Fill. Spread the filling on the crespelle and roll them up like small cannelloni. Alternatively, fold them like a handkerchief.",
+            "Prepare the dish. Butter a baking dish and spread a few spoonfuls of béchamel on the bottom. Arrange the crespelle side by side.",
+            "Dress. Cover with the remaining béchamel. Add a few spoonfuls of tomato passata, if you like, and finish with grated Parmesan.",
+            "Gratinate. Bake in a preheated conventional oven at 180 °C for about 20–25 minutes, until the surface is golden. If needed, switch on the grill for the last few minutes.",
+            "Serve. Let it rest for about 5 minutes before bringing it to the table."
+          ],
+          "fr": [
+            "Prépare la pâte. Bats les œufs dans un saladier, ajoute la farine tamisée et incorpore le lait peu à peu, en remuant pour éviter les grumeaux. Ajoute le beurre fondu et le sel. Laisse reposer la pâte environ 30 minutes.",
+            "Cuis les épinards. Lave les épinards et fais-les bouillir quelques minutes dans de l'eau légèrement salée, ou cuis-les à la poêle avec un peu d'eau. Égoutte-les, presse-les très bien et hache-les finement.",
+            "Prépare la farce. Mélange la ricotta, les épinards, l'œuf, le parmesan, le sel, le poivre et une râpée de noix de muscade. Amalgame jusqu'à obtenir une farce uniforme.",
+            "Prépare la béchamel. Fais fondre le beurre dans une petite casserole, ajoute la farine et remue environ une minute. Verse le lait peu à peu en continuant à remuer au fouet. Cuis à feu moyen-doux jusqu'à ce que la sauce épaississe. Rectifie le sel et la noix de muscade.",
+            "Cuis les crespelle. Chauffe une poêle antiadhésive d'environ 18–20 cm et graisse-la avec très peu de beurre. Verse une petite louche de pâte, tourne la poêle pour l'étaler en couche fine et cuis environ une minute. Retourne la crespella et cuis brièvement l'autre face. Répète jusqu'à épuisement de la pâte.",
+            "Garnis. Répartis la farce sur les crespelle et roule-les comme de petits cannelloni. Sinon, plie-les en mouchoir.",
+            "Prépare le plat. Beurre un plat à gratin et répartis au fond quelques cuillerées de béchamel. Dispose les crespelle côte à côte.",
+            "Assaisonne. Couvre avec la béchamel restante. Ajoute quelques cuillerées de purée de tomate, si tu le souhaites, et termine avec du parmesan râpé.",
+            "Gratine. Cuis au four statique préchauffé à 180 °C environ 20 à 25 minutes, jusqu'à ce que la surface soit dorée. Si nécessaire, mets le gril pour les dernières minutes.",
+            "Sers. Laisse reposer environ 5 minutes avant de porter à table."
+          ],
+          "de": [
+            "Teig zubereiten. Die Eier in einer Schüssel verquirlen, das gesiebte Mehl zugeben und die Milch nach und nach unterrühren, um Klümpchen zu vermeiden. Die geschmolzene Butter und das Salz zufügen. Den Teig etwa 30 Minuten ruhen lassen.",
+            "Spinat garen. Den Spinat waschen und einige Minuten in leicht gesalzenem Wasser kochen oder in einer Pfanne mit wenig Wasser garen. Abgießen, sehr gut ausdrücken und fein hacken.",
+            "Füllung zubereiten. Ricotta, Spinat, Ei, Parmesan, Salz, Pfeffer und eine Prise geriebene Muskatnuss vermengen. Verrühren, bis eine gleichmäßige Füllung entsteht.",
+            "Béchamel zubereiten. Die Butter in einem kleinen Topf schmelzen, das Mehl zugeben und etwa eine Minute rühren. Die Milch nach und nach zugießen und dabei mit einem Schneebesen weiterrühren. Bei mittlerer bis niedriger Hitze garen, bis die Sauce eindickt. Mit Salz und Muskatnuss abschmecken.",
+            "Crespelle backen. Eine antihaftbeschichtete Pfanne von etwa 18–20 cm erhitzen und mit sehr wenig Butter einfetten. Eine kleine Kelle Teig eingießen, die Pfanne schwenken, damit er sich dünn verteilt, und etwa eine Minute backen. Die Crespella wenden und die andere Seite kurz backen. Wiederholen, bis der Teig aufgebraucht ist.",
+            "Füllen. Die Füllung auf den Crespelle verteilen und wie kleine Cannelloni aufrollen. Alternativ wie ein Taschentuch falten.",
+            "Form vorbereiten. Eine Auflaufform mit Butter einfetten und auf dem Boden einige Löffel Béchamel verteilen. Die Crespelle nebeneinander anordnen.",
+            "Überziehen. Mit der restlichen Béchamel bedecken. Nach Belieben einige Löffel Tomatenpassata zufügen und mit geriebenem Parmesan abschließen.",
+            "Gratinieren. Im vorgeheizten Ofen bei Ober-/Unterhitze 180 °C etwa 20–25 Minuten backen, bis die Oberfläche goldgelb ist. Bei Bedarf für die letzten Minuten den Grill einschalten.",
+            "Servieren. Vor dem Auftragen etwa 5 Minuten ruhen lassen."
+          ],
+          "es": [
+            "Prepara la masa. Bate los huevos en un cuenco, añade la harina tamizada e incorpora la leche poco a poco, removiendo para evitar grumos. Añade la mantequilla derretida y la sal. Deja reposar la masa unos 30 minutos.",
+            "Cuece las espinacas. Lava las espinacas y hiérvelas unos minutos en agua ligeramente salada, o cuécelas en una sartén con poca agua. Escúrrelas, exprímelas muy bien y pícalas finamente.",
+            "Prepara el relleno. Mezcla la ricotta, las espinacas, el huevo, el parmesano, la sal, la pimienta y un rallado de nuez moscada. Integra hasta obtener un relleno uniforme.",
+            "Prepara la bechamel. Derrite la mantequilla en un cazo, añade la harina y remueve durante aproximadamente un minuto. Vierte la leche poco a poco, sin dejar de remover con unas varillas. Cuece a fuego medio-bajo hasta que la salsa espese. Ajusta de sal y nuez moscada.",
+            "Cuece las crespelle. Calienta una sartén antiadherente de unos 18–20 cm y úntala con muy poca mantequilla. Vierte un cacillo de masa, gira la sartén para extenderla en una capa fina y cuece aproximadamente un minuto. Da la vuelta a la crespella y cuece brevemente el otro lado. Repite hasta terminar la masa.",
+            "Rellena. Reparte el relleno sobre las crespelle y enróllalas como pequeños canelones. Como alternativa, dóblalas como un pañuelo.",
+            "Prepara la fuente. Unta con mantequilla una fuente de horno y reparte en el fondo unas cucharadas de bechamel. Coloca las crespelle una junto a otra.",
+            "Aliña. Cubre con la bechamel restante. Añade unas cucharadas de tomate triturado, si te gusta, y termina con parmesano rallado.",
+            "Gratina. Cuece en el horno estático precalentado a 180 °C unos 20–25 minutos, hasta que la superficie esté dorada. Si hace falta, activa el grill los últimos minutos.",
+            "Sirve. Deja reposar unos 5 minutos antes de llevar a la mesa."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fagioli-alluccelletto",
+      "nome": "Fagioli all'uccelletto",
+      "portata": "contorno",
+      "testo": {
+        "it": "I fagioli all'uccelletto sono una delle preparazioni più conosciute della cucina toscana. Si realizzano con cannellini, pomodoro, aglio e salvia, ingredienti semplici che danno vita a un contorno ricco e profumato.\n\nLa ricetta è diffusa soprattutto nell'area fiorentina e pratese. Il nome è curioso: secondo una spiegazione tradizionale, richiama gli aromi utilizzati per cucinare gli uccelletti arrosto, in particolare salvia e aglio. Non contiene necessariamente carne, anche se alcune varianti prevedono l'aggiunta di salsiccia.\n\nCuriosità: Pellegrino Artusi, nel suo celebre ricettario, descrive i fagioli preparati con aglio e salvia. La spiegazione più diffusa del nome all'uccelletto è proprio il richiamo agli aromi utilizzati per cucinare gli uccelletti arrosto.\n\nVariante: in alcune versioni si aggiungono salsicce fresche, che vengono cotte insieme ai fagioli nel sugo. La versione senza carne rimane però una preparazione tradizionale a sé stante.",
+        "en": "Fagioli all'uccelletto is one of the best-known dishes of Tuscan cooking. It is made with cannellini beans, tomato, garlic and sage, simple ingredients that make a rich, fragrant side dish.\n\nThe recipe is common above all in the Florence and Prato area. The name is curious: according to a traditional explanation, it recalls the aromatics used to cook roast little birds (uccelletti), in particular sage and garlic. It does not necessarily contain meat, although some variations add sausage.\n\nDid you know? Pellegrino Artusi, in his famous cookbook, describes beans prepared with garlic and sage. The most widespread explanation of the name “all'uccelletto” is precisely the reference to the aromatics used to cook roast little birds.\n\nVariation: in some versions fresh sausages are added and cooked together with the beans in the sauce. The meatless version nevertheless remains a traditional preparation in its own right.",
+        "fr": "Les fagioli all'uccelletto sont l'une des préparations les plus connues de la cuisine toscane. Ils se font avec des haricots cannellini, de la tomate, de l'ail et de la sauge, des ingrédients simples qui donnent un accompagnement riche et parfumé.\n\nLa recette est répandue surtout dans la région de Florence et de Prato. Le nom est curieux : selon une explication traditionnelle, il rappelle les aromates utilisés pour cuisiner les petits oiseaux rôtis (uccelletti), en particulier la sauge et l'ail. Il ne contient pas nécessairement de viande, même si certaines variantes ajoutent de la saucisse.\n\nLe saviez-vous ? Pellegrino Artusi, dans son célèbre livre de recettes, décrit des haricots préparés avec de l'ail et de la sauge. L'explication la plus répandue du nom « all'uccelletto » est justement la référence aux aromates utilisés pour cuisiner les petits oiseaux rôtis.\n\nVariante : dans certaines versions, on ajoute des saucisses fraîches, cuites avec les haricots dans la sauce. La version sans viande reste cependant une préparation traditionnelle à part entière.",
+        "de": "Die Fagioli all'uccelletto gehören zu den bekanntesten Zubereitungen der toskanischen Küche. Sie werden mit Cannellini-Bohnen, Tomaten, Knoblauch und Salbei zubereitet, einfachen Zutaten, die eine reichhaltige, duftende Beilage ergeben.\n\nDas Rezept ist vor allem im Raum Florenz und Prato verbreitet. Der Name ist kurios: Nach einer traditionellen Erklärung erinnert er an die Aromen, mit denen gebratene Vögelchen (uccelletti) zubereitet wurden, insbesondere Salbei und Knoblauch. Sie enthalten nicht unbedingt Fleisch, auch wenn manche Varianten Wurst hinzufügen.\n\nWussten Sie schon? Pellegrino Artusi beschreibt in seinem berühmten Kochbuch Bohnen, die mit Knoblauch und Salbei zubereitet werden. Die verbreitetste Erklärung des Namens „all'uccelletto“ ist eben der Verweis auf die Aromen zum Braten von Vögelchen.\n\nVariante: In manchen Versionen werden frische Würste zugegeben, die zusammen mit den Bohnen in der Sauce garen. Die fleischlose Version bleibt aber eine eigenständige traditionelle Zubereitung.",
+        "es": "Los fagioli all'uccelletto son una de las preparaciones más conocidas de la cocina toscana. Se hacen con judías cannellini, tomate, ajo y salvia, ingredientes sencillos que dan lugar a una guarnición rica y perfumada.\n\nLa receta está extendida sobre todo en la zona de Florencia y Prato. El nombre es curioso: según una explicación tradicional, evoca los aromas usados para cocinar los pajaritos asados (uccelletti), en particular salvia y ajo. No contiene necesariamente carne, aunque algunas variantes añaden salchicha.\n\nCuriosidad: Pellegrino Artusi, en su célebre recetario, describe las judías preparadas con ajo y salvia. La explicación más difundida del nombre «all'uccelletto» es precisamente la referencia a los aromas usados para cocinar los pajaritos asados.\n\nVariante: en algunas versiones se añaden salchichas frescas, que se cuecen junto con las judías en la salsa. La versión sin carne sigue siendo, no obstante, una preparación tradicional por sí misma."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "15 min + 60–90 min di cottura dei fagioli + 30–40 min nel pomodoro (ammollo 8–12 ore)",
+          "en": "15 min + 60–90 min cooking the beans + 30–40 min in the tomato (8–12 hours soaking)",
+          "fr": "15 min + 60–90 min de cuisson des haricots + 30–40 min dans la tomate (trempage 8–12 h)",
+          "de": "15 Min. + 60–90 Min. Bohnen garen + 30–40 Min. in der Tomatensauce (8–12 Std. Einweichen)",
+          "es": "15 min + 60–90 min de cocción de las judías + 30–40 min en el tomate (remojo de 8–12 horas)"
+        },
+        "ingredienti": {
+          "it": [
+            "400 g di fagioli cannellini secchi, oppure 700–750 g già cotti",
+            "300 g di pomodori pelati",
+            "3 spicchi d'aglio",
+            "8–10 foglie di salvia",
+            "5 cucchiai di olio extravergine d'oliva",
+            "Sale q.b.",
+            "Pepe nero q.b."
+          ],
+          "en": [
+            "400 g dried cannellini beans, or 700–750 g already cooked",
+            "300 g peeled tomatoes",
+            "3 garlic cloves",
+            "8–10 sage leaves",
+            "5 tablespoons extra virgin olive oil",
+            "Salt as needed",
+            "Black pepper as needed"
+          ],
+          "fr": [
+            "400 g de haricots cannellini secs, ou 700–750 g déjà cuits",
+            "300 g de tomates pelées",
+            "3 gousses d'ail",
+            "8–10 feuilles de sauge",
+            "5 cuillères à soupe d'huile d'olive extra vierge",
+            "Sel selon besoin",
+            "Poivre noir selon besoin"
+          ],
+          "de": [
+            "400 g getrocknete Cannellini-Bohnen oder 700–750 g bereits gekochte",
+            "300 g geschälte Tomaten",
+            "3 Knoblauchzehen",
+            "8–10 Salbeiblätter",
+            "5 Esslöffel natives Olivenöl extra",
+            "Salz nach Bedarf",
+            "Schwarzer Pfeffer nach Bedarf"
+          ],
+          "es": [
+            "400 g de judías cannellini secas, o 700–750 g ya cocidas",
+            "300 g de tomates pelados",
+            "3 dientes de ajo",
+            "8–10 hojas de salvia",
+            "5 cucharadas de aceite de oliva virgen extra",
+            "Sal al gusto",
+            "Pimienta negra al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Ammolla i fagioli. Se utilizzi cannellini secchi, mettili in una ciotola con abbondante acqua fredda per circa 8–12 ore. Scolali e sciacquali.",
+            "Cuoci i cannellini. Trasferiscili in una pentola, coprili con acqua fredda e cuocili a fuoco basso fino a quando saranno morbidi. Occorrono generalmente 60–90 minuti, ma il tempo varia in base alla qualità e all'età dei fagioli. Evita una bollitura violenta, che potrebbe romperli. Sala verso la fine e conserva un poco dell'acqua di cottura.",
+            "Prepara il condimento. In una casseruola, preferibilmente di coccio, scalda l'olio con gli spicchi d'aglio leggermente schiacciati e le foglie di salvia. Lascia insaporire a fuoco dolce per alcuni minuti.",
+            "Aggiungi il pomodoro. Unisci i pelati schiacciati con una forchetta. Mescola e lascia cuocere per circa 15–20 minuti, finché il sugo si sarà leggermente ristretto.",
+            "Unisci i fagioli. Aggiungi i cannellini cotti e scolati, mescolando delicatamente per non romperli. Versa qualche cucchiaio della loro acqua di cottura se il composto risulta troppo asciutto.",
+            "Completa la cottura. Lascia sobbollire per altri 15–20 minuti a fuoco basso. I fagioli devono assorbire il sapore del pomodoro, dell'aglio e della salvia, mantenendo però la loro forma.",
+            "Regola il condimento. Aggiungi sale e pepe, assaggia e spegni il fuoco quando il sugo sarà denso e ben legato ai fagioli.",
+            "Lascia riposare. Attendi qualche minuto prima di servire, così i sapori si amalgameranno ulteriormente."
+          ],
+          "en": [
+            "Soak the beans. If you use dried cannellini, put them in a bowl with plenty of cold water for about 8–12 hours. Drain and rinse them.",
+            "Boil the cannellini. Transfer them to a pot, cover with cold water and cook over low heat until soft. It generally takes 60–90 minutes, but the time varies with the quality and age of the beans. Avoid violent boiling, which could break them. Add salt towards the end and keep a little of the cooking water.",
+            "Prepare the seasoning. In a pan, preferably earthenware, heat the oil with the lightly crushed garlic cloves and the sage leaves. Let them flavour over gentle heat for a few minutes.",
+            "Add the tomato. Add the peeled tomatoes crushed with a fork. Stir and cook for about 15–20 minutes, until the sauce has reduced slightly.",
+            "Add the beans. Add the cooked, drained cannellini, stirring gently so as not to break them. Pour in a few spoonfuls of their cooking water if the mixture is too dry.",
+            "Finish cooking. Simmer for another 15–20 minutes over low heat. The beans should absorb the flavour of tomato, garlic and sage while keeping their shape.",
+            "Adjust the seasoning. Add salt and pepper, taste and turn off the heat when the sauce is thick and well bound to the beans.",
+            "Let it rest. Wait a few minutes before serving, so the flavours blend further."
+          ],
+          "fr": [
+            "Fais tremper les haricots. Si tu utilises des cannellini secs, mets-les dans un saladier avec beaucoup d'eau froide pendant environ 8 à 12 heures. Égoutte-les et rince-les.",
+            "Fais cuire les cannellini. Transfère-les dans une marmite, couvre-les d'eau froide et cuis à feu doux jusqu'à ce qu'ils soient tendres. Il faut en général 60 à 90 minutes, mais le temps varie selon la qualité et l'âge des haricots. Évite une ébullition violente, qui pourrait les casser. Sale vers la fin et conserve un peu d'eau de cuisson.",
+            "Prépare l'assaisonnement. Dans une casserole, de préférence en terre cuite, chauffe l'huile avec les gousses d'ail légèrement écrasées et les feuilles de sauge. Laisse parfumer à feu doux quelques minutes.",
+            "Ajoute la tomate. Ajoute les tomates pelées écrasées à la fourchette. Remue et laisse cuire environ 15 à 20 minutes, jusqu'à ce que la sauce ait légèrement réduit.",
+            "Ajoute les haricots. Ajoute les cannellini cuits et égouttés, en remuant délicatement pour ne pas les casser. Verse quelques cuillerées de leur eau de cuisson si le mélange est trop sec.",
+            "Termine la cuisson. Laisse mijoter encore 15 à 20 minutes à feu doux. Les haricots doivent absorber le goût de la tomate, de l'ail et de la sauge tout en gardant leur forme.",
+            "Rectifie l'assaisonnement. Ajoute sel et poivre, goûte et éteins le feu quand la sauce est dense et bien liée aux haricots.",
+            "Laisse reposer. Attends quelques minutes avant de servir, pour que les saveurs s'amalgament davantage."
+          ],
+          "de": [
+            "Bohnen einweichen. Wenn Sie getrocknete Cannellini verwenden, legen Sie sie etwa 8–12 Stunden in eine Schüssel mit reichlich kaltem Wasser. Abgießen und abspülen.",
+            "Cannellini kochen. In einen Topf geben, mit kaltem Wasser bedecken und bei niedriger Hitze weich garen. In der Regel dauert das 60–90 Minuten, die Zeit hängt aber von Qualität und Alter der Bohnen ab. Heftiges Kochen vermeiden, da die Bohnen sonst zerbrechen könnten. Gegen Ende salzen und etwas Kochwasser aufbewahren.",
+            "Würzmischung zubereiten. In einem Topf, am besten aus Ton, das Öl mit den leicht angedrückten Knoblauchzehen und den Salbeiblättern erhitzen. Einige Minuten bei sanfter Hitze aromatisieren.",
+            "Tomaten zugeben. Die mit einer Gabel zerdrückten geschälten Tomaten zufügen. Umrühren und etwa 15–20 Minuten garen, bis die Sauce leicht eingekocht ist.",
+            "Bohnen zugeben. Die gekochten, abgetropften Cannellini zugeben und vorsichtig unterrühren, damit sie nicht zerbrechen. Ist die Masse zu trocken, einige Löffel ihres Kochwassers zugießen.",
+            "Garen vollenden. Weitere 15–20 Minuten bei niedriger Hitze köcheln lassen. Die Bohnen sollen den Geschmack von Tomate, Knoblauch und Salbei aufnehmen und dabei ihre Form behalten.",
+            "Abschmecken. Salz und Pfeffer zufügen, probieren und den Herd ausschalten, wenn die Sauce dicht ist und sich gut mit den Bohnen verbunden hat.",
+            "Ruhen lassen. Vor dem Servieren einige Minuten warten, damit sich die Aromen weiter verbinden."
+          ],
+          "es": [
+            "Pon las judías en remojo. Si usas cannellini secas, ponlas en un cuenco con abundante agua fría durante unas 8–12 horas. Escúrrelas y acláralas.",
+            "Cuece las cannellini. Pásalas a una olla, cúbrelas con agua fría y cuécelas a fuego bajo hasta que estén tiernas. Suelen hacer falta 60–90 minutos, pero el tiempo varía según la calidad y la edad de las judías. Evita una ebullición violenta, que podría romperlas. Sala hacia el final y guarda un poco del agua de cocción.",
+            "Prepara el aliño. En una cazuela, mejor de barro, calienta el aceite con los dientes de ajo ligeramente aplastados y las hojas de salvia. Deja que tomen sabor a fuego suave unos minutos.",
+            "Añade el tomate. Incorpora los tomates pelados aplastados con un tenedor. Remueve y cuece unos 15–20 minutos, hasta que la salsa se haya reducido ligeramente.",
+            "Incorpora las judías. Añade las cannellini cocidas y escurridas, removiendo con delicadeza para no romperlas. Vierte unas cucharadas de su agua de cocción si la mezcla queda demasiado seca.",
+            "Completa la cocción. Deja hervir a fuego lento otros 15–20 minutos. Las judías deben absorber el sabor del tomate, del ajo y de la salvia sin perder su forma.",
+            "Ajusta el aliño. Añade sal y pimienta, prueba y apaga el fuego cuando la salsa esté espesa y bien ligada a las judías.",
+            "Deja reposar. Espera unos minutos antes de servir, para que los sabores se integren aún más."
+          ]
+        }
+      }
+    },
+    {
+      "id": "schiacciata-con-luva",
+      "nome": "Schiacciata con l'uva",
+      "portata": "dolce",
+      "testo": {
+        "it": "La schiacciata con l'uva è un dolce rustico tipico della tradizione contadina toscana, particolarmente diffuso nel territorio fiorentino. È legato al periodo della vendemmia e si prepara con pasta da pane, uva nera da vino, olio extravergine d'oliva e zucchero.\n\nLa sua stagione tradizionale è l'inizio dell'autunno, quando l'uva da vino è matura e disponibile. La ricetta non è rigidamente codificata: alcune famiglie preparano una schiacciata a due strati, altre ne realizzano una più bassa con l'uva distribuita soprattutto sulla superficie. Anche la scelta del vitigno e l'aggiunta di semi di finocchio o rosmarino possono variare.\n\nCuriosità: la schiacciata con l'uva è legata alla vendemmia e alla stagionalità. Nelle campagne si utilizzava l'uva da vino disponibile in quel momento, rendendo il dolce una preparazione tipica di fine estate e inizio autunno.\n\nNota: non esiste una sola versione autentica. Il vitigno, la presenza dei semi, la quantità di zucchero e la struttura a uno o due strati variano secondo la tradizione familiare.",
+        "en": "Schiacciata con l'uva is a rustic sweet typical of Tuscan peasant tradition, especially common in the Florence area. It is tied to the grape harvest and is made with bread dough, black wine grapes, extra virgin olive oil and sugar.\n\nIts traditional season is the start of autumn, when wine grapes are ripe and available. The recipe is not rigidly codified: some families make a two-layer schiacciata, others a lower one with the grapes spread mainly on the surface. The choice of grape variety and the addition of fennel seeds or rosemary can vary too.\n\nDid you know? Schiacciata con l'uva is tied to the harvest and to seasonality. In the countryside the wine grapes available at the time were used, making the sweet a typical preparation of late summer and early autumn.\n\nNote: there is no single authentic version. The grape variety, the presence of seeds, the amount of sugar and the one- or two-layer structure vary according to family tradition.",
+        "fr": "La schiacciata con l'uva est un dessert rustique typique de la tradition paysanne toscane, particulièrement répandu dans le territoire florentin. Elle est liée à la période des vendanges et se prépare avec de la pâte à pain, du raisin noir de cuve, de l'huile d'olive extra vierge et du sucre.\n\nSa saison traditionnelle est le début de l'automne, quand le raisin de cuve est mûr et disponible. La recette n'est pas rigidement codifiée : certaines familles préparent une schiacciata à deux couches, d'autres une plus basse avec le raisin réparti surtout à la surface. Le choix du cépage et l'ajout de graines de fenouil ou de romarin peuvent aussi varier.\n\nLe saviez-vous ? La schiacciata con l'uva est liée aux vendanges et à la saisonnalité. Dans les campagnes, on utilisait le raisin de cuve disponible à ce moment-là, ce qui faisait de ce dessert une préparation typique de la fin de l'été et du début de l'automne.\n\nNote : il n'existe pas une seule version authentique. Le cépage, la présence des pépins, la quantité de sucre et la structure à une ou deux couches varient selon la tradition familiale.",
+        "de": "Die Schiacciata con l'uva ist ein rustikales Süßgebäck der toskanischen Bauerntradition, besonders im Raum Florenz verbreitet. Sie ist mit der Weinlese verbunden und wird aus Brotteig, dunklen Keltertrauben, nativem Olivenöl extra und Zucker zubereitet.\n\nIhre traditionelle Saison ist der Herbstanfang, wenn die Keltertrauben reif und verfügbar sind. Das Rezept ist nicht starr festgelegt: Manche Familien backen eine zweischichtige Schiacciata, andere eine flachere mit den Trauben vor allem auf der Oberfläche. Auch die Wahl der Rebsorte und die Zugabe von Fenchelsamen oder Rosmarin können variieren.\n\nWussten Sie schon? Die Schiacciata con l'uva ist mit der Weinlese und der Saisonalität verbunden. Auf dem Land verwendete man die gerade verfügbaren Keltertrauben, wodurch das Gebäck zu einer typischen Zubereitung des Spätsommers und Frühherbstes wurde.\n\nHinweis: Es gibt nicht nur eine authentische Version. Rebsorte, Vorhandensein der Kerne, Zuckermenge und die ein- oder zweischichtige Struktur variieren je nach Familientradition.",
+        "es": "La schiacciata con l'uva es un dulce rústico típico de la tradición campesina toscana, especialmente extendido en el territorio florentino. Está ligado a la época de la vendimia y se prepara con masa de pan, uva negra de vino, aceite de oliva virgen extra y azúcar.\n\nSu temporada tradicional es el inicio del otoño, cuando la uva de vino está madura y disponible. La receta no está rígidamente codificada: algunas familias preparan una schiacciata de dos capas, otras una más baja con la uva repartida sobre todo por la superficie. También puede variar la elección de la variedad de uva y la adición de semillas de hinojo o romero.\n\nCuriosidad: la schiacciata con l'uva está ligada a la vendimia y a la estacionalidad. En el campo se usaba la uva de vino disponible en ese momento, lo que hacía del dulce una preparación típica del final del verano y principios del otoño.\n\nNota: no existe una sola versión auténtica. La variedad de uva, la presencia de semillas, la cantidad de azúcar y la estructura de una o dos capas varían según la tradición familiar."
+      },
+      "ricetta": {
+        "porzioni": 8,
+        "preparazione": {
+          "it": "30 min + lievitazioni di circa 1 h 30 e 30–45 min + 30–40 min di cottura",
+          "en": "30 min + rises of about 1 h 30 and 30–45 min + 30–40 min baking",
+          "fr": "30 min + levées d'environ 1 h 30 et 30–45 min + 30–40 min de cuisson",
+          "de": "30 Min. + Gehzeiten von etwa 1 Std. 30 Min. und 30–45 Min. + 30–40 Min. Backzeit",
+          "es": "30 min + fermentaciones de unas 1 h 30 y 30–45 min + 30–40 min de horneado"
+        },
+        "ingredienti": {
+          "it": [
+            "500 g di farina 0",
+            "250 ml circa di acqua tiepida",
+            "15 g di lievito di birra fresco",
+            "1 kg di uva nera da vino, preferibilmente Sangiovese o Canaiolo",
+            "100 g di zucchero",
+            "6 cucchiai di olio extravergine d'oliva",
+            "1 pizzico di sale",
+            "Semi di finocchio, facoltativi"
+          ],
+          "en": [
+            "500 g flour (type 0)",
+            "About 250 ml lukewarm water",
+            "15 g fresh brewer's yeast",
+            "1 kg black wine grapes, preferably Sangiovese or Canaiolo",
+            "100 g sugar",
+            "6 tablespoons extra virgin olive oil",
+            "1 pinch of salt",
+            "Fennel seeds, optional"
+          ],
+          "fr": [
+            "500 g de farine type 0",
+            "Environ 250 ml d'eau tiède",
+            "15 g de levure de boulanger fraîche",
+            "1 kg de raisin noir de cuve, de préférence Sangiovese ou Canaiolo",
+            "100 g de sucre",
+            "6 cuillères à soupe d'huile d'olive extra vierge",
+            "1 pincée de sel",
+            "Graines de fenouil, facultatif"
+          ],
+          "de": [
+            "500 g Mehl Type 0",
+            "Etwa 250 ml lauwarmes Wasser",
+            "15 g frische Bierhefe",
+            "1 kg dunkle Keltertrauben, vorzugsweise Sangiovese oder Canaiolo",
+            "100 g Zucker",
+            "6 Esslöffel natives Olivenöl extra",
+            "1 Prise Salz",
+            "Fenchelsamen, nach Belieben"
+          ],
+          "es": [
+            "500 g de harina tipo 0",
+            "Unos 250 ml de agua tibia",
+            "15 g de levadura fresca de cerveza",
+            "1 kg de uva negra de vino, preferiblemente Sangiovese o Canaiolo",
+            "100 g de azúcar",
+            "6 cucharadas de aceite de oliva virgen extra",
+            "1 pizca de sal",
+            "Semillas de hinojo, opcional"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara l'uva. Lava accuratamente gli acini, staccali dai raspi e asciugali bene. Elimina eventuali acini rovinati. La tradizione prevede spesso l'utilizzo dell'uva con i semi.",
+            "Sciogli il lievito. Versa il lievito di birra nell'acqua tiepida e mescola fino a scioglierlo.",
+            "Prepara l'impasto. Metti la farina in una ciotola capiente, aggiungi gradualmente l'acqua con il lievito e unisci 2 cucchiai di olio. Incorpora il sale e lavora fino a ottenere un impasto morbido ed elastico.",
+            "Prima lievitazione. Forma una palla, sistemala in una ciotola leggermente unta e coprila. Lascia lievitare per circa 1 ora e 30 minuti, o fino al raddoppio del volume.",
+            "Dividi l'impasto. Trasferiscilo sul piano di lavoro e dividilo in due parti, una leggermente più grande dell'altra. La parte maggiore servirà per la base.",
+            "Prepara la teglia. Ungi abbondantemente una teglia rettangolare con olio extravergine. Stendi la porzione più grande dell'impasto fino a coprire il fondo, lasciando un piccolo bordo laterale.",
+            "Aggiungi l'uva. Distribuisci circa due terzi degli acini sulla base. Cospargi con una parte dello zucchero e aggiungi un filo d'olio.",
+            "Chiudi la schiacciata. Stendi la seconda porzione d'impasto e usala per coprire l'uva. Sigilla delicatamente i bordi.",
+            "Completa la superficie. Distribuisci gli acini rimasti sopra l'impasto, premendoli leggermente affinché aderiscano. Aggiungi lo zucchero restante, un filo d'olio e, se graditi, pochi semi di finocchio.",
+            "Seconda lievitazione. Copri la teglia e lascia riposare per circa 30–45 minuti.",
+            "Cuoci. Preriscalda il forno statico a 180–190 °C. Cuoci per circa 30–40 minuti, finché la superficie sarà dorata e gli acini avranno rilasciato parte del loro succo.",
+            "Raffredda e servi. Lascia intiepidire nella teglia, poi taglia a quadrotti. La schiacciata è ottima anche a temperatura ambiente."
+          ],
+          "en": [
+            "Prepare the grapes. Wash the grapes carefully, detach them from the stems and dry them well. Discard any damaged grapes. Tradition often calls for using the grapes with their seeds.",
+            "Dissolve the yeast. Pour the yeast into the lukewarm water and stir until dissolved.",
+            "Make the dough. Put the flour in a large bowl, gradually add the water with the yeast and add 2 tablespoons of oil. Add the salt and work until you have a soft, elastic dough.",
+            "First rise. Shape a ball, put it in a lightly greased bowl and cover it. Let it rise for about 1 hour 30 minutes, or until doubled in volume.",
+            "Divide the dough. Transfer it to the work surface and divide it in two parts, one slightly larger than the other. The larger part will be used for the base.",
+            "Prepare the tin. Grease a rectangular tin generously with extra virgin olive oil. Roll out the larger portion of dough to cover the bottom, leaving a small edge at the sides.",
+            "Add the grapes. Spread about two thirds of the grapes over the base. Sprinkle with part of the sugar and add a drizzle of oil.",
+            "Close the schiacciata. Roll out the second portion of dough and use it to cover the grapes. Gently seal the edges.",
+            "Finish the surface. Spread the remaining grapes over the dough, pressing them lightly so they stick. Add the remaining sugar, a drizzle of oil and, if you like, a few fennel seeds.",
+            "Second rise. Cover the tin and let it rest for about 30–45 minutes.",
+            "Bake. Preheat the conventional oven to 180–190 °C. Bake for about 30–40 minutes, until the surface is golden and the grapes have released some of their juice.",
+            "Cool and serve. Let it cool slightly in the tin, then cut into squares. The schiacciata is also excellent at room temperature."
+          ],
+          "fr": [
+            "Prépare le raisin. Lave soigneusement les grains, détache-les des rafles et sèche-les bien. Retire les grains abîmés. La tradition prévoit souvent l'utilisation du raisin avec ses pépins.",
+            "Délaie la levure. Verse la levure de boulanger dans l'eau tiède et remue jusqu'à dissolution.",
+            "Prépare la pâte. Mets la farine dans un grand saladier, ajoute progressivement l'eau avec la levure et 2 cuillères à soupe d'huile. Incorpore le sel et travaille jusqu'à obtenir une pâte souple et élastique.",
+            "Première levée. Forme une boule, place-la dans un saladier légèrement huilé et couvre-la. Laisse lever environ 1 h 30, ou jusqu'à ce que le volume double.",
+            "Divise la pâte. Transfère-la sur le plan de travail et divise-la en deux parts, l'une un peu plus grande que l'autre. La plus grande servira de base.",
+            "Prépare le moule. Huile généreusement un moule rectangulaire avec de l'huile d'olive extra vierge. Étale la plus grande part de pâte pour couvrir le fond, en laissant un petit rebord sur les côtés.",
+            "Ajoute le raisin. Répartis environ les deux tiers des grains sur la base. Saupoudre d'une partie du sucre et ajoute un filet d'huile.",
+            "Ferme la schiacciata. Étale la seconde part de pâte et utilise-la pour couvrir le raisin. Scelle délicatement les bords.",
+            "Termine la surface. Répartis les grains restants sur la pâte en les pressant légèrement pour qu'ils adhèrent. Ajoute le sucre restant, un filet d'huile et, si tu le souhaites, quelques graines de fenouil.",
+            "Seconde levée. Couvre le moule et laisse reposer environ 30 à 45 minutes.",
+            "Cuis. Préchauffe le four statique à 180–190 °C. Cuis environ 30 à 40 minutes, jusqu'à ce que la surface soit dorée et que les grains aient rendu une partie de leur jus.",
+            "Laisse refroidir et sers. Laisse tiédir dans le moule, puis coupe en carrés. La schiacciata est excellente aussi à température ambiante."
+          ],
+          "de": [
+            "Trauben vorbereiten. Die Beeren sorgfältig waschen, von den Stielen lösen und gut trocknen. Beschädigte Beeren aussortieren. Die Tradition sieht oft die Verwendung der Trauben mit Kernen vor.",
+            "Hefe auflösen. Die Bierhefe in das lauwarme Wasser geben und rühren, bis sie aufgelöst ist.",
+            "Teig zubereiten. Das Mehl in eine große Schüssel geben, nach und nach das Wasser mit der Hefe zugießen und 2 Esslöffel Öl zufügen. Das Salz unterarbeiten und kneten, bis ein weicher, elastischer Teig entsteht.",
+            "Erste Gehzeit. Eine Kugel formen, in eine leicht gefettete Schüssel legen und abdecken. Etwa 1 Stunde 30 Minuten gehen lassen oder bis sich das Volumen verdoppelt hat.",
+            "Teig teilen. Auf die Arbeitsfläche geben und in zwei Teile teilen, einen etwas größeren und einen kleineren. Der größere Teil dient als Boden.",
+            "Form vorbereiten. Eine rechteckige Form großzügig mit nativem Olivenöl extra einfetten. Den größeren Teigteil ausrollen, bis er den Boden bedeckt, und seitlich einen kleinen Rand lassen.",
+            "Trauben zugeben. Etwa zwei Drittel der Beeren auf dem Boden verteilen. Mit einem Teil des Zuckers bestreuen und einen Schuss Öl zufügen.",
+            "Schiacciata schließen. Den zweiten Teigteil ausrollen und die Trauben damit bedecken. Die Ränder vorsichtig andrücken.",
+            "Oberfläche vollenden. Die übrigen Beeren auf dem Teig verteilen und leicht andrücken, damit sie haften. Den restlichen Zucker, einen Schuss Öl und nach Belieben wenige Fenchelsamen zufügen.",
+            "Zweite Gehzeit. Die Form abdecken und etwa 30–45 Minuten ruhen lassen.",
+            "Backen. Den Backofen auf Ober-/Unterhitze 180–190 °C vorheizen. Etwa 30–40 Minuten backen, bis die Oberfläche goldgelb ist und die Beeren einen Teil ihres Saftes abgegeben haben.",
+            "Abkühlen und servieren. In der Form lauwarm abkühlen lassen, dann in Quadrate schneiden. Die Schiacciata schmeckt auch bei Raumtemperatur ausgezeichnet."
+          ],
+          "es": [
+            "Prepara la uva. Lava con cuidado los granos, sepáralos de los raspones y sécalos bien. Elimina los granos estropeados. La tradición prevé a menudo usar la uva con sus semillas.",
+            "Disuelve la levadura. Vierte la levadura de cerveza en el agua tibia y remueve hasta que se disuelva.",
+            "Prepara la masa. Pon la harina en un cuenco grande, añade poco a poco el agua con la levadura e incorpora 2 cucharadas de aceite. Añade la sal y trabaja hasta obtener una masa suave y elástica.",
+            "Primera fermentación. Forma una bola, colócala en un cuenco ligeramente untado y cúbrela. Deja fermentar unas 1 hora y 30 minutos, o hasta que doble su volumen.",
+            "Divide la masa. Pásala a la superficie de trabajo y divídela en dos partes, una ligeramente más grande que la otra. La parte mayor servirá para la base.",
+            "Prepara el molde. Unta generosamente con aceite de oliva virgen extra un molde rectangular. Extiende la porción mayor de masa hasta cubrir el fondo, dejando un pequeño borde lateral.",
+            "Añade la uva. Reparte aproximadamente dos tercios de los granos sobre la base. Espolvorea con una parte del azúcar y añade un chorrito de aceite.",
+            "Cierra la schiacciata. Extiende la segunda porción de masa y úsala para cubrir la uva. Sella con delicadeza los bordes.",
+            "Completa la superficie. Reparte los granos restantes sobre la masa, presionándolos ligeramente para que se adhieran. Añade el azúcar restante, un chorrito de aceite y, si te gustan, unas pocas semillas de hinojo.",
+            "Segunda fermentación. Cubre el molde y deja reposar unos 30–45 minutos.",
+            "Hornea. Precalienta el horno estático a 180–190 °C. Hornea unos 30–40 minutos, hasta que la superficie esté dorada y los granos hayan soltado parte de su jugo.",
+            "Enfría y sirve. Deja templar en el molde y luego corta en cuadrados. La schiacciata está excelente también a temperatura ambiente."
+          ]
+        }
+      }
+    },
+    {
+      "id": "gelato-buontalenti",
+      "nome": "Gelato Buontalenti",
+      "portata": "dolce",
+      "testo": {
+        "it": "Il gelato Buontalenti è uno dei gusti più conosciuti di Firenze. Si presenta come una crema fredda, morbida e vellutata, preparata principalmente con latte, panna, zucchero e uova. Il suo sapore è delicato e ricorda quello di una crema pasticcera, con una nota di vaniglia.\n\nIl nome richiama Bernardo Buontalenti, architetto e scenografo al servizio dei Medici, al quale la tradizione attribuisce un ruolo importante nella storia del gelato fiorentino. Si racconta che abbia ideato una crema ghiacciata per un banchetto di corte. Tuttavia, la ricostruzione storica è incerta: non disponiamo di una ricetta originale verificata che permetta di identificare il gelato attuale con quello preparato nel Cinquecento.\n\nLa versione proposta è quindi una moderna crema gelata ispirata al gusto Buontalenti, non la riproduzione documentata di una ricetta rinascimentale.\n\nCuriosità: Bernardo Buontalenti è una figura centrale nella tradizione gastronomica fiorentina anche per il suo legame con i banchetti medicei. La sua fama di inventore del gelato moderno appartiene però a una tradizione storica complessa, nella quale si intrecciano documenti, racconti e attribuzioni successive. È quindi più corretto parlare di gelato ispirato a Buontalenti che di ricetta cinquecentesca certa.\n\nNota di sicurezza alimentare: la crema contiene tuorli d'uovo. Utilizza uova fresche e integre, rispetta la temperatura di cottura indicata e raffredda rapidamente la preparazione. Per una maggiore sicurezza, soprattutto quando il gelato è destinato a persone vulnerabili, puoi utilizzare tuorli pastorizzati.",
+        "en": "Buontalenti gelato is one of Florence's best-known flavours. It is a cold, soft, velvety cream, made mainly with milk, cream, sugar and eggs. Its taste is delicate and recalls that of a custard, with a note of vanilla.\n\nThe name recalls Bernardo Buontalenti, an architect and stage designer in the service of the Medici, to whom tradition attributes an important role in the history of Florentine gelato. It is said that he devised an iced cream for a court banquet. However, the historical reconstruction is uncertain: we have no verified original recipe that allows today's gelato to be identified with the one prepared in the sixteenth century.\n\nThe version offered here is therefore a modern frozen cream inspired by the Buontalenti flavour, not the documented reproduction of a Renaissance recipe.\n\nDid you know? Bernardo Buontalenti is a central figure in Florentine food tradition also because of his link with the Medici banquets. His fame as inventor of modern gelato, however, belongs to a complex historical tradition in which documents, stories and later attributions are intertwined. It is therefore more correct to speak of a gelato inspired by Buontalenti than of a certain sixteenth-century recipe.\n\nFood safety note: the cream contains egg yolks. Use fresh, intact eggs, respect the indicated cooking temperature and cool the preparation quickly. For greater safety, especially when the gelato is meant for vulnerable people, you can use pasteurised yolks.",
+        "fr": "La glace Buontalenti est l'un des parfums les plus connus de Florence. C'est une crème froide, souple et veloutée, préparée principalement avec du lait, de la crème, du sucre et des œufs. Son goût est délicat et rappelle celui d'une crème pâtissière, avec une note de vanille.\n\nLe nom rappelle Bernardo Buontalenti, architecte et scénographe au service des Médicis, auquel la tradition attribue un rôle important dans l'histoire de la glace florentine. On raconte qu'il aurait imaginé une crème glacée pour un banquet de cour. Cependant, la reconstitution historique est incertaine : nous ne disposons pas d'une recette originale vérifiée permettant d'identifier la glace actuelle à celle préparée au XVIe siècle.\n\nLa version proposée est donc une crème glacée moderne inspirée du parfum Buontalenti, et non la reproduction documentée d'une recette de la Renaissance.\n\nLe saviez-vous ? Bernardo Buontalenti est une figure centrale de la tradition gastronomique florentine aussi par son lien avec les banquets des Médicis. Sa réputation d'inventeur de la glace moderne relève toutefois d'une tradition historique complexe, où s'entremêlent documents, récits et attributions ultérieures. Il est donc plus juste de parler d'une glace inspirée de Buontalenti que d'une recette certaine du XVIe siècle.\n\nNote de sécurité alimentaire : la crème contient des jaunes d'œufs. Utilise des œufs frais et intacts, respecte la température de cuisson indiquée et refroidis rapidement la préparation. Pour plus de sécurité, surtout quand la glace est destinée à des personnes vulnérables, tu peux utiliser des jaunes pasteurisés.",
+        "de": "Das Buontalenti-Eis ist eine der bekanntesten Sorten von Florenz. Es ist eine kalte, weiche, samtige Creme, hauptsächlich aus Milch, Sahne, Zucker und Eiern. Sein Geschmack ist zart und erinnert an Vanillecreme, mit einer Note von Vanille.\n\nDer Name erinnert an Bernardo Buontalenti, Architekt und Bühnenbildner im Dienst der Medici, dem die Tradition eine wichtige Rolle in der Geschichte des florentinischen Eises zuschreibt. Man erzählt, er habe eine gefrorene Creme für ein Hofbankett erdacht. Die historische Rekonstruktion ist jedoch unsicher: Es gibt kein überprüftes Originalrezept, das es erlauben würde, das heutige Eis mit dem im 16. Jahrhundert zubereiteten gleichzusetzen.\n\nDie vorgeschlagene Version ist daher eine moderne Eiscreme, inspiriert von der Sorte Buontalenti, und keine dokumentierte Wiedergabe eines Renaissancerezepts.\n\nWussten Sie schon? Bernardo Buontalenti ist auch durch seine Verbindung zu den Medici-Banketten eine zentrale Figur der florentinischen Kulinarik. Sein Ruf als Erfinder des modernen Speiseeises gehört jedoch zu einer komplexen historischen Überlieferung, in der sich Dokumente, Erzählungen und spätere Zuschreibungen verflechten. Es ist daher korrekter, von einem von Buontalenti inspirierten Eis zu sprechen als von einem sicheren Rezept des 16. Jahrhunderts.\n\nHinweis zur Lebensmittelsicherheit: Die Creme enthält Eigelb. Verwenden Sie frische, unbeschädigte Eier, halten Sie die angegebene Gartemperatur ein und kühlen Sie die Zubereitung schnell ab. Für mehr Sicherheit, vor allem wenn das Eis für anfällige Personen gedacht ist, können Sie pasteurisiertes Eigelb verwenden.",
+        "es": "El helado Buontalenti es uno de los sabores más conocidos de Florencia. Es una crema fría, suave y aterciopelada, preparada principalmente con leche, nata, azúcar y huevos. Su sabor es delicado y recuerda al de una crema pastelera, con una nota de vainilla.\n\nEl nombre evoca a Bernardo Buontalenti, arquitecto y escenógrafo al servicio de los Médici, a quien la tradición atribuye un papel importante en la historia del helado florentino. Se cuenta que ideó una crema helada para un banquete de corte. Sin embargo, la reconstrucción histórica es incierta: no disponemos de una receta original verificada que permita identificar el helado actual con el preparado en el siglo XVI.\n\nLa versión propuesta es, por tanto, una crema helada moderna inspirada en el sabor Buontalenti, no la reproducción documentada de una receta renacentista.\n\nCuriosidad: Bernardo Buontalenti es una figura central de la tradición gastronómica florentina también por su vínculo con los banquetes de los Médici. Su fama de inventor del helado moderno pertenece, sin embargo, a una tradición histórica compleja, en la que se entrelazan documentos, relatos y atribuciones posteriores. Es, por tanto, más correcto hablar de un helado inspirado en Buontalenti que de una receta cierta del siglo XVI.\n\nNota de seguridad alimentaria: la crema contiene yemas de huevo. Usa huevos frescos e intactos, respeta la temperatura de cocción indicada y enfría rápidamente la preparación. Para mayor seguridad, sobre todo cuando el helado está destinado a personas vulnerables, puedes usar yemas pasteurizadas."
+      },
+      "ricetta": {
+        "porzioni": 6,
+        "preparazione": {
+          "it": "25 min + almeno 4 h di raffreddamento + 30–40 min di mantecazione (eventuale rassodamento 1–2 h)",
+          "en": "25 min + at least 4 h chilling + 30–40 min churning (optional hardening 1–2 h)",
+          "fr": "25 min + au moins 4 h de refroidissement + 30–40 min de turbinage (éventuel durcissement 1–2 h)",
+          "de": "25 Min. + mindestens 4 Std. Abkühlen und Reifen + 30–40 Min. Gefrieren in der Eismaschine (ggf. 1–2 Std. Festwerden)",
+          "es": "25 min + al menos 4 h de enfriado + 30–40 min de mantecado (posible endurecimiento 1–2 h)"
+        },
+        "ingredienti": {
+          "it": [
+            "500 ml di latte intero",
+            "250 ml di panna fresca",
+            "150 g di zucchero",
+            "4 tuorli d'uovo",
+            "1 baccello di vaniglia",
+            "1 pizzico di sale"
+          ],
+          "en": [
+            "500 ml whole milk",
+            "250 ml fresh cream",
+            "150 g sugar",
+            "4 egg yolks",
+            "1 vanilla pod",
+            "1 pinch of salt"
+          ],
+          "fr": [
+            "500 ml de lait entier",
+            "250 ml de crème fraîche",
+            "150 g de sucre",
+            "4 jaunes d'œufs",
+            "1 gousse de vanille",
+            "1 pincée de sel"
+          ],
+          "de": [
+            "500 ml Vollmilch",
+            "250 ml frische Sahne",
+            "150 g Zucker",
+            "4 Eigelb",
+            "1 Vanilleschote",
+            "1 Prise Salz"
+          ],
+          "es": [
+            "500 ml de leche entera",
+            "250 ml de nata fresca",
+            "150 g de azúcar",
+            "4 yemas de huevo",
+            "1 vaina de vainilla",
+            "1 pizca de sal"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara la vaniglia. Incidi il baccello per il lungo e raschia i semi con la punta di un coltello. Versa il latte e la panna in una casseruola e aggiungi sia i semi sia il baccello.",
+            "Scalda il latte. Porta lentamente il composto vicino al punto di ebollizione, senza farlo bollire. Spegni il fuoco e lascia in infusione per circa 10–15 minuti, così la vaniglia rilascerà il suo aroma.",
+            "Prepara i tuorli. In una ciotola lavora i tuorli con lo zucchero e un pizzico di sale, utilizzando una frusta. Il composto deve diventare più chiaro e uniforme, senza montarlo eccessivamente.",
+            "Unisci il latte. Rimuovi il baccello di vaniglia. Versa lentamente il latte caldo sui tuorli, mescolando continuamente per temperarli ed evitare che si rapprendano.",
+            "Cuoci la crema. Rimetti il composto nella casseruola e cuoci a fuoco basso, mescolando costantemente con una spatola. La crema deve addensarsi leggermente e raggiungere una temperatura di circa 82–84 °C. Non deve bollire.",
+            "Controlla la consistenza. Quando la crema vela il dorso di un cucchiaio, toglila dal fuoco. Se compaiono piccoli grumi, puoi passarla attraverso un colino fine.",
+            "Raffredda rapidamente. Trasferisci la crema in un contenitore pulito e mettilo in un bagno di acqua e ghiaccio, mescolando per accelerare il raffreddamento. Quando non è più calda, coprila e riponila in frigorifero.",
+            "Lascia maturare. Fai raffreddare la base in frigorifero per almeno 4 ore, preferibilmente fino al giorno successivo. La crema deve essere ben fredda prima della mantecazione.",
+            "Manteca. Versa la base nella gelatiera e segui le istruzioni dell'apparecchio, fino a ottenere un gelato cremoso e consistente.",
+            "Conserva e servi. Trasferisci il gelato in un contenitore freddo e lascialo rassodare in freezer per circa 1–2 ore, se necessario. Prima di servirlo, attendi qualche minuto a temperatura ambiente. Senza gelatiera: versa la crema fredda in un contenitore basso e mettila in freezer. Ogni 30–40 minuti mescola energicamente con una frusta o una forchetta, rompendo i cristalli di ghiaccio. Ripeti per circa 3 ore, fino a ottenere una consistenza più uniforme. Il risultato sarà meno fine rispetto alla mantecazione con gelatiera."
+          ],
+          "en": [
+            "Prepare the vanilla. Split the pod lengthways and scrape out the seeds with the tip of a knife. Pour the milk and cream into a saucepan and add both the seeds and the pod.",
+            "Heat the milk. Slowly bring the mixture close to boiling point, without letting it boil. Turn off the heat and leave to infuse for about 10–15 minutes, so the vanilla releases its aroma.",
+            "Prepare the yolks. In a bowl work the yolks with the sugar and a pinch of salt, using a whisk. The mixture should become paler and even, without whipping it too much.",
+            "Combine with the milk. Remove the vanilla pod. Slowly pour the hot milk over the yolks, stirring continuously to temper them and stop them setting.",
+            "Cook the custard. Put the mixture back in the saucepan and cook over low heat, stirring constantly with a spatula. The cream should thicken slightly and reach a temperature of about 82–84 °C. It must not boil.",
+            "Check the consistency. When the cream coats the back of a spoon, take it off the heat. If small lumps appear, you can pass it through a fine sieve.",
+            "Cool quickly. Transfer the cream to a clean container and set it in a bath of water and ice, stirring to speed up cooling. When it is no longer hot, cover it and put it in the refrigerator.",
+            "Let it mature. Chill the base in the refrigerator for at least 4 hours, preferably until the next day. The cream must be well chilled before churning.",
+            "Churn. Pour the base into the ice cream machine and follow the machine's instructions, until you have a creamy, firm gelato.",
+            "Store and serve. Transfer the gelato to a cold container and let it harden in the freezer for about 1–2 hours, if needed. Before serving, wait a few minutes at room temperature. Without an ice cream machine: pour the cold cream into a shallow container and put it in the freezer. Every 30–40 minutes stir vigorously with a whisk or fork, breaking up the ice crystals. Repeat for about 3 hours, until you get a more uniform texture. The result will be less fine than churning with a machine."
+          ],
+          "fr": [
+            "Prépare la vanille. Fends la gousse dans la longueur et gratte les graines avec la pointe d'un couteau. Verse le lait et la crème dans une casserole et ajoute à la fois les graines et la gousse.",
+            "Chauffe le lait. Porte lentement le mélange près du point d'ébullition, sans le faire bouillir. Éteins le feu et laisse infuser environ 10 à 15 minutes, pour que la vanille libère son arôme.",
+            "Prépare les jaunes. Dans un saladier, travaille les jaunes avec le sucre et une pincée de sel, au fouet. Le mélange doit devenir plus clair et uniforme, sans le monter excessivement.",
+            "Réunis avec le lait. Retire la gousse de vanille. Verse lentement le lait chaud sur les jaunes, en remuant continuellement pour les tempérer et éviter qu'ils ne coagulent.",
+            "Cuis la crème. Remets le mélange dans la casserole et cuis à feu doux, en remuant constamment à la spatule. La crème doit épaissir légèrement et atteindre une température d'environ 82–84 °C. Elle ne doit pas bouillir.",
+            "Contrôle la consistance. Quand la crème nappe le dos d'une cuillère, retire-la du feu. Si de petits grumeaux apparaissent, tu peux la passer dans une passoire fine.",
+            "Refroidis rapidement. Transfère la crème dans un récipient propre et place-le dans un bain d'eau et de glace, en remuant pour accélérer le refroidissement. Quand elle n'est plus chaude, couvre-la et mets-la au réfrigérateur.",
+            "Laisse maturer. Fais refroidir la base au réfrigérateur au moins 4 heures, de préférence jusqu'au lendemain. La crème doit être bien froide avant le turbinage.",
+            "Turbine. Verse la base dans la sorbetière et suis les instructions de l'appareil, jusqu'à obtenir une glace crémeuse et consistante.",
+            "Conserve et sers. Transfère la glace dans un récipient froid et laisse-la durcir au congélateur environ 1 à 2 heures, si nécessaire. Avant de servir, attends quelques minutes à température ambiante. Sans sorbetière : verse la crème froide dans un récipient plat et mets-le au congélateur. Toutes les 30 à 40 minutes, remue énergiquement au fouet ou à la fourchette pour briser les cristaux de glace. Répète pendant environ 3 heures, jusqu'à obtenir une consistance plus uniforme. Le résultat sera moins fin qu'avec une sorbetière."
+          ],
+          "de": [
+            "Vanille vorbereiten. Die Schote der Länge nach einschneiden und das Mark mit der Messerspitze herauskratzen. Milch und Sahne in einen Topf gießen und sowohl das Mark als auch die Schote zugeben.",
+            "Milch erhitzen. Die Mischung langsam nahe an den Siedepunkt bringen, ohne sie kochen zu lassen. Den Herd ausschalten und etwa 10–15 Minuten ziehen lassen, damit die Vanille ihr Aroma abgibt.",
+            "Eigelb vorbereiten. In einer Schüssel das Eigelb mit dem Zucker und einer Prise Salz mit einem Schneebesen verrühren. Die Masse soll heller und gleichmäßig werden, ohne zu stark aufgeschlagen zu werden.",
+            "Mit der Milch verbinden. Die Vanilleschote entfernen. Die heiße Milch langsam über das Eigelb gießen und dabei ständig rühren, um es zu temperieren und ein Stocken zu verhindern.",
+            "Creme garen. Die Mischung zurück in den Topf geben und bei niedriger Hitze unter ständigem Rühren mit einem Spatel garen. Die Creme soll leicht eindicken und eine Temperatur von etwa 82–84 °C erreichen. Sie darf nicht kochen.",
+            "Konsistenz prüfen. Wenn die Creme den Löffelrücken überzieht, vom Herd nehmen. Bilden sich kleine Klümpchen, kann sie durch ein feines Sieb gestrichen werden.",
+            "Schnell abkühlen. Die Creme in einen sauberen Behälter umfüllen und in ein Wasser-Eis-Bad stellen, dabei rühren, um das Abkühlen zu beschleunigen. Ist sie nicht mehr heiß, abdecken und in den Kühlschrank stellen.",
+            "Reifen lassen. Die Basis mindestens 4 Stunden, am besten bis zum nächsten Tag, im Kühlschrank kühlen. Die Creme muss vor dem Gefrieren gut kalt sein.",
+            "In der Eismaschine gefrieren. Die Basis in die Eismaschine gießen und der Anleitung des Geräts folgen, bis ein cremiges, festes Eis entsteht.",
+            "Aufbewahren und servieren. Das Eis in einen kalten Behälter umfüllen und bei Bedarf etwa 1–2 Stunden im Gefrierfach fest werden lassen. Vor dem Servieren einige Minuten bei Raumtemperatur stehen lassen. Ohne Eismaschine: Die kalte Creme in einen flachen Behälter gießen und in den Gefrierschrank stellen. Alle 30–40 Minuten kräftig mit einem Schneebesen oder einer Gabel rühren, um die Eiskristalle zu zerbrechen. Etwa 3 Stunden wiederholen, bis eine gleichmäßigere Konsistenz entsteht. Das Ergebnis ist weniger fein als mit der Eismaschine."
+          ],
+          "es": [
+            "Prepara la vainilla. Abre la vaina a lo largo y raspa las semillas con la punta de un cuchillo. Vierte la leche y la nata en un cazo y añade tanto las semillas como la vaina.",
+            "Calienta la leche. Lleva lentamente la mezcla cerca del punto de ebullición, sin dejar que hierva. Apaga el fuego y deja en infusión unos 10–15 minutos, para que la vainilla libere su aroma.",
+            "Prepara las yemas. En un cuenco trabaja las yemas con el azúcar y una pizca de sal, con unas varillas. La mezcla debe volverse más clara y uniforme, sin montarla en exceso.",
+            "Une con la leche. Retira la vaina de vainilla. Vierte lentamente la leche caliente sobre las yemas, removiendo continuamente para templarlas y evitar que cuajen.",
+            "Cuece la crema. Vuelve a poner la mezcla en el cazo y cuece a fuego bajo, removiendo constantemente con una espátula. La crema debe espesar ligeramente y alcanzar una temperatura de unos 82–84 °C. No debe hervir.",
+            "Controla la consistencia. Cuando la crema vele el dorso de una cuchara, retírala del fuego. Si aparecen pequeños grumos, puedes pasarla por un colador fino.",
+            "Enfría rápidamente. Pasa la crema a un recipiente limpio y colócalo en un baño de agua y hielo, removiendo para acelerar el enfriado. Cuando ya no esté caliente, tápala y guárdala en la nevera.",
+            "Deja madurar. Enfría la base en la nevera al menos 4 horas, preferiblemente hasta el día siguiente. La crema debe estar bien fría antes del mantecado.",
+            "Mantéca. Vierte la base en la heladera y sigue las instrucciones del aparato, hasta obtener un helado cremoso y consistente.",
+            "Conserva y sirve. Pasa el helado a un recipiente frío y déjalo endurecer en el congelador unas 1–2 horas, si hace falta. Antes de servirlo, espera unos minutos a temperatura ambiente. Sin heladera: vierte la crema fría en un recipiente bajo y ponlo en el congelador. Cada 30–40 minutos remueve enérgicamente con unas varillas o un tenedor, rompiendo los cristales de hielo. Repite durante unas 3 horas, hasta obtener una textura más uniforme. El resultado será menos fino que con heladera."
+          ]
+        }
+      }
     }
   ]
 }
