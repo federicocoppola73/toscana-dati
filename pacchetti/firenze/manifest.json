@@ -1,5 +1,5 @@
 {
- "versione": "92f72260f49d",
+ "versione": "e079d3fe0615",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -204,6 +204,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-maria-del-carmine.webp",
    "sha256": "03b80778f53c24b82e68e596eef7904bd3c129aeec6ca492cc1942f74d1c61d0",
    "byte": 123522
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-maria-del-carmine_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-maria-del-carmine_2.webp",
+   "sha256": "003b1358f65d9b97ac28ee06799a6ce5282f808f9050aab36dfb0f9a4bbc13f2",
+   "byte": 112182
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-maria-del-carmine_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-maria-del-carmine_3.webp",
+   "sha256": "883f154b4d6f0690410475835b4a22309c84a5f51dfe70f18f32332a38a1af1a",
+   "byte": 166224
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-maria-del-carmine_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-maria-del-carmine_4.webp",
+   "sha256": "d9ed85c50cb2305e78d77aed00f3d29d817d5ca6e4f87e65b2081140a4a2120c",
+   "byte": 94894
   },
   {
    "path": "assets/luoghi/basilica-di-santa-maria-novella.webp",
@@ -5884,7 +5902,7 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "71d3ad739ce70a6a7b86cc46719b9c9c07ff8d94eb0de4e281af7e77e5fa0858",
+   "sha256": "8aaab12f693de731285eb71f55c271017387ff46133db118829206a691fd62a1",
    "byte": 2463
   },
   {
@@ -5896,8 +5914,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "3107f2c65d3fb055907f99499c14778abcacc52595f4a37ca389f216733ba6f0",
-   "byte": 1815945
+   "sha256": "7332ad22189833095545613ae8c3fbbf599ab62bdc2f256bd0c351113fbc7a1f",
+   "byte": 1816499
   },
   {
    "path": "dati/mappa.json",
@@ -5961,16 +5979,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "fb996c37561b",
-   "da": "2a85500b8880",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Torre della Zecca"
-   ],
-   "foto_nuove": 3,
-   "byte": 1844128
-  },
   {
    "versione": "56b1bc012180",
    "da": "fb996c37561b",
@@ -6184,6 +6192,17 @@
    ],
    "foto_nuove": 1,
    "byte": 1941930
+  },
+  {
+   "versione": "e079d3fe0615",
+   "da": "92f72260f49d",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 3,
+   "byte": 2192262
   }
  ]
 }

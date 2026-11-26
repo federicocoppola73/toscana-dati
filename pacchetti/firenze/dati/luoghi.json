@@ -10541,7 +10541,24 @@
         "autore": "Francesco Bini",
         "licenza": "CC BY-SA 4.0",
         "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/152554227"
-      }
+      },
+      "galleria": [
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY 3.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/67043612"
+        },
+        {
+          "autore": "Mentnafunangann",
+          "licenza": "CC BY-SA 3.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/33908894"
+        },
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY 2.5",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/871872"
+        }
+      ]
     },
     {
       "id": "badia-fiorentina",
