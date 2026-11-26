@@ -1,5 +1,5 @@
 {
- "versione": "cc6ae5da60a5",
+ "versione": "768e63d8a94d",
  "voce": "fr-FR-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -1124,6 +1124,21 @@
      "secondi": 199,
      "sha256": "8e177dd4bb8d90ee110832e594cf1d4d2cdbee387f545c0704e302f970848856",
      "testo": "f1cd768e65add561"
+    }
+   ]
+  },
+  "villa-medicea-di-castello": {
+   "byte": 1448540,
+   "secondi": 241,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "villa-medicea-di-castello.mp3",
+     "byte": 1448540,
+     "secondi": 241,
+     "sha256": "328dfb02e30cc599c261e02951f6d1dadedb9f8c9042604894fbe66b3924cb45",
+     "testo": "843b324e002a4f6f"
     }
    ]
   }
