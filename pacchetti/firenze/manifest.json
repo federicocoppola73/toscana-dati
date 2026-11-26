@@ -1,5 +1,5 @@
 {
- "versione": "d4ce6ef4844d",
+ "versione": "a9fc9e0729d1",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -6160,8 +6160,8 @@
   {
    "path": "dati/cibi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/cibi.json",
-   "sha256": "8d100bfbaa0e980743240493616c6187414a53929f298051210a5b44e7bbb2f9",
-   "byte": 147844
+   "sha256": "dc0c9fb8b294a07d2bd7cb1951617b623dad735a2f3d5dd94bc72de4a2341efa",
+   "byte": 220169
   },
   {
    "path": "dati/citta.json",
@@ -6261,17 +6261,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "144e70e70a8e",
-   "da": "85c3c375692a",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 2,
-   "aspetti": [
-    "orari",
-    "descrizioni"
-   ],
-   "byte": 1762242
-  },
   {
    "versione": "97caa94ded97",
    "da": "144e70e70a8e",
@@ -6468,6 +6457,13 @@
    "data": "2026-11-26",
    "cibi_nuovi": 4,
    "byte": 453632
+  },
+  {
+   "versione": "a9fc9e0729d1",
+   "da": "d4ce6ef4844d",
+   "data": "2026-11-26",
+   "cibi_nuovi": 4,
+   "byte": 220169
   }
  ]
 }

@@ -1218,6 +1218,580 @@
         "licenza": "CC BY-SA 2.0",
         "url": "https://commons.wikimedia.org/w/index.php?title=User:WILO-MA&action=edit&redlink=1"
       }
+    },
+    {
+      "id": "pan-di-ramerino",
+      "nome": "Pan di ramerino",
+      "portata": "dolce",
+      "testo": {
+        "it": "Il pan di ramerino è un piccolo pane dolce fiorentino, profumato al rosmarino — chiamato in Toscana ramerino — e arricchito con uvetta. La sua origine è legata alla tradizione religiosa e popolare: veniva preparato soprattutto nel periodo della Quaresima e, in particolare, il Giovedì Santo.\n\nUn tempo era un pane semplice, poco dolce, arricchito con ingredienti che ne miglioravano il sapore e la conservazione. Con il tempo è diventato un prodotto da forno disponibile in molte pasticcerie fiorentine, spesso caratterizzato da una superficie lucida ottenuta con una spennellatura di sciroppo o uovo.\n\nCuriosità: il nome deriva dal rosmarino, ingrediente che caratterizza il profumo del pane. La tradizione lo associa alla Quaresima e al Giovedì Santo, ma oggi si trova anche in altri periodi dell'anno.",
+        "en": "Pan di ramerino is a small sweet Florentine bread, scented with rosemary — called ramerino in Tuscany — and enriched with raisins. Its origin is tied to religious and popular tradition: it was made above all during Lent and, in particular, on Maundy Thursday.\n\nIn the past it was a simple, only slightly sweet bread, enriched with ingredients that improved its flavour and keeping quality. Over time it has become a baked product found in many Florentine pastry shops, often marked by a glossy surface obtained by brushing with syrup or egg.\n\nDid you know? The name comes from rosemary, the ingredient that gives the bread its aroma. Tradition associates it with Lent and Maundy Thursday, but today it can also be found at other times of the year.",
+        "fr": "Le pan di ramerino est un petit pain sucré florentin, parfumé au romarin — appelé ramerino en Toscane — et enrichi de raisins secs. Son origine est liée à la tradition religieuse et populaire : on le préparait surtout pendant le Carême et, en particulier, le Jeudi saint.\n\nAutrefois, c'était un pain simple, peu sucré, enrichi d'ingrédients qui en amélioraient le goût et la conservation. Avec le temps, il est devenu un produit de boulangerie disponible dans de nombreuses pâtisseries florentines, souvent caractérisé par une surface brillante obtenue en le badigeonnant de sirop ou d'œuf.\n\nLe saviez-vous ? Le nom vient du romarin, l'ingrédient qui donne son parfum au pain. La tradition l'associe au Carême et au Jeudi saint, mais on en trouve aujourd'hui aussi à d'autres périodes de l'année.",
+        "de": "Das Pan di ramerino ist ein kleines süßes florentinisches Brot, mit Rosmarin — in der Toskana „ramerino“ genannt — aromatisiert und mit Rosinen angereichert. Sein Ursprung hängt mit der religiösen und volkstümlichen Tradition zusammen: Es wurde vor allem in der Fastenzeit und insbesondere am Gründonnerstag zubereitet.\n\nFrüher war es ein einfaches, nur leicht süßes Brot, angereichert mit Zutaten, die Geschmack und Haltbarkeit verbesserten. Mit der Zeit wurde es zu einem Backwerk, das in vielen florentinischen Konditoreien erhältlich ist und oft an der glänzenden Oberfläche zu erkennen ist, die durch Bestreichen mit Sirup oder Ei entsteht.\n\nWussten Sie schon? Der Name stammt vom Rosmarin, der dem Brot sein Aroma verleiht. Die Tradition verbindet es mit der Fastenzeit und dem Gründonnerstag, heute findet man es aber auch zu anderen Zeiten des Jahres.",
+        "es": "El pan di ramerino es un pequeño pan dulce florentino, perfumado con romero — llamado ramerino en la Toscana — y enriquecido con pasas. Su origen está ligado a la tradición religiosa y popular: se preparaba sobre todo durante la Cuaresma y, en particular, el Jueves Santo.\n\nEn otro tiempo era un pan sencillo, poco dulce, enriquecido con ingredientes que mejoraban su sabor y su conservación. Con el tiempo se ha convertido en un producto de horno disponible en muchas pastelerías florentinas, a menudo con una superficie brillante lograda al pincelarlo con almíbar o huevo.\n\nCuriosidad: el nombre procede del romero, ingrediente que da el aroma al pan. La tradición lo asocia a la Cuaresma y al Jueves Santo, pero hoy se encuentra también en otras épocas del año."
+      },
+      "ricetta": {
+        "porzioni": 8,
+        "preparazione": {
+          "it": "30 min + lievitazioni di circa 2 h e 45–60 min + 20–25 min di cottura",
+          "en": "30 min + rises of about 2 h and 45–60 min + 20–25 min baking",
+          "fr": "30 min + levées d'environ 2 h et 45–60 min + 20–25 min de cuisson",
+          "de": "30 Min. + Gehzeiten von etwa 2 Std. und 45–60 Min. + 20–25 Min. Backzeit",
+          "es": "30 min + fermentaciones de unas 2 h y 45–60 min + 20–25 min de horneado"
+        },
+        "ingredienti": {
+          "it": [
+            "500 g di farina 0",
+            "250 ml circa di acqua tiepida",
+            "80 g di uvetta",
+            "70 g di zucchero",
+            "12 g di lievito di birra fresco",
+            "60 ml di olio extravergine d'oliva delicato",
+            "2 rametti di rosmarino",
+            "1 pizzico di sale",
+            "Per la lucidatura: 2 cucchiai di acqua",
+            "2 cucchiai di zucchero",
+            "Facoltativo: 1 tuorlo d'uovo con un cucchiaio di latte, per una superficie più dorata"
+          ],
+          "en": [
+            "500 g flour (type 0)",
+            "About 250 ml lukewarm water",
+            "80 g raisins",
+            "70 g sugar",
+            "12 g fresh brewer's yeast",
+            "60 ml mild extra virgin olive oil",
+            "2 sprigs of rosemary",
+            "1 pinch of salt",
+            "For the glaze: 2 tablespoons water",
+            "2 tablespoons sugar",
+            "Optional: 1 egg yolk with a tablespoon of milk, for a more golden surface"
+          ],
+          "fr": [
+            "500 g de farine type 0",
+            "Environ 250 ml d'eau tiède",
+            "80 g de raisins secs",
+            "70 g de sucre",
+            "12 g de levure de boulanger fraîche",
+            "60 ml d'huile d'olive extra vierge douce",
+            "2 brins de romarin",
+            "1 pincée de sel",
+            "Pour le glaçage : 2 cuillères à soupe d'eau",
+            "2 cuillères à soupe de sucre",
+            "Facultatif : 1 jaune d'œuf avec une cuillère de lait, pour une surface plus dorée"
+          ],
+          "de": [
+            "500 g Mehl Type 0",
+            "Etwa 250 ml lauwarmes Wasser",
+            "80 g Rosinen",
+            "70 g Zucker",
+            "12 g frische Bierhefe",
+            "60 ml mildes natives Olivenöl extra",
+            "2 Zweige Rosmarin",
+            "1 Prise Salz",
+            "Für den Glanz: 2 Esslöffel Wasser",
+            "2 Esslöffel Zucker",
+            "Nach Belieben: 1 Eigelb mit einem Esslöffel Milch für eine goldenere Oberfläche"
+          ],
+          "es": [
+            "500 g de harina tipo 0",
+            "Unos 250 ml de agua tibia",
+            "80 g de pasas",
+            "70 g de azúcar",
+            "12 g de levadura fresca de cerveza",
+            "60 ml de aceite de oliva virgen extra suave",
+            "2 ramitas de romero",
+            "1 pizca de sal",
+            "Para el brillo: 2 cucharadas de agua",
+            "2 cucharadas de azúcar",
+            "Opcional: 1 yema de huevo con una cucharada de leche, para una superficie más dorada"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Ammorbidisci l'uvetta. Mettila in una ciotola con acqua tiepida per circa 10 minuti. Scolala, strizzala delicatamente e asciugala con carta da cucina.",
+            "Prepara il rosmarino. Lava i rametti, asciugali e stacca gli aghi. Tritali molto finemente. Scalda l'olio in un pentolino a fuoco dolce, aggiungi il rosmarino e lascialo insaporire per pochi minuti senza friggere o bruciare gli aghi. Spegni e lascia intiepidire.",
+            "Sciogli il lievito. Versa il lievito nell'acqua tiepida e mescola fino a scioglierlo. L'acqua non deve essere calda, altrimenti potrebbe compromettere l'attività del lievito.",
+            "Prepara l'impasto. Metti la farina in una ciotola capiente, aggiungi lo zucchero e versa gradualmente l'acqua con il lievito. Incorpora l'olio aromatizzato al rosmarino e lavora l'impasto.",
+            "Aggiungi il sale e l'uvetta. Unisci il sale e continua a impastare fino a ottenere una massa liscia ed elastica. Aggiungi l'uvetta e lavorala delicatamente per distribuirla in modo uniforme.",
+            "Prima lievitazione. Forma una palla, sistemala in una ciotola leggermente unta e coprila. Lascia lievitare in un luogo tiepido per circa 2 ore, o fino al raddoppio del volume.",
+            "Forma i panini. Dividi l'impasto in otto parti, forma delle palline e sistemale su una teglia rivestita con carta da forno, lasciando spazio tra una e l'altra.",
+            "Seconda lievitazione. Copri i panini con un telo pulito e lasciali lievitare ancora per circa 45–60 minuti.",
+            "Incidi la superficie. Con una lametta o un coltello molto affilato pratica sulla sommità di ogni panino un'incisione a croce o alcuni tagli incrociati. La decorazione tradizionale è piuttosto evidente.",
+            "Cuoci. Preriscalda il forno statico a 180 °C. Cuoci per circa 20–25 minuti, finché i panini saranno dorati e ben cotti.",
+            "Prepara lo sciroppo. Mentre i panini cuociono, scalda l'acqua con lo zucchero in un pentolino, mescolando fino a scioglierlo. Lascia sobbollire brevemente.",
+            "Lucida e servi. Appena sfornati, spennella i panini con lo sciroppo. Lasciali raffreddare su una griglia prima di servirli."
+          ],
+          "en": [
+            "Soften the raisins. Put them in a bowl with lukewarm water for about 10 minutes. Drain, squeeze gently and dry with kitchen paper.",
+            "Prepare the rosemary. Wash the sprigs, dry them and strip the needles. Chop them very finely. Heat the oil in a small pan over gentle heat, add the rosemary and let it flavour the oil for a few minutes without frying or burning the needles. Turn off the heat and let it cool slightly.",
+            "Dissolve the yeast. Pour the yeast into the lukewarm water and stir until dissolved. The water must not be hot, otherwise it could harm the yeast's activity.",
+            "Make the dough. Put the flour in a large bowl, add the sugar and gradually pour in the water with the yeast. Add the rosemary-flavoured oil and work the dough.",
+            "Add the salt and raisins. Add the salt and keep kneading until you have a smooth, elastic mass. Add the raisins and work them in gently to distribute them evenly.",
+            "First rise. Shape a ball, put it in a lightly greased bowl and cover it. Let it rise in a warm place for about 2 hours, or until doubled in volume.",
+            "Shape the rolls. Divide the dough into eight parts, form little balls and place them on a tray lined with baking paper, leaving space between them.",
+            "Second rise. Cover the rolls with a clean cloth and let them rise for another 45–60 minutes.",
+            "Score the surface. With a blade or a very sharp knife cut a cross or a few crossed slashes on top of each roll. The traditional decoration is quite pronounced.",
+            "Bake. Preheat the conventional oven to 180 °C. Bake for about 20–25 minutes, until the rolls are golden and well cooked.",
+            "Make the syrup. While the rolls bake, heat the water with the sugar in a small pan, stirring until dissolved. Let it simmer briefly.",
+            "Glaze and serve. As soon as they come out of the oven, brush the rolls with the syrup. Let them cool on a rack before serving."
+          ],
+          "fr": [
+            "Ramollis les raisins secs. Mets-les dans un bol avec de l'eau tiède environ 10 minutes. Égoutte-les, presse-les délicatement et sèche-les avec du papier absorbant.",
+            "Prépare le romarin. Lave les brins, sèche-les et détache les aiguilles. Hache-les très finement. Chauffe l'huile dans une petite casserole à feu doux, ajoute le romarin et laisse-le parfumer quelques minutes sans frire ni brûler les aiguilles. Éteins et laisse tiédir.",
+            "Délaie la levure. Verse la levure dans l'eau tiède et remue jusqu'à dissolution. L'eau ne doit pas être chaude, sinon elle pourrait compromettre l'activité de la levure.",
+            "Prépare la pâte. Mets la farine dans un grand saladier, ajoute le sucre et verse progressivement l'eau avec la levure. Incorpore l'huile parfumée au romarin et travaille la pâte.",
+            "Ajoute le sel et les raisins secs. Ajoute le sel et continue à pétrir jusqu'à obtenir une masse lisse et élastique. Ajoute les raisins secs et travaille-les délicatement pour les répartir uniformément.",
+            "Première levée. Forme une boule, place-la dans un saladier légèrement huilé et couvre-la. Laisse lever dans un endroit tiède environ 2 heures, ou jusqu'à ce que le volume double.",
+            "Forme les petits pains. Divise la pâte en huit parts, forme des boules et dispose-les sur une plaque recouverte de papier sulfurisé, en laissant de l'espace entre elles.",
+            "Seconde levée. Couvre les petits pains d'un linge propre et laisse-les lever encore 45 à 60 minutes environ.",
+            "Incise la surface. Avec une lame ou un couteau très aiguisé, pratique au sommet de chaque petit pain une incision en croix ou quelques entailles croisées. La décoration traditionnelle est assez marquée.",
+            "Cuis. Préchauffe le four statique à 180 °C. Cuis environ 20 à 25 minutes, jusqu'à ce que les petits pains soient dorés et bien cuits.",
+            "Prépare le sirop. Pendant la cuisson, chauffe l'eau avec le sucre dans une petite casserole en remuant jusqu'à dissolution. Laisse mijoter brièvement.",
+            "Glace et sers. À la sortie du four, badigeonne les petits pains de sirop. Laisse-les refroidir sur une grille avant de servir."
+          ],
+          "de": [
+            "Rosinen einweichen. Etwa 10 Minuten in eine Schüssel mit lauwarmem Wasser legen. Abgießen, vorsichtig ausdrücken und mit Küchenpapier trocknen.",
+            "Rosmarin vorbereiten. Die Zweige waschen, trocknen und die Nadeln abstreifen. Sehr fein hacken. Das Öl in einem kleinen Topf bei sanfter Hitze erwärmen, den Rosmarin zugeben und einige Minuten aromatisieren lassen, ohne die Nadeln zu braten oder zu verbrennen. Ausschalten und leicht abkühlen lassen.",
+            "Hefe auflösen. Die Hefe in das lauwarme Wasser geben und rühren, bis sie aufgelöst ist. Das Wasser darf nicht heiß sein, sonst könnte es die Hefeaktivität beeinträchtigen.",
+            "Teig zubereiten. Das Mehl in eine große Schüssel geben, den Zucker zufügen und nach und nach das Wasser mit der Hefe zugießen. Das Rosmarinöl unterarbeiten und den Teig kneten.",
+            "Salz und Rosinen zugeben. Das Salz zufügen und weiterkneten, bis eine glatte, elastische Masse entsteht. Die Rosinen zugeben und vorsichtig unterarbeiten, damit sie sich gleichmäßig verteilen.",
+            "Erste Gehzeit. Eine Kugel formen, in eine leicht gefettete Schüssel legen und abdecken. An einem warmen Ort etwa 2 Stunden gehen lassen oder bis sich das Volumen verdoppelt hat.",
+            "Brötchen formen. Den Teig in acht Teile teilen, Kugeln formen und mit Abstand auf ein mit Backpapier belegtes Blech setzen.",
+            "Zweite Gehzeit. Die Brötchen mit einem sauberen Tuch abdecken und weitere etwa 45–60 Minuten gehen lassen.",
+            "Oberfläche einschneiden. Mit einer Klinge oder einem sehr scharfen Messer auf jedem Brötchen oben einen Kreuzschnitt oder einige gekreuzte Schnitte anbringen. Die traditionelle Verzierung ist ziemlich deutlich.",
+            "Backen. Den Backofen auf Ober-/Unterhitze 180 °C vorheizen. Etwa 20–25 Minuten backen, bis die Brötchen goldgelb und gut durchgebacken sind.",
+            "Sirup zubereiten. Während die Brötchen backen, das Wasser mit dem Zucker in einem kleinen Topf erhitzen und rühren, bis sich der Zucker löst. Kurz köcheln lassen.",
+            "Glasieren und servieren. Die Brötchen direkt nach dem Backen mit dem Sirup bestreichen. Vor dem Servieren auf einem Gitter abkühlen lassen."
+          ],
+          "es": [
+            "Ablanda las pasas. Ponlas en un cuenco con agua tibia unos 10 minutos. Escúrrelas, exprímelas con delicadeza y sécalas con papel de cocina.",
+            "Prepara el romero. Lava las ramitas, sécalas y desprende las agujas. Pícalas muy finamente. Calienta el aceite en un cazo a fuego suave, añade el romero y déjalo aromatizar unos minutos sin freír ni quemar las agujas. Apaga y deja templar.",
+            "Disuelve la levadura. Vierte la levadura en el agua tibia y remueve hasta que se disuelva. El agua no debe estar caliente, o podría comprometer la actividad de la levadura.",
+            "Prepara la masa. Pon la harina en un cuenco grande, añade el azúcar y vierte poco a poco el agua con la levadura. Incorpora el aceite aromatizado con romero y trabaja la masa.",
+            "Añade la sal y las pasas. Incorpora la sal y sigue amasando hasta obtener una masa lisa y elástica. Añade las pasas y trabájalas con delicadeza para repartirlas de manera uniforme.",
+            "Primera fermentación. Forma una bola, colócala en un cuenco ligeramente untado y cúbrela. Deja fermentar en un lugar templado unas 2 horas, o hasta que doble su volumen.",
+            "Forma los panecillos. Divide la masa en ocho partes, forma bolitas y colócalas en una bandeja forrada con papel de horno, dejando espacio entre ellas.",
+            "Segunda fermentación. Cubre los panecillos con un paño limpio y déjalos fermentar otros 45–60 minutos.",
+            "Marca la superficie. Con una cuchilla o un cuchillo muy afilado, haz en la parte superior de cada panecillo un corte en cruz o algunos cortes cruzados. La decoración tradicional es bastante marcada.",
+            "Hornea. Precalienta el horno estático a 180 °C. Hornea unos 20–25 minutos, hasta que los panecillos estén dorados y bien cocidos.",
+            "Prepara el almíbar. Mientras se hornean los panecillos, calienta el agua con el azúcar en un cazo, removiendo hasta que se disuelva. Deja hervir brevemente.",
+            "Abrillanta y sirve. Nada más sacarlos del horno, pincela los panecillos con el almíbar. Déjalos enfriar sobre una rejilla antes de servirlos."
+          ]
+        }
+      }
+    },
+    {
+      "id": "peposo-dellimpruneta",
+      "nome": "Peposo dell'Impruneta",
+      "portata": "secondo",
+      "testo": {
+        "it": "Il peposo è uno stufato di manzo tipico dell'Impruneta, località alle porte di Firenze famosa per la lavorazione della terracotta. È una preparazione dalla storia antica, legata alla tradizione dei fornaciai e alla cottura lenta della carne nei forni utilizzati per cuocere i manufatti in terracotta.\n\nLa ricetta tradizionale si basa su pochi ingredienti: carne bovina, vino rosso, aglio e una quantità generosa di pepe nero. Il risultato è uno stufato scuro, morbido e molto aromatico, nel quale il vino si riduce lentamente fino a formare un fondo ricco. La storia che collega il piatto ai lavoratori delle fornaci è una tradizione locale, non una ricostruzione documentale certa in ogni dettaglio.\n\nCuriosità: il peposo è strettamente legato alla tradizione delle fornaci dell'Impruneta. La cottura lenta e prolungata lo rendeva adatto a essere preparato in recipienti di terracotta e lasciato cuocere a lungo, mentre i lavoratori erano impegnati nelle attività quotidiane.",
+        "en": "Peposo is a beef stew typical of Impruneta, a town at the gates of Florence famous for working terracotta. It is a preparation with an ancient history, tied to the tradition of the kiln workers and to slow cooking of the meat in the kilns used to fire terracotta goods.\n\nThe traditional recipe rests on few ingredients: beef, red wine, garlic and a generous amount of black pepper. The result is a dark, tender and very aromatic stew, in which the wine slowly reduces to form a rich base. The story linking the dish to the kiln workers is a local tradition, not a reconstruction documented with certainty in every detail.\n\nDid you know? Peposo is closely tied to the tradition of the Impruneta kilns. Its slow, prolonged cooking made it suited to being prepared in terracotta vessels and left to cook for a long time while the workers were busy with their daily tasks.",
+        "fr": "Le peposo est un ragoût de bœuf typique de l'Impruneta, localité aux portes de Florence célèbre pour le travail de la terre cuite. C'est une préparation à l'histoire ancienne, liée à la tradition des ouvriers des fours et à la cuisson lente de la viande dans les fours utilisés pour cuire les objets en terre cuite.\n\nLa recette traditionnelle repose sur peu d'ingrédients : viande de bœuf, vin rouge, ail et une quantité généreuse de poivre noir. Le résultat est un ragoût sombre, tendre et très aromatique, dans lequel le vin réduit lentement jusqu'à former un fond riche. L'histoire qui relie le plat aux ouvriers des fours est une tradition locale, non une reconstitution documentée avec certitude dans chaque détail.\n\nLe saviez-vous ? Le peposo est étroitement lié à la tradition des fours de l'Impruneta. Sa cuisson lente et prolongée le rendait adapté à être préparé dans des récipients en terre cuite et laissé cuire longtemps pendant que les ouvriers vaquaient à leurs occupations quotidiennes.",
+        "de": "Das Peposo ist ein Rindereintopf, typisch für Impruneta, einen Ort vor den Toren von Florenz, der für die Terrakottaherstellung berühmt ist. Es ist eine Zubereitung mit alter Geschichte, verbunden mit der Tradition der Brennofenarbeiter und dem langsamen Garen des Fleisches in den Öfen, in denen die Terrakottaerzeugnisse gebrannt wurden.\n\nDas traditionelle Rezept beruht auf wenigen Zutaten: Rindfleisch, Rotwein, Knoblauch und reichlich schwarzer Pfeffer. Das Ergebnis ist ein dunkler, zarter und sehr aromatischer Eintopf, in dem der Wein langsam zu einem reichhaltigen Fond einkocht. Die Geschichte, die das Gericht mit den Ofenarbeitern verbindet, ist eine lokale Überlieferung und keine in jedem Detail sicher belegte Rekonstruktion.\n\nWussten Sie schon? Das Peposo ist eng mit der Tradition der Brennöfen von Impruneta verbunden. Das langsame, lange Garen machte es geeignet, in Terrakottagefäßen zubereitet und lange gegart zu werden, während die Arbeiter ihren täglichen Aufgaben nachgingen.",
+        "es": "El peposo es un estofado de ternera típico de Impruneta, localidad a las puertas de Florencia famosa por el trabajo de la terracota. Es una preparación de historia antigua, ligada a la tradición de los trabajadores de los hornos y a la cocción lenta de la carne en los hornos usados para cocer los objetos de terracota.\n\nLa receta tradicional se basa en pocos ingredientes: carne de vacuno, vino tinto, ajo y una cantidad generosa de pimienta negra. El resultado es un estofado oscuro, tierno y muy aromático, en el que el vino se reduce lentamente hasta formar un fondo rico. La historia que une el plato con los trabajadores de los hornos es una tradición local, no una reconstrucción documentada con certeza en cada detalle.\n\nCuriosidad: el peposo está estrechamente ligado a la tradición de los hornos de Impruneta. Su cocción lenta y prolongada lo hacía apto para prepararse en recipientes de terracota y dejarse cocer mucho tiempo mientras los trabajadores atendían sus tareas cotidianas."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "20 min + circa 3 ore di cottura + 10–15 min di riposo",
+          "en": "20 min + about 3 hours cooking + 10–15 min resting",
+          "fr": "20 min + environ 3 h de cuisson + 10–15 min de repos",
+          "de": "20 Min. + etwa 3 Std. Garzeit + 10–15 Min. Ruhezeit",
+          "es": "20 min + unas 3 horas de cocción + 10–15 min de reposo"
+        },
+        "ingredienti": {
+          "it": [
+            "1 kg di muscolo di manzo o altra carne adatta a lunghe cotture",
+            "750 ml di vino rosso corposo",
+            "4–5 spicchi d'aglio",
+            "2 cucchiaini di pepe nero in grani",
+            "1 cucchiaino di pepe nero macinato",
+            "1 rametto di rosmarino, facoltativo",
+            "Sale q.b.",
+            "Olio extravergine d'oliva, facoltativo"
+          ],
+          "en": [
+            "1 kg beef shin or other meat suited to long cooking",
+            "750 ml full-bodied red wine",
+            "4–5 garlic cloves",
+            "2 teaspoons black peppercorns",
+            "1 teaspoon ground black pepper",
+            "1 sprig of rosemary, optional",
+            "Salt as needed",
+            "Extra virgin olive oil, optional"
+          ],
+          "fr": [
+            "1 kg de jarret de bœuf ou autre viande adaptée aux longues cuissons",
+            "750 ml de vin rouge corsé",
+            "4–5 gousses d'ail",
+            "2 cuillères à café de poivre noir en grains",
+            "1 cuillère à café de poivre noir moulu",
+            "1 brin de romarin, facultatif",
+            "Sel selon besoin",
+            "Huile d'olive extra vierge, facultatif"
+          ],
+          "de": [
+            "1 kg Rinderhesse oder anderes zum langen Schmoren geeignetes Fleisch",
+            "750 ml kräftiger Rotwein",
+            "4–5 Knoblauchzehen",
+            "2 Teelöffel schwarze Pfefferkörner",
+            "1 Teelöffel gemahlener schwarzer Pfeffer",
+            "1 Zweig Rosmarin, nach Belieben",
+            "Salz nach Bedarf",
+            "Natives Olivenöl extra, nach Belieben"
+          ],
+          "es": [
+            "1 kg de morcillo de ternera u otra carne apta para cocciones largas",
+            "750 ml de vino tinto con cuerpo",
+            "4–5 dientes de ajo",
+            "2 cucharaditas de pimienta negra en grano",
+            "1 cucharadita de pimienta negra molida",
+            "1 ramita de romero, opcional",
+            "Sal al gusto",
+            "Aceite de oliva virgen extra, opcional"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara la carne. Taglia il manzo a cubi di circa 4–5 cm. Elimina soltanto eventuali parti eccessivamente dure o membrane esterne, lasciando il tessuto connettivo che durante la cottura contribuirà a rendere la carne morbida.",
+            "Prepara gli aromi. Schiaccia leggermente gli spicchi d'aglio senza ridurli in poltiglia. Pesta grossolanamente una parte dei grani di pepe e lascia gli altri interi.",
+            "Sistema gli ingredienti nella pentola. Metti la carne in una casseruola dal fondo spesso o in una pentola di terracotta adatta alla cottura. Aggiungi aglio, pepe in grani e macinato, sale e rosmarino se lo desideri.",
+            "Versa il vino. Copri la carne con il vino rosso. Se utilizzi una pentola di terracotta, assicurati che sia idonea al fuoco o al forno e segui le indicazioni del produttore per evitare shock termici.",
+            "Avvia la cottura. Porta lentamente a un leggero sobbollore sul fornello. Quando il vino inizia a fremere, abbassa la fiamma al minimo e copri parzialmente la pentola.",
+            "Cuoci a lungo. Lascia cuocere per circa 3 ore, controllando periodicamente. La carne deve sobbollire dolcemente, non bollire in modo violento. Se il liquido si riduce troppo prima che la carne sia tenera, aggiungi un poco di acqua calda.",
+            "Controlla la consistenza. Dopo circa 2 ore e 30 minuti verifica la carne con una forchetta. Deve cedere facilmente e sfaldarsi con una leggera pressione. Se è ancora tenace, prosegui la cottura.",
+            "Riduci il fondo. Quando la carne è tenera, togli il coperchio e lascia restringere il liquido, se necessario, fino a ottenere un fondo denso e saporito. Mescola delicatamente per non rompere eccessivamente i pezzi.",
+            "Lascia riposare. Spegni il fuoco e attendi 10–15 minuti prima di servire. Il riposo aiuta i sapori a stabilizzarsi.",
+            "Servi. Porta il peposo in tavola ben caldo, con il suo fondo di cottura. È ottimo accompagnato da pane toscano, polenta o fagioli cannellini."
+          ],
+          "en": [
+            "Prepare the meat. Cut the beef into cubes of about 4–5 cm. Remove only any excessively tough parts or outer membranes, leaving the connective tissue that during cooking will help make the meat tender.",
+            "Prepare the aromatics. Lightly crush the garlic cloves without reducing them to a pulp. Coarsely crush some of the peppercorns and leave the others whole.",
+            "Put the ingredients in the pot. Put the meat in a thick-bottomed pan or in a terracotta pot suitable for cooking. Add the garlic, whole and ground pepper, salt and rosemary if you like.",
+            "Pour in the wine. Cover the meat with the red wine. If you use a terracotta pot, make sure it is suitable for the flame or oven and follow the maker's instructions to avoid thermal shock.",
+            "Start cooking. Bring slowly to a gentle simmer on the hob. When the wine starts to quiver, lower the heat to minimum and partially cover the pot.",
+            "Cook for a long time. Let it cook for about 3 hours, checking periodically. The meat should simmer gently, not boil violently. If the liquid reduces too much before the meat is tender, add a little hot water.",
+            "Check the texture. After about 2 hours 30 minutes test the meat with a fork. It should yield easily and fall apart under light pressure. If it is still tough, keep cooking.",
+            "Reduce the sauce. When the meat is tender, remove the lid and let the liquid reduce, if necessary, until you have a thick, flavourful base. Stir gently so as not to break the pieces too much.",
+            "Let it rest. Turn off the heat and wait 10–15 minutes before serving. Resting helps the flavours settle.",
+            "Serve. Bring the peposo to the table piping hot, with its cooking juices. It is excellent with Tuscan bread, polenta or cannellini beans."
+          ],
+          "fr": [
+            "Prépare la viande. Coupe le bœuf en cubes d'environ 4–5 cm. Retire seulement les parties excessivement dures ou les membranes extérieures, en laissant le tissu conjonctif qui, pendant la cuisson, contribuera à rendre la viande tendre.",
+            "Prépare les aromates. Écrase légèrement les gousses d'ail sans les réduire en bouillie. Concasse grossièrement une partie des grains de poivre et laisse les autres entiers.",
+            "Dispose les ingrédients dans la cocotte. Mets la viande dans une cocotte à fond épais ou dans une marmite en terre cuite adaptée à la cuisson. Ajoute l'ail, le poivre en grains et moulu, le sel et le romarin si tu le souhaites.",
+            "Verse le vin. Couvre la viande de vin rouge. Si tu utilises une marmite en terre cuite, assure-toi qu'elle convient au feu ou au four et suis les indications du fabricant pour éviter les chocs thermiques.",
+            "Lance la cuisson. Porte lentement à un léger frémissement sur la cuisinière. Quand le vin commence à frémir, baisse le feu au minimum et couvre partiellement la marmite.",
+            "Cuis longtemps. Laisse cuire environ 3 heures en contrôlant régulièrement. La viande doit mijoter doucement, pas bouillir violemment. Si le liquide réduit trop avant que la viande soit tendre, ajoute un peu d'eau chaude.",
+            "Contrôle la consistance. Après environ 2 h 30, vérifie la viande à la fourchette. Elle doit céder facilement et s'effilocher sous une légère pression. Si elle est encore coriace, poursuis la cuisson.",
+            "Réduis le fond. Quand la viande est tendre, retire le couvercle et laisse réduire le liquide, si nécessaire, jusqu'à obtenir un fond dense et savoureux. Remue délicatement pour ne pas trop casser les morceaux.",
+            "Laisse reposer. Éteins le feu et attends 10 à 15 minutes avant de servir. Le repos aide les saveurs à se stabiliser.",
+            "Sers. Apporte le peposo à table bien chaud, avec son jus de cuisson. Il est excellent avec du pain toscan, de la polenta ou des haricots cannellini."
+          ],
+          "de": [
+            "Fleisch vorbereiten. Das Rindfleisch in etwa 4–5 cm große Würfel schneiden. Nur übermäßig zähe Stellen oder äußere Häutchen entfernen und das Bindegewebe belassen, das beim Garen dazu beiträgt, das Fleisch zart zu machen.",
+            "Aromaten vorbereiten. Die Knoblauchzehen leicht andrücken, ohne sie zu Brei zu machen. Einen Teil der Pfefferkörner grob zerstoßen und die übrigen ganz lassen.",
+            "Zutaten in den Topf geben. Das Fleisch in einen Topf mit dickem Boden oder einen zum Garen geeigneten Terrakottatopf legen. Knoblauch, ganze und gemahlene Pfefferkörner, Salz und nach Belieben Rosmarin zufügen.",
+            "Wein zugießen. Das Fleisch mit dem Rotwein bedecken. Bei einem Terrakottatopf sicherstellen, dass er für Herd oder Backofen geeignet ist, und die Herstellerangaben befolgen, um Temperaturschocks zu vermeiden.",
+            "Garen beginnen. Auf dem Herd langsam zu einem leichten Köcheln bringen. Beginnt der Wein zu zittern, die Hitze auf die niedrigste Stufe stellen und den Topf teilweise abdecken.",
+            "Lange garen. Etwa 3 Stunden garen und regelmäßig kontrollieren. Das Fleisch soll sanft köcheln, nicht heftig kochen. Reduziert sich die Flüssigkeit zu stark, bevor das Fleisch zart ist, etwas heißes Wasser zugeben.",
+            "Konsistenz prüfen. Nach etwa 2 Stunden 30 Minuten das Fleisch mit einer Gabel prüfen. Es muss leicht nachgeben und bei leichtem Druck zerfallen. Ist es noch zäh, weitergaren.",
+            "Fond einkochen. Ist das Fleisch zart, den Deckel abnehmen und die Flüssigkeit bei Bedarf einkochen lassen, bis ein dichter, aromatischer Fond entsteht. Vorsichtig umrühren, um die Stücke nicht zu stark zu zerbrechen.",
+            "Ruhen lassen. Den Herd ausschalten und 10–15 Minuten warten, bevor serviert wird. Das Ruhen hilft den Aromen, sich zu setzen.",
+            "Servieren. Das Peposo heiß mit seinem Bratfond auftragen. Dazu passen toskanisches Brot, Polenta oder Cannellini-Bohnen."
+          ],
+          "es": [
+            "Prepara la carne. Corta la ternera en cubos de unos 4–5 cm. Elimina solo las partes excesivamente duras o las membranas externas, dejando el tejido conectivo que durante la cocción ayudará a que la carne quede tierna.",
+            "Prepara los aromáticos. Aplasta ligeramente los dientes de ajo sin reducirlos a papilla. Machaca groseramente una parte de los granos de pimienta y deja los demás enteros.",
+            "Coloca los ingredientes en la olla. Pon la carne en una cazuela de fondo grueso o en una olla de barro apta para cocinar. Añade el ajo, la pimienta en grano y molida, la sal y el romero si lo deseas.",
+            "Vierte el vino. Cubre la carne con el vino tinto. Si usas una olla de barro, asegúrate de que sea apta para el fuego o el horno y sigue las indicaciones del fabricante para evitar choques térmicos.",
+            "Inicia la cocción. Lleva lentamente a un ligero hervor en el fogón. Cuando el vino empiece a temblar, baja el fuego al mínimo y tapa parcialmente la olla.",
+            "Cuece mucho tiempo. Deja cocer unas 3 horas, controlando periódicamente. La carne debe hervir suavemente, no a borbotones. Si el líquido se reduce demasiado antes de que la carne esté tierna, añade un poco de agua caliente.",
+            "Controla la textura. Después de unas 2 horas y 30 minutos comprueba la carne con un tenedor. Debe ceder con facilidad y deshacerse con una ligera presión. Si aún está dura, continúa la cocción.",
+            "Reduce el fondo. Cuando la carne esté tierna, quita la tapa y deja que se reduzca el líquido, si hace falta, hasta obtener un fondo espeso y sabroso. Remueve con delicadeza para no romper demasiado los trozos.",
+            "Deja reposar. Apaga el fuego y espera 10–15 minutos antes de servir. El reposo ayuda a asentar los sabores.",
+            "Sirve. Lleva el peposo a la mesa bien caliente, con su fondo de cocción. Es excelente acompañado de pan toscano, polenta o judías cannellini."
+          ]
+        }
+      }
+    },
+    {
+      "id": "coccoli",
+      "nome": "Coccoli",
+      "portata": "antipasto",
+      "testo": {
+        "it": "I coccoli sono piccoli bocconi di pasta lievitata fritta, tipici della tradizione gastronomica fiorentina. Croccanti all'esterno e morbidi all'interno, vengono serviti caldi, spesso accompagnati da prosciutto crudo e stracchino.\n\nSono una preparazione semplice, nata dall'uso di impasti da pane o da pizza che venivano fritti per ottenere uno spuntino sostanzioso. Il loro nome richiama la forma tondeggiante e irregolare. Nei locali fiorentini si trovano spesso nei taglieri e negli antipasti, insieme a salumi e formaggi.\n\nCuriosità: l'abbinamento più conosciuto è quello con prosciutto crudo e stracchino. Il contrasto tra la pasta fritta calda, il salume saporito e il formaggio cremoso rende i coccoli una presenza tipica degli antipasti e degli aperitivi fiorentini.\n\nNota di sicurezza: friggi in una pentola stabile, senza riempirla troppo e senza lasciare mai l'olio incustodito. Asciuga bene gli utensili e non aggiungere acqua all'olio caldo. Se l'olio prende fuoco, non usare acqua: spegni il calore se possibile e copri con un coperchio adatto.",
+        "en": "Coccoli are small bites of fried leavened dough, typical of Florentine food tradition. Crisp outside and soft inside, they are served hot, often with cured ham (prosciutto crudo) and stracchino cheese.\n\nThey are a simple preparation, born from using bread or pizza dough that was fried to make a substantial snack. Their name recalls their round, irregular shape. In Florentine restaurants they often appear on boards and among starters, alongside cured meats and cheeses.\n\nDid you know? The best-known pairing is with prosciutto crudo and stracchino. The contrast between hot fried dough, savoury cured meat and creamy cheese makes coccoli a typical presence among Florentine starters and aperitifs.\n\nSafety note: fry in a stable pot, without filling it too much and never leaving the oil unattended. Dry the utensils well and do not add water to hot oil. If the oil catches fire, do not use water: turn off the heat if possible and cover with a suitable lid.",
+        "fr": "Les coccoli sont de petites bouchées de pâte levée frite, typiques de la tradition gastronomique florentine. Croustillants à l'extérieur et moelleux à l'intérieur, ils se servent chauds, souvent accompagnés de jambon cru et de stracchino.\n\nC'est une préparation simple, née de l'utilisation de pâtes à pain ou à pizza que l'on faisait frire pour obtenir un en-cas consistant. Leur nom rappelle leur forme arrondie et irrégulière. Dans les établissements florentins, on les trouve souvent sur les planches et parmi les entrées, avec charcuteries et fromages.\n\nLe saviez-vous ? L'association la plus connue est celle avec le jambon cru et le stracchino. Le contraste entre la pâte frite chaude, la charcuterie savoureuse et le fromage crémeux fait des coccoli une présence typique des entrées et des apéritifs florentins.\n\nNote de sécurité : fais frire dans une marmite stable, sans trop la remplir et sans jamais laisser l'huile sans surveillance. Sèche bien les ustensiles et n'ajoute pas d'eau dans l'huile chaude. Si l'huile prend feu, n'utilise pas d'eau : éteins la source de chaleur si possible et couvre avec un couvercle adapté.",
+        "de": "Coccoli sind kleine Happen aus frittiertem Hefeteig, typisch für die florentinische Kulinarik. Außen knusprig und innen weich, werden sie heiß serviert, oft mit rohem Schinken und Stracchino.\n\nSie sind eine einfache Zubereitung, entstanden aus der Verwendung von Brot- oder Pizzateig, der frittiert wurde, um einen sättigenden Snack zu erhalten. Ihr Name erinnert an die runde, unregelmäßige Form. In florentinischen Lokalen finden sie sich oft auf Platten und unter den Vorspeisen, zusammen mit Wurst und Käse.\n\nWussten Sie schon? Die bekannteste Kombination ist die mit rohem Schinken und Stracchino. Der Kontrast zwischen heißem frittiertem Teig, würziger Wurst und cremigem Käse macht die Coccoli zu einem typischen Bestandteil florentinischer Vorspeisen und Aperitifs.\n\nSicherheitshinweis: Frittieren Sie in einem standfesten Topf, ohne ihn zu stark zu füllen und ohne das Öl jemals unbeaufsichtigt zu lassen. Trocknen Sie die Utensilien gut ab und geben Sie kein Wasser in heißes Öl. Fängt das Öl Feuer, kein Wasser verwenden: Wenn möglich die Hitze abschalten und mit einem passenden Deckel abdecken.",
+        "es": "Los coccoli son pequeños bocados de masa fermentada frita, típicos de la tradición gastronómica florentina. Crujientes por fuera y tiernos por dentro, se sirven calientes, a menudo acompañados de jamón crudo y stracchino.\n\nSon una preparación sencilla, nacida del uso de masas de pan o de pizza que se freían para obtener un tentempié sustancioso. Su nombre evoca la forma redondeada e irregular. En los locales florentinos se encuentran a menudo en las tablas y entre los entrantes, junto a embutidos y quesos.\n\nCuriosidad: el maridaje más conocido es con jamón crudo y stracchino. El contraste entre la masa frita caliente, el embutido sabroso y el queso cremoso hace de los coccoli una presencia típica de los entrantes y aperitivos florentinos.\n\nNota de seguridad: fríe en una olla estable, sin llenarla demasiado y sin dejar nunca el aceite sin vigilancia. Seca bien los utensilios y no añadas agua al aceite caliente. Si el aceite se incendia, no uses agua: apaga el fuego si es posible y tapa con una tapa adecuada."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "20 min + lievitazione di circa 1 h 30 + 10 min di formatura + 15–20 min di frittura",
+          "en": "20 min + rise of about 1 h 30 + 10 min shaping + 15–20 min frying",
+          "fr": "20 min + levée d'environ 1 h 30 + 10 min de façonnage + 15–20 min de friture",
+          "de": "20 Min. + Gehzeit von etwa 1 Std. 30 Min. + 10 Min. Formen + 15–20 Min. Frittieren",
+          "es": "20 min + fermentación de unas 1 h 30 + 10 min de formado + 15–20 min de fritura"
+        },
+        "ingredienti": {
+          "it": [
+            "Per l'impasto: 400 g di farina 0",
+            "250 ml circa di acqua tiepida",
+            "10 g di lievito di birra fresco",
+            "1 cucchiaino di zucchero",
+            "1 cucchiaino raso di sale",
+            "1 cucchiaio di olio extravergine d'oliva",
+            "Per friggere e servire: 1 litro circa di olio di semi adatto alla frittura",
+            "150 g di prosciutto crudo toscano",
+            "200 g di stracchino",
+            "Sale fino q.b."
+          ],
+          "en": [
+            "For the dough: 400 g flour (type 0)",
+            "About 250 ml lukewarm water",
+            "10 g fresh brewer's yeast",
+            "1 teaspoon sugar",
+            "1 level teaspoon salt",
+            "1 tablespoon extra virgin olive oil",
+            "For frying and serving: about 1 litre seed oil suitable for frying",
+            "150 g Tuscan prosciutto crudo",
+            "200 g stracchino",
+            "Fine salt as needed"
+          ],
+          "fr": [
+            "Pour la pâte : 400 g de farine type 0",
+            "Environ 250 ml d'eau tiède",
+            "10 g de levure de boulanger fraîche",
+            "1 cuillère à café de sucre",
+            "1 cuillère à café rase de sel",
+            "1 cuillère à soupe d'huile d'olive extra vierge",
+            "Pour frire et servir : environ 1 litre d'huile de graines adaptée à la friture",
+            "150 g de jambon cru toscan",
+            "200 g de stracchino",
+            "Sel fin selon besoin"
+          ],
+          "de": [
+            "Für den Teig: 400 g Mehl Type 0",
+            "Etwa 250 ml lauwarmes Wasser",
+            "10 g frische Bierhefe",
+            "1 Teelöffel Zucker",
+            "1 gestrichener Teelöffel Salz",
+            "1 Esslöffel natives Olivenöl extra",
+            "Zum Frittieren und Servieren: etwa 1 Liter zum Frittieren geeignetes Pflanzenöl",
+            "150 g toskanischer Rohschinken",
+            "200 g Stracchino",
+            "Feines Salz nach Bedarf"
+          ],
+          "es": [
+            "Para la masa: 400 g de harina tipo 0",
+            "Unos 250 ml de agua tibia",
+            "10 g de levadura fresca de cerveza",
+            "1 cucharadita de azúcar",
+            "1 cucharadita rasa de sal",
+            "1 cucharada de aceite de oliva virgen extra",
+            "Para freír y servir: aproximadamente 1 litro de aceite de semillas apto para freír",
+            "150 g de jamón crudo toscano",
+            "200 g de stracchino",
+            "Sal fina al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Sciogli il lievito. Versa il lievito fresco e lo zucchero nell'acqua tiepida. Mescola fino a scioglierli completamente.",
+            "Prepara l'impasto. Metti la farina in una ciotola capiente e aggiungi gradualmente l'acqua con il lievito. Incorpora l'olio e inizia a impastare.",
+            "Aggiungi il sale. Unisci il sale e lavora l'impasto per circa 8–10 minuti, fino a ottenere una massa morbida, liscia ed elastica. Se è troppo appiccicosa, aggiungi poca farina; se è troppo asciutta, incorpora qualche cucchiaio d'acqua.",
+            "Prima lievitazione. Forma una palla, sistemala in una ciotola leggermente unta e copri con un telo o pellicola. Lascia lievitare in un luogo tiepido per circa 1 ora e 30 minuti, o finché il volume sarà raddoppiato.",
+            "Forma i coccoli. Trasferisci l'impasto sul piano leggermente infarinato. Dividilo in piccole porzioni e forma palline irregolari, grandi all'incirca come una noce. Non lavorarle troppo: devono conservare una consistenza morbida.",
+            "Scalda l'olio. Versa l'olio in una pentola alta e capiente, senza riempirla oltre metà. Scaldalo fino a circa 170–175 °C, controllando con un termometro da cucina.",
+            "Friggi. Immergi pochi coccoli alla volta, per non abbassare eccessivamente la temperatura dell'olio. Girali con una schiumarola fino a quando saranno gonfi e dorati uniformemente. Occorrono in genere 3–4 minuti, secondo la dimensione.",
+            "Scola. Preleva i coccoli con una schiumarola e adagiali su carta assorbente. Sala leggermente quando sono ancora caldi.",
+            "Servi. Porta i coccoli in tavola immediatamente, accompagnandoli con fette di prosciutto crudo e stracchino. Puoi servire il formaggio in una ciotolina a parte oppure spalmarlo sui bocconi ancora tiepidi."
+          ],
+          "en": [
+            "Dissolve the yeast. Pour the fresh yeast and the sugar into the lukewarm water. Stir until completely dissolved.",
+            "Make the dough. Put the flour in a large bowl and gradually add the water with the yeast. Add the oil and start kneading.",
+            "Add the salt. Add the salt and knead for about 8–10 minutes, until you have a soft, smooth, elastic mass. If it is too sticky, add a little flour; if it is too dry, work in a few spoonfuls of water.",
+            "First rise. Shape a ball, put it in a lightly greased bowl and cover with a cloth or film. Let it rise in a warm place for about 1 hour 30 minutes, or until doubled in volume.",
+            "Shape the coccoli. Transfer the dough to a lightly floured surface. Divide it into small portions and form irregular balls about the size of a walnut. Do not work them too much: they must keep a soft texture.",
+            "Heat the oil. Pour the oil into a tall, large pot, filling it no more than halfway. Heat it to about 170–175 °C, checking with a kitchen thermometer.",
+            "Fry. Drop in a few coccoli at a time, so as not to lower the oil temperature too much. Turn them with a slotted spoon until they are puffed and evenly golden. It generally takes 3–4 minutes, depending on size.",
+            "Drain. Lift out the coccoli with a slotted spoon and lay them on kitchen paper. Salt lightly while still hot.",
+            "Serve. Bring the coccoli to the table immediately, with slices of prosciutto crudo and stracchino. You can serve the cheese in a small bowl on the side or spread it on the still-warm bites."
+          ],
+          "fr": [
+            "Délaie la levure. Verse la levure fraîche et le sucre dans l'eau tiède. Remue jusqu'à dissolution complète.",
+            "Prépare la pâte. Mets la farine dans un grand saladier et ajoute progressivement l'eau avec la levure. Incorpore l'huile et commence à pétrir.",
+            "Ajoute le sel. Ajoute le sel et travaille la pâte environ 8 à 10 minutes, jusqu'à obtenir une masse souple, lisse et élastique. Si elle est trop collante, ajoute un peu de farine ; si elle est trop sèche, incorpore quelques cuillerées d'eau.",
+            "Première levée. Forme une boule, place-la dans un saladier légèrement huilé et couvre d'un linge ou d'un film. Laisse lever dans un endroit tiède environ 1 h 30, ou jusqu'à ce que le volume double.",
+            "Façonne les coccoli. Transfère la pâte sur le plan légèrement fariné. Divise-la en petites portions et forme des boules irrégulières, grosses à peu près comme une noix. Ne les travaille pas trop : elles doivent garder une consistance moelleuse.",
+            "Chauffe l'huile. Verse l'huile dans une marmite haute et large, sans la remplir à plus de la moitié. Chauffe-la jusqu'à environ 170–175 °C, en contrôlant avec un thermomètre de cuisine.",
+            "Fais frire. Plonge quelques coccoli à la fois, pour ne pas trop faire baisser la température de l'huile. Retourne-les avec une écumoire jusqu'à ce qu'ils soient gonflés et uniformément dorés. Il faut en général 3 à 4 minutes, selon la taille.",
+            "Égoutte. Retire les coccoli avec une écumoire et dépose-les sur du papier absorbant. Sale légèrement quand ils sont encore chauds.",
+            "Sers. Apporte les coccoli à table immédiatement, accompagnés de tranches de jambon cru et de stracchino. Tu peux servir le fromage dans un petit bol à part ou le tartiner sur les bouchées encore tièdes."
+          ],
+          "de": [
+            "Hefe auflösen. Die frische Hefe und den Zucker in das lauwarme Wasser geben. Rühren, bis sie vollständig aufgelöst sind.",
+            "Teig zubereiten. Das Mehl in eine große Schüssel geben und nach und nach das Wasser mit der Hefe zugießen. Das Öl unterarbeiten und mit dem Kneten beginnen.",
+            "Salz zugeben. Das Salz zufügen und den Teig etwa 8–10 Minuten kneten, bis eine weiche, glatte, elastische Masse entsteht. Ist sie zu klebrig, wenig Mehl zugeben; ist sie zu trocken, einige Löffel Wasser unterarbeiten.",
+            "Erste Gehzeit. Eine Kugel formen, in eine leicht gefettete Schüssel legen und mit einem Tuch oder Folie abdecken. An einem warmen Ort etwa 1 Stunde 30 Minuten gehen lassen oder bis sich das Volumen verdoppelt hat.",
+            "Coccoli formen. Den Teig auf die leicht bemehlte Arbeitsfläche geben. In kleine Portionen teilen und unregelmäßige Kugeln etwa in Walnussgröße formen. Nicht zu viel bearbeiten: Sie sollen eine weiche Konsistenz behalten.",
+            "Öl erhitzen. Das Öl in einen hohen, großen Topf gießen und ihn höchstens halb füllen. Auf etwa 170–175 °C erhitzen und mit einem Küchenthermometer kontrollieren.",
+            "Frittieren. Jeweils nur wenige Coccoli eintauchen, damit die Öltemperatur nicht zu stark sinkt. Mit einer Schaumkelle wenden, bis sie aufgebläht und gleichmäßig goldgelb sind. Das dauert in der Regel 3–4 Minuten, je nach Größe.",
+            "Abtropfen. Die Coccoli mit einer Schaumkelle herausheben und auf Küchenpapier legen. Noch heiß leicht salzen.",
+            "Servieren. Die Coccoli sofort auftragen, begleitet von Scheiben rohen Schinkens und Stracchino. Den Käse können Sie in einem Schälchen separat reichen oder auf die noch lauwarmen Happen streichen."
+          ],
+          "es": [
+            "Disuelve la levadura. Vierte la levadura fresca y el azúcar en el agua tibia. Remueve hasta que se disuelvan por completo.",
+            "Prepara la masa. Pon la harina en un cuenco grande y añade poco a poco el agua con la levadura. Incorpora el aceite y empieza a amasar.",
+            "Añade la sal. Incorpora la sal y trabaja la masa unos 8–10 minutos, hasta obtener una masa suave, lisa y elástica. Si está demasiado pegajosa, añade un poco de harina; si está demasiado seca, incorpora unas cucharadas de agua.",
+            "Primera fermentación. Forma una bola, colócala en un cuenco ligeramente untado y cubre con un paño o film. Deja fermentar en un lugar templado unas 1 hora y 30 minutos, o hasta que doble su volumen.",
+            "Forma los coccoli. Pasa la masa a la superficie ligeramente enharinada. Divídela en pequeñas porciones y forma bolitas irregulares, aproximadamente del tamaño de una nuez. No las trabajes demasiado: deben conservar una textura suave.",
+            "Calienta el aceite. Vierte el aceite en una olla alta y grande, sin llenarla más de la mitad. Caliéntalo hasta unos 170–175 °C, controlando con un termómetro de cocina.",
+            "Fríe. Sumerge pocos coccoli a la vez, para no bajar demasiado la temperatura del aceite. Dales la vuelta con una espumadera hasta que estén hinchados y uniformemente dorados. Suelen bastar 3–4 minutos, según el tamaño.",
+            "Escurre. Saca los coccoli con una espumadera y colócalos sobre papel absorbente. Sala ligeramente cuando aún estén calientes.",
+            "Sirve. Lleva los coccoli a la mesa de inmediato, acompañados de lonchas de jamón crudo y stracchino. Puedes servir el queso en un cuenco aparte o untarlo sobre los bocados aún tibios."
+          ]
+        }
+      }
+    },
+    {
+      "id": "francesina",
+      "nome": "Francesina",
+      "portata": "secondo",
+      "testo": {
+        "it": "La francesina, conosciuta anche come lesso rifatto, è un piatto della tradizione domestica fiorentina che nasce dal recupero della carne bollita avanzata. Il lesso viene tagliato a pezzi e ripassato lentamente in padella con abbondante cipolla e pomodoro, fino a diventare morbido e ben insaporito.\n\nÈ un esempio significativo della cucina di recupero toscana: il brodo serviva per preparare minestre e zuppe, mentre la carne veniva riutilizzata per un secondo piatto completamente diverso. La francesina è vicina ad altre preparazioni italiane di lesso rifatto, ma nella versione fiorentina la cipolla ha un ruolo centrale.\n\nCuriosità: la francesina dimostra come la cucina tradizionale fiorentina abbia sviluppato ricette specifiche per non sprecare nulla. Il lesso, dopo essere stato utilizzato per preparare il brodo, diventa la base di un secondo piatto ricco e saporito.\n\nNota di conservazione: se utilizzi carne avanzata, deve essere stata raffreddata e conservata correttamente in frigorifero. Riscaldala completamente durante la preparazione, evitando di lasciarla a lungo a temperatura ambiente.",
+        "en": "Francesina, also known as lesso rifatto (“remade boiled beef”), is a dish of Florentine home cooking that comes from using up leftover boiled meat. The boiled beef is cut into pieces and slowly reworked in a pan with plenty of onion and tomato, until it becomes tender and well flavoured.\n\nIt is a significant example of Tuscan leftover cooking: the broth was used to make soups, while the meat was reused for a completely different main course. Francesina is close to other Italian preparations of reworked boiled meat, but in the Florentine version the onion plays a central role.\n\nDid you know? Francesina shows how traditional Florentine cooking developed specific recipes so as to waste nothing. The boiled beef, after being used to make the broth, becomes the base of a rich, flavourful main course.\n\nStorage note: if you use leftover meat, it must have been cooled and stored properly in the refrigerator. Heat it thoroughly during preparation, avoiding leaving it long at room temperature.",
+        "fr": "La francesina, connue aussi sous le nom de lesso rifatto (« bouilli refait »), est un plat de la tradition domestique florentine qui naît de la récupération de la viande bouillie restante. Le bouilli est coupé en morceaux et repassé lentement à la poêle avec beaucoup d'oignon et de tomate, jusqu'à devenir tendre et bien parfumé.\n\nC'est un exemple significatif de la cuisine toscane de récupération : le bouillon servait à préparer soupes et potages, tandis que la viande était réutilisée pour un plat principal complètement différent. La francesina est proche d'autres préparations italiennes de bouilli refait, mais dans la version florentine l'oignon joue un rôle central.\n\nLe saviez-vous ? La francesina montre comment la cuisine traditionnelle florentine a développé des recettes spécifiques pour ne rien gaspiller. Le bouilli, après avoir servi à préparer le bouillon, devient la base d'un plat principal riche et savoureux.\n\nNote de conservation : si tu utilises de la viande restante, elle doit avoir été refroidie et conservée correctement au réfrigérateur. Réchauffe-la complètement pendant la préparation, en évitant de la laisser longtemps à température ambiante.",
+        "de": "Die Francesina, auch als Lesso rifatto („aufgewärmtes Siedfleisch“) bekannt, ist ein Gericht der florentinischen Hausmannskost, das aus der Verwertung übrig gebliebenen gekochten Fleisches entsteht. Das Siedfleisch wird in Stücke geschnitten und langsam in der Pfanne mit reichlich Zwiebel und Tomate nachgegart, bis es zart und gut gewürzt ist.\n\nSie ist ein bedeutendes Beispiel der toskanischen Resteküche: Die Brühe diente zur Zubereitung von Suppen, während das Fleisch für ein völlig anderes Hauptgericht wiederverwendet wurde. Die Francesina ähnelt anderen italienischen Gerichten aus aufgewärmtem Siedfleisch, aber in der florentinischen Version spielt die Zwiebel eine zentrale Rolle.\n\nWussten Sie schon? Die Francesina zeigt, wie die traditionelle florentinische Küche eigene Rezepte entwickelt hat, um nichts zu verschwenden. Das Siedfleisch wird, nachdem es für die Brühe verwendet wurde, zur Basis eines reichhaltigen, würzigen Hauptgerichts.\n\nHinweis zur Aufbewahrung: Wenn Sie übrig gebliebenes Fleisch verwenden, muss es abgekühlt und ordnungsgemäß im Kühlschrank aufbewahrt worden sein. Erhitzen Sie es bei der Zubereitung vollständig und lassen Sie es nicht lange bei Raumtemperatur stehen.",
+        "es": "La francesina, conocida también como lesso rifatto («hervido rehecho»), es un plato de la tradición doméstica florentina que nace del aprovechamiento de la carne hervida sobrante. El hervido se corta en trozos y se rehoga lentamente en la sartén con abundante cebolla y tomate, hasta quedar tierno y bien sazonado.\n\nEs un ejemplo significativo de la cocina toscana de aprovechamiento: el caldo servía para preparar sopas y potajes, mientras que la carne se reutilizaba para un segundo plato completamente distinto. La francesina es cercana a otras preparaciones italianas de hervido rehecho, pero en la versión florentina la cebolla tiene un papel central.\n\nCuriosidad: la francesina demuestra cómo la cocina tradicional florentina desarrolló recetas específicas para no desperdiciar nada. El hervido, tras usarse para preparar el caldo, se convierte en la base de un segundo plato rico y sabroso.\n\nNota de conservación: si usas carne sobrante, debe haberse enfriado y conservado correctamente en la nevera. Caliéntala por completo durante la preparación, evitando dejarla mucho tiempo a temperatura ambiente."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "15 min + 45–55 min di cottura + 5–10 min di riposo",
+          "en": "15 min + 45–55 min cooking + 5–10 min resting",
+          "fr": "15 min + 45–55 min de cuisson + 5–10 min de repos",
+          "de": "15 Min. + 45–55 Min. Garzeit + 5–10 Min. Ruhezeit",
+          "es": "15 min + 45–55 min de cocción + 5–10 min de reposo"
+        },
+        "ingredienti": {
+          "it": [
+            "600–700 g di manzo già lessato",
+            "3 cipolle dorate grandi",
+            "300 g di pomodori pelati",
+            "½ bicchiere di vino bianco",
+            "4 cucchiai di olio extravergine d'oliva",
+            "1 mestolo di brodo di carne",
+            "1 foglia di alloro, facoltativa",
+            "Sale e pepe nero q.b."
+          ],
+          "en": [
+            "600–700 g already boiled beef",
+            "3 large golden onions",
+            "300 g peeled tomatoes",
+            "½ glass of white wine",
+            "4 tablespoons extra virgin olive oil",
+            "1 ladle of meat stock",
+            "1 bay leaf, optional",
+            "Salt and black pepper as needed"
+          ],
+          "fr": [
+            "600–700 g de bœuf déjà bouilli",
+            "3 grands oignons dorés",
+            "300 g de tomates pelées",
+            "½ verre de vin blanc",
+            "4 cuillères à soupe d'huile d'olive extra vierge",
+            "1 louche de bouillon de viande",
+            "1 feuille de laurier, facultatif",
+            "Sel et poivre noir selon besoin"
+          ],
+          "de": [
+            "600–700 g bereits gekochtes Rindfleisch",
+            "3 große gelbe Zwiebeln",
+            "300 g geschälte Tomaten",
+            "½ Glas Weißwein",
+            "4 Esslöffel natives Olivenöl extra",
+            "1 Kelle Fleischbrühe",
+            "1 Lorbeerblatt, nach Belieben",
+            "Salz und schwarzer Pfeffer nach Bedarf"
+          ],
+          "es": [
+            "600–700 g de ternera ya hervida",
+            "3 cebollas doradas grandes",
+            "300 g de tomates pelados",
+            "½ vaso de vino blanco",
+            "4 cucharadas de aceite de oliva virgen extra",
+            "1 cazo de caldo de carne",
+            "1 hoja de laurel, opcional",
+            "Sal y pimienta negra al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara la carne. Utilizza manzo già cotto nel brodo, come muscolo, cappello del prete o altra parte adatta alla bollitura. Elimina eventuali parti dure e taglia la carne a fette o a pezzi non troppo piccoli.",
+            "Affetta le cipolle. Sbucciale e tagliale a fettine sottili. Per un risultato tradizionale, la quantità di cipolla deve essere abbondante: durante la cottura si ammorbidirà fino a formare quasi una crema.",
+            "Cuoci le cipolle. Scalda l'olio in una casseruola larga. Aggiungi le cipolle e falle appassire a fuoco basso per circa 15–20 minuti, mescolando spesso. Devono diventare morbide e trasparenti, senza bruciare.",
+            "Sfuma con il vino. Versa il vino bianco e lascia evaporare completamente l'alcol, mescolando.",
+            "Aggiungi il pomodoro. Unisci i pelati schiacciati con una forchetta, la foglia di alloro se la utilizzi, sale e pepe. Mescola e cuoci per circa 10 minuti.",
+            "Unisci il lesso. Aggiungi la carne alla casseruola e mescola delicatamente per rivestirla con il sugo. Versa un mestolo di brodo caldo, in modo che la preparazione non si asciughi troppo.",
+            "Fai insaporire. Copri parzialmente e cuoci a fuoco basso per circa 25–30 minuti. Mescola ogni tanto, facendo attenzione a non rompere la carne. Se il sugo si restringe troppo, aggiungi altro brodo caldo.",
+            "Regola il condimento. Quando le cipolle saranno quasi sciolte e la carne ben insaporita, assaggia e aggiusta di sale e pepe. Il fondo deve risultare morbido e abbondante, non acquoso.",
+            "Lascia riposare. Spegni il fuoco e lascia riposare per 5–10 minuti, così la carne assorbirà ancora parte del condimento.",
+            "Servi. Porta in tavola la francesina calda, accompagnata dal suo sugo di cipolle e pomodoro. È ottima con pane toscano, patate lesse o fagioli cannellini."
+          ],
+          "en": [
+            "Prepare the meat. Use beef already cooked in the broth, such as shin, chuck or another cut suited to boiling. Remove any tough parts and cut the meat into slices or pieces that are not too small.",
+            "Slice the onions. Peel them and slice thinly. For a traditional result the amount of onion must be generous: during cooking it softens until it almost forms a cream.",
+            "Cook the onions. Heat the oil in a wide pan. Add the onions and soften them over low heat for about 15–20 minutes, stirring often. They should become soft and translucent, without burning.",
+            "Deglaze with the wine. Pour in the white wine and let the alcohol evaporate completely, stirring.",
+            "Add the tomato. Add the peeled tomatoes crushed with a fork, the bay leaf if you use it, salt and pepper. Stir and cook for about 10 minutes.",
+            "Add the boiled beef. Add the meat to the pan and stir gently to coat it with the sauce. Pour in a ladle of hot stock so that the dish does not dry out too much.",
+            "Let it take flavour. Cover partially and cook over low heat for about 25–30 minutes. Stir now and then, taking care not to break the meat. If the sauce reduces too much, add more hot stock.",
+            "Adjust the seasoning. When the onions are almost melted and the meat well flavoured, taste and adjust salt and pepper. The base should be soft and abundant, not watery.",
+            "Let it rest. Turn off the heat and rest for 5–10 minutes, so the meat absorbs still more of the sauce.",
+            "Serve. Bring the francesina to the table hot, with its onion and tomato sauce. It is excellent with Tuscan bread, boiled potatoes or cannellini beans."
+          ],
+          "fr": [
+            "Prépare la viande. Utilise du bœuf déjà cuit dans le bouillon, comme le jarret, la palette ou un autre morceau adapté au bouilli. Retire les éventuelles parties dures et coupe la viande en tranches ou en morceaux pas trop petits.",
+            "Émince les oignons. Épluche-les et coupe-les en fines tranches. Pour un résultat traditionnel, la quantité d'oignon doit être généreuse : pendant la cuisson, il va fondre jusqu'à former presque une crème.",
+            "Cuis les oignons. Chauffe l'huile dans une grande casserole. Ajoute les oignons et fais-les fondre à feu doux environ 15 à 20 minutes, en remuant souvent. Ils doivent devenir tendres et translucides, sans brûler.",
+            "Déglace au vin. Verse le vin blanc et laisse l'alcool s'évaporer complètement en remuant.",
+            "Ajoute la tomate. Ajoute les tomates pelées écrasées à la fourchette, la feuille de laurier si tu l'utilises, sel et poivre. Remue et cuis environ 10 minutes.",
+            "Ajoute le bouilli. Ajoute la viande dans la casserole et remue délicatement pour l'enrober de sauce. Verse une louche de bouillon chaud pour que la préparation ne se dessèche pas trop.",
+            "Laisse prendre le goût. Couvre partiellement et cuis à feu doux environ 25 à 30 minutes. Remue de temps en temps en faisant attention à ne pas casser la viande. Si la sauce réduit trop, ajoute du bouillon chaud.",
+            "Rectifie l'assaisonnement. Quand les oignons sont presque fondus et la viande bien parfumée, goûte et rectifie le sel et le poivre. Le fond doit être tendre et abondant, pas aqueux.",
+            "Laisse reposer. Éteins le feu et laisse reposer 5 à 10 minutes, pour que la viande absorbe encore une partie de l'assaisonnement.",
+            "Sers. Apporte la francesina chaude à table, accompagnée de sa sauce à l'oignon et à la tomate. Elle est excellente avec du pain toscan, des pommes de terre bouillies ou des haricots cannellini."
+          ],
+          "de": [
+            "Fleisch vorbereiten. Verwenden Sie in der Brühe bereits gegartes Rindfleisch, etwa Hesse, Schulter oder ein anderes zum Kochen geeignetes Stück. Eventuell zähe Teile entfernen und das Fleisch in Scheiben oder nicht zu kleine Stücke schneiden.",
+            "Zwiebeln schneiden. Schälen und in dünne Scheiben schneiden. Für ein traditionelles Ergebnis muss die Zwiebelmenge reichlich sein: Beim Garen wird sie weich und bildet fast eine Creme.",
+            "Zwiebeln garen. Das Öl in einem breiten Topf erhitzen. Die Zwiebeln zugeben und bei niedriger Hitze etwa 15–20 Minuten unter häufigem Rühren anschwitzen. Sie sollen weich und glasig werden, ohne anzubrennen.",
+            "Mit Wein ablöschen. Den Weißwein zugießen und den Alkohol unter Rühren vollständig verdampfen lassen.",
+            "Tomaten zugeben. Die mit einer Gabel zerdrückten geschälten Tomaten, bei Verwendung das Lorbeerblatt, Salz und Pfeffer zufügen. Umrühren und etwa 10 Minuten garen.",
+            "Siedfleisch zugeben. Das Fleisch in den Topf geben und vorsichtig umrühren, damit es mit der Sauce überzogen wird. Eine Kelle heiße Brühe zugießen, damit das Gericht nicht zu trocken wird.",
+            "Aroma aufnehmen lassen. Teilweise abdecken und bei niedriger Hitze etwa 25–30 Minuten garen. Gelegentlich umrühren und darauf achten, das Fleisch nicht zu zerbrechen. Reduziert sich die Sauce zu stark, weitere heiße Brühe zugeben.",
+            "Abschmecken. Wenn die Zwiebeln fast zerfallen und das Fleisch gut gewürzt ist, probieren und mit Salz und Pfeffer abschmecken. Der Fond soll weich und reichlich, nicht wässrig sein.",
+            "Ruhen lassen. Den Herd ausschalten und 5–10 Minuten ruhen lassen, damit das Fleisch noch etwas Sauce aufnimmt.",
+            "Servieren. Die Francesina heiß mit ihrer Zwiebel-Tomaten-Sauce auftragen. Dazu passen toskanisches Brot, Salzkartoffeln oder Cannellini-Bohnen."
+          ],
+          "es": [
+            "Prepara la carne. Usa ternera ya cocida en el caldo, como morcillo, aleta u otra pieza apta para hervir. Elimina las partes duras y corta la carne en lonchas o trozos no demasiado pequeños.",
+            "Corta las cebollas. Pélalas y córtalas en láminas finas. Para un resultado tradicional, la cantidad de cebolla debe ser abundante: durante la cocción se ablandará hasta formar casi una crema.",
+            "Cuece las cebollas. Calienta el aceite en una cazuela ancha. Añade las cebollas y deja que se ablanden a fuego bajo unos 15–20 minutos, removiendo a menudo. Deben quedar tiernas y transparentes, sin quemarse.",
+            "Desglasa con el vino. Vierte el vino blanco y deja que el alcohol se evapore por completo, removiendo.",
+            "Añade el tomate. Incorpora los tomates pelados aplastados con un tenedor, la hoja de laurel si la usas, sal y pimienta. Remueve y cuece unos 10 minutos.",
+            "Añade el hervido. Incorpora la carne a la cazuela y remueve con delicadeza para cubrirla con la salsa. Vierte un cazo de caldo caliente para que la preparación no se seque demasiado.",
+            "Deja que tome sabor. Tapa parcialmente y cuece a fuego bajo unos 25–30 minutos. Remueve de vez en cuando, con cuidado de no romper la carne. Si la salsa se reduce demasiado, añade más caldo caliente.",
+            "Ajusta el aliño. Cuando las cebollas estén casi deshechas y la carne bien sazonada, prueba y ajusta de sal y pimienta. El fondo debe quedar tierno y abundante, no aguado.",
+            "Deja reposar. Apaga el fuego y deja reposar 5–10 minutos, para que la carne absorba aún parte del aliño.",
+            "Sirve. Lleva la francesina caliente a la mesa, acompañada de su salsa de cebolla y tomate. Es excelente con pan toscano, patatas cocidas o judías cannellini."
+          ]
+        }
+      }
     }
   ]
 }
