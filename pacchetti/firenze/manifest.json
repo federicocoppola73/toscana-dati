@@ -1,5 +1,5 @@
 {
- "versione": "9fd4f8bc3df9",
+ "versione": "92f72260f49d",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -198,6 +198,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-felicita_5.webp",
    "sha256": "b15668eb7d0677edc59b6030fd015edb3f125e4216121f6936489357894a61af",
    "byte": 169572
+  },
+  {
+   "path": "assets/luoghi/basilica-di-santa-maria-del-carmine.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/basilica-di-santa-maria-del-carmine.webp",
+   "sha256": "03b80778f53c24b82e68e596eef7904bd3c129aeec6ca492cc1942f74d1c61d0",
+   "byte": 123522
   },
   {
    "path": "assets/luoghi/basilica-di-santa-maria-novella.webp",
@@ -5878,8 +5884,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "7a20d80006384abd151d8a1c85fa2cfa91d9a7a5ca8ecb5bf1ca7c944d44af7a",
-   "byte": 2419
+   "sha256": "71d3ad739ce70a6a7b86cc46719b9c9c07ff8d94eb0de4e281af7e77e5fa0858",
+   "byte": 2463
   },
   {
    "path": "dati/itinerari.json",
@@ -5890,8 +5896,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "dc41c17f33b7ee07e7a94af02e0b2307b179608aba7866d819504723fb0c6af7",
-   "byte": 1815759
+   "sha256": "3107f2c65d3fb055907f99499c14778abcacc52595f4a37ca389f216733ba6f0",
+   "byte": 1815945
   },
   {
    "path": "dati/mappa.json",
@@ -5955,16 +5961,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "2a85500b8880",
-   "da": "a2f26bd1af1c",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Piazza della Libertà"
-   ],
-   "foto_nuove": 4,
-   "byte": 1695346
-  },
   {
    "versione": "fb996c37561b",
    "da": "2a85500b8880",
@@ -6177,6 +6173,17 @@
    ],
    "foto_nuove": 5,
    "byte": 2728514
+  },
+  {
+   "versione": "92f72260f49d",
+   "da": "9fd4f8bc3df9",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 1,
+   "byte": 1941930
   }
  ]
 }

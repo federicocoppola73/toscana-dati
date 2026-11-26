@@ -10536,7 +10536,12 @@
       "wikipedia": {
         "it": "Basilica di Santa Maria del Carmine"
       },
-      "accessibilita": null
+      "accessibilita": null,
+      "immagine": {
+        "autore": "Francesco Bini",
+        "licenza": "CC BY-SA 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/152554227"
+      }
     },
     {
       "id": "badia-fiorentina",
