@@ -311,6 +311,11 @@
             "Sirve. Puedes servirla caliente, templada o a temperatura ambiente. Termina cada ración con aceite de oliva virgen extra en crudo, pimienta y unas hojas de albahaca fresca."
           ]
         }
+      },
+      "foto": {
+        "autore": "Catia Giaccherini",
+        "licenza": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Catia_Giaccherini&action=edit&redlink=1"
       }
     },
     {
@@ -412,12 +417,17 @@
             "Sazona y sirve. Sala y pimienta al gusto, corta la carne en lonchas gruesas y llévala a la mesa enseguida. La tradición prefiere un aliño esencial: nada de salsas elaboradas y, si te gusta, solo un chorrito de aceite en crudo."
           ]
         }
+      },
+      "foto": {
+        "autore": "Mike Packard (Flickr: ghort)",
+        "licenza": "CC BY-SA 2.0",
+        "url": "https://www.flickr.com/photos/ghort/"
       }
     },
     {
       "id": "panino-al-lampredotto",
       "nome": "Panino al lampredotto",
-      "portata": "secondo",
+      "portata": "streetfood",
       "testo": {
         "it": "Il lampredotto è uno dei cibi di strada più caratteristici di Firenze. Si prepara con una delle parti dello stomaco del bovino, l'abomaso, che viene cotta lentamente in un brodo aromatico. Il nome è probabilmente legato alla somiglianza, nell'aspetto, con la lampreda, un pesce un tempo diffuso e apprezzato.\n\nLa sua storia è legata alla cucina popolare e alla necessità di utilizzare anche le parti meno nobili dell'animale. Ancora oggi si trova nei chioschi dei lampredottai, dove viene servito soprattutto dentro un panino, spesso con salsa verde e salsa piccante. La preparazione è documentata anche nel ricettario pubblicato da Feel Florence.\n\nCuriosità: il panino può essere richiesto «bagnato», quando la parte superiore viene immersa nel brodo, oppure con una maggiore quantità di salsa. Il lampredotto può essere gustato anche nel piatto, condito con olio, sale e pepe.\n\nNota di sicurezza alimentare: acquista il lampredotto già pulito da un macellaio o rivenditore affidabile, conservalo refrigerato e cuocilo completamente. Non assaggiare il prodotto crudo e non lasciare a lungo a temperatura ambiente quello già cotto.",
         "en": "Lampredotto is one of the most characteristic street foods of Florence. It is made from one of the parts of the beef stomach, the abomasum, slowly cooked in an aromatic broth. The name is probably linked to its resemblance in appearance to the lamprey, a fish once common and prized.\n\nIts history is tied to popular cooking and the need to use the less noble parts of the animal as well. Even today it is found at the kiosks of the lampredottai, where it is served above all inside a bread roll, often with salsa verde and hot sauce. The preparation is also documented in the recipe book published by Feel Florence.\n\nDid you know? The sandwich can be ordered “bagnato”, when the top half of the roll is dipped in the broth, or with a larger amount of sauce. Lampredotto can also be enjoyed on a plate, dressed with oil, salt and pepper.\n\nFood safety note: buy the lampredotto already cleaned from a reliable butcher or retailer, keep it refrigerated and cook it thoroughly. Do not taste the raw product and do not leave the cooked product at room temperature for long.",
@@ -583,6 +593,11 @@
             "Rellena. Reparte abundante lampredotto en la parte inferior del panecillo, añade la salsa verde y, si te gusta, unas gotas de salsa picante. Cierra y sirve de inmediato."
           ]
         }
+      },
+      "foto": {
+        "autore": "Lucarelli (Wikimedia Commons)",
+        "licenza": "CC BY-SA 3.0",
+        "url": "https://commons.wikimedia.org/wiki/User:Lucarelli"
       }
     }
   ]

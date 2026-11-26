@@ -1,5 +1,5 @@
 {
- "versione": "48975efce081",
+ "versione": "5ef6dd3bdeac",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -12,6 +12,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/.gitkeep",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "byte": 0
+  },
+  {
+   "path": "assets/cibi/bistecca-alla-fiorentina.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/bistecca-alla-fiorentina.webp",
+   "sha256": "a336f1e66d5f3bb954ab8ce707a7c2326c25dd43f510be9585e08dc58b62865a",
+   "byte": 146008
+  },
+  {
+   "path": "assets/cibi/panino-al-lampredotto.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/panino-al-lampredotto.webp",
+   "sha256": "cf8535b7855b6fff23ded5fe32c33b715ffc4296c7eb2dbb24a995ecbe8ee286",
+   "byte": 79930
+  },
+  {
+   "path": "assets/cibi/pappa-al-pomodoro.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/pappa-al-pomodoro.webp",
+   "sha256": "66a32daa2860e74634a07ffa279909373b1c9e146f4f8c3a6d345718d9d9493a",
+   "byte": 109554
   },
   {
    "path": "assets/luoghi/.gitkeep",
@@ -6118,8 +6136,8 @@
   {
    "path": "dati/cibi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/cibi.json",
-   "sha256": "2a90f8f0da56fb3c571a7ee71f1894d2f0af0270487fe4c41744f52dd5ff67ee",
-   "byte": 75718
+   "sha256": "3db867bd035893777595bfebd0b9baf7bf33032d05fb3677cbad8fdc32ae6d29",
+   "byte": 76272
   },
   {
    "path": "dati/citta.json",
@@ -6142,8 +6160,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "529b437a01519932e1a90d6a3d8331464a83607b388218b86f116bc0c3113a2d",
-   "byte": 2779
+   "sha256": "b1d313cbc10c42bf02d811d0d61253759d8a40cb6452ef001211c2c5a16b8a9d",
+   "byte": 2860
   },
   {
    "path": "dati/itinerari.json",
@@ -6219,23 +6237,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "ed19de538fd5",
-   "da": "d6ee75c2cdcd",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Chiesa di San Salvatore in Ognissanti",
-    "Basilica di Santa Felicita",
-    "Chiesa dei Santi Apostoli",
-    "Chiesa di San Frediano in Cestello",
-    "Chiesa di Sant'Ambrogio"
-   ],
-   "luoghi_aggiornati": 3,
-   "aspetti": [
-    "descrizioni"
-   ],
-   "byte": 1705227
-  },
   {
    "versione": "85c3c375692a",
    "da": "ed19de538fd5",
@@ -6442,6 +6443,12 @@
    "data": "2026-11-26",
    "cibi_nuovi": 4,
    "byte": 75718
+  },
+  {
+   "versione": "5ef6dd3bdeac",
+   "da": "48975efce081",
+   "data": "2026-11-26",
+   "byte": 414624
   }
  ]
 }

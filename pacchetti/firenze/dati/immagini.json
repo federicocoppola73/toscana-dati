@@ -87,6 +87,10 @@
   "villa-medicea-della-petraia": 4,
   "villa-medicea-di-castello": 5
  },
- "cibi": [],
+ "cibi": [
+  "bistecca-alla-fiorentina",
+  "panino-al-lampredotto",
+  "pappa-al-pomodoro"
+ ],
  "aguzza": []
 }
