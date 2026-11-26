@@ -1,5 +1,5 @@
 {
- "versione": "128d724e7f3e",
+ "versione": "fc163f9d24c8",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1860,6 +1860,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-e-giardino-bardini_5.webp",
    "sha256": "4f6a66274c93ba7741b81781fea412b8e1fcd962166b464c49a3d697525ea04f",
    "byte": 194574
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-della-petraia.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-della-petraia.webp",
+   "sha256": "4d6ca9440d48766cdf0dc0726a0043a0e9e272b98cfd03976290a730e5f2f3f7",
+   "byte": 136762
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-della-petraia_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-della-petraia_2.webp",
+   "sha256": "c3b9f7b6d35c70e68410fd2341fec9e9e2a322c1318036696a507461276d1611",
+   "byte": 111608
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-della-petraia_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-della-petraia_3.webp",
+   "sha256": "e8ddaba3d62e4dbbe9974dbbd3cb55f9c0c8b92b9bd9b4dc33af024001124715",
+   "byte": 147946
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-della-petraia_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-della-petraia_4.webp",
+   "sha256": "4cc4697ef97514c89465b8496f157340976c7116123057cc38dcb313f0cab985",
+   "byte": 114214
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-della-petraia_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-della-petraia_5.webp",
+   "sha256": "d587d07cfc7a489eece99790e4c955917fd55d905b4e82655b8db03fc6b2653c",
+   "byte": 391364
   },
   {
    "path": "assets/mappa-firenze.webp",
@@ -5668,8 +5698,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "6fd88d7eccd15a8f8e28f06e5f2e436c90a21c9d189b76e6224a15de73e9ae1e",
-   "byte": 2174
+   "sha256": "59cf2a9f4ec5e65a8f1ff10923c74f00083e5a20eba0448c18d6a092873f05e0",
+   "byte": 2210
   },
   {
    "path": "dati/itinerari.json",
@@ -5680,8 +5710,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "d29ae823edc2c30015de7c21a8465dc231d24cb4f62c48b18bfd2615c8c8e158",
-   "byte": 1429561
+   "sha256": "f469db81cafccb80e1f68eaf5de09a52714ec326f430cbf3ca8729418765cd3e",
+   "byte": 1455627
   },
   {
    "path": "dati/mappa.json",
@@ -5745,16 +5775,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "56080fd9c666",
-   "da": "b4a6cbbe555b",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Orto Botanico – Giardino dei Semplici"
-   ],
-   "foto_nuove": 3,
-   "byte": 2061012
-  },
   {
    "versione": "d5d6e90d326c",
    "da": "56080fd9c666",
@@ -5947,6 +5967,16 @@
    ],
    "foto_nuove": 4,
    "byte": 1696767
+  },
+  {
+   "versione": "fc163f9d24c8",
+   "da": "128d724e7f3e",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Villa Medicea della Petraia"
+   ],
+   "foto_nuove": 5,
+   "byte": 2359731
   }
  ]
 }
