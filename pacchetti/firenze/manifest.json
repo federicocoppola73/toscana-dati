@@ -1,5 +1,5 @@
 {
- "versione": "144e70e70a8e",
+ "versione": "97caa94ded97",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -5830,8 +5830,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "a4f7e222bd4c9e7a61387657ab402a5290d1cdf9c99c862b05137fb7c1957834",
-   "byte": 1762242
+   "sha256": "c7267e2bce51ff393cb7c5ca86c388785c2802c356d17631f65cc81d8362eb2e",
+   "byte": 1814032
   },
   {
    "path": "dati/mappa.json",
@@ -5895,16 +5895,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "6603058ef2f8",
-   "da": "c52786d70071",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Piazza della Repubblica"
-   ],
-   "foto_nuove": 5,
-   "byte": 2158763
-  },
   {
    "versione": "4fcdbb89445a",
    "da": "6603058ef2f8",
@@ -6115,6 +6105,16 @@
     "descrizioni"
    ],
    "byte": 1762242
+  },
+  {
+   "versione": "97caa94ded97",
+   "da": "144e70e70a8e",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "descrizioni"
+   ],
+   "byte": 1814032
   }
  ]
 }
