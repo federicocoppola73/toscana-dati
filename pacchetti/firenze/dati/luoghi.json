@@ -10041,7 +10041,29 @@
    "curiosita": true,
    "wikipedia": {
     "it": "Tepidarium del Roster"
-   }
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY 2.5",
+    "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/1030224"
+   },
+   "galleria": [
+    {
+     "autore": "Francesco Bini",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/163033543"
+    },
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY 2.5",
+     "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/1030260"
+    },
+    {
+     "autore": "Gmenestr",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/108285924"
+    }
+   ]
   },
   {
    "id": "cimitero-degli-inglesi",

@@ -1,5 +1,5 @@
 {
- "versione": "daabb9fccc70",
+ "versione": "bd6cedea8fce",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1806,6 +1806,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/santa-maria-alla-querce_3.webp",
    "sha256": "29808268aac587ce86fb55d9fe425b96cccf37c81505bae37b74798415cb84e5",
    "byte": 55624
+  },
+  {
+   "path": "assets/luoghi/tepidarium-del-roster.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/tepidarium-del-roster.webp",
+   "sha256": "1fdfbf861d8c1d280749065eff7c978fd06d581bee35ec89ab9fe20b1b1fc099",
+   "byte": 186304
+  },
+  {
+   "path": "assets/luoghi/tepidarium-del-roster_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/tepidarium-del-roster_2.webp",
+   "sha256": "9333818addf047d443371e2a4c4c94443ea28d8593554cb19d81d61b61a416f7",
+   "byte": 162818
+  },
+  {
+   "path": "assets/luoghi/tepidarium-del-roster_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/tepidarium-del-roster_3.webp",
+   "sha256": "bd485e5974f4c741c3ce6719ddc7df9c7418f8e90d808852e5c80906d1abd878",
+   "byte": 383118
+  },
+  {
+   "path": "assets/luoghi/tepidarium-del-roster_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/tepidarium-del-roster_4.webp",
+   "sha256": "a13be318c5092fe9db9e802c37ab5381e06d8c92d81365853d32a57657e5a2b7",
+   "byte": 218556
   },
   {
    "path": "assets/luoghi/torre-della-zecca.webp",
@@ -5746,8 +5770,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "792633fe9ae389235c7bca18adb3debb846445707c41f4256efacd4ff0b6f6d9",
-   "byte": 2273
+   "sha256": "903aa4aad7cfc7bcb7d2a60c87bd2d6a4ecc3e576bfed12b63a523ced28434a4",
+   "byte": 2303
   },
   {
    "path": "dati/itinerari.json",
@@ -5758,8 +5782,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "dec29af0cf0bc878eb1918c677c79b35f225e8f5c791072f1964844089c8857b",
-   "byte": 1569501
+   "sha256": "56c76c08ef4d0d945af7e149c57c481a9dae79e8038b71b456b8a663c604fce0",
+   "byte": 1570142
   },
   {
    "path": "dati/mappa.json",
@@ -5823,16 +5847,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "9b8b5450576f",
-   "da": "267295cb8b75",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo Stibbert"
-   ],
-   "foto_nuove": 5,
-   "byte": 2093163
-  },
   {
    "versione": "7431b2d23040",
    "da": "9b8b5450576f",
@@ -6029,6 +6043,17 @@
    ],
    "foto_nuove": 2,
    "byte": 2018330
+  },
+  {
+   "versione": "bd6cedea8fce",
+   "da": "daabb9fccc70",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 2523241
   }
  ]
 }
