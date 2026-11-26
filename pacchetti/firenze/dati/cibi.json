@@ -599,6 +599,625 @@
         "licenza": "CC BY-SA 3.0",
         "url": "https://commons.wikimedia.org/wiki/User:Lucarelli"
       }
+    },
+    {
+      "id": "trippa-alla-fiorentina",
+      "nome": "Trippa alla fiorentina",
+      "portata": "secondo",
+      "testo": {
+        "it": "La trippa alla fiorentina è uno dei piatti più rappresentativi della cucina popolare cittadina. Si prepara con lo stomaco bovino, tagliato a striscioline e cotto lentamente con un soffritto di verdure e pomodoro. È una ricetta nata dalla cucina di recupero, che trasformava ingredienti economici in pietanze saporite e nutrienti.\n\nA Firenze la trippa è storicamente legata ai mercati e ai trippai, venditori che la proponevano già lessata oppure condita e cotta nel pomodoro. È spesso completata con parmigiano grattugiato e olio extravergine d'oliva.\n\nCuriosità: trippa e lampredotto non sono la stessa cosa. Entrambi provengono dallo stomaco bovino, ma il lampredotto è ricavato dall'abomaso, mentre la trippa utilizzata in questa ricetta comprende soprattutto altri prestomaci, come il rumine.",
+        "en": "Trippa alla fiorentina is one of the most representative dishes of the city's popular cooking. It is made with beef stomach, cut into strips and slowly cooked with a vegetable soffritto and tomato. It is a recipe born of leftover cooking, which turned inexpensive ingredients into tasty, nourishing dishes.\n\nIn Florence tripe has historically been tied to the markets and to the trippai, vendors who offered it already boiled or else seasoned and cooked in tomato. It is often finished with grated Parmesan and extra virgin olive oil.\n\nDid you know? Tripe and lampredotto are not the same thing. Both come from the beef stomach, but lampredotto is taken from the abomasum, while the tripe used in this recipe mainly comes from the other forestomachs, such as the rumen.",
+        "fr": "La trippa alla fiorentina est l'un des plats les plus représentatifs de la cuisine populaire de la ville. Elle se prépare avec l'estomac de bœuf, coupé en lanières et cuit lentement avec un soffritto de légumes et de la tomate. C'est une recette née de la cuisine de récupération, qui transformait des ingrédients bon marché en plats savoureux et nourrissants.\n\nÀ Florence, les tripes sont historiquement liées aux marchés et aux trippai, des vendeurs qui les proposaient déjà bouillies ou bien assaisonnées et cuites dans la tomate. Elles sont souvent finies avec du parmesan râpé et de l'huile d'olive extra vierge.\n\nLe saviez-vous ? Tripes et lampredotto ne sont pas la même chose. Tous deux viennent de l'estomac de bœuf, mais le lampredotto provient de la caillette, tandis que les tripes de cette recette comprennent surtout d'autres pré-estomacs, comme la panse.",
+        "de": "Die Trippa alla fiorentina gehört zu den bezeichnendsten Gerichten der Volksküche der Stadt. Sie wird aus Rindermagen zubereitet, in Streifen geschnitten und langsam mit einem Gemüse-Soffritto und Tomaten gegart. Es ist ein Rezept aus der Resteküche, die preiswerte Zutaten in schmackhafte, nahrhafte Gerichte verwandelte.\n\nIn Florenz ist die Kutteln historisch mit den Märkten und den Trippai verbunden, Händlern, die sie schon gekocht oder gewürzt und in Tomaten gegart anboten. Oft wird sie mit geriebenem Parmesan und nativem Olivenöl extra vollendet.\n\nWussten Sie schon? Kutteln und Lampredotto sind nicht dasselbe. Beide stammen vom Rindermagen, doch das Lampredotto wird aus dem Labmagen gewonnen, während die Kutteln in diesem Rezept vor allem aus anderen Vormägen wie dem Pansen bestehen.",
+        "es": "La trippa alla fiorentina es uno de los platos más representativos de la cocina popular de la ciudad. Se prepara con estómago de vaca, cortado en tiras y cocido lentamente con un sofrito de verduras y tomate. Es una receta nacida de la cocina de aprovechamiento, que convertía ingredientes económicos en platos sabrosos y nutritivos.\n\nEn Florencia los callos están históricamente ligados a los mercados y a los trippai, vendedores que los ofrecían ya hervidos o bien aliñados y cocidos en tomate. A menudo se terminan con parmesano rallado y aceite de oliva virgen extra.\n\nCuriosidad: los callos y el lampredotto no son lo mismo. Ambos proceden del estómago de la vaca, pero el lampredotto se obtiene del abomaso, mientras que los callos de esta receta incluyen sobre todo otros preestómagos, como el rumen."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "15 min + 50–60 min di cottura + 5 min di riposo",
+          "en": "15 min + 50–60 min cooking + 5 min resting",
+          "fr": "15 min + 50–60 min de cuisson + 5 min de repos",
+          "de": "15 Min. + 50–60 Min. Garzeit + 5 Min. Ruhezeit",
+          "es": "15 min + 50–60 min de cocción + 5 min de reposo"
+        },
+        "ingredienti": {
+          "it": [
+            "800 g–1 kg di trippa bovina già lessata e pulita",
+            "300 g di pomodori pelati",
+            "1 cipolla",
+            "1 carota",
+            "1 costa di sedano",
+            "½ bicchiere di vino bianco secco",
+            "3–4 cucchiai di olio extravergine d'oliva",
+            "1 ciuffo di prezzemolo",
+            "40–50 g di parmigiano grattugiato",
+            "Brodo caldo q.b.",
+            "Sale e pepe nero q.b."
+          ],
+          "en": [
+            "800 g–1 kg boiled, cleaned beef tripe",
+            "300 g peeled tomatoes",
+            "1 onion",
+            "1 carrot",
+            "1 celery stalk",
+            "½ glass of dry white wine",
+            "3–4 tablespoons extra virgin olive oil",
+            "1 bunch of parsley",
+            "40–50 g grated Parmesan",
+            "Hot stock as needed",
+            "Salt and black pepper as needed"
+          ],
+          "fr": [
+            "800 g–1 kg de tripes de bœuf déjà bouillies et nettoyées",
+            "300 g de tomates pelées",
+            "1 oignon",
+            "1 carotte",
+            "1 branche de céleri",
+            "½ verre de vin blanc sec",
+            "3–4 cuillères à soupe d'huile d'olive extra vierge",
+            "1 bouquet de persil",
+            "40–50 g de parmesan râpé",
+            "Bouillon chaud selon besoin",
+            "Sel et poivre noir selon besoin"
+          ],
+          "de": [
+            "800 g–1 kg bereits gekochte, gesäuberte Rinderkutteln",
+            "300 g geschälte Tomaten",
+            "1 Zwiebel",
+            "1 Karotte",
+            "1 Stange Sellerie",
+            "½ Glas trockener Weißwein",
+            "3–4 Esslöffel natives Olivenöl extra",
+            "1 Bund Petersilie",
+            "40–50 g geriebener Parmesan",
+            "Heiße Brühe nach Bedarf",
+            "Salz und schwarzer Pfeffer nach Bedarf"
+          ],
+          "es": [
+            "800 g–1 kg de callos de vaca ya hervidos y limpios",
+            "300 g de tomates pelados",
+            "1 cebolla",
+            "1 zanahoria",
+            "1 rama de apio",
+            "½ vaso de vino blanco seco",
+            "3–4 cucharadas de aceite de oliva virgen extra",
+            "1 manojo de perejil",
+            "40–50 g de parmesano rallado",
+            "Caldo caliente al gusto",
+            "Sal y pimienta negra al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara la trippa. Se hai acquistato trippa già lessata, verifica che sia pronta per la cottura finale. Scolala e tagliala a striscioline non troppo sottili. Se il prodotto è venduto crudo, deve essere pulito e sottoposto a una prima cottura completa secondo le indicazioni del macellaio: non basta aggiungerlo direttamente al soffritto.",
+            "Prepara il battuto. Trita finemente cipolla, carota e sedano. Scalda l'olio in una casseruola capiente, preferibilmente dal fondo spesso, e aggiungi le verdure.",
+            "Fai appassire. Cuoci a fiamma medio-bassa per circa 8–10 minuti, mescolando. Le verdure devono diventare morbide e profumate, senza bruciare.",
+            "Aggiungi la trippa. Versa le striscioline nella casseruola e mescola per farle insaporire nel soffritto. Lascia cuocere per circa 5–8 minuti.",
+            "Sfuma con il vino. Aggiungi il vino bianco e lascia evaporare completamente la parte alcolica, mescolando.",
+            "Unisci il pomodoro. Aggiungi i pelati schiacciati con una forchetta, regola di sale e pepe e mescola. Se il composto è troppo asciutto, versa un mestolo di brodo caldo.",
+            "Cuoci lentamente. Copri parzialmente e lascia sobbollire per circa 40–50 minuti, mescolando di tanto in tanto. La trippa deve diventare tenera e il pomodoro deve restringersi, formando un sugo denso e ben amalgamato. Se necessario, aggiungi poco brodo caldo durante la cottura.",
+            "Completa il piatto. Spegni il fuoco, aggiungi il prezzemolo tritato e lascia riposare qualche minuto.",
+            "Servi. Distribuisci la trippa nei piatti e completa con parmigiano grattugiato e un filo d'olio extravergine a crudo. Puoi accompagnarla con pane toscano."
+          ],
+          "en": [
+            "Prepare the tripe. If you bought tripe that is already boiled, check that it is ready for the final cooking. Drain it and cut it into strips that are not too thin. If the product is sold raw, it must be cleaned and given a first complete cooking following the butcher's instructions: it is not enough to add it straight to the soffritto.",
+            "Make the battuto. Finely chop the onion, carrot and celery. Heat the oil in a large saucepan, preferably thick-bottomed, and add the vegetables.",
+            "Soften them. Cook over medium-low heat for about 8–10 minutes, stirring. The vegetables should become soft and fragrant, without burning.",
+            "Add the tripe. Pour the strips into the saucepan and stir so they take on the flavour of the soffritto. Cook for about 5–8 minutes.",
+            "Deglaze with the wine. Add the white wine and let the alcohol evaporate completely, stirring.",
+            "Add the tomato. Add the peeled tomatoes crushed with a fork, season with salt and pepper and stir. If the mixture is too dry, add a ladle of hot stock.",
+            "Cook slowly. Cover partially and simmer for about 40–50 minutes, stirring from time to time. The tripe should become tender and the tomato should reduce, forming a thick, well-blended sauce. If needed, add a little hot stock during cooking.",
+            "Finish the dish. Turn off the heat, add the chopped parsley and let it rest for a few minutes.",
+            "Serve. Divide the tripe among the plates and finish with grated Parmesan and a drizzle of raw extra virgin olive oil. You can accompany it with Tuscan bread."
+          ],
+          "fr": [
+            "Prépare les tripes. Si tu as acheté des tripes déjà bouillies, vérifie qu'elles sont prêtes pour la cuisson finale. Égoutte-les et coupe-les en lanières pas trop fines. Si le produit est vendu cru, il doit être nettoyé et subir une première cuisson complète selon les indications du boucher : il ne suffit pas de l'ajouter directement au soffritto.",
+            "Prépare le hachis. Hache finement l'oignon, la carotte et le céleri. Chauffe l'huile dans une grande casserole, de préférence à fond épais, et ajoute les légumes.",
+            "Fais fondre. Cuis à feu moyen-doux environ 8 à 10 minutes en remuant. Les légumes doivent devenir tendres et parfumés, sans brûler.",
+            "Ajoute les tripes. Verse les lanières dans la casserole et remue pour qu'elles s'imprègnent du soffritto. Laisse cuire environ 5 à 8 minutes.",
+            "Déglace au vin. Ajoute le vin blanc et laisse l'alcool s'évaporer complètement en remuant.",
+            "Ajoute la tomate. Ajoute les tomates pelées écrasées à la fourchette, sale, poivre et remue. Si le mélange est trop sec, verse une louche de bouillon chaud.",
+            "Cuis lentement. Couvre partiellement et laisse mijoter environ 40 à 50 minutes en remuant de temps en temps. Les tripes doivent devenir tendres et la tomate réduire, formant une sauce dense et bien liée. Si nécessaire, ajoute un peu de bouillon chaud pendant la cuisson.",
+            "Termine le plat. Éteins le feu, ajoute le persil haché et laisse reposer quelques minutes.",
+            "Sers. Répartis les tripes dans les assiettes et termine avec du parmesan râpé et un filet d'huile d'olive extra vierge crue. Tu peux les accompagner de pain toscan."
+          ],
+          "de": [
+            "Kutteln vorbereiten. Haben Sie bereits gekochte Kutteln gekauft, prüfen Sie, ob sie für das abschließende Garen bereit sind. Abgießen und in nicht zu dünne Streifen schneiden. Wird das Produkt roh verkauft, muss es gesäubert und nach den Angaben des Metzgers zunächst vollständig vorgegart werden: Es genügt nicht, es direkt zum Soffritto zu geben.",
+            "Battuto zubereiten. Zwiebel, Karotte und Sellerie fein hacken. Das Öl in einem großen Topf, am besten mit dickem Boden, erhitzen und das Gemüse zugeben.",
+            "Anschwitzen. Bei mittlerer bis niedriger Hitze etwa 8–10 Minuten unter Rühren garen. Das Gemüse soll weich und aromatisch werden, ohne anzubrennen.",
+            "Kutteln zugeben. Die Streifen in den Topf geben und umrühren, damit sie den Geschmack des Soffritto annehmen. Etwa 5–8 Minuten garen.",
+            "Mit Wein ablöschen. Den Weißwein zugießen und den Alkohol unter Rühren vollständig verdampfen lassen.",
+            "Tomaten zugeben. Die mit einer Gabel zerdrückten geschälten Tomaten zugeben, mit Salz und Pfeffer abschmecken und umrühren. Ist die Masse zu trocken, eine Kelle heiße Brühe zugießen.",
+            "Langsam garen. Teilweise abdecken und etwa 40–50 Minuten köcheln lassen, dabei gelegentlich umrühren. Die Kutteln sollen zart werden und die Tomate einkochen, sodass eine dichte, gut gebundene Sauce entsteht. Bei Bedarf während des Garens etwas heiße Brühe zugeben.",
+            "Gericht vollenden. Den Herd ausschalten, die gehackte Petersilie zugeben und einige Minuten ruhen lassen.",
+            "Servieren. Die Kutteln auf die Teller verteilen und mit geriebenem Parmesan und einem Schuss rohem nativem Olivenöl extra vollenden. Dazu passt toskanisches Brot."
+          ],
+          "es": [
+            "Prepara los callos. Si has comprado callos ya hervidos, comprueba que estén listos para la cocción final. Escúrrelos y córtalos en tiras no demasiado finas. Si el producto se vende crudo, debe limpiarse y someterse a una primera cocción completa según las indicaciones del carnicero: no basta con añadirlo directamente al sofrito.",
+            "Prepara el picado. Pica finamente la cebolla, la zanahoria y el apio. Calienta el aceite en una cazuela grande, mejor de fondo grueso, y añade las verduras.",
+            "Deja que se ablanden. Cuece a fuego medio-bajo unos 8–10 minutos, removiendo. Las verduras deben quedar tiernas y aromáticas, sin quemarse.",
+            "Añade los callos. Echa las tiras en la cazuela y remueve para que cojan el sabor del sofrito. Deja cocer unos 5–8 minutos.",
+            "Desglasa con el vino. Añade el vino blanco y deja que el alcohol se evapore por completo, removiendo.",
+            "Incorpora el tomate. Añade los tomates pelados aplastados con un tenedor, ajusta de sal y pimienta y remueve. Si la mezcla está demasiado seca, añade un cazo de caldo caliente.",
+            "Cuece lentamente. Tapa parcialmente y deja hervir a fuego lento unos 40–50 minutos, removiendo de vez en cuando. Los callos deben quedar tiernos y el tomate reducirse, formando una salsa espesa y bien ligada. Si hace falta, añade un poco de caldo caliente durante la cocción.",
+            "Termina el plato. Apaga el fuego, añade el perejil picado y deja reposar unos minutos.",
+            "Sirve. Reparte los callos en los platos y termina con parmesano rallado y un chorrito de aceite de oliva virgen extra en crudo. Puedes acompañarlos con pan toscano."
+          ]
+        }
+      },
+      "foto": {
+        "autore": "Alpha (Flickr: avlxyz)",
+        "licenza": "CC BY-SA 2.0",
+        "url": "https://www.flickr.com/photos/avlxyz/"
+      }
+    },
+    {
+      "id": "crostini-neri-toscani",
+      "nome": "Crostini neri toscani",
+      "portata": "antipasto",
+      "testo": {
+        "it": "I crostini neri sono uno degli antipasti più riconoscibili della cucina toscana e sono molto presenti anche sulle tavole fiorentine. Il loro nome deriva dal colore scuro della crema, preparata principalmente con fegatini di pollo, aromi, capperi e acciughe.\n\nLa ricetta nasce dalla tradizione contadina, nella quale si utilizzavano tutte le parti dell'animale. Il composto viene cotto lentamente, poi tritato o passato fino a ottenere una crema rustica, da spalmare su fette di pane toscano tostato. Alcune famiglie aggiungono milza, carne macinata, vino o una piccola quantità di burro: le versioni sono numerose.\n\nCuriosità: il contrasto tra il pane croccante e la crema morbida è una delle caratteristiche del piatto. In alcune case fiorentine i crostini vengono serviti durante i pranzi delle feste, spesso insieme ad altri antipasti della tradizione.\n\nNota di sicurezza alimentare: i fegatini di pollo devono essere cotti completamente anche al centro. Non assaggiare la preparazione prima della cottura completa e conserva la crema in frigorifero, riscaldandola accuratamente prima di servirla.",
+        "en": "Crostini neri are one of the most recognisable starters of Tuscan cooking and are also very common on Florentine tables. The name comes from the dark colour of the spread, made mainly with chicken livers, aromatics, capers and anchovies.\n\nThe recipe comes from peasant tradition, in which every part of the animal was used. The mixture is cooked slowly, then chopped or passed until it becomes a rustic spread, to be put on slices of toasted Tuscan bread. Some families add spleen, minced meat, wine or a little butter: there are many versions.\n\nDid you know? The contrast between the crisp bread and the soft spread is one of the dish's hallmarks. In some Florentine homes crostini are served at festive lunches, often together with other traditional starters.\n\nFood safety note: chicken livers must be cooked completely, also in the centre. Do not taste the preparation before it is fully cooked, and keep the spread in the refrigerator, reheating it thoroughly before serving.",
+        "fr": "Les crostini neri sont l'un des amuse-bouches les plus reconnaissables de la cuisine toscane et sont très présents aussi sur les tables florentines. Leur nom vient de la couleur sombre de la crème, préparée surtout avec des foies de volaille, des aromates, des câpres et des anchois.\n\nLa recette naît de la tradition paysanne, dans laquelle on utilisait toutes les parties de l'animal. Le mélange est cuit lentement, puis haché ou passé jusqu'à obtenir une crème rustique, à tartiner sur des tranches de pain toscan grillé. Certaines familles ajoutent de la rate, de la viande hachée, du vin ou un peu de beurre : les versions sont nombreuses.\n\nLe saviez-vous ? Le contraste entre le pain croustillant et la crème moelleuse est l'une des caractéristiques du plat. Dans certaines maisons florentines, les crostini sont servis lors des repas de fête, souvent avec d'autres entrées traditionnelles.\n\nNote de sécurité alimentaire : les foies de volaille doivent être cuits complètement, y compris au centre. Ne goûte pas la préparation avant la cuisson complète et conserve la crème au réfrigérateur, en la réchauffant soigneusement avant de servir.",
+        "de": "Die Crostini neri gehören zu den bekanntesten Vorspeisen der toskanischen Küche und stehen auch auf florentinischen Tischen häufig. Ihr Name stammt von der dunklen Farbe der Creme, die hauptsächlich aus Hühnerleber, Aromaten, Kapern und Sardellen zubereitet wird.\n\nDas Rezept stammt aus der bäuerlichen Tradition, in der alle Teile des Tieres verwertet wurden. Die Masse wird langsam gegart, dann gehackt oder passiert, bis eine rustikale Creme entsteht, die auf Scheiben von geröstetem toskanischem Brot gestrichen wird. Manche Familien fügen Milz, Hackfleisch, Wein oder etwas Butter hinzu: Die Versionen sind zahlreich.\n\nWussten Sie schon? Der Kontrast zwischen dem knusprigen Brot und der weichen Creme ist eines der Merkmale des Gerichts. In manchen florentinischen Haushalten werden die Crostini bei festlichen Mittagessen serviert, oft zusammen mit anderen traditionellen Vorspeisen.\n\nHinweis zur Lebensmittelsicherheit: Hühnerleber muss auch im Inneren vollständig durchgegart sein. Probieren Sie die Zubereitung nicht vor dem vollständigen Garen und bewahren Sie die Creme im Kühlschrank auf; vor dem Servieren gründlich erhitzen.",
+        "es": "Los crostini neri son uno de los entrantes más reconocibles de la cocina toscana y están muy presentes también en las mesas florentinas. Su nombre deriva del color oscuro de la crema, preparada principalmente con hígados de pollo, aromáticos, alcaparras y anchoas.\n\nLa receta nace de la tradición campesina, en la que se aprovechaban todas las partes del animal. La mezcla se cuece lentamente y luego se pica o se pasa hasta obtener una crema rústica, para untar sobre rebanadas de pan toscano tostado. Algunas familias añaden bazo, carne picada, vino o un poco de mantequilla: las versiones son numerosas.\n\nCuriosidad: el contraste entre el pan crujiente y la crema suave es una de las características del plato. En algunas casas florentinas los crostini se sirven en las comidas festivas, a menudo junto con otros entrantes de la tradición.\n\nNota de seguridad alimentaria: los hígados de pollo deben cocinarse por completo, también en el centro. No pruebes la preparación antes de que esté totalmente cocinada y conserva la crema en la nevera, recalentándola bien antes de servirla."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "15 min + 30–35 min di cottura + 5 min di tostatura e servizio",
+          "en": "15 min + 30–35 min cooking + 5 min toasting and serving",
+          "fr": "15 min + 30–35 min de cuisson + 5 min de grillage et service",
+          "de": "15 Min. + 30–35 Min. Garzeit + 5 Min. Rösten und Servieren",
+          "es": "15 min + 30–35 min de cocción + 5 min de tostado y servicio"
+        },
+        "ingredienti": {
+          "it": [
+            "300 g di fegatini di pollo puliti",
+            "1 cipolla piccola",
+            "½ carota",
+            "½ costa di sedano",
+            "1 foglia di alloro",
+            "2 cucchiai di capperi dissalati",
+            "2 filetti di acciuga sott'olio",
+            "½ bicchiere di vino bianco",
+            "30 g di burro",
+            "2–3 cucchiai di olio extravergine d'oliva",
+            "Brodo di carne o vegetale q.b.",
+            "Sale e pepe q.b.",
+            "8–12 fette di pane toscano raffermo"
+          ],
+          "en": [
+            "300 g cleaned chicken livers",
+            "1 small onion",
+            "½ carrot",
+            "½ celery stalk",
+            "1 bay leaf",
+            "2 tablespoons desalted capers",
+            "2 anchovy fillets in oil",
+            "½ glass of white wine",
+            "30 g butter",
+            "2–3 tablespoons extra virgin olive oil",
+            "Meat or vegetable stock as needed",
+            "Salt and pepper as needed",
+            "8–12 slices of stale Tuscan bread"
+          ],
+          "fr": [
+            "300 g de foies de volaille nettoyés",
+            "1 petit oignon",
+            "½ carotte",
+            "½ branche de céleri",
+            "1 feuille de laurier",
+            "2 cuillères à soupe de câpres dessalées",
+            "2 filets d'anchois à l'huile",
+            "½ verre de vin blanc",
+            "30 g de beurre",
+            "2–3 cuillères à soupe d'huile d'olive extra vierge",
+            "Bouillon de viande ou de légumes selon besoin",
+            "Sel et poivre selon besoin",
+            "8–12 tranches de pain toscan rassis"
+          ],
+          "de": [
+            "300 g gesäuberte Hühnerleber",
+            "1 kleine Zwiebel",
+            "½ Karotte",
+            "½ Stange Sellerie",
+            "1 Lorbeerblatt",
+            "2 Esslöffel entsalzene Kapern",
+            "2 Sardellenfilets in Öl",
+            "½ Glas Weißwein",
+            "30 g Butter",
+            "2–3 Esslöffel natives Olivenöl extra",
+            "Fleisch- oder Gemüsebrühe nach Bedarf",
+            "Salz und Pfeffer nach Bedarf",
+            "8–12 Scheiben altbackenes toskanisches Brot"
+          ],
+          "es": [
+            "300 g de hígados de pollo limpios",
+            "1 cebolla pequeña",
+            "½ zanahoria",
+            "½ rama de apio",
+            "1 hoja de laurel",
+            "2 cucharadas de alcaparras desaladas",
+            "2 filetes de anchoa en aceite",
+            "½ vaso de vino blanco",
+            "30 g de mantequilla",
+            "2–3 cucharadas de aceite de oliva virgen extra",
+            "Caldo de carne o vegetal al gusto",
+            "Sal y pimienta al gusto",
+            "8–12 rebanadas de pan toscano duro"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Pulisci i fegatini. Controllali uno a uno ed elimina eventuali parti verdi, membrane e residui di tessuto. Le parti verdi, in particolare, vanno rimosse perché possono dare un sapore amaro. Sciacqua rapidamente se necessario e asciuga bene.",
+            "Prepara le verdure. Trita finemente cipolla, carota e sedano. Sciacqua i capperi per eliminare il sale in eccesso e tritali grossolanamente.",
+            "Prepara il soffritto. In una padella capiente scalda l'olio e aggiungi le verdure con la foglia di alloro. Cuoci a fiamma dolce per circa 8–10 minuti, fino a quando saranno morbide.",
+            "Cuoci i fegatini. Tagliali a pezzetti e aggiungili al soffritto. Falli rosolare per alcuni minuti, mescolando. Versa il vino bianco e lascia evaporare.",
+            "Completa la cottura. Aggiungi un mestolino di brodo caldo e continua a cuocere a fuoco medio-basso per circa 15–20 minuti, o finché i fegatini sono completamente cotti. Se il composto si asciuga troppo, aggiungi altro brodo poco alla volta.",
+            "Aggiungi capperi e acciughe. Unisci i capperi tritati e le acciughe. Mescola fino a quando queste ultime si saranno sciolte nel composto. Elimina la foglia di alloro.",
+            "Prepara la crema. Trasferisci il composto su un tagliere e tritalo finemente con un coltello, oppure utilizza un mixer a impulsi. La consistenza tradizionale è piuttosto rustica: evita di trasformarla in una crema completamente liscia.",
+            "Manteca. Rimetti il composto nella padella, aggiungi il burro e mescola. Se necessario, incorpora poco brodo per ottenere una crema morbida e facilmente spalmabile. Assaggia prima di aggiungere sale.",
+            "Prepara il pane. Taglia il pane a fette e tostalo in forno o su una griglia fino a renderlo croccante all'esterno.",
+            "Servi. Distribuisci la crema ancora tiepida sulle fette. Puoi bagnare leggermente il pane con brodo caldo prima di spalmare il composto: è una variante tradizionale molto apprezzata."
+          ],
+          "en": [
+            "Clean the livers. Check them one by one and remove any green parts, membranes and bits of tissue. The green parts in particular must be removed because they can give a bitter taste. Rinse quickly if necessary and dry well.",
+            "Prepare the vegetables. Finely chop the onion, carrot and celery. Rinse the capers to remove excess salt and chop them roughly.",
+            "Make the soffritto. In a large pan heat the oil and add the vegetables with the bay leaf. Cook over gentle heat for about 8–10 minutes, until soft.",
+            "Cook the livers. Cut them into small pieces and add them to the soffritto. Brown them for a few minutes, stirring. Pour in the white wine and let it evaporate.",
+            "Finish cooking. Add a small ladle of hot stock and keep cooking over medium-low heat for about 15–20 minutes, or until the livers are completely cooked. If the mixture dries out too much, add more stock little by little.",
+            "Add capers and anchovies. Add the chopped capers and the anchovies. Stir until the anchovies have dissolved into the mixture. Remove the bay leaf.",
+            "Make the spread. Transfer the mixture to a board and chop it finely with a knife, or use a mixer in short pulses. The traditional texture is rather rustic: avoid turning it into a completely smooth cream.",
+            "Enrich it. Put the mixture back in the pan, add the butter and stir. If necessary, work in a little stock to get a soft, easily spreadable cream. Taste before adding salt.",
+            "Prepare the bread. Cut the bread into slices and toast it in the oven or on a grill until crisp on the outside.",
+            "Serve. Spread the still-warm cream on the slices. You can lightly moisten the bread with hot stock before spreading the mixture: it is a much-loved traditional variation."
+          ],
+          "fr": [
+            "Nettoie les foies. Contrôle-les un à un et retire les éventuelles parties vertes, membranes et résidus de tissu. Les parties vertes en particulier doivent être retirées car elles peuvent donner un goût amer. Rince rapidement si nécessaire et sèche bien.",
+            "Prépare les légumes. Hache finement l'oignon, la carotte et le céleri. Rince les câpres pour éliminer l'excès de sel et hache-les grossièrement.",
+            "Prépare le soffritto. Dans une grande poêle, chauffe l'huile et ajoute les légumes avec la feuille de laurier. Cuis à feu doux environ 8 à 10 minutes, jusqu'à ce qu'ils soient tendres.",
+            "Cuis les foies. Coupe-les en petits morceaux et ajoute-les au soffritto. Fais-les dorer quelques minutes en remuant. Verse le vin blanc et laisse évaporer.",
+            "Termine la cuisson. Ajoute une petite louche de bouillon chaud et continue à cuire à feu moyen-doux environ 15 à 20 minutes, ou jusqu'à ce que les foies soient complètement cuits. Si le mélange se dessèche trop, ajoute du bouillon peu à peu.",
+            "Ajoute câpres et anchois. Ajoute les câpres hachées et les anchois. Remue jusqu'à ce que ces derniers se soient fondus dans le mélange. Retire la feuille de laurier.",
+            "Prépare la crème. Transfère le mélange sur une planche et hache-le finement au couteau, ou utilise un mixeur par impulsions. La texture traditionnelle est plutôt rustique : évite d'en faire une crème complètement lisse.",
+            "Enrichis. Remets le mélange dans la poêle, ajoute le beurre et remue. Si nécessaire, incorpore un peu de bouillon pour obtenir une crème souple et facile à tartiner. Goûte avant de saler.",
+            "Prépare le pain. Coupe le pain en tranches et fais-le griller au four ou sur un gril jusqu'à ce qu'il soit croustillant à l'extérieur.",
+            "Sers. Répartis la crème encore tiède sur les tranches. Tu peux humecter légèrement le pain de bouillon chaud avant de tartiner le mélange : c'est une variante traditionnelle très appréciée."
+          ],
+          "de": [
+            "Leber säubern. Eine nach der anderen prüfen und eventuelle grüne Stellen, Häutchen und Gewebereste entfernen. Vor allem die grünen Teile müssen entfernt werden, da sie bitter schmecken können. Bei Bedarf kurz abspülen und gut trocknen.",
+            "Gemüse vorbereiten. Zwiebel, Karotte und Sellerie fein hacken. Die Kapern abspülen, um überschüssiges Salz zu entfernen, und grob hacken.",
+            "Soffritto zubereiten. In einer großen Pfanne das Öl erhitzen und das Gemüse mit dem Lorbeerblatt zugeben. Bei sanfter Hitze etwa 8–10 Minuten garen, bis es weich ist.",
+            "Leber garen. In kleine Stücke schneiden und zum Soffritto geben. Einige Minuten unter Rühren anbraten. Den Weißwein zugießen und verdampfen lassen.",
+            "Garen vollenden. Eine kleine Kelle heiße Brühe zugeben und bei mittlerer bis niedriger Hitze etwa 15–20 Minuten weitergaren, bis die Leber vollständig gar ist. Trocknet die Masse zu stark aus, nach und nach mehr Brühe zugeben.",
+            "Kapern und Sardellen zugeben. Die gehackten Kapern und die Sardellen hinzufügen. Rühren, bis sich die Sardellen in der Masse aufgelöst haben. Das Lorbeerblatt entfernen.",
+            "Creme zubereiten. Die Masse auf ein Brett geben und mit einem Messer fein hacken oder einen Mixer im Pulsbetrieb verwenden. Die traditionelle Konsistenz ist ziemlich rustikal: Machen Sie daraus keine völlig glatte Creme.",
+            "Verfeinern. Die Masse zurück in die Pfanne geben, die Butter zufügen und umrühren. Bei Bedarf etwas Brühe unterarbeiten, um eine weiche, gut streichfähige Creme zu erhalten. Vor dem Salzen abschmecken.",
+            "Brot vorbereiten. Das Brot in Scheiben schneiden und im Ofen oder auf dem Rost rösten, bis es außen knusprig ist.",
+            "Servieren. Die noch lauwarme Creme auf die Scheiben streichen. Sie können das Brot vor dem Bestreichen leicht mit heißer Brühe befeuchten: Das ist eine sehr beliebte traditionelle Variante."
+          ],
+          "es": [
+            "Limpia los hígados. Revísalos uno a uno y elimina las partes verdes, membranas y restos de tejido. Las partes verdes en particular deben quitarse porque pueden dar un sabor amargo. Acláralos rápidamente si hace falta y sécalos bien.",
+            "Prepara las verduras. Pica finamente la cebolla, la zanahoria y el apio. Aclara las alcaparras para eliminar el exceso de sal y pícalas groseramente.",
+            "Prepara el sofrito. En una sartén grande calienta el aceite y añade las verduras con la hoja de laurel. Cuece a fuego suave unos 8–10 minutos, hasta que estén tiernas.",
+            "Cuece los hígados. Córtalos en trocitos y añádelos al sofrito. Dóralos unos minutos, removiendo. Vierte el vino blanco y deja que se evapore.",
+            "Completa la cocción. Añade un cacillo de caldo caliente y sigue cociendo a fuego medio-bajo unos 15–20 minutos, o hasta que los hígados estén completamente cocidos. Si la mezcla se seca demasiado, añade más caldo poco a poco.",
+            "Añade alcaparras y anchoas. Incorpora las alcaparras picadas y las anchoas. Remueve hasta que estas se disuelvan en la mezcla. Retira la hoja de laurel.",
+            "Prepara la crema. Pasa la mezcla a una tabla y pícala finamente con un cuchillo, o usa una batidora a impulsos. La textura tradicional es bastante rústica: evita convertirla en una crema completamente lisa.",
+            "Enriquécela. Vuelve a poner la mezcla en la sartén, añade la mantequilla y remueve. Si hace falta, incorpora un poco de caldo para obtener una crema suave y fácil de untar. Prueba antes de añadir sal.",
+            "Prepara el pan. Corta el pan en rebanadas y tuéstalo en el horno o en una parrilla hasta que quede crujiente por fuera.",
+            "Sirve. Reparte la crema aún tibia sobre las rebanadas. Puedes humedecer ligeramente el pan con caldo caliente antes de untar la mezcla: es una variante tradicional muy apreciada."
+          ]
+        }
+      },
+      "foto": {
+        "autore": "Sfan00_IMG (Wikimedia Commons)",
+        "licenza": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/wiki/User:Sfan00_IMG"
+      }
+    },
+    {
+      "id": "panzanella",
+      "nome": "Panzanella",
+      "portata": "antipasto",
+      "testo": {
+        "it": "La panzanella è una preparazione contadina estiva, diffusa in tutta la Toscana e particolarmente conosciuta a Firenze. Nasce dall'esigenza di recuperare il pane raffermo, ammorbidendolo con acqua e condendolo con verdure fresche, olio e aceto.\n\nLa versione più comune comprende pomodori maturi, cipolla rossa e basilico; spesso si aggiunge anche il cetriolo. Non è una ricetta rigida: ogni famiglia ha le proprie proporzioni e preferenze. La qualità del pane e la freschezza degli ingredienti sono fondamentali. Si serve come piatto unico o come antipasto.\n\nCuriosità: la panzanella è un esempio perfetto della cucina di recupero toscana. Il pane raffermo non viene considerato uno scarto, ma diventa la base di un piatto fresco, adatto soprattutto ai mesi estivi.\n\nConsiglio: usa pomodori maturi e saporiti. Non eccedere con l'acqua durante l'ammollo: un pane troppo bagnato rende la panzanella acquosa e poco gradevole.",
+        "en": "Panzanella is a summer peasant dish, found throughout Tuscany and especially well known in Florence. It comes from the need to use up stale bread, softening it with water and dressing it with fresh vegetables, oil and vinegar.\n\nThe most common version includes ripe tomatoes, red onion and basil; cucumber is often added too. It is not a rigid recipe: every family has its own proportions and preferences. The quality of the bread and the freshness of the ingredients are essential. It is served as a one-dish meal or as a starter.\n\nDid you know? Panzanella is a perfect example of Tuscan cooking from leftovers. Stale bread is not considered waste but becomes the base of a fresh dish, suited above all to the summer months.\n\nTip: use ripe, flavourful tomatoes. Do not overdo the water when soaking: bread that is too wet makes the panzanella watery and unpleasant.",
+        "fr": "La panzanella est une préparation paysanne estivale, répandue dans toute la Toscane et particulièrement connue à Florence. Elle naît du besoin d'utiliser le pain rassis, ramolli à l'eau et assaisonné de légumes frais, d'huile et de vinaigre.\n\nLa version la plus courante comprend des tomates mûres, de l'oignon rouge et du basilic ; on ajoute souvent aussi du concombre. Ce n'est pas une recette rigide : chaque famille a ses proportions et ses préférences. La qualité du pain et la fraîcheur des ingrédients sont essentielles. Elle se sert comme plat unique ou comme entrée.\n\nLe saviez-vous ? La panzanella est un exemple parfait de la cuisine toscane de récupération. Le pain rassis n'est pas considéré comme un déchet, mais devient la base d'un plat frais, adapté surtout aux mois d'été.\n\nConseil : utilise des tomates mûres et savoureuses. N'exagère pas avec l'eau pendant le trempage : un pain trop mouillé rend la panzanella aqueuse et peu agréable.",
+        "de": "Die Panzanella ist ein sommerliches Bauerngericht, in der ganzen Toskana verbreitet und in Florenz besonders bekannt. Sie entstand aus dem Bedürfnis, altbackenes Brot zu verwerten, es mit Wasser zu erweichen und mit frischem Gemüse, Öl und Essig anzumachen.\n\nDie häufigste Version enthält reife Tomaten, rote Zwiebel und Basilikum; oft kommt auch Gurke dazu. Es ist kein starres Rezept: Jede Familie hat ihre eigenen Mengenverhältnisse und Vorlieben. Die Qualität des Brotes und die Frische der Zutaten sind entscheidend. Sie wird als eigenständiges Gericht oder als Vorspeise serviert.\n\nWussten Sie schon? Die Panzanella ist ein perfektes Beispiel für die toskanische Resteküche. Altbackenes Brot gilt nicht als Abfall, sondern wird zur Basis eines frischen Gerichts, das vor allem zu den Sommermonaten passt.\n\nTipp: Verwenden Sie reife, aromatische Tomaten. Übertreiben Sie es beim Einweichen nicht mit dem Wasser: Zu nasses Brot macht die Panzanella wässrig und wenig ansprechend.",
+        "es": "La panzanella es una preparación campesina de verano, extendida por toda la Toscana y especialmente conocida en Florencia. Nace de la necesidad de aprovechar el pan duro, ablandándolo con agua y aliñándolo con verduras frescas, aceite y vinagre.\n\nLa versión más común incluye tomates maduros, cebolla roja y albahaca; a menudo se añade también pepino. No es una receta rígida: cada familia tiene sus propias proporciones y preferencias. La calidad del pan y la frescura de los ingredientes son fundamentales. Se sirve como plato único o como entrante.\n\nCuriosidad: la panzanella es un ejemplo perfecto de la cocina toscana de aprovechamiento. El pan duro no se considera un desecho, sino que se convierte en la base de un plato fresco, adecuado sobre todo para los meses de verano.\n\nConsejo: usa tomates maduros y sabrosos. No te pases con el agua durante el remojo: un pan demasiado mojado vuelve la panzanella aguada y poco agradable."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "25 min + 30 min di riposo (nessuna cottura)",
+          "en": "25 min + 30 min resting (no cooking)",
+          "fr": "25 min + 30 min de repos (aucune cuisson)",
+          "de": "25 Min. + 30 Min. Ruhezeit (kein Garen)",
+          "es": "25 min + 30 min de reposo (sin cocción)"
+        },
+        "ingredienti": {
+          "it": [
+            "300 g di pane toscano raffermo, preferibilmente senza sale",
+            "300 g di pomodori maturi",
+            "1 cetriolo medio",
+            "1 cipolla rossa",
+            "1 mazzetto di basilico fresco",
+            "3–4 cucchiai di aceto di vino rosso",
+            "5–6 cucchiai di olio extravergine d'oliva",
+            "Sale e pepe nero q.b.",
+            "Acqua fredda q.b."
+          ],
+          "en": [
+            "300 g stale Tuscan bread, preferably unsalted",
+            "300 g ripe tomatoes",
+            "1 medium cucumber",
+            "1 red onion",
+            "1 bunch of fresh basil",
+            "3–4 tablespoons red wine vinegar",
+            "5–6 tablespoons extra virgin olive oil",
+            "Salt and black pepper as needed",
+            "Cold water as needed"
+          ],
+          "fr": [
+            "300 g de pain toscan rassis, de préférence sans sel",
+            "300 g de tomates mûres",
+            "1 concombre moyen",
+            "1 oignon rouge",
+            "1 bouquet de basilic frais",
+            "3–4 cuillères à soupe de vinaigre de vin rouge",
+            "5–6 cuillères à soupe d'huile d'olive extra vierge",
+            "Sel et poivre noir selon besoin",
+            "Eau froide selon besoin"
+          ],
+          "de": [
+            "300 g altbackenes toskanisches Brot, vorzugsweise ungesalzen",
+            "300 g reife Tomaten",
+            "1 mittelgroße Gurke",
+            "1 rote Zwiebel",
+            "1 Bund frisches Basilikum",
+            "3–4 Esslöffel Rotweinessig",
+            "5–6 Esslöffel natives Olivenöl extra",
+            "Salz und schwarzer Pfeffer nach Bedarf",
+            "Kaltes Wasser nach Bedarf"
+          ],
+          "es": [
+            "300 g de pan toscano duro, preferiblemente sin sal",
+            "300 g de tomates maduros",
+            "1 pepino mediano",
+            "1 cebolla roja",
+            "1 manojo de albahaca fresca",
+            "3–4 cucharadas de vinagre de vino tinto",
+            "5–6 cucharadas de aceite de oliva virgen extra",
+            "Sal y pimienta negra al gusto",
+            "Agua fría al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara il pane. Taglia il pane a pezzi e mettilo in una ciotola capiente. Coprilo con acqua fredda e lascialo ammorbidire per circa 10–15 minuti. Il tempo dipende da quanto è secco: deve diventare morbido, ma non completamente sfatto.",
+            "Prepara la cipolla. Sbuccia la cipolla rossa e tagliala a fettine sottili. Mettila in una ciotola con acqua fredda e un cucchiaio di aceto per circa 15–20 minuti. Questo passaggio attenua il sapore pungente. Scolala e asciugala.",
+            "Prepara i pomodori. Lava i pomodori e tagliali a cubetti. Raccogli anche il loro succo: contribuirà a insaporire il pane.",
+            "Prepara il cetriolo. Lavalo, sbuccialo se la buccia è particolarmente spessa e taglialo a rondelle o cubetti.",
+            "Strizza il pane. Scolalo e strizzalo delicatamente con le mani, eliminando l'acqua in eccesso. Sbriciolalo grossolanamente in una ciotola grande: non deve diventare una poltiglia uniforme.",
+            "Unisci gli ingredienti. Aggiungi pomodori, cetriolo e cipolla. Spezzetta a mano alcune foglie di basilico e incorporale al composto.",
+            "Condisci. Versa l'olio extravergine, aggiungi l'aceto rimasto, sale e pepe. Mescola bene affinché il pane assorba il condimento e il succo dei pomodori.",
+            "Lascia riposare. Copri la ciotola e mettila in frigorifero per circa 30 minuti. Questo tempo permette ai sapori di amalgamarsi.",
+            "Completa e servi. Togli la panzanella dal frigorifero qualche minuto prima di servirla. Mescola nuovamente e aggiungi basilico fresco e, se necessario, altro olio o aceto."
+          ],
+          "en": [
+            "Prepare the bread. Cut the bread into pieces and put it in a large bowl. Cover it with cold water and let it soften for about 10–15 minutes. The time depends on how dry it is: it should become soft, but not completely falling apart.",
+            "Prepare the onion. Peel the red onion and slice it thinly. Put it in a bowl with cold water and a tablespoon of vinegar for about 15–20 minutes. This step softens the sharp taste. Drain and dry it.",
+            "Prepare the tomatoes. Wash the tomatoes and dice them. Collect their juice too: it will help flavour the bread.",
+            "Prepare the cucumber. Wash it, peel it if the skin is particularly thick and cut it into slices or cubes.",
+            "Squeeze the bread. Drain it and squeeze it gently with your hands, removing the excess water. Crumble it roughly into a large bowl: it should not become a uniform mush.",
+            "Combine the ingredients. Add the tomatoes, cucumber and onion. Tear a few basil leaves by hand and fold them into the mixture.",
+            "Dress. Pour in the extra virgin olive oil, add the remaining vinegar, salt and pepper. Mix well so that the bread absorbs the dressing and the tomato juice.",
+            "Let it rest. Cover the bowl and put it in the refrigerator for about 30 minutes. This lets the flavours blend.",
+            "Finish and serve. Take the panzanella out of the refrigerator a few minutes before serving. Mix again and add fresh basil and, if needed, more oil or vinegar."
+          ],
+          "fr": [
+            "Prépare le pain. Coupe le pain en morceaux et mets-le dans un grand saladier. Couvre-le d'eau froide et laisse-le ramollir environ 10 à 15 minutes. Le temps dépend de sa sécheresse : il doit devenir moelleux, mais pas complètement défait.",
+            "Prépare l'oignon. Épluche l'oignon rouge et coupe-le en fines tranches. Mets-le dans un bol avec de l'eau froide et une cuillère de vinaigre pendant environ 15 à 20 minutes. Cette étape atténue le goût piquant. Égoutte-le et sèche-le.",
+            "Prépare les tomates. Lave les tomates et coupe-les en dés. Récupère aussi leur jus : il aidera à parfumer le pain.",
+            "Prépare le concombre. Lave-le, épluche-le si la peau est particulièrement épaisse et coupe-le en rondelles ou en dés.",
+            "Presse le pain. Égoutte-le et presse-le délicatement avec les mains pour éliminer l'excès d'eau. Émiette-le grossièrement dans un grand saladier : il ne doit pas devenir une bouillie uniforme.",
+            "Réunis les ingrédients. Ajoute les tomates, le concombre et l'oignon. Déchire à la main quelques feuilles de basilic et incorpore-les au mélange.",
+            "Assaisonne. Verse l'huile d'olive extra vierge, ajoute le vinaigre restant, le sel et le poivre. Mélange bien pour que le pain absorbe l'assaisonnement et le jus des tomates.",
+            "Laisse reposer. Couvre le saladier et mets-le au réfrigérateur environ 30 minutes. Ce temps permet aux saveurs de s'amalgamer.",
+            "Termine et sers. Sors la panzanella du réfrigérateur quelques minutes avant de servir. Mélange à nouveau et ajoute du basilic frais et, si nécessaire, un peu d'huile ou de vinaigre."
+          ],
+          "de": [
+            "Brot vorbereiten. Das Brot in Stücke schneiden und in eine große Schüssel geben. Mit kaltem Wasser bedecken und etwa 10–15 Minuten weich werden lassen. Die Zeit hängt davon ab, wie trocken es ist: Es soll weich, aber nicht völlig zerfallen sein.",
+            "Zwiebel vorbereiten. Die rote Zwiebel schälen und in dünne Scheiben schneiden. Etwa 15–20 Minuten in eine Schüssel mit kaltem Wasser und einem Esslöffel Essig legen. Das mildert die Schärfe. Abgießen und abtrocknen.",
+            "Tomaten vorbereiten. Die Tomaten waschen und würfeln. Auch ihren Saft auffangen: Er trägt zum Geschmack des Brotes bei.",
+            "Gurke vorbereiten. Waschen, bei besonders dicker Schale schälen und in Scheiben oder Würfel schneiden.",
+            "Brot ausdrücken. Abgießen und vorsichtig mit den Händen ausdrücken, um überschüssiges Wasser zu entfernen. Grob in eine große Schüssel zerbröseln: Es darf kein gleichmäßiger Brei werden.",
+            "Zutaten verbinden. Tomaten, Gurke und Zwiebel zugeben. Einige Basilikumblätter von Hand zupfen und unter die Mischung heben.",
+            "Anmachen. Das native Olivenöl extra zugießen, den restlichen Essig, Salz und Pfeffer zugeben. Gut vermengen, damit das Brot das Dressing und den Tomatensaft aufnimmt.",
+            "Ruhen lassen. Die Schüssel abdecken und etwa 30 Minuten in den Kühlschrank stellen. So können sich die Aromen verbinden.",
+            "Vollenden und servieren. Die Panzanella einige Minuten vor dem Servieren aus dem Kühlschrank nehmen. Erneut durchmischen und frisches Basilikum sowie bei Bedarf mehr Öl oder Essig zugeben."
+          ],
+          "es": [
+            "Prepara el pan. Corta el pan en trozos y ponlo en un cuenco grande. Cúbrelo con agua fría y deja que se ablande unos 10–15 minutos. El tiempo depende de lo seco que esté: debe quedar blando, pero no completamente deshecho.",
+            "Prepara la cebolla. Pela la cebolla roja y córtala en láminas finas. Ponla en un cuenco con agua fría y una cucharada de vinagre durante unos 15–20 minutos. Este paso atenúa el sabor fuerte. Escúrrela y sécala.",
+            "Prepara los tomates. Lava los tomates y córtalos en dados. Recoge también su jugo: ayudará a dar sabor al pan.",
+            "Prepara el pepino. Lávalo, pélalo si la piel es especialmente gruesa y córtalo en rodajas o dados.",
+            "Escurre el pan. Escúrrelo y exprímelo con delicadeza con las manos, eliminando el exceso de agua. Desmenúzalo groseramente en un cuenco grande: no debe convertirse en una papilla uniforme.",
+            "Une los ingredientes. Añade los tomates, el pepino y la cebolla. Trocea a mano unas hojas de albahaca e incorpóralas a la mezcla.",
+            "Aliña. Vierte el aceite de oliva virgen extra, añade el vinagre restante, sal y pimienta. Mezcla bien para que el pan absorba el aliño y el jugo de los tomates.",
+            "Deja reposar. Tapa el cuenco y ponlo en la nevera unos 30 minutos. Este tiempo permite que los sabores se integren.",
+            "Termina y sirve. Saca la panzanella de la nevera unos minutos antes de servirla. Mezcla de nuevo y añade albahaca fresca y, si hace falta, más aceite o vinagre."
+          ]
+        }
+      },
+      "foto": {
+        "autore": "Heather Katsoulis (Flickr)",
+        "licenza": "CC BY-SA 2.0",
+        "url": "https://www.flickr.com/people/52473526@N00"
+      }
+    },
+    {
+      "id": "schiacciata-alla-fiorentina",
+      "nome": "Schiacciata alla fiorentina",
+      "portata": "dolce",
+      "testo": {
+        "it": "La schiacciata alla fiorentina è uno dei dolci più caratteristici della città, tradizionalmente preparato nel periodo di Carnevale. Si presenta come una torta rettangolare, bassa e soffice, profumata di arancia e spezie, ricoperta da zucchero a velo. Al centro viene spesso disegnato il giglio di Firenze con il cacao.\n\nIn passato era conosciuta anche come schiacciata unta, perché la preparazione prevedeva lo strutto. Le versioni moderne possono utilizzare olio extravergine d'oliva e lievito chimico, mentre le ricette più tradizionali prevedono una lievitazione con lievito di birra. Questa scheda propone una versione lievitata, più vicina a quella storica.\n\nCuriosità: il giglio di Firenze è la decorazione più riconoscibile della schiacciata. Alcune pasticcerie la propongono anche farcita con crema pasticcera o panna, ma la versione semplice, con zucchero a velo e cacao, è quella più tradizionale.\n\nConsiglio: la schiacciata deve restare soffice ma non troppo alta. La lievitazione e lo spessore contenuto sono importanti per ottenere la consistenza caratteristica.",
+        "en": "Schiacciata alla fiorentina is one of the city's most characteristic sweets, traditionally made at Carnival time. It is a low, soft rectangular cake, scented with orange and spices and covered with icing sugar. In the centre the lily of Florence is often drawn with cocoa.\n\nIn the past it was also known as schiacciata unta (“greased”), because the preparation called for lard. Modern versions may use extra virgin olive oil and baking powder, while the most traditional recipes call for leavening with brewer's yeast. This card offers a yeast-risen version, closer to the historical one.\n\nDid you know? The lily of Florence is the most recognisable decoration of the schiacciata. Some pastry shops also offer it filled with custard or cream, but the plain version, with icing sugar and cocoa, is the most traditional.\n\nTip: the schiacciata should stay soft but not too tall. The rising and the modest thickness are important to obtain its characteristic texture.",
+        "fr": "La schiacciata alla fiorentina est l'un des desserts les plus caractéristiques de la ville, traditionnellement préparé à l'époque du Carnaval. Elle se présente comme un gâteau rectangulaire, bas et moelleux, parfumé à l'orange et aux épices, recouvert de sucre glace. Au centre, on dessine souvent le lys de Florence avec du cacao.\n\nAutrefois, on l'appelait aussi schiacciata unta (« graissée »), car la préparation comportait du saindoux. Les versions modernes peuvent utiliser de l'huile d'olive extra vierge et de la levure chimique, tandis que les recettes les plus traditionnelles prévoient une levée à la levure de boulanger. Cette fiche propose une version levée, plus proche de la version historique.\n\nLe saviez-vous ? Le lys de Florence est la décoration la plus reconnaissable de la schiacciata. Certaines pâtisseries la proposent aussi fourrée de crème pâtissière ou de crème fouettée, mais la version simple, au sucre glace et au cacao, est la plus traditionnelle.\n\nConseil : la schiacciata doit rester moelleuse mais pas trop haute. La levée et l'épaisseur modérée sont importantes pour obtenir sa consistance caractéristique.",
+        "de": "Die Schiacciata alla fiorentina ist eines der typischsten Süßgebäcke der Stadt und wird traditionell zur Karnevalszeit zubereitet. Sie ist ein rechteckiger, flacher, weicher Kuchen, mit Orange und Gewürzen aromatisiert und mit Puderzucker bestäubt. In der Mitte wird oft mit Kakao die Lilie von Florenz gezeichnet.\n\nFrüher war sie auch als Schiacciata unta („gefettet“) bekannt, weil für die Zubereitung Schweineschmalz verwendet wurde. Moderne Versionen können natives Olivenöl extra und Backpulver verwenden, während die traditionellsten Rezepte eine Triebführung mit Bierhefe vorsehen. Diese Karte schlägt eine Hefeversion vor, die der historischen näher kommt.\n\nWussten Sie schon? Die Lilie von Florenz ist die bekannteste Verzierung der Schiacciata. Manche Konditoreien bieten sie auch mit Vanillecreme oder Sahne gefüllt an, aber die schlichte Version mit Puderzucker und Kakao ist die traditionellste.\n\nTipp: Die Schiacciata soll weich, aber nicht zu hoch bleiben. Das Aufgehen und die geringe Dicke sind wichtig, um die charakteristische Konsistenz zu erhalten.",
+        "es": "La schiacciata alla fiorentina es uno de los dulces más característicos de la ciudad, preparado tradicionalmente en época de Carnaval. Es un bizcocho rectangular, bajo y esponjoso, perfumado de naranja y especias, cubierto de azúcar glas. En el centro se dibuja a menudo con cacao la flor de lis de Florencia.\n\nEn el pasado se conocía también como schiacciata unta («untada»), porque la preparación llevaba manteca de cerdo. Las versiones modernas pueden usar aceite de oliva virgen extra y levadura química, mientras que las recetas más tradicionales prevén una fermentación con levadura de cerveza. Esta ficha propone una versión fermentada, más cercana a la histórica.\n\nCuriosidad: la flor de lis de Florencia es la decoración más reconocible de la schiacciata. Algunas pastelerías la ofrecen también rellena de crema pastelera o nata, pero la versión sencilla, con azúcar glas y cacao, es la más tradicional.\n\nConsejo: la schiacciata debe quedar esponjosa pero no demasiado alta. La fermentación y el grosor reducido son importantes para obtener su consistencia característica."
+      },
+      "ricetta": {
+        "porzioni": 6,
+        "preparazione": {
+          "it": "25 min + lievitazioni di 1 h e 60–90 min + 25–30 min di cottura + 30 min per raffreddare e decorare",
+          "en": "25 min + rises of 1 h and 60–90 min + 25–30 min baking + 30 min cooling and decorating",
+          "fr": "25 min + levées de 1 h et de 60–90 min + 25–30 min de cuisson + 30 min de refroidissement et décoration",
+          "de": "25 Min. + Gehzeiten von 1 Std. und 60–90 Min. + 25–30 Min. Backzeit + 30 Min. Abkühlen und Verzieren",
+          "es": "25 min + fermentaciones de 1 h y 60–90 min + 25–30 min de horneado + 30 min para enfriar y decorar"
+        },
+        "ingredienti": {
+          "it": [
+            "Per l'impasto: 300 g di farina 00",
+            "120 g di zucchero",
+            "1 uovo medio",
+            "60 ml di olio extravergine d'oliva delicato",
+            "100 ml di acqua tiepida",
+            "12 g di lievito di birra fresco",
+            "Succo e scorza grattugiata di 1 arancia non trattata",
+            "1 bustina di vanillina o i semi di ½ baccello di vaniglia",
+            "1 pizzico di sale",
+            "1 pizzico di noce moscata oppure zafferano, facoltativo",
+            "Per decorare: zucchero a velo q.b.",
+            "Cacao amaro in polvere q.b."
+          ],
+          "en": [
+            "For the dough: 300 g 00 flour",
+            "120 g sugar",
+            "1 medium egg",
+            "60 ml mild extra virgin olive oil",
+            "100 ml lukewarm water",
+            "12 g fresh brewer's yeast",
+            "Juice and grated zest of 1 unwaxed orange",
+            "1 sachet of vanillin or the seeds of ½ vanilla pod",
+            "1 pinch of salt",
+            "1 pinch of nutmeg or saffron, optional",
+            "To decorate: icing sugar as needed",
+            "Unsweetened cocoa powder as needed"
+          ],
+          "fr": [
+            "Pour la pâte : 300 g de farine 00",
+            "120 g de sucre",
+            "1 œuf moyen",
+            "60 ml d'huile d'olive extra vierge douce",
+            "100 ml d'eau tiède",
+            "12 g de levure de boulanger fraîche",
+            "Jus et zeste râpé de 1 orange non traitée",
+            "1 sachet de vanilline ou les graines de ½ gousse de vanille",
+            "1 pincée de sel",
+            "1 pincée de noix de muscade ou de safran, facultatif",
+            "Pour décorer : sucre glace selon besoin",
+            "Cacao amer en poudre selon besoin"
+          ],
+          "de": [
+            "Für den Teig: 300 g Mehl Type 00",
+            "120 g Zucker",
+            "1 mittelgroßes Ei",
+            "60 ml mildes natives Olivenöl extra",
+            "100 ml lauwarmes Wasser",
+            "12 g frische Bierhefe",
+            "Saft und abgeriebene Schale von 1 unbehandelten Orange",
+            "1 Päckchen Vanillin oder das Mark von ½ Vanilleschote",
+            "1 Prise Salz",
+            "1 Prise Muskatnuss oder Safran, nach Belieben",
+            "Zum Verzieren: Puderzucker nach Bedarf",
+            "Bitterkakaopulver nach Bedarf"
+          ],
+          "es": [
+            "Para la masa: 300 g de harina 00",
+            "120 g de azúcar",
+            "1 huevo mediano",
+            "60 ml de aceite de oliva virgen extra suave",
+            "100 ml de agua tibia",
+            "12 g de levadura fresca de cerveza",
+            "Zumo y ralladura de 1 naranja sin tratar",
+            "1 sobre de vainillina o las semillas de ½ vaina de vainilla",
+            "1 pizca de sal",
+            "1 pizca de nuez moscada o azafrán, opcional",
+            "Para decorar: azúcar glas al gusto",
+            "Cacao amargo en polvo al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara il lievito. Sciogli il lievito di birra fresco nell'acqua tiepida, non calda. Mescola fino a quando sarà completamente disciolto.",
+            "Prepara il primo impasto. Versa circa 100 g di farina in una ciotola e aggiungi gradualmente l'acqua con il lievito. Mescola fino a ottenere un composto morbido e omogeneo.",
+            "Prima lievitazione. Copri la ciotola con un panno pulito o pellicola e lascia riposare in un luogo tiepido per circa un'ora, finché il composto sarà gonfio e avrà iniziato a sviluppare bolle.",
+            "Aggiungi gli ingredienti. Unisci al composto la farina rimanente, lo zucchero, l'uovo, l'olio, il succo e la scorza grattugiata dell'arancia, la vaniglia e la noce moscata o lo zafferano, se li utilizzi.",
+            "Lavora l'impasto. Mescola energicamente con un cucchiaio di legno o con una planetaria a bassa velocità. Aggiungi il sale e continua a lavorare fino a ottenere un impasto morbido, uniforme e leggermente elastico. Se risulta eccessivamente appiccicoso, aggiungi pochissima farina, senza renderlo duro.",
+            "Prepara la teglia. Ungi e infarina una teglia rettangolare di circa 25 × 20 cm. Versa l'impasto e distribuiscilo uniformemente. La schiacciata deve rimanere relativamente bassa: non deve diventare una torta alta.",
+            "Seconda lievitazione. Copri la teglia e lascia lievitare per circa 60–90 minuti, fino a quando l'impasto sarà visibilmente cresciuto e avrà raggiunto uno spessore di circa 2–3 cm.",
+            "Cuoci. Preriscalda il forno statico a 180 °C. Inforna per circa 25–30 minuti. La superficie deve diventare dorata. Controlla la cottura con uno stecchino: se esce asciutto, il dolce è pronto.",
+            "Lascia raffreddare. Togli la teglia dal forno e attendi qualche minuto prima di sformare la schiacciata. Lasciala raffreddare completamente su una griglia.",
+            "Decora. Spolvera abbondantemente con zucchero a velo. Con una mascherina di carta o uno stencil disegna al centro il giglio di Firenze, distribuendo il cacao amaro per ottenere la decorazione caratteristica."
+          ],
+          "en": [
+            "Prepare the yeast. Dissolve the fresh brewer's yeast in the lukewarm, not hot, water. Stir until completely dissolved.",
+            "Make the first dough. Pour about 100 g of flour into a bowl and gradually add the water with the yeast. Mix until you have a soft, smooth mixture.",
+            "First rise. Cover the bowl with a clean cloth or film and leave to rest in a warm place for about an hour, until the mixture is puffy and has started to form bubbles.",
+            "Add the ingredients. Add to the mixture the remaining flour, the sugar, the egg, the oil, the orange juice and grated zest, the vanilla and the nutmeg or saffron, if you use them.",
+            "Work the dough. Mix vigorously with a wooden spoon or with a stand mixer on low speed. Add the salt and keep working until you have a soft, even, slightly elastic dough. If it is too sticky, add very little flour, without making it hard.",
+            "Prepare the tin. Grease and flour a rectangular tin of about 25 × 20 cm. Pour in the dough and spread it evenly. The schiacciata should stay relatively low: it should not become a tall cake.",
+            "Second rise. Cover the tin and let it rise for about 60–90 minutes, until the dough has visibly grown and reached a thickness of about 2–3 cm.",
+            "Bake. Preheat the conventional oven to 180 °C. Bake for about 25–30 minutes. The surface should turn golden. Check with a toothpick: if it comes out dry, the cake is ready.",
+            "Let it cool. Take the tin out of the oven and wait a few minutes before turning out the schiacciata. Let it cool completely on a rack.",
+            "Decorate. Dust generously with icing sugar. With a paper mask or a stencil, draw the lily of Florence in the centre, spreading the cocoa to get the characteristic decoration."
+          ],
+          "fr": [
+            "Prépare la levure. Délaie la levure de boulanger fraîche dans l'eau tiède, pas chaude. Remue jusqu'à ce qu'elle soit complètement dissoute.",
+            "Prépare la première pâte. Verse environ 100 g de farine dans un saladier et ajoute progressivement l'eau avec la levure. Mélange jusqu'à obtenir un mélange souple et homogène.",
+            "Première levée. Couvre le saladier d'un linge propre ou d'un film et laisse reposer dans un endroit tiède environ une heure, jusqu'à ce que le mélange soit gonflé et ait commencé à former des bulles.",
+            "Ajoute les ingrédients. Ajoute au mélange la farine restante, le sucre, l'œuf, l'huile, le jus et le zeste râpé de l'orange, la vanille et la noix de muscade ou le safran, si tu les utilises.",
+            "Travaille la pâte. Mélange énergiquement avec une cuillère en bois ou avec un robot à basse vitesse. Ajoute le sel et continue à travailler jusqu'à obtenir une pâte souple, uniforme et légèrement élastique. Si elle est trop collante, ajoute très peu de farine, sans la rendre dure.",
+            "Prépare le moule. Beurre et farine un moule rectangulaire d'environ 25 × 20 cm. Verse la pâte et répartis-la uniformément. La schiacciata doit rester relativement basse : ce ne doit pas devenir un gâteau haut.",
+            "Seconde levée. Couvre le moule et laisse lever environ 60 à 90 minutes, jusqu'à ce que la pâte ait visiblement gonflé et atteint une épaisseur d'environ 2–3 cm.",
+            "Cuis. Préchauffe le four statique à 180 °C. Enfourne pour environ 25 à 30 minutes. La surface doit devenir dorée. Contrôle la cuisson avec un cure-dent : s'il ressort sec, le gâteau est prêt.",
+            "Laisse refroidir. Sors le moule du four et attends quelques minutes avant de démouler la schiacciata. Laisse-la refroidir complètement sur une grille.",
+            "Décore. Saupoudre abondamment de sucre glace. Avec un pochoir en papier, dessine au centre le lys de Florence en répartissant le cacao amer pour obtenir la décoration caractéristique."
+          ],
+          "de": [
+            "Hefe vorbereiten. Die frische Bierhefe im lauwarmen, nicht heißen Wasser auflösen. Rühren, bis sie vollständig aufgelöst ist.",
+            "Ersten Teig ansetzen. Etwa 100 g Mehl in eine Schüssel geben und nach und nach das Wasser mit der Hefe zugießen. Verrühren, bis eine weiche, gleichmäßige Masse entsteht.",
+            "Erste Gehzeit. Die Schüssel mit einem sauberen Tuch oder Folie abdecken und etwa eine Stunde an einem warmen Ort ruhen lassen, bis die Masse aufgebläht ist und Blasen zu bilden beginnt.",
+            "Zutaten zugeben. Das restliche Mehl, den Zucker, das Ei, das Öl, Saft und abgeriebene Schale der Orange, die Vanille und gegebenenfalls Muskatnuss oder Safran unter die Masse mischen.",
+            "Teig verarbeiten. Kräftig mit einem Holzlöffel oder in der Küchenmaschine auf niedriger Stufe rühren. Das Salz zugeben und weiterarbeiten, bis ein weicher, gleichmäßiger, leicht elastischer Teig entsteht. Ist er zu klebrig, sehr wenig Mehl zugeben, ohne ihn hart zu machen.",
+            "Form vorbereiten. Eine rechteckige Form von etwa 25 × 20 cm fetten und mit Mehl ausstäuben. Den Teig einfüllen und gleichmäßig verteilen. Die Schiacciata soll relativ flach bleiben: Es darf kein hoher Kuchen werden.",
+            "Zweite Gehzeit. Die Form abdecken und etwa 60–90 Minuten gehen lassen, bis der Teig sichtbar aufgegangen ist und eine Dicke von etwa 2–3 cm erreicht hat.",
+            "Backen. Den Backofen auf Ober-/Unterhitze 180 °C vorheizen. Etwa 25–30 Minuten backen. Die Oberfläche soll goldgelb werden. Mit einem Zahnstocher prüfen: Kommt er trocken heraus, ist der Kuchen fertig.",
+            "Abkühlen lassen. Die Form aus dem Ofen nehmen und einige Minuten warten, bevor die Schiacciata gestürzt wird. Auf einem Gitter vollständig abkühlen lassen.",
+            "Verzieren. Großzügig mit Puderzucker bestäuben. Mit einer Papierschablone in der Mitte die Lilie von Florenz zeichnen, indem Sie den Bitterkakao verteilen, um die charakteristische Verzierung zu erhalten."
+          ],
+          "es": [
+            "Prepara la levadura. Disuelve la levadura fresca de cerveza en el agua tibia, no caliente. Remueve hasta que se disuelva por completo.",
+            "Prepara la primera masa. Vierte unos 100 g de harina en un cuenco y añade poco a poco el agua con la levadura. Mezcla hasta obtener una mezcla suave y homogénea.",
+            "Primera fermentación. Cubre el cuenco con un paño limpio o film y deja reposar en un lugar templado durante aproximadamente una hora, hasta que la mezcla esté hinchada y haya empezado a formar burbujas.",
+            "Añade los ingredientes. Incorpora a la mezcla la harina restante, el azúcar, el huevo, el aceite, el zumo y la ralladura de la naranja, la vainilla y la nuez moscada o el azafrán, si los usas.",
+            "Trabaja la masa. Mezcla enérgicamente con una cuchara de madera o con una amasadora a baja velocidad. Añade la sal y sigue trabajando hasta obtener una masa suave, uniforme y ligeramente elástica. Si queda demasiado pegajosa, añade muy poca harina, sin endurecerla.",
+            "Prepara el molde. Unta con aceite y enharina un molde rectangular de unos 25 × 20 cm. Vierte la masa y repártela de manera uniforme. La schiacciata debe quedar relativamente baja: no debe convertirse en un bizcocho alto.",
+            "Segunda fermentación. Cubre el molde y deja fermentar unos 60–90 minutos, hasta que la masa haya crecido visiblemente y alcanzado un grosor de unos 2–3 cm.",
+            "Hornea. Precalienta el horno estático a 180 °C. Hornea unos 25–30 minutos. La superficie debe quedar dorada. Comprueba la cocción con un palillo: si sale seco, el dulce está listo.",
+            "Deja enfriar. Saca el molde del horno y espera unos minutos antes de desmoldar la schiacciata. Déjala enfriar por completo sobre una rejilla.",
+            "Decora. Espolvorea abundantemente con azúcar glas. Con una plantilla de papel o un estarcido, dibuja en el centro la flor de lis de Florencia, repartiendo el cacao amargo para obtener la decoración característica."
+          ]
+        }
+      },
+      "foto": {
+        "autore": "WILO-MA (Wikimedia Commons)",
+        "licenza": "CC BY-SA 2.0",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:WILO-MA&action=edit&redlink=1"
+      }
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
- "versione": "5ef6dd3bdeac",
+ "versione": "d4ce6ef4844d",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -20,16 +20,40 @@
    "byte": 146008
   },
   {
+   "path": "assets/cibi/crostini-neri-toscani.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/crostini-neri-toscani.webp",
+   "sha256": "dfad8c18c1888a65dbfb608fe23d7ff3d9a81817e7c025b23096c79a14266d8a",
+   "byte": 95104
+  },
+  {
    "path": "assets/cibi/panino-al-lampredotto.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/panino-al-lampredotto.webp",
    "sha256": "cf8535b7855b6fff23ded5fe32c33b715ffc4296c7eb2dbb24a995ecbe8ee286",
    "byte": 79930
   },
   {
+   "path": "assets/cibi/panzanella.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/panzanella.webp",
+   "sha256": "244cc648ff1e6d5a7d625e8aa85b3ac6d3bafc1f02b2e4a4e69d3bc8112175cd",
+   "byte": 70258
+  },
+  {
    "path": "assets/cibi/pappa-al-pomodoro.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/pappa-al-pomodoro.webp",
    "sha256": "66a32daa2860e74634a07ffa279909373b1c9e146f4f8c3a6d345718d9d9493a",
    "byte": 109554
+  },
+  {
+   "path": "assets/cibi/schiacciata-alla-fiorentina.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/schiacciata-alla-fiorentina.webp",
+   "sha256": "b473eaa90606d7fe5e0e5676eec0086b5a710570ccfdd19a797010989ab26ae6",
+   "byte": 98326
+  },
+  {
+   "path": "assets/cibi/trippa-alla-fiorentina.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/trippa-alla-fiorentina.webp",
+   "sha256": "c47dc80e9cd966725963bc3e0171d7cd4c87ebd4016a6072624ea6a9be12c8a5",
+   "byte": 39136
   },
   {
    "path": "assets/luoghi/.gitkeep",
@@ -6136,8 +6160,8 @@
   {
    "path": "dati/cibi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/cibi.json",
-   "sha256": "3db867bd035893777595bfebd0b9baf7bf33032d05fb3677cbad8fdc32ae6d29",
-   "byte": 76272
+   "sha256": "8d100bfbaa0e980743240493616c6187414a53929f298051210a5b44e7bbb2f9",
+   "byte": 147844
   },
   {
    "path": "dati/citta.json",
@@ -6160,8 +6184,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "b1d313cbc10c42bf02d811d0d61253759d8a40cb6452ef001211c2c5a16b8a9d",
-   "byte": 2860
+   "sha256": "02115102e83cb893da8e6fcbfc6fdae0713891f521886662f02c90c9a61801e4",
+   "byte": 2964
   },
   {
    "path": "dati/itinerari.json",
@@ -6237,18 +6261,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "85c3c375692a",
-   "da": "ed19de538fd5",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 8,
-   "aspetti": [
-    "orari",
-    "descrizioni",
-    "accessibilita"
-   ],
-   "byte": 1762043
-  },
   {
    "versione": "144e70e70a8e",
    "da": "85c3c375692a",
@@ -6449,6 +6461,13 @@
    "da": "48975efce081",
    "data": "2026-11-26",
    "byte": 414624
+  },
+  {
+   "versione": "d4ce6ef4844d",
+   "da": "5ef6dd3bdeac",
+   "data": "2026-11-26",
+   "cibi_nuovi": 4,
+   "byte": 453632
   }
  ]
 }
