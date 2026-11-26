@@ -1,5 +1,5 @@
 {
- "versione": "1d76f2c2ff63",
+ "versione": "8d7dfb76da9e",
  "voce": "es-ES-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -1109,6 +1109,21 @@
      "secondi": 350,
      "sha256": "018da51563a563e9ac5af4c65c07f0eab04166eadfc70ed445868d5f398e9798",
      "testo": "9752f54ed5113608"
+    }
+   ]
+  },
+  "villa-medicea-della-petraia": {
+   "byte": 1220012,
+   "secondi": 203,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "villa-medicea-della-petraia.mp3",
+     "byte": 1220012,
+     "secondi": 203,
+     "sha256": "d74135bb1b3dd9fdc0a0960697342b8566b7b4bdc540ae6900b6aa855b58bfd7",
+     "testo": "f17fcd3e284d6983"
     }
    ]
   }
