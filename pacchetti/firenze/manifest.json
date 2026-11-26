@@ -1,5 +1,5 @@
 {
- "versione": "1340f88e6020",
+ "versione": "7679ad4cbacd",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -624,6 +624,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-san-salvatore-in-ognissanti_5.webp",
    "sha256": "553793e8a91a040ef226d4041a0616f527dfee3403c1fb3bc3a3bf9c841aca9c",
    "byte": 176712
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi.webp",
+   "sha256": "34e940370e53ca461cb1cecf99fd14da18210295f70a1db8300e438baa95d761",
+   "byte": 80162
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_2.webp",
+   "sha256": "54e0ec19e690a07c6cbda16f2d6286949bc5d784ff4a06305d883bed3682233a",
+   "byte": 274172
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_3.webp",
+   "sha256": "2ea0c6b84efef5ef2a0dade27be7b3b1b8cc3223c4226775dc2a2185476eca50",
+   "byte": 94476
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_4.webp",
+   "sha256": "8bb1378989c952da97e9f826133cce2e95cc41889573d3a742e423a16b8a3828",
+   "byte": 78524
+  },
+  {
+   "path": "assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-di-santa-maria-maddalena-de-pazzi_5.webp",
+   "sha256": "c9c4a675a3e47c504cdb5235a9d2814ccd4a0bbd10c5d16e51a7a41e1a69f8a2",
+   "byte": 213882
   },
   {
    "path": "assets/luoghi/chiesa-di-santambrogio.webp",
@@ -6016,8 +6046,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "7b42a668a3edc58b53a53e029c273e3770a77b7d5f6388433dcd10ddcced8a05",
-   "byte": 2617
+   "sha256": "ccd8b331c907ff788826ec8b8a4757e94ac8ecf058730124bf7da277f44dce3e",
+   "byte": 2666
   },
   {
    "path": "dati/itinerari.json",
@@ -6028,8 +6058,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "07c1cd7e3e375edce74cc34aa6781ab5d20b1e218322edbc49161b4220022700",
-   "byte": 1819684
+   "sha256": "98baf610cabd38b90a559e04ff5846e5e78d7949b9630593e15b79952e6b5e26",
+   "byte": 1820617
   },
   {
    "path": "dati/mappa.json",
@@ -6093,16 +6123,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "fc163f9d24c8",
-   "da": "128d724e7f3e",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Villa Medicea della Petraia"
-   ],
-   "foto_nuove": 5,
-   "byte": 2359731
-  },
   {
    "versione": "84a9a8480cef",
    "da": "fc163f9d24c8",
@@ -6318,6 +6338,17 @@
    ],
    "foto_nuove": 4,
    "byte": 2316833
+  },
+  {
+   "versione": "7679ad4cbacd",
+   "da": "1340f88e6020",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 2564499
   }
  ]
 }

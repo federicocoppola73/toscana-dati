@@ -10445,7 +10445,34 @@
             "es": "El Ayuntamiento de Florencia señala la iglesia como no accesible; las fuentes institucionales indican dificultades por la presencia de escalones."
           }
         }
-      }
+      },
+      "immagine": {
+        "autore": "Sailko",
+        "licenza": "CC BY-SA 3.0",
+        "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/789112"
+      },
+      "galleria": [
+        {
+          "autore": "Francesco Bini",
+          "licenza": "CC BY-SA 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/153084390"
+        },
+        {
+          "autore": "Livioandronico2013",
+          "licenza": "CC BY-SA 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/54655021"
+        },
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY-SA 3.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/35666628"
+        },
+        {
+          "autore": "Francesco Bini",
+          "licenza": "CC BY-SA 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/153107616"
+        }
+      ]
     },
     {
       "id": "basilica-di-santa-maria-del-carmine",
