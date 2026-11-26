@@ -1378,6 +1378,11 @@
             "Abrillanta y sirve. Nada más sacarlos del horno, pincela los panecillos con el almíbar. Déjalos enfriar sobre una rejilla antes de servirlos."
           ]
         }
+      },
+      "foto": {
+        "autore": "Velq1958 (Wikimedia Commons)",
+        "licenza": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Velq1958&action=edit&redlink=1"
       }
     },
     {
@@ -1514,6 +1519,10 @@
             "Sirve. Lleva el peposo a la mesa bien caliente, con su fondo de cocción. Es excelente acompañado de pan toscano, polenta o judías cannellini."
           ]
         }
+      },
+      "foto": {
+        "autore": "Kent Wang",
+        "licenza": "CC BY-SA 2.0"
       }
     },
     {
@@ -1655,6 +1664,10 @@
             "Sirve. Lleva los coccoli a la mesa de inmediato, acompañados de lonchas de jamón crudo y stracchino. Puedes servir el queso en un cuenco aparte o untarlo sobre los bocados aún tibios."
           ]
         }
+      },
+      "foto": {
+        "autore": "Immagine illustrativa",
+        "licenza": "generata con IA"
       }
     },
     {
@@ -1791,6 +1804,10 @@
             "Sirve. Lleva la francesina caliente a la mesa, acompañada de su salsa de cebolla y tomate. Es excelente con pan toscano, patatas cocidas o judías cannellini."
           ]
         }
+      },
+      "foto": {
+        "autore": "Immagine illustrativa",
+        "licenza": "generata con IA"
       }
     },
     {
@@ -1982,6 +1999,11 @@
             "Sirve. Deja reposar unos 5 minutos antes de llevar a la mesa."
           ]
         }
+      },
+      "foto": {
+        "autore": "Velq1958 (Wikimedia Commons)",
+        "licenza": "CC BY 3.0",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Velq1958&action=edit&redlink=1"
       }
     },
     {
@@ -2103,6 +2125,11 @@
             "Deja reposar. Espera unos minutos antes de servir, para que los sabores se integren aún más."
           ]
         }
+      },
+      "foto": {
+        "autore": "Aplasia (Wikimedia Commons)",
+        "licenza": "CC BY-SA 4.0",
+        "url": "https://commons.wikimedia.org/wiki/User:Aplasia"
       }
     },
     {
@@ -2249,132 +2276,10 @@
             "Enfría y sirve. Deja templar en el molde y luego corta en cuadrados. La schiacciata está excelente también a temperatura ambiente."
           ]
         }
-      }
-    },
-    {
-      "id": "gelato-buontalenti",
-      "nome": "Gelato Buontalenti",
-      "portata": "dolce",
-      "testo": {
-        "it": "Il gelato Buontalenti è uno dei gusti più conosciuti di Firenze. Si presenta come una crema fredda, morbida e vellutata, preparata principalmente con latte, panna, zucchero e uova. Il suo sapore è delicato e ricorda quello di una crema pasticcera, con una nota di vaniglia.\n\nIl nome richiama Bernardo Buontalenti, architetto e scenografo al servizio dei Medici, al quale la tradizione attribuisce un ruolo importante nella storia del gelato fiorentino. Si racconta che abbia ideato una crema ghiacciata per un banchetto di corte. Tuttavia, la ricostruzione storica è incerta: non disponiamo di una ricetta originale verificata che permetta di identificare il gelato attuale con quello preparato nel Cinquecento.\n\nLa versione proposta è quindi una moderna crema gelata ispirata al gusto Buontalenti, non la riproduzione documentata di una ricetta rinascimentale.\n\nCuriosità: Bernardo Buontalenti è una figura centrale nella tradizione gastronomica fiorentina anche per il suo legame con i banchetti medicei. La sua fama di inventore del gelato moderno appartiene però a una tradizione storica complessa, nella quale si intrecciano documenti, racconti e attribuzioni successive. È quindi più corretto parlare di gelato ispirato a Buontalenti che di ricetta cinquecentesca certa.\n\nNota di sicurezza alimentare: la crema contiene tuorli d'uovo. Utilizza uova fresche e integre, rispetta la temperatura di cottura indicata e raffredda rapidamente la preparazione. Per una maggiore sicurezza, soprattutto quando il gelato è destinato a persone vulnerabili, puoi utilizzare tuorli pastorizzati.",
-        "en": "Buontalenti gelato is one of Florence's best-known flavours. It is a cold, soft, velvety cream, made mainly with milk, cream, sugar and eggs. Its taste is delicate and recalls that of a custard, with a note of vanilla.\n\nThe name recalls Bernardo Buontalenti, an architect and stage designer in the service of the Medici, to whom tradition attributes an important role in the history of Florentine gelato. It is said that he devised an iced cream for a court banquet. However, the historical reconstruction is uncertain: we have no verified original recipe that allows today's gelato to be identified with the one prepared in the sixteenth century.\n\nThe version offered here is therefore a modern frozen cream inspired by the Buontalenti flavour, not the documented reproduction of a Renaissance recipe.\n\nDid you know? Bernardo Buontalenti is a central figure in Florentine food tradition also because of his link with the Medici banquets. His fame as inventor of modern gelato, however, belongs to a complex historical tradition in which documents, stories and later attributions are intertwined. It is therefore more correct to speak of a gelato inspired by Buontalenti than of a certain sixteenth-century recipe.\n\nFood safety note: the cream contains egg yolks. Use fresh, intact eggs, respect the indicated cooking temperature and cool the preparation quickly. For greater safety, especially when the gelato is meant for vulnerable people, you can use pasteurised yolks.",
-        "fr": "La glace Buontalenti est l'un des parfums les plus connus de Florence. C'est une crème froide, souple et veloutée, préparée principalement avec du lait, de la crème, du sucre et des œufs. Son goût est délicat et rappelle celui d'une crème pâtissière, avec une note de vanille.\n\nLe nom rappelle Bernardo Buontalenti, architecte et scénographe au service des Médicis, auquel la tradition attribue un rôle important dans l'histoire de la glace florentine. On raconte qu'il aurait imaginé une crème glacée pour un banquet de cour. Cependant, la reconstitution historique est incertaine : nous ne disposons pas d'une recette originale vérifiée permettant d'identifier la glace actuelle à celle préparée au XVIe siècle.\n\nLa version proposée est donc une crème glacée moderne inspirée du parfum Buontalenti, et non la reproduction documentée d'une recette de la Renaissance.\n\nLe saviez-vous ? Bernardo Buontalenti est une figure centrale de la tradition gastronomique florentine aussi par son lien avec les banquets des Médicis. Sa réputation d'inventeur de la glace moderne relève toutefois d'une tradition historique complexe, où s'entremêlent documents, récits et attributions ultérieures. Il est donc plus juste de parler d'une glace inspirée de Buontalenti que d'une recette certaine du XVIe siècle.\n\nNote de sécurité alimentaire : la crème contient des jaunes d'œufs. Utilise des œufs frais et intacts, respecte la température de cuisson indiquée et refroidis rapidement la préparation. Pour plus de sécurité, surtout quand la glace est destinée à des personnes vulnérables, tu peux utiliser des jaunes pasteurisés.",
-        "de": "Das Buontalenti-Eis ist eine der bekanntesten Sorten von Florenz. Es ist eine kalte, weiche, samtige Creme, hauptsächlich aus Milch, Sahne, Zucker und Eiern. Sein Geschmack ist zart und erinnert an Vanillecreme, mit einer Note von Vanille.\n\nDer Name erinnert an Bernardo Buontalenti, Architekt und Bühnenbildner im Dienst der Medici, dem die Tradition eine wichtige Rolle in der Geschichte des florentinischen Eises zuschreibt. Man erzählt, er habe eine gefrorene Creme für ein Hofbankett erdacht. Die historische Rekonstruktion ist jedoch unsicher: Es gibt kein überprüftes Originalrezept, das es erlauben würde, das heutige Eis mit dem im 16. Jahrhundert zubereiteten gleichzusetzen.\n\nDie vorgeschlagene Version ist daher eine moderne Eiscreme, inspiriert von der Sorte Buontalenti, und keine dokumentierte Wiedergabe eines Renaissancerezepts.\n\nWussten Sie schon? Bernardo Buontalenti ist auch durch seine Verbindung zu den Medici-Banketten eine zentrale Figur der florentinischen Kulinarik. Sein Ruf als Erfinder des modernen Speiseeises gehört jedoch zu einer komplexen historischen Überlieferung, in der sich Dokumente, Erzählungen und spätere Zuschreibungen verflechten. Es ist daher korrekter, von einem von Buontalenti inspirierten Eis zu sprechen als von einem sicheren Rezept des 16. Jahrhunderts.\n\nHinweis zur Lebensmittelsicherheit: Die Creme enthält Eigelb. Verwenden Sie frische, unbeschädigte Eier, halten Sie die angegebene Gartemperatur ein und kühlen Sie die Zubereitung schnell ab. Für mehr Sicherheit, vor allem wenn das Eis für anfällige Personen gedacht ist, können Sie pasteurisiertes Eigelb verwenden.",
-        "es": "El helado Buontalenti es uno de los sabores más conocidos de Florencia. Es una crema fría, suave y aterciopelada, preparada principalmente con leche, nata, azúcar y huevos. Su sabor es delicado y recuerda al de una crema pastelera, con una nota de vainilla.\n\nEl nombre evoca a Bernardo Buontalenti, arquitecto y escenógrafo al servicio de los Médici, a quien la tradición atribuye un papel importante en la historia del helado florentino. Se cuenta que ideó una crema helada para un banquete de corte. Sin embargo, la reconstrucción histórica es incierta: no disponemos de una receta original verificada que permita identificar el helado actual con el preparado en el siglo XVI.\n\nLa versión propuesta es, por tanto, una crema helada moderna inspirada en el sabor Buontalenti, no la reproducción documentada de una receta renacentista.\n\nCuriosidad: Bernardo Buontalenti es una figura central de la tradición gastronómica florentina también por su vínculo con los banquetes de los Médici. Su fama de inventor del helado moderno pertenece, sin embargo, a una tradición histórica compleja, en la que se entrelazan documentos, relatos y atribuciones posteriores. Es, por tanto, más correcto hablar de un helado inspirado en Buontalenti que de una receta cierta del siglo XVI.\n\nNota de seguridad alimentaria: la crema contiene yemas de huevo. Usa huevos frescos e intactos, respeta la temperatura de cocción indicada y enfría rápidamente la preparación. Para mayor seguridad, sobre todo cuando el helado está destinado a personas vulnerables, puedes usar yemas pasteurizadas."
       },
-      "ricetta": {
-        "porzioni": 6,
-        "preparazione": {
-          "it": "25 min + almeno 4 h di raffreddamento + 30–40 min di mantecazione (eventuale rassodamento 1–2 h)",
-          "en": "25 min + at least 4 h chilling + 30–40 min churning (optional hardening 1–2 h)",
-          "fr": "25 min + au moins 4 h de refroidissement + 30–40 min de turbinage (éventuel durcissement 1–2 h)",
-          "de": "25 Min. + mindestens 4 Std. Abkühlen und Reifen + 30–40 Min. Gefrieren in der Eismaschine (ggf. 1–2 Std. Festwerden)",
-          "es": "25 min + al menos 4 h de enfriado + 30–40 min de mantecado (posible endurecimiento 1–2 h)"
-        },
-        "ingredienti": {
-          "it": [
-            "500 ml di latte intero",
-            "250 ml di panna fresca",
-            "150 g di zucchero",
-            "4 tuorli d'uovo",
-            "1 baccello di vaniglia",
-            "1 pizzico di sale"
-          ],
-          "en": [
-            "500 ml whole milk",
-            "250 ml fresh cream",
-            "150 g sugar",
-            "4 egg yolks",
-            "1 vanilla pod",
-            "1 pinch of salt"
-          ],
-          "fr": [
-            "500 ml de lait entier",
-            "250 ml de crème fraîche",
-            "150 g de sucre",
-            "4 jaunes d'œufs",
-            "1 gousse de vanille",
-            "1 pincée de sel"
-          ],
-          "de": [
-            "500 ml Vollmilch",
-            "250 ml frische Sahne",
-            "150 g Zucker",
-            "4 Eigelb",
-            "1 Vanilleschote",
-            "1 Prise Salz"
-          ],
-          "es": [
-            "500 ml de leche entera",
-            "250 ml de nata fresca",
-            "150 g de azúcar",
-            "4 yemas de huevo",
-            "1 vaina de vainilla",
-            "1 pizca de sal"
-          ]
-        },
-        "passaggi": {
-          "it": [
-            "Prepara la vaniglia. Incidi il baccello per il lungo e raschia i semi con la punta di un coltello. Versa il latte e la panna in una casseruola e aggiungi sia i semi sia il baccello.",
-            "Scalda il latte. Porta lentamente il composto vicino al punto di ebollizione, senza farlo bollire. Spegni il fuoco e lascia in infusione per circa 10–15 minuti, così la vaniglia rilascerà il suo aroma.",
-            "Prepara i tuorli. In una ciotola lavora i tuorli con lo zucchero e un pizzico di sale, utilizzando una frusta. Il composto deve diventare più chiaro e uniforme, senza montarlo eccessivamente.",
-            "Unisci il latte. Rimuovi il baccello di vaniglia. Versa lentamente il latte caldo sui tuorli, mescolando continuamente per temperarli ed evitare che si rapprendano.",
-            "Cuoci la crema. Rimetti il composto nella casseruola e cuoci a fuoco basso, mescolando costantemente con una spatola. La crema deve addensarsi leggermente e raggiungere una temperatura di circa 82–84 °C. Non deve bollire.",
-            "Controlla la consistenza. Quando la crema vela il dorso di un cucchiaio, toglila dal fuoco. Se compaiono piccoli grumi, puoi passarla attraverso un colino fine.",
-            "Raffredda rapidamente. Trasferisci la crema in un contenitore pulito e mettilo in un bagno di acqua e ghiaccio, mescolando per accelerare il raffreddamento. Quando non è più calda, coprila e riponila in frigorifero.",
-            "Lascia maturare. Fai raffreddare la base in frigorifero per almeno 4 ore, preferibilmente fino al giorno successivo. La crema deve essere ben fredda prima della mantecazione.",
-            "Manteca. Versa la base nella gelatiera e segui le istruzioni dell'apparecchio, fino a ottenere un gelato cremoso e consistente.",
-            "Conserva e servi. Trasferisci il gelato in un contenitore freddo e lascialo rassodare in freezer per circa 1–2 ore, se necessario. Prima di servirlo, attendi qualche minuto a temperatura ambiente. Senza gelatiera: versa la crema fredda in un contenitore basso e mettila in freezer. Ogni 30–40 minuti mescola energicamente con una frusta o una forchetta, rompendo i cristalli di ghiaccio. Ripeti per circa 3 ore, fino a ottenere una consistenza più uniforme. Il risultato sarà meno fine rispetto alla mantecazione con gelatiera."
-          ],
-          "en": [
-            "Prepare the vanilla. Split the pod lengthways and scrape out the seeds with the tip of a knife. Pour the milk and cream into a saucepan and add both the seeds and the pod.",
-            "Heat the milk. Slowly bring the mixture close to boiling point, without letting it boil. Turn off the heat and leave to infuse for about 10–15 minutes, so the vanilla releases its aroma.",
-            "Prepare the yolks. In a bowl work the yolks with the sugar and a pinch of salt, using a whisk. The mixture should become paler and even, without whipping it too much.",
-            "Combine with the milk. Remove the vanilla pod. Slowly pour the hot milk over the yolks, stirring continuously to temper them and stop them setting.",
-            "Cook the custard. Put the mixture back in the saucepan and cook over low heat, stirring constantly with a spatula. The cream should thicken slightly and reach a temperature of about 82–84 °C. It must not boil.",
-            "Check the consistency. When the cream coats the back of a spoon, take it off the heat. If small lumps appear, you can pass it through a fine sieve.",
-            "Cool quickly. Transfer the cream to a clean container and set it in a bath of water and ice, stirring to speed up cooling. When it is no longer hot, cover it and put it in the refrigerator.",
-            "Let it mature. Chill the base in the refrigerator for at least 4 hours, preferably until the next day. The cream must be well chilled before churning.",
-            "Churn. Pour the base into the ice cream machine and follow the machine's instructions, until you have a creamy, firm gelato.",
-            "Store and serve. Transfer the gelato to a cold container and let it harden in the freezer for about 1–2 hours, if needed. Before serving, wait a few minutes at room temperature. Without an ice cream machine: pour the cold cream into a shallow container and put it in the freezer. Every 30–40 minutes stir vigorously with a whisk or fork, breaking up the ice crystals. Repeat for about 3 hours, until you get a more uniform texture. The result will be less fine than churning with a machine."
-          ],
-          "fr": [
-            "Prépare la vanille. Fends la gousse dans la longueur et gratte les graines avec la pointe d'un couteau. Verse le lait et la crème dans une casserole et ajoute à la fois les graines et la gousse.",
-            "Chauffe le lait. Porte lentement le mélange près du point d'ébullition, sans le faire bouillir. Éteins le feu et laisse infuser environ 10 à 15 minutes, pour que la vanille libère son arôme.",
-            "Prépare les jaunes. Dans un saladier, travaille les jaunes avec le sucre et une pincée de sel, au fouet. Le mélange doit devenir plus clair et uniforme, sans le monter excessivement.",
-            "Réunis avec le lait. Retire la gousse de vanille. Verse lentement le lait chaud sur les jaunes, en remuant continuellement pour les tempérer et éviter qu'ils ne coagulent.",
-            "Cuis la crème. Remets le mélange dans la casserole et cuis à feu doux, en remuant constamment à la spatule. La crème doit épaissir légèrement et atteindre une température d'environ 82–84 °C. Elle ne doit pas bouillir.",
-            "Contrôle la consistance. Quand la crème nappe le dos d'une cuillère, retire-la du feu. Si de petits grumeaux apparaissent, tu peux la passer dans une passoire fine.",
-            "Refroidis rapidement. Transfère la crème dans un récipient propre et place-le dans un bain d'eau et de glace, en remuant pour accélérer le refroidissement. Quand elle n'est plus chaude, couvre-la et mets-la au réfrigérateur.",
-            "Laisse maturer. Fais refroidir la base au réfrigérateur au moins 4 heures, de préférence jusqu'au lendemain. La crème doit être bien froide avant le turbinage.",
-            "Turbine. Verse la base dans la sorbetière et suis les instructions de l'appareil, jusqu'à obtenir une glace crémeuse et consistante.",
-            "Conserve et sers. Transfère la glace dans un récipient froid et laisse-la durcir au congélateur environ 1 à 2 heures, si nécessaire. Avant de servir, attends quelques minutes à température ambiante. Sans sorbetière : verse la crème froide dans un récipient plat et mets-le au congélateur. Toutes les 30 à 40 minutes, remue énergiquement au fouet ou à la fourchette pour briser les cristaux de glace. Répète pendant environ 3 heures, jusqu'à obtenir une consistance plus uniforme. Le résultat sera moins fin qu'avec une sorbetière."
-          ],
-          "de": [
-            "Vanille vorbereiten. Die Schote der Länge nach einschneiden und das Mark mit der Messerspitze herauskratzen. Milch und Sahne in einen Topf gießen und sowohl das Mark als auch die Schote zugeben.",
-            "Milch erhitzen. Die Mischung langsam nahe an den Siedepunkt bringen, ohne sie kochen zu lassen. Den Herd ausschalten und etwa 10–15 Minuten ziehen lassen, damit die Vanille ihr Aroma abgibt.",
-            "Eigelb vorbereiten. In einer Schüssel das Eigelb mit dem Zucker und einer Prise Salz mit einem Schneebesen verrühren. Die Masse soll heller und gleichmäßig werden, ohne zu stark aufgeschlagen zu werden.",
-            "Mit der Milch verbinden. Die Vanilleschote entfernen. Die heiße Milch langsam über das Eigelb gießen und dabei ständig rühren, um es zu temperieren und ein Stocken zu verhindern.",
-            "Creme garen. Die Mischung zurück in den Topf geben und bei niedriger Hitze unter ständigem Rühren mit einem Spatel garen. Die Creme soll leicht eindicken und eine Temperatur von etwa 82–84 °C erreichen. Sie darf nicht kochen.",
-            "Konsistenz prüfen. Wenn die Creme den Löffelrücken überzieht, vom Herd nehmen. Bilden sich kleine Klümpchen, kann sie durch ein feines Sieb gestrichen werden.",
-            "Schnell abkühlen. Die Creme in einen sauberen Behälter umfüllen und in ein Wasser-Eis-Bad stellen, dabei rühren, um das Abkühlen zu beschleunigen. Ist sie nicht mehr heiß, abdecken und in den Kühlschrank stellen.",
-            "Reifen lassen. Die Basis mindestens 4 Stunden, am besten bis zum nächsten Tag, im Kühlschrank kühlen. Die Creme muss vor dem Gefrieren gut kalt sein.",
-            "In der Eismaschine gefrieren. Die Basis in die Eismaschine gießen und der Anleitung des Geräts folgen, bis ein cremiges, festes Eis entsteht.",
-            "Aufbewahren und servieren. Das Eis in einen kalten Behälter umfüllen und bei Bedarf etwa 1–2 Stunden im Gefrierfach fest werden lassen. Vor dem Servieren einige Minuten bei Raumtemperatur stehen lassen. Ohne Eismaschine: Die kalte Creme in einen flachen Behälter gießen und in den Gefrierschrank stellen. Alle 30–40 Minuten kräftig mit einem Schneebesen oder einer Gabel rühren, um die Eiskristalle zu zerbrechen. Etwa 3 Stunden wiederholen, bis eine gleichmäßigere Konsistenz entsteht. Das Ergebnis ist weniger fein als mit der Eismaschine."
-          ],
-          "es": [
-            "Prepara la vainilla. Abre la vaina a lo largo y raspa las semillas con la punta de un cuchillo. Vierte la leche y la nata en un cazo y añade tanto las semillas como la vaina.",
-            "Calienta la leche. Lleva lentamente la mezcla cerca del punto de ebullición, sin dejar que hierva. Apaga el fuego y deja en infusión unos 10–15 minutos, para que la vainilla libere su aroma.",
-            "Prepara las yemas. En un cuenco trabaja las yemas con el azúcar y una pizca de sal, con unas varillas. La mezcla debe volverse más clara y uniforme, sin montarla en exceso.",
-            "Une con la leche. Retira la vaina de vainilla. Vierte lentamente la leche caliente sobre las yemas, removiendo continuamente para templarlas y evitar que cuajen.",
-            "Cuece la crema. Vuelve a poner la mezcla en el cazo y cuece a fuego bajo, removiendo constantemente con una espátula. La crema debe espesar ligeramente y alcanzar una temperatura de unos 82–84 °C. No debe hervir.",
-            "Controla la consistencia. Cuando la crema vele el dorso de una cuchara, retírala del fuego. Si aparecen pequeños grumos, puedes pasarla por un colador fino.",
-            "Enfría rápidamente. Pasa la crema a un recipiente limpio y colócalo en un baño de agua y hielo, removiendo para acelerar el enfriado. Cuando ya no esté caliente, tápala y guárdala en la nevera.",
-            "Deja madurar. Enfría la base en la nevera al menos 4 horas, preferiblemente hasta el día siguiente. La crema debe estar bien fría antes del mantecado.",
-            "Mantéca. Vierte la base en la heladera y sigue las instrucciones del aparato, hasta obtener un helado cremoso y consistente.",
-            "Conserva y sirve. Pasa el helado a un recipiente frío y déjalo endurecer en el congelador unas 1–2 horas, si hace falta. Antes de servirlo, espera unos minutos a temperatura ambiente. Sin heladera: vierte la crema fría en un recipiente bajo y ponlo en el congelador. Cada 30–40 minutos remueve enérgicamente con unas varillas o un tenedor, rompiendo los cristales de hielo. Repite durante unas 3 horas, hasta obtener una textura más uniforme. El resultado será menos fino que con heladera."
-          ]
-        }
+      "foto": {
+        "autore": "Immagine illustrativa",
+        "licenza": "generata con IA"
       }
     }
   ]

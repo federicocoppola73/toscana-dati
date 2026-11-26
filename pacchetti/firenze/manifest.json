@@ -1,5 +1,5 @@
 {
- "versione": "13adee873f1a",
+ "versione": "44e655d15cfe",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -20,10 +20,40 @@
    "byte": 146008
   },
   {
+   "path": "assets/cibi/coccoli.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/coccoli.webp",
+   "sha256": "ef1a547acdb4ad9b5a50d391e1a4c65509737f61f6c49493cc344dbc31e5102e",
+   "byte": 59820
+  },
+  {
+   "path": "assets/cibi/crespelle-alla-fiorentina.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/crespelle-alla-fiorentina.webp",
+   "sha256": "bc1a28a5765c9eabcbc64910cbdf5eb7b7876033406541f89e713174c033d5cc",
+   "byte": 105590
+  },
+  {
    "path": "assets/cibi/crostini-neri-toscani.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/crostini-neri-toscani.webp",
    "sha256": "dfad8c18c1888a65dbfb608fe23d7ff3d9a81817e7c025b23096c79a14266d8a",
    "byte": 95104
+  },
+  {
+   "path": "assets/cibi/fagioli-alluccelletto.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/fagioli-alluccelletto.webp",
+   "sha256": "9894df71a7d800b9000f560dd3218de9550e32c44ec4b7bab22d20c801dd518b",
+   "byte": 103546
+  },
+  {
+   "path": "assets/cibi/francesina.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/francesina.webp",
+   "sha256": "1fd7d510a6b3d907805e867a35535ce15fc4a429f67b39052f19de544d4c1c36",
+   "byte": 50862
+  },
+  {
+   "path": "assets/cibi/pan-di-ramerino.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/pan-di-ramerino.webp",
+   "sha256": "5826790481382e1cdcc9276f519484e59865348aa786ff2f3984ef49ab55c9fc",
+   "byte": 80068
   },
   {
    "path": "assets/cibi/panino-al-lampredotto.webp",
@@ -44,10 +74,22 @@
    "byte": 109554
   },
   {
+   "path": "assets/cibi/peposo-dellimpruneta.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/peposo-dellimpruneta.webp",
+   "sha256": "53baaa50ac6e6a70bfda90fad0bc6d3f85d0b60e4a1eaf663da93c96f550f24a",
+   "byte": 39472
+  },
+  {
    "path": "assets/cibi/schiacciata-alla-fiorentina.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/schiacciata-alla-fiorentina.webp",
    "sha256": "b473eaa90606d7fe5e0e5676eec0086b5a710570ccfdd19a797010989ab26ae6",
    "byte": 98326
+  },
+  {
+   "path": "assets/cibi/schiacciata-con-luva.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/schiacciata-con-luva.webp",
+   "sha256": "41c664c91d23b59ee55e21696078abc1c9a566b6a5a015523c82a238ffd9fc77",
+   "byte": 72984
   },
   {
    "path": "assets/cibi/trippa-alla-fiorentina.webp",
@@ -6160,8 +6202,8 @@
   {
    "path": "dati/cibi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/cibi.json",
-   "sha256": "19d8b28e06f14fab03bcbdcccbc7126352f148ac99cefef5eab2bf504780606c",
-   "byte": 294726
+   "sha256": "ca89d0db540c779f0ba0614e5a4acf67513c4c5a8909a2f3a4830bf46153bdc0",
+   "byte": 273968
   },
   {
    "path": "dati/citta.json",
@@ -6184,8 +6226,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "02115102e83cb893da8e6fcbfc6fdae0713891f521886662f02c90c9a61801e4",
-   "byte": 2964
+   "sha256": "ea8a2f7489ead5930366659d58db49c77e4f6685c2c71e94376bb0b8a421dccc",
+   "byte": 3124
   },
   {
    "path": "dati/itinerari.json",
@@ -6261,17 +6303,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "b920a8986910",
-   "da": "97caa94ded97",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 5,
-   "byte": 2320279
-  },
   {
    "versione": "9fd4f8bc3df9",
    "da": "b920a8986910",
@@ -6461,6 +6492,12 @@
    "data": "2026-11-26",
    "cibi_nuovi": 4,
    "byte": 294726
+  },
+  {
+   "versione": "44e655d15cfe",
+   "da": "13adee873f1a",
+   "data": "2026-11-26",
+   "byte": 789434
   }
  ]
 }
