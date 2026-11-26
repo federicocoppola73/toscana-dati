@@ -1,5 +1,5 @@
 {
- "versione": "fc163f9d24c8",
+ "versione": "84a9a8480cef",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -1890,6 +1890,42 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-della-petraia_5.webp",
    "sha256": "d587d07cfc7a489eece99790e4c955917fd55d905b4e82655b8db03fc6b2653c",
    "byte": 391364
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-di-castello.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-di-castello.webp",
+   "sha256": "cde05082e6bf58663f232f7273ba916b1996b48ce075912eb66fb7e06bd2875d",
+   "byte": 98658
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-di-castello_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-di-castello_2.webp",
+   "sha256": "210eea0c223f14f9be33db6633ad93ce63f8df64596ea9f6eb80498bc36d8425",
+   "byte": 181314
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-di-castello_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-di-castello_3.webp",
+   "sha256": "ce69415b489b9912631ae4579cf342db06c9f3490f85369fc238114edbcf07cd",
+   "byte": 202302
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-di-castello_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-di-castello_4.webp",
+   "sha256": "8e88cd177cd5704b2f90c0fbe9f099093859c45d7a6fa68476ede514d07ae150",
+   "byte": 200444
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-di-castello_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-di-castello_5.webp",
+   "sha256": "19e45a5c8add36f41c783cbaba87de8f2183759d990f37204afdcd7ee677e5cb",
+   "byte": 110456
+  },
+  {
+   "path": "assets/luoghi/villa-medicea-di-castello_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/villa-medicea-di-castello_6.webp",
+   "sha256": "78963e18c6fd010a559a7c136d8432368d9af7d1645132cc36c6a70658615ad5",
+   "byte": 182302
   },
   {
    "path": "assets/mappa-firenze.webp",
@@ -5698,8 +5734,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "59cf2a9f4ec5e65a8f1ff10923c74f00083e5a20eba0448c18d6a092873f05e0",
-   "byte": 2210
+   "sha256": "2655a2d436041aab339399d72b44339ffd7af4cb982a2cea14eeb02531d9bacc",
+   "byte": 2244
   },
   {
    "path": "dati/itinerari.json",
@@ -5710,8 +5746,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "f469db81cafccb80e1f68eaf5de09a52714ec326f430cbf3ca8729418765cd3e",
-   "byte": 1455627
+   "sha256": "88d0463e75422836d55a4390ddab4df613c6be6e909090e100e8f0f276b86aa6",
+   "byte": 1482084
   },
   {
    "path": "dati/mappa.json",
@@ -5775,16 +5811,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "d5d6e90d326c",
-   "da": "56080fd9c666",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Cenacolo di Andrea del Sarto a San Salvi"
-   ],
-   "foto_nuove": 5,
-   "byte": 1312079
-  },
   {
    "versione": "c825eaaccccf",
    "da": "d5d6e90d326c",
@@ -5977,6 +6003,16 @@
    ],
    "foto_nuove": 5,
    "byte": 2359731
+  },
+  {
+   "versione": "84a9a8480cef",
+   "da": "fc163f9d24c8",
+   "data": "2026-11-26",
+   "luoghi_nuovi": [
+    "Villa Medicea di Castello e Giardino"
+   ],
+   "foto_nuove": 6,
+   "byte": 2459804
   }
  ]
 }
