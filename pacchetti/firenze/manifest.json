@@ -1,5 +1,5 @@
 {
- "versione": "749fb1fb0598",
+ "versione": "429743aa09e4",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -708,6 +708,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele_5.webp",
    "sha256": "3b66961996f1b7b131031fb276ae51996dd61b1ace529dfdc87c0c09ebcb619d",
    "byte": 249302
+  },
+  {
+   "path": "assets/luoghi/chiostro-dello-scalzo.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiostro-dello-scalzo.webp",
+   "sha256": "1f48d9b91d57ec69a404da9111e30aa67945d8696d397094b9311a19d1b8d7fc",
+   "byte": 172750
+  },
+  {
+   "path": "assets/luoghi/chiostro-dello-scalzo_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiostro-dello-scalzo_2.webp",
+   "sha256": "709d36a0097827a351880546454c3ef69aa8c86aa65a84804dc70c01ac7262dc",
+   "byte": 71622
+  },
+  {
+   "path": "assets/luoghi/chiostro-dello-scalzo_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiostro-dello-scalzo_3.webp",
+   "sha256": "4a9b3a6e22dab17d9da1af3f74f02b6573ddc3157eb94e8f6624e0c73355cdf6",
+   "byte": 77948
+  },
+  {
+   "path": "assets/luoghi/chiostro-dello-scalzo_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiostro-dello-scalzo_4.webp",
+   "sha256": "ab35bb0023d41eebf37a1b5c506b91169cc2c356f67b00c47c69e98cf9a6c9db",
+   "byte": 66990
   },
   {
    "path": "assets/luoghi/cimitero-degli-inglesi.webp",
@@ -6046,8 +6070,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "ccd8b331c907ff788826ec8b8a4757e94ac8ecf058730124bf7da277f44dce3e",
-   "byte": 2666
+   "sha256": "42cc99791e80e09deca1bf2508102e8cecc800748ea85090089c9321973335b8",
+   "byte": 2696
   },
   {
    "path": "dati/itinerari.json",
@@ -6058,8 +6082,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "a4319509e81f861cc4fbd6cd92d6c4e983c2c6b818841a2d61a8bb475e49dcfb",
-   "byte": 1835907
+   "sha256": "01e5d8a499c7e4ac97f2e5bcc7fc266bff1fa2d37b390a61e084a10bb8613c97",
+   "byte": 1836495
   },
   {
    "path": "dati/mappa.json",
@@ -6123,19 +6147,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "b27b828dc397",
-   "da": "84a9a8480cef",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Monumento all'Indiano",
-    "Tepidarium del Roster",
-    "Cimitero degli Inglesi",
-    "Rifugio Digitale"
-   ],
-   "curiosita_nuove": 4,
-   "byte": 1581898
-  },
   {
    "versione": "daabb9fccc70",
    "da": "b27b828dc397",
@@ -6351,6 +6362,17 @@
     "Museo Casa di Dante"
    ],
    "byte": 1835907
+  },
+  {
+   "versione": "429743aa09e4",
+   "da": "749fb1fb0598",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 2228501
   }
  ]
 }

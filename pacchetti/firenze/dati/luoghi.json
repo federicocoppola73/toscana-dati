@@ -11577,7 +11577,29 @@
       "es": "El lugar está indicado como accesible. En la entrada hay un ligero desnivel de unos 2 cm y una puerta de empuje; en el interior, una pequeña plataforma facilita el recorrido. No hay servicios higiénicos."
      }
     }
-   }
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "John Samuel",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jsamwrites"
+    },
+    {
+     "autore": "John Samuel",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jsamwrites"
+    },
+    {
+     "autore": "John Samuel",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Jsamwrites"
+    }
+   ]
   },
   {
    "id": "palazzo-rucellai",
