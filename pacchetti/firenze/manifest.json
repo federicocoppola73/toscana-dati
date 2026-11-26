@@ -1,5 +1,5 @@
 {
- "versione": "97caa94ded97",
+ "versione": "b920a8986910",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -18,6 +18,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/.gitkeep",
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "byte": 0
+  },
+  {
+   "path": "assets/luoghi/badia-fiorentina.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/badia-fiorentina.webp",
+   "sha256": "50b21f3d1343645510e3072b2782734b39924d87d151e27e3c6ad6fa6ffa74fe",
+   "byte": 62806
+  },
+  {
+   "path": "assets/luoghi/badia-fiorentina_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/badia-fiorentina_2.webp",
+   "sha256": "0975cebad1006236d14281c9fff3c4fec36f8844fd740aec8203dfefa1565ed6",
+   "byte": 54100
+  },
+  {
+   "path": "assets/luoghi/badia-fiorentina_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/badia-fiorentina_3.webp",
+   "sha256": "b15bfa3409d8fb50a42e61456918fc3a9f84092f0ca06f20b1e92048a9347f36",
+   "byte": 165564
+  },
+  {
+   "path": "assets/luoghi/badia-fiorentina_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/badia-fiorentina_4.webp",
+   "sha256": "5edde7a54756cd66031b6b7643799d2780df6a7103d099e4b55bc8b2a11cf609",
+   "byte": 129486
+  },
+  {
+   "path": "assets/luoghi/badia-fiorentina_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/badia-fiorentina_5.webp",
+   "sha256": "281bd5ab04f9fab35273aa4612fe83e82e82dc6ff22dce426be1c9df75aafc5b",
+   "byte": 91108
   },
   {
    "path": "assets/luoghi/basilica-della-santissima-annunziata.webp",
@@ -5818,8 +5848,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "ba8f4c0c63b876b2cee201d9c585f7dc078e185c8d70fb849b3bdcbf29cc2ba9",
-   "byte": 2359
+   "sha256": "61091f57fdf7e9a1407ed42a9fa1c84bb10e314c518293ee1e8f0d79d03c7b9e",
+   "byte": 2384
   },
   {
    "path": "dati/itinerari.json",
@@ -5830,8 +5860,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "c7267e2bce51ff393cb7c5ca86c388785c2802c356d17631f65cc81d8362eb2e",
-   "byte": 1814032
+   "sha256": "c8cb867be0fbe9cae2b65607562fae141226a88fda731832d55302f063daffed",
+   "byte": 1814831
   },
   {
    "path": "dati/mappa.json",
@@ -5895,16 +5925,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "4fcdbb89445a",
-   "da": "6603058ef2f8",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Piazza Santa Croce"
-   ],
-   "foto_nuove": 5,
-   "byte": 2009479
-  },
   {
    "versione": "a2f26bd1af1c",
    "da": "4fcdbb89445a",
@@ -6115,6 +6135,17 @@
     "descrizioni"
    ],
    "byte": 1814032
+  },
+  {
+   "versione": "b920a8986910",
+   "da": "97caa94ded97",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 5,
+   "byte": 2320279
   }
  ]
 }

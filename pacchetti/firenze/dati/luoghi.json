@@ -10656,7 +10656,34 @@
             "es": "La accesibilidad está limitada por la presencia de escalones."
           }
         }
-      }
+      },
+      "immagine": {
+        "autore": "Zairon",
+        "licenza": "CC BY 4.0",
+        "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+      },
+      "galleria": [
+        {
+          "autore": "Sailko",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+        },
+        {
+          "autore": "Tulumnes",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Tulumnes"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0",
+          "fonte": "https://commons.wikimedia.org/wiki/User:Zairon"
+        }
+      ]
     },
     {
       "id": "chiesa-di-san-salvatore-in-ognissanti",
