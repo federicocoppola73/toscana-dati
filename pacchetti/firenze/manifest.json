@@ -1,5 +1,5 @@
 {
- "versione": "44e655d15cfe",
+ "versione": "ddffffd88624",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -78,6 +78,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/peposo-dellimpruneta.webp",
    "sha256": "53baaa50ac6e6a70bfda90fad0bc6d3f85d0b60e4a1eaf663da93c96f550f24a",
    "byte": 39472
+  },
+  {
+   "path": "assets/cibi/ribollita.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/cibi/ribollita.webp",
+   "sha256": "1596f39227f8c96a8ca3c8a03a940d0c626aa3d98d17dde4ba2462fe4a4a9e38",
+   "byte": 78090
   },
   {
    "path": "assets/cibi/schiacciata-alla-fiorentina.webp",
@@ -6202,8 +6208,8 @@
   {
    "path": "dati/cibi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/cibi.json",
-   "sha256": "ca89d0db540c779f0ba0614e5a4acf67513c4c5a8909a2f3a4830bf46153bdc0",
-   "byte": 273968
+   "sha256": "a091c2260e340c3303aaf29a31acc0c6b2640d513c48b2ed315af1e60b8290ab",
+   "byte": 274187
   },
   {
    "path": "dati/citta.json",
@@ -6226,8 +6232,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "ea8a2f7489ead5930366659d58db49c77e4f6685c2c71e94376bb0b8a421dccc",
-   "byte": 3124
+   "sha256": "2782c0f890daf9ea3e2133077d6c1c1af23c787157665ee6f3910814c2e1c825",
+   "byte": 3139
   },
   {
    "path": "dati/itinerari.json",
@@ -6303,17 +6309,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "9fd4f8bc3df9",
-   "da": "b920a8986910",
-   "data": "2026-11-26",
-   "luoghi_aggiornati": 1,
-   "aspetti": [
-    "foto"
-   ],
-   "foto_nuove": 5,
-   "byte": 2728514
-  },
   {
    "versione": "92f72260f49d",
    "da": "9fd4f8bc3df9",
@@ -6498,6 +6493,12 @@
    "da": "13adee873f1a",
    "data": "2026-11-26",
    "byte": 789434
+  },
+  {
+   "versione": "ddffffd88624",
+   "da": "44e655d15cfe",
+   "data": "2026-11-26",
+   "byte": 355416
   }
  ]
 }
