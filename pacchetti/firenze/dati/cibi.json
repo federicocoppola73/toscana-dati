@@ -1,4 +1,589 @@
 {
- "_nota": "Firenze: cibi e prodotti tipici",
- "cibi": []
+  "_nota": "Firenze: cibi e prodotti tipici",
+  "cibi": [
+    {
+      "id": "ribollita",
+      "nome": "Ribollita",
+      "portata": "primo",
+      "testo": {
+        "it": "La ribollita è una delle preparazioni più rappresentative della cucina contadina toscana, particolarmente legata all'area fiorentina. Nasce come piatto di recupero: pane raffermo, fagioli e verdure venivano riuniti in una minestra sostanziosa, preparata in quantità e riscaldata nei giorni successivi.\n\nIl nome deriva proprio dalla seconda cottura. La minestra, lasciata riposare, veniva rimessa sul fuoco e ribollita: il pane assorbiva il brodo, gli ingredienti si amalgamavano e la consistenza diventava più densa. Non esiste un'unica ricetta immutabile: cavolo nero, verza e cannellini sono però tra gli elementi più caratteristici.\n\nCuriosità: una zuppa di pane e verdure consumata appena preparata può essere molto simile, ma la seconda cottura del giorno dopo è ciò che dà alla ribollita il suo carattere distintivo. Il cavolo nero è particolarmente associato alla preparazione invernale.\n\nConservazione: raffredda la zuppa rapidamente, trasferiscila in contenitori bassi e mettila in frigorifero entro due ore. Il giorno successivo riscaldala completamente, mescolando.",
+        "en": "Ribollita is one of the most representative dishes of Tuscan peasant cooking, closely tied to the Florence area. It began as a dish made from leftovers: stale bread, beans and vegetables were brought together in a hearty soup, made in quantity and reheated over the following days.\n\nThe name comes from the second cooking. The soup, left to rest, was put back on the heat and “reboiled”: the bread absorbed the broth, the ingredients blended together and the texture became thicker. There is no single unchanging recipe, but black cabbage (cavolo nero), savoy cabbage and cannellini beans are among its most characteristic ingredients.\n\nDid you know? A soup of bread and vegetables eaten as soon as it is made can be very similar, but the second cooking the next day is what gives ribollita its distinctive character. Black cabbage is particularly associated with the winter version.\n\nStorage: cool the soup quickly, transfer it to shallow containers and refrigerate within two hours. The next day reheat it thoroughly, stirring.",
+        "fr": "La ribollita est l'une des préparations les plus représentatives de la cuisine paysanne toscane, particulièrement liée à la région de Florence. C'est à l'origine un plat de récupération : pain rassis, haricots et légumes étaient réunis dans une soupe consistante, préparée en grande quantité et réchauffée les jours suivants.\n\nLe nom vient justement de la seconde cuisson. La soupe, laissée au repos, était remise sur le feu et « rebouillie » : le pain absorbait le bouillon, les ingrédients s'amalgamaient et la consistance devenait plus dense. Il n'existe pas de recette unique et immuable, mais le chou noir, le chou frisé et les haricots cannellini comptent parmi ses éléments les plus caractéristiques.\n\nLe saviez-vous ? Une soupe de pain et de légumes consommée dès qu'elle est prête peut y ressembler beaucoup, mais c'est la seconde cuisson du lendemain qui donne à la ribollita son caractère distinctif. Le chou noir est particulièrement associé à la version hivernale.\n\nConservation : refroidis rapidement la soupe, transfère-la dans des récipients peu profonds et mets-la au réfrigérateur dans les deux heures. Le lendemain, réchauffe-la complètement en remuant.",
+        "de": "Die Ribollita gehört zu den bezeichnendsten Gerichten der toskanischen Bauernküche und ist besonders eng mit dem Raum Florenz verbunden. Sie entstand als Resteverwertung: Altbackenes Brot, Bohnen und Gemüse wurden zu einer gehaltvollen Suppe vereint, die in größerer Menge zubereitet und an den folgenden Tagen aufgewärmt wurde.\n\nDer Name geht auf das zweite Garen zurück. Die Suppe wurde ruhen gelassen und wieder aufs Feuer gesetzt, also „noch einmal aufgekocht“: Das Brot saugte die Brühe auf, die Zutaten verbanden sich und die Konsistenz wurde dichter. Ein einziges, unveränderliches Rezept gibt es nicht, doch Schwarzkohl, Wirsing und Cannellini-Bohnen gehören zu den typischsten Zutaten.\n\nWussten Sie schon? Eine Brot-Gemüse-Suppe, die gleich nach der Zubereitung gegessen wird, kann sehr ähnlich sein, aber erst das zweite Garen am nächsten Tag verleiht der Ribollita ihren besonderen Charakter. Der Schwarzkohl wird besonders mit der Winterversion verbunden.\n\nAufbewahrung: Die Suppe schnell abkühlen lassen, in flache Behälter umfüllen und innerhalb von zwei Stunden in den Kühlschrank stellen. Am nächsten Tag unter Rühren vollständig erhitzen.",
+        "es": "La ribollita es una de las preparaciones más representativas de la cocina campesina toscana, especialmente ligada a la zona de Florencia. Nace como plato de aprovechamiento: pan duro, judías y verduras se unían en una sopa sustanciosa, preparada en cantidad y recalentada en los días siguientes.\n\nEl nombre procede precisamente de la segunda cocción. La sopa, dejada reposar, volvía al fuego y se «rehervía»: el pan absorbía el caldo, los ingredientes se fundían y la consistencia se volvía más densa. No existe una única receta inmutable, pero la col negra, la col rizada y las judías cannellini están entre sus elementos más característicos.\n\nCuriosidad: una sopa de pan y verduras consumida recién hecha puede ser muy parecida, pero la segunda cocción del día siguiente es lo que da a la ribollita su carácter distintivo. La col negra se asocia especialmente con la versión invernal.\n\nConservación: enfría rápidamente la sopa, pásala a recipientes poco profundos y ponla en la nevera en un plazo de dos horas. Al día siguiente recaliéntala por completo, removiendo."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "30 min + 1 h 30 di cottura (ammollo 8–12 ore e riposo di una notte)",
+          "en": "30 min + 1 h 30 cooking (8–12 hours soaking and overnight rest)",
+          "fr": "30 min + 1 h 30 de cuisson (trempage 8–12 h et repos d'une nuit)",
+          "de": "30 Min. + 1 Std. 30 Min. Garzeit (8–12 Std. Einweichen und Ruhen über Nacht)",
+          "es": "30 min + 1 h 30 de cocción (remojo de 8–12 horas y reposo de una noche)"
+        },
+        "ingredienti": {
+          "it": [
+            "250 g di fagioli cannellini secchi, oppure circa 600 g già lessati",
+            "300 g di cavolo nero",
+            "200 g di cavolo verza",
+            "150 g di bietole",
+            "2 carote",
+            "2 coste di sedano",
+            "1 cipolla",
+            "2 patate medie",
+            "200 g di pomodori pelati",
+            "250–300 g di pane toscano raffermo, preferibilmente senza sale",
+            "2 spicchi d'aglio",
+            "1 rametto di rosmarino",
+            "1 foglia di alloro",
+            "Olio extravergine d'oliva q.b.",
+            "Sale e pepe nero q.b.",
+            "Acqua di cottura dei fagioli o brodo vegetale q.b."
+          ],
+          "en": [
+            "250 g dried cannellini beans, or about 600 g already cooked",
+            "300 g black cabbage (cavolo nero)",
+            "200 g savoy cabbage",
+            "150 g chard",
+            "2 carrots",
+            "2 celery stalks",
+            "1 onion",
+            "2 medium potatoes",
+            "200 g peeled tomatoes",
+            "250–300 g stale Tuscan bread, preferably unsalted",
+            "2 garlic cloves",
+            "1 sprig of rosemary",
+            "1 bay leaf",
+            "Extra virgin olive oil as needed",
+            "Salt and black pepper as needed",
+            "Bean cooking water or vegetable stock as needed"
+          ],
+          "fr": [
+            "250 g de haricots cannellini secs, ou environ 600 g déjà cuits",
+            "300 g de chou noir",
+            "200 g de chou frisé",
+            "150 g de blettes",
+            "2 carottes",
+            "2 branches de céleri",
+            "1 oignon",
+            "2 pommes de terre moyennes",
+            "200 g de tomates pelées",
+            "250–300 g de pain toscan rassis, de préférence sans sel",
+            "2 gousses d'ail",
+            "1 brin de romarin",
+            "1 feuille de laurier",
+            "Huile d'olive extra vierge selon besoin",
+            "Sel et poivre noir selon besoin",
+            "Eau de cuisson des haricots ou bouillon de légumes selon besoin"
+          ],
+          "de": [
+            "250 g getrocknete Cannellini-Bohnen oder etwa 600 g bereits gekochte",
+            "300 g Schwarzkohl",
+            "200 g Wirsing",
+            "150 g Mangold",
+            "2 Karotten",
+            "2 Stangen Sellerie",
+            "1 Zwiebel",
+            "2 mittelgroße Kartoffeln",
+            "200 g geschälte Tomaten",
+            "250–300 g altbackenes toskanisches Brot, vorzugsweise ungesalzen",
+            "2 Knoblauchzehen",
+            "1 Zweig Rosmarin",
+            "1 Lorbeerblatt",
+            "Natives Olivenöl extra nach Bedarf",
+            "Salz und schwarzer Pfeffer nach Bedarf",
+            "Bohnenkochwasser oder Gemüsebrühe nach Bedarf"
+          ],
+          "es": [
+            "250 g de judías cannellini secas, o unos 600 g ya cocidas",
+            "300 g de col negra",
+            "200 g de col rizada",
+            "150 g de acelgas",
+            "2 zanahorias",
+            "2 ramas de apio",
+            "1 cebolla",
+            "2 patatas medianas",
+            "200 g de tomates pelados",
+            "250–300 g de pan toscano duro, preferiblemente sin sal",
+            "2 dientes de ajo",
+            "1 ramita de romero",
+            "1 hoja de laurel",
+            "Aceite de oliva virgen extra al gusto",
+            "Sal y pimienta negra al gusto",
+            "Agua de cocción de las judías o caldo vegetal al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Ammolla i fagioli. Se utilizzi cannellini secchi, mettili in una ciotola capiente con abbondante acqua fredda per circa 8–12 ore. Scolali e sciacquali.",
+            "Lessa i cannellini. Mettili in una pentola con acqua fredda, uno spicchio d'aglio e la foglia di alloro. Porta lentamente a ebollizione e cuoci a fuoco basso finché saranno morbidi, in genere 60–90 minuti, secondo il prodotto. Sala verso la fine. Conserva l'acqua di cottura.",
+            "Prepara le verdure. Lava il cavolo nero, elimina le coste centrali più dure e taglia le foglie a strisce. Pulisci verza e bietole e riducile a pezzi. Pela le patate e tagliale a cubetti. Trita finemente cipolla, carote e sedano.",
+            "Prepara il soffritto. In una pentola capiente, meglio se di coccio o dal fondo spesso, scalda alcuni cucchiai d'olio. Aggiungi cipolla, carota e sedano e lascia appassire dolcemente per circa 10 minuti, senza bruciarli.",
+            "Aggiungi le verdure. Unisci il cavolo nero, la verza e le bietole. Mescola per insaporire, poi aggiungi patate e pomodori pelati spezzettati. Regola di sale e pepe.",
+            "Cuoci la minestra. Copri con acqua di cottura dei fagioli o brodo vegetale caldo. Aggiungi il rosmarino e lascia sobbollire per circa 40–50 minuti, mescolando ogni tanto. Se la zuppa si asciuga troppo, versa altro liquido caldo.",
+            "Unisci i cannellini. Tieni da parte una parte dei fagioli interi. Frullane circa metà con un mestolo del loro liquido, fino a ottenere una crema. Aggiungi alla pentola sia la crema sia i fagioli interi e cuoci ancora per 10–15 minuti.",
+            "Aggiungi il pane. Taglia il pane raffermo a fette o a pezzi e disponilo nella zuppa. Mescola delicatamente e lascia riposare: il pane deve assorbire il liquido e rendere la preparazione densa, quasi compatta.",
+            "Lascia riposare. Spegni il fuoco e fai raffreddare. Per una ribollita più vicina alla tradizione, conserva la minestra in frigorifero una volta raffreddata e riscaldala il giorno seguente.",
+            "Ribollisci e servi. Il giorno successivo rimetti la zuppa sul fuoco basso, aggiungendo un poco d'acqua o brodo se necessario. Mescola spesso, fino a quando sarà calda in modo uniforme e avrà raggiunto una consistenza cremosa e corposa. Servi con pepe nero e olio extravergine a crudo."
+          ],
+          "en": [
+            "Soak the beans. If you use dried cannellini, put them in a large bowl with plenty of cold water for about 8–12 hours. Drain and rinse them.",
+            "Boil the cannellini. Put them in a pot with cold water, one garlic clove and the bay leaf. Bring slowly to the boil and cook over low heat until soft, generally 60–90 minutes depending on the product. Add salt towards the end. Keep the cooking water.",
+            "Prepare the vegetables. Wash the black cabbage, remove the harder central ribs and cut the leaves into strips. Clean the savoy cabbage and chard and cut them into pieces. Peel the potatoes and dice them. Finely chop the onion, carrots and celery.",
+            "Make the soffritto. In a large pot, preferably earthenware or thick-bottomed, heat a few spoonfuls of oil. Add the onion, carrot and celery and let them soften gently for about 10 minutes, without burning them.",
+            "Add the vegetables. Add the black cabbage, savoy cabbage and chard. Stir to flavour them, then add the potatoes and the peeled tomatoes, broken into pieces. Season with salt and pepper.",
+            "Cook the soup. Cover with the bean cooking water or hot vegetable stock. Add the rosemary and simmer for about 40–50 minutes, stirring from time to time. If the soup dries out too much, add more hot liquid.",
+            "Add the cannellini. Set aside some of the whole beans. Blend about half of them with a ladle of their liquid until creamy. Add both the cream and the whole beans to the pot and cook for another 10–15 minutes.",
+            "Add the bread. Cut the stale bread into slices or pieces and lay it in the soup. Stir gently and let it rest: the bread should absorb the liquid and make the dish thick, almost compact.",
+            "Let it rest. Turn off the heat and let it cool. For a ribollita closer to tradition, keep the soup in the refrigerator once cooled and reheat it the next day.",
+            "Reboil and serve. The next day put the soup back on low heat, adding a little water or stock if needed. Stir often until it is evenly hot and has reached a creamy, full-bodied consistency. Serve with black pepper and raw extra virgin olive oil."
+          ],
+          "fr": [
+            "Fais tremper les haricots. Si tu utilises des cannellini secs, mets-les dans un grand saladier avec beaucoup d'eau froide pendant environ 8 à 12 heures. Égoutte-les et rince-les.",
+            "Fais cuire les cannellini. Mets-les dans une casserole avec de l'eau froide, une gousse d'ail et la feuille de laurier. Porte lentement à ébullition et cuis à feu doux jusqu'à ce qu'ils soient tendres, en général 60 à 90 minutes selon le produit. Sale vers la fin. Conserve l'eau de cuisson.",
+            "Prépare les légumes. Lave le chou noir, retire les côtes centrales les plus dures et coupe les feuilles en lanières. Nettoie le chou frisé et les blettes et coupe-les en morceaux. Épluche les pommes de terre et coupe-les en dés. Hache finement l'oignon, les carottes et le céleri.",
+            "Prépare le soffritto. Dans une grande marmite, de préférence en terre cuite ou à fond épais, chauffe quelques cuillerées d'huile. Ajoute l'oignon, la carotte et le céleri et laisse-les fondre doucement environ 10 minutes, sans les brûler.",
+            "Ajoute les légumes. Ajoute le chou noir, le chou frisé et les blettes. Remue pour les parfumer, puis ajoute les pommes de terre et les tomates pelées concassées. Sale et poivre.",
+            "Cuis la soupe. Couvre avec l'eau de cuisson des haricots ou du bouillon de légumes chaud. Ajoute le romarin et laisse mijoter environ 40 à 50 minutes en remuant de temps en temps. Si la soupe s'assèche trop, verse un peu de liquide chaud.",
+            "Ajoute les cannellini. Mets de côté une partie des haricots entiers. Mixe-en environ la moitié avec une louche de leur liquide, jusqu'à obtenir une crème. Ajoute dans la marmite la crème et les haricots entiers et cuis encore 10 à 15 minutes.",
+            "Ajoute le pain. Coupe le pain rassis en tranches ou en morceaux et dispose-le dans la soupe. Remue délicatement et laisse reposer : le pain doit absorber le liquide et rendre la préparation dense, presque compacte.",
+            "Laisse reposer. Éteins le feu et laisse refroidir. Pour une ribollita plus proche de la tradition, conserve la soupe au réfrigérateur une fois refroidie et réchauffe-la le lendemain.",
+            "Fais « rebouillir » et sers. Le lendemain, remets la soupe sur feu doux, en ajoutant un peu d'eau ou de bouillon si nécessaire. Remue souvent jusqu'à ce qu'elle soit chaude de façon uniforme et ait atteint une consistance crémeuse et corsée. Sers avec du poivre noir et un filet d'huile d'olive extra vierge crue."
+          ],
+          "de": [
+            "Bohnen einweichen. Wenn Sie getrocknete Cannellini verwenden, legen Sie sie etwa 8–12 Stunden in eine große Schüssel mit reichlich kaltem Wasser. Abgießen und abspülen.",
+            "Cannellini kochen. Mit kaltem Wasser, einer Knoblauchzehe und dem Lorbeerblatt in einen Topf geben. Langsam zum Kochen bringen und bei niedriger Hitze weich garen, in der Regel 60–90 Minuten, je nach Produkt. Gegen Ende salzen. Das Kochwasser aufbewahren.",
+            "Gemüse vorbereiten. Schwarzkohl waschen, die harten Mittelrippen entfernen und die Blätter in Streifen schneiden. Wirsing und Mangold putzen und in Stücke schneiden. Kartoffeln schälen und würfeln. Zwiebel, Karotten und Sellerie fein hacken.",
+            "Soffritto zubereiten. In einem großen Topf, am besten aus Ton oder mit dickem Boden, einige Löffel Öl erhitzen. Zwiebel, Karotte und Sellerie zugeben und etwa 10 Minuten sanft anschwitzen, ohne sie anbrennen zu lassen.",
+            "Gemüse zugeben. Schwarzkohl, Wirsing und Mangold hinzufügen. Zum Würzen umrühren, dann Kartoffeln und zerkleinerte geschälte Tomaten zugeben. Mit Salz und Pfeffer abschmecken.",
+            "Suppe garen. Mit Bohnenkochwasser oder heißer Gemüsebrühe bedecken. Rosmarin zugeben und etwa 40–50 Minuten köcheln lassen, dabei gelegentlich umrühren. Wird die Suppe zu trocken, weitere heiße Flüssigkeit zugießen.",
+            "Cannellini zugeben. Einen Teil der ganzen Bohnen beiseitestellen. Etwa die Hälfte davon mit einer Kelle ihrer Flüssigkeit zu einer Creme pürieren. Sowohl die Creme als auch die ganzen Bohnen in den Topf geben und weitere 10–15 Minuten garen.",
+            "Brot zugeben. Das altbackene Brot in Scheiben oder Stücke schneiden und in die Suppe legen. Vorsichtig umrühren und ruhen lassen: Das Brot soll die Flüssigkeit aufsaugen und das Gericht dicht, fast kompakt machen.",
+            "Ruhen lassen. Den Herd ausschalten und abkühlen lassen. Für eine traditionellere Ribollita die Suppe nach dem Abkühlen im Kühlschrank aufbewahren und am nächsten Tag aufwärmen.",
+            "Aufkochen und servieren. Am nächsten Tag die Suppe bei niedriger Hitze wieder aufsetzen und bei Bedarf etwas Wasser oder Brühe zugeben. Oft umrühren, bis sie gleichmäßig heiß ist und eine cremige, gehaltvolle Konsistenz erreicht hat. Mit schwarzem Pfeffer und rohem nativem Olivenöl extra servieren."
+          ],
+          "es": [
+            "Pon las judías en remojo. Si usas cannellini secas, ponlas en un cuenco grande con abundante agua fría durante unas 8–12 horas. Escúrrelas y acláralas.",
+            "Cuece las cannellini. Ponlas en una olla con agua fría, un diente de ajo y la hoja de laurel. Lleva lentamente a ebullición y cuece a fuego bajo hasta que estén tiernas, por lo general 60–90 minutos según el producto. Sala hacia el final. Guarda el agua de cocción.",
+            "Prepara las verduras. Lava la col negra, retira las nervaduras centrales más duras y corta las hojas en tiras. Limpia la col rizada y las acelgas y córtalas en trozos. Pela las patatas y córtalas en dados. Pica finamente la cebolla, las zanahorias y el apio.",
+            "Prepara el sofrito. En una olla grande, mejor de barro o de fondo grueso, calienta unas cucharadas de aceite. Añade la cebolla, la zanahoria y el apio y deja que se ablanden suavemente unos 10 minutos, sin quemarlos.",
+            "Añade las verduras. Incorpora la col negra, la col rizada y las acelgas. Remueve para que cojan sabor y añade las patatas y los tomates pelados troceados. Ajusta de sal y pimienta.",
+            "Cuece la sopa. Cubre con el agua de cocción de las judías o con caldo vegetal caliente. Añade el romero y deja hervir a fuego lento unos 40–50 minutos, removiendo de vez en cuando. Si la sopa se seca demasiado, añade más líquido caliente.",
+            "Incorpora las cannellini. Reserva una parte de las judías enteras. Tritura aproximadamente la mitad con un cazo de su líquido hasta obtener una crema. Añade a la olla tanto la crema como las judías enteras y cuece otros 10–15 minutos.",
+            "Añade el pan. Corta el pan duro en rebanadas o trozos y colócalo en la sopa. Remueve con delicadeza y deja reposar: el pan debe absorber el líquido y volver la preparación densa, casi compacta.",
+            "Deja reposar. Apaga el fuego y deja enfriar. Para una ribollita más cercana a la tradición, guarda la sopa en la nevera una vez fría y recaliéntala al día siguiente.",
+            "Rehierve y sirve. Al día siguiente vuelve a poner la sopa a fuego bajo, añadiendo un poco de agua o caldo si hace falta. Remueve a menudo hasta que esté caliente de manera uniforme y alcance una consistencia cremosa y con cuerpo. Sirve con pimienta negra y aceite de oliva virgen extra en crudo."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pappa-al-pomodoro",
+      "nome": "Pappa al pomodoro",
+      "portata": "primo",
+      "testo": {
+        "it": "La pappa al pomodoro è un piatto povero della tradizione toscana, molto diffuso anche a Firenze. Nasce dall'esigenza di recuperare il pane raffermo, trasformandolo in una pietanza morbida e saporita con pomodoro, aglio, basilico e olio extravergine d'oliva.\n\nLa sua caratteristica è la consistenza: non deve essere una zuppa liquida, ma una preparazione densa, nella quale il pane si disfa e si lega al pomodoro. Le ricette cambiano da famiglia a famiglia: alcune utilizzano solo aglio, altre aggiungono cipolla o verdure.\n\nCuriosità: la pappa al pomodoro è diventata famosa anche grazie alla cultura popolare e alla canzone «Viva la pappa col pomodoro», legata allo sceneggiato televisivo «Il giornalino di Gian Burrasca». La sua notorietà ha contribuito a trasformare un piatto di recupero in uno dei simboli della cucina toscana.\n\nConsiglio: utilizza pane toscano raffermo di uno o due giorni. Il pane troppo fresco tende a diventare colloso, mentre quello ben asciutto assorbe meglio il pomodoro e dà alla pappa una consistenza più equilibrata.",
+        "en": "Pappa al pomodoro is a humble dish of the Tuscan tradition, very common in Florence too. It comes from the need to use up stale bread, turning it into a soft, flavourful dish with tomato, garlic, basil and extra virgin olive oil.\n\nIts hallmark is the texture: it should not be a runny soup but a thick preparation in which the bread breaks down and binds with the tomato. Recipes vary from family to family: some use only garlic, others add onion or vegetables.\n\nDid you know? Pappa al pomodoro also became famous through popular culture and the song “Viva la pappa col pomodoro”, linked to the television serial “Il giornalino di Gian Burrasca”. Its fame helped turn a dish made from leftovers into one of the symbols of Tuscan cooking.\n\nTip: use Tuscan bread that is one or two days old. Bread that is too fresh tends to turn sticky, while well-dried bread absorbs the tomato better and gives the pappa a more balanced consistency.",
+        "fr": "La pappa al pomodoro est un plat modeste de la tradition toscane, très répandu aussi à Florence. Elle naît du besoin d'utiliser le pain rassis, transformé en un mets moelleux et savoureux avec de la tomate, de l'ail, du basilic et de l'huile d'olive extra vierge.\n\nSa caractéristique est la consistance : ce ne doit pas être une soupe liquide, mais une préparation dense, dans laquelle le pain se défait et se lie à la tomate. Les recettes changent d'une famille à l'autre : certaines n'utilisent que de l'ail, d'autres ajoutent de l'oignon ou des légumes.\n\nLe saviez-vous ? La pappa al pomodoro est devenue célèbre aussi grâce à la culture populaire et à la chanson « Viva la pappa col pomodoro », liée au feuilleton télévisé « Il giornalino di Gian Burrasca ». Sa notoriété a contribué à faire d'un plat de récupération l'un des symboles de la cuisine toscane.\n\nConseil : utilise du pain toscan rassis d'un ou deux jours. Un pain trop frais a tendance à devenir collant, tandis qu'un pain bien sec absorbe mieux la tomate et donne à la pappa une consistance plus équilibrée.",
+        "de": "Die Pappa al pomodoro ist ein einfaches Gericht der toskanischen Tradition, das auch in Florenz sehr verbreitet ist. Sie entstand aus dem Bedürfnis, altbackenes Brot zu verwerten und in ein weiches, würziges Gericht mit Tomaten, Knoblauch, Basilikum und nativem Olivenöl extra zu verwandeln.\n\nIhr Kennzeichen ist die Konsistenz: Sie soll keine dünne Suppe sein, sondern eine dichte Zubereitung, in der sich das Brot auflöst und mit der Tomate verbindet. Die Rezepte unterscheiden sich von Familie zu Familie: Manche verwenden nur Knoblauch, andere fügen Zwiebel oder Gemüse hinzu.\n\nWussten Sie schon? Die Pappa al pomodoro wurde auch durch die Populärkultur berühmt, durch das Lied „Viva la pappa col pomodoro“, das mit der Fernsehserie „Il giornalino di Gian Burrasca“ verbunden ist. Ihre Bekanntheit trug dazu bei, aus einem Resteessen eines der Symbole der toskanischen Küche zu machen.\n\nTipp: Verwenden Sie ein ein bis zwei Tage altes toskanisches Brot. Zu frisches Brot wird leicht klebrig, während gut getrocknetes Brot die Tomate besser aufsaugt und der Pappa eine ausgewogenere Konsistenz verleiht.",
+        "es": "La pappa al pomodoro es un plato humilde de la tradición toscana, muy extendido también en Florencia. Nace de la necesidad de aprovechar el pan duro, convirtiéndolo en un plato suave y sabroso con tomate, ajo, albahaca y aceite de oliva virgen extra.\n\nSu característica es la consistencia: no debe ser una sopa líquida, sino una preparación espesa en la que el pan se deshace y se une al tomate. Las recetas cambian de una familia a otra: algunas usan solo ajo, otras añaden cebolla o verduras.\n\nCuriosidad: la pappa al pomodoro se hizo famosa también gracias a la cultura popular y a la canción «Viva la pappa col pomodoro», vinculada a la serie de televisión «Il giornalino di Gian Burrasca». Su fama contribuyó a convertir un plato de aprovechamiento en uno de los símbolos de la cocina toscana.\n\nConsejo: usa pan toscano de uno o dos días. El pan demasiado fresco tiende a ponerse pegajoso, mientras que el pan bien seco absorbe mejor el tomate y da a la pappa una consistencia más equilibrada."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "15 min + 40–45 min di cottura + 10–15 min di riposo",
+          "en": "15 min + 40–45 min cooking + 10–15 min resting",
+          "fr": "15 min + 40–45 min de cuisson + 10–15 min de repos",
+          "de": "15 Min. + 40–45 Min. Garzeit + 10–15 Min. Ruhezeit",
+          "es": "15 min + 40–45 min de cocción + 10–15 min de reposo"
+        },
+        "ingredienti": {
+          "it": [
+            "350–400 g di pane toscano raffermo, preferibilmente senza sale",
+            "800 g di pomodori maturi pelati o polpa di pomodoro",
+            "2 spicchi d'aglio",
+            "1 cipolla piccola, facoltativa",
+            "1 mazzetto di basilico fresco",
+            "700 ml circa di brodo vegetale o acqua calda",
+            "6–8 cucchiai di olio extravergine d'oliva",
+            "Sale q.b.",
+            "Pepe nero q.b."
+          ],
+          "en": [
+            "350–400 g stale Tuscan bread, preferably unsalted",
+            "800 g ripe peeled tomatoes or tomato pulp",
+            "2 garlic cloves",
+            "1 small onion, optional",
+            "1 bunch of fresh basil",
+            "About 700 ml vegetable stock or hot water",
+            "6–8 tablespoons extra virgin olive oil",
+            "Salt as needed",
+            "Black pepper as needed"
+          ],
+          "fr": [
+            "350–400 g de pain toscan rassis, de préférence sans sel",
+            "800 g de tomates mûres pelées ou de pulpe de tomate",
+            "2 gousses d'ail",
+            "1 petit oignon, facultatif",
+            "1 bouquet de basilic frais",
+            "Environ 700 ml de bouillon de légumes ou d'eau chaude",
+            "6–8 cuillères à soupe d'huile d'olive extra vierge",
+            "Sel selon besoin",
+            "Poivre noir selon besoin"
+          ],
+          "de": [
+            "350–400 g altbackenes toskanisches Brot, vorzugsweise ungesalzen",
+            "800 g reife, geschälte Tomaten oder Tomatenfruchtfleisch",
+            "2 Knoblauchzehen",
+            "1 kleine Zwiebel, nach Belieben",
+            "1 Bund frisches Basilikum",
+            "Etwa 700 ml Gemüsebrühe oder heißes Wasser",
+            "6–8 Esslöffel natives Olivenöl extra",
+            "Salz nach Bedarf",
+            "Schwarzer Pfeffer nach Bedarf"
+          ],
+          "es": [
+            "350–400 g de pan toscano duro, preferiblemente sin sal",
+            "800 g de tomates maduros pelados o pulpa de tomate",
+            "2 dientes de ajo",
+            "1 cebolla pequeña, opcional",
+            "1 manojo de albahaca fresca",
+            "Unos 700 ml de caldo vegetal o agua caliente",
+            "6–8 cucharadas de aceite de oliva virgen extra",
+            "Sal al gusto",
+            "Pimienta negra al gusto"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara il pane. Taglia il pane raffermo a fette o a cubetti. Se è molto duro, puoi lasciarlo qualche minuto in una ciotola con poca acqua o brodo tiepido, senza inzupparlo eccessivamente.",
+            "Prepara il pomodoro. Se utilizzi pomodori freschi, incidili leggermente e sbollentali per circa un minuto. Raffreddali in acqua fredda, elimina la pelle e tagliali a pezzi. Se usi pomodori pelati o polpa, puoi passare direttamente alla cottura.",
+            "Insaporisci l'olio. In una casseruola capiente versa l'olio extravergine. Aggiungi gli spicchi d'aglio schiacciati e, se gradita, la cipolla tritata finemente. Fai appassire a fuoco dolce per alcuni minuti, senza far scurire l'aglio.",
+            "Cuoci il pomodoro. Aggiungi i pomodori, qualche foglia di basilico, sale e pepe. Mescola e lascia cuocere a fuoco medio-basso per circa 20–25 minuti, finché il pomodoro si sarà ammorbidito e il condimento risulterà profumato.",
+            "Aggiungi il pane. Unisci il pane alla casseruola e mescola per farlo impregnare del pomodoro. Versa gradualmente il brodo o l'acqua calda, iniziando con una parte della quantità prevista.",
+            "Fai addensare. Cuoci a fuoco basso per circa 15–20 minuti, mescolando spesso con un cucchiaio di legno. Il pane deve disfarsi progressivamente e amalgamarsi al pomodoro. Se la pappa diventa troppo compatta, aggiungi ancora poco brodo caldo.",
+            "Regola la consistenza. Quando il composto è omogeneo e morbido, spegni il fuoco. Elimina gli spicchi d'aglio se preferisci un gusto più delicato. Aggiungi altre foglie di basilico spezzettate a mano.",
+            "Lascia riposare. Copri la casseruola e lascia riposare per almeno 10–15 minuti. Il pane continuerà ad assorbire il liquido e la pappa raggiungerà la sua consistenza caratteristica.",
+            "Servi. Puoi servirla calda, tiepida o a temperatura ambiente. Completa ogni porzione con olio extravergine d'oliva a crudo, pepe e qualche foglia di basilico fresco."
+          ],
+          "en": [
+            "Prepare the bread. Cut the stale bread into slices or cubes. If it is very hard, you can leave it for a few minutes in a bowl with a little lukewarm water or stock, without soaking it too much.",
+            "Prepare the tomatoes. If you use fresh tomatoes, score them lightly and blanch them for about a minute. Cool them in cold water, remove the skin and cut them into pieces. If you use peeled tomatoes or pulp, you can go straight to cooking.",
+            "Flavour the oil. Pour the extra virgin olive oil into a large saucepan. Add the crushed garlic cloves and, if you like, the finely chopped onion. Let them soften over gentle heat for a few minutes, without letting the garlic darken.",
+            "Cook the tomatoes. Add the tomatoes, a few basil leaves, salt and pepper. Stir and cook over medium-low heat for about 20–25 minutes, until the tomato has softened and the sauce is fragrant.",
+            "Add the bread. Add the bread to the saucepan and stir so that it soaks up the tomato. Gradually pour in the stock or hot water, starting with part of the amount.",
+            "Let it thicken. Cook over low heat for about 15–20 minutes, stirring often with a wooden spoon. The bread should gradually break down and blend with the tomato. If the pappa becomes too compact, add a little more hot stock.",
+            "Adjust the consistency. When the mixture is smooth and soft, turn off the heat. Remove the garlic cloves if you prefer a milder taste. Add more basil leaves, torn by hand.",
+            "Let it rest. Cover the saucepan and leave it to rest for at least 10–15 minutes. The bread will keep absorbing the liquid and the pappa will reach its characteristic consistency.",
+            "Serve. You can serve it hot, lukewarm or at room temperature. Finish each portion with raw extra virgin olive oil, pepper and a few fresh basil leaves."
+          ],
+          "fr": [
+            "Prépare le pain. Coupe le pain rassis en tranches ou en dés. S'il est très dur, tu peux le laisser quelques minutes dans un saladier avec un peu d'eau ou de bouillon tiède, sans le tremper à l'excès.",
+            "Prépare la tomate. Si tu utilises des tomates fraîches, incise-les légèrement et ébouillante-les environ une minute. Refroidis-les à l'eau froide, retire la peau et coupe-les en morceaux. Si tu utilises des tomates pelées ou de la pulpe, tu peux passer directement à la cuisson.",
+            "Parfume l'huile. Verse l'huile d'olive extra vierge dans une grande casserole. Ajoute les gousses d'ail écrasées et, si tu le souhaites, l'oignon haché finement. Fais-les fondre à feu doux quelques minutes, sans laisser l'ail brunir.",
+            "Cuis la tomate. Ajoute les tomates, quelques feuilles de basilic, du sel et du poivre. Remue et laisse cuire à feu moyen-doux environ 20 à 25 minutes, jusqu'à ce que la tomate soit tendre et la sauce parfumée.",
+            "Ajoute le pain. Ajoute le pain dans la casserole et remue pour qu'il s'imprègne de tomate. Verse progressivement le bouillon ou l'eau chaude, en commençant par une partie de la quantité prévue.",
+            "Fais épaissir. Cuis à feu doux environ 15 à 20 minutes, en remuant souvent avec une cuillère en bois. Le pain doit se défaire progressivement et se mêler à la tomate. Si la pappa devient trop compacte, ajoute encore un peu de bouillon chaud.",
+            "Règle la consistance. Quand le mélange est homogène et moelleux, éteins le feu. Retire les gousses d'ail si tu préfères un goût plus délicat. Ajoute d'autres feuilles de basilic déchirées à la main.",
+            "Laisse reposer. Couvre la casserole et laisse reposer au moins 10 à 15 minutes. Le pain continuera d'absorber le liquide et la pappa atteindra sa consistance caractéristique.",
+            "Sers. Tu peux la servir chaude, tiède ou à température ambiante. Termine chaque portion avec un filet d'huile d'olive extra vierge crue, du poivre et quelques feuilles de basilic frais."
+          ],
+          "de": [
+            "Brot vorbereiten. Das altbackene Brot in Scheiben oder Würfel schneiden. Ist es sehr hart, können Sie es einige Minuten in einer Schüssel mit wenig lauwarmem Wasser oder Brühe liegen lassen, ohne es zu stark zu durchtränken.",
+            "Tomaten vorbereiten. Bei frischen Tomaten leicht einritzen und etwa eine Minute blanchieren. In kaltem Wasser abkühlen, die Haut entfernen und in Stücke schneiden. Bei geschälten Tomaten oder Tomatenfruchtfleisch können Sie direkt mit dem Garen beginnen.",
+            "Öl aromatisieren. Das native Olivenöl extra in einen großen Topf geben. Die zerdrückten Knoblauchzehen und nach Belieben die fein gehackte Zwiebel zufügen. Einige Minuten bei sanfter Hitze anschwitzen, ohne dass der Knoblauch dunkel wird.",
+            "Tomaten garen. Tomaten, einige Basilikumblätter, Salz und Pfeffer zugeben. Umrühren und bei mittlerer bis niedriger Hitze etwa 20–25 Minuten garen, bis die Tomate weich und die Sauce aromatisch ist.",
+            "Brot zugeben. Das Brot in den Topf geben und umrühren, damit es die Tomate aufsaugt. Nach und nach Brühe oder heißes Wasser zugießen, zunächst nur einen Teil der vorgesehenen Menge.",
+            "Eindicken lassen. Bei niedriger Hitze etwa 15–20 Minuten garen und dabei oft mit einem Holzlöffel umrühren. Das Brot soll sich nach und nach auflösen und sich mit der Tomate verbinden. Wird die Pappa zu kompakt, noch etwas heiße Brühe zugeben.",
+            "Konsistenz einstellen. Wenn die Masse gleichmäßig und weich ist, den Herd ausschalten. Die Knoblauchzehen entfernen, wenn Sie einen milderen Geschmack bevorzugen. Weitere von Hand gezupfte Basilikumblätter zugeben.",
+            "Ruhen lassen. Den Topf abdecken und mindestens 10–15 Minuten ruhen lassen. Das Brot nimmt weiter Flüssigkeit auf, und die Pappa erreicht ihre typische Konsistenz.",
+            "Servieren. Sie können sie heiß, lauwarm oder bei Raumtemperatur servieren. Jede Portion mit rohem nativem Olivenöl extra, Pfeffer und einigen frischen Basilikumblättern abrunden."
+          ],
+          "es": [
+            "Prepara el pan. Corta el pan duro en rebanadas o en dados. Si está muy duro, puedes dejarlo unos minutos en un cuenco con un poco de agua o caldo templado, sin empaparlo en exceso.",
+            "Prepara el tomate. Si usas tomates frescos, hazles un corte ligero y escáldalos aproximadamente un minuto. Enfríalos en agua fría, quita la piel y córtalos en trozos. Si usas tomates pelados o pulpa, puedes pasar directamente a la cocción.",
+            "Aromatiza el aceite. Vierte el aceite de oliva virgen extra en una cazuela grande. Añade los dientes de ajo machacados y, si te gusta, la cebolla picada finamente. Deja que se ablanden a fuego suave unos minutos, sin que el ajo se oscurezca.",
+            "Cuece el tomate. Añade los tomates, unas hojas de albahaca, sal y pimienta. Remueve y cuece a fuego medio-bajo unos 20–25 minutos, hasta que el tomate esté tierno y el aliño resulte aromático.",
+            "Añade el pan. Incorpora el pan a la cazuela y remueve para que se impregne del tomate. Vierte poco a poco el caldo o el agua caliente, empezando por una parte de la cantidad prevista.",
+            "Deja que espese. Cuece a fuego bajo unos 15–20 minutos, removiendo a menudo con una cuchara de madera. El pan debe deshacerse progresivamente y fundirse con el tomate. Si la pappa queda demasiado compacta, añade un poco más de caldo caliente.",
+            "Ajusta la consistencia. Cuando la mezcla sea homogénea y suave, apaga el fuego. Retira los dientes de ajo si prefieres un sabor más delicado. Añade más hojas de albahaca troceadas a mano.",
+            "Deja reposar. Tapa la cazuela y deja reposar al menos 10–15 minutos. El pan seguirá absorbiendo el líquido y la pappa alcanzará su consistencia característica.",
+            "Sirve. Puedes servirla caliente, templada o a temperatura ambiente. Termina cada ración con aceite de oliva virgen extra en crudo, pimienta y unas hojas de albahaca fresca."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bistecca-alla-fiorentina",
+      "nome": "Bistecca alla fiorentina",
+      "portata": "secondo",
+      "testo": {
+        "it": "La bistecca alla fiorentina è uno dei simboli gastronomici della città. Si ricava dalla lombata bovina e si riconosce per il caratteristico osso a T, che separa filetto e controfiletto. La carne viene tagliata spessa e cotta tradizionalmente sulla brace, senza marinature né condimenti elaborati.\n\nLa sua fama è legata alla cultura delle grandi grigliate e delle trattorie fiorentine. Non è corretto dire che debba provenire necessariamente da bovini di razza Chianina: questa è una delle possibilità, ma non l'unica. Contano soprattutto qualità della carne, frollatura, spessore e cottura. L'Accademia Italiana della Cucina descrive una preparazione essenziale, con brace molto calda e condimento finale.\n\nCuriosità: il nome richiama la tradizione fiorentina della bistecca alta con l'osso. La forma a T permette di riconoscere nello stesso taglio due parti pregiate: filetto e controfiletto.",
+        "en": "Bistecca alla fiorentina is one of the gastronomic symbols of the city. It comes from the beef loin and is recognised by its characteristic T-bone, which separates the fillet from the sirloin. The meat is cut thick and traditionally cooked over embers, without marinades or elaborate seasoning.\n\nIts fame is tied to the culture of great grills and Florentine trattorias. It is not correct to say that it must come from Chianina cattle: that is one possibility, but not the only one. What matters most is the quality of the meat, ageing, thickness and cooking. The Accademia Italiana della Cucina describes an essential preparation, with very hot embers and seasoning at the end.\n\nDid you know? The name recalls the Florentine tradition of the thick, bone-in steak. The T shape lets you recognise two prized cuts in the same piece: fillet and sirloin.",
+        "fr": "La bistecca alla fiorentina est l'un des symboles gastronomiques de la ville. Elle est taillée dans la longe de bœuf et se reconnaît à son os en T caractéristique, qui sépare le filet du contre-filet. La viande est coupée épaisse et cuite traditionnellement sur la braise, sans marinade ni assaisonnement élaboré.\n\nSa renommée est liée à la culture des grands grillades et des trattorias florentines. Il n'est pas exact de dire qu'elle doit nécessairement provenir de bovins de race Chianina : c'est une possibilité, mais pas la seule. Comptent surtout la qualité de la viande, la maturation, l'épaisseur et la cuisson. L'Accademia Italiana della Cucina décrit une préparation essentielle, avec une braise très chaude et un assaisonnement final.\n\nLe saviez-vous ? Le nom rappelle la tradition florentine du steak épais avec l'os. La forme en T permet de reconnaître dans la même pièce deux morceaux prisés : le filet et le contre-filet.",
+        "de": "Die Bistecca alla fiorentina ist eines der kulinarischen Wahrzeichen der Stadt. Sie stammt aus dem Rinderrücken und ist an dem charakteristischen T-Knochen zu erkennen, der Filet und Roastbeef trennt. Das Fleisch wird dick geschnitten und traditionell über Glut gegrillt, ohne Marinaden und aufwendige Würzung.\n\nIhr Ruf ist mit der Kultur der großen Grillgerichte und der florentinischen Trattorien verbunden. Es ist nicht richtig zu sagen, dass sie zwingend von Chianina-Rindern stammen muss: Das ist eine Möglichkeit, aber nicht die einzige. Entscheidend sind vor allem Fleischqualität, Reifung, Dicke und Garung. Die Accademia Italiana della Cucina beschreibt eine schlichte Zubereitung mit sehr heißer Glut und Würzung erst am Ende.\n\nWussten Sie schon? Der Name erinnert an die florentinische Tradition des dicken Steaks am Knochen. Die T-Form erlaubt es, im selben Stück zwei edle Teile zu erkennen: Filet und Roastbeef.",
+        "es": "La bistecca alla fiorentina es uno de los símbolos gastronómicos de la ciudad. Se obtiene del lomo de vaca y se reconoce por su característico hueso en T, que separa el solomillo del lomo alto. La carne se corta gruesa y se cocina tradicionalmente sobre brasas, sin marinados ni aliños elaborados.\n\nSu fama está ligada a la cultura de las grandes parrilladas y de las trattorias florentinas. No es correcto decir que deba proceder necesariamente de vacas de raza Chianina: es una posibilidad, pero no la única. Cuentan sobre todo la calidad de la carne, la maduración, el grosor y la cocción. La Accademia Italiana della Cucina describe una preparación esencial, con brasas muy calientes y aliño al final.\n\nCuriosidad: el nombre evoca la tradición florentina del filete alto con hueso. La forma de T permite reconocer en el mismo corte dos piezas apreciadas: solomillo y lomo alto."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "10–15 min + 12–20 min di cottura + 5–10 min di riposo",
+          "en": "10–15 min + 12–20 min cooking + 5–10 min resting",
+          "fr": "10–15 min + 12–20 min de cuisson + 5–10 min de repos",
+          "de": "10–15 Min. + 12–20 Min. Garzeit + 5–10 Min. Ruhezeit",
+          "es": "10–15 min + 12–20 min de cocción + 5–10 min de reposo"
+        },
+        "ingredienti": {
+          "it": [
+            "1 bistecca con osso a T da circa 1,2–1,5 kg, spessa 4–5 cm",
+            "Sale grosso o sale fino q.b.",
+            "Pepe nero macinato al momento",
+            "Facoltativo: un filo d'olio extravergine d'oliva per il servizio"
+          ],
+          "en": [
+            "1 T-bone steak of about 1.2–1.5 kg, 4–5 cm thick",
+            "Coarse or fine salt as needed",
+            "Freshly ground black pepper",
+            "Optional: a drizzle of extra virgin olive oil for serving"
+          ],
+          "fr": [
+            "1 steak avec os en T d'environ 1,2–1,5 kg, épais de 4–5 cm",
+            "Gros sel ou sel fin selon besoin",
+            "Poivre noir moulu au moment",
+            "Facultatif : un filet d'huile d'olive extra vierge pour servir"
+          ],
+          "de": [
+            "1 T-Bone-Steak mit etwa 1,2–1,5 kg, 4–5 cm dick",
+            "Grobes oder feines Salz nach Bedarf",
+            "Frisch gemahlener schwarzer Pfeffer",
+            "Nach Belieben: ein Schuss natives Olivenöl extra zum Servieren"
+          ],
+          "es": [
+            "1 chuletón con hueso en T de unos 1,2–1,5 kg, de 4–5 cm de grosor",
+            "Sal gruesa o sal fina al gusto",
+            "Pimienta negra molida en el momento",
+            "Opcional: un chorrito de aceite de oliva virgen extra para servir"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Scegli e prepara la carne. Chiedi al macellaio una bistecca di lombata con filetto e controfiletto, tagliata alta. Se è confezionata sottovuoto, aprila secondo le indicazioni del produttore e lasciala riposare brevemente in frigorifero, se necessario, per eliminare l'umidità superficiale. Prima della cottura, asciugala con carta da cucina. Non occorre marinarla.",
+            "Prepara la brace. Accendi il carbone o la legna e attendi che si formi una brace abbondante, molto calda e senza fiamme vive. La griglia deve essere pulita e ben riscaldata.",
+            "Cuoci il primo lato. Appoggia la bistecca sulla griglia rovente. Lasciala cuocere senza spostarla, finché la superficie non presenta una crosta ben formata. Il tempo varia in base allo spessore, alla temperatura della brace e alla distanza dalla griglia.",
+            "Gira la bistecca. Voltala con una pinza o una paletta, evitando di bucarla. Cuoci anche il secondo lato. Puoi poi metterla brevemente in piedi sull'osso, per scaldare la parte centrale e completare la cottura vicino all'osso.",
+            "Controlla la cottura. La versione tradizionale è servita al sangue, ma il risultato dipende da spessore e temperatura effettiva della carne. Se vuoi controllare il grado di cottura, usa un termometro alimentare inserito nella parte più spessa, lontano dall'osso. Per le persone più vulnerabili alle infezioni alimentari è prudente scegliere una cottura completa.",
+            "Fai riposare. Togli la bistecca dalla griglia e lasciala riposare alcuni minuti su un tagliere caldo, senza coprirla ermeticamente. In questo modo i succhi si ridistribuiscono.",
+            "Condisci e servi. Sala e pepa a piacere, taglia la carne a fette spesse e portala in tavola subito. La tradizione privilegia un condimento essenziale: niente salse elaborate e, se gradito, soltanto un filo d'olio a crudo."
+          ],
+          "en": [
+            "Choose and prepare the meat. Ask the butcher for a loin steak with fillet and sirloin, cut thick. If it is vacuum-packed, open it following the producer's instructions and, if necessary, let it rest briefly in the refrigerator to remove surface moisture. Before cooking, pat it dry with kitchen paper. There is no need to marinate it.",
+            "Prepare the embers. Light the charcoal or wood and wait for plenty of very hot embers to form, with no live flames. The grill must be clean and well heated.",
+            "Cook the first side. Place the steak on the scorching grill. Let it cook without moving it until the surface has a well-formed crust. The time varies with the thickness, the temperature of the embers and the distance from the grill.",
+            "Turn the steak. Turn it with tongs or a spatula, avoiding piercing it. Cook the second side as well. You can then stand it briefly on its bone, to heat the centre and finish cooking near the bone.",
+            "Check the doneness. The traditional version is served rare, but the result depends on the thickness and the actual temperature of the meat. If you want to check the degree of cooking, use a food thermometer inserted in the thickest part, away from the bone. For people more vulnerable to foodborne infections it is wise to choose full cooking.",
+            "Let it rest. Take the steak off the grill and let it rest for a few minutes on a warm board, without covering it tightly. This lets the juices redistribute.",
+            "Season and serve. Salt and pepper to taste, cut the meat into thick slices and bring it to the table at once. Tradition favours simple seasoning: no elaborate sauces and, if you like, only a drizzle of raw olive oil."
+          ],
+          "fr": [
+            "Choisis et prépare la viande. Demande au boucher un steak de longe avec filet et contre-filet, coupé épais. S'il est sous vide, ouvre-le selon les indications du producteur et laisse-le reposer brièvement au réfrigérateur, si nécessaire, pour éliminer l'humidité de surface. Avant la cuisson, sèche-le avec du papier absorbant. Il n'est pas nécessaire de le mariner.",
+            "Prépare la braise. Allume le charbon ou le bois et attends qu'une braise abondante, très chaude et sans flammes vives se forme. La grille doit être propre et bien chauffée.",
+            "Cuis le premier côté. Pose le steak sur la grille brûlante. Laisse-le cuire sans le déplacer jusqu'à ce que la surface présente une croûte bien formée. Le temps varie selon l'épaisseur, la température de la braise et la distance de la grille.",
+            "Retourne le steak. Retourne-le avec une pince ou une spatule, en évitant de le percer. Cuis aussi le second côté. Tu peux ensuite le poser brièvement debout sur l'os, pour chauffer la partie centrale et terminer la cuisson près de l'os.",
+            "Contrôle la cuisson. La version traditionnelle est servie saignante, mais le résultat dépend de l'épaisseur et de la température réelle de la viande. Si tu veux contrôler le degré de cuisson, utilise un thermomètre alimentaire planté dans la partie la plus épaisse, loin de l'os. Pour les personnes plus vulnérables aux infections alimentaires, il est prudent de choisir une cuisson complète.",
+            "Laisse reposer. Retire le steak de la grille et laisse-le reposer quelques minutes sur une planche chaude, sans le couvrir hermétiquement. Ainsi les jus se redistribuent.",
+            "Assaisonne et sers. Sale et poivre à ton goût, coupe la viande en tranches épaisses et apporte-la aussitôt à table. La tradition privilégie un assaisonnement simple : pas de sauces élaborées et, si tu le souhaites, seulement un filet d'huile crue."
+          ],
+          "de": [
+            "Fleisch auswählen und vorbereiten. Bitten Sie den Metzger um ein Rückensteak mit Filet und Roastbeef, dick geschnitten. Ist es vakuumverpackt, öffnen Sie es nach den Angaben des Herstellers und lassen Sie es bei Bedarf kurz im Kühlschrank ruhen, damit die Oberflächenfeuchtigkeit verschwindet. Vor dem Garen mit Küchenpapier trocken tupfen. Marinieren ist nicht nötig.",
+            "Glut vorbereiten. Holzkohle oder Holz anzünden und warten, bis sich reichlich sehr heiße Glut ohne offene Flammen gebildet hat. Der Rost muss sauber und gut vorgeheizt sein.",
+            "Erste Seite garen. Das Steak auf den glühend heißen Rost legen. Ohne es zu bewegen garen, bis die Oberfläche eine gut ausgebildete Kruste hat. Die Zeit hängt von der Dicke, der Glutwärme und dem Abstand zum Rost ab.",
+            "Steak wenden. Mit einer Zange oder einem Wender umdrehen, ohne es einzustechen. Auch die zweite Seite garen. Danach kann es kurz hochkant auf den Knochen gestellt werden, um die Mitte zu erwärmen und die Garung am Knochen zu vollenden.",
+            "Garstufe prüfen. Die traditionelle Version wird blutig serviert, doch das Ergebnis hängt von Dicke und tatsächlicher Temperatur des Fleisches ab. Wenn Sie die Garstufe kontrollieren möchten, verwenden Sie ein Fleischthermometer im dicksten Teil, fern vom Knochen. Für Personen, die anfälliger für Lebensmittelinfektionen sind, ist vollständiges Durchgaren ratsam.",
+            "Ruhen lassen. Das Steak vom Rost nehmen und einige Minuten auf einem warmen Brett ruhen lassen, ohne es luftdicht abzudecken. So verteilen sich die Säfte.",
+            "Würzen und servieren. Nach Geschmack salzen und pfeffern, das Fleisch in dicke Scheiben schneiden und sofort auftragen. Die Tradition bevorzugt eine schlichte Würzung: keine aufwendigen Saucen und, wenn gewünscht, nur ein Schuss rohes Olivenöl."
+          ],
+          "es": [
+            "Elige y prepara la carne. Pide al carnicero un chuletón de lomo con solomillo y lomo alto, cortado grueso. Si está envasado al vacío, ábrelo según las indicaciones del productor y déjalo reposar brevemente en la nevera, si hace falta, para eliminar la humedad superficial. Antes de la cocción, sécalo con papel de cocina. No hace falta marinarlo.",
+            "Prepara las brasas. Enciende el carbón o la leña y espera a que se forme una brasa abundante, muy caliente y sin llamas vivas. La parrilla debe estar limpia y bien caliente.",
+            "Cuece el primer lado. Coloca el chuletón sobre la parrilla al rojo. Déjalo cocer sin moverlo hasta que la superficie presente una costra bien formada. El tiempo varía según el grosor, la temperatura de las brasas y la distancia de la parrilla.",
+            "Dale la vuelta. Gíralo con unas pinzas o una espátula, evitando pincharlo. Cuece también el segundo lado. Después puedes ponerlo brevemente de pie sobre el hueso, para calentar la parte central y terminar la cocción junto al hueso.",
+            "Controla la cocción. La versión tradicional se sirve poco hecha, pero el resultado depende del grosor y de la temperatura real de la carne. Si quieres controlar el punto de cocción, usa un termómetro de cocina introducido en la parte más gruesa, lejos del hueso. Para las personas más vulnerables a las infecciones alimentarias es prudente elegir una cocción completa.",
+            "Deja reposar. Retira el chuletón de la parrilla y déjalo reposar unos minutos sobre una tabla caliente, sin cubrirlo herméticamente. Así los jugos se redistribuyen.",
+            "Sazona y sirve. Sala y pimienta al gusto, corta la carne en lonchas gruesas y llévala a la mesa enseguida. La tradición prefiere un aliño esencial: nada de salsas elaboradas y, si te gusta, solo un chorrito de aceite en crudo."
+          ]
+        }
+      }
+    },
+    {
+      "id": "panino-al-lampredotto",
+      "nome": "Panino al lampredotto",
+      "portata": "secondo",
+      "testo": {
+        "it": "Il lampredotto è uno dei cibi di strada più caratteristici di Firenze. Si prepara con una delle parti dello stomaco del bovino, l'abomaso, che viene cotta lentamente in un brodo aromatico. Il nome è probabilmente legato alla somiglianza, nell'aspetto, con la lampreda, un pesce un tempo diffuso e apprezzato.\n\nLa sua storia è legata alla cucina popolare e alla necessità di utilizzare anche le parti meno nobili dell'animale. Ancora oggi si trova nei chioschi dei lampredottai, dove viene servito soprattutto dentro un panino, spesso con salsa verde e salsa piccante. La preparazione è documentata anche nel ricettario pubblicato da Feel Florence.\n\nCuriosità: il panino può essere richiesto «bagnato», quando la parte superiore viene immersa nel brodo, oppure con una maggiore quantità di salsa. Il lampredotto può essere gustato anche nel piatto, condito con olio, sale e pepe.\n\nNota di sicurezza alimentare: acquista il lampredotto già pulito da un macellaio o rivenditore affidabile, conservalo refrigerato e cuocilo completamente. Non assaggiare il prodotto crudo e non lasciare a lungo a temperatura ambiente quello già cotto.",
+        "en": "Lampredotto is one of the most characteristic street foods of Florence. It is made from one of the parts of the beef stomach, the abomasum, slowly cooked in an aromatic broth. The name is probably linked to its resemblance in appearance to the lamprey, a fish once common and prized.\n\nIts history is tied to popular cooking and the need to use the less noble parts of the animal as well. Even today it is found at the kiosks of the lampredottai, where it is served above all inside a bread roll, often with salsa verde and hot sauce. The preparation is also documented in the recipe book published by Feel Florence.\n\nDid you know? The sandwich can be ordered “bagnato”, when the top half of the roll is dipped in the broth, or with a larger amount of sauce. Lampredotto can also be enjoyed on a plate, dressed with oil, salt and pepper.\n\nFood safety note: buy the lampredotto already cleaned from a reliable butcher or retailer, keep it refrigerated and cook it thoroughly. Do not taste the raw product and do not leave the cooked product at room temperature for long.",
+        "fr": "Le lampredotto est l'un des plats de rue les plus caractéristiques de Florence. Il se prépare avec l'une des parties de l'estomac du bœuf, la caillette, cuite lentement dans un bouillon aromatique. Le nom est probablement lié à sa ressemblance d'aspect avec la lamproie, un poisson autrefois répandu et apprécié.\n\nSon histoire est liée à la cuisine populaire et à la nécessité d'utiliser aussi les parties les moins nobles de l'animal. Aujourd'hui encore, on le trouve dans les kiosques des lampredottai, où il est servi surtout dans un petit pain, souvent avec de la salsa verde et de la sauce piquante. La préparation est aussi documentée dans le livre de recettes publié par Feel Florence.\n\nLe saviez-vous ? Le sandwich peut être demandé « bagnato », quand la partie supérieure du pain est trempée dans le bouillon, ou avec une plus grande quantité de sauce. Le lampredotto peut aussi se déguster dans une assiette, assaisonné d'huile, de sel et de poivre.\n\nNote de sécurité alimentaire : achète le lampredotto déjà nettoyé chez un boucher ou un revendeur fiable, conserve-le au réfrigérateur et cuis-le complètement. Ne goûte pas le produit cru et ne laisse pas longtemps à température ambiante celui qui est déjà cuit.",
+        "de": "Das Lampredotto gehört zu den typischsten Straßengerichten von Florenz. Es wird aus einem Teil des Rindermagens, dem Labmagen, zubereitet, der langsam in einer aromatischen Brühe gegart wird. Der Name hängt wahrscheinlich mit der äußeren Ähnlichkeit zur Neunauge (italienisch „lampreda“) zusammen, einem früher verbreiteten und geschätzten Fisch.\n\nSeine Geschichte ist mit der Volksküche und der Notwendigkeit verbunden, auch die weniger edlen Teile des Tieres zu verwerten. Noch heute findet man es an den Ständen der Lampredottai, wo es vor allem in einem Brötchen serviert wird, oft mit Salsa verde und scharfer Sauce. Die Zubereitung ist auch im von Feel Florence veröffentlichten Rezeptbuch dokumentiert.\n\nWussten Sie schon? Das Brötchen kann „bagnato“ bestellt werden, wenn die obere Hälfte in die Brühe getaucht wird, oder mit mehr Sauce. Das Lampredotto lässt sich auch auf dem Teller genießen, mit Öl, Salz und Pfeffer angemacht.\n\nHinweis zur Lebensmittelsicherheit: Kaufen Sie das Lampredotto bereits gesäubert bei einem zuverlässigen Metzger oder Händler, lagern Sie es gekühlt und garen Sie es vollständig. Probieren Sie das Produkt nicht roh und lassen Sie bereits Gegartes nicht lange bei Raumtemperatur stehen.",
+        "es": "El lampredotto es una de las comidas callejeras más características de Florencia. Se prepara con una de las partes del estómago de la vaca, el abomaso, cocida lentamente en un caldo aromático. El nombre se relaciona probablemente con su parecido de aspecto con la lamprea, un pez antes abundante y apreciado.\n\nSu historia está ligada a la cocina popular y a la necesidad de aprovechar también las partes menos nobles del animal. Aún hoy se encuentra en los puestos de los lampredottai, donde se sirve sobre todo dentro de un bocadillo, a menudo con salsa verde y salsa picante. La preparación está documentada también en el recetario publicado por Feel Florence.\n\nCuriosidad: el bocadillo puede pedirse «bagnato», cuando la parte superior se moja en el caldo, o con mayor cantidad de salsa. El lampredotto puede disfrutarse también en plato, aliñado con aceite, sal y pimienta.\n\nNota de seguridad alimentaria: compra el lampredotto ya limpio en un carnicero o minorista de confianza, consérvalo refrigerado y cuécelo por completo. No pruebes el producto crudo y no dejes mucho tiempo a temperatura ambiente el que ya está cocinado."
+      },
+      "ricetta": {
+        "porzioni": 4,
+        "preparazione": {
+          "it": "20 min + 2–3 ore di cottura (10 min per la salsa)",
+          "en": "20 min + 2–3 hours cooking (10 min for the sauce)",
+          "fr": "20 min + 2 à 3 h de cuisson (10 min pour la sauce)",
+          "de": "20 Min. + 2–3 Std. Garzeit (10 Min. für die Sauce)",
+          "es": "20 min + 2–3 horas de cocción (10 min para la salsa)"
+        },
+        "ingredienti": {
+          "it": [
+            "Per il lampredotto: 1 kg di lampredotto pulito",
+            "1 carota",
+            "1 costa di sedano",
+            "1 cipolla",
+            "1 osso di manzo, facoltativo",
+            "150 g di passata di pomodoro",
+            "1 foglia di alloro",
+            "Sale q.b.",
+            "Acqua fredda q.b.",
+            "Per la salsa verde: 1 mazzetto abbondante di prezzemolo",
+            "1 cucchiaio di capperi dissalati",
+            "2 filetti di acciuga sott'olio",
+            "1 piccolo spicchio d'aglio",
+            "1 fetta di pane",
+            "2 cucchiai di aceto",
+            "Olio extravergine d'oliva q.b.",
+            "Per servire: 4 panini tipo semelle o rosette",
+            "Salsa piccante, facoltativa"
+          ],
+          "en": [
+            "For the lampredotto: 1 kg cleaned lampredotto",
+            "1 carrot",
+            "1 celery stalk",
+            "1 onion",
+            "1 beef bone, optional",
+            "150 g tomato passata",
+            "1 bay leaf",
+            "Salt as needed",
+            "Cold water as needed",
+            "For the salsa verde: 1 generous bunch of parsley",
+            "1 tablespoon desalted capers",
+            "2 anchovy fillets in oil",
+            "1 small garlic clove",
+            "1 slice of bread",
+            "2 tablespoons vinegar",
+            "Extra virgin olive oil as needed",
+            "To serve: 4 bread rolls such as semelle or rosette",
+            "Hot sauce, optional"
+          ],
+          "fr": [
+            "Pour le lampredotto : 1 kg de lampredotto nettoyé",
+            "1 carotte",
+            "1 branche de céleri",
+            "1 oignon",
+            "1 os de bœuf, facultatif",
+            "150 g de purée de tomate",
+            "1 feuille de laurier",
+            "Sel selon besoin",
+            "Eau froide selon besoin",
+            "Pour la salsa verde : 1 gros bouquet de persil",
+            "1 cuillère à soupe de câpres dessalées",
+            "2 filets d'anchois à l'huile",
+            "1 petite gousse d'ail",
+            "1 tranche de pain",
+            "2 cuillères à soupe de vinaigre",
+            "Huile d'olive extra vierge selon besoin",
+            "Pour servir : 4 petits pains de type semelle ou rosette",
+            "Sauce piquante, facultative"
+          ],
+          "de": [
+            "Für das Lampredotto: 1 kg gesäubertes Lampredotto",
+            "1 Karotte",
+            "1 Stange Sellerie",
+            "1 Zwiebel",
+            "1 Rinderknochen, nach Belieben",
+            "150 g Tomatenpassata",
+            "1 Lorbeerblatt",
+            "Salz nach Bedarf",
+            "Kaltes Wasser nach Bedarf",
+            "Für die Salsa verde: 1 großes Bund Petersilie",
+            "1 Esslöffel entsalzene Kapern",
+            "2 Sardellenfilets in Öl",
+            "1 kleine Knoblauchzehe",
+            "1 Scheibe Brot",
+            "2 Esslöffel Essig",
+            "Natives Olivenöl extra nach Bedarf",
+            "Zum Servieren: 4 Brötchen wie Semelle oder Rosette",
+            "Scharfe Sauce, nach Belieben"
+          ],
+          "es": [
+            "Para el lampredotto: 1 kg de lampredotto limpio",
+            "1 zanahoria",
+            "1 rama de apio",
+            "1 cebolla",
+            "1 hueso de ternera, opcional",
+            "150 g de tomate triturado",
+            "1 hoja de laurel",
+            "Sal al gusto",
+            "Agua fría al gusto",
+            "Para la salsa verde: 1 manojo generoso de perejil",
+            "1 cucharada de alcaparras desaladas",
+            "2 filetes de anchoa en aceite",
+            "1 diente de ajo pequeño",
+            "1 rebanada de pan",
+            "2 cucharadas de vinagre",
+            "Aceite de oliva virgen extra al gusto",
+            "Para servir: 4 panecillos tipo semelle o rosette",
+            "Salsa picante, opcional"
+          ]
+        },
+        "passaggi": {
+          "it": [
+            "Prepara gli ingredienti. Sciacqua il lampredotto sotto acqua corrente fredda. Pela la carota, pulisci il sedano e sbuccia la cipolla. Taglia le verdure grossolanamente.",
+            "Prepara il brodo. Metti in una pentola capiente il lampredotto, le verdure, l'osso di manzo se lo utilizzi, l'alloro e la passata di pomodoro. Copri con acqua fredda e aggiungi il sale.",
+            "Cuoci lentamente. Porta a ebollizione, poi abbassa la fiamma e lascia sobbollire dolcemente per circa 2–3 ore. Il tempo dipende dalla dimensione e dalla consistenza del taglio: il lampredotto deve diventare tenero e ben cotto. Se necessario, aggiungi acqua calda durante la cottura per mantenerlo coperto.",
+            "Prepara la salsa verde. Ammolla la fetta di pane nell'aceto e strizzala. Trita finemente prezzemolo, capperi, acciughe e aglio. Unisci il pane e incorpora olio extravergine fino a ottenere una salsa morbida e omogenea. Assaggia prima di aggiungere sale: capperi e acciughe sono già sapidi.",
+            "Taglia il lampredotto. Quando è tenero, estrailo dal brodo e taglialo a striscioline o a pezzetti. Puoi conservarlo nel brodo caldo fino al momento di servirlo, così non si asciuga.",
+            "Prepara i panini. Dividi i panini a metà. Se vuoi seguire la consuetudine fiorentina, intingi leggermente la parte superiore nel brodo caldo: è il cosiddetto bagnato.",
+            "Farcisci. Distribuisci abbondante lampredotto nella parte inferiore del panino, aggiungi la salsa verde e, se gradisci, qualche goccia di salsa piccante. Chiudi e servi immediatamente."
+          ],
+          "en": [
+            "Prepare the ingredients. Rinse the lampredotto under cold running water. Peel the carrot, clean the celery and peel the onion. Cut the vegetables roughly.",
+            "Prepare the broth. Put the lampredotto, the vegetables, the beef bone if you use it, the bay leaf and the tomato passata in a large pot. Cover with cold water and add salt.",
+            "Cook slowly. Bring to the boil, then lower the heat and simmer gently for about 2–3 hours. The time depends on the size and texture of the cut: the lampredotto must become tender and well cooked. If needed, add hot water during cooking to keep it covered.",
+            "Prepare the salsa verde. Soak the slice of bread in the vinegar and squeeze it out. Finely chop the parsley, capers, anchovies and garlic. Add the bread and work in extra virgin olive oil until you have a soft, smooth sauce. Taste before adding salt: capers and anchovies are already salty.",
+            "Cut the lampredotto. When tender, take it out of the broth and cut it into strips or small pieces. You can keep it in the hot broth until serving, so it does not dry out.",
+            "Prepare the rolls. Split the rolls in half. To follow the Florentine custom, lightly dip the top half in the hot broth: this is the so-called “bagnato”.",
+            "Fill. Spread plenty of lampredotto on the bottom half of the roll, add the salsa verde and, if you like, a few drops of hot sauce. Close and serve immediately."
+          ],
+          "fr": [
+            "Prépare les ingrédients. Rince le lampredotto sous l'eau courante froide. Épluche la carotte, nettoie le céleri et épluche l'oignon. Coupe les légumes grossièrement.",
+            "Prépare le bouillon. Mets dans une grande marmite le lampredotto, les légumes, l'os de bœuf si tu l'utilises, le laurier et la purée de tomate. Couvre d'eau froide et ajoute le sel.",
+            "Cuis lentement. Porte à ébullition, puis baisse le feu et laisse mijoter doucement environ 2 à 3 heures. Le temps dépend de la taille et de la consistance du morceau : le lampredotto doit devenir tendre et bien cuit. Si nécessaire, ajoute de l'eau chaude pendant la cuisson pour qu'il reste couvert.",
+            "Prépare la salsa verde. Fais tremper la tranche de pain dans le vinaigre et presse-la. Hache finement le persil, les câpres, les anchois et l'ail. Ajoute le pain et incorpore de l'huile d'olive extra vierge jusqu'à obtenir une sauce souple et homogène. Goûte avant de saler : câpres et anchois sont déjà salés.",
+            "Coupe le lampredotto. Quand il est tendre, sors-le du bouillon et coupe-le en lanières ou en petits morceaux. Tu peux le garder dans le bouillon chaud jusqu'au moment de servir, pour qu'il ne se dessèche pas.",
+            "Prépare les petits pains. Coupe les petits pains en deux. Pour suivre la coutume florentine, trempe légèrement la partie supérieure dans le bouillon chaud : c'est le fameux « bagnato ».",
+            "Garnis. Répartis une bonne quantité de lampredotto sur la partie inférieure du pain, ajoute la salsa verde et, si tu le souhaites, quelques gouttes de sauce piquante. Ferme et sers immédiatement."
+          ],
+          "de": [
+            "Zutaten vorbereiten. Das Lampredotto unter fließendem kaltem Wasser abspülen. Karotte schälen, Sellerie putzen und Zwiebel schälen. Das Gemüse grob schneiden.",
+            "Brühe vorbereiten. Lampredotto, Gemüse, gegebenenfalls den Rinderknochen, Lorbeer und Tomatenpassata in einen großen Topf geben. Mit kaltem Wasser bedecken und Salz zufügen.",
+            "Langsam garen. Zum Kochen bringen, dann die Hitze reduzieren und etwa 2–3 Stunden sanft köcheln lassen. Die Zeit hängt von Größe und Beschaffenheit des Stücks ab: Das Lampredotto muss zart und gut gegart sein. Bei Bedarf während des Garens heißes Wasser nachgießen, damit es bedeckt bleibt.",
+            "Salsa verde zubereiten. Die Brotscheibe im Essig einweichen und ausdrücken. Petersilie, Kapern, Sardellen und Knoblauch fein hacken. Das Brot zugeben und so viel natives Olivenöl extra unterarbeiten, bis eine weiche, gleichmäßige Sauce entsteht. Vor dem Salzen abschmecken: Kapern und Sardellen sind bereits salzig.",
+            "Lampredotto schneiden. Wenn es zart ist, aus der Brühe nehmen und in Streifen oder kleine Stücke schneiden. Bis zum Servieren kann es in der heißen Brühe bleiben, damit es nicht austrocknet.",
+            "Brötchen vorbereiten. Die Brötchen halbieren. Nach florentinischem Brauch die obere Hälfte leicht in die heiße Brühe tauchen: das ist das sogenannte „bagnato“.",
+            "Füllen. Reichlich Lampredotto auf die untere Brötchenhälfte geben, die Salsa verde und nach Belieben einige Tropfen scharfe Sauce zufügen. Schließen und sofort servieren."
+          ],
+          "es": [
+            "Prepara los ingredientes. Aclara el lampredotto bajo agua fría corriente. Pela la zanahoria, limpia el apio y pela la cebolla. Corta las verduras en trozos grandes.",
+            "Prepara el caldo. Pon en una olla grande el lampredotto, las verduras, el hueso de ternera si lo usas, el laurel y el tomate triturado. Cubre con agua fría y añade la sal.",
+            "Cuece lentamente. Lleva a ebullición, baja luego el fuego y deja hervir suavemente unas 2–3 horas. El tiempo depende del tamaño y de la consistencia del corte: el lampredotto debe quedar tierno y bien cocido. Si hace falta, añade agua caliente durante la cocción para mantenerlo cubierto.",
+            "Prepara la salsa verde. Remoja la rebanada de pan en el vinagre y escúrrela. Pica finamente el perejil, las alcaparras, las anchoas y el ajo. Añade el pan e incorpora aceite de oliva virgen extra hasta obtener una salsa suave y homogénea. Prueba antes de añadir sal: las alcaparras y las anchoas ya son saladas.",
+            "Corta el lampredotto. Cuando esté tierno, sácalo del caldo y córtalo en tiras o en trocitos. Puedes mantenerlo en el caldo caliente hasta el momento de servir, así no se seca.",
+            "Prepara los panecillos. Parte los panecillos por la mitad. Si quieres seguir la costumbre florentina, moja ligeramente la parte superior en el caldo caliente: es el llamado «bagnato».",
+            "Rellena. Reparte abundante lampredotto en la parte inferior del panecillo, añade la salsa verde y, si te gusta, unas gotas de salsa picante. Cierra y sirve de inmediato."
+          ]
+        }
+      }
+    }
+  ]
 }

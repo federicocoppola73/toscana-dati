@@ -1,5 +1,5 @@
 {
- "versione": "a8c84b0eacf6",
+ "versione": "48975efce081",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -6118,8 +6118,8 @@
   {
    "path": "dati/cibi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/cibi.json",
-   "sha256": "22c170becb880ebd5ce9cc1896bb01f46d007498580a8ff5f91e21d1d2136dae",
-   "byte": 61
+   "sha256": "2a90f8f0da56fb3c571a7ee71f1894d2f0af0270487fe4c41744f52dd5ff67ee",
+   "byte": 75718
   },
   {
    "path": "dati/citta.json",
@@ -6219,17 +6219,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "d6ee75c2cdcd",
-   "da": "2717c5edab89",
-   "data": "2026-11-26",
-   "luoghi_nuovi": [
-    "Chiesa di Santa Maria Maddalena de' Pazzi",
-    "Basilica di Santa Maria del Carmine",
-    "Badia Fiorentina"
-   ],
-   "byte": 1622847
-  },
   {
    "versione": "ed19de538fd5",
    "da": "d6ee75c2cdcd",
@@ -6446,6 +6435,13 @@
     "altro"
    ],
    "byte": 1838696
+  },
+  {
+   "versione": "48975efce081",
+   "da": "a8c84b0eacf6",
+   "data": "2026-11-26",
+   "cibi_nuovi": 4,
+   "byte": 75718
   }
  ]
 }
