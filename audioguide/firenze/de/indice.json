@@ -1,5 +1,5 @@
 {
- "versione": "5f64cd9a9d62",
+ "versione": "7843b9e8dd1a",
  "voce": "de-DE-Chirp3-HD-Kore",
  "luoghi": {
   "badia-fiorentina": {
@@ -44,6 +44,21 @@
      "secondi": 211,
      "sha256": "24ea439b4c0c1adb7a0dc6f9cb876b34b0da7cfb1c8d9b1a5c7f40993dba3da0",
      "testo": "c6cacde4ab171409"
+    }
+   ]
+  },
+  "basilica-di-san-marco": {
+   "byte": 1242476,
+   "secondi": 207,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-san-marco.mp3",
+     "byte": 1242476,
+     "secondi": 207,
+     "sha256": "95ed3b21f47d1776b3ed0a47326befd6b1bb2c87d3cb66801b59556fc41b3824",
+     "testo": "19504a803e1527a6"
     }
    ]
   },
@@ -332,6 +347,21 @@
      "secondi": 187,
      "sha256": "07b8c785c6684cd47cbac8627a472752a17b51a254b499aa61961d97e70179a4",
      "testo": "d6765af0ed160ed8"
+    }
+   ]
+  },
+  "chiostro-dello-scalzo": {
+   "byte": 985724,
+   "secondi": 164,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "chiostro-dello-scalzo.mp3",
+     "byte": 985724,
+     "secondi": 164,
+     "sha256": "92efde96dc56e594f9b66ce895244b67c3cfda0570642e3ffdf0cac5745eb6b5",
+     "testo": "c8384007e07e702e"
     }
    ]
   },
