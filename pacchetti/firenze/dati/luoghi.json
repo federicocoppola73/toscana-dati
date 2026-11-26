@@ -10176,7 +10176,29 @@
    "wikipedia": {
     "it": "Cimitero degli Inglesi (Firenze)",
     "en": "English Cemetery, Florence"
-   }
+   },
+   "immagine": {
+    "autore": "Txllxt TxllxT",
+    "licenza": "CC BY-SA 4.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Txllxt_TxllxT"
+   },
+   "galleria": [
+    {
+     "autore": "Cristina Maioglio",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Cristina_Maioglio"
+    },
+    {
+     "autore": "Lucarelli",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Lucarelli"
+    },
+    {
+     "autore": "Zafky",
+     "licenza": "CC BY-SA 4.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Zafky"
+    }
+   ]
   },
   {
    "id": "rifugio-digitale",

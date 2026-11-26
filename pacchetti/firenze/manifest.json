@@ -1,5 +1,5 @@
 {
- "versione": "bd6cedea8fce",
+ "versione": "b58d308d79c8",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -480,6 +480,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/chiesa-e-museo-di-orsanmichele_5.webp",
    "sha256": "3b66961996f1b7b131031fb276ae51996dd61b1ace529dfdc87c0c09ebcb619d",
    "byte": 249302
+  },
+  {
+   "path": "assets/luoghi/cimitero-degli-inglesi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cimitero-degli-inglesi.webp",
+   "sha256": "7b89d00fcd4633cbfa57de1323749bb486588de0fce6972039f1bea67085d0c0",
+   "byte": 151446
+  },
+  {
+   "path": "assets/luoghi/cimitero-degli-inglesi_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cimitero-degli-inglesi_2.webp",
+   "sha256": "19c1c72b3abf60476065e1f3f96ca8196cb52cea829b10a468435e3a0b1957a3",
+   "byte": 317030
+  },
+  {
+   "path": "assets/luoghi/cimitero-degli-inglesi_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cimitero-degli-inglesi_3.webp",
+   "sha256": "2bd7157bc06f08cd5ad9f2c6ede925e35fba56f51b789e1135b2f606a4192f53",
+   "byte": 168564
+  },
+  {
+   "path": "assets/luoghi/cimitero-degli-inglesi_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/cimitero-degli-inglesi_4.webp",
+   "sha256": "9d60b894eed5bc8b34dff64c420b048e395468d1e8006e988ae2734e37da1e98",
+   "byte": 226544
   },
   {
    "path": "assets/luoghi/cimitero-delle-porte-sante.webp",
@@ -5770,8 +5794,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "903aa4aad7cfc7bcb7d2a60c87bd2d6a4ecc3e576bfed12b63a523ced28434a4",
-   "byte": 2303
+   "sha256": "6caa1b288c5c0ec1b1207b8d784ae053bc50e3a7c4d6dd54a6bf07711e680b24",
+   "byte": 2334
   },
   {
    "path": "dati/itinerari.json",
@@ -5782,8 +5806,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "56c76c08ef4d0d945af7e149c57c481a9dae79e8038b71b456b8a663c604fce0",
-   "byte": 1570142
+   "sha256": "6aa9dc6e295bdc285981bacecb021efab8151d8710016b960946ca5b204f826b",
+   "byte": 1570743
   },
   {
    "path": "dati/mappa.json",
@@ -5847,16 +5871,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "7431b2d23040",
-   "da": "9b8b5450576f",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo Novecento"
-   ],
-   "foto_nuove": 5,
-   "byte": 1646237
-  },
   {
    "versione": "5407d969fae4",
    "da": "7431b2d23040",
@@ -6054,6 +6068,17 @@
    ],
    "foto_nuove": 4,
    "byte": 2523241
+  },
+  {
+   "versione": "b58d308d79c8",
+   "da": "bd6cedea8fce",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 2436661
   }
  ]
 }
