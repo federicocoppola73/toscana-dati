@@ -1,5 +1,5 @@
 {
- "versione": "69f9da52f3ac",
+ "versione": "23f56f714460",
  "voce": "en-GB-Chirp3-HD-Kore",
  "luoghi": {
   "basilica-della-santissima-annunziata": {
@@ -888,17 +888,17 @@
    ]
   },
   "porta-san-niccolo": {
-   "byte": 664892,
-   "secondi": 111,
+   "byte": 1302092,
+   "secondi": 217,
    "tracce": [
     {
      "id": null,
      "titolo": null,
      "file": "porta-san-niccolo.mp3",
-     "byte": 664892,
-     "secondi": 111,
-     "sha256": "3a2d2fcd784d2d399144a6eaba9a7260e3fa6493a79b690b82df9d06c1236dfb",
-     "testo": "fb4be242a5a5bca2"
+     "byte": 1302092,
+     "secondi": 217,
+     "sha256": "4f7a5befb4d5295393dc314c7e558d9c72145fd74992bbd7ff755320f0331c8e",
+     "testo": "0981fa8f20d97787"
     }
    ]
   },
