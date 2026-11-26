@@ -9932,7 +9932,19 @@
    "curiosita": true,
    "wikipedia": {
     "it": "Monumento all'Indiano"
-   }
+   },
+   "immagine": {
+    "autore": "Sailko",
+    "licenza": "CC BY-SA 3.0",
+    "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+   },
+   "galleria": [
+    {
+     "autore": "Sailko",
+     "licenza": "CC BY-SA 3.0",
+     "fonte": "https://commons.wikimedia.org/wiki/User:Sailko"
+    }
+   ]
   },
   {
    "id": "tepidarium-del-roster",

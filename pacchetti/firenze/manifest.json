@@ -1,5 +1,5 @@
 {
- "versione": "b27b828dc397",
+ "versione": "daabb9fccc70",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -834,6 +834,18 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/loggia-del-porcellino_4.webp",
    "sha256": "ad286d0a3811b8a426bcff08cb93da74da2bcc73fff87928979c5724ed912162",
    "byte": 55408
+  },
+  {
+   "path": "assets/luoghi/monumento-allindiano.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/monumento-allindiano.webp",
+   "sha256": "9640a35d36aaf5e5fbdda0e3609a8143f764d6bd2e425e22dabbb44e784686b4",
+   "byte": 348396
+  },
+  {
+   "path": "assets/luoghi/monumento-allindiano_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/assets/luoghi/monumento-allindiano_2.webp",
+   "sha256": "34991dd237e8e6600c0f0c65875daf4327d15550acebb54b91a23931e25740d2",
+   "byte": 98160
   },
   {
    "path": "assets/luoghi/museo-archeologico-nazionale-di-firenze.webp",
@@ -5734,8 +5746,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/immagini.json",
-   "sha256": "2655a2d436041aab339399d72b44339ffd7af4cb982a2cea14eeb02531d9bacc",
-   "byte": 2244
+   "sha256": "792633fe9ae389235c7bca18adb3debb846445707c41f4256efacd4ff0b6f6d9",
+   "byte": 2273
   },
   {
    "path": "dati/itinerari.json",
@@ -5746,8 +5758,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "80a746245002392487e396d3efcfd3d2790bb7ef59c39998b35438038f7c743f",
-   "byte": 1569206
+   "sha256": "dec29af0cf0bc878eb1918c677c79b35f225e8f5c791072f1964844089c8857b",
+   "byte": 1569501
   },
   {
    "path": "dati/mappa.json",
@@ -5811,16 +5823,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "267295cb8b75",
-   "da": "c825eaaccccf",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo Horne"
-   ],
-   "foto_nuove": 3,
-   "byte": 1385969
-  },
   {
    "versione": "9b8b5450576f",
    "da": "267295cb8b75",
@@ -6016,6 +6018,17 @@
    ],
    "curiosita_nuove": 4,
    "byte": 1581898
+  },
+  {
+   "versione": "daabb9fccc70",
+   "da": "b27b828dc397",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 2,
+   "byte": 2018330
   }
  ]
 }
