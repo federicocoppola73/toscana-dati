@@ -1,5 +1,5 @@
 {
- "versione": "ed19de538fd5",
+ "versione": "85c3c375692a",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -5830,8 +5830,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "55a58a858b400cd7131c99a4daab3348e484aaac3f208a9fb2640bf4b55f526d",
-   "byte": 1705227
+   "sha256": "d0f64c97d4b45ace1e1b79162217b47d4488ab7be78751315fc85ef041e7fdda",
+   "byte": 1762043
   },
   {
    "path": "dati/mappa.json",
@@ -5895,16 +5895,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "fd6ddc1a16c6",
-   "da": "4044d4ba2756",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Museo de' Medici"
-   ],
-   "foto_nuove": 4,
-   "byte": 1696909
-  },
   {
    "versione": "c52786d70071",
    "da": "fd6ddc1a16c6",
@@ -6112,6 +6102,18 @@
     "descrizioni"
    ],
    "byte": 1705227
+  },
+  {
+   "versione": "85c3c375692a",
+   "da": "ed19de538fd5",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 8,
+   "aspetti": [
+    "orari",
+    "descrizioni",
+    "accessibilita"
+   ],
+   "byte": 1762043
   }
  ]
 }
