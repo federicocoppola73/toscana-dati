@@ -1,5 +1,5 @@
 {
- "versione": "85c3c375692a",
+ "versione": "144e70e70a8e",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -5830,8 +5830,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/dati/luoghi.json",
-   "sha256": "d0f64c97d4b45ace1e1b79162217b47d4488ab7be78751315fc85ef041e7fdda",
-   "byte": 1762043
+   "sha256": "a4f7e222bd4c9e7a61387657ab402a5290d1cdf9c99c862b05137fb7c1957834",
+   "byte": 1762242
   },
   {
    "path": "dati/mappa.json",
@@ -5895,16 +5895,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "c52786d70071",
-   "da": "fd6ddc1a16c6",
-   "data": "2026-11-25",
-   "luoghi_nuovi": [
-    "Loggia del Porcellino (Loggia del Mercato Nuovo)"
-   ],
-   "foto_nuove": 4,
-   "byte": 1574479
-  },
   {
    "versione": "6603058ef2f8",
    "da": "c52786d70071",
@@ -6114,6 +6104,17 @@
     "accessibilita"
    ],
    "byte": 1762043
+  },
+  {
+   "versione": "144e70e70a8e",
+   "da": "85c3c375692a",
+   "data": "2026-11-26",
+   "luoghi_aggiornati": 2,
+   "aspetti": [
+    "orari",
+    "descrizioni"
+   ],
+   "byte": 1762242
   }
  ]
 }

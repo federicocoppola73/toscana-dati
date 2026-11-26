@@ -10511,7 +10511,12 @@
      }
     }
    ],
-   "orari": null,
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "7:30–12:00"
+    }
+   ],
    "biglietto": {
     "gratuito": true
    },
@@ -11107,16 +11112,21 @@
      }
     }
    ],
-   "orari": null,
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "8:30–12:00, 17:00–18:30"
+    }
+   ],
    "biglietto": {
     "gratuito": true
    },
    "nota": {
-    "it": "Piazza di Cestello. La chiesa è un luogo di culto attivo e l'accesso è normalmente gratuito. Gli orari di visita turistica non risultano pubblicati in modo uniforme nelle fonti consultate: è consigliabile verificare l'apertura direttamente con la parrocchia, soprattutto se si desidera visitare l'interno al di fuori delle celebrazioni. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
-    "en": "Piazza di Cestello. The church is an active place of worship and access is normally free. Tourist visiting hours are not published uniformly in the sources consulted: it is advisable to check the opening directly with the parish, especially if you wish to visit the interior outside services. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
-    "fr": "Piazza di Cestello. L'église est un lieu de culte actif et l'accès est normalement gratuit. Les horaires de visite touristique ne sont pas publiés de manière uniforme dans les sources consultées : il est conseillé de vérifier l'ouverture directement auprès de la paroisse, surtout si vous souhaitez visiter l'intérieur en dehors des célébrations. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
-    "de": "Piazza di Cestello. Die Kirche ist ein aktiver Kultort, der Zugang ist normalerweise frei. Touristische Besuchszeiten sind in den konsultierten Quellen nicht einheitlich veröffentlicht: Es empfiehlt sich, die Öffnung direkt bei der Pfarrei zu prüfen, vor allem wenn Sie das Innere außerhalb der Gottesdienste besichtigen möchten. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
-    "es": "Piazza di Cestello. La iglesia es un lugar de culto activo y el acceso es normalmente gratuito. Los horarios de visita turística no figuran publicados de manera uniforme en las fuentes consultadas: conviene verificar la apertura directamente con la parroquia, sobre todo si se desea visitar el interior fuera de las celebraciones. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
+    "it": "Piazza di Cestello. La chiesa è un luogo di culto attivo e l'accesso è normalmente gratuito. Gli orari indicati sono indicativi e non risultano pubblicati in modo uniforme nelle fonti consultate: è consigliabile verificare l'apertura direttamente con la parrocchia, soprattutto se si desidera visitare l'interno al di fuori delle celebrazioni. Nota: Orari e prezzi dei biglietti possono variare. Si consiglia di verificarli sul sito ufficiale o direttamente in loco prima della visita.",
+    "en": "Piazza di Cestello. The church is an active place of worship and access is normally free. The hours shown are indicative and are not published uniformly in the sources consulted: it is advisable to check the opening directly with the parish, especially if you wish to visit the interior outside services. Note: Opening hours and ticket prices may change. Please check the official website or the venue before your visit.",
+    "fr": "Piazza di Cestello. L'église est un lieu de culte actif et l'accès est normalement gratuit. Les horaires indiqués sont indicatifs et ne sont pas publiés de manière uniforme dans les sources consultées : il est conseillé de vérifier l'ouverture directement auprès de la paroisse, surtout si vous souhaitez visiter l'intérieur en dehors des célébrations. Remarque : les horaires et les tarifs peuvent changer. Il est conseillé de les vérifier sur le site officiel ou directement sur place avant la visite.",
+    "de": "Piazza di Cestello. Die Kirche ist ein aktiver Kultort, der Zugang ist normalerweise frei. Die angegebenen Zeiten sind Richtwerte und sind in den konsultierten Quellen nicht einheitlich veröffentlicht: Es empfiehlt sich, die Öffnung direkt bei der Pfarrei zu prüfen, vor allem wenn Sie das Innere außerhalb der Gottesdienste besichtigen möchten. Hinweis: Öffnungszeiten und Ticketpreise können sich ändern. Bitte prüfen Sie diese vor dem Besuch auf der offiziellen Website oder direkt vor Ort.",
+    "es": "Piazza di Cestello. La iglesia es un lugar de culto activo y el acceso es normalmente gratuito. Los horarios indicados son orientativos y no figuran publicados de manera uniforme en las fuentes consultadas: conviene verificar la apertura directamente con la parroquia, sobre todo si se desea visitar el interior fuera de las celebraciones. Nota: Los horarios y los precios de las entradas pueden variar. Se recomienda consultarlos en la web oficial o directamente en el lugar antes de la visita."
    },
    "nomi": {
     "en": "Church of San Frediano in Cestello",
