@@ -728,7 +728,24 @@
     "fr": "Palazzo Pubblico et Musée civique",
     "de": "Palazzo Pubblico und Museo Civico",
     "es": "Palazzo Pubblico y Museo Cívico"
-   }
+   },
+   "immagine": {
+    "autore": "Michal Osmenda",
+    "licenza": "CC BY-SA 2.0",
+    "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/24416290"
+   },
+   "galleria": [
+    {
+     "autore": "Luigi-CC",
+     "licenza": "Pubblico dominio",
+     "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/78850927"
+    },
+    {
+     "autore": "N/A, modifica di Poke2001",
+     "licenza": "CC BY 2.5",
+     "fonte": "https://commons.wikimedia.org/wiki/Special:Redirect/page/3288043"
+    }
+   ]
   },
   {
    "id": "torre-del-mangia",

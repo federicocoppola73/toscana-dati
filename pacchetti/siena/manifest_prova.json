@@ -1,5 +1,5 @@
 {
- "versione": "8b6ed7408dc6",
+ "versione": "122440df83ca",
  "tipo": "prova",
  "file": [
   {
@@ -91,6 +91,24 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/libreria-piccolomini_5.webp",
    "sha256": "5a5c8541b36d9cfb2a5f0b605987ab150d5106dfd08792049ee2b1f7580544dd",
    "byte": 224836
+  },
+  {
+   "path": "assets/luoghi/palazzo-pubblico-museo-civico.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico.webp",
+   "sha256": "96a09887718bd4ae1b04ef878a83055ca261ea0e3a66d41b8ee019fce7bea3b1",
+   "byte": 88512
+  },
+  {
+   "path": "assets/luoghi/palazzo-pubblico-museo-civico_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_2.webp",
+   "sha256": "e4da490d3c6ea99dd0040ae0bc6946adc1c9dc5fa5d0139b1e459b6430ca767a",
+   "byte": 160428
+  },
+  {
+   "path": "assets/luoghi/palazzo-pubblico-museo-civico_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_3.webp",
+   "sha256": "fc560a4d70becd863a43ddca068e18faf26a2be0deb41a866f005d2cbfa73110",
+   "byte": 263468
   },
   {
    "path": "assets/luoghi/piazza-del-campo.webp",
@@ -3479,8 +3497,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/immagini.json",
-   "sha256": "85cfd76a86fc6d5301ac29d7d9c7e0de76464a9def9c0ad2fe180fbee57fff2f",
-   "byte": 259
+   "sha256": "0bbdf15ba7e0edad03888ec648919f8cd294d121141ecad1328e6f686d9913b5",
+   "byte": 297
   },
   {
    "path": "dati/itinerari.json",
@@ -3491,8 +3509,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/luoghi.json",
-   "sha256": "25827aa7822760070c85b3f6acdfea73bf726dda7585d8b1a0dbf7dd5e0466e2",
-   "byte": 100187
+   "sha256": "d9caaeda0c3b1ab5a411af8baca4bd74b0c22b4dd2357e548073b2066063afd8",
+   "byte": 100701
   },
   {
    "path": "dati/mappa.json",
