@@ -462,7 +462,29 @@
         "fr": "Baptistère Saint-Jean",
         "de": "Baptisterium San Giovanni",
         "es": "Baptisterio de San Giovanni"
-      }
+      },
+      "immagine": {
+        "autore": "Zairon",
+        "licenza": "CC BY 4.0"
+      },
+      "galleria": [
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0"
+        },
+        {
+          "autore": "Zairon",
+          "licenza": "CC BY 4.0"
+        }
+      ]
     },
     {
       "id": "piazza-del-campo",
