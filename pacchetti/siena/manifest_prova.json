@@ -1,7 +1,37 @@
 {
- "versione": "efeee59e4630",
+ "versione": "905190506ef6",
  "tipo": "prova",
  "file": [
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-assunta.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/cattedrale-di-santa-maria-assunta.webp",
+   "sha256": "c2a9274b6ab585076738faf3ec5dedeb0a29821827bc02ca69a45dca44d2b2ce",
+   "byte": 302804
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-assunta_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/cattedrale-di-santa-maria-assunta_2.webp",
+   "sha256": "dfc3be4c0953c8f931023b254969574f442d423a981c793116cacf4eb266ff15",
+   "byte": 271590
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-assunta_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/cattedrale-di-santa-maria-assunta_3.webp",
+   "sha256": "d012a554b90e673dbd49c37854e1a6c042dd80cedde91fa3c1b667b849157e9b",
+   "byte": 160728
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-assunta_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/cattedrale-di-santa-maria-assunta_4.webp",
+   "sha256": "94da6648b010dc35fab7505592fbea8f3c503d89682e803401c77ec884ff3947",
+   "byte": 133824
+  },
+  {
+   "path": "assets/luoghi/cattedrale-di-santa-maria-assunta_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/cattedrale-di-santa-maria-assunta_5.webp",
+   "sha256": "31ae3a6df02a5e1658f97c0d8d804542cd60509957b430bafea5238bc428fe05",
+   "byte": 260958
+  },
   {
    "path": "assets/mappa-siena.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa-siena.webp",
@@ -3365,8 +3395,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/immagini.json",
-   "sha256": "6d3b3fb0f741623249ab28058056f567e6ddc83d31262ff035e9953e420654bd",
-   "byte": 127
+   "sha256": "6ebe6017ae008dcd4683a06682132846ffbc5b3e582df2ec7618adb7b2d1931c",
+   "byte": 170
   },
   {
    "path": "dati/itinerari.json",
@@ -3377,8 +3407,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/luoghi.json",
-   "sha256": "6bc9d1dbd24aaf5454642f327dda2da8544ca29bd7e34d96e5c9be9635a2bbe6",
-   "byte": 98794
+   "sha256": "97030a73197e580c4202c70f9744ed8b267b1c5ab4c5c78d3d16cbde68be4142",
+   "byte": 99154
   },
   {
    "path": "dati/mappa.json",

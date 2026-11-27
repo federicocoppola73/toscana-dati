@@ -67,8 +67,8 @@
         "latitudine": 43.3188,
         "longitudine": 11.3308
       },
-      "dimensione_mb": 8.4,
-      "dimensione_prova_mb": 6.1,
+      "dimensione_mb": 9.5,
+      "dimensione_prova_mb": 7.2,
       "pacchetto_prova": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/manifest_prova.json"
     },
     {

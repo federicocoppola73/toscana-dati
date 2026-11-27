@@ -156,7 +156,29 @@
     "fr": "Cathédrale de Sienne",
     "de": "Dom von Siena",
     "es": "Catedral de Siena"
-   }
+   },
+   "immagine": {
+    "autore": "Zairon",
+    "licenza": "CC BY 4.0"
+   },
+   "galleria": [
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0"
+    },
+    {
+     "autore": "Zairon",
+     "licenza": "CC BY 4.0"
+    }
+   ]
   },
   {
    "id": "libreria-piccolomini",
