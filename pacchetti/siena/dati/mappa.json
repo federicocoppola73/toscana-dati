@@ -1,0 +1,43 @@
+{
+  "_nota": "Mappa disegnata con dati © OpenStreetMap contributors (licenza ODbL). I punti di riferimento servono all'app per posizionare i luoghi a partire da latitudine e longitudine.",
+  "immagine": "mappa-siena.webp",
+  "larghezza": 6000,
+  "altezza": 5853,
+  "punti_riferimento": [
+    {
+      "nome": "Angolo nord-ovest",
+      "latitudine": 43.33,
+      "longitudine": 11.315,
+      "x": 0.0,
+      "y": 0.0
+    },
+    {
+      "nome": "Angolo nord-est",
+      "latitudine": 43.33,
+      "longitudine": 11.346,
+      "x": 6000.0,
+      "y": 0.0
+    },
+    {
+      "nome": "Angolo sud-ovest",
+      "latitudine": 43.308,
+      "longitudine": 11.315,
+      "x": 0.0,
+      "y": 5853.0
+    },
+    {
+      "nome": "Angolo sud-est",
+      "latitudine": 43.308,
+      "longitudine": 11.346,
+      "x": 6000.0,
+      "y": 5853.0
+    },
+    {
+      "nome": "Centro",
+      "latitudine": 43.3188,
+      "longitudine": 11.3308,
+      "x": 3058.1,
+      "y": 2979.7
+    }
+  ]
+}

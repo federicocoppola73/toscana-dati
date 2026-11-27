@@ -1,12 +1,3324 @@
 {
- "versione": "39da0267042b",
+ "versione": "5b4cdbb2dbda",
  "tipo": "prova",
  "file": [
   {
-   "path": "assets/mappa/.gitkeep",
-   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/.gitkeep",
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-   "byte": 0
+   "path": "assets/mappa-siena.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa-siena.webp",
+   "sha256": "2e1136097e408a6a28d447d203884b19271c9335abb6ffb11deb8cd584372d30",
+   "byte": 1229384
+  },
+  {
+   "path": "assets/mappa/1/0_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_0.webp",
+   "sha256": "1867371aea2a721ad4ebccd619fa1cffcc412b2ed44ef3a147c3c0d3144c1301",
+   "byte": 8124
+  },
+  {
+   "path": "assets/mappa/1/0_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_1.webp",
+   "sha256": "3338f3448ffea1e2dba09512d791dc6b305ebfd05ebf91bb0799275c21d52679",
+   "byte": 5676
+  },
+  {
+   "path": "assets/mappa/1/0_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_10.webp",
+   "sha256": "606c8293e8f3f0e1fb36a4e331d56c1375645db8e384ee062aececfe19bf256d",
+   "byte": 2542
+  },
+  {
+   "path": "assets/mappa/1/0_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_11.webp",
+   "sha256": "b8cfe6e70ad8d41add4a0a4aa69574e78b646f1bbaa724020c60634a476304f3",
+   "byte": 2996
+  },
+  {
+   "path": "assets/mappa/1/0_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_12.webp",
+   "sha256": "66de7cb4b95f7dab7f6d16721d6321ea4ab5e7b3ae2eebdcf8b164944e24e42a",
+   "byte": 1926
+  },
+  {
+   "path": "assets/mappa/1/0_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_13.webp",
+   "sha256": "46e0718c19011c6f977dd6e2b65a2a55eda80d2ca479e567bbb63702053a6bb4",
+   "byte": 1250
+  },
+  {
+   "path": "assets/mappa/1/0_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_14.webp",
+   "sha256": "f56a0020a18eeb4c8beb3f87249a78403faac3982a788a3daba2a00d568181ba",
+   "byte": 2228
+  },
+  {
+   "path": "assets/mappa/1/0_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_15.webp",
+   "sha256": "dae640c20bca8de7fc2d20846dddf7ff160a5a3a7b10e323776441913c86881e",
+   "byte": 2316
+  },
+  {
+   "path": "assets/mappa/1/0_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_16.webp",
+   "sha256": "3b4a8a167372a37f0b3d8d5b57cd80c315ed1ae136a2d5ec0c9995ce0aa1e089",
+   "byte": 1740
+  },
+  {
+   "path": "assets/mappa/1/0_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_17.webp",
+   "sha256": "bc97a8314db5e7d8334ed12d865405a2fe6c862ce3272ae276683000e66142db",
+   "byte": 1942
+  },
+  {
+   "path": "assets/mappa/1/0_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_18.webp",
+   "sha256": "c6658e9f526f9cca0fc951df11a2a95ba32a4d4fd13f0299ff3802fccaef8e15",
+   "byte": 1738
+  },
+  {
+   "path": "assets/mappa/1/0_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_19.webp",
+   "sha256": "ccd1ffd25b2a9a9bdf5af36d92930c6b4198eed4c55a303e815d476810c02478",
+   "byte": 3486
+  },
+  {
+   "path": "assets/mappa/1/0_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_2.webp",
+   "sha256": "7822becd8ec5d284248443b8f1c324986e4ecb59a03d6b92115586c6d55b5d07",
+   "byte": 5270
+  },
+  {
+   "path": "assets/mappa/1/0_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_20.webp",
+   "sha256": "9ce80eca99938fe9f25bc5be700d1729a495db694d482302752eb999e8a8a25f",
+   "byte": 7752
+  },
+  {
+   "path": "assets/mappa/1/0_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_21.webp",
+   "sha256": "1d0cd53b75299cd4a87b265c25d9c9c838dba64e5599148ea54d7f7ec78de621",
+   "byte": 7716
+  },
+  {
+   "path": "assets/mappa/1/0_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_22.webp",
+   "sha256": "520d4cb753c06fa6cf6dbf4391023e3493e77c4e9a8fcd4332aee9a2a6a306dd",
+   "byte": 4490
+  },
+  {
+   "path": "assets/mappa/1/0_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_3.webp",
+   "sha256": "fdaa2c8269c645f6bee7ff64d31640bbea128249e3465c7068b04af0e74536d5",
+   "byte": 5370
+  },
+  {
+   "path": "assets/mappa/1/0_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_4.webp",
+   "sha256": "af3bd69832cc74c0ede0c2afc03198087c205895763592bf302fd2228e864953",
+   "byte": 6030
+  },
+  {
+   "path": "assets/mappa/1/0_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_5.webp",
+   "sha256": "a09d87b90339310e600dc5f3369b1aeb3314daf21a6386015d4b57be9c4e3de2",
+   "byte": 2592
+  },
+  {
+   "path": "assets/mappa/1/0_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_6.webp",
+   "sha256": "dc626fad7afedb44aef651a1018f01f2b0fda60ef95440147134953c8c459656",
+   "byte": 1778
+  },
+  {
+   "path": "assets/mappa/1/0_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_7.webp",
+   "sha256": "a2929a58c0856fca50ebe8bcc9bb6307cfc9933e2685ced3cf2458b341f17bff",
+   "byte": 4576
+  },
+  {
+   "path": "assets/mappa/1/0_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_8.webp",
+   "sha256": "c6af47d12578e79149c5a9842c49ce4399c854cd00d3421610a703bef121968c",
+   "byte": 3472
+  },
+  {
+   "path": "assets/mappa/1/0_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/0_9.webp",
+   "sha256": "11d213fe5854b0f580c0c92978952ac34b035140f5e604b7db0548ab3ab9aeff",
+   "byte": 3018
+  },
+  {
+   "path": "assets/mappa/1/10_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_0.webp",
+   "sha256": "44e3b2ec083ed1235621becac9e19e1671d7193568246a3fe3667577e9d52b44",
+   "byte": 7544
+  },
+  {
+   "path": "assets/mappa/1/10_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_1.webp",
+   "sha256": "36908b4d8847359cd76f8d28305e1e51bdbc844440b5aa4bd5ed262e5bfc26ae",
+   "byte": 6338
+  },
+  {
+   "path": "assets/mappa/1/10_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_10.webp",
+   "sha256": "d240d1408a9b989c812ab22ded20205d85ffdf225eb254a02c6ffa9ddd197717",
+   "byte": 12976
+  },
+  {
+   "path": "assets/mappa/1/10_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_11.webp",
+   "sha256": "f495344d30eb679d2dbf6768b287f76b5cd283b77ff8190a6430a2e3ed97c719",
+   "byte": 6928
+  },
+  {
+   "path": "assets/mappa/1/10_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_12.webp",
+   "sha256": "ae7470539ec3866c776213ad3ef2016e2308cf76d56d09886e51bcd80221b222",
+   "byte": 10918
+  },
+  {
+   "path": "assets/mappa/1/10_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_13.webp",
+   "sha256": "d2bec6c04aab7916e018decb8d283aa553b7855fe99b883740e16e32cfc5aac6",
+   "byte": 6422
+  },
+  {
+   "path": "assets/mappa/1/10_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_14.webp",
+   "sha256": "0c66ee5a8b6bc24e05114809e7e27ef2cf6d49e00b8a77ebb0361f05b2277c7c",
+   "byte": 5412
+  },
+  {
+   "path": "assets/mappa/1/10_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_15.webp",
+   "sha256": "9886228b7d7c6c6f6c69e366f293357f7614d1ccc422cc4ae91c3f45cfdad160",
+   "byte": 10216
+  },
+  {
+   "path": "assets/mappa/1/10_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_16.webp",
+   "sha256": "09b3426f03d9594e30b04360c998e8f786351581628fa86e06de6f85742ffbd1",
+   "byte": 10172
+  },
+  {
+   "path": "assets/mappa/1/10_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_17.webp",
+   "sha256": "f93914a04a046416b029dcd22cac16d39354826ef2d8422d34667d42c01d85bb",
+   "byte": 6266
+  },
+  {
+   "path": "assets/mappa/1/10_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_18.webp",
+   "sha256": "fea099984b75e75751af72e8dc67436d76f241eac63f7cb6685ee4b02769990a",
+   "byte": 2024
+  },
+  {
+   "path": "assets/mappa/1/10_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_19.webp",
+   "sha256": "c9a880e937cc84d1d8f86cb598576c2b657d4ff7d049d972e9d58bdffdaaed11",
+   "byte": 2066
+  },
+  {
+   "path": "assets/mappa/1/10_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_2.webp",
+   "sha256": "c4ea6b345066905ac9d94cea8a92f559ccb7ab5b897b8835c1940513f8584eb4",
+   "byte": 5896
+  },
+  {
+   "path": "assets/mappa/1/10_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_20.webp",
+   "sha256": "88fef7b36812898f7fc086ff5ba4e9e3ffeafda6fd828ae0daa2e6840be64f3b",
+   "byte": 4248
+  },
+  {
+   "path": "assets/mappa/1/10_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_21.webp",
+   "sha256": "a7e171653b47bca14fb773bf9c09276f9e6b0a602e511529bc06e35e6d136872",
+   "byte": 3416
+  },
+  {
+   "path": "assets/mappa/1/10_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_22.webp",
+   "sha256": "0e78047609ac28ed8f7ed5feaf8b1aef28d9319c912c44f0b41425b84844423e",
+   "byte": 4390
+  },
+  {
+   "path": "assets/mappa/1/10_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_3.webp",
+   "sha256": "d713e0f77d82dbb403c01f3ea4afb25b5adeecc9ff5f6c990e6660bd42fd0b34",
+   "byte": 6660
+  },
+  {
+   "path": "assets/mappa/1/10_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_4.webp",
+   "sha256": "2f8f650dc4d0bc3f2f9f3fa766a1feebe057ede63d29b80909b3e89d362c416b",
+   "byte": 5578
+  },
+  {
+   "path": "assets/mappa/1/10_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_5.webp",
+   "sha256": "21cdf2f10d34d7c415ffbfc21e29421d595b7de489b5a604fe8e14b1d392d325",
+   "byte": 7948
+  },
+  {
+   "path": "assets/mappa/1/10_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_6.webp",
+   "sha256": "5cd7e047e64ffa015b25a04913a0a439b1993cc20c4c89c8a05c719a1db10a57",
+   "byte": 8526
+  },
+  {
+   "path": "assets/mappa/1/10_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_7.webp",
+   "sha256": "ea9f61e6e5c97c32ba833ba97b27732afd66dcb080a4b8c84df2e3af606154e0",
+   "byte": 8166
+  },
+  {
+   "path": "assets/mappa/1/10_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_8.webp",
+   "sha256": "de17999e0f2e56c5b20dc4e2751fb93119861b4d9ea4a3bb37739072d47fc5c6",
+   "byte": 8534
+  },
+  {
+   "path": "assets/mappa/1/10_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/10_9.webp",
+   "sha256": "15564586a569a8ced9d1be57762a32d8291c4be6cb7b26904d7b42973fbebc69",
+   "byte": 9698
+  },
+  {
+   "path": "assets/mappa/1/11_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_0.webp",
+   "sha256": "e5f2390b5cdd7c73c3b8ca9c63fafe929d315556f7fac5149cd205fc08315667",
+   "byte": 5226
+  },
+  {
+   "path": "assets/mappa/1/11_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_1.webp",
+   "sha256": "12b104d5feb0890e34aca6ac68cdce0c0aa68a469352b66620cd683935fb3b35",
+   "byte": 9230
+  },
+  {
+   "path": "assets/mappa/1/11_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_10.webp",
+   "sha256": "ed4f2c356827cf42095dc6b26b1afc19fed186a80d2370ff5fb035765a8a7eb6",
+   "byte": 11462
+  },
+  {
+   "path": "assets/mappa/1/11_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_11.webp",
+   "sha256": "393f3a7cad07678b48734161e6ada0fcfb79e56049f816e359892996d5d72ebd",
+   "byte": 11698
+  },
+  {
+   "path": "assets/mappa/1/11_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_12.webp",
+   "sha256": "d35df507b4ee2cec92aedf3e5eee55bc8a5e446514966bb2d7ce87cf0d795a16",
+   "byte": 12344
+  },
+  {
+   "path": "assets/mappa/1/11_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_13.webp",
+   "sha256": "e7b2451406b648eb3cda7090421032ba43801a7c4c5aed80ad3b172c09b19609",
+   "byte": 10254
+  },
+  {
+   "path": "assets/mappa/1/11_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_14.webp",
+   "sha256": "c576a243c6bedbdd4d3b08e84e43cd36c014155c73741f02d6962c42e5fcd4a3",
+   "byte": 11180
+  },
+  {
+   "path": "assets/mappa/1/11_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_15.webp",
+   "sha256": "8ce34ae722e5df2ba781a0b1c58b92e37272b9ad969935761273e71923ba78d4",
+   "byte": 12276
+  },
+  {
+   "path": "assets/mappa/1/11_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_16.webp",
+   "sha256": "76f2296972f7d374a487818646f49ef98af4d4a2eaa07c63791ba6a27b255b0d",
+   "byte": 7192
+  },
+  {
+   "path": "assets/mappa/1/11_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_17.webp",
+   "sha256": "d670f8c80bd5bfa7974eddd346993aae6aa50476e219c266a93730d8ad0b7b99",
+   "byte": 5014
+  },
+  {
+   "path": "assets/mappa/1/11_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_18.webp",
+   "sha256": "bacb9f2604790411ecc74a454abfe5b6e2284410d26484bd8af4a768978626d3",
+   "byte": 2176
+  },
+  {
+   "path": "assets/mappa/1/11_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_19.webp",
+   "sha256": "9031fe4552affca1c68f16a687fa2a1dfb2219cbff2efda44383fd6d63e4d9b7",
+   "byte": 2900
+  },
+  {
+   "path": "assets/mappa/1/11_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_2.webp",
+   "sha256": "6bbd4e776e03a2b53a8b1b14675c50d54bb242e066395f754750e01326c2017d",
+   "byte": 6144
+  },
+  {
+   "path": "assets/mappa/1/11_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_20.webp",
+   "sha256": "12e5f978c285c358bd2da1d6fdc1abb54dcbadf80adcaf8a30af5fa838fe7045",
+   "byte": 4316
+  },
+  {
+   "path": "assets/mappa/1/11_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_21.webp",
+   "sha256": "62774ed94c546c37383f47845c7a21d7ba159eff5e79db39f4ac5739efb1a15d",
+   "byte": 2814
+  },
+  {
+   "path": "assets/mappa/1/11_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_22.webp",
+   "sha256": "0d830a595a965e23079c03d8af296b238f4db209d8c76fab89aec64602f82a5b",
+   "byte": 3276
+  },
+  {
+   "path": "assets/mappa/1/11_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_3.webp",
+   "sha256": "eef99c8a1076882ff475e6a23e4bfd44ff2533839bc75b20f7fe1126ffd7d3d8",
+   "byte": 3978
+  },
+  {
+   "path": "assets/mappa/1/11_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_4.webp",
+   "sha256": "137cec4cc4d75067be58173cd94fe11c733857603bab13b5f96374d0dae9f99f",
+   "byte": 6886
+  },
+  {
+   "path": "assets/mappa/1/11_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_5.webp",
+   "sha256": "074c6e0ede0696b66087c2a159e09459b9538f77cc3bbad165e9ee5df81fbf05",
+   "byte": 7108
+  },
+  {
+   "path": "assets/mappa/1/11_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_6.webp",
+   "sha256": "c4b625bda212b5e7061cdc33a31a356cd15bf411324112fb33495a90f6c9e658",
+   "byte": 8482
+  },
+  {
+   "path": "assets/mappa/1/11_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_7.webp",
+   "sha256": "0e7683940065b0135632db37e4df3971ded83db6142ede96bf89fa2ce7ba8c93",
+   "byte": 12078
+  },
+  {
+   "path": "assets/mappa/1/11_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_8.webp",
+   "sha256": "5fad52f7bac628f8ad32c944f2b37aaba6fca8b34b2abfde3c4c3a49d15f7783",
+   "byte": 11254
+  },
+  {
+   "path": "assets/mappa/1/11_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/11_9.webp",
+   "sha256": "357df04c35b45a5f6d066920872ebd7440285723023d3565813824625a1be27f",
+   "byte": 12892
+  },
+  {
+   "path": "assets/mappa/1/12_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_0.webp",
+   "sha256": "1595c40331e498926481dda8b8417d279b91d07bb62f5fa9be6411880ae79068",
+   "byte": 4678
+  },
+  {
+   "path": "assets/mappa/1/12_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_1.webp",
+   "sha256": "db7e0c61a8947c2b302270c920e271ca14b85f6fdafa4f15b0b1cc757f71f034",
+   "byte": 5602
+  },
+  {
+   "path": "assets/mappa/1/12_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_10.webp",
+   "sha256": "7e6fb3683607e10abb134e85a76fa6f9ff66eec3880ddfea1c13d5fc421d4d6a",
+   "byte": 13396
+  },
+  {
+   "path": "assets/mappa/1/12_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_11.webp",
+   "sha256": "e9f284638a5d9c9331aee93261c35a246611ea6c5b515478fbd5febc8e8c1db6",
+   "byte": 10690
+  },
+  {
+   "path": "assets/mappa/1/12_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_12.webp",
+   "sha256": "d44e38575d12d70e1a782797803362cf7546210a1a1e85df1776a83249b8f6e7",
+   "byte": 8976
+  },
+  {
+   "path": "assets/mappa/1/12_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_13.webp",
+   "sha256": "58035cd9651d0b5a4c54e2fb11ca123226432f332c6222dea5a66d57bc79b06e",
+   "byte": 10814
+  },
+  {
+   "path": "assets/mappa/1/12_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_14.webp",
+   "sha256": "fd76537f779113999592a683815f7c1c7859949ad20e21cced827df3b93c82c1",
+   "byte": 13862
+  },
+  {
+   "path": "assets/mappa/1/12_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_15.webp",
+   "sha256": "e1eb37ed5dfc3683e9272d2c4b3f4e3f96ac2c63ca8ce9ef8e42a9d6c16dabbf",
+   "byte": 6934
+  },
+  {
+   "path": "assets/mappa/1/12_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_16.webp",
+   "sha256": "22c75659c552194934ab666e70311ec0613af9e41228fe42d833f997fe5a98eb",
+   "byte": 6738
+  },
+  {
+   "path": "assets/mappa/1/12_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_17.webp",
+   "sha256": "801391c87386de46da1ca7b283d444294693f4b51b2853fc6a4318243ab9ce09",
+   "byte": 7096
+  },
+  {
+   "path": "assets/mappa/1/12_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_18.webp",
+   "sha256": "d6eaa0f68f3b9439368254d433645769a5db18f7ef9d5051abff0cf00b665c08",
+   "byte": 3292
+  },
+  {
+   "path": "assets/mappa/1/12_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_19.webp",
+   "sha256": "1d26c17909f790b6d6f7c6b0d7bf177e3451464f46c54305ee3931bf4b36b0f4",
+   "byte": 1390
+  },
+  {
+   "path": "assets/mappa/1/12_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_2.webp",
+   "sha256": "5e75b89c71c56dfc4c7a6e779982e5f44ed8cb60749c0f18cde23c980bfb1aae",
+   "byte": 7050
+  },
+  {
+   "path": "assets/mappa/1/12_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_20.webp",
+   "sha256": "2b12fc30c90a8af41c699d717fd5f2713fd7768ce785e01db164e94e131d0b33",
+   "byte": 3194
+  },
+  {
+   "path": "assets/mappa/1/12_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_21.webp",
+   "sha256": "623063d17d675cdb29502ab149505924c665afd3d87516e05d53bd4128899dec",
+   "byte": 4162
+  },
+  {
+   "path": "assets/mappa/1/12_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_22.webp",
+   "sha256": "cc8936b20e218bd856437a04b7c0cd4ca0a4973dfea7f6d9c66c200f127e193a",
+   "byte": 8436
+  },
+  {
+   "path": "assets/mappa/1/12_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_3.webp",
+   "sha256": "cf0a3c0f3982ac9f7ceab00e79279cf2d95355d9b539b68f185e40e560cec909",
+   "byte": 6044
+  },
+  {
+   "path": "assets/mappa/1/12_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_4.webp",
+   "sha256": "76ad35af282bc0a7b33e3e83469969ec44280eafb51feb1734ab5c2d2d758808",
+   "byte": 9934
+  },
+  {
+   "path": "assets/mappa/1/12_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_5.webp",
+   "sha256": "e080c2762ee14ce64fde65b0afd2118565866fb64dda1a54bad100589df13589",
+   "byte": 9470
+  },
+  {
+   "path": "assets/mappa/1/12_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_6.webp",
+   "sha256": "8bb572b6b3f531c7f4db496d951a3e33ce6b49649f98f6b0d075ce38df34c311",
+   "byte": 7400
+  },
+  {
+   "path": "assets/mappa/1/12_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_7.webp",
+   "sha256": "cfa77cf4353f73dc071e94b1cf45807042cb803b1f2e7b8816b00c5c49fed5f0",
+   "byte": 11030
+  },
+  {
+   "path": "assets/mappa/1/12_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_8.webp",
+   "sha256": "0155614a43adcd2f1a07c05067e48944dbf5cbdd4c1a5524dc228e7d12678c42",
+   "byte": 9596
+  },
+  {
+   "path": "assets/mappa/1/12_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/12_9.webp",
+   "sha256": "fd22cdcf9c42d2b333b6b97162a94ee43c9b049c31b6311f4ab644bfa90c7fef",
+   "byte": 10576
+  },
+  {
+   "path": "assets/mappa/1/13_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_0.webp",
+   "sha256": "df7c9cafbcd498455d3379ac37a26a881e3b86306320e84f279dc68f66549b3e",
+   "byte": 3622
+  },
+  {
+   "path": "assets/mappa/1/13_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_1.webp",
+   "sha256": "dc4fecc2e878c465706716c3325b2a043bbef34b31222586db798a6d72239836",
+   "byte": 7530
+  },
+  {
+   "path": "assets/mappa/1/13_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_10.webp",
+   "sha256": "c1ec9d3742fd8d923b68920800055bad7da46768dbd210caf87360d815a10624",
+   "byte": 12228
+  },
+  {
+   "path": "assets/mappa/1/13_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_11.webp",
+   "sha256": "12239df5433aca830c320f0dc36e38ccaa0d5227bd8fea14daab715ffee5e979",
+   "byte": 9002
+  },
+  {
+   "path": "assets/mappa/1/13_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_12.webp",
+   "sha256": "7922d7f4aa6dc782b9ba086fcb8ba08ce38a563c59ec7aa81e1e0aa51a9f0fc5",
+   "byte": 12630
+  },
+  {
+   "path": "assets/mappa/1/13_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_13.webp",
+   "sha256": "ef2a1ae84378201273fbdf900a04f1fd32545595c3b9f7e4312e53d21321b75b",
+   "byte": 9818
+  },
+  {
+   "path": "assets/mappa/1/13_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_14.webp",
+   "sha256": "deaed96b4704e69b5e1d819447ec02dcb150715032feb3e5a0b9fa7d07ccdcd8",
+   "byte": 5680
+  },
+  {
+   "path": "assets/mappa/1/13_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_15.webp",
+   "sha256": "30ee1257cebd401d303475027c41a74cd2e1fd30b2ab0828a03293516cde61b0",
+   "byte": 5158
+  },
+  {
+   "path": "assets/mappa/1/13_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_16.webp",
+   "sha256": "8824d08729cdb84e0e77d6468f86ca7d239f450495c847ab00c67554d51a6095",
+   "byte": 7612
+  },
+  {
+   "path": "assets/mappa/1/13_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_17.webp",
+   "sha256": "d9d411808524cdee8a99b365d62d0e9503bd3fa4e69fee608fe6bad3a0405603",
+   "byte": 8798
+  },
+  {
+   "path": "assets/mappa/1/13_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_18.webp",
+   "sha256": "c6098d114ee28ac0bbd09b6c7d9c0e4055a497de0fb798d60a57687c8f16e189",
+   "byte": 8518
+  },
+  {
+   "path": "assets/mappa/1/13_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_19.webp",
+   "sha256": "fbd7f2cb71eda0203aa825e80cb49381083faa16749c79eb54c56b60fe87370e",
+   "byte": 9176
+  },
+  {
+   "path": "assets/mappa/1/13_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_2.webp",
+   "sha256": "3b7d227212f6151c7668cdc790a01df96c9a87422ba8d71bd681a346dc19d04f",
+   "byte": 6592
+  },
+  {
+   "path": "assets/mappa/1/13_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_20.webp",
+   "sha256": "3ce18dc9fc3e1b9f70b1330c86f1faebf1de4fc09f2c6cee5ee86ff9ff629981",
+   "byte": 8578
+  },
+  {
+   "path": "assets/mappa/1/13_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_21.webp",
+   "sha256": "b7f7919cfe2515f2b49d4801a0fe65112e63444dfcbd82fd913fbfedc61c6ae9",
+   "byte": 4012
+  },
+  {
+   "path": "assets/mappa/1/13_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_22.webp",
+   "sha256": "09c0d2477de64ae4cafb8fdd7b9d5eda02004072f136d04aab92bb679143d826",
+   "byte": 3424
+  },
+  {
+   "path": "assets/mappa/1/13_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_3.webp",
+   "sha256": "9c6f85d73c2a5c2b6cfea4241f87738c7095fef512b8986b53063e76a8be7b10",
+   "byte": 8624
+  },
+  {
+   "path": "assets/mappa/1/13_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_4.webp",
+   "sha256": "8ace52c0579c8ce6e1c4daa2b56b7bd4e62ad28cc3844ea3289a36c5e4f07d39",
+   "byte": 8394
+  },
+  {
+   "path": "assets/mappa/1/13_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_5.webp",
+   "sha256": "cd14dcac0cc091c2c073e5c112f7c7009b6c16e58c3cccb61def5998722201ce",
+   "byte": 8848
+  },
+  {
+   "path": "assets/mappa/1/13_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_6.webp",
+   "sha256": "938cc273e47442a66c61bd3172f9ac239144e3eef4fdc0a54830c0ba2803a3bf",
+   "byte": 11544
+  },
+  {
+   "path": "assets/mappa/1/13_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_7.webp",
+   "sha256": "b481e8e1c72a04cf64ef8558be26cb514f39fbdf316b653d691851bb14a4436e",
+   "byte": 10970
+  },
+  {
+   "path": "assets/mappa/1/13_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_8.webp",
+   "sha256": "dae0f8452a5b88ebc855d83fd765f9dfbaa225551f62b82065527ba5fc66cc68",
+   "byte": 13544
+  },
+  {
+   "path": "assets/mappa/1/13_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/13_9.webp",
+   "sha256": "d725f2cc34dd4c2d3730f753e7b958c1d7dba4be9fb3b239ad352f6007cb8739",
+   "byte": 10802
+  },
+  {
+   "path": "assets/mappa/1/14_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_0.webp",
+   "sha256": "e9bd7b4b04e881862dd2cf179bca00c4aabe1a3cf4c2ae9866144be92b13795c",
+   "byte": 1444
+  },
+  {
+   "path": "assets/mappa/1/14_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_1.webp",
+   "sha256": "c4638b926b1147721963b1f328060a271edeaa448f240948f118b85acaf6f42a",
+   "byte": 3476
+  },
+  {
+   "path": "assets/mappa/1/14_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_10.webp",
+   "sha256": "1f6e60fcb020aa4555a4d2a85db2986c0b9f710467fc8008d41772e53d7d2a4f",
+   "byte": 4598
+  },
+  {
+   "path": "assets/mappa/1/14_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_11.webp",
+   "sha256": "cc2c112cf162d0551a431f2921eb695eea22fa8ebaee05d230d707efcec71f1d",
+   "byte": 9922
+  },
+  {
+   "path": "assets/mappa/1/14_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_12.webp",
+   "sha256": "b443d7776eaec4abb9257cbafd436c436da7eab6ce24fa764f40124bd74b7f52",
+   "byte": 7364
+  },
+  {
+   "path": "assets/mappa/1/14_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_13.webp",
+   "sha256": "652d89b101cbab8af92f8394f1a2c0ddd06b53def4f1ac7cddc1c37fb970919b",
+   "byte": 13140
+  },
+  {
+   "path": "assets/mappa/1/14_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_14.webp",
+   "sha256": "52d9b24dd69a4e0e9f4896924855e721b6fa58b0f231098b934c0ceb7f4cf231",
+   "byte": 5828
+  },
+  {
+   "path": "assets/mappa/1/14_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_15.webp",
+   "sha256": "ba39c0f91d53c05910de430423f55ad67f468d92379c52dcacb56ce5f565bce8",
+   "byte": 2822
+  },
+  {
+   "path": "assets/mappa/1/14_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_16.webp",
+   "sha256": "5555793b8fb46e9fc56fa15ace616dde910b775bde3f58d1bea8739142f9b791",
+   "byte": 2372
+  },
+  {
+   "path": "assets/mappa/1/14_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_17.webp",
+   "sha256": "95e3af90b490840f1a2c2a5c1bee7a5375e3748775f121115b675d3bae2f5039",
+   "byte": 1654
+  },
+  {
+   "path": "assets/mappa/1/14_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_18.webp",
+   "sha256": "3eaec0b308c808dbe17b09bcc36fa473ec040fbe98dcc8b6a51c3229579b28c2",
+   "byte": 4330
+  },
+  {
+   "path": "assets/mappa/1/14_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_19.webp",
+   "sha256": "5c91cadd222efbfd9c16d1fe7039b47ff43fa35517a7bb86f207eda069c582c1",
+   "byte": 6924
+  },
+  {
+   "path": "assets/mappa/1/14_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_2.webp",
+   "sha256": "0ec32e0f914fdc35d7ccb773a9f9a89d7c66fe97937b36e451ebe643c919bc79",
+   "byte": 6094
+  },
+  {
+   "path": "assets/mappa/1/14_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_20.webp",
+   "sha256": "411f4e917cb869b627d68046694bda5f7e3db1b2ee082f8c3ff7ac0b5f104520",
+   "byte": 4294
+  },
+  {
+   "path": "assets/mappa/1/14_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_21.webp",
+   "sha256": "9735996b056e79733cb5e44b26993db138d1526a8d4442fe2f372d51acfad364",
+   "byte": 2386
+  },
+  {
+   "path": "assets/mappa/1/14_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_22.webp",
+   "sha256": "4d2ddd59c3e7dcc513f2935fd30af1e18fc105820636c0b9d85a5bac84ac88e1",
+   "byte": 3138
+  },
+  {
+   "path": "assets/mappa/1/14_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_3.webp",
+   "sha256": "2c2d17cf29373e8d2d30dc533b6e7ebe19fdfe29b2aa5a2a5ce25a31f6d1c5dd",
+   "byte": 6274
+  },
+  {
+   "path": "assets/mappa/1/14_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_4.webp",
+   "sha256": "43c663ccdf3a3b64312acff057af75e318db3ec751a95a21355b9d711f620186",
+   "byte": 8830
+  },
+  {
+   "path": "assets/mappa/1/14_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_5.webp",
+   "sha256": "5a2b2950f256d62370b67628a516c660696baf6a1fb051c0186a024ef128b389",
+   "byte": 6902
+  },
+  {
+   "path": "assets/mappa/1/14_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_6.webp",
+   "sha256": "2eef9a808adb905a10efa343d141176c5ad0bdb7e7a033123460d2dae24fa6fd",
+   "byte": 6358
+  },
+  {
+   "path": "assets/mappa/1/14_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_7.webp",
+   "sha256": "badb920489172f8f2549fee3f2727697431025d2a179d6877968a06f7e5eac35",
+   "byte": 6020
+  },
+  {
+   "path": "assets/mappa/1/14_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_8.webp",
+   "sha256": "4dd64aa87e610d9b8917bfb05b41316fa7733ad6d925c2ade393a500587155a7",
+   "byte": 5296
+  },
+  {
+   "path": "assets/mappa/1/14_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/14_9.webp",
+   "sha256": "9f318b6db738dcdd637debfefe9eb83f82c88b0f80cd76902ab0e2773d5abef7",
+   "byte": 4818
+  },
+  {
+   "path": "assets/mappa/1/15_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_0.webp",
+   "sha256": "c1091faa036d9bcce35f9576023dd99d475459e6ac6c3aac5ebe99e8ab86b03f",
+   "byte": 1140
+  },
+  {
+   "path": "assets/mappa/1/15_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_1.webp",
+   "sha256": "5b4b9a163d925edd08d5238207f2644a1eb5817e4fd6b9da963b7b44edb6eca6",
+   "byte": 4662
+  },
+  {
+   "path": "assets/mappa/1/15_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_10.webp",
+   "sha256": "af92dd99513cd42947f91f986c4dc17c22909b09cd76c4656510bdff7b3fcab6",
+   "byte": 3016
+  },
+  {
+   "path": "assets/mappa/1/15_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_11.webp",
+   "sha256": "41cf9a5a66ccae2c98a052e37dcb1648a9a72a91226b646849ed4a79bec5cba8",
+   "byte": 4368
+  },
+  {
+   "path": "assets/mappa/1/15_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_12.webp",
+   "sha256": "0e630c99cf2c7dfcb9a8fe12fba0a8b1f3fcb5f302790ecefe38ee972b829d64",
+   "byte": 7460
+  },
+  {
+   "path": "assets/mappa/1/15_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_13.webp",
+   "sha256": "0415426eb25a07a75efd0272f0c015e6bb684e019b8194addc68ccf0e775f066",
+   "byte": 12332
+  },
+  {
+   "path": "assets/mappa/1/15_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_14.webp",
+   "sha256": "b006cc208a39f36b9ce0fc02f26ca2d527896dc73d110af8124134772e71029f",
+   "byte": 4534
+  },
+  {
+   "path": "assets/mappa/1/15_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_15.webp",
+   "sha256": "21b959650c065cf55ba90edb7d109a27b9698d5d8556de813ce0842a4fa062b6",
+   "byte": 4936
+  },
+  {
+   "path": "assets/mappa/1/15_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_16.webp",
+   "sha256": "4e349a11d4e584e4c71a3f91bba2ff41ac27135f56d7a258f4231f0c8fca90cd",
+   "byte": 5286
+  },
+  {
+   "path": "assets/mappa/1/15_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_17.webp",
+   "sha256": "8e5073ec4092e7192b12a06147e9b53ba9f67af351514697fd4579de8691da23",
+   "byte": 5274
+  },
+  {
+   "path": "assets/mappa/1/15_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_18.webp",
+   "sha256": "75a40454f432c79d98b1b21e31fdea71e2d4fa5a5fe3a2c619d2ba0832ba2741",
+   "byte": 2958
+  },
+  {
+   "path": "assets/mappa/1/15_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_19.webp",
+   "sha256": "d67d58fa91f0495d1c1e218e1c74709523cc40c5538cc8c8e25f375bd54d7904",
+   "byte": 694
+  },
+  {
+   "path": "assets/mappa/1/15_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_2.webp",
+   "sha256": "f5a117ca07e34a438a5492040ffdc10e7ffbefebc8c40306d65fa4ebbe7d1a96",
+   "byte": 5072
+  },
+  {
+   "path": "assets/mappa/1/15_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_20.webp",
+   "sha256": "10654d23d0b94d9f0832336f9c5689db9ab8227e98167b4805918fa890bfb2b9",
+   "byte": 1208
+  },
+  {
+   "path": "assets/mappa/1/15_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_21.webp",
+   "sha256": "360c5a0d05a1717baf127943193c81acb930cbd6172a3c719816930903e2b028",
+   "byte": 2672
+  },
+  {
+   "path": "assets/mappa/1/15_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_22.webp",
+   "sha256": "c5f3a26155badd752ab7b9ad36c3ba939a9798f5265f4727c7781525690839cd",
+   "byte": 1184
+  },
+  {
+   "path": "assets/mappa/1/15_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_3.webp",
+   "sha256": "82decb7316dbdf5d4d21a19a9d8ee7737a32c1f3738930f75571a18054fcb389",
+   "byte": 5998
+  },
+  {
+   "path": "assets/mappa/1/15_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_4.webp",
+   "sha256": "aff8a5a707677a05f2d03f1edf30affdec3a02bcda9f5dde941f31e72d58917a",
+   "byte": 9366
+  },
+  {
+   "path": "assets/mappa/1/15_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_5.webp",
+   "sha256": "78bf1013d8423048fa540dcd477c2be1757c65c82e73044696c5dad6e3ebd0da",
+   "byte": 5624
+  },
+  {
+   "path": "assets/mappa/1/15_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_6.webp",
+   "sha256": "0680a2b185e1756ad20a96c67d38e0cdf3e1ac74e7dec959fcaf14113142449e",
+   "byte": 3718
+  },
+  {
+   "path": "assets/mappa/1/15_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_7.webp",
+   "sha256": "668c7e8a2ab8ff12d27705ba8caf28d31a026629570620cd5a2a11e6de015d26",
+   "byte": 7760
+  },
+  {
+   "path": "assets/mappa/1/15_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_8.webp",
+   "sha256": "1899f326759c85c3d54403ba0effd2abc903e6f2ef73e900fba15b9bff9c6d6d",
+   "byte": 3416
+  },
+  {
+   "path": "assets/mappa/1/15_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/15_9.webp",
+   "sha256": "177310122552a172d93a144fae2246c4d0ca810d4b4a7e9a94c8730c3a444e1f",
+   "byte": 2868
+  },
+  {
+   "path": "assets/mappa/1/16_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_0.webp",
+   "sha256": "384bfd93afdf5c64071889a19294e80b58cf2b4869a99c230afa7f4b4ae4a5de",
+   "byte": 540
+  },
+  {
+   "path": "assets/mappa/1/16_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_1.webp",
+   "sha256": "fd322e6cd6ac735445db453218f1a7f50192c721164780b4d5030f24fa2bd61e",
+   "byte": 3138
+  },
+  {
+   "path": "assets/mappa/1/16_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_10.webp",
+   "sha256": "f85625fd15ede0d65e4bd8908bdde0661a461ca9ce958e02fa11124a3287123b",
+   "byte": 3354
+  },
+  {
+   "path": "assets/mappa/1/16_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_11.webp",
+   "sha256": "d892d1c5a8f5fe7566893e06aeaecac2f9ac26844ea8c6fc78809bb3625aab71",
+   "byte": 2824
+  },
+  {
+   "path": "assets/mappa/1/16_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_12.webp",
+   "sha256": "09b9477414068b25e9ce6f7414bd073db741f51fb5b1e47583a2777cd9211741",
+   "byte": 6510
+  },
+  {
+   "path": "assets/mappa/1/16_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_13.webp",
+   "sha256": "1f2987ce76d71dbc0a41d24346340570b85524b41177c33c2ab06b8ce4812e62",
+   "byte": 13044
+  },
+  {
+   "path": "assets/mappa/1/16_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_14.webp",
+   "sha256": "6b0d3989109c7e7af28fdf6b835ec5f132936bd3643709b3cfa45864939f5e3b",
+   "byte": 7120
+  },
+  {
+   "path": "assets/mappa/1/16_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_15.webp",
+   "sha256": "ea50314088cebc4a111f9c8dfae7b450ab0b431079f3da860667364aa556b1de",
+   "byte": 3404
+  },
+  {
+   "path": "assets/mappa/1/16_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_16.webp",
+   "sha256": "82290066e2b1f8eeb1675f7b20972610090e4ad2dbf7202ef631889fc9406a3c",
+   "byte": 4146
+  },
+  {
+   "path": "assets/mappa/1/16_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_17.webp",
+   "sha256": "9aa7b647d8d0f973e64657f9f6ed369c82555402f7a6de575b5854197aff44e9",
+   "byte": 6616
+  },
+  {
+   "path": "assets/mappa/1/16_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_18.webp",
+   "sha256": "86eb1e8baef3368f811c827f0d0f6442d521b2a5e9d3afbd7945249ec04e19ae",
+   "byte": 2244
+  },
+  {
+   "path": "assets/mappa/1/16_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_19.webp",
+   "sha256": "a57f58bd1c102c51eb1ec6576fea131d430b32e672f0b9b5ff7249e4bff16baa",
+   "byte": 1670
+  },
+  {
+   "path": "assets/mappa/1/16_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_2.webp",
+   "sha256": "74b6e21ce93eb6475d975bb934ddf675cecb10e9ed2992b76a5ee437ba0192cc",
+   "byte": 4766
+  },
+  {
+   "path": "assets/mappa/1/16_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_20.webp",
+   "sha256": "415e272c21291eee44dbf5b4e3d7e85d5a1ca19e49065c5b9b07179614b294dd",
+   "byte": 1552
+  },
+  {
+   "path": "assets/mappa/1/16_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_21.webp",
+   "sha256": "46bc308d17dc543810a554adfb491eac8188efebef07cf02cdcec199306e1461",
+   "byte": 3432
+  },
+  {
+   "path": "assets/mappa/1/16_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_22.webp",
+   "sha256": "77cd11f779a9b1bae3cae729b419ca4439411047b18f901d14fbf0e3e92d21e1",
+   "byte": 3794
+  },
+  {
+   "path": "assets/mappa/1/16_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_3.webp",
+   "sha256": "fd1b472b4f96473f051f798ef18567eb2c1be76974b84bca02308f6b82e4d063",
+   "byte": 3080
+  },
+  {
+   "path": "assets/mappa/1/16_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_4.webp",
+   "sha256": "7c2b0a37679c493854e3c87acf3e63bcc164947e809a35cbaea5d151b0fe70e3",
+   "byte": 5614
+  },
+  {
+   "path": "assets/mappa/1/16_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_5.webp",
+   "sha256": "91e4a53554d50f8f13d6094e47125f52f92f17be0e91b0e59ed4920169fce509",
+   "byte": 5338
+  },
+  {
+   "path": "assets/mappa/1/16_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_6.webp",
+   "sha256": "f3e97c2776cfc4c0bce5a0b38234487c4ee6a6eadd7d66ad678191361f5f92f9",
+   "byte": 2882
+  },
+  {
+   "path": "assets/mappa/1/16_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_7.webp",
+   "sha256": "77d81c872e8d5919c663cfa0e93c3946f148ffc238815b7b03589731445b6d75",
+   "byte": 4298
+  },
+  {
+   "path": "assets/mappa/1/16_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_8.webp",
+   "sha256": "c2a8cd467933ef9bf39b442a36638a91c825b1a3d68e2b43ce3172af01ce281a",
+   "byte": 3898
+  },
+  {
+   "path": "assets/mappa/1/16_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/16_9.webp",
+   "sha256": "076b3e8e74b72241213a35386062e910c6e37aeb5a21b9104be83d87f37bdee1",
+   "byte": 1666
+  },
+  {
+   "path": "assets/mappa/1/17_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_0.webp",
+   "sha256": "f5a8191ece7eecab59c2ced0ca6b85db1bc2607684e5ff60cb946083478746d1",
+   "byte": 4188
+  },
+  {
+   "path": "assets/mappa/1/17_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_1.webp",
+   "sha256": "df26d169af4119e9706ffc0ef3a5c59b8289f5b5297b1aa8cbb02436d272479d",
+   "byte": 10628
+  },
+  {
+   "path": "assets/mappa/1/17_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_10.webp",
+   "sha256": "2b89e89dc41b3cdb8049a796abb5b07659f667677bdb386d32f10dc99f693995",
+   "byte": 7392
+  },
+  {
+   "path": "assets/mappa/1/17_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_11.webp",
+   "sha256": "621e2055e81eb5feff5b26a598e3952b5e9b1398acff8eed899b5b754f2ab1f1",
+   "byte": 1108
+  },
+  {
+   "path": "assets/mappa/1/17_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_12.webp",
+   "sha256": "4d4f72d39751f5a823d5b210eaf7382e1a04ef7eb7dee1d5d4873f2e0bd7e0bf",
+   "byte": 7098
+  },
+  {
+   "path": "assets/mappa/1/17_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_13.webp",
+   "sha256": "ec1834401c7103b13af552211b70292ed374af5d2d1934b7d4f58adb36c086d9",
+   "byte": 9540
+  },
+  {
+   "path": "assets/mappa/1/17_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_14.webp",
+   "sha256": "7629597b200e2a6e5ac332d6b4ba5479503845af6a576a8e1b7b3e9dc03f2fff",
+   "byte": 10528
+  },
+  {
+   "path": "assets/mappa/1/17_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_15.webp",
+   "sha256": "aa0b80447e97f8491e4b1ad9e790cf1ca0a2b2a977170d0d88bf366e2ba0feb6",
+   "byte": 5098
+  },
+  {
+   "path": "assets/mappa/1/17_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_16.webp",
+   "sha256": "e2b8558ebd314237da79c2ff225c6c5f2ae914e0770acdea6662ecafc221a826",
+   "byte": 5058
+  },
+  {
+   "path": "assets/mappa/1/17_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_17.webp",
+   "sha256": "55b2d92d635786f354feb509551041cce150ffb9caaed6932fe4ea31ba8828e8",
+   "byte": 5866
+  },
+  {
+   "path": "assets/mappa/1/17_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_18.webp",
+   "sha256": "08274a8d82c62e9ab619d3ad163812c9b5e97e0d09d24a7759ed91b780077ab1",
+   "byte": 3058
+  },
+  {
+   "path": "assets/mappa/1/17_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_19.webp",
+   "sha256": "52989aa427afc0d998fbb721c4d7b33308524c16a1a21167d8047bcaad3a4001",
+   "byte": 1536
+  },
+  {
+   "path": "assets/mappa/1/17_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_2.webp",
+   "sha256": "e8c6f13cf98876180742849485ba7a66570c235e5b71f3e802c49b78f39787c1",
+   "byte": 7510
+  },
+  {
+   "path": "assets/mappa/1/17_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_20.webp",
+   "sha256": "6b085961284e0eed162a575fb73d147176bb5f5aba259f3c1506e446b2536c6d",
+   "byte": 1776
+  },
+  {
+   "path": "assets/mappa/1/17_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_21.webp",
+   "sha256": "7c030bf78e8ad35acb9e17864ffb21bae9f6f1ee753fedc49ce9b6aa12320e3c",
+   "byte": 2158
+  },
+  {
+   "path": "assets/mappa/1/17_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_22.webp",
+   "sha256": "963de4cc7883359abbb180ee203352206f0e6c1ff7ad6a1d4e2d5b7f4b04818c",
+   "byte": 4172
+  },
+  {
+   "path": "assets/mappa/1/17_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_3.webp",
+   "sha256": "94cd612edc314fea03f7adfe9d23ab4f071790fe52ae862f865462cb67a10ca8",
+   "byte": 4140
+  },
+  {
+   "path": "assets/mappa/1/17_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_4.webp",
+   "sha256": "adb4bef5e150c23dde38d7930cdace007f2c4be080ff60504ee871e533d700a6",
+   "byte": 3636
+  },
+  {
+   "path": "assets/mappa/1/17_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_5.webp",
+   "sha256": "f3f988dfd72225bb737c54feec8fd773f9b8e39d53467f49a930842a79dc3353",
+   "byte": 11256
+  },
+  {
+   "path": "assets/mappa/1/17_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_6.webp",
+   "sha256": "e0f6449c26f2ecea4c149a252082bc56a4d4fde7bf6c51c944654fbd2e0fce4a",
+   "byte": 8346
+  },
+  {
+   "path": "assets/mappa/1/17_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_7.webp",
+   "sha256": "f6937cb5662dcf9eb056dfd0d2ae97f038325e4486640ba9e13188b19cda9f72",
+   "byte": 3680
+  },
+  {
+   "path": "assets/mappa/1/17_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_8.webp",
+   "sha256": "92bcadf4f5703229eba5d0e93979206e60999ca6943b4ab62a75d4c571b93342",
+   "byte": 8410
+  },
+  {
+   "path": "assets/mappa/1/17_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/17_9.webp",
+   "sha256": "82d7b0a4f782512832880e7f2b5c81b7c5dfa2a4438cc28507fcafb87a37b6cc",
+   "byte": 2958
+  },
+  {
+   "path": "assets/mappa/1/18_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_0.webp",
+   "sha256": "7dcbae1119ae1f0018eedc55a0c7ea5c33c49ac5b3767d4e88e85e961ef77da9",
+   "byte": 3382
+  },
+  {
+   "path": "assets/mappa/1/18_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_1.webp",
+   "sha256": "7afe70f862b6e4defcf92b4761dbad353149e14719b6746e03628432552d9be0",
+   "byte": 3628
+  },
+  {
+   "path": "assets/mappa/1/18_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_10.webp",
+   "sha256": "f9c273fd276a2f25aefbb7c4d5d65ad93be3f812040b1ecbee93bea06021b7b8",
+   "byte": 3410
+  },
+  {
+   "path": "assets/mappa/1/18_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_11.webp",
+   "sha256": "ad848888c482255a78490b6acfbc5c6a98479561f896b3fad248e063ec34f6d5",
+   "byte": 3130
+  },
+  {
+   "path": "assets/mappa/1/18_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_12.webp",
+   "sha256": "be37cbb32aa45fe5a829e9f7158293791d18761fd379a9654a31eb1e2ef9c556",
+   "byte": 6718
+  },
+  {
+   "path": "assets/mappa/1/18_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_13.webp",
+   "sha256": "2fa4d3d63b387fef444092bf28e07677d0a75c379300c37b12c0203f242c1896",
+   "byte": 3138
+  },
+  {
+   "path": "assets/mappa/1/18_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_14.webp",
+   "sha256": "66f9a831bf0d618c8bfe457cfda91e13b2f9be77e439ab37ffb5116ad4d53e68",
+   "byte": 6332
+  },
+  {
+   "path": "assets/mappa/1/18_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_15.webp",
+   "sha256": "fd13cbbc430a02ca984855073386528ef5e65a775399248d3086cb55f583c2b9",
+   "byte": 8500
+  },
+  {
+   "path": "assets/mappa/1/18_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_16.webp",
+   "sha256": "abefddd805ebdf7acf37dd9045f652175b96768d2d7938defe369a0c502dbbff",
+   "byte": 4182
+  },
+  {
+   "path": "assets/mappa/1/18_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_17.webp",
+   "sha256": "1df7ae7c24a9f0bca4205305b17bc760c6a966963520747c84b0f027f63a7287",
+   "byte": 8602
+  },
+  {
+   "path": "assets/mappa/1/18_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_18.webp",
+   "sha256": "bb8f3bcde7b40d2ec670032df331d9576e986d000d30d74cc847680089842e93",
+   "byte": 4870
+  },
+  {
+   "path": "assets/mappa/1/18_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_19.webp",
+   "sha256": "3589cd41b5f66c912fded549f50b127642ad2f3b5b3bf262cd2fb4d5c3ea2768",
+   "byte": 4018
+  },
+  {
+   "path": "assets/mappa/1/18_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_2.webp",
+   "sha256": "b8464ee4135400f288460a5a4face4bc21bbef47d7e627a30b5aa34ee052b85d",
+   "byte": 12066
+  },
+  {
+   "path": "assets/mappa/1/18_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_20.webp",
+   "sha256": "5dc53c8a56021c7a7a3a15bdbc738662e189038905f926bd231506dbd41f3c59",
+   "byte": 6018
+  },
+  {
+   "path": "assets/mappa/1/18_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_21.webp",
+   "sha256": "f6a7b9f94aa03c919f6f779d15a47caa108dc85251b614f556b0fd054d4c3d6b",
+   "byte": 5176
+  },
+  {
+   "path": "assets/mappa/1/18_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_22.webp",
+   "sha256": "6117cddce9b1f5d42172be396707383dc1649f1bc80bfd37cbe5b53390993ad2",
+   "byte": 4852
+  },
+  {
+   "path": "assets/mappa/1/18_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_3.webp",
+   "sha256": "4374f5922e69f58c5667deac8fd6300dea9592b477e321584e5c68049a1b5af7",
+   "byte": 5458
+  },
+  {
+   "path": "assets/mappa/1/18_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_4.webp",
+   "sha256": "1e75906a0b69f8620137239ac1419d31e0a108decf682c1a8ef74596ab37562b",
+   "byte": 2334
+  },
+  {
+   "path": "assets/mappa/1/18_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_5.webp",
+   "sha256": "3f2253b88b1f5c3e46d1ead8b5566e432abc9cfc47a37878b29155b5e1eaca1f",
+   "byte": 3390
+  },
+  {
+   "path": "assets/mappa/1/18_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_6.webp",
+   "sha256": "f3f048ece3b133a25d8d7de3bad6e2b7e9c17e2b3185400820076b521bb9e976",
+   "byte": 9892
+  },
+  {
+   "path": "assets/mappa/1/18_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_7.webp",
+   "sha256": "d88d0dc1c50ef3b56f87d0d71682b704deeb415a4f9bbd8cb87121e5b000bc06",
+   "byte": 4504
+  },
+  {
+   "path": "assets/mappa/1/18_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_8.webp",
+   "sha256": "2aba3118405d0e9ef079a1090ecc1bf16a1f9505dcb79193abd1797583b7be04",
+   "byte": 6802
+  },
+  {
+   "path": "assets/mappa/1/18_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/18_9.webp",
+   "sha256": "b10a78049548326e9faaab9f0a3e95a3cabdf6b16395eaf4bec58d065d0e1d46",
+   "byte": 3320
+  },
+  {
+   "path": "assets/mappa/1/19_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_0.webp",
+   "sha256": "70fa588bd483182079e2799da6aa27b2356630e281cef1ce3152105478cd78dc",
+   "byte": 2716
+  },
+  {
+   "path": "assets/mappa/1/19_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_1.webp",
+   "sha256": "37cbc1bf8dddd88fa8a8445658159f6522921f3a751b9db9223414c0ce30f892",
+   "byte": 4568
+  },
+  {
+   "path": "assets/mappa/1/19_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_10.webp",
+   "sha256": "eba0a997ddce4a9e3c48471357a0962719146df5cb9c2a7077e08ca71f299cff",
+   "byte": 3358
+  },
+  {
+   "path": "assets/mappa/1/19_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_11.webp",
+   "sha256": "353625e44107cd27dd6032b858b11a1ed39808e876a51d6b1c6eba8a4bdaf7d7",
+   "byte": 5094
+  },
+  {
+   "path": "assets/mappa/1/19_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_12.webp",
+   "sha256": "8f74922a50b14ce234465a216ed6aef0886d738373fc6205a6809dddcc075006",
+   "byte": 6376
+  },
+  {
+   "path": "assets/mappa/1/19_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_13.webp",
+   "sha256": "28729f07cd059055ffd71a922df88f3178459612282b4648e2e8e3f1f1af9df1",
+   "byte": 2234
+  },
+  {
+   "path": "assets/mappa/1/19_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_14.webp",
+   "sha256": "ffdf620b4674f12ffe8990c7bc80e006d0fdd8bd4ab2b8dc5151a14cf75350ca",
+   "byte": 2726
+  },
+  {
+   "path": "assets/mappa/1/19_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_15.webp",
+   "sha256": "7aa86efcd6f7980f01a4d0cc9a65872186b589c718b9f6ce0c73ffcf796a7061",
+   "byte": 5252
+  },
+  {
+   "path": "assets/mappa/1/19_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_16.webp",
+   "sha256": "95e93ce543f5307c5053b4a69c0a392c9c1a9338c78c28bfa0374234966d95fa",
+   "byte": 4366
+  },
+  {
+   "path": "assets/mappa/1/19_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_17.webp",
+   "sha256": "e9b7c731b7e7908e226a7af4d778dea0162bc51af82b17e0a397606b48ed1691",
+   "byte": 7264
+  },
+  {
+   "path": "assets/mappa/1/19_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_18.webp",
+   "sha256": "3283a339c799f229f89d1e38b52c4e51040f2b1acbde6800632f3f8f996ce07a",
+   "byte": 6158
+  },
+  {
+   "path": "assets/mappa/1/19_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_19.webp",
+   "sha256": "0d4d4a2757a61846ca0cd8654ed533da99e5eeabfde13b292cf3788a27f68ade",
+   "byte": 2542
+  },
+  {
+   "path": "assets/mappa/1/19_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_2.webp",
+   "sha256": "673edcf1f651e8e29eb786818d66a28e1382c570c2e536b7424857d0738ccc63",
+   "byte": 11016
+  },
+  {
+   "path": "assets/mappa/1/19_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_20.webp",
+   "sha256": "4707f00ea7a8ee982f23efb15a7e6919bb1781e93a88cc9c053ef0980f37517e",
+   "byte": 1840
+  },
+  {
+   "path": "assets/mappa/1/19_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_21.webp",
+   "sha256": "340a06a2b9819d95268c35c3d1fdcc3d51ac05a18091f84a3ca74e22ba8c54d5",
+   "byte": 1486
+  },
+  {
+   "path": "assets/mappa/1/19_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_22.webp",
+   "sha256": "23984b0e4569b866bf0249f3d82826f847d3113aa2cb39e03b49ec94845c24c9",
+   "byte": 2426
+  },
+  {
+   "path": "assets/mappa/1/19_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_3.webp",
+   "sha256": "d3d519bed514bf7a7b70996c935150b07d1a5caaf51b7cc486f15b3f2756b58c",
+   "byte": 8378
+  },
+  {
+   "path": "assets/mappa/1/19_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_4.webp",
+   "sha256": "44f239c65ce7a11c92de2747344ea74651e59c0bf9b023b872712d028d2bf43f",
+   "byte": 2220
+  },
+  {
+   "path": "assets/mappa/1/19_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_5.webp",
+   "sha256": "8f003bfb26e3788f8fcd9e4f9611b2aad5be8c639fca1028d91d2f6e38437b78",
+   "byte": 2166
+  },
+  {
+   "path": "assets/mappa/1/19_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_6.webp",
+   "sha256": "38a099f061f191514ccb502699b8b26eb1070073ce8bd9ce50291cc4c55e67f4",
+   "byte": 8962
+  },
+  {
+   "path": "assets/mappa/1/19_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_7.webp",
+   "sha256": "99ad8663f03f8d880bca0b0b7e0088c9887475235e2acdbce5ecb08b2d5a3f80",
+   "byte": 6596
+  },
+  {
+   "path": "assets/mappa/1/19_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_8.webp",
+   "sha256": "c9c9a6be5d526072fd91cf44acb9d41c3f59db99945341c907d0252ed42e2292",
+   "byte": 3622
+  },
+  {
+   "path": "assets/mappa/1/19_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/19_9.webp",
+   "sha256": "c5ba49ef47977eedcd16f96963b039c7809251432b97d6db0e125761ec3dea8c",
+   "byte": 4340
+  },
+  {
+   "path": "assets/mappa/1/1_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_0.webp",
+   "sha256": "cd9318682f74178abb98dfceae39c700d57b7162ce9b7e7de393a19c16597ca7",
+   "byte": 6104
+  },
+  {
+   "path": "assets/mappa/1/1_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_1.webp",
+   "sha256": "3419d9341c732689942cd11288ead2cc09ae8c97687e68da73bd257e82000b71",
+   "byte": 4134
+  },
+  {
+   "path": "assets/mappa/1/1_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_10.webp",
+   "sha256": "a6bdcbe4a22419abf6a97431251d1411f24a538b820cf9edba17f87fe7945d4e",
+   "byte": 5948
+  },
+  {
+   "path": "assets/mappa/1/1_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_11.webp",
+   "sha256": "b1d6771386a8af40330aa650d5f5533e808bc70b809f5818f0dff343ea4bdf94",
+   "byte": 4218
+  },
+  {
+   "path": "assets/mappa/1/1_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_12.webp",
+   "sha256": "89ee2ec68724cc10345373001d59b302322fc1e4cad6a36412f1bf3a6504b9b4",
+   "byte": 5004
+  },
+  {
+   "path": "assets/mappa/1/1_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_13.webp",
+   "sha256": "c3fa051fba7e810a6e0ea8370709eee2112cfa1bc07408a9ee848e94fb191d7c",
+   "byte": 4654
+  },
+  {
+   "path": "assets/mappa/1/1_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_14.webp",
+   "sha256": "f44b3d915bba58b90183fccb7f1ad6d310e2465fbbe2646048da201dc901a131",
+   "byte": 2958
+  },
+  {
+   "path": "assets/mappa/1/1_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_15.webp",
+   "sha256": "6ed6541141cde87783f255b5689fd89ab28c76d23f6499b41d10a8b5241f12e3",
+   "byte": 5568
+  },
+  {
+   "path": "assets/mappa/1/1_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_16.webp",
+   "sha256": "c7c5bb859e1be090b921fcb5a723e97a12ffa340740bc102e150429e6260afa6",
+   "byte": 6360
+  },
+  {
+   "path": "assets/mappa/1/1_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_17.webp",
+   "sha256": "bf04fd2a9d6cb8480cbb7a6b952733d19da36873f799980577a06768a2f76a18",
+   "byte": 2982
+  },
+  {
+   "path": "assets/mappa/1/1_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_18.webp",
+   "sha256": "187128916fae37dba65311af3198ebc32c831740732520c7f8188518c7f4f405",
+   "byte": 3736
+  },
+  {
+   "path": "assets/mappa/1/1_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_19.webp",
+   "sha256": "e3b3893c579b931fd73c0dcfde89605a439b71f1639b9e3d9c15789bef89b0b6",
+   "byte": 5394
+  },
+  {
+   "path": "assets/mappa/1/1_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_2.webp",
+   "sha256": "ae4459ee64965f746bacae2b46e8a6030fcdcec4f79cb016ae93d32ef2006f58",
+   "byte": 2698
+  },
+  {
+   "path": "assets/mappa/1/1_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_20.webp",
+   "sha256": "310d28145da439403b03cf8594b18f3ad941c4b1cb7b18bafa1528b3530b2f13",
+   "byte": 6308
+  },
+  {
+   "path": "assets/mappa/1/1_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_21.webp",
+   "sha256": "d811b0c85f2e28d6dd1c88768c795417c30b4746062375ceee8289b3d70b71e5",
+   "byte": 8228
+  },
+  {
+   "path": "assets/mappa/1/1_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_22.webp",
+   "sha256": "3bcebb0a4049450a91a835679ebc710555f8a8e5c521d74276b3498e50baa88c",
+   "byte": 4646
+  },
+  {
+   "path": "assets/mappa/1/1_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_3.webp",
+   "sha256": "c147fa812758c97d87b75ca99b6d1b7c0432f7b0189f7613b15cf259e9c1c47d",
+   "byte": 3546
+  },
+  {
+   "path": "assets/mappa/1/1_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_4.webp",
+   "sha256": "1bd7fabaae84f6b61c4167dcdfe8d2e27c120d9edd9cbb598fb38b67a8bfffd2",
+   "byte": 6434
+  },
+  {
+   "path": "assets/mappa/1/1_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_5.webp",
+   "sha256": "b66a2ec0f12a36c9c8a630706d9b1a6641843fb331676540cf51995e27184685",
+   "byte": 3280
+  },
+  {
+   "path": "assets/mappa/1/1_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_6.webp",
+   "sha256": "6d4874589a97e9c82a9ff6c705340a3b309ff04636bb5fdb990fe8be515698b6",
+   "byte": 5016
+  },
+  {
+   "path": "assets/mappa/1/1_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_7.webp",
+   "sha256": "f21dd92d2dbcb9d1214e86f66fe9cbb0d0dbaca8b25145e0135fe12029abf62c",
+   "byte": 7118
+  },
+  {
+   "path": "assets/mappa/1/1_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_8.webp",
+   "sha256": "d6e25755dc3b199d132cb7d3fa72167b60730b9573afd78b3e85f3dbcc811e4a",
+   "byte": 8384
+  },
+  {
+   "path": "assets/mappa/1/1_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/1_9.webp",
+   "sha256": "f8fcd4cd43f4ac76d105018245dc39fb1435bc56c72b4669c44f4dc5531c6456",
+   "byte": 5804
+  },
+  {
+   "path": "assets/mappa/1/20_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_0.webp",
+   "sha256": "6cbfa49c932d8886be75f2159b8bbf5d91722871f25ab045f719e7cd9c98b58a",
+   "byte": 6000
+  },
+  {
+   "path": "assets/mappa/1/20_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_1.webp",
+   "sha256": "8023e03019d7752f26fc7adf74b3d8b8826e9ef212e522289b522fb088ccc51e",
+   "byte": 6586
+  },
+  {
+   "path": "assets/mappa/1/20_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_10.webp",
+   "sha256": "f7455fa580627184c681017105266c145105734d089544559d5747349fd9c4a1",
+   "byte": 2218
+  },
+  {
+   "path": "assets/mappa/1/20_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_11.webp",
+   "sha256": "addb91a63e174358e69aba478959685a033ea9f4ef5bcec1ff745b65dc6d9b0c",
+   "byte": 7454
+  },
+  {
+   "path": "assets/mappa/1/20_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_12.webp",
+   "sha256": "c1188ebd09e230fb00c298b4cef75580e709cd14211758fa3e8599643e7e881e",
+   "byte": 6156
+  },
+  {
+   "path": "assets/mappa/1/20_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_13.webp",
+   "sha256": "b07cc545bf8304cd52ae52005d5bcf2dc8cf4ac7bd88eeefa3881239c84f0969",
+   "byte": 7350
+  },
+  {
+   "path": "assets/mappa/1/20_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_14.webp",
+   "sha256": "0785ffd45b69c73b461aac98dfaec9b8ac446e0afef5469de858b2d180e9e3af",
+   "byte": 6716
+  },
+  {
+   "path": "assets/mappa/1/20_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_15.webp",
+   "sha256": "87a1450c1467d8f2a03da2b754e503c610f71ffad3ad43baf236a5cef2386df7",
+   "byte": 4718
+  },
+  {
+   "path": "assets/mappa/1/20_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_16.webp",
+   "sha256": "65107d42f25c578b8193fcf9382434804a43dd7b0fc1bdf3338fa543b326d254",
+   "byte": 6158
+  },
+  {
+   "path": "assets/mappa/1/20_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_17.webp",
+   "sha256": "b16cbbcbadcc38fab43563175886517c77eb312906b6e1d3250cc49a99ac5030",
+   "byte": 10076
+  },
+  {
+   "path": "assets/mappa/1/20_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_18.webp",
+   "sha256": "4288e6fe53d999b0f86985f0f971e27d577a8308284fb9f3f5af6996338c261d",
+   "byte": 7018
+  },
+  {
+   "path": "assets/mappa/1/20_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_19.webp",
+   "sha256": "548ac7655441ebfa028177bcb6f4b16bc323d8669cf1ebbff153ded4fb9b3886",
+   "byte": 3270
+  },
+  {
+   "path": "assets/mappa/1/20_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_2.webp",
+   "sha256": "88d9a0299444bb76d74bffcc5e1a2643de2f5a2cce347a7bc24a4cdbc8cd90ea",
+   "byte": 4122
+  },
+  {
+   "path": "assets/mappa/1/20_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_20.webp",
+   "sha256": "c900365ff24fda089fd0b29efa03db713e1092fbd3630afd63272159d6963190",
+   "byte": 3272
+  },
+  {
+   "path": "assets/mappa/1/20_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_21.webp",
+   "sha256": "33e7610dfed6012492d18adace15926d7a639867df9db67cfabe3aee1d702dc3",
+   "byte": 2986
+  },
+  {
+   "path": "assets/mappa/1/20_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_22.webp",
+   "sha256": "0eaafc06afa88a3d8d49775ecb2f636f90e12ea955c4f333776e6f8986967751",
+   "byte": 680
+  },
+  {
+   "path": "assets/mappa/1/20_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_3.webp",
+   "sha256": "3b9a5a37788c17def4d8955756980e6edf2ab3c528d5a2d1f819b7461e980f8c",
+   "byte": 8422
+  },
+  {
+   "path": "assets/mappa/1/20_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_4.webp",
+   "sha256": "300392d136dd74c39295812eaa13aad6fe77747c24a8f4e6a6ac5eb5fa63d43f",
+   "byte": 6824
+  },
+  {
+   "path": "assets/mappa/1/20_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_5.webp",
+   "sha256": "d7ed097561386a0327673752812d2ce8955b1b024e5658d3b0e00f88d026370b",
+   "byte": 3114
+  },
+  {
+   "path": "assets/mappa/1/20_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_6.webp",
+   "sha256": "1e67d4ffcc714d643a82f0a2ff99047877e2a0fcf8c228ac143671b4a1107e23",
+   "byte": 3546
+  },
+  {
+   "path": "assets/mappa/1/20_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_7.webp",
+   "sha256": "3e95ab351e61e98a3e95d8992841e0dd6dc245c881c435b3cc1564aaa0475aa2",
+   "byte": 8920
+  },
+  {
+   "path": "assets/mappa/1/20_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_8.webp",
+   "sha256": "2098f42082eddcb3277e35c2876e9e9cb4134c99fc2b1c79b928a602b46288c2",
+   "byte": 4868
+  },
+  {
+   "path": "assets/mappa/1/20_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/20_9.webp",
+   "sha256": "532b9694d9ea15cbc7c2f00920dff3fcd4f23a0a5b88f13149b037aaa3ba7cf4",
+   "byte": 1504
+  },
+  {
+   "path": "assets/mappa/1/21_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_0.webp",
+   "sha256": "92f64990c2ce883c43f9bfc0aa9aab2885ecfd58017b90155dee252629a66997",
+   "byte": 4712
+  },
+  {
+   "path": "assets/mappa/1/21_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_1.webp",
+   "sha256": "8a61b29cadd8b0c400b3c1bed64e0fe24d17ea18204729b1283f2cc3dd0ae1b0",
+   "byte": 3722
+  },
+  {
+   "path": "assets/mappa/1/21_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_10.webp",
+   "sha256": "44697df2872e0c29e49105564bd9e8f0acd5ab53ca2130f1f1b858dc49e0823f",
+   "byte": 4184
+  },
+  {
+   "path": "assets/mappa/1/21_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_11.webp",
+   "sha256": "387de3cb0e369777503bd9a6700943ddc61365fd620e2961dceeb86fe13a9146",
+   "byte": 7014
+  },
+  {
+   "path": "assets/mappa/1/21_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_12.webp",
+   "sha256": "2421a70464981a10f58ffdfdc0ad28c41f572a3a3064aa232f8e461c51842e64",
+   "byte": 6876
+  },
+  {
+   "path": "assets/mappa/1/21_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_13.webp",
+   "sha256": "31ee95c1b8c2c12e197a54e1d3eee101b3fbababef893be79f596208a4345990",
+   "byte": 10520
+  },
+  {
+   "path": "assets/mappa/1/21_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_14.webp",
+   "sha256": "560b83ccb5ab5d1f9356742213fa1b181b769ffec3545f06f13458bdbad4c392",
+   "byte": 3528
+  },
+  {
+   "path": "assets/mappa/1/21_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_15.webp",
+   "sha256": "ab35adaf3a593a2162b07bf85b6b066bd54ecf23ab74bf7299ff9821af84a93e",
+   "byte": 2840
+  },
+  {
+   "path": "assets/mappa/1/21_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_16.webp",
+   "sha256": "375bb920e35b957c39a1e4cfb95b3d7fff3672b096708e48ccc4469ed78e721c",
+   "byte": 4852
+  },
+  {
+   "path": "assets/mappa/1/21_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_17.webp",
+   "sha256": "efe0de0e2b08e2534685a2b695660c4f00a97bef41ea19ce302d8ec3801f0a79",
+   "byte": 4464
+  },
+  {
+   "path": "assets/mappa/1/21_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_18.webp",
+   "sha256": "050d15ca2b76fcb09ccb6451d39fef5d1cb7cd6355e248582b267a8458c83fbc",
+   "byte": 7376
+  },
+  {
+   "path": "assets/mappa/1/21_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_19.webp",
+   "sha256": "3958e6c769a9d1ac11b5ce38e1d08892acb52f9be4f3002c827ecd232d5d3f89",
+   "byte": 5944
+  },
+  {
+   "path": "assets/mappa/1/21_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_2.webp",
+   "sha256": "5797930c23687fb54e9f657cacd6e2f7cab26c690d72b17a52689a1144054181",
+   "byte": 2650
+  },
+  {
+   "path": "assets/mappa/1/21_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_20.webp",
+   "sha256": "f5aceb7bdb45f4085a0b0fde83741ba84084ee8abebb91b3355970ba318c6f60",
+   "byte": 2164
+  },
+  {
+   "path": "assets/mappa/1/21_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_21.webp",
+   "sha256": "8b90ac5b160c7c0791ef4f4296d98d5e902c4730f8b856be0a00e802e7904d47",
+   "byte": 682
+  },
+  {
+   "path": "assets/mappa/1/21_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_22.webp",
+   "sha256": "4e1f1ab6534efd1a1b9ccee977778bed9905d9c20229786643f4a7516ce70843",
+   "byte": 2258
+  },
+  {
+   "path": "assets/mappa/1/21_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_3.webp",
+   "sha256": "b08617b1a2bdb706f78b27a04c798bcde2253767f37622b0215440b78251136e",
+   "byte": 3088
+  },
+  {
+   "path": "assets/mappa/1/21_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_4.webp",
+   "sha256": "dbc941c9faa888faf508c1cde04d934c237da2774555c3eb14d0a90ff2a94958",
+   "byte": 6770
+  },
+  {
+   "path": "assets/mappa/1/21_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_5.webp",
+   "sha256": "596412613b90c6d32c903054cd40a6b300d5e74edb7fcfbf9bb21784e9305c7f",
+   "byte": 6988
+  },
+  {
+   "path": "assets/mappa/1/21_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_6.webp",
+   "sha256": "85292820f986d110cce28e88431fcd86c8ce4a6bcb28c2e1a11e6cb835956fd1",
+   "byte": 3262
+  },
+  {
+   "path": "assets/mappa/1/21_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_7.webp",
+   "sha256": "38a37e7f0852ac36e3e4694a461eb1cf9d6c638ec88d545d15cd7cd66cd24826",
+   "byte": 5748
+  },
+  {
+   "path": "assets/mappa/1/21_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_8.webp",
+   "sha256": "32b366ab8c7e81fe49cd2ead5580d457b8e48550234e4937201b2e1232123e54",
+   "byte": 7618
+  },
+  {
+   "path": "assets/mappa/1/21_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/21_9.webp",
+   "sha256": "98c870976c1917cc9823ada39739ac11faf9c4d2de3c0638a23563b1d8b6faf1",
+   "byte": 1838
+  },
+  {
+   "path": "assets/mappa/1/22_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_0.webp",
+   "sha256": "c456fec85dbc293b175c0a249d11204b440996a84f619ea4b6cb0197f58fbf78",
+   "byte": 3360
+  },
+  {
+   "path": "assets/mappa/1/22_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_1.webp",
+   "sha256": "8f348d3e2b892a266296fab8a7e95fe9684d26fa99072cae17b5b32649734bc3",
+   "byte": 2466
+  },
+  {
+   "path": "assets/mappa/1/22_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_10.webp",
+   "sha256": "3701bb35787a01c4c8d358f42d494cd149a91ed4be30549699e8eda90e20406a",
+   "byte": 7466
+  },
+  {
+   "path": "assets/mappa/1/22_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_11.webp",
+   "sha256": "b35e325f975669cde59ccd570a42124a0894a19fa6eb693b91efb61e43d0643a",
+   "byte": 6692
+  },
+  {
+   "path": "assets/mappa/1/22_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_12.webp",
+   "sha256": "918e441fb26ec96de0a6c40e7e4e98f53e3c233b47f46cbddc4ddc7952932968",
+   "byte": 6228
+  },
+  {
+   "path": "assets/mappa/1/22_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_13.webp",
+   "sha256": "59e8e063146a9bfde287bcbe633440f91bb0e5ddc321d42abee4335bd5ab26c5",
+   "byte": 7154
+  },
+  {
+   "path": "assets/mappa/1/22_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_14.webp",
+   "sha256": "763639d85024d1aca924ef8f94c66aa9c153d742956cc21cbe5c0f10bdcf1771",
+   "byte": 4654
+  },
+  {
+   "path": "assets/mappa/1/22_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_15.webp",
+   "sha256": "385136d76f7904f77534aa709b22405d60daa384c606a15643a6871ba5149d44",
+   "byte": 2640
+  },
+  {
+   "path": "assets/mappa/1/22_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_16.webp",
+   "sha256": "67a05f4947258ecad28dac061513a92d5006e954a7cd0c950214d32482ecee8f",
+   "byte": 2208
+  },
+  {
+   "path": "assets/mappa/1/22_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_17.webp",
+   "sha256": "f7fd1d1544a33579bb104422d2ee2f393f6e2cadf3311308dabacfe7514874a6",
+   "byte": 1620
+  },
+  {
+   "path": "assets/mappa/1/22_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_18.webp",
+   "sha256": "a1f1ddc022f12da2e76ec0d105a88e67d8208aaf637dc0dcfca5dc834d86406d",
+   "byte": 3098
+  },
+  {
+   "path": "assets/mappa/1/22_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_19.webp",
+   "sha256": "5af59489b79112d1dd95fa92a7eaa521f12772d32004c0391195e5608964bbc9",
+   "byte": 4906
+  },
+  {
+   "path": "assets/mappa/1/22_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_2.webp",
+   "sha256": "7a19429d462e757a90fe1bbeb3b004cd6b1d9e9f712ccc48ea6fb53ef4762e3b",
+   "byte": 2602
+  },
+  {
+   "path": "assets/mappa/1/22_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_20.webp",
+   "sha256": "3bf8bda013904843ac1a6e81eb891e2fd7529cb3aa4188cd493394a9e126ff51",
+   "byte": 3980
+  },
+  {
+   "path": "assets/mappa/1/22_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_21.webp",
+   "sha256": "17720c9bad4a96dbe8040237a2612dc0fffa8d2fd8e64d4545e6377791711752",
+   "byte": 2094
+  },
+  {
+   "path": "assets/mappa/1/22_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_22.webp",
+   "sha256": "665ef4a97c48e580f5dfc68f54b80866c4c56aeb5287abb16114581fce09f22e",
+   "byte": 2066
+  },
+  {
+   "path": "assets/mappa/1/22_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_3.webp",
+   "sha256": "335d21d7408e4313feeea8f70d9d5242c7b99b5fe750f2c4bb0bc47d83970786",
+   "byte": 1156
+  },
+  {
+   "path": "assets/mappa/1/22_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_4.webp",
+   "sha256": "6388bc26976de54eb405a5be77ea3d42a83c8953fd110a3bd6d01d5a5d4b3068",
+   "byte": 572
+  },
+  {
+   "path": "assets/mappa/1/22_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_5.webp",
+   "sha256": "99abe33a8097fa6e33f56650159838f6217950e36813327ac8563f6907bd7957",
+   "byte": 7356
+  },
+  {
+   "path": "assets/mappa/1/22_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_6.webp",
+   "sha256": "b27ea189ec7943c538de6e9449b887bcaacbcd945ddf15c8ef52b67b06ddb0b5",
+   "byte": 7108
+  },
+  {
+   "path": "assets/mappa/1/22_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_7.webp",
+   "sha256": "0c8ec13b9702da369f8379f0db227b4082549ca73518049f346617f3c89ae4b1",
+   "byte": 4080
+  },
+  {
+   "path": "assets/mappa/1/22_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_8.webp",
+   "sha256": "948895176cf0a45720cd9f359500558f580e95e44fe55f60721796aaf8bb9c5e",
+   "byte": 4074
+  },
+  {
+   "path": "assets/mappa/1/22_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/22_9.webp",
+   "sha256": "154579922471317b9471705c3683c552cb95fe30af5b8d8679f7b3a81a164b13",
+   "byte": 1508
+  },
+  {
+   "path": "assets/mappa/1/23_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_0.webp",
+   "sha256": "7717f389de2b3511ac63fe7ae1f11540b54e79c8a067558d20a1c2d29ab753a7",
+   "byte": 2376
+  },
+  {
+   "path": "assets/mappa/1/23_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_1.webp",
+   "sha256": "103e1bebb9600c1c464816146001e3e3507aa219375f2f0197c97ef18e457f65",
+   "byte": 1700
+  },
+  {
+   "path": "assets/mappa/1/23_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_10.webp",
+   "sha256": "fd29aa2d496ab26147bfc23a98471dc3ea1f4830a76af3bf7346310badadc4da",
+   "byte": 2466
+  },
+  {
+   "path": "assets/mappa/1/23_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_11.webp",
+   "sha256": "c49e4982a2756556710e8230be41117e3d5cdd041b8c82122b71fa9a4b433707",
+   "byte": 2710
+  },
+  {
+   "path": "assets/mappa/1/23_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_12.webp",
+   "sha256": "3fba8af7c9f0861bb097d438d7d4899e896b8424aa20be64c0640f9c8a6fdb15",
+   "byte": 2902
+  },
+  {
+   "path": "assets/mappa/1/23_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_13.webp",
+   "sha256": "33741fbebd36ea1ef942e1f48474f27c6ecc6316ea5b1d23ecd0755e196d0d03",
+   "byte": 1096
+  },
+  {
+   "path": "assets/mappa/1/23_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_14.webp",
+   "sha256": "6fcaebcf6acb225c04e197642f9fe9e1f9ad9611fe3a21c51e7f9490c0164314",
+   "byte": 2876
+  },
+  {
+   "path": "assets/mappa/1/23_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_15.webp",
+   "sha256": "acdee42df2a0aa34405a16a0aa7173dc7b27ff99b18f301992d09df38c46f767",
+   "byte": 1560
+  },
+  {
+   "path": "assets/mappa/1/23_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_16.webp",
+   "sha256": "2541a19746f332482d72203075571670b3400ea90e15c090eb94f9ea12b8901d",
+   "byte": 1862
+  },
+  {
+   "path": "assets/mappa/1/23_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_17.webp",
+   "sha256": "e88402c31cbc59600d30a615ba6c8a44269bb5750862457bd1e088af9b017496",
+   "byte": 920
+  },
+  {
+   "path": "assets/mappa/1/23_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_18.webp",
+   "sha256": "a72e06b84809cd9f27b1dc76cafd38129fa7e3ea4d059462a219de67db73cdb8",
+   "byte": 860
+  },
+  {
+   "path": "assets/mappa/1/23_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_19.webp",
+   "sha256": "cd08b64b020457689ab5c3eb7ba1bcc1640597348070eaff4574f3c9a7ff143f",
+   "byte": 2002
+  },
+  {
+   "path": "assets/mappa/1/23_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_2.webp",
+   "sha256": "dc2dbe798fd74687e51d4b33850eb7b5c04e1fc3b8548b3dbe3a1dc9dffe8fc8",
+   "byte": 2350
+  },
+  {
+   "path": "assets/mappa/1/23_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_20.webp",
+   "sha256": "12dfc900ada1f76f84e2e63ca50da77db4f76729a84370d25cefc1c4e4b22af0",
+   "byte": 2556
+  },
+  {
+   "path": "assets/mappa/1/23_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_21.webp",
+   "sha256": "f0bf052c39dbde386b745032ff4fe92adc23e91e737be6d92d5e39101a5d22d5",
+   "byte": 4522
+  },
+  {
+   "path": "assets/mappa/1/23_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_22.webp",
+   "sha256": "467b76bbde9c3496e9470a9342666fdfc53811f2914048afab1e0132bb84d470",
+   "byte": 2218
+  },
+  {
+   "path": "assets/mappa/1/23_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_3.webp",
+   "sha256": "6847a6b075f34f5e04cf23cbf35617d5601155277f957022ec0fbbaabb334d85",
+   "byte": 382
+  },
+  {
+   "path": "assets/mappa/1/23_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_4.webp",
+   "sha256": "b00f6713bf90b1c4cc4a2229c429d12ee9c9e5158b8bc2e24e81b2dd8ceb4885",
+   "byte": 554
+  },
+  {
+   "path": "assets/mappa/1/23_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_5.webp",
+   "sha256": "90c6cf3ac9c3684bc9a823ddf306b577039013f586e3872674122da29e57374c",
+   "byte": 278
+  },
+  {
+   "path": "assets/mappa/1/23_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_6.webp",
+   "sha256": "65470eeebf11c1e2ffe202065ccd1828e5c5e64f1e897433b89d4142ff47116d",
+   "byte": 5812
+  },
+  {
+   "path": "assets/mappa/1/23_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_7.webp",
+   "sha256": "027d54926aac534a556c4490c188e759560dc59703cf853f12e0d8b7b8b1d6ff",
+   "byte": 3098
+  },
+  {
+   "path": "assets/mappa/1/23_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_8.webp",
+   "sha256": "4230aa34bef1eab6075bc5ae516df5a0f3946094bd165fd01c0a26b92e0786c4",
+   "byte": 1354
+  },
+  {
+   "path": "assets/mappa/1/23_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/23_9.webp",
+   "sha256": "e868f9440ce203fb097ee3fc2f4384fa0f7288c8f762f34ed0e0dc81a9189314",
+   "byte": 1618
+  },
+  {
+   "path": "assets/mappa/1/2_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_0.webp",
+   "sha256": "89d2e9b1edacda7229b87d781d2875739fe1ecf586987eb561de6dc762956305",
+   "byte": 7654
+  },
+  {
+   "path": "assets/mappa/1/2_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_1.webp",
+   "sha256": "a2a51f78092c976abf53e283b5449ebace1fe048086fd7bfd3043065901b6df8",
+   "byte": 4850
+  },
+  {
+   "path": "assets/mappa/1/2_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_10.webp",
+   "sha256": "84e99920eb82deb5cfe2c3c586dad14e2f7aee3aab01e49f51f73889910b6d69",
+   "byte": 4170
+  },
+  {
+   "path": "assets/mappa/1/2_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_11.webp",
+   "sha256": "7d6a7a7831c7a483acdab831c0b0adac37902454679e1434eb895e8ce802735d",
+   "byte": 3630
+  },
+  {
+   "path": "assets/mappa/1/2_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_12.webp",
+   "sha256": "058d4695d639482a3e420da7ddd84bbec23866a57dc80ee1f4dc8f711bb3a81e",
+   "byte": 5404
+  },
+  {
+   "path": "assets/mappa/1/2_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_13.webp",
+   "sha256": "660202db0452b09aad5963a4e405ca70a12835c75fdf8d5fd56b7ebfb0748bd9",
+   "byte": 5396
+  },
+  {
+   "path": "assets/mappa/1/2_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_14.webp",
+   "sha256": "8114d362f0490f9b7255e08173114b21d4a4dc1dd843b50c19fe06dd14a9a5d7",
+   "byte": 4840
+  },
+  {
+   "path": "assets/mappa/1/2_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_15.webp",
+   "sha256": "eb4415c051a7a6323d3aff6a0627969c1a4bf5496a9717bc596854f825f5c599",
+   "byte": 4100
+  },
+  {
+   "path": "assets/mappa/1/2_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_16.webp",
+   "sha256": "00681fe1ef74d0b031684c263e4e7be9adb63c8599185d5ff0877c25b98a67c5",
+   "byte": 5746
+  },
+  {
+   "path": "assets/mappa/1/2_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_17.webp",
+   "sha256": "2a36f5e3ec67159bdf9dafa9fd8a1a83b16bebead9d197f7ca2e9eea59d18c46",
+   "byte": 2558
+  },
+  {
+   "path": "assets/mappa/1/2_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_18.webp",
+   "sha256": "33be6e0e88f8c9259d769018177306e36bbeee09dfe808012e275102383d29b2",
+   "byte": 4198
+  },
+  {
+   "path": "assets/mappa/1/2_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_19.webp",
+   "sha256": "fa640bbb4affe60143020d5a4f6097fb2916ac078128ce70074923dfe96de5d6",
+   "byte": 1786
+  },
+  {
+   "path": "assets/mappa/1/2_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_2.webp",
+   "sha256": "2b915d6c12c48a5c43d72cb0af3b327ab7d845d208e2c55b249c32b9bbe7a2d4",
+   "byte": 6552
+  },
+  {
+   "path": "assets/mappa/1/2_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_20.webp",
+   "sha256": "622924b4c9df34c1445ce2628d5176fdb51ed7b2f144f85b993481f01e9a5f2c",
+   "byte": 3176
+  },
+  {
+   "path": "assets/mappa/1/2_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_21.webp",
+   "sha256": "1f3dfcd6a07d0c665380ce2ecc6e4554faf1ff41e0232ddc739fd70bad7cd30b",
+   "byte": 3342
+  },
+  {
+   "path": "assets/mappa/1/2_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_22.webp",
+   "sha256": "b659ea8c76ea86ef3edefe5fd0f61c5004a60f832fa4de3188598eb6b54b16eb",
+   "byte": 7080
+  },
+  {
+   "path": "assets/mappa/1/2_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_3.webp",
+   "sha256": "0c43aa3b5602eb2c5337234737dd12f1d3bfe3acf4765ee302368e1ed4019e07",
+   "byte": 6786
+  },
+  {
+   "path": "assets/mappa/1/2_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_4.webp",
+   "sha256": "4234deaeeca0f9f3bdf9517b9db920e781ce895a6a3d7900f527e97c177cb595",
+   "byte": 2940
+  },
+  {
+   "path": "assets/mappa/1/2_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_5.webp",
+   "sha256": "90021ae92a9e96f4b099915df85f84b05bc415bed317d0e01107d4ac3b2121f4",
+   "byte": 3616
+  },
+  {
+   "path": "assets/mappa/1/2_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_6.webp",
+   "sha256": "891be2ab1d68310897870689067b41f08ab1df131ec2ca3078108a95ed308279",
+   "byte": 4174
+  },
+  {
+   "path": "assets/mappa/1/2_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_7.webp",
+   "sha256": "3f6d10df3dfdae2f1083a165df13e9db003c3b533de26ccb1d6a99e4ca3f7e97",
+   "byte": 5318
+  },
+  {
+   "path": "assets/mappa/1/2_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_8.webp",
+   "sha256": "4e1175ae1cf853a7f85e57858ce6cb384e037b3e6e2c96e9a809061bdf416a07",
+   "byte": 2876
+  },
+  {
+   "path": "assets/mappa/1/2_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/2_9.webp",
+   "sha256": "a3d08946e7ccb6a665a6f844dde60820ab1e2d10de5b3b6988801065ea6fe146",
+   "byte": 7338
+  },
+  {
+   "path": "assets/mappa/1/3_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_0.webp",
+   "sha256": "93b6dd7f1a60414c5da85063e8fff4d4880b869b687244f9d845a732c49b632c",
+   "byte": 11846
+  },
+  {
+   "path": "assets/mappa/1/3_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_1.webp",
+   "sha256": "57420093438da06b027d73b150382c0391151abe61efec0094facb15ec82459f",
+   "byte": 7230
+  },
+  {
+   "path": "assets/mappa/1/3_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_10.webp",
+   "sha256": "9e48cd685328014cebb97a5e2588aa361976f5fe9a7b3eda7682cceb80b753c7",
+   "byte": 12418
+  },
+  {
+   "path": "assets/mappa/1/3_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_11.webp",
+   "sha256": "a75bdde81f84802d1fc4bbd7f2210bf6e62dad38a2fed8ef31dd146e9a6dfb02",
+   "byte": 9178
+  },
+  {
+   "path": "assets/mappa/1/3_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_12.webp",
+   "sha256": "8235f8eea8e299101b09368d9b3cc6d0da48d8d4716a6be85e28524c1aa4f07d",
+   "byte": 7338
+  },
+  {
+   "path": "assets/mappa/1/3_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_13.webp",
+   "sha256": "a2bbf042ea1b6dd155626e57f89cc1543a1288772d586d3426eafabf935bf576",
+   "byte": 5086
+  },
+  {
+   "path": "assets/mappa/1/3_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_14.webp",
+   "sha256": "482de568d98be713bf50406b65adaade3b6a7667526476a43da2980e60c9054d",
+   "byte": 3586
+  },
+  {
+   "path": "assets/mappa/1/3_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_15.webp",
+   "sha256": "246d40e1c1d00adb1679ceeaeb92ed3f4857bf509b8a6582253bdfb7d7b04ca9",
+   "byte": 6214
+  },
+  {
+   "path": "assets/mappa/1/3_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_16.webp",
+   "sha256": "39482ccf046ffa1856d4a3d0664bc88b698a6f853f26ad367c71887d5f423c05",
+   "byte": 1678
+  },
+  {
+   "path": "assets/mappa/1/3_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_17.webp",
+   "sha256": "fe1745d725340f36c1b5e935eae88456bfd8b6f7004d1d2cf8b403cfc39bb1e4",
+   "byte": 1730
+  },
+  {
+   "path": "assets/mappa/1/3_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_18.webp",
+   "sha256": "ff11b3131d2530541cbdaadb795d109efee74441826898cd79cb5e8224919335",
+   "byte": 1416
+  },
+  {
+   "path": "assets/mappa/1/3_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_19.webp",
+   "sha256": "985d38bab258e4c9b536a38b13987a16f2bed2c42d52f67e11d622eb2ae32402",
+   "byte": 1998
+  },
+  {
+   "path": "assets/mappa/1/3_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_2.webp",
+   "sha256": "1da96c1c87697f4f1599839fbd98f2940b606908100913a5e0349f9639c1d6b3",
+   "byte": 4618
+  },
+  {
+   "path": "assets/mappa/1/3_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_20.webp",
+   "sha256": "f50b92ed84a40b4c87e229ba1e9c1986a136c8a3eece264cda0de956ee141db1",
+   "byte": 3156
+  },
+  {
+   "path": "assets/mappa/1/3_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_21.webp",
+   "sha256": "26db881e6589e3fa0af8719fbf9856dfa515a22c35f95670b8967423167795be",
+   "byte": 4430
+  },
+  {
+   "path": "assets/mappa/1/3_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_22.webp",
+   "sha256": "7733dcec6ac8140db8b46e3871d842c8fae060731f0299672a5fcb53bf15074d",
+   "byte": 2136
+  },
+  {
+   "path": "assets/mappa/1/3_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_3.webp",
+   "sha256": "d6e10e3f468faf683d61e80e9c1bde14142839325df87bbc6d18fc88ed292ddc",
+   "byte": 4026
+  },
+  {
+   "path": "assets/mappa/1/3_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_4.webp",
+   "sha256": "e8d893c5aa27ec733b724ad87cbff9750f9dad1fb67ef0155689a4ef38708288",
+   "byte": 4742
+  },
+  {
+   "path": "assets/mappa/1/3_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_5.webp",
+   "sha256": "d4f72df23cbb32562385709533490490df614417b795fc2dd0147649f8464eb5",
+   "byte": 5992
+  },
+  {
+   "path": "assets/mappa/1/3_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_6.webp",
+   "sha256": "6dc61f9db175719fa9b7cb0962414bf716549f8d4ebc430038af347e0994cdba",
+   "byte": 11096
+  },
+  {
+   "path": "assets/mappa/1/3_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_7.webp",
+   "sha256": "f9ac389bde2642c7b9532b480570731f0d5a4248933cd449cec3ea9df7ffafb8",
+   "byte": 3454
+  },
+  {
+   "path": "assets/mappa/1/3_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_8.webp",
+   "sha256": "e5382ab863ebe82f570b7db5438c4aca04ac3f4c886d4f5d18e9330a9559d8fb",
+   "byte": 9800
+  },
+  {
+   "path": "assets/mappa/1/3_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/3_9.webp",
+   "sha256": "8bcff2e4c3977d6ae89dd3cedc495c1598a807faf184e1367367ddf03a86654d",
+   "byte": 8936
+  },
+  {
+   "path": "assets/mappa/1/4_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_0.webp",
+   "sha256": "bb7b97dd9ed81eb522e1b98b9d924d4f77424815efd0711996bbc0472aa4f038",
+   "byte": 9036
+  },
+  {
+   "path": "assets/mappa/1/4_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_1.webp",
+   "sha256": "3646330ae71561e62b2d2a4720022b31d183db54bce655db58f9454f27851ced",
+   "byte": 11556
+  },
+  {
+   "path": "assets/mappa/1/4_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_10.webp",
+   "sha256": "3ee820b6d8e40db1fd7cc45ae0589c5b4eca33b16c2d97fc9412acd17866a61b",
+   "byte": 10418
+  },
+  {
+   "path": "assets/mappa/1/4_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_11.webp",
+   "sha256": "252914f465bffa6ec74062fd8009ac65d6162e038b06ba3f2feadd56e082845e",
+   "byte": 9524
+  },
+  {
+   "path": "assets/mappa/1/4_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_12.webp",
+   "sha256": "bfa6dca0f0fe75b4bd59e5d3687b011de5d81c1ebc2f9c9849a6600757b2d314",
+   "byte": 8484
+  },
+  {
+   "path": "assets/mappa/1/4_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_13.webp",
+   "sha256": "ac846e87db20394d8cec8bca72acd2b1639c9ed0a7b75918b22debb2a13517f3",
+   "byte": 6590
+  },
+  {
+   "path": "assets/mappa/1/4_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_14.webp",
+   "sha256": "55a5b91062b2b74b772b2cda048d1d62909070666695e8a10225209949358f8e",
+   "byte": 5148
+  },
+  {
+   "path": "assets/mappa/1/4_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_15.webp",
+   "sha256": "b5c988bb2945b1111f306fd47f7a99bf197fa25573935bb5e1295c07fbbced95",
+   "byte": 2482
+  },
+  {
+   "path": "assets/mappa/1/4_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_16.webp",
+   "sha256": "a18c1bdd068ec63ea46fdac64f267e8ec4d5b4032e40bc26aacef6aa8094a74c",
+   "byte": 666
+  },
+  {
+   "path": "assets/mappa/1/4_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_17.webp",
+   "sha256": "6575e7e2c6e8167658c029aee35ba2ceb4fb5767ba4bfa72bc54aac98f1add56",
+   "byte": 980
+  },
+  {
+   "path": "assets/mappa/1/4_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_18.webp",
+   "sha256": "cf6a76554e44b553918824c2d9a859725ec56dd21bd1d88dc81e7a226285f427",
+   "byte": 3142
+  },
+  {
+   "path": "assets/mappa/1/4_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_19.webp",
+   "sha256": "2f7353a3f265d8c2b089a3fb9831ab694d8dfc56fc8582eecc27c9fa16bdec13",
+   "byte": 3812
+  },
+  {
+   "path": "assets/mappa/1/4_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_2.webp",
+   "sha256": "182e18ecd32520c8a508a04526d2252ced1fe7a6c87d7b6f2926fad86014ca6c",
+   "byte": 3114
+  },
+  {
+   "path": "assets/mappa/1/4_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_20.webp",
+   "sha256": "338b9a6edd2a269dcf8b92ec9b4f6f7cb4568dc8ac3124aa9d3420e797d2704c",
+   "byte": 4188
+  },
+  {
+   "path": "assets/mappa/1/4_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_21.webp",
+   "sha256": "cb74f5d854d8a40c61f26bd5e06c4c6f471b65f3e2dabe9856672ab25ea54f36",
+   "byte": 3518
+  },
+  {
+   "path": "assets/mappa/1/4_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_22.webp",
+   "sha256": "10dff56add79fd12a3aa47251f56d67967f0c2fcd06f0f8504c6a7852514129d",
+   "byte": 2840
+  },
+  {
+   "path": "assets/mappa/1/4_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_3.webp",
+   "sha256": "d00c58e17904ab9997a02739b52a6ea3c94810723794c71743338202016e442a",
+   "byte": 6998
+  },
+  {
+   "path": "assets/mappa/1/4_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_4.webp",
+   "sha256": "e1f39488ee936b6e8248d5612cb3a8d0bd8dbd1d41fc508932bd1e870f37e2e2",
+   "byte": 10872
+  },
+  {
+   "path": "assets/mappa/1/4_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_5.webp",
+   "sha256": "e3599e533aa3c8aa38374fecba80956f2d09dbd04a12c1ed59622eac850b7ad8",
+   "byte": 9690
+  },
+  {
+   "path": "assets/mappa/1/4_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_6.webp",
+   "sha256": "1ddbf7d6a756725ec4bc568833b7b2f63f8f8583cee3a2fcb9daa7aa0161ce94",
+   "byte": 6084
+  },
+  {
+   "path": "assets/mappa/1/4_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_7.webp",
+   "sha256": "420befe6da7f073b193fc4e189b80df88faab406bec41b4f651ebc1fc25c4faf",
+   "byte": 8512
+  },
+  {
+   "path": "assets/mappa/1/4_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_8.webp",
+   "sha256": "9f8bfc8cca7201412b14b13077b34fa8c7b5ecf4b51dd0c1d52178ebab86d690",
+   "byte": 11564
+  },
+  {
+   "path": "assets/mappa/1/4_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/4_9.webp",
+   "sha256": "906e3ec4e232d7507b77a19412fc86d7088df7a590dcc2eb059d2a1810d562dc",
+   "byte": 9360
+  },
+  {
+   "path": "assets/mappa/1/5_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_0.webp",
+   "sha256": "c98b2d8e458a8b777ba785173659d4d1059764116b53806c9bf3ebc904b62988",
+   "byte": 7442
+  },
+  {
+   "path": "assets/mappa/1/5_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_1.webp",
+   "sha256": "56ac0d55952d6dfdc4f68552327d4b8949aec1483a221aef299bc4077e2d775c",
+   "byte": 10598
+  },
+  {
+   "path": "assets/mappa/1/5_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_10.webp",
+   "sha256": "461912e99a105938d67e4b3517e080d53875008c9567535601db1da5e548c970",
+   "byte": 7126
+  },
+  {
+   "path": "assets/mappa/1/5_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_11.webp",
+   "sha256": "c82f464c2bf10c1a6d171b26c37990ec6756040d4a55e2e2877bcecbbc66d73d",
+   "byte": 9910
+  },
+  {
+   "path": "assets/mappa/1/5_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_12.webp",
+   "sha256": "dab6679130d70887a086dfccf05e5d8a44ccc2f92c6f214c37d09d82d6740e32",
+   "byte": 6632
+  },
+  {
+   "path": "assets/mappa/1/5_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_13.webp",
+   "sha256": "4655d55ea04048210a8f54e94c2b169264f670769e4c14cae2333c3f9ce60ecd",
+   "byte": 5848
+  },
+  {
+   "path": "assets/mappa/1/5_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_14.webp",
+   "sha256": "b4e7f998f752618e1f5e551321b19a75206d8067705d6016368241339085fecd",
+   "byte": 3436
+  },
+  {
+   "path": "assets/mappa/1/5_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_15.webp",
+   "sha256": "ccda292ea4191e55861f5e10c1894e49d475caafe08e4fd923379997631d1f5e",
+   "byte": 3510
+  },
+  {
+   "path": "assets/mappa/1/5_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_16.webp",
+   "sha256": "3d6b5ff1754f479bdc62c904b434d48d7f1e8d06617019abd48af32d257b3d06",
+   "byte": 3690
+  },
+  {
+   "path": "assets/mappa/1/5_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_17.webp",
+   "sha256": "23eb6c7fa521160f5adcf718776a54b85121a9cb9680329b22c771cb02435d7e",
+   "byte": 3022
+  },
+  {
+   "path": "assets/mappa/1/5_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_18.webp",
+   "sha256": "ea87af5a2815073405f842749617597d444b82233637464fdb3ef965c43120d1",
+   "byte": 3448
+  },
+  {
+   "path": "assets/mappa/1/5_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_19.webp",
+   "sha256": "8dedc9a6f317c3f6dfe3d3f6389690f93d18722e888698629d6a1cc0edae9a82",
+   "byte": 4202
+  },
+  {
+   "path": "assets/mappa/1/5_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_2.webp",
+   "sha256": "2fe787c9a918201ffa600b8f3830727cb94579d7d3fce0362b3f0dd00609c8d2",
+   "byte": 8846
+  },
+  {
+   "path": "assets/mappa/1/5_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_20.webp",
+   "sha256": "87e529a5db831cce9efe58ae6e50d6c80037923eaa1c814137f2ca970023aabb",
+   "byte": 5894
+  },
+  {
+   "path": "assets/mappa/1/5_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_21.webp",
+   "sha256": "8d303175309e1a2f270aa67a83947db1f2416c5ea12d08ff5bac8eb0889cad17",
+   "byte": 5542
+  },
+  {
+   "path": "assets/mappa/1/5_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_22.webp",
+   "sha256": "6136edbe14f09b98bfd2439135ca4fdd40d362bfe5495efe104fb08e99cb2e80",
+   "byte": 1164
+  },
+  {
+   "path": "assets/mappa/1/5_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_3.webp",
+   "sha256": "a27e73d5b867d5c7a980735e8913569df50d71e663c5382bb6c623b11b1511a5",
+   "byte": 4504
+  },
+  {
+   "path": "assets/mappa/1/5_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_4.webp",
+   "sha256": "6e4ed7fd37dcd0d6fa63b080634112bf948c08a16a16b0debcf4aace697f8ed8",
+   "byte": 5414
+  },
+  {
+   "path": "assets/mappa/1/5_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_5.webp",
+   "sha256": "06d5b1639238857ce3d81e769b4c008f2250ef90ed4a1a101f5b5f94fe0526d8",
+   "byte": 9086
+  },
+  {
+   "path": "assets/mappa/1/5_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_6.webp",
+   "sha256": "1bdd5222351d428e1d2ffababfb5bc776708bc1f3ada2f43cf9240d1900834a8",
+   "byte": 9326
+  },
+  {
+   "path": "assets/mappa/1/5_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_7.webp",
+   "sha256": "caa7b9a5bdfa2084c5c0540bbba4dd1d2a3cbf46b8419bc61a634c0624ce8a4d",
+   "byte": 7898
+  },
+  {
+   "path": "assets/mappa/1/5_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_8.webp",
+   "sha256": "6dbed55276018230866f08ac3280b996177f6f9ae96d37002c2558b250c2ed0a",
+   "byte": 11326
+  },
+  {
+   "path": "assets/mappa/1/5_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/5_9.webp",
+   "sha256": "0b4f06d00f12da79c9f6885ea4d8eee5fb43b043f7a225f3300eb5f0d1e589be",
+   "byte": 10800
+  },
+  {
+   "path": "assets/mappa/1/6_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_0.webp",
+   "sha256": "4ffbb7b762b747ad7803180ed8f4c1a9c467656cdd83ca99fb307d7329e9d0bc",
+   "byte": 3244
+  },
+  {
+   "path": "assets/mappa/1/6_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_1.webp",
+   "sha256": "b40cc215e193a38c980a80b3add586cf9fa2c21740110b09b6d6ed4edfa21df8",
+   "byte": 10852
+  },
+  {
+   "path": "assets/mappa/1/6_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_10.webp",
+   "sha256": "ff45257e7874861ad88a11c4c9f0a86c42812f9982eeeab5b3cbaadf5dc3a593",
+   "byte": 8116
+  },
+  {
+   "path": "assets/mappa/1/6_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_11.webp",
+   "sha256": "950ee98b15d37ee791d12e898259321b8dd18cb416324adc14dcca554e86bee2",
+   "byte": 9304
+  },
+  {
+   "path": "assets/mappa/1/6_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_12.webp",
+   "sha256": "17b553a56b895f4af51fede0a5937c8178f6a49be8778878ef4dca96387e799d",
+   "byte": 7852
+  },
+  {
+   "path": "assets/mappa/1/6_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_13.webp",
+   "sha256": "c9477698c289e941f89826994a46d7c505e66ac14f54806704a95ac428e9c64e",
+   "byte": 6164
+  },
+  {
+   "path": "assets/mappa/1/6_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_14.webp",
+   "sha256": "554fda5774334ee6372a83aca7a1e5bce192194ade143210707a2b2a37f5bc16",
+   "byte": 2272
+  },
+  {
+   "path": "assets/mappa/1/6_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_15.webp",
+   "sha256": "be1e06d2eca242a7e1c6a0245464a4af622ca8365f0f48e4168656a2a083b1e6",
+   "byte": 4544
+  },
+  {
+   "path": "assets/mappa/1/6_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_16.webp",
+   "sha256": "17de33ae83272ae5e40dbcc0a8a72373a4670dd316ccb26cf4590b1be9b6f24d",
+   "byte": 5466
+  },
+  {
+   "path": "assets/mappa/1/6_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_17.webp",
+   "sha256": "6c95dd8bb6ba6ce269ba5460d2009641d775cb5160982b940d8ed96a2451b661",
+   "byte": 4652
+  },
+  {
+   "path": "assets/mappa/1/6_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_18.webp",
+   "sha256": "a1b1d2ee7f2802c6a445138bf17672e130a044b029b89bf37354fd1459d24ba5",
+   "byte": 3716
+  },
+  {
+   "path": "assets/mappa/1/6_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_19.webp",
+   "sha256": "27c7540f0c5e6f4597faf809a0648df59c1c65153ef238823914c9041d7f3e96",
+   "byte": 3592
+  },
+  {
+   "path": "assets/mappa/1/6_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_2.webp",
+   "sha256": "e9570d9935a02de9f6abd7466600cc2cd3e001a116f160a4bd60830a56b40579",
+   "byte": 8586
+  },
+  {
+   "path": "assets/mappa/1/6_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_20.webp",
+   "sha256": "1e7642de1f969a07d304ea31daf5dd7987920adadec9be35abe1be62ed58adf1",
+   "byte": 4630
+  },
+  {
+   "path": "assets/mappa/1/6_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_21.webp",
+   "sha256": "b2697f04174f4b9b54332a9171a7f8d5f8591267ec723898b2f8dd30628a3d87",
+   "byte": 6848
+  },
+  {
+   "path": "assets/mappa/1/6_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_22.webp",
+   "sha256": "0c78165d1bee7627a00afbaf0012de22807b7d3436bbf06d5dab388e2a99f169",
+   "byte": 2914
+  },
+  {
+   "path": "assets/mappa/1/6_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_3.webp",
+   "sha256": "a21a23a307764abf0c44c93558826e59d1f4ade27c50c80925680c8f7c397d0b",
+   "byte": 7438
+  },
+  {
+   "path": "assets/mappa/1/6_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_4.webp",
+   "sha256": "c47992e71dc86d2e9d695e27c338e6d4f3fabf23bae99a9415a3bf9b8a58cf77",
+   "byte": 5344
+  },
+  {
+   "path": "assets/mappa/1/6_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_5.webp",
+   "sha256": "a1893a9edb06542a33894145cea3a465513febb05867c7abf3e8190409aae53a",
+   "byte": 7662
+  },
+  {
+   "path": "assets/mappa/1/6_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_6.webp",
+   "sha256": "b66c53faf8c002a148612f9aa16512f82287f1d2dfba40c54e604c95d7e0edaa",
+   "byte": 8964
+  },
+  {
+   "path": "assets/mappa/1/6_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_7.webp",
+   "sha256": "fd3698db6b0ecdd0976b0311e428f73863a5c2cd61de290d6b339d0d2158360b",
+   "byte": 9928
+  },
+  {
+   "path": "assets/mappa/1/6_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_8.webp",
+   "sha256": "ecb0f8e9245bdd9828d795454db4eacf978537ae2c6c937fb595989fa7e5cc4f",
+   "byte": 8046
+  },
+  {
+   "path": "assets/mappa/1/6_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/6_9.webp",
+   "sha256": "8f57896ec665ab1c60223321246757943a35694c025a21e94330f39c55927dc4",
+   "byte": 11308
+  },
+  {
+   "path": "assets/mappa/1/7_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_0.webp",
+   "sha256": "fcf7118861b4e04dcc3b4b3e69bc48cfd298a1684295fc2d78dc49d05d55e305",
+   "byte": 4388
+  },
+  {
+   "path": "assets/mappa/1/7_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_1.webp",
+   "sha256": "05ec5ecfc92073b1a117d31cff223dfe788852287e08a9ecc13fa343e8ebf1b2",
+   "byte": 8130
+  },
+  {
+   "path": "assets/mappa/1/7_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_10.webp",
+   "sha256": "f509113cb752817051306b2a2e775c44ebb35ff2390418c4dc036e2755e5f0f2",
+   "byte": 2422
+  },
+  {
+   "path": "assets/mappa/1/7_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_11.webp",
+   "sha256": "572e811f09b6dd1d801a5a0c00689d02da6db3f939cf0fba234cf15282f23789",
+   "byte": 6076
+  },
+  {
+   "path": "assets/mappa/1/7_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_12.webp",
+   "sha256": "1f3d2970b6ee24ccf6cdc6b842c5044a2dbb7c381a0ef0b2543d4aa2d3ce5ada",
+   "byte": 9718
+  },
+  {
+   "path": "assets/mappa/1/7_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_13.webp",
+   "sha256": "f74b4619241e2a8f75a064245a5b5f89efa80bab92259c62e22129722929c8e0",
+   "byte": 7214
+  },
+  {
+   "path": "assets/mappa/1/7_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_14.webp",
+   "sha256": "2a22efce78ce0d96da6132888911cff1a8a519eb958b535a28d13098c9fca61c",
+   "byte": 4154
+  },
+  {
+   "path": "assets/mappa/1/7_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_15.webp",
+   "sha256": "9532b3bf0cf109b73782a0d5a963a669a0e1951ca50b0a72df0509e4f4f9702d",
+   "byte": 5766
+  },
+  {
+   "path": "assets/mappa/1/7_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_16.webp",
+   "sha256": "390454125447c96de44341efa7fb7f878b0d28eaa6efdc48a1fbb49f56c3fc00",
+   "byte": 5630
+  },
+  {
+   "path": "assets/mappa/1/7_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_17.webp",
+   "sha256": "55b8dde6c67547e87c2861dc0271bb9203c26264c68870a076f656dcdfc7c17c",
+   "byte": 2704
+  },
+  {
+   "path": "assets/mappa/1/7_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_18.webp",
+   "sha256": "6fb5332daa45ca7ab151bcdba17a7acf05a12d03e885d60b9e07d56297736d06",
+   "byte": 7578
+  },
+  {
+   "path": "assets/mappa/1/7_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_19.webp",
+   "sha256": "d35aaef81257e9dea8d61e1b44f98da03e4c38c39ba5adac03916e845a1d848b",
+   "byte": 5254
+  },
+  {
+   "path": "assets/mappa/1/7_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_2.webp",
+   "sha256": "aa69548fbbe09a893ef78cb7303da7cef085fbfea057aef8fe22e54c38f92d7f",
+   "byte": 9720
+  },
+  {
+   "path": "assets/mappa/1/7_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_20.webp",
+   "sha256": "6ada21ab0653baceb267bb02c99a87ba39b3ee7eeb2709be635ce893e247b5ec",
+   "byte": 5004
+  },
+  {
+   "path": "assets/mappa/1/7_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_21.webp",
+   "sha256": "2b228594ab421b981c9c4628581f068d7447ab6f17dd86d9db29e1337b5aea96",
+   "byte": 1668
+  },
+  {
+   "path": "assets/mappa/1/7_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_22.webp",
+   "sha256": "ce42aca5519925a3ec7c1c7897d445c55c03bdfc59518548f97cc7f48dfabdba",
+   "byte": 3454
+  },
+  {
+   "path": "assets/mappa/1/7_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_3.webp",
+   "sha256": "0fd04cb7647dab2142acbfd53e028fea2acc5a7ef720e7a949de758e8d68cfa1",
+   "byte": 8104
+  },
+  {
+   "path": "assets/mappa/1/7_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_4.webp",
+   "sha256": "8f9f2947ca4746237d158c443de3e533bb2999e01eb54c068e6985bbaf34b2f5",
+   "byte": 11594
+  },
+  {
+   "path": "assets/mappa/1/7_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_5.webp",
+   "sha256": "5b149d8a2937bd539baf57f294365cffe56b62c11a29ffbfb69922f99c34122f",
+   "byte": 7926
+  },
+  {
+   "path": "assets/mappa/1/7_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_6.webp",
+   "sha256": "a2bfe7868df1fe37492417a33342acf736eff8e8c0f66f5b88c895fac79cef26",
+   "byte": 9882
+  },
+  {
+   "path": "assets/mappa/1/7_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_7.webp",
+   "sha256": "a2e3f455c3696fbfe6152980ab28e5034db4b95fb4f223fb8917d1cb89404323",
+   "byte": 8290
+  },
+  {
+   "path": "assets/mappa/1/7_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_8.webp",
+   "sha256": "fa54a826f4b0f5e1422722ba1cb34f73f9c6c1fcfae4191383efbea9f1170a69",
+   "byte": 9412
+  },
+  {
+   "path": "assets/mappa/1/7_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/7_9.webp",
+   "sha256": "34d9c2b9216e4b145142efd27d069acbe10165e15822fcdbe401ef850fc2172f",
+   "byte": 5652
+  },
+  {
+   "path": "assets/mappa/1/8_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_0.webp",
+   "sha256": "bb0e841405ff00c3f3a0524f38c31af4867094626c796b1490c9a224e683aa3f",
+   "byte": 11132
+  },
+  {
+   "path": "assets/mappa/1/8_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_1.webp",
+   "sha256": "1d27acd7cb077578a3cf7dd249eb64f3279a79c392ac31b3297761e7001c1591",
+   "byte": 5630
+  },
+  {
+   "path": "assets/mappa/1/8_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_10.webp",
+   "sha256": "ae0df84b074527fd4ee76991c42ab5322bc2fdf80d5487ee045bc98bbf788ea1",
+   "byte": 4408
+  },
+  {
+   "path": "assets/mappa/1/8_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_11.webp",
+   "sha256": "301c8c837d6cf118a7fdeedf5fc62c3c3e0dc25c727907c09cc811bd4b7e303b",
+   "byte": 8048
+  },
+  {
+   "path": "assets/mappa/1/8_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_12.webp",
+   "sha256": "70c23e00fd1b3dbff01187c6b8f9b7b3482871d050b561f8eb473aa8cb821382",
+   "byte": 6396
+  },
+  {
+   "path": "assets/mappa/1/8_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_13.webp",
+   "sha256": "e8853769052f06a941e578158e758d1a99fea3e2ddb5fc447c239409fb636fbb",
+   "byte": 2328
+  },
+  {
+   "path": "assets/mappa/1/8_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_14.webp",
+   "sha256": "7578c96b215734de491c8fa796f3f7ab269ec53e43b6a9f926c044dcd2b74d10",
+   "byte": 1510
+  },
+  {
+   "path": "assets/mappa/1/8_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_15.webp",
+   "sha256": "d1f324b3cf610b3a4c381d0a06a3e86c0a1c965bee60ff23d7b7166f12f94c45",
+   "byte": 9552
+  },
+  {
+   "path": "assets/mappa/1/8_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_16.webp",
+   "sha256": "b1140f1ac720c958f7cb63073f6feef788c9c2aa47c3353605b91d7daafb26a8",
+   "byte": 6358
+  },
+  {
+   "path": "assets/mappa/1/8_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_17.webp",
+   "sha256": "defcdde909560475278cbe2c6e026fb6d9d1487aef886fd719f3ce9f336becee",
+   "byte": 5602
+  },
+  {
+   "path": "assets/mappa/1/8_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_18.webp",
+   "sha256": "b6b5cf7902e02e6cd9e860067c9c08a3a4a6ef7c41e3455f2bc598c6e5413d91",
+   "byte": 6920
+  },
+  {
+   "path": "assets/mappa/1/8_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_19.webp",
+   "sha256": "638075f145cb5cef6f3553d6daadec35f478c4337acc4826fe69d8021cfb7829",
+   "byte": 7430
+  },
+  {
+   "path": "assets/mappa/1/8_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_2.webp",
+   "sha256": "63110092d969fd6a1b27b9bbc64ce39a510134684097017d67cd0f37b5b671ee",
+   "byte": 8064
+  },
+  {
+   "path": "assets/mappa/1/8_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_20.webp",
+   "sha256": "f7db28ccb90f674571d819e93ab8e4e522ca0fded59ac27c0f477c4c85548c53",
+   "byte": 4282
+  },
+  {
+   "path": "assets/mappa/1/8_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_21.webp",
+   "sha256": "f1e8a01aadd42f9f59d96c9e40903de701c2dbdf6cdd7b0ddf88354db702a323",
+   "byte": 5500
+  },
+  {
+   "path": "assets/mappa/1/8_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_22.webp",
+   "sha256": "eab7a37237fd952a5471ac6b4c5d2030d779f1074ef15fddd97942ac065be8c8",
+   "byte": 2388
+  },
+  {
+   "path": "assets/mappa/1/8_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_3.webp",
+   "sha256": "656d336e3814807f68ff508d4b52789ba308aaf2d8d308768f4a3bc735fa7059",
+   "byte": 9664
+  },
+  {
+   "path": "assets/mappa/1/8_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_4.webp",
+   "sha256": "cc9f6dd3b47564106513d7bb48321f38114f11721704efdc7a3e771ce13dc871",
+   "byte": 10224
+  },
+  {
+   "path": "assets/mappa/1/8_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_5.webp",
+   "sha256": "3e6260562d0c251fa8022c84c773496f1bf9793ad19f73a154364404c89f3d2a",
+   "byte": 8136
+  },
+  {
+   "path": "assets/mappa/1/8_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_6.webp",
+   "sha256": "f0b60e571c83b2da71911ef68c1fc1375f86d7b034ee4246edc7bf16304ccbb0",
+   "byte": 5650
+  },
+  {
+   "path": "assets/mappa/1/8_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_7.webp",
+   "sha256": "9a43a0bcaa928ee87a98e92bdc0cadf61536dac0866dce6b97bc6653a1e5f827",
+   "byte": 8914
+  },
+  {
+   "path": "assets/mappa/1/8_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_8.webp",
+   "sha256": "60f42c269c514ff63230f310164a1ba6051f8328257f2df3338fed8a7e0fcfd5",
+   "byte": 2696
+  },
+  {
+   "path": "assets/mappa/1/8_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/8_9.webp",
+   "sha256": "37d7daeca2df3f38a194085aadf9f15b60bcbf65cca6ae7a1279b66b1bdda8a0",
+   "byte": 7892
+  },
+  {
+   "path": "assets/mappa/1/9_0.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_0.webp",
+   "sha256": "7e2991027aab781ee7edd2fb84679e4a95103f5402a129d78e59af7cf302b06a",
+   "byte": 6550
+  },
+  {
+   "path": "assets/mappa/1/9_1.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_1.webp",
+   "sha256": "f196008812b1153ff879798dd8353e4e5378e105c30e95bebecff23d7d79ce2c",
+   "byte": 8146
+  },
+  {
+   "path": "assets/mappa/1/9_10.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_10.webp",
+   "sha256": "79795b6a4f80909914ac5add172d45ff00f68b2f3cece73a33244cee88c3cc5a",
+   "byte": 9604
+  },
+  {
+   "path": "assets/mappa/1/9_11.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_11.webp",
+   "sha256": "eefa1ea80c2c12af49b73923bbae78fb2259bf684afa73dbc568ee84c5a4c452",
+   "byte": 8360
+  },
+  {
+   "path": "assets/mappa/1/9_12.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_12.webp",
+   "sha256": "7fadb41ace4ff7865c9d59a4fc54cb6b67d48db3bde13dc2ec8b33c24edd6f8f",
+   "byte": 12674
+  },
+  {
+   "path": "assets/mappa/1/9_13.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_13.webp",
+   "sha256": "93b7dc5fe16865007361f1962293635b79043e3d5d5365b17e1df9c64eec2627",
+   "byte": 7068
+  },
+  {
+   "path": "assets/mappa/1/9_14.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_14.webp",
+   "sha256": "9fb2c1f6cfeaf479bc5ac280c06d1599d7acba8607d3c99e3cf4e1875d20407b",
+   "byte": 2738
+  },
+  {
+   "path": "assets/mappa/1/9_15.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_15.webp",
+   "sha256": "83d7d3787b0e889a816152414aae8570669df6799d504a75759851fe7962db60",
+   "byte": 7824
+  },
+  {
+   "path": "assets/mappa/1/9_16.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_16.webp",
+   "sha256": "1e451a1ca5e3a258bc89ee447e7b71f25908b21820a7b07d894ac78227478073",
+   "byte": 7288
+  },
+  {
+   "path": "assets/mappa/1/9_17.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_17.webp",
+   "sha256": "17b4ea7e24bb992856cd485e7bade9b3593d5f7e12953a9d5e385b25706f0d41",
+   "byte": 12820
+  },
+  {
+   "path": "assets/mappa/1/9_18.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_18.webp",
+   "sha256": "a09d6ee445e960741e979d7551bb8cd0c4bbea111efbb8176082d04ecbd4c950",
+   "byte": 8884
+  },
+  {
+   "path": "assets/mappa/1/9_19.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_19.webp",
+   "sha256": "46535e1eb751140a969aea068145a739d192567e35eb53f900dcace9b217c70e",
+   "byte": 6792
+  },
+  {
+   "path": "assets/mappa/1/9_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_2.webp",
+   "sha256": "ca22deb1580a55c680bdd81f39c8b8526ba251e25ffaff8eb874f10e13942665",
+   "byte": 7058
+  },
+  {
+   "path": "assets/mappa/1/9_20.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_20.webp",
+   "sha256": "6d0ea2d2194231dc894410775def4c2306594cbb6053ed548db01a338aa7c341",
+   "byte": 3102
+  },
+  {
+   "path": "assets/mappa/1/9_21.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_21.webp",
+   "sha256": "92a5dcaf954ce4ae0deee5b6466996b0f01e7993f4048a71e24824b7f01d6af3",
+   "byte": 1856
+  },
+  {
+   "path": "assets/mappa/1/9_22.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_22.webp",
+   "sha256": "2904ad5835d47ebe2fd3a3d5101071a835a3a3abc2655b6c3e110317f6ca9612",
+   "byte": 2474
+  },
+  {
+   "path": "assets/mappa/1/9_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_3.webp",
+   "sha256": "37cb58be4a25f836c94799ba7859c0de0b481ca78115518c6b9e7cfb32c9f549",
+   "byte": 6964
+  },
+  {
+   "path": "assets/mappa/1/9_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_4.webp",
+   "sha256": "282c85db0442c7ea7c6236566368afa6d04bd045d800e7ab5037a6d67746262d",
+   "byte": 9262
+  },
+  {
+   "path": "assets/mappa/1/9_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_5.webp",
+   "sha256": "8e6fa79f30d506f3574a1e29eb69ba9969269c60fd14676f1ba12c83573deda2",
+   "byte": 8516
+  },
+  {
+   "path": "assets/mappa/1/9_6.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_6.webp",
+   "sha256": "290e064725b0cfffebea304d1c9f3d81ea0b55fac1996eb0ad14c8fb2bbb15d3",
+   "byte": 10172
+  },
+  {
+   "path": "assets/mappa/1/9_7.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_7.webp",
+   "sha256": "e027cb826aceefb0eda4077503304c4c9fb6972880e91ac143beae8c4535ea79",
+   "byte": 10918
+  },
+  {
+   "path": "assets/mappa/1/9_8.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_8.webp",
+   "sha256": "493b9d4e19a3fb91986e8cc0a3c413a80a8e5b024b74ae6994e909d9838bf654",
+   "byte": 8546
+  },
+  {
+   "path": "assets/mappa/1/9_9.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/1/9_9.webp",
+   "sha256": "2a5fa5d0dccda141311d52df6d16faff56869c9caeb802bb7ac90e2b5d2a57a8",
+   "byte": 8488
   },
   {
    "path": "dati/aguzza.json",
@@ -69,6 +3381,12 @@
    "byte": 73963
   },
   {
+   "path": "dati/mappa.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/mappa.json",
+   "sha256": "4f386bdab6e466a439dfb18dfb83a73ed65b0a62e1abfc08c2cda49af055eb7b",
+   "byte": 975
+  },
+  {
    "path": "dati/orari_autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/orari_autobus.json",
    "sha256": "770895b69e66504db966588ddca72b7b30cbd58418504a070dda7fb3fd7ef4b3",
@@ -109,6 +3427,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/storia.json",
    "sha256": "1157a1f365ac9b5caad213110f4f47224110fc74763c1d9a004b32a9b55dc837",
    "byte": 19
+  },
+  {
+   "path": "dati/tessere.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/tessere.json",
+   "sha256": "8f8b40d658206660c062b7f0e5e5eda2c02ac66fd893a48f09feb04a0b399ff6",
+   "byte": 6319
   },
   {
    "path": "dati/vaporetti.json",
