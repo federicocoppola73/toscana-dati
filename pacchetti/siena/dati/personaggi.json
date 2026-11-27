@@ -240,7 +240,18 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [
+        {
+          "id": "duccio-di-buoninsegna",
+          "testo": {
+            "it": "Il collegamento è artistico: Duccio raffigurò Sant'Ansano nella Maestà, una delle opere più importanti della pittura senese medievale.",
+            "en": "The link is artistic: Duccio depicted Saint Ansanus in the Maestà, one of the most important works of medieval Sienese painting.",
+            "fr": "Le lien est artistique : Duccio représenta saint Ansane dans la Maestà, l'une des œuvres les plus importantes de la peinture siennoise médiévale.",
+            "de": "Der Bezug ist künstlerisch: Duccio stellte den heiligen Ansanus in der Maestà dar, einem der wichtigsten Werke der mittelalterlichen sienesischen Malerei.",
+            "es": "El vínculo es artístico: Duccio representó a San Ansano en la Maestà, una de las obras más importantes de la pintura sienesa medieval."
+          }
+        }
+      ]
     },
     {
       "id": "sigerico-di-canterbury",
@@ -457,6 +468,1079 @@
             "fr": "C'est le centre de la vie religieuse du diocèse et il permet de raconter le rôle des évêques dans l'histoire de la ville. L'édifice actuel résulte de phases de construction successives et ne doit pas être identifié à la cathédrale de l'époque de Maur.",
             "de": "Er ist das Zentrum des religiösen Lebens der Diözese und erlaubt es, die Rolle der Bischöfe in der Stadtgeschichte zu erzählen. Das heutige Gebäude ist das Ergebnis späterer Bauphasen und darf nicht mit dem Dom zur Zeit Mauros gleichgesetzt werden.",
             "es": "Es el centro de la vida religiosa de la diócesis y permite contar el papel de los obispos en la historia de la ciudad. El edificio actual es fruto de fases constructivas posteriores y no debe identificarse con la catedral de la época de Mauro."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "duccio-di-buoninsegna",
+      "nome": "Duccio di Buoninsegna",
+      "nascita": 1255,
+      "morte": 1318,
+      "professione": {
+        "it": "Pittore",
+        "en": "Painter",
+        "fr": "Peintre",
+        "de": "Maler",
+        "es": "Pintor"
+      },
+      "luogoNascita": {
+        "it": "Non documentato (tradizionalmente Siena)",
+        "en": "Not documented (traditionally Siena)",
+        "fr": "Non documenté (traditionnellement Sienne)",
+        "de": "Nicht belegt (traditionell Siena)",
+        "es": "No documentado (tradicionalmente Siena)"
+      },
+      "dataNascita": {
+        "it": "1255 circa (probabile)",
+        "en": "c. 1255 (probable)",
+        "fr": "vers 1255 (probable)",
+        "de": "um 1255 (wahrscheinlich)",
+        "es": "hacia 1255 (probable)"
+      },
+      "luogoMorte": {
+        "it": "Non documentato",
+        "en": "Not documented",
+        "fr": "Non documenté",
+        "de": "Nicht belegt",
+        "es": "No documentado"
+      },
+      "dataMorte": {
+        "it": "1318 (probabile)",
+        "en": "1318 (probable)",
+        "fr": "1318 (probable)",
+        "de": "1318 (wahrscheinlich)",
+        "es": "1318 (probable)"
+      },
+      "biografia": {
+        "it": "Duccio di Buoninsegna è considerato uno dei fondatori della grande scuola pittorica senese. Le prime testimonianze documentarie che lo riguardano risalgono al 1278, quando ricevette un pagamento dal Comune di Siena per aver decorato alcune casse destinate a custodire documenti. Nei primi anni della sua attività lavorò anche alla decorazione di libri e manoscritti, un settore nel quale pittura e miniatura erano strettamente legate.\n\nLa sua carriera si sviluppò in una Siena che stava vivendo una fase di grande crescita economica e politica. Il Comune investiva nella costruzione e nell'abbellimento degli edifici pubblici e religiosi, affidando agli artisti opere destinate a rappresentare la ricchezza e il prestigio della città.\n\nIl suo capolavoro è la Maestà, commissionata nel 1308 per l'altare maggiore della Cattedrale e completata nel 1311. Si tratta di una grande tavola dipinta su entrambe le facce: sul lato principale la Madonna in trono è circondata da angeli e santi, mentre sul retro sono narrate numerose scene della Passione di Cristo. L'opera era collocata al centro della vita religiosa cittadina e fu accompagnata da una solenne processione durante il suo trasferimento in Duomo.\n\nDuccio seppe rinnovare la tradizione bizantina attraverso una pittura più elegante e narrativa, nella quale la ricchezza dei colori, l'uso dell'oro e la delicatezza delle figure contribuirono a definire un linguaggio riconoscibile. La sua influenza fu fondamentale per gli artisti senesi della generazione successiva.\n\nNon conosciamo con certezza la sua data di nascita. Gli studiosi la collocano generalmente intorno al 1255, sulla base dei documenti che attestano la sua attività già nel 1278. Morì probabilmente nel 1318: nel 1319 i figli risultavano già impegnati nella rinuncia all'eredità.",
+        "en": "Duccio di Buoninsegna is considered one of the founders of the great Sienese school of painting. The earliest documents about him date to 1278, when he was paid by the Commune of Siena for decorating some chests meant to hold documents. In his early years he also worked on the decoration of books and manuscripts, a field in which painting and illumination were closely linked.\n\nHis career developed in a Siena going through a phase of great economic and political growth. The Commune invested in building and embellishing public and religious buildings, entrusting artists with works meant to express the city's wealth and prestige.\n\nHis masterpiece is the Maestà, commissioned in 1308 for the high altar of the Cathedral and completed in 1311. It is a large panel painted on both sides: on the main side the Madonna enthroned is surrounded by angels and saints, while on the back many scenes of Christ's Passion are told. The work stood at the centre of the city's religious life and was accompanied by a solemn procession when it was carried to the Duomo.\n\nDuccio renewed the Byzantine tradition through a more elegant and narrative painting, in which rich colours, the use of gold and the delicacy of the figures helped define a recognisable language. His influence was fundamental for the Sienese artists of the next generation.\n\nWe do not know his birth date for certain. Scholars generally place it around 1255, on the basis of documents showing he was already active in 1278. He probably died in 1318: in 1319 his sons were already renouncing the inheritance.",
+        "fr": "Duccio di Buoninsegna est considéré comme l'un des fondateurs de la grande école de peinture siennoise. Les premiers documents qui le concernent remontent à 1278, quand il reçut un paiement de la Commune de Sienne pour avoir décoré des coffres destinés à conserver des documents. Dans ses premières années, il travailla aussi à la décoration de livres et de manuscrits, un domaine où peinture et enluminure étaient étroitement liées.\n\nSa carrière se développa dans une Sienne en pleine croissance économique et politique. La Commune investissait dans la construction et l'embellissement des édifices publics et religieux, confiant aux artistes des œuvres destinées à exprimer la richesse et le prestige de la ville.\n\nSon chef-d'œuvre est la Maestà, commandée en 1308 pour le maître-autel de la cathédrale et achevée en 1311. C'est un grand panneau peint sur ses deux faces : sur la face principale, la Vierge en majesté est entourée d'anges et de saints, tandis qu'au revers sont racontées de nombreuses scènes de la Passion du Christ. L'œuvre se trouvait au centre de la vie religieuse de la cité et fut accompagnée d'une procession solennelle lors de son transfert au Duomo.\n\nDuccio sut renouveler la tradition byzantine par une peinture plus élégante et narrative, où la richesse des couleurs, l'usage de l'or et la délicatesse des figures contribuèrent à définir un langage reconnaissable. Son influence fut fondamentale pour les artistes siennois de la génération suivante.\n\nNous ne connaissons pas avec certitude sa date de naissance. Les spécialistes la situent généralement vers 1255, d'après les documents attestant son activité dès 1278. Il mourut probablement en 1318 : en 1319, ses fils renonçaient déjà à l'héritage.",
+        "de": "Duccio di Buoninsegna gilt als einer der Begründer der großen sienesischen Malerschule. Die frühesten Urkunden über ihn stammen von 1278, als er von der Kommune Siena eine Zahlung für die Bemalung von Truhen zur Aufbewahrung von Dokumenten erhielt. In seinen ersten Jahren arbeitete er auch an der Ausschmückung von Büchern und Handschriften, einem Bereich, in dem Malerei und Buchmalerei eng verbunden waren.\n\nSeine Laufbahn entfaltete sich in einem Siena, das eine Phase großen wirtschaftlichen und politischen Wachstums erlebte. Die Kommune investierte in den Bau und die Ausschmückung öffentlicher und kirchlicher Gebäude und vertraute den Künstlern Werke an, die den Reichtum und das Ansehen der Stadt zum Ausdruck bringen sollten.\n\nSein Meisterwerk ist die Maestà, 1308 für den Hochaltar des Doms in Auftrag gegeben und 1311 vollendet. Es handelt sich um eine große, beidseitig bemalte Tafel: Auf der Hauptseite thront die Madonna umgeben von Engeln und Heiligen, auf der Rückseite werden zahlreiche Szenen der Passion Christi erzählt. Das Werk stand im Mittelpunkt des religiösen Lebens der Stadt und wurde bei seiner Überführung in den Dom von einer feierlichen Prozession begleitet.\n\nDuccio erneuerte die byzantinische Tradition durch eine elegantere, erzählerische Malerei, in der Farbenreichtum, Goldverwendung und die Zartheit der Figuren zu einer wiedererkennbaren Sprache beitrugen. Sein Einfluss war für die sienesischen Künstler der nächsten Generation grundlegend.\n\nSein Geburtsdatum kennen wir nicht sicher. Die Forschung setzt es meist um 1255 an, ausgehend von Dokumenten, die seine Tätigkeit schon 1278 belegen. Er starb wahrscheinlich 1318: 1319 waren seine Söhne bereits dabei, das Erbe auszuschlagen.",
+        "es": "Duccio di Buoninsegna es considerado uno de los fundadores de la gran escuela pictórica sienesa. Los primeros documentos que le atañen datan de 1278, cuando recibió un pago del Comune de Siena por decorar unos cofres destinados a guardar documentos. En sus primeros años trabajó también en la decoración de libros y manuscritos, un campo en el que pintura y miniatura estaban estrechamente unidas.\n\nSu carrera se desarrolló en una Siena que vivía una fase de gran crecimiento económico y político. El Comune invertía en la construcción y el embellecimiento de edificios públicos y religiosos, y encargaba a los artistas obras destinadas a representar la riqueza y el prestigio de la ciudad.\n\nSu obra maestra es la Maestà, encargada en 1308 para el altar mayor de la catedral y terminada en 1311. Es una gran tabla pintada por ambas caras: en la principal, la Virgen entronizada está rodeada de ángeles y santos, mientras que en el reverso se narran numerosas escenas de la Pasión de Cristo. La obra se hallaba en el centro de la vida religiosa de la ciudad y fue acompañada por una solemne procesión en su traslado al Duomo.\n\nDuccio supo renovar la tradición bizantina con una pintura más elegante y narrativa, en la que la riqueza del color, el uso del oro y la delicadeza de las figuras contribuyeron a definir un lenguaje reconocible. Su influencia fue fundamental para los artistas sieneses de la generación siguiente.\n\nNo conocemos con certeza su fecha de nacimiento. Los estudiosos la sitúan en general hacia 1255, a partir de los documentos que atestiguan su actividad ya en 1278. Murió probablemente en 1318: en 1319 sus hijos ya estaban renunciando a la herencia."
+      },
+      "curiosita": {
+        "it": [
+          "Una pala bifronte: la Maestà non era pensata soltanto per essere osservata dai fedeli, ma anche per consentire ai religiosi di vedere le scene della Passione sul retro.",
+          "La processione del 1311: la tavola fu portata in Duomo nel giugno del 1311 con una processione cittadina, accompagnata da una partecipazione popolare particolarmente sentita.",
+          "Un'opera smembrata: nel corso dei secoli l'opera fu smontata e separata. Oggi le sue parti principali sono conservate nel Museo dell'Opera del Duomo, mentre alcuni elementi si trovano in musei e collezioni internazionali.",
+          "Un'arte autonoma: la sua figura è fondamentale per comprendere la nascita di una tradizione artistica senese autonoma rispetto a quella fiorentina."
+        ],
+        "en": [
+          "A two-sided altarpiece: the Maestà was meant not only to be seen by the faithful but also to let the clergy see the scenes of the Passion on the back.",
+          "The 1311 procession: the panel was carried to the Duomo in June 1311 in a city procession, with deeply felt popular participation.",
+          "A dismembered work: over the centuries the work was taken apart and separated. Today its main parts are in the Museo dell'Opera del Duomo, while some elements are in international museums and collections.",
+          "An independent art: his figure is essential to understand the birth of a Sienese artistic tradition independent of the Florentine one."
+        ],
+        "fr": [
+          "Un retable à double face : la Maestà n'était pas conçue seulement pour être vue des fidèles, mais aussi pour permettre au clergé de voir les scènes de la Passion au revers.",
+          "La procession de 1311 : le panneau fut porté au Duomo en juin 1311 lors d'une procession de la cité, avec une participation populaire très marquée.",
+          "Une œuvre démembrée : au fil des siècles, l'œuvre fut démontée et dispersée. Aujourd'hui, ses parties principales sont conservées au Museo dell'Opera del Duomo, tandis que certains éléments se trouvent dans des musées et collections internationaux.",
+          "Un art autonome : sa figure est essentielle pour comprendre la naissance d'une tradition artistique siennoise autonome par rapport à la tradition florentine."
+        ],
+        "de": [
+          "Ein beidseitiges Altarbild: Die Maestà war nicht nur dazu gedacht, von den Gläubigen betrachtet zu werden, sondern auch, dem Klerus den Blick auf die Passionsszenen auf der Rückseite zu ermöglichen.",
+          "Die Prozession von 1311: Die Tafel wurde im Juni 1311 in einer Stadtprozession in den Dom getragen, begleitet von besonders starker Anteilnahme der Bevölkerung.",
+          "Ein zerlegtes Werk: Im Lauf der Jahrhunderte wurde das Werk auseinandergenommen und getrennt. Heute befinden sich seine Hauptteile im Museo dell'Opera del Duomo, einzelne Teile in internationalen Museen und Sammlungen.",
+          "Eine eigenständige Kunst: Seine Gestalt ist grundlegend, um die Entstehung einer von der florentinischen unabhängigen sienesischen Kunsttradition zu verstehen."
+        ],
+        "es": [
+          "Un retablo de doble cara: la Maestà no estaba pensada solo para ser contemplada por los fieles, sino también para que los religiosos pudieran ver las escenas de la Pasión del reverso.",
+          "La procesión de 1311: la tabla fue llevada al Duomo en junio de 1311 en una procesión ciudadana, con una participación popular especialmente sentida.",
+          "Una obra desmembrada: a lo largo de los siglos la obra fue desmontada y separada. Hoy sus partes principales se conservan en el Museo dell'Opera del Duomo, mientras que algunos elementos se hallan en museos y colecciones internacionales.",
+          "Un arte autónomo: su figura es fundamental para entender el nacimiento de una tradición artística sienesa autónoma respecto a la florentina."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta",
+        "piazza-del-campo",
+        "palazzo-pubblico-museo-civico"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Il Duomo ospitò sull'altare maggiore la Maestà, la commissione più importante della carriera di Duccio.",
+            "en": "The Duomo housed the Maestà on its high altar, the most important commission of Duccio's career.",
+            "fr": "Le Duomo accueillit sur son maître-autel la Maestà, la commande la plus importante de la carrière de Duccio.",
+            "de": "Der Dom beherbergte auf dem Hochaltar die Maestà, den bedeutendsten Auftrag in Duccios Laufbahn.",
+            "es": "El Duomo albergó en el altar mayor la Maestà, el encargo más importante de la carrera de Duccio."
+          }
+        },
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Insieme al Palazzo Pubblico permette di raccontare il contesto politico ed economico nel quale il Comune commissionava opere d'arte di grande prestigio.",
+            "en": "Together with the Palazzo Pubblico, it helps tell the political and economic context in which the Commune commissioned prestigious works of art.",
+            "fr": "Avec le Palazzo Pubblico, elle permet de raconter le contexte politique et économique dans lequel la Commune commandait des œuvres d'art de grand prestige.",
+            "de": "Zusammen mit dem Palazzo Pubblico lässt sie den politischen und wirtschaftlichen Zusammenhang erzählen, in dem die Kommune hochrangige Kunstwerke in Auftrag gab.",
+            "es": "Junto con el Palazzo Pubblico, permite contar el contexto político y económico en el que el Comune encargaba obras de arte de gran prestigio."
+          }
+        },
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Sede del governo comunale, rappresenta il contesto politico ed economico nel quale il Comune commissionava opere d'arte di grande prestigio.",
+            "en": "Seat of the communal government, it represents the political and economic context in which the Commune commissioned prestigious works of art.",
+            "fr": "Siège du gouvernement communal, il représente le contexte politique et économique dans lequel la Commune commandait des œuvres d'art de grand prestige.",
+            "de": "Als Sitz der Stadtregierung steht er für den politischen und wirtschaftlichen Zusammenhang, in dem die Kommune hochrangige Kunstwerke in Auftrag gab.",
+            "es": "Sede del gobierno comunal, representa el contexto político y económico en el que el Comune encargaba obras de arte de gran prestigio."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "simone-martini",
+          "testo": {
+            "it": "Il giovane Simone si formò nell'ambiente artistico senese e nell'orbita della bottega di Duccio. La sua pittura mostra richiami e riprese della produzione del maestro, anche se i dettagli del loro rapporto personale e professionale non sono del tutto ricostruibili.",
+            "en": "The young Simone trained in the Sienese artistic milieu and in the orbit of Duccio's workshop. His painting shows echoes and borrowings from the master's output, although the details of their personal and professional relationship cannot be fully reconstructed.",
+            "fr": "Le jeune Simone se forma dans le milieu artistique siennois et dans l'orbite de l'atelier de Duccio. Sa peinture montre des échos et des reprises de la production du maître, même si les détails de leur relation personnelle et professionnelle ne sont pas entièrement reconstituables.",
+            "de": "Der junge Simone bildete sich im sienesischen Künstlermilieu und im Umfeld von Duccios Werkstatt aus. Seine Malerei zeigt Anklänge und Übernahmen aus dem Schaffen des Meisters, auch wenn sich die Einzelheiten ihres persönlichen und beruflichen Verhältnisses nicht vollständig rekonstruieren lassen.",
+            "es": "El joven Simone se formó en el ambiente artístico sienés y en la órbita del taller de Duccio. Su pintura muestra ecos y reutilizaciones de la producción del maestro, aunque los detalles de su relación personal y profesional no pueden reconstruirse del todo."
+          }
+        },
+        {
+          "id": "ambrogio-lorenzetti",
+          "testo": {
+            "it": "Appartiene alla generazione successiva di pittori senesi che sviluppò il linguaggio artistico affermatosi con Duccio.",
+            "en": "He belongs to the next generation of Sienese painters, who developed the artistic language established by Duccio.",
+            "fr": "Il appartient à la génération suivante de peintres siennois, qui développa le langage artistique affirmé par Duccio.",
+            "de": "Er gehört zur nächsten Generation sienesischer Maler, die die von Duccio durchgesetzte Bildsprache weiterentwickelte.",
+            "es": "Pertenece a la generación siguiente de pintores sieneses, que desarrolló el lenguaje artístico consolidado con Duccio."
+          }
+        }
+      ]
+    },
+    {
+      "id": "simone-martini",
+      "nome": "Simone Martini",
+      "ordine": 1280,
+      "morte": 1344,
+      "professione": {
+        "it": "Pittore",
+        "en": "Painter",
+        "fr": "Peintre",
+        "de": "Maler",
+        "es": "Pintor"
+      },
+      "luogoNascita": {
+        "it": "Incerto (forse Siena o San Gimignano)",
+        "en": "Uncertain (perhaps Siena or San Gimignano)",
+        "fr": "Incertain (peut-être Sienne ou San Gimignano)",
+        "de": "Unsicher (vielleicht Siena oder San Gimignano)",
+        "es": "Incierto (quizá Siena o San Gimignano)"
+      },
+      "dataNascita": {
+        "it": "Tra il 1280 e il 1285 (probabile)",
+        "en": "Between 1280 and 1285 (probable)",
+        "fr": "Entre 1280 et 1285 (probable)",
+        "de": "Zwischen 1280 und 1285 (wahrscheinlich)",
+        "es": "Entre 1280 y 1285 (probable)"
+      },
+      "luogoMorte": {
+        "it": "Avignone, Francia",
+        "en": "Avignon, France",
+        "fr": "Avignon, France",
+        "de": "Avignon, Frankreich",
+        "es": "Aviñón, Francia"
+      },
+      "dataMorte": {
+        "it": "1344",
+        "en": "1344",
+        "fr": "1344",
+        "de": "1344",
+        "es": "1344"
+      },
+      "biografia": {
+        "it": "Simone Martini è uno dei maggiori protagonisti della pittura gotica italiana e uno degli artisti che hanno dato a Siena un'identità figurativa riconoscibile in tutta Europa.\n\nLe informazioni sui suoi primi anni sono limitate. Non conosciamo con certezza il luogo di nascita né la data esatta. La sua formazione artistica si svolse comunque nell'ambiente senese, probabilmente a contatto con la bottega di Duccio di Buoninsegna e con le raffinate lavorazioni degli orafi cittadini.\n\nLa prima grande opera documentata è la Maestà, realizzata nel 1315 nella Sala del Mappamondo del Palazzo Pubblico. L'affresco raffigura la Madonna in trono circondata da angeli e santi, con i quattro santi protettori di Siena inginocchiati ai suoi piedi. Non è soltanto un'immagine religiosa: è anche una rappresentazione politica del governo cittadino, che poneva la giustizia e la protezione della comunità sotto la tutela della Vergine.\n\nLa pittura di Simone si distingue per l'eleganza delle figure, la raffinatezza dei panneggi, la preziosità dei colori e l'attenzione ai dettagli. Il suo linguaggio gotico si diffuse ben oltre Siena, grazie alle commissioni ricevute da importanti committenti ecclesiastici e politici.\n\nLavorò anche a Napoli per Roberto d'Angiò e realizzò opere in diverse città italiane. Nel corso degli anni Trenta del Trecento si trasferì ad Avignone, dove si trovava la corte pontificia. Qui continuò la propria attività artistica, entrando in contatto con un ambiente internazionale di grande prestigio.\n\nMorì ad Avignone nel 1344. La sua carriera testimonia come la pittura senese fosse ormai diventata un riferimento culturale ben oltre i confini della Toscana.",
+        "en": "Simone Martini is one of the great figures of Italian Gothic painting and one of the artists who gave Siena a visual identity recognised across Europe.\n\nInformation about his early years is limited. We do not know for certain where or exactly when he was born. His artistic training took place in the Sienese milieu, probably in contact with the workshop of Duccio di Buoninsegna and with the refined work of the city's goldsmiths.\n\nThe first major documented work is the Maestà, painted in 1315 in the Sala del Mappamondo of the Palazzo Pubblico. The fresco shows the enthroned Madonna surrounded by angels and saints, with the four patron saints of Siena kneeling at her feet. It is not only a religious image but also a political representation of the city's government, which placed justice and the protection of the community under the Virgin's care.\n\nSimone's painting stands out for the elegance of its figures, the refinement of its drapery, the preciousness of its colours and its attention to detail. His Gothic language spread well beyond Siena thanks to commissions from important church and political patrons.\n\nHe also worked in Naples for Robert of Anjou and produced works in several Italian cities. During the 1330s he moved to Avignon, where the papal court was based. There he continued his artistic work, coming into contact with a prestigious international environment.\n\nHe died in Avignon in 1344. His career shows how Sienese painting had become a cultural reference well beyond the borders of Tuscany.",
+        "fr": "Simone Martini est l'un des grands protagonistes de la peinture gothique italienne et l'un des artistes qui ont donné à Sienne une identité figurative reconnaissable dans toute l'Europe.\n\nLes informations sur ses premières années sont limitées. Nous ne connaissons avec certitude ni son lieu de naissance ni sa date exacte. Sa formation artistique se déroula en tout cas dans le milieu siennois, probablement au contact de l'atelier de Duccio di Buoninsegna et du travail raffiné des orfèvres de la ville.\n\nLa première grande œuvre documentée est la Maestà, réalisée en 1315 dans la Sala del Mappamondo du Palazzo Pubblico. La fresque représente la Vierge en majesté entourée d'anges et de saints, avec les quatre saints protecteurs de Sienne agenouillés à ses pieds. Ce n'est pas seulement une image religieuse : c'est aussi une représentation politique du gouvernement de la cité, qui plaçait la justice et la protection de la communauté sous la tutelle de la Vierge.\n\nLa peinture de Simone se distingue par l'élégance des figures, le raffinement des drapés, la préciosité des couleurs et l'attention aux détails. Son langage gothique se diffusa bien au-delà de Sienne grâce aux commandes de commanditaires ecclésiastiques et politiques importants.\n\nIl travailla aussi à Naples pour Robert d'Anjou et réalisa des œuvres dans plusieurs villes italiennes. Au cours des années 1330, il s'installa à Avignon, où se trouvait la cour pontificale. Il y poursuivit son activité artistique, au contact d'un milieu international de grand prestige.\n\nIl mourut à Avignon en 1344. Sa carrière montre que la peinture siennoise était devenue une référence culturelle bien au-delà des frontières de la Toscane.",
+        "de": "Simone Martini ist einer der großen Vertreter der italienischen gotischen Malerei und einer der Künstler, die Siena ein in ganz Europa erkennbares Bildprofil gaben.\n\nÜber seine frühen Jahre ist wenig bekannt. Weder Geburtsort noch genaues Geburtsdatum kennen wir sicher. Seine künstlerische Ausbildung erfolgte jedenfalls im sienesischen Umfeld, wahrscheinlich im Kontakt mit der Werkstatt Duccio di Buoninsegnas und mit der feinen Arbeit der Goldschmiede der Stadt.\n\nDas erste große dokumentierte Werk ist die Maestà von 1315 in der Sala del Mappamondo des Palazzo Pubblico. Das Fresko zeigt die thronende Madonna, umgeben von Engeln und Heiligen, mit den vier Schutzheiligen Sienas, die zu ihren Füßen knien. Es ist nicht nur ein religiöses Bild, sondern auch eine politische Darstellung der Stadtregierung, die Gerechtigkeit und den Schutz der Gemeinschaft unter den Schutz der Jungfrau stellte.\n\nSimones Malerei zeichnet sich durch die Eleganz der Figuren, die Feinheit der Gewänder, die Kostbarkeit der Farben und die Aufmerksamkeit für Details aus. Seine gotische Bildsprache verbreitete sich dank Aufträgen bedeutender kirchlicher und politischer Auftraggeber weit über Siena hinaus.\n\nEr arbeitete auch in Neapel für Robert von Anjou und schuf Werke in mehreren italienischen Städten. In den 1330er Jahren zog er nach Avignon, wo sich der päpstliche Hof befand. Dort setzte er seine künstlerische Tätigkeit fort und kam in Kontakt mit einem hochrangigen internationalen Umfeld.\n\nEr starb 1344 in Avignon. Seine Laufbahn zeigt, dass die sienesische Malerei längst zu einem kulturellen Bezugspunkt weit über die Grenzen der Toskana hinaus geworden war.",
+        "es": "Simone Martini es uno de los grandes protagonistas de la pintura gótica italiana y uno de los artistas que dieron a Siena una identidad figurativa reconocible en toda Europa.\n\nLas informaciones sobre sus primeros años son limitadas. No conocemos con certeza ni el lugar de nacimiento ni la fecha exacta. Su formación artística se desarrolló, en cualquier caso, en el ambiente sienés, probablemente en contacto con el taller de Duccio di Buoninsegna y con el refinado trabajo de los orfebres de la ciudad.\n\nLa primera gran obra documentada es la Maestà, realizada en 1315 en la Sala del Mappamondo del Palazzo Pubblico. El fresco representa a la Virgen entronizada rodeada de ángeles y santos, con los cuatro santos patronos de Siena arrodillados a sus pies. No es solo una imagen religiosa: es también una representación política del gobierno de la ciudad, que ponía la justicia y la protección de la comunidad bajo la tutela de la Virgen.\n\nLa pintura de Simone se distingue por la elegancia de las figuras, el refinamiento de los ropajes, la preciosidad de los colores y la atención al detalle. Su lenguaje gótico se difundió mucho más allá de Siena gracias a los encargos de importantes comitentes eclesiásticos y políticos.\n\nTrabajó también en Nápoles para Roberto de Anjou y realizó obras en varias ciudades italianas. En la década de 1330 se trasladó a Aviñón, donde se hallaba la corte pontificia. Allí continuó su actividad artística, en contacto con un ambiente internacional de gran prestigio.\n\nMurió en Aviñón en 1344. Su carrera muestra cómo la pintura sienesa se había convertido ya en una referencia cultural mucho más allá de los confines de la Toscana."
+      },
+      "curiosita": {
+        "it": [
+          "La Maestà del Palazzo Pubblico fu ritoccata dallo stesso Simone nel 1321, probabilmente per aggiornarne alcuni elementi.",
+          "La sua pittura ebbe una diffusione europea grazie ai rapporti con la corte angioina e con l'ambiente della Curia pontificia di Avignone.",
+          "Il poeta Francesco Petrarca ricordò Simone nei suoi scritti e gli attribuì un ritratto di Laura, oggi perduto.",
+          "La sua morte è documentata nel 1344: il necrologio del convento di San Domenico ad Avignone ne registra il decesso."
+        ],
+        "en": [
+          "Simone himself retouched the Maestà in the Palazzo Pubblico in 1321, probably to update some elements.",
+          "His painting spread across Europe thanks to ties with the Angevin court and the papal Curia in Avignon.",
+          "The poet Francesco Petrarch mentioned Simone in his writings and attributed to him a portrait of Laura, now lost.",
+          "His death is documented in 1344: the necrology of the convent of San Domenico in Avignon records it."
+        ],
+        "fr": [
+          "Simone retoucha lui-même la Maestà du Palazzo Pubblico en 1321, probablement pour en actualiser certains éléments.",
+          "Sa peinture se diffusa en Europe grâce à ses liens avec la cour angevine et avec la Curie pontificale d'Avignon.",
+          "Le poète Pétrarque évoqua Simone dans ses écrits et lui attribua un portrait de Laure, aujourd'hui perdu.",
+          "Sa mort est documentée en 1344 : le nécrologe du couvent de San Domenico à Avignon l'enregistre."
+        ],
+        "de": [
+          "Simone selbst überarbeitete die Maestà im Palazzo Pubblico 1321, wohl um einige Elemente zu aktualisieren.",
+          "Seine Malerei verbreitete sich in Europa dank der Beziehungen zum angevinischen Hof und zur päpstlichen Kurie in Avignon.",
+          "Der Dichter Francesco Petrarca erwähnte Simone in seinen Schriften und schrieb ihm ein heute verlorenes Bildnis der Laura zu.",
+          "Sein Tod ist 1344 belegt: Das Nekrolog des Dominikanerklosters in Avignon verzeichnet ihn."
+        ],
+        "es": [
+          "El propio Simone retocó la Maestà del Palazzo Pubblico en 1321, probablemente para actualizar algunos elementos.",
+          "Su pintura se difundió por Europa gracias a las relaciones con la corte angevina y con la Curia pontificia de Aviñón.",
+          "El poeta Francesco Petrarca recordó a Simone en sus escritos y le atribuyó un retrato de Laura, hoy perdido.",
+          "Su muerte está documentada en 1344: el necrologio del convento de San Domenico en Aviñón la registra."
+        ]
+      },
+      "luoghi": [
+        "palazzo-pubblico-museo-civico",
+        "cattedrale-di-santa-maria-assunta",
+        "basilica-di-san-francesco"
+      ],
+      "luoghiNote": {
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Nella Sala del Mappamondo si conserva la Maestà, una delle opere più importanti della sua carriera.",
+            "en": "The Sala del Mappamondo holds the Maestà, one of the most important works of his career.",
+            "fr": "La Sala del Mappamondo conserve la Maestà, l'une des œuvres les plus importantes de sa carrière.",
+            "de": "In der Sala del Mappamondo befindet sich die Maestà, eines der wichtigsten Werke seiner Laufbahn.",
+            "es": "En la Sala del Mappamondo se conserva la Maestà, una de las obras más importantes de su carrera."
+          }
+        },
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Per il Duomo Simone realizzò, insieme a Lippo Memmi, l'Annunciazione del 1333, oggi conservata agli Uffizi di Firenze.",
+            "en": "For the Duomo Simone made, together with Lippo Memmi, the Annunciation of 1333, now in the Uffizi in Florence.",
+            "fr": "Pour le Duomo, Simone réalisa avec Lippo Memmi l'Annonciation de 1333, aujourd'hui conservée aux Offices de Florence.",
+            "de": "Für den Dom schuf Simone zusammen mit Lippo Memmi die Verkündigung von 1333, die sich heute in den Uffizien in Florenz befindet.",
+            "es": "Para el Duomo, Simone realizó junto con Lippo Memmi la Anunciación de 1333, hoy conservada en los Uffizi de Florencia."
+          }
+        },
+        "basilica-di-san-francesco": {
+          "tipo": {
+            "it": "Legame di tradizione",
+            "en": "Link of tradition",
+            "fr": "Lien de tradition",
+            "de": "Überlieferter Bezug",
+            "es": "Vínculo de tradición"
+          },
+          "testo": {
+            "it": "La chiesa è legata alla tradizione della sepoltura dell'artista, anche se la ricostruzione delle vicende funerarie presenta elementi da trattare con cautela.",
+            "en": "The church is linked to the tradition of the artist's burial, although the reconstruction of the funerary events contains elements to be treated with caution.",
+            "fr": "L'église est liée à la tradition de la sépulture de l'artiste, même si la reconstitution des faits funéraires comporte des éléments à traiter avec prudence.",
+            "de": "Die Kirche ist mit der Überlieferung von der Grablege des Künstlers verbunden, auch wenn die Rekonstruktion der Bestattungsumstände Elemente enthält, die mit Vorsicht zu behandeln sind.",
+            "es": "La iglesia está ligada a la tradición de la sepultura del artista, aunque la reconstrucción de los hechos funerarios presenta elementos que deben tratarse con cautela."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "duccio-di-buoninsegna",
+          "testo": {
+            "it": "Simone si formò nell'ambiente artistico legato al maestro e ne riprese alcuni elementi stilistici, sviluppandoli in una direzione gotica più raffinata.",
+            "en": "Simone trained in the artistic milieu linked to the master and took up some of his stylistic elements, developing them in a more refined Gothic direction.",
+            "fr": "Simone se forma dans le milieu artistique lié au maître et reprit certains de ses éléments stylistiques en les développant dans une direction gothique plus raffinée.",
+            "de": "Simone bildete sich im künstlerischen Umfeld des Meisters aus und übernahm einige seiner Stilelemente, die er in eine verfeinerte gotische Richtung weiterentwickelte.",
+            "es": "Simone se formó en el ambiente artístico ligado al maestro y retomó algunos de sus elementos estilísticos, desarrollándolos en una dirección gótica más refinada."
+          }
+        },
+        {
+          "id": "ambrogio-lorenzetti",
+          "testo": {
+            "it": "Ambrogio e Pietro Lorenzetti furono suoi contemporanei e protagonisti della pittura senese del Trecento. Le loro ricerche artistiche mostrano approcci differenti rispetto all'eleganza lineare e cortese di Simone.",
+            "en": "Ambrogio and Pietro Lorenzetti were his contemporaries and leading figures of fourteenth-century Sienese painting. Their artistic explorations show approaches different from Simone's linear, courtly elegance.",
+            "fr": "Ambrogio et Pietro Lorenzetti furent ses contemporains et des protagonistes de la peinture siennoise du XIVe siècle. Leurs recherches artistiques montrent des approches différentes de l'élégance linéaire et courtoise de Simone.",
+            "de": "Ambrogio und Pietro Lorenzetti waren seine Zeitgenossen und Hauptvertreter der sienesischen Malerei des 14. Jahrhunderts. Ihre künstlerischen Untersuchungen zeigen andere Ansätze als Simones lineare, höfische Eleganz.",
+            "es": "Ambrogio y Pietro Lorenzetti fueron sus contemporáneos y protagonistas de la pintura sienesa del siglo XIV. Sus investigaciones artísticas muestran enfoques distintos de la elegancia lineal y cortesana de Simone."
+          }
+        },
+        {
+          "id": "pietro-lorenzetti",
+          "testo": {
+            "it": "Con il fratello Ambrogio fu tra i protagonisti della pittura senese del Trecento, con un linguaggio più drammatico e intenso rispetto a quello di Simone.",
+            "en": "With his brother Ambrogio he was among the leading figures of fourteenth-century Sienese painting, with a more dramatic and intense language than Simone's.",
+            "fr": "Avec son frère Ambrogio, il fut l'un des protagonistes de la peinture siennoise du XIVe siècle, avec un langage plus dramatique et intense que celui de Simone.",
+            "de": "Mit seinem Bruder Ambrogio gehörte er zu den Hauptfiguren der sienesischen Malerei des 14. Jahrhunderts, mit einer dramatischeren und intensiveren Sprache als Simone.",
+            "es": "Junto con su hermano Ambrogio fue uno de los protagonistas de la pintura sienesa del siglo XIV, con un lenguaje más dramático e intenso que el de Simone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ambrogio-lorenzetti",
+      "nome": "Ambrogio Lorenzetti",
+      "ordine": 1290,
+      "professione": {
+        "it": "Pittore",
+        "en": "Painter",
+        "fr": "Peintre",
+        "de": "Maler",
+        "es": "Pintor"
+      },
+      "luogoNascita": {
+        "it": "Sconosciuto (di origine senese)",
+        "en": "Unknown (of Sienese origin)",
+        "fr": "Inconnu (d'origine siennoise)",
+        "de": "Unbekannt (sienesischer Herkunft)",
+        "es": "Desconocido (de origen sienés)"
+      },
+      "dataNascita": {
+        "it": "Sconosciuto",
+        "en": "Unknown",
+        "fr": "Inconnu",
+        "de": "Unbekannt",
+        "es": "Desconocido"
+      },
+      "luogoMorte": {
+        "it": "Non documentato (forse Siena)",
+        "en": "Not documented (perhaps Siena)",
+        "fr": "Non documenté (peut-être Sienne)",
+        "de": "Nicht belegt (vielleicht Siena)",
+        "es": "No documentado (quizá Siena)"
+      },
+      "dataMorte": {
+        "it": "1348 (probabile)",
+        "en": "1348 (probable)",
+        "fr": "1348 (probable)",
+        "de": "1348 (wahrscheinlich)",
+        "es": "1348 (probable)"
+      },
+      "biografia": {
+        "it": "Ambrogio Lorenzetti è uno dei pittori più importanti della Siena del Trecento. La sua opera rappresenta un passaggio fondamentale nella storia della pittura medievale, soprattutto per l'interesse verso lo spazio, la vita quotidiana e la rappresentazione della società.\n\nLe prime notizie documentate risalgono al 1319. Nel corso della sua carriera lavorò sia a Siena sia a Firenze, entrando in contatto con le esperienze artistiche di entrambe le città. La sua pittura mostra infatti una conoscenza approfondita delle novità introdotte da Giotto, in particolare nella costruzione dello spazio e nella rappresentazione dei volumi, ma conserva una sensibilità cromatica e narrativa tipicamente senese.\n\nLa sua opera più celebre è il ciclo di affreschi della Sala dei Nove, nel Palazzo Pubblico di Siena, realizzato tra il 1338 e il 1339. Il ciclo, conosciuto come Allegoria ed effetti del Buono e del Cattivo Governo, rappresenta le conseguenze che il buon governo e quello cattivo producono sulla città e sul contado.\n\nNell'Allegoria del Buon Governo vengono raffigurate le virtù che dovrebbero guidare chi esercita il potere. Nella parete dedicata agli effetti del buon governo si vedono una città ordinata, attività commerciali, artigiani, cittadini e campagne produttive. La scena opposta mostra invece gli effetti della tirannia: violenza, distruzione, paura e abbandono.\n\nL'opera è straordinaria perché non si limita a rappresentare temi religiosi o figure simboliche. Racconta la vita di una comunità e riflette sul rapporto tra politica, giustizia, economia e benessere collettivo.\n\nAmbrogio lavorò anche con il fratello Pietro a importanti commissioni, tra cui gli affreschi con le Storie della Vergine sulla facciata dello Spedale di Santa Maria della Scala, oggi perduti.\n\nL'ultima notizia certa della sua vita è il testamento redatto il 9 agosto 1348, durante la grande epidemia di peste. La sua morte viene spesso collegata alla pestilenza, ma non conosciamo con certezza né la data né il luogo.",
+        "en": "Ambrogio Lorenzetti is one of the most important painters of fourteenth-century Siena. His work marks a fundamental step in the history of medieval painting, above all for its interest in space, everyday life and the portrayal of society.\n\nThe first documented news of him dates to 1319. During his career he worked both in Siena and in Florence, coming into contact with the artistic experiences of both cities. His painting shows a thorough knowledge of the innovations introduced by Giotto, particularly in the construction of space and the rendering of volumes, yet it keeps a colour and narrative sensibility typical of Siena.\n\nHis most famous work is the fresco cycle in the Sala dei Nove in Siena's Palazzo Pubblico, painted between 1338 and 1339. The cycle, known as the Allegory and Effects of Good and Bad Government, shows the consequences that good and bad government have on the city and the countryside.\n\nThe Allegory of Good Government depicts the virtues that should guide those who hold power. On the wall devoted to the effects of good government we see an orderly city, trade, craftsmen, citizens and productive countryside. The opposite scene shows the effects of tyranny: violence, destruction, fear and abandonment.\n\nThe work is extraordinary because it does not limit itself to religious themes or symbolic figures. It tells of the life of a community and reflects on the relationship between politics, justice, economy and collective wellbeing.\n\nAmbrogio also worked with his brother Pietro on important commissions, including the frescoes of the Stories of the Virgin on the façade of the Spedale di Santa Maria della Scala, now lost.\n\nThe last certain record of his life is the will drawn up on 9 August 1348, during the great plague epidemic. His death is often linked to the plague, but we know neither the date nor the place for certain.",
+        "fr": "Ambrogio Lorenzetti est l'un des peintres les plus importants de la Sienne du XIVe siècle. Son œuvre marque une étape fondamentale de l'histoire de la peinture médiévale, surtout par son intérêt pour l'espace, la vie quotidienne et la représentation de la société.\n\nLes premières mentions documentées remontent à 1319. Au cours de sa carrière, il travailla à Sienne comme à Florence, au contact des expériences artistiques des deux villes. Sa peinture montre en effet une connaissance approfondie des nouveautés introduites par Giotto, notamment dans la construction de l'espace et la représentation des volumes, tout en conservant une sensibilité de la couleur et du récit typiquement siennoise.\n\nSon œuvre la plus célèbre est le cycle de fresques de la Sala dei Nove, au Palazzo Pubblico de Sienne, réalisé entre 1338 et 1339. Le cycle, connu sous le nom d'Allégorie et effets du Bon et du Mauvais Gouvernement, représente les conséquences que le bon et le mauvais gouvernement produisent sur la ville et sur la campagne.\n\nL'Allégorie du Bon Gouvernement représente les vertus qui devraient guider ceux qui exercent le pouvoir. Sur le mur consacré aux effets du bon gouvernement, on voit une ville ordonnée, des activités commerciales, des artisans, des citoyens et des campagnes productives. La scène opposée montre au contraire les effets de la tyrannie : violence, destruction, peur et abandon.\n\nL'œuvre est extraordinaire parce qu'elle ne se limite pas à des thèmes religieux ou à des figures symboliques. Elle raconte la vie d'une communauté et réfléchit sur le rapport entre politique, justice, économie et bien-être collectif.\n\nAmbrogio travailla aussi avec son frère Pietro à d'importantes commandes, dont les fresques des Histoires de la Vierge sur la façade du Spedale di Santa Maria della Scala, aujourd'hui perdues.\n\nLa dernière mention certaine de sa vie est le testament rédigé le 9 août 1348, pendant la grande épidémie de peste. Sa mort est souvent rattachée à la peste, mais nous n'en connaissons avec certitude ni la date ni le lieu.",
+        "de": "Ambrogio Lorenzetti ist einer der bedeutendsten Maler des Siena des 14. Jahrhunderts. Sein Werk bildet einen grundlegenden Schritt in der Geschichte der mittelalterlichen Malerei, vor allem wegen seines Interesses an Raum, Alltagsleben und der Darstellung der Gesellschaft.\n\nDie ersten urkundlichen Nachrichten stammen von 1319. Im Lauf seiner Laufbahn arbeitete er sowohl in Siena als auch in Florenz und kam mit den künstlerischen Erfahrungen beider Städte in Berührung. Seine Malerei zeigt eine gründliche Kenntnis der von Giotto eingeführten Neuerungen, besonders in der Raumkonstruktion und der Wiedergabe von Volumen, bewahrt aber ein typisch sienesisches Gespür für Farbe und Erzählung.\n\nSein berühmtestes Werk ist der Freskenzyklus in der Sala dei Nove im Palazzo Pubblico von Siena, entstanden zwischen 1338 und 1339. Der Zyklus, bekannt als Allegorie und Wirkungen der guten und der schlechten Regierung, zeigt die Folgen, die gute und schlechte Regierung für Stadt und Land haben.\n\nDie Allegorie der guten Regierung stellt die Tugenden dar, die jene leiten sollten, die Macht ausüben. Auf der Wand mit den Wirkungen der guten Regierung sieht man eine geordnete Stadt, Handel, Handwerker, Bürger und fruchtbares Land. Die gegenüberliegende Szene zeigt dagegen die Wirkungen der Tyrannei: Gewalt, Zerstörung, Angst und Verlassenheit.\n\nDas Werk ist außergewöhnlich, weil es sich nicht auf religiöse Themen oder symbolische Figuren beschränkt. Es erzählt vom Leben einer Gemeinschaft und denkt über das Verhältnis von Politik, Gerechtigkeit, Wirtschaft und Gemeinwohl nach.\n\nAmbrogio arbeitete auch mit seinem Bruder Pietro an bedeutenden Aufträgen, darunter die heute verlorenen Fresken mit den Geschichten der Jungfrau an der Fassade des Spedale di Santa Maria della Scala.\n\nDie letzte sichere Nachricht über sein Leben ist das am 9. August 1348, während der großen Pestepidemie, aufgesetzte Testament. Sein Tod wird oft mit der Pest verbunden, doch weder Datum noch Ort kennen wir sicher.",
+        "es": "Ambrogio Lorenzetti es uno de los pintores más importantes de la Siena del siglo XIV. Su obra representa un paso fundamental en la historia de la pintura medieval, sobre todo por su interés por el espacio, la vida cotidiana y la representación de la sociedad.\n\nLas primeras noticias documentadas datan de 1319. A lo largo de su carrera trabajó tanto en Siena como en Florencia, entrando en contacto con las experiencias artísticas de ambas ciudades. Su pintura muestra, en efecto, un conocimiento profundo de las novedades introducidas por Giotto, en particular en la construcción del espacio y la representación de los volúmenes, pero conserva una sensibilidad cromática y narrativa típicamente sienesa.\n\nSu obra más célebre es el ciclo de frescos de la Sala dei Nove, en el Palazzo Pubblico de Siena, realizado entre 1338 y 1339. El ciclo, conocido como Alegoría y efectos del Buen y del Mal Gobierno, representa las consecuencias que el buen y el mal gobierno producen en la ciudad y en el campo.\n\nEn la Alegoría del Buen Gobierno se representan las virtudes que deberían guiar a quien ejerce el poder. En la pared dedicada a los efectos del buen gobierno se ven una ciudad ordenada, actividades comerciales, artesanos, ciudadanos y campos productivos. La escena opuesta muestra, en cambio, los efectos de la tiranía: violencia, destrucción, miedo y abandono.\n\nLa obra es extraordinaria porque no se limita a representar temas religiosos o figuras simbólicas. Narra la vida de una comunidad y reflexiona sobre la relación entre política, justicia, economía y bienestar colectivo.\n\nAmbrogio trabajó también con su hermano Pietro en importantes encargos, entre ellos los frescos con las Historias de la Virgen en la fachada del Spedale di Santa Maria della Scala, hoy perdidos.\n\nLa última noticia cierta de su vida es el testamento redactado el 9 de agosto de 1348, durante la gran epidemia de peste. Su muerte suele vincularse a la peste, pero no conocemos con certeza ni la fecha ni el lugar."
+      },
+      "curiosita": {
+        "it": [
+          "Il ciclo del Buon Governo è una delle più importanti rappresentazioni medievali della vita civile e politica.",
+          "Gli affreschi non sono soltanto un'opera d'arte: erano anche un messaggio rivolto ai governanti che amministravano la città.",
+          "La rappresentazione della campagna senese è particolarmente interessante perché mostra attività agricole, strade, edifici e forme di organizzazione del territorio.",
+          "Il ciclo è stato realizzato nella sala destinata alle riunioni dei Nove, il governo che guidò Siena dal 1287 al 1355."
+        ],
+        "en": [
+          "The Good Government cycle is one of the most important medieval depictions of civic and political life.",
+          "The frescoes are not only a work of art: they were also a message addressed to the rulers who governed the city.",
+          "The depiction of the Sienese countryside is especially interesting because it shows farming activities, roads, buildings and forms of land organisation.",
+          "The cycle was painted in the hall used for meetings of the Nine, the government that led Siena from 1287 to 1355."
+        ],
+        "fr": [
+          "Le cycle du Bon Gouvernement est l'une des plus importantes représentations médiévales de la vie civile et politique.",
+          "Les fresques ne sont pas seulement une œuvre d'art : elles étaient aussi un message adressé aux gouvernants qui administraient la ville.",
+          "La représentation de la campagne siennoise est particulièrement intéressante car elle montre des activités agricoles, des routes, des édifices et des formes d'organisation du territoire.",
+          "Le cycle a été réalisé dans la salle destinée aux réunions des Neuf, le gouvernement qui dirigea Sienne de 1287 à 1355."
+        ],
+        "de": [
+          "Der Zyklus der guten Regierung ist eine der bedeutendsten mittelalterlichen Darstellungen des bürgerlichen und politischen Lebens.",
+          "Die Fresken sind nicht nur ein Kunstwerk: Sie waren auch eine Botschaft an die Herrschenden, die die Stadt regierten.",
+          "Die Darstellung der sienesischen Landschaft ist besonders interessant, weil sie landwirtschaftliche Tätigkeiten, Straßen, Gebäude und Formen der Landorganisation zeigt.",
+          "Der Zyklus entstand in dem Saal, der für die Sitzungen der Neun bestimmt war, der Regierung, die Siena von 1287 bis 1355 leitete."
+        ],
+        "es": [
+          "El ciclo del Buen Gobierno es una de las más importantes representaciones medievales de la vida civil y política.",
+          "Los frescos no son solo una obra de arte: eran también un mensaje dirigido a los gobernantes que administraban la ciudad.",
+          "La representación del campo sienés es especialmente interesante porque muestra actividades agrícolas, caminos, edificios y formas de organización del territorio.",
+          "El ciclo se realizó en la sala destinada a las reuniones de los Nueve, el gobierno que dirigió Siena de 1287 a 1355."
+        ]
+      },
+      "luoghi": [
+        "palazzo-pubblico-museo-civico",
+        "santa-maria-della-scala",
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Nella Sala dei Nove si conserva il ciclo del Buon Governo, il suo capolavoro assoluto.",
+            "en": "The Sala dei Nove holds the Good Government cycle, his absolute masterpiece.",
+            "fr": "La Sala dei Nove conserve le cycle du Bon Gouvernement, son chef-d'œuvre absolu.",
+            "de": "In der Sala dei Nove befindet sich der Zyklus der guten Regierung, sein absolutes Meisterwerk.",
+            "es": "En la Sala dei Nove se conserva el ciclo del Buen Gobierno, su obra maestra absoluta."
+          }
+        },
+        "santa-maria-della-scala": {
+          "tipo": {
+            "it": "Legame diretto – opera perduta",
+            "en": "Direct link – lost work",
+            "fr": "Lien direct – œuvre perdue",
+            "de": "Direkter Bezug – verlorenes Werk",
+            "es": "Vínculo directo – obra perdida"
+          },
+          "testo": {
+            "it": "Sulla facciata dello Spedale c'erano gli affreschi con le Storie della Vergine realizzati insieme al fratello Pietro, oggi perduti.",
+            "en": "The façade of the Spedale carried the frescoes of the Stories of the Virgin made with his brother Pietro, now lost.",
+            "fr": "Sur la façade du Spedale se trouvaient les fresques des Histoires de la Vierge réalisées avec son frère Pietro, aujourd'hui perdues.",
+            "de": "An der Fassade des Spedale befanden sich die mit seinem Bruder Pietro geschaffenen, heute verlorenen Fresken mit den Geschichten der Jungfrau.",
+            "es": "En la fachada del Spedale estaban los frescos con las Historias de la Virgen realizados junto a su hermano Pietro, hoy perdidos."
+          }
+        },
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Rappresenta il cuore politico e civile della città nella quale Ambrogio svolse la parte più importante della sua attività.",
+            "en": "It is the political and civic heart of the city in which Ambrogio carried out the most important part of his work.",
+            "fr": "Elle représente le cœur politique et civil de la ville où Ambrogio mena la part la plus importante de son activité.",
+            "de": "Er ist das politische und bürgerliche Herz der Stadt, in der Ambrogio den wichtigsten Teil seines Schaffens verbrachte.",
+            "es": "Representa el corazón político y civil de la ciudad en la que Ambrogio desarrolló la parte más importante de su actividad."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "pietro-lorenzetti",
+          "testo": {
+            "it": "Erano fratelli e collaborarono ad alcune commissioni artistiche, tra cui gli affreschi oggi perduti di Santa Maria della Scala.",
+            "en": "They were brothers and worked together on some artistic commissions, including the now-lost frescoes of Santa Maria della Scala.",
+            "fr": "Ils étaient frères et collaborèrent à certaines commandes artistiques, dont les fresques aujourd'hui perdues de Santa Maria della Scala.",
+            "de": "Sie waren Brüder und arbeiteten bei einigen künstlerischen Aufträgen zusammen, darunter den heute verlorenen Fresken von Santa Maria della Scala.",
+            "es": "Eran hermanos y colaboraron en algunos encargos artísticos, entre ellos los frescos hoy perdidos de Santa Maria della Scala."
+          }
+        },
+        {
+          "id": "simone-martini",
+          "testo": {
+            "it": "Fu suo contemporaneo e protagonista della stessa stagione artistica senese. I due svilupparono linguaggi differenti, contribuendo insieme alla ricchezza della pittura del Trecento.",
+            "en": "He was his contemporary and a leading figure of the same Sienese artistic season. The two developed different languages, together contributing to the richness of fourteenth-century painting.",
+            "fr": "Il fut son contemporain et un protagoniste de la même saison artistique siennoise. Les deux développèrent des langages différents, contribuant ensemble à la richesse de la peinture du XIVe siècle.",
+            "de": "Er war sein Zeitgenosse und Hauptfigur derselben sienesischen Kunstblüte. Beide entwickelten unterschiedliche Bildsprachen und trugen gemeinsam zum Reichtum der Malerei des 14. Jahrhunderts bei.",
+            "es": "Fue su contemporáneo y protagonista de la misma etapa artística sienesa. Ambos desarrollaron lenguajes distintos, contribuyendo juntos a la riqueza de la pintura del siglo XIV."
+          }
+        }
+      ]
+    },
+    {
+      "id": "pietro-lorenzetti",
+      "nome": "Pietro Lorenzetti",
+      "nascita": 1280,
+      "professione": {
+        "it": "Pittore",
+        "en": "Painter",
+        "fr": "Peintre",
+        "de": "Maler",
+        "es": "Pintor"
+      },
+      "luogoNascita": {
+        "it": "Sconosciuto (di origine senese)",
+        "en": "Unknown (of Sienese origin)",
+        "fr": "Inconnu (d'origine siennoise)",
+        "de": "Unbekannt (sienesischer Herkunft)",
+        "es": "Desconocido (de origen sienés)"
+      },
+      "dataNascita": {
+        "it": "1280 circa (probabile)",
+        "en": "c. 1280 (probable)",
+        "fr": "vers 1280 (probable)",
+        "de": "um 1280 (wahrscheinlich)",
+        "es": "hacia 1280 (probable)"
+      },
+      "luogoMorte": {
+        "it": "Sconosciuto",
+        "en": "Unknown",
+        "fr": "Inconnu",
+        "de": "Unbekannt",
+        "es": "Desconocido"
+      },
+      "dataMorte": {
+        "it": "Sconosciuta (spesso ipotizzato il 1348, per la peste)",
+        "en": "Unknown (often hypothesised as 1348, due to the plague)",
+        "fr": "Inconnue (souvent supposée en 1348, à cause de la peste)",
+        "de": "Unbekannt (oft wird 1348 vermutet, wegen der Pest)",
+        "es": "Desconocida (a menudo se supone 1348, por la peste)"
+      },
+      "biografia": {
+        "it": "Pietro Lorenzetti fu uno dei maggiori pittori senesi del Trecento e il fratello maggiore di Ambrogio Lorenzetti. La sua attività è documentata a partire dal 1306, quando potrebbe aver ricevuto un pagamento dal Comune di Siena per un dipinto destinato alla tavola dei Signori Nove.\n\nLa sua formazione si sviluppò nell'ambiente della pittura senese, fortemente influenzato da Duccio di Buoninsegna. Nel corso della carriera Pietro elaborò tuttavia un linguaggio personale, caratterizzato da una particolare attenzione alla dimensione emotiva delle figure e alla costruzione dello spazio.\n\nLavorò in diverse città, tra cui Siena, Arezzo e Assisi. Nella Basilica inferiore di San Francesco ad Assisi realizzò un importante ciclo di affreschi dedicato alla Passione di Cristo, nel quale emerge una forte capacità narrativa e drammatica.\n\nTra le sue opere più importanti si ricordano la pala del Carmine, oggi conservata nella Pinacoteca Nazionale di Siena, e la Natività della Vergine, realizzata nel 1342 per il Duomo di Siena e oggi conservata nel Museo dell'Opera del Duomo.\n\nQuest'ultima opera è particolarmente significativa per la capacità di rappresentare un ambiente domestico credibile. La scena non è soltanto una rappresentazione religiosa: mostra una stanza, oggetti quotidiani, figure impegnate in gesti familiari e un'attenzione alla vita concreta che rende la narrazione particolarmente vicina allo spettatore.\n\nPietro collaborò con il fratello Ambrogio in alcune occasioni. Gli affreschi con le Storie della Vergine sulla facciata di Santa Maria della Scala, oggi perduti, erano accompagnati da un'iscrizione che indicava entrambi come autori.\n\nNon conosciamo la data esatta della sua morte. La documentazione lo attesta fino al 1345 e alcuni studiosi ipotizzano che sia morto durante la peste del 1348, come potrebbe essere accaduto al fratello.",
+        "en": "Pietro Lorenzetti was one of the greatest Sienese painters of the fourteenth century and the elder brother of Ambrogio Lorenzetti. His activity is documented from 1306, when he may have been paid by the Commune of Siena for a painting destined for the table of the Nine Lords.\n\nHis training developed in the Sienese painting milieu, strongly influenced by Duccio di Buoninsegna. Over his career, however, Pietro worked out a personal language marked by particular attention to the emotional dimension of his figures and to the construction of space.\n\nHe worked in several cities, including Siena, Arezzo and Assisi. In the Lower Basilica of San Francesco at Assisi he painted an important fresco cycle devoted to the Passion of Christ, showing a strong narrative and dramatic power.\n\nAmong his most important works are the Carmine altarpiece, now in the Pinacoteca Nazionale of Siena, and the Birth of the Virgin, made in 1342 for the Duomo of Siena and now in the Museo dell'Opera del Duomo.\n\nThe latter is especially significant for its ability to portray a believable domestic setting. The scene is not only a religious depiction: it shows a room, everyday objects, figures engaged in familiar gestures, and an attention to concrete life that brings the story close to the viewer.\n\nPietro worked with his brother Ambrogio on some occasions. The frescoes of the Stories of the Virgin on the façade of Santa Maria della Scala, now lost, were accompanied by an inscription naming both as authors.\n\nWe do not know the exact date of his death. Documents attest him until 1345, and some scholars suggest he died in the plague of 1348, as may also have happened to his brother.",
+        "fr": "Pietro Lorenzetti fut l'un des plus grands peintres siennois du XIVe siècle et le frère aîné d'Ambrogio Lorenzetti. Son activité est documentée à partir de 1306, date à laquelle il aurait pu recevoir un paiement de la Commune de Sienne pour un tableau destiné à la table des Seigneurs Neuf.\n\nSa formation se développa dans le milieu de la peinture siennoise, fortement influencé par Duccio di Buoninsegna. Au cours de sa carrière, Pietro élabora toutefois un langage personnel, marqué par une attention particulière à la dimension émotionnelle des figures et à la construction de l'espace.\n\nIl travailla dans plusieurs villes, dont Sienne, Arezzo et Assise. Dans la basilique inférieure de San Francesco à Assise, il réalisa un important cycle de fresques consacré à la Passion du Christ, où ressort une forte capacité narrative et dramatique.\n\nParmi ses œuvres les plus importantes, on retient le retable du Carmine, aujourd'hui conservé à la Pinacoteca Nazionale de Sienne, et la Nativité de la Vierge, réalisée en 1342 pour le Duomo de Sienne et aujourd'hui conservée au Museo dell'Opera del Duomo.\n\nCette dernière œuvre est particulièrement significative par sa capacité à représenter un cadre domestique crédible. La scène n'est pas seulement religieuse : elle montre une chambre, des objets quotidiens, des personnages occupés à des gestes familiers et une attention à la vie concrète qui rend le récit très proche du spectateur.\n\nPietro collabora à quelques occasions avec son frère Ambrogio. Les fresques des Histoires de la Vierge sur la façade de Santa Maria della Scala, aujourd'hui perdues, étaient accompagnées d'une inscription désignant les deux frères comme auteurs.\n\nNous ne connaissons pas la date exacte de sa mort. La documentation l'atteste jusqu'en 1345 et certains spécialistes supposent qu'il mourut lors de la peste de 1348, comme cela pourrait être arrivé à son frère.",
+        "de": "Pietro Lorenzetti war einer der bedeutendsten sienesischen Maler des 14. Jahrhunderts und der ältere Bruder von Ambrogio Lorenzetti. Seine Tätigkeit ist ab 1306 belegt, als er möglicherweise von der Kommune Siena eine Zahlung für ein Gemälde für den Tisch der Neun Herren erhielt.\n\nSeine Ausbildung vollzog sich im Umfeld der sienesischen Malerei, stark von Duccio di Buoninsegna geprägt. Im Lauf seiner Laufbahn entwickelte Pietro jedoch eine persönliche Sprache, die sich durch besondere Aufmerksamkeit für die emotionale Dimension der Figuren und für die Raumkonstruktion auszeichnet.\n\nEr arbeitete in mehreren Städten, darunter Siena, Arezzo und Assisi. In der Unterkirche von San Francesco in Assisi schuf er einen bedeutenden Freskenzyklus zur Passion Christi, in dem eine starke erzählerische und dramatische Kraft hervortritt.\n\nZu seinen wichtigsten Werken zählen das Karmeliter-Altarbild, heute in der Pinacoteca Nazionale in Siena, und die Geburt der Jungfrau, 1342 für den Dom von Siena geschaffen und heute im Museo dell'Opera del Duomo.\n\nLetzteres Werk ist besonders bedeutsam durch die Fähigkeit, einen glaubwürdigen häuslichen Raum darzustellen. Die Szene ist nicht nur religiös: Sie zeigt ein Zimmer, Gegenstände des Alltags, Figuren in vertrauten Gesten und eine Aufmerksamkeit für das konkrete Leben, die die Erzählung dem Betrachter besonders nahebringt.\n\nPietro arbeitete bei einigen Gelegenheiten mit seinem Bruder Ambrogio zusammen. Die heute verlorenen Fresken mit den Geschichten der Jungfrau an der Fassade von Santa Maria della Scala wurden von einer Inschrift begleitet, die beide als Urheber nannte.\n\nDas genaue Todesdatum kennen wir nicht. Die Quellen belegen ihn bis 1345, und manche Forscher vermuten, dass er bei der Pest von 1348 starb, wie es möglicherweise auch seinem Bruder geschah.",
+        "es": "Pietro Lorenzetti fue uno de los mayores pintores sieneses del siglo XIV y el hermano mayor de Ambrogio Lorenzetti. Su actividad está documentada desde 1306, cuando pudo haber recibido un pago del Comune de Siena por una pintura destinada a la mesa de los Señores Nueve.\n\nSu formación se desarrolló en el ambiente de la pintura sienesa, fuertemente influido por Duccio di Buoninsegna. A lo largo de su carrera, sin embargo, Pietro elaboró un lenguaje personal, caracterizado por una atención particular a la dimensión emotiva de las figuras y a la construcción del espacio.\n\nTrabajó en varias ciudades, entre ellas Siena, Arezzo y Asís. En la basílica inferior de San Francesco de Asís realizó un importante ciclo de frescos dedicado a la Pasión de Cristo, en el que destaca una fuerte capacidad narrativa y dramática.\n\nEntre sus obras más importantes se recuerdan el retablo del Carmine, hoy en la Pinacoteca Nazionale de Siena, y el Nacimiento de la Virgen, realizado en 1342 para el Duomo de Siena y hoy conservado en el Museo dell'Opera del Duomo.\n\nEsta última obra es especialmente significativa por su capacidad de representar un ambiente doméstico creíble. La escena no es solo una representación religiosa: muestra una habitación, objetos cotidianos, figuras ocupadas en gestos familiares y una atención a la vida concreta que acerca mucho la narración al espectador.\n\nPietro colaboró con su hermano Ambrogio en algunas ocasiones. Los frescos con las Historias de la Virgen en la fachada de Santa Maria della Scala, hoy perdidos, iban acompañados de una inscripción que indicaba a ambos como autores.\n\nNo conocemos la fecha exacta de su muerte. La documentación lo atestigua hasta 1345 y algunos estudiosos suponen que murió durante la peste de 1348, como pudo ocurrirle a su hermano."
+      },
+      "curiosita": {
+        "it": [
+          "La Natività della Vergine è considerata una delle opere più importanti della pittura senese del Trecento.",
+          "Pietro era particolarmente abile nel rappresentare gli ambienti interni e gli oggetti quotidiani, rendendo le scene religiose più concrete e familiari.",
+          "Il suo stile è più drammatico e intenso rispetto a quello del fratello Ambrogio, maggiormente interessato alla rappresentazione dello spazio e della società.",
+          "Gli affreschi realizzati insieme ad Ambrogio sulla facciata di Santa Maria della Scala furono molto celebri, ma sono andati perduti."
+        ],
+        "en": [
+          "The Birth of the Virgin is considered one of the most important works of fourteenth-century Sienese painting.",
+          "Pietro was particularly skilled at depicting interiors and everyday objects, making religious scenes more concrete and familiar.",
+          "His style is more dramatic and intense than that of his brother Ambrogio, who was more interested in the depiction of space and society.",
+          "The frescoes made with Ambrogio on the façade of Santa Maria della Scala were very famous, but have been lost."
+        ],
+        "fr": [
+          "La Nativité de la Vierge est considérée comme l'une des œuvres les plus importantes de la peinture siennoise du XIVe siècle.",
+          "Pietro était particulièrement habile à représenter les intérieurs et les objets quotidiens, rendant les scènes religieuses plus concrètes et familières.",
+          "Son style est plus dramatique et intense que celui de son frère Ambrogio, davantage intéressé par la représentation de l'espace et de la société.",
+          "Les fresques réalisées avec Ambrogio sur la façade de Santa Maria della Scala furent très célèbres, mais ont disparu."
+        ],
+        "de": [
+          "Die Geburt der Jungfrau gilt als eines der wichtigsten Werke der sienesischen Malerei des 14. Jahrhunderts.",
+          "Pietro war besonders geschickt in der Darstellung von Innenräumen und Alltagsgegenständen, wodurch er religiöse Szenen konkreter und vertrauter machte.",
+          "Sein Stil ist dramatischer und intensiver als der seines Bruders Ambrogio, der sich stärker für die Darstellung von Raum und Gesellschaft interessierte.",
+          "Die zusammen mit Ambrogio geschaffenen Fresken an der Fassade von Santa Maria della Scala waren sehr berühmt, sind aber verloren gegangen."
+        ],
+        "es": [
+          "El Nacimiento de la Virgen se considera una de las obras más importantes de la pintura sienesa del siglo XIV.",
+          "Pietro era especialmente hábil representando interiores y objetos cotidianos, haciendo las escenas religiosas más concretas y familiares.",
+          "Su estilo es más dramático e intenso que el de su hermano Ambrogio, más interesado en la representación del espacio y de la sociedad.",
+          "Los frescos realizados junto con Ambrogio en la fachada de Santa Maria della Scala fueron muy célebres, pero se han perdido."
+        ]
+      },
+      "luoghi": [
+        "santa-maria-della-scala"
+      ],
+      "luoghiNote": {
+        "santa-maria-della-scala": {
+          "tipo": {
+            "it": "Legame diretto – opera perduta",
+            "en": "Direct link – lost work",
+            "fr": "Lien direct – œuvre perdue",
+            "de": "Direkter Bezug – verlorenes Werk",
+            "es": "Vínculo directo – obra perdida"
+          },
+          "testo": {
+            "it": "Fu sede di una commissione realizzata insieme al fratello Ambrogio, oggi conosciuta attraverso le testimonianze storiche.",
+            "en": "It was the site of a commission made together with his brother Ambrogio, now known through historical records.",
+            "fr": "Le lieu d'une commande réalisée avec son frère Ambrogio, aujourd'hui connue par des témoignages historiques.",
+            "de": "Hier befand sich ein gemeinsam mit seinem Bruder Ambrogio ausgeführter Auftrag, der heute nur aus historischen Zeugnissen bekannt ist.",
+            "es": "Fue sede de un encargo realizado junto con su hermano Ambrogio, hoy conocido a través de testimonios históricos."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "ambrogio-lorenzetti",
+          "testo": {
+            "it": "Erano fratelli e collaborarono in alcune commissioni. Le loro personalità artistiche rimasero comunque distinte.",
+            "en": "They were brothers and worked together on some commissions. Their artistic personalities nonetheless remained distinct.",
+            "fr": "Ils étaient frères et collaborèrent à certaines commandes. Leurs personnalités artistiques restèrent néanmoins distinctes.",
+            "de": "Sie waren Brüder und arbeiteten bei einigen Aufträgen zusammen. Ihre künstlerischen Persönlichkeiten blieben dennoch eigenständig.",
+            "es": "Eran hermanos y colaboraron en algunos encargos. Sus personalidades artísticas siguieron, sin embargo, siendo distintas."
+          }
+        },
+        {
+          "id": "duccio-di-buoninsegna",
+          "testo": {
+            "it": "Pietro si formò nell'ambiente artistico che aveva come riferimento la pittura di Duccio e ne sviluppò alcuni elementi in una direzione più narrativa e drammatica.",
+            "en": "Pietro trained in the artistic milieu that took Duccio's painting as its reference and developed some of its elements in a more narrative and dramatic direction.",
+            "fr": "Pietro se forma dans le milieu artistique qui avait pour référence la peinture de Duccio et en développa certains éléments dans une direction plus narrative et dramatique.",
+            "de": "Pietro bildete sich in dem künstlerischen Umfeld aus, das Duccios Malerei zum Vorbild hatte, und entwickelte einige ihrer Elemente in eine erzählerischere und dramatischere Richtung weiter.",
+            "es": "Pietro se formó en el ambiente artístico que tenía como referencia la pintura de Duccio y desarrolló algunos de sus elementos en una dirección más narrativa y dramática."
+          }
+        },
+        {
+          "id": "simone-martini",
+          "testo": {
+            "it": "Fu suo contemporaneo e uno dei principali protagonisti della pittura senese del Trecento.",
+            "en": "He was his contemporary and one of the main figures of fourteenth-century Sienese painting.",
+            "fr": "Il fut son contemporain et l'un des principaux protagonistes de la peinture siennoise du XIVe siècle.",
+            "de": "Er war sein Zeitgenosse und eine der Hauptfiguren der sienesischen Malerei des 14. Jahrhunderts.",
+            "es": "Fue su contemporáneo y uno de los principales protagonistas de la pintura sienesa del siglo XIV."
+          }
+        }
+      ]
+    },
+    {
+      "id": "nicola-pisano",
+      "nome": "Nicola Pisano",
+      "nascita": 1220,
+      "professione": {
+        "it": "Scultore",
+        "en": "Sculptor",
+        "fr": "Sculpteur",
+        "de": "Bildhauer",
+        "es": "Escultor"
+      },
+      "luogoNascita": {
+        "it": "Probabilmente in Puglia (secondo l'interpretazione prevalente dei documenti)",
+        "en": "Probably Apulia (according to the prevailing reading of the documents)",
+        "fr": "Probablement les Pouilles (selon l'interprétation dominante des documents)",
+        "de": "Wahrscheinlich Apulien (nach der vorherrschenden Deutung der Dokumente)",
+        "es": "Probablemente Apulia (según la interpretación predominante de los documentos)"
+      },
+      "dataNascita": {
+        "it": "1220 circa (probabile)",
+        "en": "c. 1220 (probable)",
+        "fr": "vers 1220 (probable)",
+        "de": "um 1220 (wahrscheinlich)",
+        "es": "hacia 1220 (probable)"
+      },
+      "luogoMorte": {
+        "it": "Non documentato con certezza",
+        "en": "Not documented with certainty",
+        "fr": "Non documenté avec certitude",
+        "de": "Nicht sicher belegt",
+        "es": "No documentado con certeza"
+      },
+      "dataMorte": {
+        "it": "Non documentata con certezza",
+        "en": "Not documented with certainty",
+        "fr": "Non documentée avec certitude",
+        "de": "Nicht sicher belegt",
+        "es": "No documentada con certeza"
+      },
+      "biografia": {
+        "it": "Nicola Pisano è uno dei più importanti scultori italiani del XIII secolo e una figura fondamentale per la storia artistica di Siena. Nonostante il nome con cui è conosciuto, alcuni documenti fanno pensare che fosse originario dell'Italia meridionale, probabilmente della Puglia.\n\nLa sua formazione è stata collegata all'ambiente artistico sviluppatosi nel Sud Italia durante il regno di Federico II, dove la riscoperta dei modelli classici si univa a una sensibilità medievale e gotica.\n\nNicola raggiunse una straordinaria notorietà grazie alla sua capacità di recuperare elementi della scultura antica, reinterpretandoli all'interno di opere cristiane. Le sue figure hanno una presenza plastica e monumentale che si distingue da molte produzioni scultoree del tempo.\n\nTra le sue opere più importanti si trova il pulpito del Battistero di Pisa, realizzato intorno al 1260, nel quale le scene della vita di Cristo sono rappresentate con grande intensità narrativa.\n\nIl suo legame con Siena è particolarmente significativo. Nicola e la sua bottega parteciparono alla decorazione e alla costruzione del Duomo, contribuendo con opere scultoree e apparati figurativi. Nel 1272 ottenne la cittadinanza senese, in un rapporto con l'Opera della Cattedrale che coinvolse anche alcuni suoi collaboratori.\n\nLa sua attività contribuì a introdurre nella scultura senese una nuova monumentalità, influenzando profondamente gli artisti che operarono nella città nei decenni successivi.\n\nIl figlio Giovanni Pisano seguì le sue orme, ma sviluppò uno stile personale, più dinamico ed espressivo.",
+        "en": "Nicola Pisano is one of the most important Italian sculptors of the thirteenth century and a key figure in Siena's artistic history. Despite the name he is known by, some documents suggest he came from southern Italy, probably Apulia.\n\nHis training has been linked to the artistic milieu that developed in southern Italy under Frederick II, where the rediscovery of classical models combined with a medieval and Gothic sensibility.\n\nNicola won extraordinary fame for his ability to recover elements of ancient sculpture and reinterpret them within Christian works. His figures have a sculptural, monumental presence that sets them apart from much of the sculpture of the time.\n\nAmong his most important works is the pulpit of the Baptistery of Pisa, made around 1260, in which scenes from the life of Christ are rendered with great narrative intensity.\n\nHis link with Siena is particularly significant. Nicola and his workshop took part in the decoration and construction of the Duomo, contributing sculptural works and figurative programmes. In 1272 he obtained Sienese citizenship, in a relationship with the Opera della Cattedrale that also involved some of his collaborators.\n\nHis work helped introduce a new monumentality into Sienese sculpture, deeply influencing the artists who worked in the city in the following decades.\n\nHis son Giovanni Pisano followed in his footsteps but developed a personal style, more dynamic and expressive.",
+        "fr": "Nicola Pisano est l'un des plus importants sculpteurs italiens du XIIIe siècle et une figure fondamentale de l'histoire artistique de Sienne. Malgré le nom sous lequel on le connaît, certains documents laissent penser qu'il était originaire d'Italie du Sud, probablement des Pouilles.\n\nSa formation a été rattachée au milieu artistique développé dans le sud de l'Italie sous le règne de Frédéric II, où la redécouverte des modèles classiques s'unissait à une sensibilité médiévale et gothique.\n\nNicola atteignit une notoriété extraordinaire grâce à sa capacité à retrouver des éléments de la sculpture antique et à les réinterpréter dans des œuvres chrétiennes. Ses figures ont une présence plastique et monumentale qui se distingue de beaucoup de productions sculptées de l'époque.\n\nParmi ses œuvres les plus importantes figure la chaire du baptistère de Pise, réalisée vers 1260, où les scènes de la vie du Christ sont rendues avec une grande intensité narrative.\n\nSon lien avec Sienne est particulièrement significatif. Nicola et son atelier participèrent à la décoration et à la construction du Duomo, apportant des œuvres sculptées et des programmes figuratifs. En 1272, il obtint la citoyenneté siennoise, dans une relation avec l'Opera della Cattedrale qui impliqua aussi certains de ses collaborateurs.\n\nSon activité contribua à introduire dans la sculpture siennoise une nouvelle monumentalité, influençant profondément les artistes qui travaillèrent dans la ville au cours des décennies suivantes.\n\nSon fils Giovanni Pisano suivit ses traces, mais développa un style personnel, plus dynamique et expressif.",
+        "de": "Nicola Pisano ist einer der bedeutendsten italienischen Bildhauer des 13. Jahrhunderts und eine Schlüsselfigur der sienesischen Kunstgeschichte. Trotz des Namens, unter dem er bekannt ist, deuten einige Dokumente darauf hin, dass er aus Süditalien stammte, wahrscheinlich aus Apulien.\n\nSeine Ausbildung wird mit dem künstlerischen Umfeld verbunden, das sich in Süditalien unter Friedrich II. entwickelte, wo sich die Wiederentdeckung klassischer Vorbilder mit mittelalterlicher und gotischer Empfindung verband.\n\nNicola erlangte außerordentlichen Ruhm durch seine Fähigkeit, Elemente der antiken Skulptur wiederzugewinnen und in christlichen Werken neu zu deuten. Seine Figuren haben eine plastische, monumentale Präsenz, die sich von vielen Bildhauerarbeiten der Zeit abhebt.\n\nZu seinen wichtigsten Werken gehört die um 1260 geschaffene Kanzel des Baptisteriums von Pisa, in der Szenen aus dem Leben Christi mit großer erzählerischer Intensität dargestellt sind.\n\nSeine Verbindung zu Siena ist besonders bedeutsam. Nicola und seine Werkstatt wirkten an der Ausschmückung und am Bau des Doms mit und steuerten Skulpturen und Bildprogramme bei. 1272 erhielt er das sienesische Bürgerrecht, in einem Verhältnis zur Opera della Cattedrale, an dem auch einige seiner Mitarbeiter beteiligt waren.\n\nSein Wirken trug dazu bei, eine neue Monumentalität in die sienesische Bildhauerei einzuführen, und prägte die Künstler, die in den folgenden Jahrzehnten in der Stadt arbeiteten, nachhaltig.\n\nSein Sohn Giovanni Pisano folgte seinen Spuren, entwickelte aber einen persönlichen, dynamischeren und ausdrucksstärkeren Stil.",
+        "es": "Nicola Pisano es uno de los escultores italianos más importantes del siglo XIII y una figura fundamental para la historia artística de Siena. A pesar del nombre con el que se le conoce, algunos documentos sugieren que era originario del sur de Italia, probablemente de Apulia.\n\nSu formación se ha vinculado al ambiente artístico desarrollado en el sur de Italia durante el reinado de Federico II, donde el redescubrimiento de los modelos clásicos se unía a una sensibilidad medieval y gótica.\n\nNicola alcanzó una extraordinaria fama gracias a su capacidad de recuperar elementos de la escultura antigua y reinterpretarlos en obras cristianas. Sus figuras tienen una presencia plástica y monumental que se distingue de muchas producciones escultóricas de la época.\n\nEntre sus obras más importantes está el púlpito del Baptisterio de Pisa, realizado hacia 1260, en el que las escenas de la vida de Cristo se representan con gran intensidad narrativa.\n\nSu vínculo con Siena es particularmente significativo. Nicola y su taller participaron en la decoración y construcción del Duomo, aportando obras escultóricas y programas figurativos. En 1272 obtuvo la ciudadanía sienesa, en una relación con la Opera della Cattedrale que implicó también a algunos de sus colaboradores.\n\nSu actividad contribuyó a introducir en la escultura sienesa una nueva monumentalidad, influyendo profundamente en los artistas que trabajaron en la ciudad en las décadas siguientes.\n\nSu hijo Giovanni Pisano siguió sus pasos, pero desarrolló un estilo personal, más dinámico y expresivo."
+      },
+      "curiosita": {
+        "it": [
+          "Il cognome «Pisano» non dimostra che Nicola fosse nato a Pisa: alcuni documenti senesi lo identificano come «de Apulia», cioè proveniente dalla Puglia.",
+          "Il suo linguaggio artistico recupera elementi della scultura classica, soprattutto nella resa dei corpi e dei panneggi.",
+          "Il pulpito del Battistero di Pisa è uno dei capolavori della scultura medievale italiana.",
+          "La sua bottega ebbe un ruolo importante nella formazione di altri scultori, tra cui il figlio Giovanni."
+        ],
+        "en": [
+          "The surname “Pisano” does not prove Nicola was born in Pisa: some Sienese documents identify him as “de Apulia”, that is, from Apulia.",
+          "His artistic language recovers elements of classical sculpture, especially in the rendering of bodies and drapery.",
+          "The pulpit of the Baptistery of Pisa is one of the masterpieces of Italian medieval sculpture.",
+          "His workshop played an important part in training other sculptors, including his son Giovanni."
+        ],
+        "fr": [
+          "Le surnom « Pisano » ne prouve pas que Nicola soit né à Pise : certains documents siennois l'identifient comme « de Apulia », c'est-à-dire originaire des Pouilles.",
+          "Son langage artistique retrouve des éléments de la sculpture classique, surtout dans le rendu des corps et des drapés.",
+          "La chaire du baptistère de Pise est l'un des chefs-d'œuvre de la sculpture médiévale italienne.",
+          "Son atelier joua un rôle important dans la formation d'autres sculpteurs, dont son fils Giovanni."
+        ],
+        "de": [
+          "Der Beiname „Pisano“ beweist nicht, dass Nicola in Pisa geboren wurde: Einige sienesische Dokumente bezeichnen ihn als „de Apulia“, also aus Apulien stammend.",
+          "Seine Kunstsprache greift Elemente der klassischen Skulptur auf, vor allem in der Wiedergabe von Körpern und Gewändern.",
+          "Die Kanzel des Baptisteriums von Pisa ist eines der Meisterwerke der italienischen mittelalterlichen Bildhauerei.",
+          "Seine Werkstatt spielte eine wichtige Rolle bei der Ausbildung anderer Bildhauer, darunter seines Sohnes Giovanni."
+        ],
+        "es": [
+          "El apellido «Pisano» no demuestra que Nicola naciera en Pisa: algunos documentos sieneses lo identifican como «de Apulia», es decir, procedente de Apulia.",
+          "Su lenguaje artístico recupera elementos de la escultura clásica, sobre todo en la representación de los cuerpos y los ropajes.",
+          "El púlpito del Baptisterio de Pisa es una de las obras maestras de la escultura medieval italiana.",
+          "Su taller tuvo un papel importante en la formación de otros escultores, entre ellos su hijo Giovanni."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – cantiere",
+            "en": "Direct link – building works",
+            "fr": "Lien direct – chantier",
+            "de": "Direkter Bezug – Baustelle",
+            "es": "Vínculo directo – obras"
+          },
+          "testo": {
+            "it": "Nicola e la sua bottega sono legati alla decorazione scultorea della cattedrale e alle opere realizzate per il complesso.",
+            "en": "Nicola and his workshop are linked to the cathedral's sculptural decoration and to the works made for the complex.",
+            "fr": "Nicola et son atelier sont liés à la décoration sculptée de la cathédrale et aux œuvres réalisées pour l'ensemble.",
+            "de": "Nicola und seine Werkstatt sind mit dem Skulpturenschmuck des Doms und den für den Komplex geschaffenen Werken verbunden.",
+            "es": "Nicola y su taller están ligados a la decoración escultórica de la catedral y a las obras realizadas para el conjunto."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "giovanni-pisano",
+          "testo": {
+            "it": "Era suo figlio e collaborò con lui nei cantieri di scultura. Giovanni ne raccolse l'eredità, sviluppando uno stile più dinamico e drammatico.",
+            "en": "He was his son and worked with him on sculpture building sites. Giovanni took up his legacy, developing a more dynamic and dramatic style.",
+            "fr": "C'était son fils, qui collabora avec lui dans les chantiers de sculpture. Giovanni recueillit son héritage en développant un style plus dynamique et dramatique.",
+            "de": "Er war sein Sohn und arbeitete mit ihm auf den Bildhauerbaustellen zusammen. Giovanni trat sein Erbe an und entwickelte einen dynamischeren, dramatischeren Stil.",
+            "es": "Era su hijo y colaboró con él en las obras de escultura. Giovanni recogió su herencia, desarrollando un estilo más dinámico y dramático."
+          }
+        }
+      ]
+    },
+    {
+      "id": "giovanni-pisano",
+      "nome": "Giovanni Pisano",
+      "nascita": 1248,
+      "professione": {
+        "it": "Scultore e architetto",
+        "en": "Sculptor and architect",
+        "fr": "Sculpteur et architecte",
+        "de": "Bildhauer und Architekt",
+        "es": "Escultor y arquitecto"
+      },
+      "luogoNascita": {
+        "it": "Non documentato con certezza",
+        "en": "Not documented with certainty",
+        "fr": "Non documenté avec certitude",
+        "de": "Nicht sicher belegt",
+        "es": "No documentado con certeza"
+      },
+      "dataNascita": {
+        "it": "1248 circa",
+        "en": "c. 1248",
+        "fr": "vers 1248",
+        "de": "um 1248",
+        "es": "hacia 1248"
+      },
+      "luogoMorte": {
+        "it": "Non certo (forse Siena)",
+        "en": "Uncertain (perhaps Siena)",
+        "fr": "Incertain (peut-être Sienne)",
+        "de": "Unsicher (vielleicht Siena)",
+        "es": "Incierto (quizá Siena)"
+      },
+      "dataMorte": {
+        "it": "Dopo il 1314, probabilmente intorno al 1320",
+        "en": "After 1314, probably around 1320",
+        "fr": "Après 1314, probablement vers 1320",
+        "de": "Nach 1314, wahrscheinlich um 1320",
+        "es": "Después de 1314, probablemente hacia 1320"
+      },
+      "biografia": {
+        "it": "Giovanni Pisano fu uno scultore e architetto tra i più importanti del Medioevo italiano. Figlio di Nicola Pisano, si formò nell'ambiente della bottega paterna e partecipò fin da giovane a importanti cantieri artistici.\n\nIl suo legame con Siena iniziò durante la collaborazione con il padre alla realizzazione del pulpito del Duomo, tra il 1265 e il 1268. In seguito si affermò come artista autonomo, sviluppando uno stile molto diverso da quello di Nicola.\n\nMentre il padre era maggiormente interessato alla monumentalità e al recupero dei modelli classici, Giovanni elaborò una scultura più movimentata, intensa e drammatica. Le sue figure sembrano spesso colte in un movimento improvviso e comunicano emozioni attraverso posture, gesti e volti particolarmente espressivi.\n\nGiovanni lavorò in diversi centri della Toscana e dell'Italia centrale. A Siena ebbe un ruolo di primo piano: fu capomastro del Duomo dal 1287 al 1296 e partecipò alla definizione del progetto architettonico della cattedrale in una fase di grande sviluppo.\n\nIl suo intervento contribuì a dare al Duomo una fisionomia sempre più monumentale. L'attività di Giovanni si inserisce in un momento nel quale Siena investiva in modo consistente nell'architettura religiosa e nella decorazione scultorea, facendo della cattedrale uno dei simboli più importanti della città.\n\nTra le sue opere più celebri si ricordano il pulpito della Cattedrale di Pisa e quello della chiesa di Sant'Andrea a Pistoia. La sua produzione rappresenta uno dei momenti più alti della scultura gotica italiana.",
+        "en": "Giovanni Pisano was one of the most important sculptors and architects of the Italian Middle Ages. Son of Nicola Pisano, he trained in his father's workshop and took part from a young age in major artistic building sites.\n\nHis link with Siena began when he worked with his father on the pulpit of the Duomo, between 1265 and 1268. He then established himself as an independent artist, developing a style very different from Nicola's.\n\nWhereas his father was more interested in monumentality and the recovery of classical models, Giovanni developed a more animated, intense and dramatic sculpture. His figures often seem caught in sudden movement and convey emotion through highly expressive postures, gestures and faces.\n\nGiovanni worked in several centres of Tuscany and central Italy. In Siena he played a leading role: he was master builder of the Duomo from 1287 to 1296 and took part in defining the cathedral's architectural design at a time of great development.\n\nHis work helped give the Duomo an increasingly monumental appearance. Giovanni's activity belongs to a moment when Siena was investing heavily in religious architecture and sculptural decoration, making the cathedral one of the city's most important symbols.\n\nAmong his most famous works are the pulpit of Pisa Cathedral and that of the church of Sant'Andrea in Pistoia. His output represents one of the highest points of Italian Gothic sculpture.",
+        "fr": "Giovanni Pisano fut l'un des plus importants sculpteurs et architectes du Moyen Âge italien. Fils de Nicola Pisano, il se forma dans l'atelier paternel et participa dès son jeune âge à d'importants chantiers artistiques.\n\nSon lien avec Sienne commença lors de sa collaboration avec son père à la réalisation de la chaire du Duomo, entre 1265 et 1268. Il s'affirma ensuite comme artiste autonome, développant un style très différent de celui de Nicola.\n\nAlors que son père s'intéressait davantage à la monumentalité et à la reprise des modèles classiques, Giovanni élabora une sculpture plus mouvementée, intense et dramatique. Ses figures semblent souvent saisies dans un mouvement soudain et communiquent des émotions par des postures, des gestes et des visages particulièrement expressifs.\n\nGiovanni travailla dans plusieurs centres de Toscane et d'Italie centrale. À Sienne, il joua un rôle de premier plan : il fut maître d'œuvre du Duomo de 1287 à 1296 et participa à la définition du projet architectural de la cathédrale à une période de grand essor.\n\nSon intervention contribua à donner au Duomo une physionomie de plus en plus monumentale. L'activité de Giovanni s'inscrit à un moment où Sienne investissait massivement dans l'architecture religieuse et la décoration sculptée, faisant de la cathédrale l'un des symboles les plus importants de la ville.\n\nParmi ses œuvres les plus célèbres figurent la chaire de la cathédrale de Pise et celle de l'église Sant'Andrea à Pistoia. Sa production représente l'un des sommets de la sculpture gothique italienne.",
+        "de": "Giovanni Pisano war einer der bedeutendsten Bildhauer und Architekten des italienischen Mittelalters. Als Sohn von Nicola Pisano wurde er in der väterlichen Werkstatt ausgebildet und wirkte schon in jungen Jahren an bedeutenden Kunstbaustellen mit.\n\nSeine Verbindung zu Siena begann mit der Zusammenarbeit mit seinem Vater an der Kanzel des Doms zwischen 1265 und 1268. Danach etablierte er sich als eigenständiger Künstler und entwickelte einen Stil, der sich stark von dem Nicolas unterschied.\n\nWährend sich sein Vater mehr für Monumentalität und die Wiedergewinnung klassischer Vorbilder interessierte, schuf Giovanni eine bewegtere, intensivere und dramatischere Skulptur. Seine Figuren wirken oft wie in plötzlicher Bewegung erfasst und vermitteln Gefühle durch besonders ausdrucksstarke Haltungen, Gesten und Gesichter.\n\nGiovanni arbeitete in mehreren Zentren der Toskana und Mittelitaliens. In Siena spielte er eine führende Rolle: Von 1287 bis 1296 war er Dombaumeister und wirkte in einer Phase großer Entwicklung an der Festlegung des architektonischen Entwurfs der Kathedrale mit.\n\nSein Eingreifen trug dazu bei, dem Dom ein immer monumentaleres Erscheinungsbild zu geben. Giovannis Wirken fällt in eine Zeit, in der Siena stark in sakrale Architektur und Skulpturenschmuck investierte und die Kathedrale zu einem der wichtigsten Symbole der Stadt machte.\n\nZu seinen berühmtesten Werken zählen die Kanzel des Doms von Pisa und die der Kirche Sant'Andrea in Pistoia. Sein Schaffen gehört zu den Höhepunkten der italienischen gotischen Skulptur.",
+        "es": "Giovanni Pisano fue uno de los escultores y arquitectos más importantes de la Edad Media italiana. Hijo de Nicola Pisano, se formó en el taller paterno y participó desde joven en importantes obras artísticas.\n\nSu vínculo con Siena comenzó durante la colaboración con su padre en la realización del púlpito del Duomo, entre 1265 y 1268. Después se afirmó como artista autónomo, desarrollando un estilo muy distinto del de Nicola.\n\nMientras su padre se interesaba más por la monumentalidad y la recuperación de los modelos clásicos, Giovanni elaboró una escultura más movida, intensa y dramática. Sus figuras parecen a menudo sorprendidas en un movimiento repentino y comunican emociones mediante posturas, gestos y rostros especialmente expresivos.\n\nGiovanni trabajó en varios centros de la Toscana y de Italia central. En Siena tuvo un papel de primer plano: fue maestro de obras del Duomo de 1287 a 1296 y participó en la definición del proyecto arquitectónico de la catedral en una fase de gran desarrollo.\n\nSu intervención contribuyó a dar al Duomo una fisonomía cada vez más monumental. La actividad de Giovanni se inserta en un momento en el que Siena invertía de forma considerable en arquitectura religiosa y decoración escultórica, haciendo de la catedral uno de los símbolos más importantes de la ciudad.\n\nEntre sus obras más célebres se recuerdan el púlpito de la catedral de Pisa y el de la iglesia de Sant'Andrea en Pistoia. Su producción representa uno de los momentos más altos de la escultura gótica italiana."
+      },
+      "curiosita": {
+        "it": [
+          "Giovanni fu anche architetto e non soltanto scultore: il suo incarico come capomastro del Duomo di Siena testimonia la sua competenza nella progettazione e nella direzione dei cantieri.",
+          "Il suo stile si distingue per il forte dinamismo delle figure e per la capacità di rappresentare emozioni intense.",
+          "Fu influenzato dal gotico d'Oltralpe, che contribuì a rendere la sua scultura più slanciata e movimentata.",
+          "La sua attività a Siena coincise con una fase decisiva della costruzione e dell'ampliamento della Cattedrale."
+        ],
+        "en": [
+          "Giovanni was also an architect, not only a sculptor: his post as master builder of the Duomo of Siena shows his skill in design and in directing building sites.",
+          "His style stands out for the strong dynamism of its figures and its ability to portray intense emotions.",
+          "He was influenced by Gothic north of the Alps, which helped make his sculpture more slender and animated.",
+          "His work in Siena coincided with a decisive phase in the construction and enlargement of the Cathedral."
+        ],
+        "fr": [
+          "Giovanni fut aussi architecte et pas seulement sculpteur : sa charge de maître d'œuvre du Duomo de Sienne témoigne de sa compétence en matière de conception et de direction de chantiers.",
+          "Son style se distingue par le fort dynamisme des figures et par sa capacité à représenter des émotions intenses.",
+          "Il fut influencé par le gothique d'outre-monts, qui contribua à rendre sa sculpture plus élancée et mouvementée.",
+          "Son activité à Sienne coïncida avec une phase décisive de la construction et de l'agrandissement de la cathédrale."
+        ],
+        "de": [
+          "Giovanni war auch Architekt und nicht nur Bildhauer: Sein Amt als Dombaumeister von Siena zeugt von seiner Kompetenz in Planung und Bauleitung.",
+          "Sein Stil zeichnet sich durch die starke Dynamik der Figuren und die Fähigkeit aus, intensive Gefühle darzustellen.",
+          "Er wurde von der Gotik nördlich der Alpen beeinflusst, die seine Skulptur schlanker und bewegter machte.",
+          "Seine Tätigkeit in Siena fiel mit einer entscheidenden Phase des Baus und der Erweiterung der Kathedrale zusammen."
+        ],
+        "es": [
+          "Giovanni fue también arquitecto y no solo escultor: su cargo de maestro de obras del Duomo de Siena testimonia su competencia en el diseño y la dirección de obras.",
+          "Su estilo se distingue por el fuerte dinamismo de las figuras y por la capacidad de representar emociones intensas.",
+          "Fue influido por el gótico de allende los Alpes, que contribuyó a hacer su escultura más esbelta y movida.",
+          "Su actividad en Siena coincidió con una fase decisiva de la construcción y ampliación de la catedral."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – cantiere",
+            "en": "Direct link – building works",
+            "fr": "Lien direct – chantier",
+            "de": "Direkter Bezug – Baustelle",
+            "es": "Vínculo directo – obras"
+          },
+          "testo": {
+            "it": "Giovanni fu capomastro della cattedrale tra il 1287 e il 1296 e contribuì alla sua progettazione e al suo sviluppo architettonico.",
+            "en": "Giovanni was master builder of the cathedral from 1287 to 1296 and contributed to its design and architectural development.",
+            "fr": "Giovanni fut maître d'œuvre de la cathédrale de 1287 à 1296 et contribua à sa conception et à son développement architectural.",
+            "de": "Giovanni war von 1287 bis 1296 Dombaumeister der Kathedrale und trug zu ihrer Planung und architektonischen Entwicklung bei.",
+            "es": "Giovanni fue maestro de obras de la catedral entre 1287 y 1296 y contribuyó a su proyecto y a su desarrollo arquitectónico."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "nicola-pisano",
+          "testo": {
+            "it": "Era suo padre e il suo primo riferimento artistico. Giovanni collaborò con lui nei cantieri giovanili, ma sviluppò in seguito un linguaggio autonomo.",
+            "en": "He was his father and his first artistic reference. Giovanni worked with him on his early building sites but later developed an independent language.",
+            "fr": "C'était son père et sa première référence artistique. Giovanni collabora avec lui dans les chantiers de jeunesse, mais développa ensuite un langage autonome.",
+            "de": "Er war sein Vater und sein erstes künstlerisches Vorbild. Giovanni arbeitete mit ihm auf den Baustellen seiner Jugend, entwickelte später aber eine eigenständige Sprache.",
+            "es": "Era su padre y su primera referencia artística. Giovanni colaboró con él en las obras de juventud, pero después desarrolló un lenguaje autónomo."
+          }
+        }
+      ]
+    },
+    {
+      "id": "provenzano-salvani",
+      "nome": "Provenzano Salvani",
+      "nascita": 1220,
+      "morte": 1269,
+      "professione": {
+        "it": "Uomo politico e capo ghibellino",
+        "en": "Politician and Ghibelline leader",
+        "fr": "Homme politique et chef gibelin",
+        "de": "Politiker und ghibellinischer Anführer",
+        "es": "Político y jefe gibelino"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "1220 circa (probabile)",
+        "en": "c. 1220 (probable)",
+        "fr": "vers 1220 (probable)",
+        "de": "um 1220 (wahrscheinlich)",
+        "es": "hacia 1220 (probable)"
+      },
+      "luogoMorte": {
+        "it": "Colle di Val d'Elsa",
+        "en": "Colle di Val d'Elsa",
+        "fr": "Colle di Val d'Elsa",
+        "de": "Colle di Val d'Elsa",
+        "es": "Colle di Val d'Elsa"
+      },
+      "dataMorte": {
+        "it": "12 giugno 1269",
+        "en": "12 June 1269",
+        "fr": "12 juin 1269",
+        "de": "12. Juni 1269",
+        "es": "12 de junio de 1269"
+      },
+      "biografia": {
+        "it": "Provenzano Salvani fu uno dei più importanti protagonisti della vita politica senese del XIII secolo. Appartenente a una famiglia influente, emerse progressivamente all'interno delle istituzioni comunali fino a diventare una delle figure più autorevoli del partito ghibellino.\n\nLa sua attività politica è documentata a partire dal 1246-1247, quando ricoprì l'incarico di provveditore della Biccherna, l'ufficio che si occupava dell'amministrazione finanziaria del Comune. Negli anni successivi partecipò a numerose missioni diplomatiche e ricoprì incarichi di governo, consolidando la propria influenza nella vita cittadina.\n\nProvenzano fu uno dei principali sostenitori dell'alleanza tra Siena e le forze filoimperiali. La sua politica mirava a rafforzare il ruolo della città nella Toscana medievale e a contrastare l'espansione di Firenze, schierata sul fronte guelfo.\n\nIl momento più importante della sua carriera fu la battaglia di Montaperti, combattuta il 4 settembre 1260. Le forze senesi e i loro alleati sconfissero l'esercito fiorentino, ottenendo una vittoria destinata a diventare uno degli episodi più celebri della storia cittadina. Dopo il successo, Provenzano raggiunse il culmine della propria influenza politica.\n\nIl suo potere, tuttavia, non durò a lungo. Le difficoltà diplomatiche, i contrasti interni e il progressivo isolamento della parte ghibellina indebolirono la sua posizione. Nel 1269 guidò l'esercito senese nella battaglia di Colle di Val d'Elsa contro le forze guelfe. La sconfitta fu decisiva: Provenzano venne catturato e ucciso.\n\nLa sua figura entrò anche nella letteratura grazie a Dante Alighieri, che lo ricordò nel canto XI del Purgatorio. Il poeta lo presenta come esempio della caducità della fama e della superbia umana, ma ricorda anche il gesto di umiltà con cui Provenzano avrebbe chiesto pubblicamente aiuto per riscattare un amico prigioniero.",
+        "en": "Provenzano Salvani was one of the most important figures in Sienese political life in the thirteenth century. Coming from an influential family, he rose gradually within the communal institutions until he became one of the most authoritative figures of the Ghibelline party.\n\nHis political activity is documented from 1246–1247, when he held the post of provveditore of the Biccherna, the office in charge of the Commune's financial administration. In the following years he took part in numerous diplomatic missions and held government posts, consolidating his influence in city life.\n\nProvenzano was one of the main supporters of the alliance between Siena and the pro-imperial forces. His policy aimed to strengthen the city's role in medieval Tuscany and to counter the expansion of Florence, which sided with the Guelphs.\n\nThe most important moment of his career was the Battle of Montaperti, fought on 4 September 1260. The Sienese forces and their allies defeated the Florentine army, winning a victory destined to become one of the most famous episodes in the city's history. After this success, Provenzano reached the height of his political influence.\n\nHis power, however, did not last long. Diplomatic difficulties, internal conflicts and the growing isolation of the Ghibelline side weakened his position. In 1269 he led the Sienese army in the Battle of Colle di Val d'Elsa against the Guelph forces. The defeat was decisive: Provenzano was captured and killed.\n\nHis figure also entered literature thanks to Dante Alighieri, who remembered him in Canto XI of the Purgatorio. The poet presents him as an example of the transience of fame and of human pride, but also recalls the gesture of humility with which Provenzano is said to have publicly asked for help to ransom an imprisoned friend.",
+        "fr": "Provenzano Salvani fut l'un des plus importants protagonistes de la vie politique siennoise du XIIIe siècle. Issu d'une famille influente, il s'éleva progressivement au sein des institutions communales jusqu'à devenir l'une des figures les plus autorisées du parti gibelin.\n\nSon activité politique est documentée à partir de 1246-1247, quand il occupa la charge de provveditore de la Biccherna, l'office chargé de l'administration financière de la Commune. Dans les années suivantes, il participa à de nombreuses missions diplomatiques et exerça des fonctions de gouvernement, consolidant son influence dans la vie de la cité.\n\nProvenzano fut l'un des principaux partisans de l'alliance entre Sienne et les forces pro-impériales. Sa politique visait à renforcer le rôle de la ville dans la Toscane médiévale et à contrer l'expansion de Florence, rangée du côté guelfe.\n\nLe moment le plus important de sa carrière fut la bataille de Montaperti, livrée le 4 septembre 1260. Les forces siennoises et leurs alliés vainquirent l'armée florentine, remportant une victoire destinée à devenir l'un des épisodes les plus célèbres de l'histoire de la ville. Après ce succès, Provenzano atteignit le sommet de son influence politique.\n\nSon pouvoir ne dura toutefois pas longtemps. Les difficultés diplomatiques, les dissensions internes et l'isolement progressif du parti gibelin affaiblirent sa position. En 1269, il conduisit l'armée siennoise à la bataille de Colle di Val d'Elsa contre les forces guelfes. La défaite fut décisive : Provenzano fut capturé et tué.\n\nSa figure entra aussi dans la littérature grâce à Dante Alighieri, qui l'évoqua au chant XI du Purgatoire. Le poète le présente comme un exemple de la caducité de la gloire et de l'orgueil humain, mais rappelle aussi le geste d'humilité par lequel Provenzano aurait publiquement demandé de l'aide pour racheter un ami prisonnier.",
+        "de": "Provenzano Salvani war einer der wichtigsten Akteure des sienesischen politischen Lebens im 13. Jahrhundert. Aus einer einflussreichen Familie stammend, stieg er allmählich in den kommunalen Institutionen auf, bis er zu einer der angesehensten Gestalten der ghibellinischen Partei wurde.\n\nSeine politische Tätigkeit ist ab 1246–1247 belegt, als er das Amt des Provveditore der Biccherna innehatte, der Behörde für die Finanzverwaltung der Kommune. In den folgenden Jahren nahm er an zahlreichen diplomatischen Missionen teil und bekleidete Regierungsämter, womit er seinen Einfluss im Stadtleben festigte.\n\nProvenzano war einer der Hauptbefürworter des Bündnisses zwischen Siena und den kaisertreuen Kräften. Seine Politik zielte darauf ab, die Rolle der Stadt im mittelalterlichen Toskana zu stärken und der Expansion von Florenz entgegenzuwirken, das auf der guelfischen Seite stand.\n\nDer wichtigste Moment seiner Laufbahn war die Schlacht von Montaperti am 4. September 1260. Die sienesischen Truppen und ihre Verbündeten besiegten das florentinische Heer und errangen einen Sieg, der zu einer der berühmtesten Episoden der Stadtgeschichte werden sollte. Nach diesem Erfolg erreichte Provenzano den Höhepunkt seines politischen Einflusses.\n\nSeine Macht währte jedoch nicht lange. Diplomatische Schwierigkeiten, innere Gegensätze und die zunehmende Isolierung der ghibellinischen Partei schwächten seine Stellung. 1269 führte er das sienesische Heer in der Schlacht von Colle di Val d'Elsa gegen die guelfischen Kräfte. Die Niederlage war entscheidend: Provenzano wurde gefangen genommen und getötet.\n\nSeine Gestalt ging auch dank Dante Alighieri in die Literatur ein, der ihn im 11. Gesang des Purgatorio erwähnte. Der Dichter stellt ihn als Beispiel für die Vergänglichkeit des Ruhms und den menschlichen Hochmut dar, erinnert aber auch an die Geste der Demut, mit der Provenzano öffentlich um Hilfe gebeten haben soll, um einen gefangenen Freund freizukaufen.",
+        "es": "Provenzano Salvani fue uno de los más importantes protagonistas de la vida política sienesa del siglo XIII. Perteneciente a una familia influyente, fue ascendiendo en las instituciones comunales hasta convertirse en una de las figuras más autorizadas del partido gibelino.\n\nSu actividad política está documentada desde 1246-1247, cuando ocupó el cargo de provveditore de la Biccherna, la oficina que se ocupaba de la administración financiera del Comune. En los años siguientes participó en numerosas misiones diplomáticas y desempeñó cargos de gobierno, consolidando su influencia en la vida ciudadana.\n\nProvenzano fue uno de los principales partidarios de la alianza entre Siena y las fuerzas proimperiales. Su política pretendía reforzar el papel de la ciudad en la Toscana medieval y contrarrestar la expansión de Florencia, alineada con el bando güelfo.\n\nEl momento más importante de su carrera fue la batalla de Montaperti, librada el 4 de septiembre de 1260. Las fuerzas sienesas y sus aliados derrotaron al ejército florentino, logrando una victoria destinada a convertirse en uno de los episodios más célebres de la historia de la ciudad. Tras el éxito, Provenzano alcanzó el punto culminante de su influencia política.\n\nSu poder, sin embargo, no duró mucho. Las dificultades diplomáticas, los enfrentamientos internos y el progresivo aislamiento del bando gibelino debilitaron su posición. En 1269 guio al ejército sienés en la batalla de Colle di Val d'Elsa contra las fuerzas güelfas. La derrota fue decisiva: Provenzano fue capturado y muerto.\n\nSu figura entró también en la literatura gracias a Dante Alighieri, que lo recordó en el canto XI del Purgatorio. El poeta lo presenta como ejemplo de la caducidad de la fama y de la soberbia humana, pero recuerda también el gesto de humildad con el que Provenzano habría pedido públicamente ayuda para rescatar a un amigo prisionero."
+      },
+      "curiosita": {
+        "it": [
+          "Dante lo colloca tra i superbi nel Purgatorio e racconta il gesto con cui avrebbe chiesto l'elemosina per liberare un amico.",
+          "Il suo nome è strettamente legato alla vittoria senese di Montaperti del 1260.",
+          "La sua famiglia, i Salvani, ebbe un peso notevole nella vita politica cittadina durante il XIII secolo.",
+          "La sua morte a Colle di Val d'Elsa segnò una grave sconfitta per il partito ghibellino senese."
+        ],
+        "en": [
+          "Dante places him among the proud in the Purgatorio and tells of the gesture by which he is said to have begged alms to free a friend.",
+          "His name is closely tied to the Sienese victory at Montaperti in 1260.",
+          "His family, the Salvani, carried considerable weight in the city's political life during the thirteenth century.",
+          "His death at Colle di Val d'Elsa marked a serious defeat for the Sienese Ghibelline party."
+        ],
+        "fr": [
+          "Dante le place parmi les orgueilleux du Purgatoire et raconte le geste par lequel il aurait demandé l'aumône pour libérer un ami.",
+          "Son nom est étroitement lié à la victoire siennoise de Montaperti en 1260.",
+          "Sa famille, les Salvani, eut un poids considérable dans la vie politique de la cité au XIIIe siècle.",
+          "Sa mort à Colle di Val d'Elsa marqua une grave défaite pour le parti gibelin siennois."
+        ],
+        "de": [
+          "Dante stellt ihn im Purgatorio unter die Hochmütigen und erzählt von der Geste, mit der er um Almosen gebeten haben soll, um einen Freund zu befreien.",
+          "Sein Name ist eng mit dem sienesischen Sieg von Montaperti 1260 verbunden.",
+          "Seine Familie, die Salvani, hatte im 13. Jahrhundert beträchtliches Gewicht im politischen Leben der Stadt.",
+          "Sein Tod bei Colle di Val d'Elsa bedeutete eine schwere Niederlage für die sienesische ghibellinische Partei."
+        ],
+        "es": [
+          "Dante lo sitúa entre los soberbios del Purgatorio y cuenta el gesto con el que habría pedido limosna para liberar a un amigo.",
+          "Su nombre está estrechamente ligado a la victoria sienesa de Montaperti de 1260.",
+          "Su familia, los Salvani, tuvo un peso notable en la vida política de la ciudad durante el siglo XIII.",
+          "Su muerte en Colle di Val d'Elsa supuso una grave derrota para el partido gibelino sienés."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo",
+        "palazzo-pubblico-museo-civico"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "È il cuore politico della Siena nella quale Provenzano esercitò la propria influenza.",
+            "en": "It is the political heart of the Siena in which Provenzano exercised his influence.",
+            "fr": "C'est le cœur politique de la Sienne où Provenzano exerça son influence.",
+            "de": "Er ist das politische Herz des Siena, in dem Provenzano seinen Einfluss ausübte.",
+            "es": "Es el corazón político de la Siena en la que Provenzano ejerció su influencia."
+          }
+        },
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Rappresenta il centro delle istituzioni comunali nelle quali ricoprì incarichi di governo.",
+            "en": "It represents the centre of the communal institutions in which he held government posts.",
+            "fr": "Il représente le centre des institutions communales dans lesquelles il exerça des fonctions de gouvernement.",
+            "de": "Er steht für das Zentrum der kommunalen Institutionen, in denen er Regierungsämter bekleidete.",
+            "es": "Representa el centro de las instituciones comunales en las que desempeñó cargos de gobierno."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "cecco-angiolieri",
+      "nome": "Cecco Angiolieri",
+      "nascita": 1260,
+      "professione": {
+        "it": "Poeta",
+        "en": "Poet",
+        "fr": "Poète",
+        "de": "Dichter",
+        "es": "Poeta"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "Prima del 1260 (spesso collocata intorno al 1260)",
+        "en": "Before 1260 (often placed around 1260)",
+        "fr": "Avant 1260 (souvent placée vers 1260)",
+        "de": "Vor 1260 (oft um 1260 angesetzt)",
+        "es": "Antes de 1260 (a menudo situada hacia 1260)"
+      },
+      "luogoMorte": {
+        "it": "Non documentato",
+        "en": "Not documented",
+        "fr": "Non documenté",
+        "de": "Nicht belegt",
+        "es": "No documentado"
+      },
+      "dataMorte": {
+        "it": "Probabilmente tra il 1311 e il 1313",
+        "en": "Probably between 1311 and 1313",
+        "fr": "Probablement entre 1311 et 1313",
+        "de": "Wahrscheinlich zwischen 1311 und 1313",
+        "es": "Probablemente entre 1311 y 1313"
+      },
+      "biografia": {
+        "it": "Cecco Angiolieri è uno dei più conosciuti poeti comico-realistici della letteratura italiana medievale. La sua produzione si distingue per il tono ironico, provocatorio e spesso irriverente, in netto contrasto con la poesia amorosa idealizzata dello Stilnovo.\n\nNacque a Siena in una famiglia agiata: suo padre, Angioliero degli Angiolieri, era un uomo ricco e influente, mentre la madre apparteneva alla famiglia Salimbeni. Le fonti documentarie restituiscono l'immagine di un uomo spesso coinvolto in controversie e problemi con le autorità cittadine.\n\nTra il 1281 e il 1291 sono attestati diversi episodi della sua vita, comprese partecipazioni a campagne militari, multe e procedimenti giudiziari. Nel 1289 prese parte alla battaglia di Campaldino con il contingente senese. È possibile che in quell'occasione abbia conosciuto Dante Alighieri, ma non esistono prove sufficienti per affermarlo con certezza.\n\nLa sua fama è legata soprattutto al Canzoniere, una raccolta di sonetti nei quali affronta temi quotidiani con uno stile vivace e dissacrante. Ricorrono l'amore per Becchina, il vino, il gioco, il denaro e i conflitti familiari. Il poeta costruisce spesso un personaggio provocatorio, che si lamenta delle difficoltà economiche e prende in giro le convenzioni sociali e morali del suo tempo.\n\nIl sonetto più famoso comincia con il verso «S'i' fosse foco, arderei 'l mondo» e rappresenta perfettamente il suo gusto per l'esagerazione e la provocazione. La sua poesia, tuttavia, non deve essere letta come un semplice diario autobiografico: molti studiosi sottolineano la componente letteraria e giocosa di questi atteggiamenti.\n\nCecco rappresenta una voce originale della cultura senese medievale, capace di raccontare la società attraverso il sarcasmo, il linguaggio popolare e la parodia.",
+        "en": "Cecco Angiolieri is one of the best-known comic-realist poets of medieval Italian literature. His work stands out for its ironic, provocative and often irreverent tone, in sharp contrast with the idealised love poetry of the Dolce Stil Novo.\n\nHe was born in Siena into a well-off family: his father, Angioliero degli Angiolieri, was a rich and influential man, while his mother belonged to the Salimbeni family. Documentary sources give the image of a man often caught up in disputes and trouble with the city authorities.\n\nBetween 1281 and 1291 several episodes of his life are recorded, including military campaigns, fines and legal proceedings. In 1289 he took part in the Battle of Campaldino with the Sienese contingent. He may have met Dante Alighieri on that occasion, but there is not enough evidence to say so with certainty.\n\nHis fame rests above all on the Canzoniere, a collection of sonnets in which he deals with everyday themes in a lively, irreverent style. Recurring subjects are his love for Becchina, wine, gambling, money and family conflicts. The poet often builds a provocative persona who complains about money troubles and mocks the social and moral conventions of his time.\n\nHis most famous sonnet begins with the line “S'i' fosse foco, arderei 'l mondo” (“If I were fire, I'd burn the world”) and perfectly represents his taste for exaggeration and provocation. His poetry, however, should not be read as a simple autobiographical diary: many scholars stress the literary and playful side of these attitudes.\n\nCecco is an original voice of medieval Sienese culture, able to portray society through sarcasm, popular language and parody.",
+        "fr": "Cecco Angiolieri est l'un des poètes comico-réalistes les plus connus de la littérature italienne médiévale. Sa production se distingue par un ton ironique, provocateur et souvent irrévérencieux, en net contraste avec la poésie amoureuse idéalisée du Dolce Stil Novo.\n\nIl naquit à Sienne dans une famille aisée : son père, Angioliero degli Angiolieri, était un homme riche et influent, tandis que sa mère appartenait à la famille Salimbeni. Les sources documentaires donnent l'image d'un homme souvent mêlé à des querelles et en difficulté avec les autorités de la ville.\n\nEntre 1281 et 1291, plusieurs épisodes de sa vie sont attestés, dont des participations à des campagnes militaires, des amendes et des procédures judiciaires. En 1289, il prit part à la bataille de Campaldino avec le contingent siennois. Il est possible qu'il y ait rencontré Dante Alighieri, mais il n'existe pas de preuves suffisantes pour l'affirmer avec certitude.\n\nSa renommée tient surtout au Canzoniere, un recueil de sonnets où il aborde des thèmes quotidiens dans un style vif et irrévérencieux. Reviennent l'amour pour Becchina, le vin, le jeu, l'argent et les conflits familiaux. Le poète construit souvent un personnage provocateur, qui se plaint de ses difficultés financières et se moque des conventions sociales et morales de son temps.\n\nLe sonnet le plus célèbre commence par le vers « S'i' fosse foco, arderei 'l mondo » (« Si j'étais feu, je brûlerais le monde ») et représente parfaitement son goût de l'exagération et de la provocation. Sa poésie ne doit toutefois pas être lue comme un simple journal autobiographique : de nombreux spécialistes soulignent la part littéraire et ludique de ces attitudes.\n\nCecco est une voix originale de la culture siennoise médiévale, capable de raconter la société par le sarcasme, la langue populaire et la parodie.",
+        "de": "Cecco Angiolieri ist einer der bekanntesten komisch-realistischen Dichter der mittelalterlichen italienischen Literatur. Sein Werk zeichnet sich durch einen ironischen, provokanten und oft respektlosen Ton aus, im scharfen Gegensatz zur idealisierten Liebesdichtung des Dolce Stil Novo.\n\nEr wurde in Siena in eine wohlhabende Familie geboren: Sein Vater Angioliero degli Angiolieri war ein reicher und einflussreicher Mann, seine Mutter gehörte der Familie Salimbeni an. Die Urkunden zeichnen das Bild eines Mannes, der oft in Streitigkeiten und Schwierigkeiten mit den städtischen Behörden verwickelt war.\n\nZwischen 1281 und 1291 sind mehrere Episoden seines Lebens belegt, darunter Teilnahmen an Feldzügen, Geldstrafen und Gerichtsverfahren. 1289 nahm er mit dem sienesischen Kontingent an der Schlacht von Campaldino teil. Möglicherweise lernte er dabei Dante Alighieri kennen, doch es gibt keine ausreichenden Belege, um das sicher zu behaupten.\n\nSein Ruhm beruht vor allem auf dem Canzoniere, einer Sammlung von Sonetten, in denen er alltägliche Themen in lebhaftem, respektlosem Stil behandelt. Immer wieder kehren die Liebe zu Becchina, Wein, Glücksspiel, Geld und Familienstreitigkeiten wieder. Der Dichter baut oft eine provokante Figur auf, die über Geldnöte klagt und die gesellschaftlichen und moralischen Konventionen seiner Zeit verspottet.\n\nDas berühmteste Sonett beginnt mit dem Vers „S'i' fosse foco, arderei 'l mondo“ („Wär ich Feuer, würd ich die Welt verbrennen“) und verkörpert perfekt seine Vorliebe für Übertreibung und Provokation. Seine Dichtung darf jedoch nicht als schlichtes autobiografisches Tagebuch gelesen werden: Viele Forscher betonen die literarische und spielerische Seite dieser Haltungen.\n\nCecco ist eine eigenständige Stimme der mittelalterlichen sienesischen Kultur, die die Gesellschaft durch Sarkasmus, Volkssprache und Parodie zu schildern vermag.",
+        "es": "Cecco Angiolieri es uno de los poetas cómico-realistas más conocidos de la literatura italiana medieval. Su producción se distingue por el tono irónico, provocador y a menudo irreverente, en neto contraste con la poesía amorosa idealizada del Dolce Stil Novo.\n\nNació en Siena en una familia acomodada: su padre, Angioliero degli Angiolieri, era un hombre rico e influyente, mientras que su madre pertenecía a la familia Salimbeni. Las fuentes documentales ofrecen la imagen de un hombre a menudo envuelto en disputas y problemas con las autoridades de la ciudad.\n\nEntre 1281 y 1291 están atestiguados varios episodios de su vida, entre ellos participaciones en campañas militares, multas y procesos judiciales. En 1289 tomó parte en la batalla de Campaldino con el contingente sienés. Es posible que en esa ocasión conociera a Dante Alighieri, pero no existen pruebas suficientes para afirmarlo con certeza.\n\nSu fama está ligada sobre todo al Canzoniere, una colección de sonetos en los que aborda temas cotidianos con un estilo vivaz e irreverente. Se repiten el amor por Becchina, el vino, el juego, el dinero y los conflictos familiares. El poeta construye a menudo un personaje provocador, que se queja de las dificultades económicas y se burla de las convenciones sociales y morales de su tiempo.\n\nEl soneto más famoso comienza con el verso «S'i' fosse foco, arderei 'l mondo» («Si yo fuera fuego, quemaría el mundo») y representa a la perfección su gusto por la exageración y la provocación. Su poesía, sin embargo, no debe leerse como un simple diario autobiográfico: muchos estudiosos subrayan el componente literario y lúdico de estas actitudes.\n\nCecco representa una voz original de la cultura sienesa medieval, capaz de contar la sociedad a través del sarcasmo, el lenguaje popular y la parodia."
+      },
+      "curiosita": {
+        "it": [
+          "Il suo sonetto più celebre, S'i' fosse foco, immagina in modo provocatorio la distruzione del mondo e delle sue istituzioni.",
+          "Becchina, la donna amata nei suoi componimenti, è una figura ricorrente del suo universo poetico.",
+          "La sua poesia si oppone spesso ai modelli idealizzati dello Stilnovo, proponendo un amore più terreno e quotidiano.",
+          "La sua immagine di uomo ribelle e sregolato deriva anche dai documenti giudiziari, ma non tutti gli atteggiamenti descritti nei sonetti devono essere considerati autobiografici."
+        ],
+        "en": [
+          "His most famous sonnet, S'i' fosse foco, provocatively imagines the destruction of the world and its institutions.",
+          "Becchina, the woman loved in his poems, is a recurring figure in his poetic universe.",
+          "His poetry often opposes the idealised models of the Stil Novo, offering a more earthly, everyday love.",
+          "His image as a rebellious, dissolute man also comes from court records, but not all the attitudes described in the sonnets should be taken as autobiographical."
+        ],
+        "fr": [
+          "Son sonnet le plus célèbre, S'i' fosse foco, imagine de façon provocatrice la destruction du monde et de ses institutions.",
+          "Becchina, la femme aimée dans ses poèmes, est une figure récurrente de son univers poétique.",
+          "Sa poésie s'oppose souvent aux modèles idéalisés du Stil Novo, proposant un amour plus terrestre et quotidien.",
+          "Son image d'homme rebelle et dissolu vient aussi des documents judiciaires, mais toutes les attitudes décrites dans les sonnets ne doivent pas être considérées comme autobiographiques."
+        ],
+        "de": [
+          "Sein berühmtestes Sonett, S'i' fosse foco, malt provokant die Zerstörung der Welt und ihrer Institutionen aus.",
+          "Becchina, die in seinen Gedichten geliebte Frau, ist eine wiederkehrende Gestalt seiner poetischen Welt.",
+          "Seine Dichtung steht oft im Gegensatz zu den idealisierten Vorbildern des Stil Novo und bietet eine irdischere, alltäglichere Liebe.",
+          "Sein Bild als aufsässiger, ausschweifender Mann stammt auch aus Gerichtsakten, doch nicht alle in den Sonetten beschriebenen Haltungen sind als autobiografisch zu verstehen."
+        ],
+        "es": [
+          "Su soneto más célebre, S'i' fosse foco, imagina de forma provocadora la destrucción del mundo y de sus instituciones.",
+          "Becchina, la mujer amada en sus composiciones, es una figura recurrente de su universo poético.",
+          "Su poesía se opone a menudo a los modelos idealizados del Stil Novo, proponiendo un amor más terrenal y cotidiano.",
+          "Su imagen de hombre rebelde y desordenado procede también de los documentos judiciales, pero no todas las actitudes descritas en los sonetos deben considerarse autobiográficas."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo",
+        "palazzo-pubblico-museo-civico"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Rappresenta il contesto della vita comunale e della società cittadina del suo tempo.",
+            "en": "It represents the setting of communal life and of the city society of his time.",
+            "fr": "Elle représente le contexte de la vie communale et de la société citadine de son temps.",
+            "de": "Er steht für den Rahmen des kommunalen Lebens und der Stadtgesellschaft seiner Zeit.",
+            "es": "Representa el contexto de la vida comunal y de la sociedad ciudadana de su tiempo."
+          }
+        },
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "È collegabile alla vita istituzionale e alle norme civiche con le quali Cecco ebbe più volte a che fare, come testimoniano le sanzioni e i procedimenti che lo riguardarono.",
+            "en": "It can be linked to the institutional life and civic rules Cecco repeatedly had to deal with, as the sanctions and proceedings against him show.",
+            "fr": "On peut le rattacher à la vie institutionnelle et aux règles civiques auxquelles Cecco eut maintes fois affaire, comme en témoignent les sanctions et procédures le concernant.",
+            "de": "Er lässt sich mit dem institutionellen Leben und den bürgerlichen Regeln verbinden, mit denen Cecco mehrfach zu tun hatte, wie die Strafen und Verfahren gegen ihn zeigen.",
+            "es": "Puede vincularse a la vida institucional y a las normas cívicas con las que Cecco tuvo que ver varias veces, como atestiguan las sanciones y procesos que le afectaron."
           }
         }
       },
