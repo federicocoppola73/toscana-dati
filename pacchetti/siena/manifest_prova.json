@@ -1,5 +1,5 @@
 {
- "versione": "abe414c06f13",
+ "versione": "e8e564b406dc",
  "tipo": "prova",
  "file": [
   {
@@ -3425,8 +3425,8 @@
   {
    "path": "dati/storia.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/storia.json",
-   "sha256": "1157a1f365ac9b5caad213110f4f47224110fc74763c1d9a004b32a9b55dc837",
-   "byte": 19
+   "sha256": "42358b813685cbaec7b0a5b535452a4a2c17754fb484e7631142ad5715aa2c5b",
+   "byte": 78249
   },
   {
    "path": "dati/tessere.json",
