@@ -1,5 +1,5 @@
 {
- "versione": "7360da4f14df",
+ "versione": "90961fdbb04a",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -126,6 +126,18 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_3.webp",
    "sha256": "fc560a4d70becd863a43ddca068e18faf26a2be0deb41a866f005d2cbfa73110",
    "byte": 263468
+  },
+  {
+   "path": "assets/luoghi/palazzo-pubblico-museo-civico_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_4.webp",
+   "sha256": "51059319986886e20cbd825209b2f33ce0b44312403e137984a9b1f3b92e02f0",
+   "byte": 104782
+  },
+  {
+   "path": "assets/luoghi/palazzo-pubblico-museo-civico_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_5.webp",
+   "sha256": "7d220a810e95f15940f851ee1b3881b1cfa557d065ad56fe2c6fd9139101b52f",
+   "byte": 117002
   },
   {
    "path": "assets/luoghi/piazza-del-campo.webp",
@@ -3694,7 +3706,7 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/immagini.json",
-   "sha256": "0bbdf15ba7e0edad03888ec648919f8cd294d121141ecad1328e6f686d9913b5",
+   "sha256": "95c963ca94a66c1385b21b980c273d6a60a36f88b6bc1c6afa4e47087096db3a",
    "byte": 297
   },
   {
@@ -3706,8 +3718,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/luoghi.json",
-   "sha256": "f8f6c69ada70bd781216c825b4ef037a7aab53baa27d84fb30990ad1a97bc8de",
-   "byte": 106491
+   "sha256": "2ee4bc27f731704d5e8e9bcf66075033ec62e9fd29bb4db74cf45e8aa751364d",
+   "byte": 106872
   },
   {
    "path": "dati/mappa.json",
@@ -3771,12 +3783,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "3e69c4ddc165",
-   "da": "a67eedcb3972",
-   "data": "2026-11-27",
-   "byte": 78249
-  },
   {
    "versione": "2e53c9e18ead",
    "da": "3e69c4ddc165",
@@ -3923,6 +3929,17 @@
    ],
    "foto_nuove": 3,
    "byte": 619196
+  },
+  {
+   "versione": "90961fdbb04a",
+   "da": "7360da4f14df",
+   "data": "2026-11-27",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 2,
+   "byte": 328953
   }
  ]
 }

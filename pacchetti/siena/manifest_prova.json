@@ -1,5 +1,5 @@
 {
- "versione": "122440df83ca",
+ "versione": "5ce2fbc926fc",
  "tipo": "prova",
  "file": [
   {
@@ -109,6 +109,18 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_3.webp",
    "sha256": "fc560a4d70becd863a43ddca068e18faf26a2be0deb41a866f005d2cbfa73110",
    "byte": 263468
+  },
+  {
+   "path": "assets/luoghi/palazzo-pubblico-museo-civico_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_4.webp",
+   "sha256": "51059319986886e20cbd825209b2f33ce0b44312403e137984a9b1f3b92e02f0",
+   "byte": 104782
+  },
+  {
+   "path": "assets/luoghi/palazzo-pubblico-museo-civico_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/palazzo-pubblico-museo-civico_5.webp",
+   "sha256": "7d220a810e95f15940f851ee1b3881b1cfa557d065ad56fe2c6fd9139101b52f",
+   "byte": 117002
   },
   {
    "path": "assets/luoghi/piazza-del-campo.webp",
@@ -3497,7 +3509,7 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/immagini.json",
-   "sha256": "0bbdf15ba7e0edad03888ec648919f8cd294d121141ecad1328e6f686d9913b5",
+   "sha256": "95c963ca94a66c1385b21b980c273d6a60a36f88b6bc1c6afa4e47087096db3a",
    "byte": 297
   },
   {
@@ -3509,8 +3521,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/luoghi.json",
-   "sha256": "d9caaeda0c3b1ab5a411af8baca4bd74b0c22b4dd2357e548073b2066063afd8",
-   "byte": 100701
+   "sha256": "6caa62a3acf733bc68b96d634de7a4789cccbace098f207a5909ac94cf3f7279",
+   "byte": 101036
   },
   {
    "path": "dati/mappa.json",
