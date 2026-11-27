@@ -49,13 +49,27 @@
         "es": "Gótico, Palio y colinas"
       },
       "stato": "in_preparazione",
-      "anteprima": [],
+      "anteprima": [
+        "cattedrale-di-santa-maria-assunta",
+        "libreria-piccolomini",
+        "battistero-di-san-giovanni",
+        "piazza-del-campo",
+        "palazzo-pubblico-museo-civico",
+        "torre-del-mangia",
+        "santa-maria-della-scala",
+        "basilica-di-san-domenico",
+        "basilica-di-san-francesco",
+        "santuario-di-santa-caterina"
+      ],
       "pacchetto": null,
       "sku": null,
       "coordinate": {
         "latitudine": 43.3188,
         "longitudine": 11.3308
-      }
+      },
+      "dimensione_mb": 0.1,
+      "dimensione_prova_mb": 0.1,
+      "pacchetto_prova": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/manifest_prova.json"
     }
   ]
 }

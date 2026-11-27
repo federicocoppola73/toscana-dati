@@ -1,4 +1,768 @@
 {
  "versione": 1,
- "luoghi": []
+ "luoghi": [
+  {
+   "id": "cattedrale-di-santa-maria-assunta",
+   "nome": "Cattedrale di Santa Maria Assunta",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.3177,
+   "longitudine": 11.329,
+   "descrizione": {
+    "it": "La Cattedrale di Santa Maria Assunta è il capolavoro del gotico senese, costruita in gran parte nel Duecento con marmi policromi a fasce. All'interno spiccano il pavimento a commesso marmoreo, il pulpito di Nicola Pisano e opere di artisti come Pinturicchio, Michelangelo e Bernini. Il complesso comprende anche la Libreria Piccolomini, la cripta, il Museo dell'Opera e il Battistero.",
+    "en": "Siena Cathedral, dedicated to Santa Maria Assunta, is the masterpiece of Sienese Gothic, built largely in the thirteenth century in banded polychrome marble. Inside, the inlaid marble floor, Nicola Pisano's pulpit and works by artists such as Pinturicchio, Michelangelo and Bernini stand out. The complex also includes the Piccolomini Library, the crypt, the Cathedral Museum and the Baptistery.",
+    "fr": "La cathédrale Santa Maria Assunta est le chef-d'œuvre du gothique siennois, construite en grande partie au XIIIe siècle en marbres polychromes à bandes. À l'intérieur se distinguent le pavement en marqueterie de marbre, la chaire de Nicola Pisano et des œuvres de Pinturicchio, Michel-Ange ou Bernin. Le complexe comprend aussi la bibliothèque Piccolomini, la crypte, le musée de l'Œuvre et le baptistère.",
+    "de": "Der Dom Santa Maria Assunta ist das Meisterwerk der sienesischen Gotik, größtenteils im 13. Jahrhundert aus gebändertem, mehrfarbigem Marmor erbaut. Im Inneren fallen der Marmor-Intarsienboden, die Kanzel von Nicola Pisano und Werke von Künstlern wie Pinturicchio, Michelangelo und Bernini auf. Zum Komplex gehören auch die Libreria Piccolomini, die Krypta, das Dommuseum und das Baptisterium.",
+    "es": "La catedral de Santa Maria Assunta es la obra maestra del gótico sienés, construida en gran parte en el siglo XIII con mármoles policromados a franjas. En el interior destacan el pavimento de marquetería de mármol, el púlpito de Nicola Pisano y obras de artistas como Pinturicchio, Miguel Ángel y Bernini. El complejo incluye además la Libreria Piccolomini, la cripta, el Museo de la Obra y el Baptisterio."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Il Pavimento si scopre solo a tratti",
+      "en": "The Floor is uncovered only at times",
+      "fr": "Le Pavement n'est découvert que par périodes",
+      "de": "Der Fußboden wird nur zeitweise aufgedeckt",
+      "es": "El Pavimento se descubre solo en ciertos periodos"
+     },
+     "testo": {
+      "it": "Il celebre Pavimento a commesso marmoreo del Duomo viene mostrato per intero soltanto durante la cosiddetta «scopertura», un periodo dell'anno annunciato dall'Opera della Metropolitana (nel 2026 dal 27 giugno al 31 luglio e dal 18 agosto al 31 ottobre). Nei periodi di scopertura il biglietto costa di più.",
+      "en": "The Cathedral's famous inlaid marble Floor is shown in full only during the so-called “scopertura” (uncovering), a period announced by the Opera della Metropolitana (in 2026 from 27 June to 31 July and from 18 August to 31 October). Tickets cost more during these periods.",
+      "fr": "Le célèbre Pavement en marqueterie de marbre de la cathédrale n'est montré en entier que pendant la « scopertura » (découverte), une période annoncée par l'Opera della Metropolitana (en 2026 du 27 juin au 31 juillet et du 18 août au 31 octobre). Le billet coûte plus cher pendant ces périodes.",
+      "de": "Der berühmte Marmor-Intarsienboden des Doms wird nur während der sogenannten „scopertura“ (Aufdeckung) vollständig gezeigt, einem von der Opera della Metropolitana angekündigten Zeitraum (2026 vom 27. Juni bis 31. Juli und vom 18. August bis 31. Oktober). In diesen Zeiten kostet das Ticket mehr.",
+      "es": "El célebre Pavimento de marquetería de mármol de la catedral solo se muestra entero durante la llamada «scopertura» (descubrimiento), un periodo anunciado por la Opera della Metropolitana (en 2026 del 27 de junio al 31 de julio y del 18 de agosto al 31 de octubre). En esos periodos la entrada cuesta más."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "10:30–17:30",
+     "periodo": "11-16/12-24"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–17:30",
+     "periodo": "11-16/12-24"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "10:00–19:00",
+     "periodo": "12-26/01-06"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–17:30",
+     "periodo": "12-26/01-06"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "10:30–17:30",
+     "periodo": "01-07/03-21"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–17:30",
+     "periodo": "01-07/03-21"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "10:00–19:00",
+     "periodo": "03-22/10-31"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–18:00",
+     "periodo": "03-22/10-31"
+    }
+   ],
+   "biglietto": {
+    "intero": 14,
+    "ridotto": 3
+   },
+   "nota": {
+    "it": "Un solo biglietto, l'OPA SI PASS (14 €; 16 € nei periodi di scopertura del Pavimento), vale tre giorni consecutivi e dà accesso a tutto il complesso del Duomo, audioguida gratuita sullo smartphone inclusa. Il ridotto (3 €) è per i bambini da 7 a 11 anni. Gratuito: bambini fino a 6 anni, residenti e nati a Siena, persone con disabilità con accompagnatore, giornalisti accreditati, religiosi/e, studenti delle università di Siena. Ultimo ingresso mezz'ora prima della chiusura. Il 1° dicembre (patrono) il Duomo chiude alle 15:00. Dal 4 all'8 dicembre 2026: 10:00–19:00 (festivi 13:30–17:30). Nei giorni festivi infrasettimanali valgono gli orari della domenica. Il 25 dicembre non è indicato: verifica sul sito. Le date esatte dei cambi stagionali variano ogni anno.",
+    "en": "A single ticket, the OPA SI PASS (€14; €16 during the periods when the Floor is uncovered), is valid for three consecutive days and covers the whole Cathedral complex, with a free audioguide on your smartphone. The reduced rate (€3) is for children aged 7 to 11. Free: children up to 6, residents and people born in Siena, visitors with disabilities and their companion, accredited journalists, clergy, students of the Siena universities. Last entry half an hour before closing. On 1 December (patron saint's day) the Cathedral closes at 3:00 pm. From 4 to 8 December 2026: 10:00–19:00 (holidays 13:30–17:30). On weekday public holidays Sunday hours apply. 25 December is not listed: check the website. The exact dates of seasonal changes vary every year.",
+    "fr": "Un seul billet, l'OPA SI PASS (14 € ; 16 € pendant les périodes de découverte du Pavement), est valable trois jours consécutifs et donne accès à tout le complexe de la cathédrale, avec audioguide gratuit sur smartphone. Le tarif réduit (3 €) concerne les enfants de 7 à 11 ans. Gratuit : enfants jusqu'à 6 ans, résidents et personnes nées à Sienne, personnes handicapées avec accompagnateur, journalistes accrédités, religieux, étudiants des universités de Sienne. Dernière entrée une demi-heure avant la fermeture. Le 1er décembre (fête du saint patron) la cathédrale ferme à 15h00. Du 4 au 8 décembre 2026 : 10h00–19h00 (jours fériés 13h30–17h30). Les jours fériés en semaine, les horaires du dimanche s'appliquent. Le 25 décembre n'est pas indiqué : vérifie sur le site. Les dates exactes des changements de saison varient chaque année.",
+    "de": "Ein einziges Ticket, der OPA SI PASS (14 €; 16 € in den Zeiten, in denen der Fußboden aufgedeckt ist), gilt drei aufeinanderfolgende Tage und berechtigt zum Zutritt zum gesamten Dom-Komplex, inklusive kostenlosem Audioguide auf dem Smartphone. Der ermäßigte Preis (3 €) gilt für Kinder von 7 bis 11 Jahren. Frei: Kinder bis 6 Jahre, Einwohner und in Siena Geborene, Menschen mit Behinderung mit Begleitperson, akkreditierte Journalisten, Ordensleute, Studierende der Universitäten Siena. Letzter Einlass eine halbe Stunde vor Schließung. Am 1. Dezember (Stadtpatron) schließt der Dom um 15:00 Uhr. Vom 4. bis 8. Dezember 2026: 10:00–19:00 (Feiertage 13:30–17:30). An Feiertagen unter der Woche gelten die Sonntagszeiten. Der 25. Dezember ist nicht angegeben: bitte auf der Website prüfen. Die genauen Daten der Saisonwechsel ändern sich jedes Jahr.",
+    "es": "Una sola entrada, el OPA SI PASS (14 €; 16 € en los periodos en que se descubre el Pavimento), vale tres días consecutivos y da acceso a todo el complejo de la catedral, con audioguía gratuita en el smartphone. La reducida (3 €) es para niños de 7 a 11 años. Gratis: niños hasta 6 años, residentes y nacidos en Siena, personas con discapacidad con acompañante, periodistas acreditados, religiosos, estudiantes de las universidades de Siena. Última entrada media hora antes del cierre. El 1 de diciembre (patrón de la ciudad) la catedral cierra a las 15:00. Del 4 al 8 de diciembre de 2026: 10:00–19:00 (festivos 13:30–17:30). En festivos entre semana valen los horarios del domingo. El 25 de diciembre no figura: consulta la web. Las fechas exactas de los cambios de temporada varían cada año."
+   },
+   "sito": "https://operaduomo.siena.it/visita/",
+   "accessibilita": {
+    "fonte": "https://operaduomo.siena.it/",
+    "verificato": "2026-11-27",
+    "voci": {
+     "motoria": {
+      "it": "Il Duomo è accessibile tramite una rampa dedicata sul lato sinistro dell'edificio. Il Museo, la Cripta e il Battistero al momento non dispongono di strumenti che permettano l'accesso alle persone con disabilità motorie.",
+      "en": "The Cathedral is accessible via a dedicated ramp on the left side of the building. The Museum, the Crypt and the Baptistery currently have no means of access for visitors with mobility disabilities.",
+      "fr": "La cathédrale est accessible par une rampe dédiée sur le côté gauche du bâtiment. Le musée, la crypte et le baptistère ne disposent actuellement d'aucun moyen d'accès pour les personnes à mobilité réduite.",
+      "de": "Der Dom ist über eine eigene Rampe an der linken Gebäudeseite zugänglich. Museum, Krypta und Baptisterium verfügen derzeit über keine Hilfen für den Zugang von Menschen mit Bewegungseinschränkung.",
+      "es": "La catedral es accesible mediante una rampa específica en el lado izquierdo del edificio. El Museo, la Cripta y el Baptisterio no disponen actualmente de medios que permitan el acceso a personas con discapacidad motriz."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Siena Cathedral"
+   },
+   "nomi": {
+    "en": "Siena Cathedral",
+    "fr": "Cathédrale de Sienne",
+    "de": "Dom von Siena",
+    "es": "Catedral de Siena"
+   }
+  },
+  {
+   "id": "libreria-piccolomini",
+   "nome": "Libreria Piccolomini",
+   "categoria": "musei",
+   "sestiere": "Centro",
+   "latitudine": 43.3177,
+   "longitudine": 11.328808,
+   "descrizione": {
+    "it": "La Libreria Piccolomini si trova lungo la navata sinistra della Cattedrale, prima del transetto. Fu voluta nel 1492 dall'arcivescovo Francesco Piccolomini Todeschini per custodire la ricca raccolta di libri dello zio, papa Pio II. Tra il 1502 e il 1507 circa fu interamente affrescata da Pinturicchio e dai suoi aiuti.",
+    "en": "The Piccolomini Library lies along the left aisle of the Cathedral, before the transept. It was commissioned in 1492 by Archbishop Francesco Piccolomini Todeschini to house the rich book collection of his uncle, Pope Pius II. Between 1502 and about 1507 it was completely frescoed by Pinturicchio and his assistants.",
+    "fr": "La bibliothèque Piccolomini se trouve le long de la nef gauche de la cathédrale, avant le transept. Elle fut voulue en 1492 par l'archevêque Francesco Piccolomini Todeschini pour abriter la riche collection de livres de son oncle, le pape Pie II. Entre 1502 et 1507 environ, elle fut entièrement couverte de fresques par le Pinturicchio et ses aides.",
+    "de": "Die Libreria Piccolomini liegt am linken Seitenschiff des Doms, vor dem Querschiff. Sie wurde 1492 von Erzbischof Francesco Piccolomini Todeschini in Auftrag gegeben, um die reiche Büchersammlung seines Onkels, Papst Pius II., aufzubewahren. Zwischen 1502 und etwa 1507 wurde sie von Pinturicchio und seinen Gehilfen vollständig ausgemalt.",
+    "es": "La Libreria Piccolomini se encuentra a lo largo de la nave izquierda de la catedral, antes del transepto. La mandó construir en 1492 el arzobispo Francesco Piccolomini Todeschini para custodiar la rica colección de libros de su tío, el papa Pío II. Entre 1502 y 1507 aproximadamente fue completamente frescada por Pinturicchio y sus ayudantes."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Un giovane Raffaello tra gli aiuti",
+      "en": "A young Raphael among the assistants",
+      "fr": "Un jeune Raphaël parmi les aides",
+      "de": "Ein junger Raffael unter den Gehilfen",
+      "es": "Un joven Rafael entre los ayudantes"
+     },
+     "testo": {
+      "it": "Tra gli aiuti che lavorarono con Pinturicchio agli affreschi della Libreria c'erano il bolognese Amico Aspertini e il giovane Raffaello Sanzio.",
+      "en": "Among the assistants who worked with Pinturicchio on the Library's frescoes were Amico Aspertini from Bologna and the young Raphael.",
+      "fr": "Parmi les aides qui travaillèrent avec le Pinturicchio aux fresques de la bibliothèque figuraient le Bolonais Amico Aspertini et le jeune Raphaël.",
+      "de": "Zu den Gehilfen, die mit Pinturicchio an den Fresken der Bibliothek arbeiteten, gehörten der Bologneser Amico Aspertini und der junge Raffael.",
+      "es": "Entre los ayudantes que trabajaron con Pinturicchio en los frescos de la biblioteca estaban el boloñés Amico Aspertini y el joven Rafael."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun-sab",
+     "ore": "10:30–17:30",
+     "periodo": "11-16/12-24"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–17:30",
+     "periodo": "11-16/12-24"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "10:00–19:00",
+     "periodo": "12-26/01-06"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–17:30",
+     "periodo": "12-26/01-06"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "10:30–17:30",
+     "periodo": "01-07/03-21"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–17:30",
+     "periodo": "01-07/03-21"
+    },
+    {
+     "giorni": "lun-sab",
+     "ore": "10:00–19:00",
+     "periodo": "03-22/10-31"
+    },
+    {
+     "giorni": "dom",
+     "ore": "13:30–18:00",
+     "periodo": "03-22/10-31"
+    }
+   ],
+   "biglietto": {
+    "intero": 14,
+    "ridotto": 3
+   },
+   "nota": {
+    "it": "Un solo biglietto, l'OPA SI PASS (14 €; 16 € nei periodi di scopertura del Pavimento), vale tre giorni consecutivi e dà accesso a tutto il complesso del Duomo, audioguida gratuita sullo smartphone inclusa. Il ridotto (3 €) è per i bambini da 7 a 11 anni. Gratuito: bambini fino a 6 anni, residenti e nati a Siena, persone con disabilità con accompagnatore, giornalisti accreditati, religiosi/e, studenti delle università di Siena. Ultimo ingresso mezz'ora prima della chiusura. Il 1° dicembre (patrono) il Duomo chiude alle 15:00. Dal 4 all'8 dicembre 2026: 10:00–19:00 (festivi 13:30–17:30). Nei giorni festivi infrasettimanali valgono gli orari della domenica. Il 25 dicembre non è indicato: verifica sul sito. Le date esatte dei cambi stagionali variano ogni anno.",
+    "en": "A single ticket, the OPA SI PASS (€14; €16 during the periods when the Floor is uncovered), is valid for three consecutive days and covers the whole Cathedral complex, with a free audioguide on your smartphone. The reduced rate (€3) is for children aged 7 to 11. Free: children up to 6, residents and people born in Siena, visitors with disabilities and their companion, accredited journalists, clergy, students of the Siena universities. Last entry half an hour before closing. On 1 December (patron saint's day) the Cathedral closes at 3:00 pm. From 4 to 8 December 2026: 10:00–19:00 (holidays 13:30–17:30). On weekday public holidays Sunday hours apply. 25 December is not listed: check the website. The exact dates of seasonal changes vary every year.",
+    "fr": "Un seul billet, l'OPA SI PASS (14 € ; 16 € pendant les périodes de découverte du Pavement), est valable trois jours consécutifs et donne accès à tout le complexe de la cathédrale, avec audioguide gratuit sur smartphone. Le tarif réduit (3 €) concerne les enfants de 7 à 11 ans. Gratuit : enfants jusqu'à 6 ans, résidents et personnes nées à Sienne, personnes handicapées avec accompagnateur, journalistes accrédités, religieux, étudiants des universités de Sienne. Dernière entrée une demi-heure avant la fermeture. Le 1er décembre (fête du saint patron) la cathédrale ferme à 15h00. Du 4 au 8 décembre 2026 : 10h00–19h00 (jours fériés 13h30–17h30). Les jours fériés en semaine, les horaires du dimanche s'appliquent. Le 25 décembre n'est pas indiqué : vérifie sur le site. Les dates exactes des changements de saison varient chaque année.",
+    "de": "Ein einziges Ticket, der OPA SI PASS (14 €; 16 € in den Zeiten, in denen der Fußboden aufgedeckt ist), gilt drei aufeinanderfolgende Tage und berechtigt zum Zutritt zum gesamten Dom-Komplex, inklusive kostenlosem Audioguide auf dem Smartphone. Der ermäßigte Preis (3 €) gilt für Kinder von 7 bis 11 Jahren. Frei: Kinder bis 6 Jahre, Einwohner und in Siena Geborene, Menschen mit Behinderung mit Begleitperson, akkreditierte Journalisten, Ordensleute, Studierende der Universitäten Siena. Letzter Einlass eine halbe Stunde vor Schließung. Am 1. Dezember (Stadtpatron) schließt der Dom um 15:00 Uhr. Vom 4. bis 8. Dezember 2026: 10:00–19:00 (Feiertage 13:30–17:30). An Feiertagen unter der Woche gelten die Sonntagszeiten. Der 25. Dezember ist nicht angegeben: bitte auf der Website prüfen. Die genauen Daten der Saisonwechsel ändern sich jedes Jahr.",
+    "es": "Una sola entrada, el OPA SI PASS (14 €; 16 € en los periodos en que se descubre el Pavimento), vale tres días consecutivos y da acceso a todo el complejo de la catedral, con audioguía gratuita en el smartphone. La reducida (3 €) es para niños de 7 a 11 años. Gratis: niños hasta 6 años, residentes y nacidos en Siena, personas con discapacidad con acompañante, periodistas acreditados, religiosos, estudiantes de las universidades de Siena. Última entrada media hora antes del cierre. El 1 de diciembre (patrón de la ciudad) la catedral cierra a las 15:00. Del 4 al 8 de diciembre de 2026: 10:00–19:00 (festivos 13:30–17:30). En festivos entre semana valen los horarios del domingo. El 25 de diciembre no figura: consulta la web. Las fechas exactas de los cambios de temporada varían cada año."
+   },
+   "sito": "https://operaduomo.siena.it/visita/",
+   "wikipedia": {
+    "it": "Libreria Piccolomini"
+   },
+   "nomi": {
+    "en": "Piccolomini Library",
+    "fr": "Bibliothèque Piccolomini",
+    "de": "Libreria Piccolomini",
+    "es": "Libreria Piccolomini"
+   }
+  },
+  {
+   "id": "battistero-di-san-giovanni",
+   "nome": "Battistero di San Giovanni",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.318071,
+   "longitudine": 11.329457,
+   "descrizione": {
+    "it": "Il Battistero di San Giovanni sorge in piazza San Giovanni, sotto le ultime campate del coro del Duomo, e si raggiunge dalla scalinata della piazza. Custodisce il fonte battesimale, opera di più artisti del Quattrocento tra cui Jacopo della Quercia, Donatello e Lorenzo Ghiberti.",
+    "en": "The Baptistery of San Giovanni stands in Piazza San Giovanni, beneath the last bays of the Cathedral's choir, and is reached by the staircase of the square. It holds the baptismal font, a fifteenth-century work by several artists including Jacopo della Quercia, Donatello and Lorenzo Ghiberti.",
+    "fr": "Le baptistère Saint-Jean se trouve place San Giovanni, sous les dernières travées du chœur de la cathédrale, et s'atteint par l'escalier de la place. Il abrite les fonts baptismaux, œuvre du XVe siècle de plusieurs artistes dont Jacopo della Quercia, Donatello et Lorenzo Ghiberti.",
+    "de": "Das Baptisterium San Giovanni liegt an der Piazza San Giovanni, unter den letzten Jochen des Domchors, und ist über die Treppe des Platzes erreichbar. Es birgt das Taufbecken, ein Werk mehrerer Künstler des 15. Jahrhunderts, darunter Jacopo della Quercia, Donatello und Lorenzo Ghiberti.",
+    "es": "El Baptisterio de San Giovanni se alza en la plaza San Giovanni, bajo los últimos tramos del coro de la catedral, y se llega por la escalinata de la plaza. Guarda la pila bautismal, obra del siglo XV de varios artistas, entre ellos Jacopo della Quercia, Donatello y Lorenzo Ghiberti."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Sotto il coro del Duomo",
+      "en": "Beneath the Cathedral's choir",
+      "fr": "Sous le chœur de la cathédrale",
+      "de": "Unter dem Domchor",
+      "es": "Bajo el coro de la catedral"
+     },
+     "testo": {
+      "it": "Il Battistero non è un edificio isolato come a Firenze: si trova sotto le ultime campate del coro della Cattedrale, e per entrare si scende dalla scalinata di piazza San Giovanni.",
+      "en": "The Baptistery is not a separate building as in Florence: it lies beneath the last bays of the Cathedral's choir, and you reach it by going down the staircase of Piazza San Giovanni.",
+      "fr": "Le baptistère n'est pas un édifice isolé comme à Florence : il se trouve sous les dernières travées du chœur de la cathédrale, et l'on y accède en descendant l'escalier de la place San Giovanni.",
+      "de": "Das Baptisterium ist nicht, wie in Florenz, ein frei stehendes Gebäude: Es liegt unter den letzten Jochen des Domchors, und man erreicht es über die Treppe der Piazza San Giovanni.",
+      "es": "El Baptisterio no es un edificio aislado como en Florencia: se encuentra bajo los últimos tramos del coro de la catedral y se accede bajando la escalinata de la plaza San Giovanni."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "10:30–17:30",
+     "periodo": "11-16/12-24"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "10:00–19:00",
+     "periodo": "12-26/01-06"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "10:30–17:30",
+     "periodo": "01-07/03-21"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "10:00–19:00",
+     "periodo": "03-22/10-31"
+    }
+   ],
+   "biglietto": {
+    "intero": 14,
+    "ridotto": 3
+   },
+   "nota": {
+    "it": "Un solo biglietto, l'OPA SI PASS (14 €; 16 € nei periodi di scopertura del Pavimento), vale tre giorni consecutivi e dà accesso a tutto il complesso del Duomo, audioguida gratuita sullo smartphone inclusa. Il ridotto (3 €) è per i bambini da 7 a 11 anni. Gratuito: bambini fino a 6 anni, residenti e nati a Siena, persone con disabilità con accompagnatore, giornalisti accreditati, religiosi/e, studenti delle università di Siena. Ultimo ingresso mezz'ora prima della chiusura. Il 1° dicembre (patrono) il Duomo chiude alle 15:00. Dal 4 all'8 dicembre 2026: 10:00–19:00 (festivi 13:30–17:30). Nei giorni festivi infrasettimanali valgono gli orari della domenica. Il 25 dicembre non è indicato: verifica sul sito. Le date esatte dei cambi stagionali variano ogni anno.",
+    "en": "A single ticket, the OPA SI PASS (€14; €16 during the periods when the Floor is uncovered), is valid for three consecutive days and covers the whole Cathedral complex, with a free audioguide on your smartphone. The reduced rate (€3) is for children aged 7 to 11. Free: children up to 6, residents and people born in Siena, visitors with disabilities and their companion, accredited journalists, clergy, students of the Siena universities. Last entry half an hour before closing. On 1 December (patron saint's day) the Cathedral closes at 3:00 pm. From 4 to 8 December 2026: 10:00–19:00 (holidays 13:30–17:30). On weekday public holidays Sunday hours apply. 25 December is not listed: check the website. The exact dates of seasonal changes vary every year.",
+    "fr": "Un seul billet, l'OPA SI PASS (14 € ; 16 € pendant les périodes de découverte du Pavement), est valable trois jours consécutifs et donne accès à tout le complexe de la cathédrale, avec audioguide gratuit sur smartphone. Le tarif réduit (3 €) concerne les enfants de 7 à 11 ans. Gratuit : enfants jusqu'à 6 ans, résidents et personnes nées à Sienne, personnes handicapées avec accompagnateur, journalistes accrédités, religieux, étudiants des universités de Sienne. Dernière entrée une demi-heure avant la fermeture. Le 1er décembre (fête du saint patron) la cathédrale ferme à 15h00. Du 4 au 8 décembre 2026 : 10h00–19h00 (jours fériés 13h30–17h30). Les jours fériés en semaine, les horaires du dimanche s'appliquent. Le 25 décembre n'est pas indiqué : vérifie sur le site. Les dates exactes des changements de saison varient chaque année.",
+    "de": "Ein einziges Ticket, der OPA SI PASS (14 €; 16 € in den Zeiten, in denen der Fußboden aufgedeckt ist), gilt drei aufeinanderfolgende Tage und berechtigt zum Zutritt zum gesamten Dom-Komplex, inklusive kostenlosem Audioguide auf dem Smartphone. Der ermäßigte Preis (3 €) gilt für Kinder von 7 bis 11 Jahren. Frei: Kinder bis 6 Jahre, Einwohner und in Siena Geborene, Menschen mit Behinderung mit Begleitperson, akkreditierte Journalisten, Ordensleute, Studierende der Universitäten Siena. Letzter Einlass eine halbe Stunde vor Schließung. Am 1. Dezember (Stadtpatron) schließt der Dom um 15:00 Uhr. Vom 4. bis 8. Dezember 2026: 10:00–19:00 (Feiertage 13:30–17:30). An Feiertagen unter der Woche gelten die Sonntagszeiten. Der 25. Dezember ist nicht angegeben: bitte auf der Website prüfen. Die genauen Daten der Saisonwechsel ändern sich jedes Jahr.",
+    "es": "Una sola entrada, el OPA SI PASS (14 €; 16 € en los periodos en que se descubre el Pavimento), vale tres días consecutivos y da acceso a todo el complejo de la catedral, con audioguía gratuita en el smartphone. La reducida (3 €) es para niños de 7 a 11 años. Gratis: niños hasta 6 años, residentes y nacidos en Siena, personas con discapacidad con acompañante, periodistas acreditados, religiosos, estudiantes de las universidades de Siena. Última entrada media hora antes del cierre. El 1 de diciembre (patrón de la ciudad) la catedral cierra a las 15:00. Del 4 al 8 de diciembre de 2026: 10:00–19:00 (festivos 13:30–17:30). En festivos entre semana valen los horarios del domingo. El 25 de diciembre no figura: consulta la web. Las fechas exactas de los cambios de temporada varían cada año."
+   },
+   "sito": "https://operaduomo.siena.it/visita/",
+   "accessibilita": {
+    "fonte": "https://operaduomo.siena.it/",
+    "verificato": "2026-11-27",
+    "voci": {
+     "non_accessibile": {
+      "it": "Il Battistero al momento non dispone di strumenti che permettano l'accesso alle persone con disabilità motorie.",
+      "en": "The Baptistery currently has no means of access for visitors with mobility disabilities.",
+      "fr": "Le baptistère ne dispose actuellement d'aucun moyen d'accès pour les personnes à mobilité réduite.",
+      "de": "Das Baptisterium verfügt derzeit über keine Hilfen für den Zugang von Menschen mit Bewegungseinschränkung.",
+      "es": "El Baptisterio no dispone actualmente de medios que permitan el acceso a personas con discapacidad motriz."
+     }
+    }
+   },
+   "wikipedia": {
+    "it": "Battistero di San Giovanni (Siena)"
+   },
+   "nomi": {
+    "en": "Baptistery of San Giovanni",
+    "fr": "Baptistère Saint-Jean",
+    "de": "Baptisterium San Giovanni",
+    "es": "Baptisterio de San Giovanni"
+   }
+  },
+  {
+   "id": "piazza-del-campo",
+   "nome": "Piazza del Campo",
+   "categoria": "piazze",
+   "sestiere": "Centro",
+   "latitudine": 43.318333,
+   "longitudine": 11.331389,
+   "descrizione": {
+    "it": "Piazza del Campo è il cuore pubblico del centro storico di Siena, considerata una delle più belle piazze medievali d'Europa. Ha la forma di una conchiglia ed è dominata dal Palazzo Pubblico e dalla Torre del Mangia; sul lato nord-ovest sorge la Fonte Gaia. Il centro storico di Siena è Patrimonio dell'Umanità UNESCO dal 1995.",
+    "en": "Piazza del Campo is the public heart of Siena's historic centre, regarded as one of the finest medieval squares in Europe. Shaped like a scallop shell, it is dominated by the Palazzo Pubblico and the Torre del Mangia, with the Fonte Gaia on its north-west edge. Siena's historic centre has been a UNESCO World Heritage Site since 1995.",
+    "fr": "La Piazza del Campo est le cœur public du centre historique de Sienne, considérée comme l'une des plus belles places médiévales d'Europe. En forme de coquille, elle est dominée par le Palazzo Pubblico et la Torre del Mangia ; la Fonte Gaia se trouve sur son côté nord-ouest. Le centre historique de Sienne est inscrit au patrimoine mondial de l'UNESCO depuis 1995.",
+    "de": "Die Piazza del Campo ist das öffentliche Herz der Altstadt von Siena und gilt als einer der schönsten mittelalterlichen Plätze Europas. Sie hat die Form einer Muschel und wird vom Palazzo Pubblico und dem Torre del Mangia überragt; am Nordwestrand steht die Fonte Gaia. Die Altstadt von Siena ist seit 1995 UNESCO-Welterbe.",
+    "es": "La Piazza del Campo es el corazón público del centro histórico de Siena, considerada una de las plazas medievales más bellas de Europa. Tiene forma de concha y está dominada por el Palazzo Pubblico y la Torre del Mangia; en el lado noroeste se alza la Fonte Gaia. El centro histórico de Siena es Patrimonio de la Humanidad de la UNESCO desde 1995."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Qui si corre il Palio",
+      "en": "The Palio is run here",
+      "fr": "Ici se court le Palio",
+      "de": "Hier wird der Palio gelaufen",
+      "es": "Aquí se corre el Palio"
+     },
+     "testo": {
+      "it": "Due volte l'anno, il 2 luglio e il 16 agosto, la piazza ospita il Palio di Siena, la corsa di cavalli che si svolge lungo il suo bordo. Il traguardo della corsa ciclistica Strade Bianche è nella stessa piazza.",
+      "en": "Twice a year, on 2 July and 16 August, the square hosts the Palio di Siena, the horse race run around its edge. The finish of the Strade Bianche cycling race is in the same square.",
+      "fr": "Deux fois par an, le 2 juillet et le 16 août, la place accueille le Palio de Sienne, la course de chevaux qui se dispute sur son pourtour. L'arrivée de la course cycliste Strade Bianche se trouve sur la même place.",
+      "de": "Zweimal im Jahr, am 2. Juli und am 16. August, findet hier der Palio di Siena statt, das Pferderennen entlang des Platzrands. Das Ziel des Radrennens Strade Bianche liegt auf demselben Platz.",
+      "es": "Dos veces al año, el 2 de julio y el 16 de agosto, la plaza acoge el Palio di Siena, la carrera de caballos que se corre a lo largo de su borde. La meta de la carrera ciclista Strade Bianche está en la misma plaza."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "sempre"
+    }
+   ],
+   "biglietto": {
+    "gratuito": true
+   },
+   "nota": {
+    "it": "La piazza è sempre accessibile; durante il Palio e altre manifestazioni l'accesso può essere limitato.",
+    "en": "The square is always accessible; during the Palio and other events access may be restricted.",
+    "fr": "La place est toujours accessible ; pendant le Palio et d'autres manifestations l'accès peut être limité.",
+    "de": "Der Platz ist immer zugänglich; während des Palio und anderer Veranstaltungen kann der Zugang eingeschränkt sein.",
+    "es": "La plaza es siempre accesible; durante el Palio y otros eventos el acceso puede estar restringido."
+   },
+   "wikipedia": {
+    "en": "Piazza del Campo",
+    "it": "Piazza del Campo"
+   },
+   "nomi": {
+    "en": "Piazza del Campo",
+    "fr": "Piazza del Campo",
+    "de": "Piazza del Campo",
+    "es": "Plaza del Campo"
+   }
+  },
+  {
+   "id": "palazzo-pubblico-museo-civico",
+   "nome": "Palazzo Pubblico e Museo Civico",
+   "categoria": "palazzi",
+   "sestiere": "Centro",
+   "latitudine": 43.318007,
+   "longitudine": 11.331942,
+   "descrizione": {
+    "it": "Il Palazzo Pubblico fu costruito tra il 1297 e il 1310 circa dal Governo dei Nove come sede della Repubblica di Siena ed è ancora oggi sede del Comune oltre che del Museo Civico. Conserva capolavori dell'età d'oro dell'arte senese, tra cui l'Allegoria ed effetti del Buono e del Cattivo Governo di Ambrogio Lorenzetti, e opere di Simone Martini, Duccio di Buoninsegna, Sodoma e Beccafumi.",
+    "en": "The Palazzo Pubblico was built between about 1297 and 1310 by the Government of the Nine as the seat of the Republic of Siena, and today still houses the town council as well as the Civic Museum. It holds masterpieces of Siena's golden age, including Ambrogio Lorenzetti's Allegory and Effects of Good and Bad Government, and works by Simone Martini, Duccio di Buoninsegna, Sodoma and Beccafumi.",
+    "fr": "Le Palazzo Pubblico fut construit entre 1297 et 1310 environ par le Gouvernement des Neuf comme siège de la République de Sienne et abrite aujourd'hui encore la mairie ainsi que le Musée civique. Il conserve des chefs-d'œuvre de l'âge d'or de l'art siennois, dont l'Allégorie et les effets du Bon et du Mauvais Gouvernement d'Ambrogio Lorenzetti, et des œuvres de Simone Martini, Duccio di Buoninsegna, le Sodoma et Beccafumi.",
+    "de": "Der Palazzo Pubblico wurde zwischen etwa 1297 und 1310 von der Regierung der Neun als Sitz der Republik Siena errichtet und beherbergt noch heute die Stadtverwaltung sowie das Museo Civico. Er bewahrt Meisterwerke des goldenen Zeitalters der sienesischen Kunst, darunter Ambrogio Lorenzettis Allegorie und Wirkungen der guten und der schlechten Regierung, sowie Werke von Simone Martini, Duccio di Buoninsegna, Sodoma und Beccafumi.",
+    "es": "El Palazzo Pubblico fue construido entre 1297 y 1310 aproximadamente por el Gobierno de los Nueve como sede de la República de Siena y hoy sigue siendo sede del ayuntamiento y del Museo Cívico. Conserva obras maestras de la edad de oro del arte sienés, entre ellas la Alegoría y efectos del Buen y del Mal Gobierno de Ambrogio Lorenzetti, y obras de Simone Martini, Duccio di Buoninsegna, Sodoma y Beccafumi."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Un affresco profano del Trecento",
+      "en": "A secular fresco from the 1300s",
+      "fr": "Une fresque profane du XIVe siècle",
+      "de": "Ein weltliches Fresko des 14. Jahrhunderts",
+      "es": "Un fresco profano del siglo XIV"
+     },
+     "testo": {
+      "it": "L'Allegoria ed effetti del Buono e del Cattivo Governo di Lorenzetti è considerata una delle rappresentazioni profane più significative del Trecento europeo.",
+      "en": "Lorenzetti's Allegory and Effects of Good and Bad Government is considered one of the most significant secular depictions of fourteenth-century Europe.",
+      "fr": "L'Allégorie et les effets du Bon et du Mauvais Gouvernement de Lorenzetti est considérée comme l'une des représentations profanes les plus importantes de l'Europe du XIVe siècle.",
+      "de": "Lorenzettis Allegorie und Wirkungen der guten und der schlechten Regierung gilt als eine der bedeutendsten weltlichen Darstellungen des europäischen 14. Jahrhunderts.",
+      "es": "La Alegoría y efectos del Buen y del Mal Gobierno de Lorenzetti está considerada una de las representaciones profanas más significativas de la Europa del siglo XIV."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "10:00–18:00",
+     "periodo": "11-01/02-28"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "10:00–19:00",
+     "periodo": "03-01/10-31"
+    }
+   ],
+   "biglietto": {
+    "intero": 10,
+    "ridotto": 9
+   },
+   "nota": {
+    "it": "Intero 10 € (11 € con prenotazione), ridotto 9 € (10 € con prenotazione) per ragazzi 11–19 anni, over 65, studenti universitari non senesi. Il biglietto comprende anche i Magazzini del Sale. Biglietti cumulativi: Museo Civico + Santa Maria della Scala 14 € (valido 2 giorni); Museo Civico + Torre del Mangia 15 €; con tutti e tre 20 €. Gratuito: residenti a Siena, minori di 11 anni, persone con disabilità e accompagnatore, giornalisti. Ultimo ingresso 45 minuti prima della chiusura (17:15 d'inverno, 18:15 d'estate). Chiuso a Natale.",
+    "en": "Full price €10 (€11 with booking), reduced €9 (€10 with booking) for ages 11–19, over 65s and non-Siena university students. The ticket also covers the Magazzini del Sale. Combined tickets: Civic Museum + Santa Maria della Scala €14 (valid 2 days); Civic Museum + Torre del Mangia €15; all three €20. Free: residents of Siena, under-11s, visitors with disabilities and their companion, journalists. Last entry 45 minutes before closing (5:15 pm in winter, 6:15 pm in summer). Closed at Christmas.",
+    "fr": "Plein tarif 10 € (11 € avec réservation), tarif réduit 9 € (10 € avec réservation) pour les 11–19 ans, plus de 65 ans et étudiants universitaires non siennois. Le billet comprend aussi les Magazzini del Sale. Billets combinés : Musée civique + Santa Maria della Scala 14 € (valable 2 jours) ; Musée civique + Torre del Mangia 15 € ; les trois 20 €. Gratuit : résidents de Sienne, moins de 11 ans, personnes handicapées avec accompagnateur, journalistes. Dernière entrée 45 minutes avant la fermeture (17h15 en hiver, 18h15 en été). Fermé à Noël.",
+    "de": "Normalpreis 10 € (11 € mit Reservierung), ermäßigt 9 € (10 € mit Reservierung) für 11- bis 19-Jährige, über 65-Jährige und nicht in Siena eingeschriebene Studierende. Das Ticket schließt auch die Magazzini del Sale ein. Kombitickets: Museo Civico + Santa Maria della Scala 14 € (2 Tage gültig); Museo Civico + Torre del Mangia 15 €; alle drei 20 €. Frei: Einwohner von Siena, Kinder unter 11 Jahren, Menschen mit Behinderung mit Begleitperson, Journalisten. Letzter Einlass 45 Minuten vor Schließung (17:15 Uhr im Winter, 18:15 Uhr im Sommer). An Weihnachten geschlossen.",
+    "es": "Entrada general 10 € (11 € con reserva), reducida 9 € (10 € con reserva) para jóvenes de 11 a 19 años, mayores de 65 y estudiantes universitarios no sieneses. La entrada incluye también los Magazzini del Sale. Entradas combinadas: Museo Cívico + Santa Maria della Scala 14 € (válida 2 días); Museo Cívico + Torre del Mangia 15 €; las tres 20 €. Gratis: residentes en Siena, menores de 11 años, personas con discapacidad con acompañante, periodistas. Última entrada 45 minutos antes del cierre (17:15 en invierno, 18:15 en verano). Cerrado en Navidad."
+   },
+   "sito": "https://museocivico.comune.siena.it/organizza-la-tua-visita",
+   "accessibilita": {
+    "fonte": "https://museocivico.comune.siena.it/organizza-la-tua-visita",
+    "verificato": "2026-11-27",
+    "voci": {
+     "ascensore": {
+      "it": "Il percorso del Museo Civico si sviluppa su un unico piano senza dislivelli. Per chi ha difficoltà motorie c'è un servizio ascensore, da richiedere al personale al controllo biglietti; la porta dell'ascensore è larga 70 cm.",
+      "en": "The Civic Museum route is on a single floor with no steps. A lift service is available for visitors with mobility difficulties on request to staff at the ticket check; the lift door is 70 cm wide.",
+      "fr": "Le parcours du Musée civique se déroule sur un seul niveau, sans dénivelé. Un ascenseur est disponible pour les personnes à mobilité réduite, sur demande au personnel au contrôle des billets ; la porte de l'ascenseur mesure 70 cm de large.",
+      "de": "Der Rundgang durch das Museo Civico liegt auf einer einzigen Ebene ohne Stufen. Für Menschen mit Gehschwierigkeiten gibt es einen Aufzug, der beim Personal an der Ticketkontrolle angefordert wird; die Aufzugstür ist 70 cm breit.",
+      "es": "El recorrido del Museo Cívico se desarrolla en una sola planta, sin desniveles. Para personas con dificultades de movilidad hay un servicio de ascensor, que se solicita al personal en el control de entradas; la puerta del ascensor mide 70 cm de ancho."
+     },
+     "motoria": {
+      "it": "Il museo mette a disposizione gratuitamente 3 sedie a rotelle, ritirabili al controllo biglietti ma non prenotabili. C'è un servizio igienico attrezzato.",
+      "en": "The museum provides 3 wheelchairs free of charge, available at the ticket check but not bookable. There is an accessible toilet.",
+      "fr": "Le musée met gratuitement à disposition 3 fauteuils roulants, à retirer au contrôle des billets mais non réservables. Il y a des toilettes adaptées.",
+      "de": "Das Museum stellt kostenlos 3 Rollstühle zur Verfügung, die an der Ticketkontrolle abgeholt, aber nicht reserviert werden können. Es gibt eine behindertengerechte Toilette.",
+      "es": "El museo pone a disposición gratuitamente 3 sillas de ruedas, que se retiran en el control de entradas pero no se pueden reservar. Hay un aseo adaptado."
+     }
+    }
+   },
+   "wikipedia": {
+    "it": "Palazzo Pubblico (Siena)",
+    "en": "Palazzo Pubblico"
+   },
+   "nomi": {
+    "en": "Palazzo Pubblico and Civic Museum",
+    "fr": "Palazzo Pubblico et Musée civique",
+    "de": "Palazzo Pubblico und Museo Civico",
+    "es": "Palazzo Pubblico y Museo Cívico"
+   }
+  },
+  {
+   "id": "torre-del-mangia",
+   "nome": "Torre del Mangia",
+   "categoria": "altri",
+   "sestiere": "Centro",
+   "latitudine": 43.31822,
+   "longitudine": 11.332226,
+   "descrizione": {
+    "it": "La Torre del Mangia è la torre civica del Palazzo Pubblico, alta circa 88 metri e costruita tra il 1338 e il 1348. Raggiunge la stessa altezza del campanile del Duomo, a simboleggiare l'equilibrio tra potere celeste e potere terreno. Dalla cima si gode una vista su Piazza del Campo e sulla città.",
+    "en": "The Torre del Mangia is the civic tower of the Palazzo Pubblico, about 88 metres tall and built between 1338 and 1348. It reaches the same height as the Cathedral's bell tower, symbolising the balance between heavenly and earthly power. From the top you have a view over Piazza del Campo and the city.",
+    "fr": "La Torre del Mangia est la tour civique du Palazzo Pubblico, haute d'environ 88 mètres et construite entre 1338 et 1348. Elle atteint la même hauteur que le campanile de la cathédrale, symbole de l'équilibre entre pouvoir céleste et pouvoir terrestre. Du sommet, la vue s'étend sur la Piazza del Campo et sur la ville.",
+    "de": "Der Torre del Mangia ist der Stadtturm des Palazzo Pubblico, etwa 88 Meter hoch und zwischen 1338 und 1348 erbaut. Er erreicht dieselbe Höhe wie der Glockenturm des Doms und symbolisiert das Gleichgewicht zwischen himmlischer und weltlicher Macht. Von oben hat man einen Blick auf die Piazza del Campo und die Stadt.",
+    "es": "La Torre del Mangia es la torre cívica del Palazzo Pubblico, de unos 88 metros de altura, construida entre 1338 y 1348. Alcanza la misma altura que el campanario de la catedral, para simbolizar el equilibrio entre el poder celestial y el terrenal. Desde la cima se ve la Piazza del Campo y la ciudad."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Alta quanto il campanile del Duomo",
+      "en": "As tall as the Cathedral's bell tower",
+      "fr": "Aussi haute que le campanile de la cathédrale",
+      "de": "So hoch wie der Glockenturm des Doms",
+      "es": "Tan alta como el campanario de la catedral"
+     },
+     "testo": {
+      "it": "Secondo lo storico dell'arte Ranuccio Bianchi Bandinelli, la torre raggiunge la stessa altezza del campanile della Cattedrale perché nessuno dei due poteri, religioso e civile, superasse l'altro.",
+      "en": "According to the art historian Ranuccio Bianchi Bandinelli, the tower matches the height of the Cathedral's bell tower so that neither power, religious nor civil, would outdo the other.",
+      "fr": "Selon l'historien de l'art Ranuccio Bianchi Bandinelli, la tour atteint la même hauteur que le campanile de la cathédrale afin qu'aucun des deux pouvoirs, religieux et civil, ne l'emporte sur l'autre.",
+      "de": "Laut dem Kunsthistoriker Ranuccio Bianchi Bandinelli erreicht der Turm dieselbe Höhe wie der Glockenturm des Doms, damit keine der beiden Mächte, die geistliche und die weltliche, die andere überragt.",
+      "es": "Según el historiador del arte Ranuccio Bianchi Bandinelli, la torre alcanza la misma altura que el campanario de la catedral para que ninguno de los dos poderes, religioso y civil, superase al otro."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "tutti",
+     "ore": "10:00–16:00",
+     "periodo": "11-01/02-28"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "10:00–19:00",
+     "periodo": "03-01/10-31"
+    }
+   ],
+   "biglietto": {
+    "intero": 10
+   },
+   "nota": {
+    "it": "Biglietto unico 10 €, non prenotabile: si acquista solo alla biglietteria di Palazzo Pubblico o al Dear Guests il giorno della visita. Biglietto Museo Civico + Torre 15 €; con anche Santa Maria della Scala 20 €. Gratuito: residenti a Siena e minori di 11 anni. Le salite sono ogni 45 minuti, per 25 persone al massimo; d'inverno alle 10:00, 10:45, 11:30, 12:15, 13:00, 13:45, 14:30, 15:15. Ultimo ingresso 45 minuti prima della chiusura. I minori di 14 anni salgono solo con un adulto. Chiusa a Natale.",
+    "en": "Single ticket €10, not bookable: sold only at the Palazzo Pubblico ticket office or at Dear Guests on the day of the visit. Civic Museum + Tower ticket €15; with Santa Maria della Scala too €20. Free: residents of Siena and under-11s. Climbs leave every 45 minutes for at most 25 people; in winter at 10:00, 10:45, 11:30, 12:15, 13:00, 13:45, 14:30, 15:15. Last entry 45 minutes before closing. Under-14s may climb only with an adult. Closed at Christmas.",
+    "fr": "Billet unique 10 €, non réservable : vendu uniquement à la billetterie du Palazzo Pubblico ou au Dear Guests le jour de la visite. Billet Musée civique + Tour 15 € ; avec aussi Santa Maria della Scala 20 €. Gratuit : résidents de Sienne et moins de 11 ans. Les montées partent toutes les 45 minutes pour 25 personnes au maximum ; en hiver à 10h00, 10h45, 11h30, 12h15, 13h00, 13h45, 14h30, 15h15. Dernière entrée 45 minutes avant la fermeture. Les moins de 14 ans montent uniquement avec un adulte. Fermée à Noël.",
+    "de": "Einzelticket 10 €, nicht reservierbar: nur an der Kasse des Palazzo Pubblico oder bei Dear Guests am Besuchstag erhältlich. Ticket Museo Civico + Turm 15 €; mit Santa Maria della Scala 20 €. Frei: Einwohner von Siena und Kinder unter 11 Jahren. Aufstiege alle 45 Minuten für höchstens 25 Personen; im Winter um 10:00, 10:45, 11:30, 12:15, 13:00, 13:45, 14:30, 15:15 Uhr. Letzter Einlass 45 Minuten vor Schließung. Unter 14-Jährige dürfen nur mit einem Erwachsenen hinauf. An Weihnachten geschlossen.",
+    "es": "Entrada única 10 €, no reservable: se compra solo en la taquilla del Palazzo Pubblico o en Dear Guests el mismo día de la visita. Entrada Museo Cívico + Torre 15 €; con Santa Maria della Scala también 20 €. Gratis: residentes en Siena y menores de 11 años. Las subidas salen cada 45 minutos, con un máximo de 25 personas; en invierno a las 10:00, 10:45, 11:30, 12:15, 13:00, 13:45, 14:30, 15:15. Última entrada 45 minutos antes del cierre. Los menores de 14 años solo suben con un adulto. Cerrada en Navidad."
+   },
+   "sito": "https://museocivico.comune.siena.it/organizza-la-tua-visita",
+   "accessibilita": {
+    "fonte": "https://museocivico.comune.siena.it/organizza-la-tua-visita",
+    "verificato": "2026-11-27",
+    "voci": {
+     "non_accessibile": {
+      "it": "Per arrivare in cima si salgono circa 400 gradini dal livello del Campo e non c'è ascensore: l'accesso non è consentito alle persone con disabilità motorie. La visita è fortemente sconsigliata a chi ha problemi di cuore o respiratori, claustrofobia, vertigini, diabete, a chi è in gravidanza e a chi ha difficoltà motorie. Nella torre non possono entrare animali, nemmeno i cani guida; le persone cieche o ipovedenti salgono con il gruppo e un accompagnatore.",
+      "en": "Reaching the top means climbing about 400 steps from the level of the Campo, and there is no lift: access is not allowed for visitors with mobility disabilities. The visit is strongly discouraged for people with heart or breathing conditions, claustrophobia, vertigo or diabetes, for pregnant women and for anyone with mobility difficulties. No animals are allowed in the tower, not even guide dogs; blind or partially sighted visitors climb with the group and a companion.",
+      "fr": "Pour atteindre le sommet il faut monter environ 400 marches depuis le niveau du Campo, et il n'y a pas d'ascenseur : l'accès n'est pas autorisé aux personnes à mobilité réduite. La visite est fortement déconseillée aux personnes souffrant de problèmes cardiaques ou respiratoires, de claustrophobie, de vertige, de diabète, aux femmes enceintes et à toute personne ayant des difficultés motrices. Aucun animal n'est admis dans la tour, pas même les chiens guides ; les personnes aveugles ou malvoyantes montent avec le groupe et un accompagnateur.",
+      "de": "Bis zur Spitze sind etwa 400 Stufen ab dem Niveau des Campo zu steigen, und es gibt keinen Aufzug: Menschen mit Bewegungseinschränkung ist der Zutritt nicht gestattet. Vom Besuch wird Menschen mit Herz- oder Atemproblemen, Klaustrophobie, Schwindel oder Diabetes, Schwangeren und allen mit Gehschwierigkeiten dringend abgeraten. Tiere sind im Turm nicht erlaubt, auch keine Blindenhunde; blinde oder sehbehinderte Personen steigen mit der Gruppe und einer Begleitperson hinauf.",
+      "es": "Para llegar a la cima hay que subir unos 400 escalones desde el nivel del Campo y no hay ascensor: no se permite el acceso a personas con discapacidad motriz. Se desaconseja encarecidamente la visita a quienes tengan problemas cardiacos o respiratorios, claustrofobia, vértigo o diabetes, a las embarazadas y a quienes tengan dificultades de movimiento. No se admiten animales en la torre, ni siquiera perros guía; las personas ciegas o con baja visión suben con el grupo y un acompañante."
+     }
+    }
+   },
+   "wikipedia": {
+    "it": "Torre del Mangia",
+    "en": "Torre del Mangia"
+   },
+   "nomi": {
+    "en": "Torre del Mangia",
+    "fr": "Torre del Mangia",
+    "de": "Torre del Mangia",
+    "es": "Torre del Mangia"
+   }
+  },
+  {
+   "id": "santa-maria-della-scala",
+   "nome": "Santa Maria della Scala",
+   "categoria": "musei",
+   "sestiere": "Centro",
+   "latitudine": 43.318372,
+   "longitudine": 11.328492,
+   "descrizione": {
+    "it": "Il Santa Maria della Scala, di fronte al Duomo, fu uno dei primi ospedali d'Europa e uno dei più antichi ancora esistenti al mondo: accoglieva bambini abbandonati, poveri, malati e pellegrini. Oggi è un grande complesso museale, sede tra l'altro del Museo Archeologico Nazionale e di opere come i pannelli originali della Fonte Gaia di Jacopo della Quercia.",
+    "en": "Santa Maria della Scala, opposite the Cathedral, was one of the first hospitals in Europe and one of the oldest still surviving in the world: it cared for abandoned children, the poor, the sick and pilgrims. Today it is a large museum complex, home among other things to the National Archaeological Museum and to works such as the original panels of Jacopo della Quercia's Fonte Gaia.",
+    "fr": "Santa Maria della Scala, face à la cathédrale, fut l'un des premiers hôpitaux d'Europe et l'un des plus anciens encore existants au monde : il accueillait enfants abandonnés, pauvres, malades et pèlerins. C'est aujourd'hui un vaste complexe muséal, abritant entre autres le Musée archéologique national et des œuvres comme les panneaux originaux de la Fonte Gaia de Jacopo della Quercia.",
+    "de": "Santa Maria della Scala, gegenüber dem Dom, war eines der ersten Hospitäler Europas und eines der ältesten noch bestehenden der Welt: Es nahm ausgesetzte Kinder, Arme, Kranke und Pilger auf. Heute ist es ein großer Museumskomplex, in dem unter anderem das Nationale Archäologische Museum und Werke wie die Originalreliefs der Fonte Gaia von Jacopo della Quercia untergebracht sind.",
+    "es": "Santa Maria della Scala, frente a la catedral, fue uno de los primeros hospitales de Europa y uno de los más antiguos que aún existen en el mundo: acogía a niños abandonados, pobres, enfermos y peregrinos. Hoy es un gran complejo museístico que alberga, entre otras cosas, el Museo Arqueológico Nacional y obras como los paneles originales de la Fonte Gaia de Jacopo della Quercia."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Un ospedale per i bambini abbandonati",
+      "en": "A hospital for abandoned children",
+      "fr": "Un hôpital pour les enfants abandonnés",
+      "de": "Ein Hospital für ausgesetzte Kinder",
+      "es": "Un hospital para niños abandonados"
+     },
+     "testo": {
+      "it": "L'ospedale viveva in parte di lasciti e donazioni dei cittadini senesi, soprattutto dei più ricchi, ed era guidato da un rettore che dirigeva i fratelli laici incaricati dell'assistenza.",
+      "en": "The hospital lived partly on bequests and donations from the citizens of Siena, particularly the wealthy, and was run by a rector who directed the lay brothers in charge of the care.",
+      "fr": "L'hôpital vivait en partie de legs et de dons des citoyens de Sienne, surtout des plus riches, et était dirigé par un recteur qui commandait les frères laïcs chargés des soins.",
+      "de": "Das Hospital lebte zum Teil von Vermächtnissen und Spenden der Sienesen, vor allem der Wohlhabenden, und wurde von einem Rektor geleitet, der die für die Pflege zuständigen Laienbrüder führte.",
+      "es": "El hospital vivía en parte de legados y donaciones de los ciudadanos de Siena, sobre todo de los más ricos, y lo dirigía un rector que mandaba a los hermanos laicos encargados de la asistencia."
+     }
+    }
+   ],
+   "orari": [
+    {
+     "giorni": "lun",
+     "ore": "10:00–17:00",
+     "periodo": "11-01/03-14"
+    },
+    {
+     "giorni": "mer-ven",
+     "ore": "10:00–17:00",
+     "periodo": "11-01/03-14"
+    },
+    {
+     "giorni": "sab-dom",
+     "ore": "10:00–19:00",
+     "periodo": "11-01/03-14"
+    },
+    {
+     "giorni": "tutti",
+     "ore": "10:00–19:00",
+     "periodo": "03-15/10-31"
+    }
+   ],
+   "biglietto": {
+    "intero": 9,
+    "ridotto": 7
+   },
+   "nota": {
+    "it": "Intero 9 € (8 € con prenotazione); ridotto 7 € (6,50 € con prenotazione) per 12–19 anni, over 65, studenti universitari non senesi, militari. Biglietti cumulativi: con il Museo Civico 14 €; con anche la Torre del Mangia 20 €. Gratuito: residenti a Siena, minori di 11 anni, persone con disabilità e accompagnatore, giornalisti. D'inverno (fino al 14 marzo) martedì chiuso, lunedì e mercoledì–venerdì 10:00–17:00, sabato e domenica 10:00–19:00; ultimo ingresso alle 16:15 (18:15 nei giorni con chiusura alle 19:00). Dal 23 dicembre al 6 gennaio il museo è in genere aperto tutti i giorni 10:00–19:00 e chiuso il 25 dicembre (il sito non indica l'anno: verifica). Da novembre 2026 il Museo Archeologico Nazionale e il percorso «Siena. Storia della città dalle origini al Medioevo» sono temporaneamente chiusi. In estate (dal 15 marzo) l'orario 10:00–19:00 tutti i giorni risulta dall'avviso del 2025: verifica sul sito. Nei giorni del Palio gli orari cambiano.",
+    "en": "Full price €9 (€8 with booking); reduced €7 (€6.50 with booking) for ages 12–19, over 65s, non-Siena university students, military personnel. Combined tickets: with the Civic Museum €14; with the Torre del Mangia as well €20. Free: residents of Siena, under-11s, visitors with disabilities and their companion, journalists. In winter (until 14 March) closed on Tuesday, Monday and Wednesday–Friday 10:00–17:00, Saturday and Sunday 10:00–19:00; last entry 4:15 pm (6:15 pm on days closing at 7:00 pm). From 23 December to 6 January the museum is usually open daily 10:00–19:00 and closed on 25 December (the site gives no year: check). Since November 2026 the National Archaeological Museum and the route “Siena. History of the city from its origins to the Middle Ages” are temporarily closed. In summer (from 15 March) the daily 10:00–19:00 schedule comes from the 2025 notice: check the website. Hours change on Palio days.",
+    "fr": "Plein tarif 9 € (8 € avec réservation) ; tarif réduit 7 € (6,50 € avec réservation) pour les 12–19 ans, plus de 65 ans, étudiants universitaires non siennois, militaires. Billets combinés : avec le Musée civique 14 € ; avec aussi la Torre del Mangia 20 €. Gratuit : résidents de Sienne, moins de 11 ans, personnes handicapées avec accompagnateur, journalistes. En hiver (jusqu'au 14 mars) fermé le mardi, lundi et mercredi–vendredi 10h00–17h00, samedi et dimanche 10h00–19h00 ; dernière entrée à 16h15 (18h15 les jours de fermeture à 19h00). Du 23 décembre au 6 janvier le musée est en général ouvert tous les jours 10h00–19h00 et fermé le 25 décembre (le site n'indique pas l'année : vérifie). Depuis novembre 2026 le Musée archéologique national et le parcours « Sienne. Histoire de la ville des origines au Moyen Âge » sont temporairement fermés. En été (à partir du 15 mars) l'horaire 10h00–19h00 tous les jours provient de l'avis de 2025 : vérifie sur le site. Les horaires changent les jours de Palio.",
+    "de": "Normalpreis 9 € (8 € mit Reservierung); ermäßigt 7 € (6,50 € mit Reservierung) für 12- bis 19-Jährige, über 65-Jährige, nicht in Siena eingeschriebene Studierende, Militärangehörige. Kombitickets: mit dem Museo Civico 14 €; zusätzlich mit dem Torre del Mangia 20 €. Frei: Einwohner von Siena, Kinder unter 11 Jahren, Menschen mit Behinderung mit Begleitperson, Journalisten. Im Winter (bis 14. März) dienstags geschlossen, montags und mittwochs–freitags 10:00–17:00, samstags und sonntags 10:00–19:00; letzter Einlass 16:15 Uhr (18:15 Uhr an Tagen mit Schließung um 19:00 Uhr). Vom 23. Dezember bis 6. Januar ist das Museum in der Regel täglich 10:00–19:00 geöffnet und am 25. Dezember geschlossen (die Website nennt kein Jahr: bitte prüfen). Seit November 2026 sind das Nationale Archäologische Museum und der Rundgang „Siena. Geschichte der Stadt von den Ursprüngen bis zum Mittelalter“ vorübergehend geschlossen. Im Sommer (ab 15. März) stammt die tägliche Öffnungszeit 10:00–19:00 aus der Mitteilung von 2025: bitte auf der Website prüfen. An Palio-Tagen ändern sich die Zeiten.",
+    "es": "Entrada general 9 € (8 € con reserva); reducida 7 € (6,50 € con reserva) para jóvenes de 12 a 19 años, mayores de 65, estudiantes universitarios no sieneses, militares. Entradas combinadas: con el Museo Cívico 14 €; con la Torre del Mangia también 20 €. Gratis: residentes en Siena, menores de 11 años, personas con discapacidad con acompañante, periodistas. En invierno (hasta el 14 de marzo) cerrado los martes, lunes y miércoles–viernes 10:00–17:00, sábado y domingo 10:00–19:00; última entrada a las 16:15 (18:15 los días con cierre a las 19:00). Del 23 de diciembre al 6 de enero el museo suele abrir todos los días de 10:00 a 19:00 y cierra el 25 de diciembre (la web no indica el año: comprueba). Desde noviembre de 2026 el Museo Arqueológico Nacional y el recorrido «Siena. Historia de la ciudad desde los orígenes hasta la Edad Media» están temporalmente cerrados. En verano (desde el 15 de marzo) el horario diario de 10:00 a 19:00 procede del aviso de 2025: comprueba la web. Los horarios cambian los días de Palio."
+   },
+   "sito": "https://www.santamariadellascala.com/en/plan-your-visit",
+   "accessibilita": {
+    "fonte": "https://www.santamariadellascala.com/en/plan-your-visit",
+    "verificato": "2026-11-27",
+    "voci": {
+     "ascensore": {
+      "it": "L'ascensore si trova al piano d'ingresso (livello IV), a sinistra della Corte del Pozzo Chigi, e permette di raggiungere i livelli superiori e inferiori del museo.",
+      "en": "The lift is on the entrance floor (Level IV), to the left of the Corte del Pozzo Chigi, and gives access to the upper and lower levels of the museum.",
+      "fr": "L'ascenseur se trouve à l'étage d'entrée (niveau IV), à gauche de la Corte del Pozzo Chigi, et permet d'accéder aux niveaux supérieurs et inférieurs du musée.",
+      "de": "Der Aufzug befindet sich auf der Eingangsebene (Ebene IV), links vom Corte del Pozzo Chigi, und führt zu den oberen und unteren Ebenen des Museums.",
+      "es": "El ascensor está en la planta de entrada (nivel IV), a la izquierda de la Corte del Pozzo Chigi, y permite llegar a los niveles superiores e inferiores del museo."
+     },
+     "motoria": {
+      "it": "L'intero percorso del museo è accessibile; l'uso dell'ascensore e di alcuni passaggi è consentito solo con l'accompagnamento del personale. Su richiesta il museo mette a disposizione sedie a rotelle e lungo il percorso ci sono sedute con braccioli. I servizi igienici, a ogni piano, sono attrezzati per i visitatori con disabilità.",
+      "en": "The entire museum route is accessible; use of the lift and some passages is allowed only when accompanied by staff. On request the museum provides wheelchairs, and along the route there are seats with armrests. Toilets on every floor are equipped for visitors with disabilities.",
+      "fr": "L'ensemble du parcours du musée est accessible ; l'utilisation de l'ascenseur et de certains passages n'est autorisée qu'accompagné par le personnel. Sur demande le musée met à disposition des fauteuils roulants et le long du parcours se trouvent des sièges avec accoudoirs. Les toilettes, à chaque étage, sont équipées pour les visiteurs handicapés.",
+      "de": "Der gesamte Museumsrundgang ist zugänglich; die Nutzung des Aufzugs und einiger Durchgänge ist nur in Begleitung des Personals erlaubt. Auf Anfrage stellt das Museum Rollstühle bereit, und entlang des Rundgangs gibt es Sitze mit Armlehnen. Die Toiletten auf jeder Etage sind für Besucher mit Behinderung ausgestattet.",
+      "es": "Todo el recorrido del museo es accesible; el uso del ascensor y de algunos pasos solo se permite con acompañamiento del personal. A petición el museo facilita sillas de ruedas y a lo largo del recorrido hay asientos con reposabrazos. Los aseos, en cada planta, están equipados para visitantes con discapacidad."
+     }
+    }
+   },
+   "wikipedia": {
+    "en": "Santa Maria della Scala, Siena",
+    "it": "Complesso museale di Santa Maria della Scala"
+   },
+   "nomi": {
+    "en": "Santa Maria della Scala",
+    "fr": "Santa Maria della Scala",
+    "de": "Santa Maria della Scala",
+    "es": "Santa Maria della Scala"
+   }
+  },
+  {
+   "id": "basilica-di-san-domenico",
+   "nome": "Basilica di San Domenico",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.319861,
+   "longitudine": 11.326694,
+   "descrizione": {
+    "it": "La Basilica di San Domenico è una grande chiesa gotica in mattoni, legata in modo speciale a santa Caterina da Siena: custodisce la reliquia della sua testa e affreschi del Sodoma che la ritraggono.",
+    "en": "The Basilica of San Domenico is a large Gothic brick church with a special bond to Saint Catherine of Siena: it houses the relic of her head and frescoes by Sodoma depicting her.",
+    "fr": "La basilique San Domenico est une grande église gothique en briques, liée de façon particulière à sainte Catherine de Sienne : elle conserve la relique de sa tête et des fresques du Sodoma qui la représentent.",
+    "de": "Die Basilika San Domenico ist eine große gotische Backsteinkirche, die eng mit der heiligen Katharina von Siena verbunden ist: Sie bewahrt die Reliquie ihres Hauptes und Fresken des Sodoma, die sie darstellen.",
+    "es": "La basílica de San Domenico es una gran iglesia gótica de ladrillo, ligada de forma especial a santa Catalina de Siena: custodia la reliquia de su cabeza y frescos de Sodoma que la representan."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "La testa di santa Caterina",
+      "en": "Saint Catherine's head",
+      "fr": "La tête de sainte Catherine",
+      "de": "Das Haupt der heiligen Katharina",
+      "es": "La cabeza de santa Catalina"
+     },
+     "testo": {
+      "it": "Nella basilica si conserva la testa di santa Caterina da Siena; il resto del corpo è a Roma, in Santa Maria sopra Minerva.",
+      "en": "The head of Saint Catherine of Siena is kept in the basilica; the rest of her body is in Rome, in Santa Maria sopra Minerva.",
+      "fr": "La tête de sainte Catherine de Sienne est conservée dans la basilique ; le reste de son corps se trouve à Rome, à Santa Maria sopra Minerva.",
+      "de": "In der Basilika wird das Haupt der heiligen Katharina von Siena aufbewahrt; der übrige Leib befindet sich in Rom, in Santa Maria sopra Minerva.",
+      "es": "En la basílica se conserva la cabeza de santa Catalina de Siena; el resto de su cuerpo está en Roma, en Santa Maria sopra Minerva."
+     }
+    }
+   ],
+   "nota": {
+    "it": "Orari e condizioni d'ingresso non verificati su una fonte ufficiale: controlla prima di andare.",
+    "en": "Opening hours and entry conditions have not been verified on an official source: check before you go.",
+    "fr": "Horaires et conditions d'entrée non vérifiés sur une source officielle : vérifie avant d'y aller.",
+    "de": "Öffnungszeiten und Eintrittsbedingungen wurden nicht anhand einer offiziellen Quelle überprüft: bitte vor dem Besuch kontrollieren.",
+    "es": "Horarios y condiciones de entrada no verificados en una fuente oficial: compruébalos antes de ir."
+   },
+   "wikipedia": {
+    "it": "Basilica di San Domenico (Siena)"
+   },
+   "nomi": {
+    "en": "Basilica of San Domenico",
+    "fr": "Basilique San Domenico",
+    "de": "Basilika San Domenico",
+    "es": "Basílica de San Domenico"
+   }
+  },
+  {
+   "id": "basilica-di-san-francesco",
+   "nome": "Basilica di San Francesco",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.32222,
+   "longitudine": 11.334477,
+   "descrizione": {
+    "it": "La Basilica di San Francesco, in piazza San Francesco, è tra le chiese più importanti di Siena. Eretta nel Duecento in stile romanico, fu ingrandita nei due secoli successivi fino all'immensa struttura gotica attuale. Conserva la pisside con le Sacre Particole ed è officiata dai Frati Minori Conventuali.",
+    "en": "The Basilica of San Francesco, in Piazza San Francesco, is among Siena's most important churches. Built in the thirteenth century in Romanesque style, it was enlarged over the following two centuries into the immense Gothic structure we see today. It keeps the pyx containing the Sacred Hosts and is run by the Conventual Franciscan friars.",
+    "fr": "La basilique San Francesco, sur la place San Francesco, est l'une des églises les plus importantes de Sienne. Édifiée au XIIIe siècle en style roman, elle fut agrandie pendant les deux siècles suivants jusqu'à l'immense structure gothique actuelle. Elle conserve le ciboire contenant les Saintes Hosties et est desservie par les frères mineurs conventuels.",
+    "de": "Die Basilika San Francesco an der Piazza San Francesco gehört zu den wichtigsten Kirchen Sienas. Im 13. Jahrhundert im romanischen Stil errichtet, wurde sie in den beiden folgenden Jahrhunderten zur heutigen gewaltigen gotischen Anlage erweitert. Sie bewahrt die Pyxis mit den Heiligen Partikeln und wird von den Minoriten (Franziskanerkonventualen) betreut.",
+    "es": "La basílica de San Francesco, en la plaza San Francesco, es una de las iglesias más importantes de Siena. Levantada en el siglo XIII en estilo románico, fue ampliada en los dos siglos siguientes hasta la inmensa estructura gótica actual. Conserva la píxide con las Sagradas Formas y está oficiada por los Frailes Menores Conventuales."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "Da romanica a gotica",
+      "en": "From Romanesque to Gothic",
+      "fr": "De romane à gothique",
+      "de": "Von der Romanik zur Gotik",
+      "es": "De románica a gótica"
+     },
+     "testo": {
+      "it": "La chiesa nacque nel Duecento come edificio romanico e fu ampliata nei due secoli seguenti, fino a diventare l'immensa costruzione gotica che si vede oggi.",
+      "en": "The church began in the thirteenth century as a Romanesque building and was enlarged over the next two centuries until it became the immense Gothic structure seen today.",
+      "fr": "L'église naquit au XIIIe siècle comme édifice roman et fut agrandie pendant les deux siècles suivants, jusqu'à devenir l'immense construction gothique que l'on voit aujourd'hui.",
+      "de": "Die Kirche entstand im 13. Jahrhundert als romanischer Bau und wurde in den folgenden zwei Jahrhunderten erweitert, bis sie zu der gewaltigen gotischen Anlage wurde, die man heute sieht.",
+      "es": "La iglesia nació en el siglo XIII como edificio románico y se amplió en los dos siglos siguientes hasta convertirse en la inmensa construcción gótica que se ve hoy."
+     }
+    }
+   ],
+   "nota": {
+    "it": "Orari e condizioni d'ingresso non verificati su una fonte ufficiale: controlla prima di andare.",
+    "en": "Opening hours and entry conditions have not been verified on an official source: check before you go.",
+    "fr": "Horaires et conditions d'entrée non vérifiés sur une source officielle : vérifie avant d'y aller.",
+    "de": "Öffnungszeiten und Eintrittsbedingungen wurden nicht anhand einer offiziellen Quelle überprüft: bitte vor dem Besuch kontrollieren.",
+    "es": "Horarios y condiciones de entrada no verificados en una fuente oficial: compruébalos antes de ir."
+   },
+   "wikipedia": {
+    "it": "Basilica di San Francesco (Siena)"
+   },
+   "nomi": {
+    "en": "Basilica of San Francesco",
+    "fr": "Basilique San Francesco",
+    "de": "Basilika San Francesco",
+    "es": "Basílica de San Francesco"
+   }
+  },
+  {
+   "id": "santuario-di-santa-caterina",
+   "nome": "Santuario Casa di Santa Caterina",
+   "categoria": "chiese",
+   "sestiere": "Centro",
+   "latitudine": 43.320268,
+   "longitudine": 11.329301,
+   "descrizione": {
+    "it": "Il Santuario di Santa Caterina si trova sulla Costa di Sant'Antonio e incorpora l'antica dimora della famiglia Benincasa, casa natale di santa Caterina. È formato da portici, loggiati, chiese e oratori.",
+    "en": "The Sanctuary of Saint Catherine stands on the Costa di Sant'Antonio and incorporates the former home of the Benincasa family, Saint Catherine's birthplace. It consists of porticoes, loggias, churches and oratories.",
+    "fr": "Le sanctuaire de sainte Catherine se dresse sur la Costa di Sant'Antonio et englobe l'ancienne demeure de la famille Benincasa, maison natale de sainte Catherine. Il se compose de portiques, de loggias, d'églises et d'oratoires.",
+    "de": "Das Heiligtum der heiligen Katharina liegt an der Costa di Sant'Antonio und umfasst das ehemalige Haus der Familie Benincasa, das Geburtshaus der heiligen Katharina. Es besteht aus Portiken, Loggien, Kirchen und Oratorien.",
+    "es": "El santuario de santa Catalina se encuentra en la Costa di Sant'Antonio e incorpora la antigua vivienda de la familia Benincasa, casa natal de santa Catalina. Está formado por pórticos, logias, iglesias y oratorios."
+   },
+   "lo_sapevi_che": [
+    {
+     "titolo": {
+      "it": "La casa dei Benincasa",
+      "en": "The Benincasa family home",
+      "fr": "La maison des Benincasa",
+      "de": "Das Haus der Familie Benincasa",
+      "es": "La casa de los Benincasa"
+     },
+     "testo": {
+      "it": "Il santuario non è una chiesa sola: intorno alla casa dove nacque la santa si sono aggiunti nel tempo portici, loggiati, chiese e oratori.",
+      "en": "The sanctuary is not a single church: around the house where the saint was born, porticoes, loggias, churches and oratories were added over time.",
+      "fr": "Le sanctuaire n'est pas une seule église : autour de la maison où naquit la sainte se sont ajoutés avec le temps portiques, loggias, églises et oratoires.",
+      "de": "Das Heiligtum ist keine einzelne Kirche: Um das Haus, in dem die Heilige geboren wurde, kamen im Lauf der Zeit Portiken, Loggien, Kirchen und Oratorien hinzu.",
+      "es": "El santuario no es una sola iglesia: alrededor de la casa donde nació la santa se fueron añadiendo con el tiempo pórticos, logias, iglesias y oratorios."
+     }
+    }
+   ],
+   "nota": {
+    "it": "Orari e condizioni d'ingresso non verificati su una fonte ufficiale: controlla prima di andare.",
+    "en": "Opening hours and entry conditions have not been verified on an official source: check before you go.",
+    "fr": "Horaires et conditions d'entrée non vérifiés sur une source officielle : vérifie avant d'y aller.",
+    "de": "Öffnungszeiten und Eintrittsbedingungen wurden nicht anhand einer offiziellen Quelle überprüft: bitte vor dem Besuch kontrollieren.",
+    "es": "Horarios y condiciones de entrada no verificados en una fuente oficial: compruébalos antes de ir."
+   },
+   "wikipedia": {
+    "it": "Santuario di Santa Caterina (Siena)"
+   },
+   "nomi": {
+    "en": "Sanctuary of Saint Catherine",
+    "fr": "Sanctuaire de sainte Catherine",
+    "de": "Heiligtum der heiligen Katharina",
+    "es": "Santuario de santa Catalina"
+   }
+  }
+ ]
 }

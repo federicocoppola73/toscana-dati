@@ -1,0 +1,120 @@
+{
+ "versione": "39da0267042b",
+ "tipo": "prova",
+ "file": [
+  {
+   "path": "assets/mappa/.gitkeep",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/mappa/.gitkeep",
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "byte": 0
+  },
+  {
+   "path": "dati/aguzza.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/aguzza.json",
+   "sha256": "299baa0df5501f51221f3fdf73ff5f224a67bd68b2f156f52d572fc5462afda1",
+   "byte": 129
+  },
+  {
+   "path": "dati/app.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/app.json",
+   "sha256": "a3e34bed850825a5d516319ddad30c1c60df36450ce9c63e10d5c1254272a8b6",
+   "byte": 58
+  },
+  {
+   "path": "dati/autobus.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/autobus.json",
+   "sha256": "6ab36b4e7940a5b6d9199750bd4038900457c1f82d4aa1847a77521aa1305481",
+   "byte": 129
+  },
+  {
+   "path": "dati/cibi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/cibi.json",
+   "sha256": "f476b7751cf157e8403ab6da29e6a31398e33fcdba8fbbf615964e2fd7674b5c",
+   "byte": 108
+  },
+  {
+   "path": "dati/citta.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/citta.json",
+   "sha256": "5cff770b8fb694261c84fb7ee7fada4f28514a7ec21164876b71bfae060d4713",
+   "byte": 290
+  },
+  {
+   "path": "dati/curiosita.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/curiosita.json",
+   "sha256": "b04c71d72a950a2530ee9a8b6ba6183bb6b4051a10d37013276122a10119fcfd",
+   "byte": 113
+  },
+  {
+   "path": "dati/eventi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/eventi.json",
+   "sha256": "51dc24e346c72609a33db8fcec5fb3d69bec2970f001de282ecdbf69eb89398e",
+   "byte": 72
+  },
+  {
+   "path": "dati/immagini.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/immagini.json",
+   "sha256": "6d3b3fb0f741623249ab28058056f567e6ddc83d31262ff035e9953e420654bd",
+   "byte": 127
+  },
+  {
+   "path": "dati/itinerari.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/itinerari.json",
+   "sha256": "cbd05404c6f7b2413e2da77e12074ce90321e6f08345599d7f642c1326050d8a",
+   "byte": 113
+  },
+  {
+   "path": "dati/luoghi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/luoghi.json",
+   "sha256": "8741a95b1e161c7dac562c2dad14620d3bb4307e232e7237e521b1244db91093",
+   "byte": 73963
+  },
+  {
+   "path": "dati/orari_autobus.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/orari_autobus.json",
+   "sha256": "770895b69e66504db966588ddca72b7b30cbd58418504a070dda7fb3fd7ef4b3",
+   "byte": 129
+  },
+  {
+   "path": "dati/orari_vaporetti.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/orari_vaporetti.json",
+   "sha256": "8a3bf5d07a966432c035985ae009522189ae8e77e36c23daa99e54e7dc45db12",
+   "byte": 125
+  },
+  {
+   "path": "dati/personaggi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/personaggi.json",
+   "sha256": "33f39925897febf41239c94e9ed468789e79dcbac27d939f1d0ca84b751ca306",
+   "byte": 114
+  },
+  {
+   "path": "dati/principali.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/principali.json",
+   "sha256": "be2543b529ff95e13470bb0f32feea54921e231f0d4feeab605a1ccb686b9789",
+   "byte": 123
+  },
+  {
+   "path": "dati/rete.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/rete.json",
+   "sha256": "da04b3a4c8af97f99bae62bcbc165460a469398d9108011015a95626b54ccde4",
+   "byte": 90
+  },
+  {
+   "path": "dati/servizi.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/servizi.json",
+   "sha256": "476ff9646a8517a3eaaf92c6b3e9d6707e8c44b8f28f689921f5ff153a28b065",
+   "byte": 55
+  },
+  {
+   "path": "dati/storia.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/storia.json",
+   "sha256": "1157a1f365ac9b5caad213110f4f47224110fc74763c1d9a004b32a9b55dc837",
+   "byte": 19
+  },
+  {
+   "path": "dati/vaporetti.json",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/vaporetti.json",
+   "sha256": "7ee1355d0edb5ccc30dfa5970b99d34041d448877b632e83d5df378b9b47d21c",
+   "byte": 101
+  }
+ ]
+}
