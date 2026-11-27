@@ -1545,6 +1545,1435 @@
         }
       },
       "collegati": []
+    },
+    {
+      "id": "caterina-da-siena",
+      "nome": "Caterina da Siena",
+      "nascita": 1347,
+      "morte": 1380,
+      "professione": {
+        "it": "Mistica, Dottore della Chiesa e patrona d'Italia",
+        "en": "Mystic, Doctor of the Church and patron saint of Italy",
+        "fr": "Mystique, docteur de l'Église et patronne de l'Italie",
+        "de": "Mystikerin, Kirchenlehrerin und Schutzpatronin Italiens",
+        "es": "Mística, Doctora de la Iglesia y patrona de Italia"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "25 marzo 1347 (data tradizionale)",
+        "en": "25 March 1347 (traditional date)",
+        "fr": "25 mars 1347 (date traditionnelle)",
+        "de": "25. März 1347 (traditionelles Datum)",
+        "es": "25 de marzo de 1347 (fecha tradicional)"
+      },
+      "luogoMorte": {
+        "it": "Roma",
+        "en": "Rome",
+        "fr": "Rome",
+        "de": "Rom",
+        "es": "Roma"
+      },
+      "dataMorte": {
+        "it": "29 aprile 1380",
+        "en": "29 April 1380",
+        "fr": "29 avril 1380",
+        "de": "29. April 1380",
+        "es": "29 de abril de 1380"
+      },
+      "biografia": {
+        "it": "Caterina nacque nel quartiere di Fontebranda, nei pressi della Basilica di San Domenico, in una famiglia di artigiani: il padre, Iacopo di Benincasa, era tintore. Fin da giovanissima manifestò una profonda vocazione religiosa, che la portò a rifiutare il matrimonio e a scegliere una vita dedicata alla preghiera, alla carità e alla spiritualità domenicana.\n\nNel 1363 entrò nell'Ordine della penitenza di San Domenico, vivendo inizialmente una vita di intensa contemplazione. Successivamente iniziò a dedicarsi sempre più alle opere di assistenza e alla vita pubblica. Si occupò dei poveri, degli ammalati e dei bisognosi, ma sviluppò anche un'intensa attività epistolare, rivolta a religiosi, governanti e personalità politiche.\n\nLa sua influenza crebbe rapidamente. Caterina intervenne nelle controversie politiche e religiose del suo tempo, cercando di favorire la pace tra le città italiane e di promuovere una riforma della Chiesa. Uno dei suoi obiettivi più importanti fu il ritorno del papato a Roma, dopo il lungo periodo di permanenza ad Avignone. Nel 1376 si recò personalmente ad Avignone per incontrare papa Gregorio XI e sostenere questa causa.\n\nNegli ultimi anni della sua vita si trasferì a Roma, dove continuò a svolgere un'intensa attività religiosa e diplomatica. Morì nel 1380, a soli trentatré anni.\n\nLa sua produzione comprende numerose lettere, preghiere e il Dialogo della Divina Provvidenza, uno dei testi più importanti della spiritualità medievale italiana. Fu canonizzata nel 1461 da papa Pio II e nel 1970 proclamata Dottore della Chiesa da Paolo VI.",
+        "en": "Catherine was born in the Fontebranda district, near the Basilica of San Domenico, into a family of craftsmen: her father, Iacopo di Benincasa, was a dyer. From a very young age she showed a deep religious vocation, which led her to refuse marriage and choose a life devoted to prayer, charity and Dominican spirituality.\n\nIn 1363 she entered the Order of Penance of Saint Dominic, at first living a life of intense contemplation. Later she devoted herself more and more to works of assistance and to public life. She cared for the poor, the sick and the needy, but also developed an intense letter-writing activity addressed to churchmen, rulers and political figures.\n\nHer influence grew quickly. Catherine intervened in the political and religious controversies of her time, seeking to promote peace among the Italian cities and a reform of the Church. One of her most important aims was the return of the papacy to Rome after its long stay in Avignon. In 1376 she went to Avignon in person to meet Pope Gregory XI and support this cause.\n\nIn the last years of her life she moved to Rome, where she continued intense religious and diplomatic activity. She died in 1380, at only thirty-three.\n\nHer output includes numerous letters, prayers and the Dialogue of Divine Providence, one of the most important texts of medieval Italian spirituality. She was canonised in 1461 by Pope Pius II and proclaimed a Doctor of the Church in 1970 by Paul VI.",
+        "fr": "Catherine naquit dans le quartier de Fontebranda, près de la basilique de San Domenico, dans une famille d'artisans : son père, Iacopo di Benincasa, était teinturier. Dès son plus jeune âge, elle manifesta une profonde vocation religieuse, qui la conduisit à refuser le mariage et à choisir une vie consacrée à la prière, à la charité et à la spiritualité dominicaine.\n\nEn 1363, elle entra dans l'Ordre de la pénitence de saint Dominique, menant d'abord une vie de contemplation intense. Ensuite, elle se consacra de plus en plus aux œuvres d'assistance et à la vie publique. Elle s'occupa des pauvres, des malades et des nécessiteux, mais développa aussi une intense activité épistolaire, adressée à des religieux, des gouvernants et des personnalités politiques.\n\nSon influence grandit rapidement. Catherine intervint dans les controverses politiques et religieuses de son temps, cherchant à favoriser la paix entre les villes italiennes et à promouvoir une réforme de l'Église. L'un de ses objectifs les plus importants fut le retour de la papauté à Rome, après le long séjour à Avignon. En 1376, elle se rendit en personne à Avignon pour rencontrer le pape Grégoire XI et soutenir cette cause.\n\nDans les dernières années de sa vie, elle s'installa à Rome, où elle poursuivit une intense activité religieuse et diplomatique. Elle mourut en 1380, à trente-trois ans seulement.\n\nSon œuvre comprend de nombreuses lettres, des prières et le Dialogue de la Divine Providence, l'un des textes les plus importants de la spiritualité médiévale italienne. Elle fut canonisée en 1461 par le pape Pie II et proclamée docteur de l'Église en 1970 par Paul VI.",
+        "de": "Katharina wurde im Viertel Fontebranda nahe der Basilika San Domenico in eine Handwerkerfamilie geboren: Ihr Vater Iacopo di Benincasa war Färber. Schon sehr jung zeigte sie eine tiefe religiöse Berufung, die sie die Ehe ablehnen und ein Leben des Gebets, der Nächstenliebe und der dominikanischen Spiritualität wählen ließ.\n\n1363 trat sie in den Orden der Buße des heiligen Dominikus ein und lebte zunächst ein Leben intensiver Kontemplation. Später widmete sie sich zunehmend Werken der Fürsorge und dem öffentlichen Leben. Sie kümmerte sich um Arme, Kranke und Bedürftige, entfaltete aber auch eine rege Briefwechseltätigkeit mit Geistlichen, Herrschern und politischen Persönlichkeiten.\n\nIhr Einfluss wuchs rasch. Katharina griff in die politischen und religiösen Auseinandersetzungen ihrer Zeit ein und versuchte, den Frieden zwischen den italienischen Städten und eine Reform der Kirche zu fördern. Eines ihrer wichtigsten Ziele war die Rückkehr des Papsttums nach Rom nach dem langen Aufenthalt in Avignon. 1376 reiste sie persönlich nach Avignon, um Papst Gregor XI. zu treffen und diese Sache zu unterstützen.\n\nIn den letzten Lebensjahren zog sie nach Rom, wo sie eine intensive religiöse und diplomatische Tätigkeit fortsetzte. Sie starb 1380 im Alter von nur dreiunddreißig Jahren.\n\nIhr Werk umfasst zahlreiche Briefe, Gebete und den Dialog über die göttliche Vorsehung, einen der wichtigsten Texte der mittelalterlichen italienischen Spiritualität. 1461 wurde sie von Papst Pius II. heiliggesprochen und 1970 von Paul VI. zur Kirchenlehrerin erhoben.",
+        "es": "Catalina nació en el barrio de Fontebranda, cerca de la basílica de San Domenico, en una familia de artesanos: su padre, Iacopo di Benincasa, era tintorero. Desde muy joven mostró una profunda vocación religiosa, que la llevó a rechazar el matrimonio y a elegir una vida dedicada a la oración, la caridad y la espiritualidad dominicana.\n\nEn 1363 entró en la Orden de la penitencia de Santo Domingo, viviendo al principio una vida de intensa contemplación. Después se dedicó cada vez más a las obras de asistencia y a la vida pública. Se ocupó de los pobres, los enfermos y los necesitados, pero desarrolló también una intensa actividad epistolar dirigida a religiosos, gobernantes y personalidades políticas.\n\nSu influencia creció rápidamente. Catalina intervino en las controversias políticas y religiosas de su tiempo, tratando de favorecer la paz entre las ciudades italianas y de promover una reforma de la Iglesia. Uno de sus objetivos más importantes fue el regreso del papado a Roma tras su larga permanencia en Aviñón. En 1376 viajó personalmente a Aviñón para encontrarse con el papa Gregorio XI y apoyar esta causa.\n\nEn los últimos años de su vida se trasladó a Roma, donde continuó una intensa actividad religiosa y diplomática. Murió en 1380, con solo treinta y tres años.\n\nSu producción comprende numerosas cartas, oraciones y el Diálogo de la Divina Providencia, uno de los textos más importantes de la espiritualidad medieval italiana. Fue canonizada en 1461 por el papa Pío II y proclamada Doctora de la Iglesia en 1970 por Pablo VI."
+      },
+      "curiosita": {
+        "it": [
+          "La data del 25 marzo 1347 è tradizionalmente accolta, ma non è attestata da un documento anagrafico contemporaneo.",
+          "Caterina non fu una monaca di clausura: apparteneva alle Mantellate domenicane e continuò a vivere in un contesto laico.",
+          "Le sue lettere furono dettate a collaboratori, poiché non sempre scriveva personalmente.",
+          "È patrona d'Italia, insieme a san Francesco d'Assisi, ed è anche patrona d'Europa."
+        ],
+        "en": [
+          "The date of 25 March 1347 is traditionally accepted but is not attested by a contemporary birth record.",
+          "Catherine was not a cloistered nun: she belonged to the Dominican Mantellate and continued to live in a lay setting.",
+          "Her letters were dictated to collaborators, since she did not always write herself.",
+          "She is a patron saint of Italy, together with Saint Francis of Assisi, and also a patron saint of Europe."
+        ],
+        "fr": [
+          "La date du 25 mars 1347 est traditionnellement admise, mais n'est pas attestée par un acte d'état civil contemporain.",
+          "Catherine n'était pas une religieuse cloîtrée : elle appartenait aux Mantellate dominicaines et continua à vivre dans un cadre laïc.",
+          "Ses lettres furent dictées à des collaborateurs, car elle n'écrivait pas toujours elle-même.",
+          "Elle est patronne de l'Italie, avec saint François d'Assise, et aussi patronne de l'Europe."
+        ],
+        "de": [
+          "Das Datum 25. März 1347 wird traditionell akzeptiert, ist aber durch keine zeitgenössische Geburtsurkunde belegt.",
+          "Katharina war keine Klausurnonne: Sie gehörte den dominikanischen Mantellaten an und lebte weiter in einem weltlichen Umfeld.",
+          "Ihre Briefe diktierte sie Mitarbeitern, da sie nicht immer selbst schrieb.",
+          "Sie ist zusammen mit dem heiligen Franz von Assisi Schutzpatronin Italiens und außerdem Schutzpatronin Europas."
+        ],
+        "es": [
+          "La fecha del 25 de marzo de 1347 se acepta tradicionalmente, pero no está atestiguada por un documento de registro contemporáneo.",
+          "Catalina no fue una monja de clausura: pertenecía a las Mantellate dominicas y siguió viviendo en un ambiente laico.",
+          "Sus cartas fueron dictadas a colaboradores, pues no siempre escribía ella misma.",
+          "Es patrona de Italia, junto con san Francisco de Asís, y también patrona de Europa."
+        ]
+      },
+      "luoghi": [
+        "santuario-di-santa-caterina",
+        "basilica-di-san-domenico",
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "santuario-di-santa-caterina": {
+          "tipo": {
+            "it": "Legame diretto – casa",
+            "en": "Direct link – home",
+            "fr": "Lien direct – maison",
+            "de": "Direkter Bezug – Wohnhaus",
+            "es": "Vínculo directo – casa"
+          },
+          "testo": {
+            "it": "Il complesso conserva la memoria della casa familiare e dei luoghi legati alla sua vita.",
+            "en": "The complex preserves the memory of the family home and the places linked to her life.",
+            "fr": "L'ensemble conserve la mémoire de la maison familiale et des lieux liés à sa vie.",
+            "de": "Der Komplex bewahrt die Erinnerung an das Elternhaus und die mit ihrem Leben verbundenen Orte.",
+            "es": "El conjunto conserva la memoria de la casa familiar y de los lugares ligados a su vida."
+          }
+        },
+        "basilica-di-san-domenico": {
+          "tipo": {
+            "it": "Legame diretto – culto",
+            "en": "Direct link – cult",
+            "fr": "Lien direct – culte",
+            "de": "Direkter Bezug – Kult",
+            "es": "Vínculo directo – culto"
+          },
+          "testo": {
+            "it": "È il luogo della sua formazione spirituale e conserva la reliquia della testa.",
+            "en": "It is the place of her spiritual formation and keeps the relic of her head.",
+            "fr": "C'est le lieu de sa formation spirituelle et il conserve la relique de sa tête.",
+            "de": "Sie ist der Ort ihrer geistlichen Prägung und bewahrt die Reliquie ihres Hauptes.",
+            "es": "Es el lugar de su formación espiritual y conserva la reliquia de su cabeza."
+          }
+        },
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Permette di raccontare la Siena comunale nella quale Caterina intervenne anche attraverso la propria influenza morale e politica.",
+            "en": "It helps tell the story of communal Siena, in which Catherine intervened also through her moral and political influence.",
+            "fr": "Elle permet de raconter la Sienne communale dans laquelle Catherine intervint aussi par son influence morale et politique.",
+            "de": "Er lässt das kommunale Siena erzählen, in dem Katharina auch durch ihren moralischen und politischen Einfluss wirkte.",
+            "es": "Permite contar la Siena comunal en la que Catalina intervino también mediante su influencia moral y política."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "pio-ii",
+          "testo": {
+            "it": "Fu il pontefice che la canonizzò nel 1461, riconoscendone ufficialmente il culto e l'importanza religiosa.",
+            "en": "He was the pope who canonised her in 1461, officially recognising her cult and religious importance.",
+            "fr": "Ce fut le pape qui la canonisa en 1461, reconnaissant officiellement son culte et son importance religieuse.",
+            "de": "Er war der Papst, der sie 1461 heiligsprach und damit ihre Verehrung und religiöse Bedeutung offiziell anerkannte.",
+            "es": "Fue el pontífice que la canonizó en 1461, reconociendo oficialmente su culto y su importancia religiosa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "bernardino-da-siena",
+      "nome": "Bernardino da Siena",
+      "nascita": 1380,
+      "morte": 1444,
+      "professione": {
+        "it": "Predicatore francescano",
+        "en": "Franciscan preacher",
+        "fr": "Prédicateur franciscain",
+        "de": "Franziskanischer Prediger",
+        "es": "Predicador franciscano"
+      },
+      "luogoNascita": {
+        "it": "Massa Marittima",
+        "en": "Massa Marittima",
+        "fr": "Massa Marittima",
+        "de": "Massa Marittima",
+        "es": "Massa Marittima"
+      },
+      "dataNascita": {
+        "it": "8 settembre 1380",
+        "en": "8 September 1380",
+        "fr": "8 septembre 1380",
+        "de": "8. September 1380",
+        "es": "8 de septiembre de 1380"
+      },
+      "luogoMorte": {
+        "it": "L'Aquila",
+        "en": "L'Aquila",
+        "fr": "L'Aquila",
+        "de": "L'Aquila",
+        "es": "L'Aquila"
+      },
+      "dataMorte": {
+        "it": "20 maggio 1444",
+        "en": "20 May 1444",
+        "fr": "20 mai 1444",
+        "de": "20. Mai 1444",
+        "es": "20 de mayo de 1444"
+      },
+      "biografia": {
+        "it": "Bernardino nacque a Massa Marittima da una famiglia di origine senese, gli Albizzeschi. Rimasto orfano durante l'infanzia, fu affidato alle cure dei parenti e si trasferì a Siena, dove ricevette un'educazione umanistica e giuridica.\n\nLa città ebbe un ruolo fondamentale nella sua formazione. Nel 1400, durante una grave epidemia di peste, partecipò all'assistenza dei malati presso l'Ospedale di Santa Maria della Scala. L'esperienza rafforzò la sua vocazione religiosa e il suo impegno verso i più bisognosi.\n\nNel 1403 entrò nell'Ordine francescano e iniziò un percorso che lo avrebbe portato a diventare uno dei predicatori più celebri del Quattrocento. La sua attività si diffuse in numerose città italiane, dove richiamava folle di ascoltatori grazie a uno stile comunicativo diretto, ricco di esempi quotidiani, immagini e riferimenti alla vita delle persone.\n\nBernardino promosse la riforma dell'Ordine francescano attraverso il movimento dell'Osservanza, sostenendo una maggiore austerità e il ritorno alla disciplina originaria. Fu anche un importante divulgatore della devozione al Nome di Gesù, rappresentato dal celebre trigramma IHS inserito in un sole raggiato.\n\nLe sue prediche affrontavano temi religiosi, ma anche questioni economiche e sociali: condannava l'usura, la corruzione, il lusso e i comportamenti che riteneva dannosi per la comunità. La sua riflessione sul commercio e sul lavoro è oggi studiata anche dagli storici dell'economia medievale.\n\nMorì a L'Aquila nel 1444, durante una delle sue campagne di predicazione. Fu canonizzato nel 1450 da papa Niccolò V.",
+        "en": "Bernardino was born in Massa Marittima to a family of Sienese origin, the Albizzeschi. Orphaned in childhood, he was entrusted to relatives and moved to Siena, where he received a humanistic and legal education.\n\nThe city played a fundamental role in his formation. In 1400, during a severe plague epidemic, he helped care for the sick at the Hospital of Santa Maria della Scala. The experience strengthened his religious vocation and his commitment to the neediest.\n\nIn 1403 he entered the Franciscan Order and began a path that would make him one of the most famous preachers of the fifteenth century. His activity spread to many Italian cities, where he drew crowds thanks to a direct style full of everyday examples, images and references to people's lives.\n\nBernardino promoted the reform of the Franciscan Order through the Observant movement, supporting greater austerity and a return to the original discipline. He was also an important promoter of devotion to the Name of Jesus, shown by the famous IHS monogram set in a radiant sun.\n\nHis sermons dealt with religious themes but also with economic and social questions: he condemned usury, corruption, luxury and behaviour he considered harmful to the community. His thinking on trade and work is now studied also by historians of the medieval economy.\n\nHe died in L'Aquila in 1444, during one of his preaching campaigns. He was canonised in 1450 by Pope Nicholas V.",
+        "fr": "Bernardin naquit à Massa Marittima dans une famille d'origine siennoise, les Albizzeschi. Orphelin dans l'enfance, il fut confié à des parents et s'installa à Sienne, où il reçut une éducation humaniste et juridique.\n\nLa ville joua un rôle fondamental dans sa formation. En 1400, lors d'une grave épidémie de peste, il participa aux soins des malades à l'hôpital de Santa Maria della Scala. L'expérience renforça sa vocation religieuse et son engagement envers les plus démunis.\n\nEn 1403, il entra dans l'Ordre franciscain et commença un parcours qui le mènerait à devenir l'un des prédicateurs les plus célèbres du XVe siècle. Son activité se répandit dans de nombreuses villes italiennes, où il attirait des foules grâce à un style direct, riche d'exemples quotidiens, d'images et de références à la vie des gens.\n\nBernardin promut la réforme de l'Ordre franciscain par le mouvement de l'Observance, défendant une plus grande austérité et le retour à la discipline d'origine. Il fut aussi un important propagateur de la dévotion au Nom de Jésus, représenté par le célèbre trigramme IHS inscrit dans un soleil rayonnant.\n\nSes prédications abordaient des thèmes religieux mais aussi des questions économiques et sociales : il condamnait l'usure, la corruption, le luxe et les comportements qu'il jugeait nuisibles à la communauté. Sa réflexion sur le commerce et le travail est aujourd'hui étudiée aussi par les historiens de l'économie médiévale.\n\nIl mourut à L'Aquila en 1444, lors d'une de ses campagnes de prédication. Il fut canonisé en 1450 par le pape Nicolas V.",
+        "de": "Bernhardin wurde in Massa Marittima in eine Familie sienesischer Herkunft, die Albizzeschi, geboren. In der Kindheit verwaist, wurde er Verwandten anvertraut und zog nach Siena, wo er eine humanistische und juristische Ausbildung erhielt.\n\nDie Stadt spielte eine grundlegende Rolle für seine Prägung. 1400 beteiligte er sich während einer schweren Pestepidemie an der Pflege der Kranken im Spital Santa Maria della Scala. Die Erfahrung stärkte seine religiöse Berufung und sein Engagement für die Bedürftigsten.\n\n1403 trat er in den Franziskanerorden ein und begann einen Weg, der ihn zu einem der berühmtesten Prediger des 15. Jahrhunderts machen sollte. Seine Tätigkeit verbreitete sich in zahlreichen italienischen Städten, wo er dank eines direkten, an Alltagsbeispielen, Bildern und Bezügen zum Leben der Menschen reichen Stils Menschenmassen anzog.\n\nBernhardin förderte die Reform des Franziskanerordens durch die Observanzbewegung und trat für größere Strenge und die Rückkehr zur ursprünglichen Disziplin ein. Er war auch ein wichtiger Verbreiter der Verehrung des Namens Jesu, dargestellt durch das berühmte Christusmonogramm IHS in einer strahlenden Sonne.\n\nSeine Predigten behandelten religiöse Themen, aber auch wirtschaftliche und soziale Fragen: Er verurteilte Wucher, Korruption, Luxus und Verhaltensweisen, die er für schädlich für die Gemeinschaft hielt. Sein Denken über Handel und Arbeit wird heute auch von Historikern der mittelalterlichen Wirtschaft untersucht.\n\nEr starb 1444 in L'Aquila während einer seiner Predigtreisen. 1450 wurde er von Papst Nikolaus V. heiliggesprochen.",
+        "es": "Bernardino nació en Massa Marittima en una familia de origen sienés, los Albizzeschi. Huérfano en la infancia, fue confiado a unos parientes y se trasladó a Siena, donde recibió una educación humanística y jurídica.\n\nLa ciudad tuvo un papel fundamental en su formación. En 1400, durante una grave epidemia de peste, participó en la asistencia a los enfermos en el hospital de Santa Maria della Scala. La experiencia reforzó su vocación religiosa y su compromiso con los más necesitados.\n\nEn 1403 entró en la Orden franciscana e inició un camino que lo llevaría a ser uno de los predicadores más célebres del siglo XV. Su actividad se extendió por numerosas ciudades italianas, donde atraía multitudes gracias a un estilo directo, rico en ejemplos cotidianos, imágenes y referencias a la vida de la gente.\n\nBernardino promovió la reforma de la Orden franciscana mediante el movimiento de la Observancia, defendiendo una mayor austeridad y el regreso a la disciplina original. Fue también un importante divulgador de la devoción al Nombre de Jesús, representado por el célebre trigrama IHS inscrito en un sol radiante.\n\nSus predicaciones abordaban temas religiosos, pero también cuestiones económicas y sociales: condenaba la usura, la corrupción, el lujo y los comportamientos que consideraba dañinos para la comunidad. Su reflexión sobre el comercio y el trabajo es hoy estudiada también por los historiadores de la economía medieval.\n\nMurió en L'Aquila en 1444, durante una de sus campañas de predicación. Fue canonizado en 1450 por el papa Nicolás V."
+      },
+      "curiosita": {
+        "it": [
+          "Il trigramma IHS, da lui diffuso in modo particolare, divenne uno dei simboli più riconoscibili della devozione cristiana.",
+          "Durante la peste del 1400 partecipò all'assistenza dei malati presso Santa Maria della Scala.",
+          "Le sue prediche senesi del 1427 sono state trascritte e conservano un linguaggio sorprendentemente vivace e vicino alla lingua parlata.",
+          "La sua figura è legata a Siena, ma non nacque nella città: la nascita a Massa Marittima è documentata."
+        ],
+        "en": [
+          "The IHS monogram, which he spread in a particular way, became one of the most recognisable symbols of Christian devotion.",
+          "During the plague of 1400 he helped care for the sick at Santa Maria della Scala.",
+          "His Sienese sermons of 1427 were transcribed and keep a surprisingly lively language close to the spoken tongue.",
+          "He is tied to Siena but was not born in the city: his birth in Massa Marittima is documented."
+        ],
+        "fr": [
+          "Le trigramme IHS, qu'il diffusa de façon particulière, devint l'un des symboles les plus reconnaissables de la dévotion chrétienne.",
+          "Pendant la peste de 1400, il participa aux soins des malades à Santa Maria della Scala.",
+          "Ses prédications siennoises de 1427 ont été transcrites et conservent un langage étonnamment vif et proche de la langue parlée.",
+          "Il est lié à Sienne, mais n'est pas né dans la ville : sa naissance à Massa Marittima est documentée."
+        ],
+        "de": [
+          "Das Christusmonogramm IHS, das er besonders verbreitete, wurde zu einem der bekanntesten Symbole christlicher Frömmigkeit.",
+          "Während der Pest von 1400 beteiligte er sich an der Pflege der Kranken in Santa Maria della Scala.",
+          "Seine sienesischen Predigten von 1427 wurden mitgeschrieben und bewahren eine erstaunlich lebendige, der gesprochenen Sprache nahe Ausdrucksweise.",
+          "Er ist mit Siena verbunden, wurde aber nicht in der Stadt geboren: Seine Geburt in Massa Marittima ist belegt."
+        ],
+        "es": [
+          "El trigrama IHS, que difundió de manera particular, se convirtió en uno de los símbolos más reconocibles de la devoción cristiana.",
+          "Durante la peste de 1400 participó en la asistencia a los enfermos en Santa Maria della Scala.",
+          "Sus predicaciones sienesas de 1427 fueron transcritas y conservan un lenguaje sorprendentemente vivo y cercano a la lengua hablada.",
+          "Su figura está ligada a Siena, pero no nació en la ciudad: su nacimiento en Massa Marittima está documentado."
+        ]
+      },
+      "luoghi": [
+        "santa-maria-della-scala",
+        "basilica-di-san-francesco",
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "santa-maria-della-scala": {
+          "tipo": {
+            "it": "Legame diretto – assistenza",
+            "en": "Direct link – care of the sick",
+            "fr": "Lien direct – assistance",
+            "de": "Direkter Bezug – Krankenpflege",
+            "es": "Vínculo directo – asistencia"
+          },
+          "testo": {
+            "it": "Qui prestò assistenza agli appestati nel 1400.",
+            "en": "Here he cared for plague victims in 1400.",
+            "fr": "Ici, il prodigua des soins aux pestiférés en 1400.",
+            "de": "Hier pflegte er 1400 die Pestkranken.",
+            "es": "Aquí asistió a los apestados en 1400."
+          }
+        },
+        "basilica-di-san-francesco": {
+          "tipo": {
+            "it": "Legame di tradizione",
+            "en": "Link of tradition",
+            "fr": "Lien de tradition",
+            "de": "Überlieferter Bezug",
+            "es": "Vínculo de tradición"
+          },
+          "testo": {
+            "it": "È uno dei luoghi senesi legati alla tradizione francescana e alla spiritualità dell'Osservanza.",
+            "en": "It is one of the Sienese places linked to the Franciscan tradition and to Observant spirituality.",
+            "fr": "C'est l'un des lieux siennois liés à la tradition franciscaine et à la spiritualité de l'Observance.",
+            "de": "Sie ist einer der sienesischen Orte, die mit der franziskanischen Tradition und der Spiritualität der Observanz verbunden sind.",
+            "es": "Es uno de los lugares sieneses ligados a la tradición franciscana y a la espiritualidad de la Observancia."
+          }
+        },
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Permette di raccontare il contesto cittadino nel quale si svolsero le sue predicazioni e i suoi interventi pubblici.",
+            "en": "It helps tell the civic setting in which his preaching and public interventions took place.",
+            "fr": "Elle permet de raconter le contexte urbain dans lequel se déroulèrent ses prédications et ses interventions publiques.",
+            "de": "Er lässt den städtischen Rahmen erzählen, in dem seine Predigten und öffentlichen Auftritte stattfanden.",
+            "es": "Permite contar el contexto ciudadano en el que se desarrollaron sus predicaciones y sus intervenciones públicas."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "pio-ii",
+      "nome": "Pio II (Enea Silvio Piccolomini)",
+      "nascita": 1405,
+      "morte": 1464,
+      "professione": {
+        "it": "Papa e scrittore umanista",
+        "en": "Pope and humanist writer",
+        "fr": "Pape et écrivain humaniste",
+        "de": "Papst und humanistischer Schriftsteller",
+        "es": "Papa y escritor humanista"
+      },
+      "luogoNascita": {
+        "it": "Corsignano, oggi Pienza",
+        "en": "Corsignano, now Pienza",
+        "fr": "Corsignano, aujourd'hui Pienza",
+        "de": "Corsignano, heute Pienza",
+        "es": "Corsignano, hoy Pienza"
+      },
+      "dataNascita": {
+        "it": "18 ottobre 1405",
+        "en": "18 October 1405",
+        "fr": "18 octobre 1405",
+        "de": "18. Oktober 1405",
+        "es": "18 de octubre de 1405"
+      },
+      "luogoMorte": {
+        "it": "Ancona",
+        "en": "Ancona",
+        "fr": "Ancône",
+        "de": "Ancona",
+        "es": "Ancona"
+      },
+      "dataMorte": {
+        "it": "14 agosto 1464",
+        "en": "14 August 1464",
+        "fr": "14 août 1464",
+        "de": "14. August 1464",
+        "es": "14 de agosto de 1464"
+      },
+      "biografia": {
+        "it": "Enea Silvio Piccolomini nacque a Corsignano, in Val d'Orcia, da una famiglia della nobiltà senese. I Piccolomini avevano avuto un ruolo importante nella vita politica di Siena, ma erano stati costretti all'esilio nel 1385. La sua famiglia viveva quindi lontano dalla città d'origine, in condizioni economiche non particolarmente favorevoli.\n\nNel 1423 Enea Silvio si trasferì a Siena per studiare diritto, ma si appassionò soprattutto alla letteratura e agli studi umanistici. Iniziò una brillante carriera come scrittore, diplomatico e uomo di corte, partecipando al Concilio di Basilea e lavorando per diversi importanti personaggi politici ed ecclesiastici.\n\nNel corso della sua carriera cambiò progressivamente orientamento religioso e politico, avvicinandosi alla posizione del papato romano. Nel 1450 fu nominato vescovo di Siena e nel 1456 divenne cardinale. Il 19 agosto 1458 fu eletto papa con il nome di Pio II.\n\nDurante il pontificato si impegnò nella politica internazionale, cercando di organizzare una crociata contro l'Impero ottomano dopo la caduta di Costantinopoli. Promosse inoltre importanti iniziative culturali e artistiche.\n\nIl suo legame con Siena fu particolarmente significativo. Pur essendo nato a Corsignano, mantenne un forte rapporto con la città della propria famiglia e favorì la presenza dei Piccolomini nella vita religiosa e culturale senese. La sua figura è strettamente legata anche alla trasformazione di Corsignano in una città ideale rinascimentale, Pienza, attraverso un ambizioso progetto urbanistico e architettonico.\n\nMorì ad Ancona nel 1464, mentre si preparava alla spedizione contro i Turchi. Il suo corpo fu trasferito a Roma, nella chiesa di Sant'Andrea della Valle.",
+        "en": "Enea Silvio Piccolomini was born in Corsignano, in the Val d'Orcia, to a family of Sienese nobility. The Piccolomini had played an important part in Siena's political life but had been forced into exile in 1385. His family therefore lived far from their city of origin, in not especially favourable economic conditions.\n\nIn 1423 Enea Silvio moved to Siena to study law, but became passionate above all about literature and humanist studies. He began a brilliant career as a writer, diplomat and courtier, taking part in the Council of Basel and working for several important political and church figures.\n\nOver his career he gradually changed religious and political orientation, moving closer to the position of the Roman papacy. In 1450 he was appointed bishop of Siena and in 1456 became a cardinal. On 19 August 1458 he was elected pope with the name Pius II.\n\nDuring his pontificate he engaged in international politics, trying to organise a crusade against the Ottoman Empire after the fall of Constantinople. He also promoted important cultural and artistic initiatives.\n\nHis link with Siena was particularly significant. Although born in Corsignano, he kept a strong relationship with his family's city and favoured the presence of the Piccolomini in Sienese religious and cultural life. His figure is also closely tied to the transformation of Corsignano into an ideal Renaissance city, Pienza, through an ambitious urban and architectural project.\n\nHe died in Ancona in 1464 while preparing the expedition against the Turks. His body was transferred to Rome, to the church of Sant'Andrea della Valle.",
+        "fr": "Enea Silvio Piccolomini naquit à Corsignano, en Val d'Orcia, dans une famille de la noblesse siennoise. Les Piccolomini avaient joué un rôle important dans la vie politique de Sienne, mais avaient été contraints à l'exil en 1385. Sa famille vivait donc loin de sa ville d'origine, dans des conditions économiques peu favorables.\n\nEn 1423, Enea Silvio s'installa à Sienne pour étudier le droit, mais se passionna surtout pour la littérature et les études humanistes. Il commença une brillante carrière d'écrivain, de diplomate et d'homme de cour, participant au concile de Bâle et travaillant pour plusieurs importants personnages politiques et ecclésiastiques.\n\nAu cours de sa carrière, il changea progressivement d'orientation religieuse et politique, se rapprochant de la position de la papauté romaine. En 1450, il fut nommé évêque de Sienne et, en 1456, devint cardinal. Le 19 août 1458, il fut élu pape sous le nom de Pie II.\n\nDurant son pontificat, il s'engagea dans la politique internationale, cherchant à organiser une croisade contre l'Empire ottoman après la chute de Constantinople. Il promut aussi d'importantes initiatives culturelles et artistiques.\n\nSon lien avec Sienne fut particulièrement significatif. Bien que né à Corsignano, il garda un fort rapport avec la ville de sa famille et favorisa la présence des Piccolomini dans la vie religieuse et culturelle siennoise. Sa figure est aussi étroitement liée à la transformation de Corsignano en une cité idéale de la Renaissance, Pienza, par un ambitieux projet urbanistique et architectural.\n\nIl mourut à Ancône en 1464, alors qu'il préparait l'expédition contre les Turcs. Son corps fut transféré à Rome, dans l'église Sant'Andrea della Valle.",
+        "de": "Enea Silvio Piccolomini wurde in Corsignano im Val d'Orcia in eine Familie des sienesischen Adels geboren. Die Piccolomini hatten im politischen Leben Sienas eine wichtige Rolle gespielt, waren aber 1385 ins Exil gezwungen worden. Seine Familie lebte daher fern ihrer Herkunftsstadt, in wirtschaftlich nicht besonders günstigen Verhältnissen.\n\n1423 zog Enea Silvio nach Siena, um Recht zu studieren, begeisterte sich aber vor allem für Literatur und humanistische Studien. Er begann eine glänzende Laufbahn als Schriftsteller, Diplomat und Hofmann, nahm am Konzil von Basel teil und arbeitete für mehrere bedeutende politische und kirchliche Persönlichkeiten.\n\nIm Lauf seiner Laufbahn änderte er schrittweise seine religiöse und politische Ausrichtung und näherte sich der Position des römischen Papsttums an. 1450 wurde er zum Bischof von Siena ernannt, 1456 wurde er Kardinal. Am 19. August 1458 wurde er unter dem Namen Pius II. zum Papst gewählt.\n\nWährend seines Pontifikats engagierte er sich in der internationalen Politik und versuchte, nach dem Fall Konstantinopels einen Kreuzzug gegen das Osmanische Reich zu organisieren. Außerdem förderte er bedeutende kulturelle und künstlerische Initiativen.\n\nSeine Verbindung zu Siena war besonders bedeutsam. Obwohl in Corsignano geboren, pflegte er eine enge Beziehung zur Stadt seiner Familie und förderte die Präsenz der Piccolomini im religiösen und kulturellen Leben Sienas. Seine Gestalt ist auch eng mit der Umwandlung Corsignanos in eine Renaissance-Idealstadt, Pienza, durch ein ehrgeiziges städtebauliches und architektonisches Projekt verbunden.\n\nEr starb 1464 in Ancona, während er den Feldzug gegen die Türken vorbereitete. Sein Leichnam wurde nach Rom in die Kirche Sant'Andrea della Valle überführt.",
+        "es": "Enea Silvio Piccolomini nació en Corsignano, en el Val d'Orcia, en una familia de la nobleza sienesa. Los Piccolomini habían tenido un papel importante en la vida política de Siena, pero habían sido obligados al exilio en 1385. Su familia vivía, pues, lejos de la ciudad de origen, en condiciones económicas no especialmente favorables.\n\nEn 1423 Enea Silvio se trasladó a Siena para estudiar derecho, pero se apasionó sobre todo por la literatura y los estudios humanísticos. Inició una brillante carrera como escritor, diplomático y hombre de corte, participando en el Concilio de Basilea y trabajando para diversos personajes políticos y eclesiásticos importantes.\n\nA lo largo de su carrera cambió progresivamente de orientación religiosa y política, acercándose a la posición del papado romano. En 1450 fue nombrado obispo de Siena y en 1456 se convirtió en cardenal. El 19 de agosto de 1458 fue elegido papa con el nombre de Pío II.\n\nDurante su pontificado se empeñó en la política internacional, tratando de organizar una cruzada contra el Imperio otomano tras la caída de Constantinopla. Promovió además importantes iniciativas culturales y artísticas.\n\nSu vínculo con Siena fue particularmente significativo. Aunque nació en Corsignano, mantuvo una fuerte relación con la ciudad de su familia y favoreció la presencia de los Piccolomini en la vida religiosa y cultural sienesa. Su figura está estrechamente ligada también a la transformación de Corsignano en una ciudad ideal renacentista, Pienza, mediante un ambicioso proyecto urbanístico y arquitectónico.\n\nMurió en Ancona en 1464, mientras preparaba la expedición contra los turcos. Su cuerpo fue trasladado a Roma, a la iglesia de Sant'Andrea della Valle."
+      },
+      "curiosita": {
+        "it": [
+          "Pio II fu anche un importante scrittore umanista: la sua autobiografia, i Commentarii, è una fonte preziosa per conoscere la sua vita e il Quattrocento.",
+          "Il progetto di trasformazione di Corsignano in Pienza rappresenta uno degli esempi più importanti di città ideale rinascimentale.",
+          "Fu lui a canonizzare Caterina da Siena nel 1461.",
+          "La Libreria Piccolomini del Duomo di Siena fu realizzata per custodire e celebrare la memoria della famiglia, in particolare dello zio Francesco Todeschini Piccolomini, poi papa Pio III."
+        ],
+        "en": [
+          "Pius II was also an important humanist writer: his autobiography, the Commentarii, is a precious source for his life and for the fifteenth century.",
+          "The project to transform Corsignano into Pienza is one of the most important examples of an ideal Renaissance city.",
+          "It was he who canonised Catherine of Siena in 1461.",
+          "The Piccolomini Library in the Duomo of Siena was built to house and celebrate the memory of the family, in particular his uncle Francesco Todeschini Piccolomini, later Pope Pius III."
+        ],
+        "fr": [
+          "Pie II fut aussi un important écrivain humaniste : son autobiographie, les Commentarii, est une source précieuse pour connaître sa vie et le XVe siècle.",
+          "Le projet de transformation de Corsignano en Pienza est l'un des exemples les plus importants de cité idéale de la Renaissance.",
+          "C'est lui qui canonisa Catherine de Sienne en 1461.",
+          "La Libreria Piccolomini du Duomo de Sienne fut réalisée pour abriter et célébrer la mémoire de la famille, en particulier de l'oncle Francesco Todeschini Piccolomini, futur pape Pie III."
+        ],
+        "de": [
+          "Pius II. war auch ein bedeutender humanistischer Schriftsteller: Seine Autobiografie, die Commentarii, ist eine wertvolle Quelle für sein Leben und das 15. Jahrhundert.",
+          "Das Projekt, Corsignano in Pienza umzuwandeln, ist eines der wichtigsten Beispiele einer Renaissance-Idealstadt.",
+          "Er war es, der 1461 Katharina von Siena heiligsprach.",
+          "Die Libreria Piccolomini im Dom von Siena wurde errichtet, um das Andenken der Familie zu bewahren und zu feiern, insbesondere des Onkels Francesco Todeschini Piccolomini, des späteren Papstes Pius III."
+        ],
+        "es": [
+          "Pío II fue también un importante escritor humanista: su autobiografía, los Commentarii, es una fuente valiosa para conocer su vida y el siglo XV.",
+          "El proyecto de transformar Corsignano en Pienza es uno de los ejemplos más importantes de ciudad ideal renacentista.",
+          "Fue él quien canonizó a Catalina de Siena en 1461.",
+          "La Libreria Piccolomini del Duomo de Siena se realizó para custodiar y celebrar la memoria de la familia, en particular del tío Francesco Todeschini Piccolomini, más tarde papa Pío III."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta",
+        "libreria-piccolomini"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame storico – famiglia",
+            "en": "Historical link – family",
+            "fr": "Lien historique – famille",
+            "de": "Historischer Bezug – Familie",
+            "es": "Vínculo histórico – familia"
+          },
+          "testo": {
+            "it": "È uno dei principali luoghi legati alla sua famiglia e alla memoria dei Piccolomini.",
+            "en": "It is one of the main places linked to his family and to the memory of the Piccolomini.",
+            "fr": "C'est l'un des principaux lieux liés à sa famille et à la mémoire des Piccolomini.",
+            "de": "Er ist einer der wichtigsten Orte, die mit seiner Familie und dem Andenken der Piccolomini verbunden sind.",
+            "es": "Es uno de los principales lugares ligados a su familia y a la memoria de los Piccolomini."
+          }
+        },
+        "libreria-piccolomini": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Il ciclo di affreschi del Pinturicchio racconta episodi della sua vita.",
+            "en": "Pinturicchio's fresco cycle tells episodes from his life.",
+            "fr": "Le cycle de fresques du Pinturicchio raconte des épisodes de sa vie.",
+            "de": "Pinturicchios Freskenzyklus erzählt Episoden aus seinem Leben.",
+            "es": "El ciclo de frescos de Pinturicchio narra episodios de su vida."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "caterina-da-siena",
+          "testo": {
+            "it": "Pio II la canonizzò nel 1461, riconoscendone ufficialmente la santità.",
+            "en": "Pius II canonised her in 1461, officially recognising her sanctity.",
+            "fr": "Pie II la canonisa en 1461, reconnaissant officiellement sa sainteté.",
+            "de": "Pius II. sprach sie 1461 heilig und erkannte damit offiziell ihre Heiligkeit an.",
+            "es": "Pío II la canonizó en 1461, reconociendo oficialmente su santidad."
+          }
+        },
+        {
+          "id": "pinturicchio",
+          "testo": {
+            "it": "Realizzò nella Libreria Piccolomini il ciclo di affreschi dedicato alla vita di Pio II, su commissione della famiglia Piccolomini. L'artista lo raffigurò quindi molti anni dopo la sua morte.",
+            "en": "He painted in the Piccolomini Library the fresco cycle devoted to the life of Pius II, commissioned by the Piccolomini family. The artist thus portrayed him many years after his death.",
+            "fr": "Il réalisa dans la Libreria Piccolomini le cycle de fresques consacré à la vie de Pie II, sur commande de la famille Piccolomini. L'artiste le représenta donc de nombreuses années après sa mort.",
+            "de": "Er schuf in der Libreria Piccolomini den Freskenzyklus über das Leben Pius' II. im Auftrag der Familie Piccolomini. Der Künstler stellte ihn also viele Jahre nach seinem Tod dar.",
+            "es": "Realizó en la Libreria Piccolomini el ciclo de frescos dedicado a la vida de Pío II, por encargo de la familia Piccolomini. El artista lo representó, por tanto, muchos años después de su muerte."
+          }
+        }
+      ]
+    },
+    {
+      "id": "jacopo-della-quercia",
+      "nome": "Jacopo della Quercia",
+      "nascita": 1374,
+      "morte": 1438,
+      "professione": {
+        "it": "Scultore",
+        "en": "Sculptor",
+        "fr": "Sculpteur",
+        "de": "Bildhauer",
+        "es": "Escultor"
+      },
+      "luogoNascita": {
+        "it": "Quercegrossa, nel territorio senese",
+        "en": "Quercegrossa, in the Sienese territory",
+        "fr": "Quercegrossa, dans le territoire siennois",
+        "de": "Quercegrossa im sienesischen Gebiet",
+        "es": "Quercegrossa, en el territorio sienés"
+      },
+      "dataNascita": {
+        "it": "1374 circa",
+        "en": "c. 1374",
+        "fr": "vers 1374",
+        "de": "um 1374",
+        "es": "hacia 1374"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "20 ottobre 1438",
+        "en": "20 October 1438",
+        "fr": "20 octobre 1438",
+        "de": "20. Oktober 1438",
+        "es": "20 de octubre de 1438"
+      },
+      "biografia": {
+        "it": "Jacopo della Quercia è uno dei più importanti scultori italiani tra Gotico e Rinascimento. Nato nel territorio senese, si formò in un ambiente nel quale la tradizione scultorea medievale si stava confrontando con le nuove ricerche artistiche provenienti da Firenze e dagli altri centri italiani.\n\nLa sua carriera fu caratterizzata da una notevole mobilità: lavorò a Lucca, Firenze, Ferrara, Bologna e Siena, realizzando opere che mostrano una profonda conoscenza della scultura antica e una grande capacità di rappresentare il corpo umano.\n\nUna delle sue opere più celebri è il monumento funebre di Ilaria del Carretto, realizzato nella Cattedrale di Lucca tra il 1406 e il 1407. La figura della giovane donna distesa sul sarcofago è caratterizzata da una delicatezza e da una naturalezza che anticipano alcuni aspetti della sensibilità rinascimentale.\n\nA Siena è legato soprattutto alla realizzazione della Fonte Gaia, commissionata dal Comune per Piazza del Campo. Jacopo lavorò all'opera tra il 1414 e il 1419, realizzando una monumentale fontana decorata da rilievi marmorei con figure della Vergine, scene bibliche e personaggi allegorici.\n\nLa Fonte Gaia divenne uno dei simboli della città. I rilievi originali furono sostituiti nell'Ottocento da copie realizzate da Tito Sarrocchi, mentre gli originali sono oggi conservati nel complesso museale di Santa Maria della Scala.\n\nJacopo lavorò anche al fonte battesimale del Battistero di Siena, contribuendo alla decorazione scultorea del complesso.\n\nLa sua opera rappresenta un passaggio fondamentale verso una nuova concezione della scultura: le figure acquistano volume, movimento e una presenza fisica molto più intensa rispetto alla tradizione medievale.",
+        "en": "Jacopo della Quercia is one of the most important Italian sculptors between Gothic and Renaissance. Born in the Sienese territory, he trained in an environment where the medieval sculptural tradition was meeting new artistic research coming from Florence and other Italian centres.\n\nHis career was marked by great mobility: he worked in Lucca, Florence, Ferrara, Bologna and Siena, producing works that show a deep knowledge of ancient sculpture and a great ability to portray the human body.\n\nOne of his most famous works is the funerary monument of Ilaria del Carretto, made in Lucca Cathedral between 1406 and 1407. The figure of the young woman lying on the sarcophagus has a delicacy and naturalness that anticipate some aspects of Renaissance sensibility.\n\nIn Siena he is above all linked to the making of the Fonte Gaia, commissioned by the Commune for Piazza del Campo. Jacopo worked on it between 1414 and 1419, creating a monumental fountain decorated with marble reliefs showing the Virgin, biblical scenes and allegorical figures.\n\nThe Fonte Gaia became one of the symbols of the city. In the nineteenth century the original reliefs were replaced by copies made by Tito Sarrocchi, while the originals are now kept in the Santa Maria della Scala museum complex.\n\nJacopo also worked on the baptismal font of the Baptistery of Siena, contributing to the complex's sculptural decoration.\n\nHis work marks a fundamental step towards a new conception of sculpture: figures gain volume, movement and a far more intense physical presence than in the medieval tradition.",
+        "fr": "Jacopo della Quercia est l'un des plus importants sculpteurs italiens entre gothique et Renaissance. Né dans le territoire siennois, il se forma dans un milieu où la tradition sculpturale médiévale se confrontait aux nouvelles recherches artistiques venues de Florence et d'autres centres italiens.\n\nSa carrière fut marquée par une grande mobilité : il travailla à Lucques, Florence, Ferrare, Bologne et Sienne, réalisant des œuvres qui montrent une profonde connaissance de la sculpture antique et une grande capacité à représenter le corps humain.\n\nL'une de ses œuvres les plus célèbres est le monument funéraire d'Ilaria del Carretto, réalisé dans la cathédrale de Lucques entre 1406 et 1407. La figure de la jeune femme étendue sur le sarcophage se distingue par une délicatesse et un naturel qui anticipent certains aspects de la sensibilité de la Renaissance.\n\nÀ Sienne, il est surtout lié à la réalisation de la Fonte Gaia, commandée par la Commune pour la Piazza del Campo. Jacopo y travailla entre 1414 et 1419, créant une fontaine monumentale décorée de reliefs en marbre représentant la Vierge, des scènes bibliques et des figures allégoriques.\n\nLa Fonte Gaia devint l'un des symboles de la ville. Au XIXe siècle, les reliefs originaux furent remplacés par des copies de Tito Sarrocchi, tandis que les originaux sont aujourd'hui conservés dans le complexe muséal de Santa Maria della Scala.\n\nJacopo travailla aussi aux fonts baptismaux du baptistère de Sienne, contribuant à la décoration sculptée de l'ensemble.\n\nSon œuvre représente une étape fondamentale vers une nouvelle conception de la sculpture : les figures acquièrent volume, mouvement et une présence physique bien plus intense que dans la tradition médiévale.",
+        "de": "Jacopo della Quercia ist einer der wichtigsten italienischen Bildhauer zwischen Gotik und Renaissance. Im sienesischen Gebiet geboren, bildete er sich in einem Umfeld aus, in dem die mittelalterliche Skulpturtradition mit den neuen künstlerischen Strömungen aus Florenz und anderen italienischen Zentren zusammentraf.\n\nSeine Laufbahn war von großer Beweglichkeit geprägt: Er arbeitete in Lucca, Florenz, Ferrara, Bologna und Siena und schuf Werke, die eine tiefe Kenntnis der antiken Skulptur und große Fähigkeit zur Darstellung des menschlichen Körpers zeigen.\n\nEines seiner berühmtesten Werke ist das Grabmal der Ilaria del Carretto, zwischen 1406 und 1407 im Dom von Lucca geschaffen. Die Gestalt der jungen Frau auf dem Sarkophag zeichnet sich durch eine Zartheit und Natürlichkeit aus, die einige Aspekte der Renaissance-Empfindung vorwegnehmen.\n\nIn Siena ist er vor allem mit der Fonte Gaia verbunden, die von der Kommune für die Piazza del Campo in Auftrag gegeben wurde. Jacopo arbeitete zwischen 1414 und 1419 daran und schuf einen monumentalen Brunnen, geschmückt mit Marmorreliefs mit der Jungfrau, biblischen Szenen und allegorischen Figuren.\n\nDie Fonte Gaia wurde zu einem der Wahrzeichen der Stadt. Im 19. Jahrhundert wurden die originalen Reliefs durch Kopien von Tito Sarrocchi ersetzt, während die Originale heute im Museumskomplex Santa Maria della Scala aufbewahrt werden.\n\nJacopo arbeitete auch am Taufbecken des Baptisteriums von Siena und trug zum Skulpturenschmuck des Komplexes bei.\n\nSein Werk bildet einen grundlegenden Schritt zu einer neuen Auffassung der Skulptur: Die Figuren gewinnen Volumen, Bewegung und eine weitaus intensivere körperliche Präsenz als in der mittelalterlichen Tradition.",
+        "es": "Jacopo della Quercia es uno de los escultores italianos más importantes entre el gótico y el Renacimiento. Nacido en el territorio sienés, se formó en un ambiente en el que la tradición escultórica medieval se confrontaba con las nuevas investigaciones artísticas procedentes de Florencia y de otros centros italianos.\n\nSu carrera se caracterizó por una notable movilidad: trabajó en Lucca, Florencia, Ferrara, Bolonia y Siena, realizando obras que muestran un profundo conocimiento de la escultura antigua y una gran capacidad para representar el cuerpo humano.\n\nUna de sus obras más célebres es el monumento funerario de Ilaria del Carretto, realizado en la catedral de Lucca entre 1406 y 1407. La figura de la joven tendida sobre el sarcófago se caracteriza por una delicadeza y una naturalidad que anticipan algunos aspectos de la sensibilidad renacentista.\n\nEn Siena está ligado sobre todo a la realización de la Fonte Gaia, encargada por el Comune para la Piazza del Campo. Jacopo trabajó en ella entre 1414 y 1419, creando una fuente monumental decorada con relieves de mármol con figuras de la Virgen, escenas bíblicas y personajes alegóricos.\n\nLa Fonte Gaia se convirtió en uno de los símbolos de la ciudad. En el siglo XIX los relieves originales fueron sustituidos por copias de Tito Sarrocchi, mientras que los originales se conservan hoy en el complejo museístico de Santa Maria della Scala.\n\nJacopo trabajó también en la pila bautismal del Baptisterio de Siena, contribuyendo a la decoración escultórica del conjunto.\n\nSu obra representa un paso fundamental hacia una nueva concepción de la escultura: las figuras adquieren volumen, movimiento y una presencia física mucho más intensa que en la tradición medieval."
+      },
+      "curiosita": {
+        "it": [
+          "La Fonte Gaia fu chiamata così per la gioia dei cittadini davanti all'arrivo dell'acqua nella piazza.",
+          "I rilievi originali della fontana non sono più esposti all'aperto: furono sostituiti per proteggerli dal deterioramento.",
+          "Jacopo partecipò nel 1401 al concorso per la porta del Battistero di Firenze, al quale partecipò anche Lorenzo Ghiberti.",
+          "La sua opera a Bologna, nella Basilica di San Petronio, è considerata uno dei grandi capolavori della scultura rinascimentale."
+        ],
+        "en": [
+          "The Fonte Gaia was named for the citizens' joy at the arrival of water in the square.",
+          "The fountain's original reliefs are no longer displayed outdoors: they were replaced to protect them from deterioration.",
+          "In 1401 Jacopo took part in the competition for the door of the Baptistery of Florence, in which Lorenzo Ghiberti also competed.",
+          "His work in Bologna, in the Basilica of San Petronio, is considered one of the great masterpieces of Renaissance sculpture."
+        ],
+        "fr": [
+          "La Fonte Gaia fut ainsi nommée pour la joie des citoyens devant l'arrivée de l'eau sur la place.",
+          "Les reliefs originaux de la fontaine ne sont plus exposés en plein air : ils furent remplacés pour les protéger de la détérioration.",
+          "En 1401, Jacopo participa au concours pour la porte du baptistère de Florence, auquel participa aussi Lorenzo Ghiberti.",
+          "Son œuvre à Bologne, dans la basilique San Petronio, est considérée comme l'un des grands chefs-d'œuvre de la sculpture de la Renaissance."
+        ],
+        "de": [
+          "Die Fonte Gaia („Freudenbrunnen“) erhielt ihren Namen wegen der Freude der Bürger über die Ankunft des Wassers auf dem Platz.",
+          "Die originalen Reliefs des Brunnens sind nicht mehr im Freien zu sehen: Sie wurden ersetzt, um sie vor dem Verfall zu schützen.",
+          "1401 nahm Jacopo am Wettbewerb für die Tür des Baptisteriums von Florenz teil, an dem auch Lorenzo Ghiberti teilnahm.",
+          "Sein Werk in Bologna, in der Basilika San Petronio, gilt als eines der großen Meisterwerke der Renaissance-Skulptur."
+        ],
+        "es": [
+          "La Fonte Gaia recibió ese nombre por la alegría de los ciudadanos ante la llegada del agua a la plaza.",
+          "Los relieves originales de la fuente ya no se exponen al aire libre: fueron sustituidos para protegerlos del deterioro.",
+          "En 1401 Jacopo participó en el concurso para la puerta del Baptisterio de Florencia, en el que participó también Lorenzo Ghiberti.",
+          "Su obra en Bolonia, en la basílica de San Petronio, se considera una de las grandes obras maestras de la escultura renacentista."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo",
+        "santa-maria-della-scala",
+        "battistero-di-san-giovanni",
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Ospita la Fonte Gaia, il suo intervento più importante a Siena.",
+            "en": "It hosts the Fonte Gaia, his most important work in Siena.",
+            "fr": "Elle abrite la Fonte Gaia, son intervention la plus importante à Sienne.",
+            "de": "Hier steht die Fonte Gaia, sein wichtigstes Werk in Siena.",
+            "es": "Alberga la Fonte Gaia, su intervención más importante en Siena."
+          }
+        },
+        "santa-maria-della-scala": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Conserva i rilievi originali della Fonte Gaia.",
+            "en": "It keeps the original reliefs of the Fonte Gaia.",
+            "fr": "Il conserve les reliefs originaux de la Fonte Gaia.",
+            "de": "Hier werden die originalen Reliefs der Fonte Gaia aufbewahrt.",
+            "es": "Conserva los relieves originales de la Fonte Gaia."
+          }
+        },
+        "battistero-di-san-giovanni": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Conserva il fonte battesimale al quale contribuì con opere scultoree.",
+            "en": "It keeps the baptismal font to which he contributed sculptural works.",
+            "fr": "Il conserve les fonts baptismaux auxquels il contribua par des œuvres sculptées.",
+            "de": "Es bewahrt das Taufbecken, zu dem er Skulpturen beisteuerte.",
+            "es": "Conserva la pila bautismal a la que contribuyó con obras escultóricas."
+          }
+        },
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Permette di approfondire il contesto artistico e religioso nel quale operò.",
+            "en": "It helps explore the artistic and religious context in which he worked.",
+            "fr": "Il permet d'approfondir le contexte artistique et religieux dans lequel il œuvra.",
+            "de": "Er erlaubt es, den künstlerischen und religiösen Zusammenhang seines Wirkens zu vertiefen.",
+            "es": "Permite profundizar en el contexto artístico y religioso en el que trabajó."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "francesco-di-giorgio-martini",
+      "nome": "Francesco di Giorgio Martini",
+      "nascita": 1439,
+      "morte": 1501,
+      "professione": {
+        "it": "Artista, architetto e ingegnere",
+        "en": "Artist, architect and engineer",
+        "fr": "Artiste, architecte et ingénieur",
+        "de": "Künstler, Architekt und Ingenieur",
+        "es": "Artista, arquitecto e ingeniero"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "23 settembre 1439",
+        "en": "23 September 1439",
+        "fr": "23 septembre 1439",
+        "de": "23. September 1439",
+        "es": "23 de septiembre de 1439"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "29 novembre 1501",
+        "en": "29 November 1501",
+        "fr": "29 novembre 1501",
+        "de": "29. November 1501",
+        "es": "29 de noviembre de 1501"
+      },
+      "biografia": {
+        "it": "Francesco di Giorgio Martini fu uno dei più importanti artisti e ingegneri del Rinascimento italiano. Pittore, scultore, architetto e progettista militare, rappresenta perfettamente la figura dell'artista rinascimentale capace di unire conoscenze tecniche, artistiche e scientifiche.\n\nNacque a Siena e si formò nell'ambiente artistico cittadino, probabilmente anche attraverso il contatto con il pittore e scultore Vecchietta. La sua carriera iniziò con la pittura e la scultura, ma presto si dedicò anche all'architettura e alla progettazione di opere idrauliche e militari.\n\nA Siena ebbe un ruolo importante nella gestione dei Bottini, la complessa rete sotterranea di gallerie che portava l'acqua alle fonti cittadine. La conoscenza dell'acqua e del territorio si intrecciò con i suoi interessi per la meccanica e l'ingegneria.\n\nLa sua fama si diffuse soprattutto grazie alla progettazione di fortificazioni. Lavorò per importanti signorie italiane, in particolare per i Montefeltro di Urbino, progettando sistemi difensivi capaci di rispondere alle trasformazioni introdotte dalle armi da fuoco.\n\nIl suo Trattato di architettura civile e militare raccoglie disegni e riflessioni su edifici, macchine, fortificazioni e sistemi di difesa. È una delle testimonianze più importanti della cultura tecnica del Rinascimento.\n\nFrancesco di Giorgio fu anche un importante pittore e scultore. A Siena sono conservate diverse opere riconducibili alla sua attività, che permettono di comprendere la varietà dei suoi interessi.\n\nMorì nella città natale nel 1501, lasciando un'eredità importante nella storia dell'architettura e dell'ingegneria rinascimentale.",
+        "en": "Francesco di Giorgio Martini was one of the most important artists and engineers of the Italian Renaissance. Painter, sculptor, architect and military designer, he perfectly embodies the Renaissance artist able to combine technical, artistic and scientific knowledge.\n\nBorn in Siena, he trained in the city's artistic milieu, probably also through contact with the painter and sculptor Vecchietta. His career began with painting and sculpture, but he soon turned also to architecture and to designing hydraulic and military works.\n\nIn Siena he played an important part in managing the Bottini, the complex underground network of tunnels that brought water to the city's fountains. His knowledge of water and the land was intertwined with his interest in mechanics and engineering.\n\nHis fame spread above all through his design of fortifications. He worked for important Italian lordships, especially the Montefeltro of Urbino, designing defensive systems able to respond to the changes brought by firearms.\n\nHis Treatise on Civil and Military Architecture gathers drawings and reflections on buildings, machines, fortifications and defence systems. It is one of the most important testimonies of Renaissance technical culture.\n\nFrancesco di Giorgio was also an important painter and sculptor. Several works attributable to his activity are preserved in Siena, showing the variety of his interests.\n\nHe died in his native city in 1501, leaving an important legacy in the history of Renaissance architecture and engineering.",
+        "fr": "Francesco di Giorgio Martini fut l'un des plus importants artistes et ingénieurs de la Renaissance italienne. Peintre, sculpteur, architecte et concepteur militaire, il incarne parfaitement l'artiste de la Renaissance capable d'unir connaissances techniques, artistiques et scientifiques.\n\nNé à Sienne, il se forma dans le milieu artistique de la ville, probablement aussi au contact du peintre et sculpteur Vecchietta. Sa carrière commença par la peinture et la sculpture, mais il se consacra bientôt aussi à l'architecture et à la conception d'ouvrages hydrauliques et militaires.\n\nÀ Sienne, il joua un rôle important dans la gestion des Bottini, le complexe réseau souterrain de galeries qui amenait l'eau aux fontaines de la ville. La connaissance de l'eau et du territoire se mêla à ses intérêts pour la mécanique et l'ingénierie.\n\nSa renommée se répandit surtout grâce à la conception de fortifications. Il travailla pour d'importantes seigneuries italiennes, en particulier pour les Montefeltro d'Urbino, concevant des systèmes défensifs capables de répondre aux transformations introduites par les armes à feu.\n\nSon Traité d'architecture civile et militaire rassemble des dessins et des réflexions sur les édifices, les machines, les fortifications et les systèmes de défense. C'est l'un des témoignages les plus importants de la culture technique de la Renaissance.\n\nFrancesco di Giorgio fut aussi un important peintre et sculpteur. Plusieurs œuvres attribuables à son activité sont conservées à Sienne et permettent de comprendre la variété de ses intérêts.\n\nIl mourut dans sa ville natale en 1501, laissant un héritage important dans l'histoire de l'architecture et de l'ingénierie de la Renaissance.",
+        "de": "Francesco di Giorgio Martini war einer der bedeutendsten Künstler und Ingenieure der italienischen Renaissance. Als Maler, Bildhauer, Architekt und Militärplaner verkörpert er perfekt den Renaissancekünstler, der technisches, künstlerisches und wissenschaftliches Wissen verband.\n\nIn Siena geboren, bildete er sich im künstlerischen Umfeld der Stadt aus, wahrscheinlich auch durch den Kontakt mit dem Maler und Bildhauer Vecchietta. Seine Laufbahn begann mit Malerei und Bildhauerei, doch bald widmete er sich auch der Architektur und der Planung von Wasserbau- und Militärwerken.\n\nIn Siena spielte er eine wichtige Rolle bei der Verwaltung der Bottini, des komplexen unterirdischen Stollennetzes, das Wasser zu den Brunnen der Stadt brachte. Seine Kenntnis von Wasser und Gelände verband sich mit seinem Interesse für Mechanik und Ingenieurwesen.\n\nSein Ruhm verbreitete sich vor allem durch die Planung von Befestigungen. Er arbeitete für bedeutende italienische Herrschaften, besonders für die Montefeltro von Urbino, und entwarf Verteidigungssysteme, die auf die durch Feuerwaffen eingeführten Veränderungen reagierten.\n\nSein Traktat über die zivile und militärische Architektur versammelt Zeichnungen und Überlegungen zu Gebäuden, Maschinen, Befestigungen und Verteidigungssystemen. Es ist eines der wichtigsten Zeugnisse der technischen Kultur der Renaissance.\n\nFrancesco di Giorgio war auch ein bedeutender Maler und Bildhauer. In Siena sind mehrere Werke erhalten, die seiner Tätigkeit zugeschrieben werden und die Vielfalt seiner Interessen erkennen lassen.\n\nEr starb 1501 in seiner Heimatstadt und hinterließ ein bedeutendes Erbe in der Geschichte der Renaissance-Architektur und des Ingenieurwesens.",
+        "es": "Francesco di Giorgio Martini fue uno de los artistas e ingenieros más importantes del Renacimiento italiano. Pintor, escultor, arquitecto y proyectista militar, representa a la perfección la figura del artista renacentista capaz de unir conocimientos técnicos, artísticos y científicos.\n\nNació en Siena y se formó en el ambiente artístico de la ciudad, probablemente también en contacto con el pintor y escultor Vecchietta. Su carrera comenzó con la pintura y la escultura, pero pronto se dedicó también a la arquitectura y al diseño de obras hidráulicas y militares.\n\nEn Siena tuvo un papel importante en la gestión de los Bottini, la compleja red subterránea de galerías que llevaba el agua a las fuentes de la ciudad. El conocimiento del agua y del territorio se entrelazó con sus intereses por la mecánica y la ingeniería.\n\nSu fama se difundió sobre todo gracias al diseño de fortificaciones. Trabajó para importantes señoríos italianos, en particular para los Montefeltro de Urbino, proyectando sistemas defensivos capaces de responder a las transformaciones introducidas por las armas de fuego.\n\nSu Tratado de arquitectura civil y militar recoge dibujos y reflexiones sobre edificios, máquinas, fortificaciones y sistemas de defensa. Es uno de los testimonios más importantes de la cultura técnica del Renacimiento.\n\nFrancesco di Giorgio fue también un importante pintor y escultor. En Siena se conservan varias obras atribuibles a su actividad, que permiten comprender la variedad de sus intereses.\n\nMurió en su ciudad natal en 1501, dejando una herencia importante en la historia de la arquitectura y la ingeniería renacentistas."
+      },
+      "curiosita": {
+        "it": [
+          "Nei suoi manoscritti si trovano disegni di macchine, ponti, sistemi idraulici e dispositivi militari.",
+          "Studiò in modo approfondito le fortificazioni e il modo in cui l'artiglieria stava trasformando la guerra.",
+          "Il suo trattato è una fonte fondamentale per comprendere la tecnologia militare del Quattrocento.",
+          "Fu anche un importante progettista di sistemi idraulici, un'attività particolarmente significativa per una città collinare come Siena."
+        ],
+        "en": [
+          "His manuscripts contain drawings of machines, bridges, hydraulic systems and military devices.",
+          "He studied fortifications in depth, and how artillery was transforming warfare.",
+          "His treatise is a fundamental source for understanding fifteenth-century military technology.",
+          "He was also an important designer of hydraulic systems, an activity especially significant for a hill town like Siena."
+        ],
+        "fr": [
+          "Ses manuscrits contiennent des dessins de machines, de ponts, de systèmes hydrauliques et de dispositifs militaires.",
+          "Il étudia en profondeur les fortifications et la manière dont l'artillerie transformait la guerre.",
+          "Son traité est une source fondamentale pour comprendre la technologie militaire du XVe siècle.",
+          "Il fut aussi un important concepteur de systèmes hydrauliques, une activité particulièrement significative pour une ville de collines comme Sienne."
+        ],
+        "de": [
+          "In seinen Handschriften finden sich Zeichnungen von Maschinen, Brücken, Wassersystemen und Kriegsgeräten.",
+          "Er untersuchte eingehend Befestigungen und die Art, wie die Artillerie den Krieg veränderte.",
+          "Sein Traktat ist eine grundlegende Quelle für das Verständnis der Militärtechnik des 15. Jahrhunderts.",
+          "Er war auch ein bedeutender Planer von Wassersystemen, eine Tätigkeit, die für eine Hügelstadt wie Siena besonders wichtig war."
+        ],
+        "es": [
+          "En sus manuscritos hay dibujos de máquinas, puentes, sistemas hidráulicos y dispositivos militares.",
+          "Estudió a fondo las fortificaciones y el modo en que la artillería transformaba la guerra.",
+          "Su tratado es una fuente fundamental para comprender la tecnología militar del siglo XV.",
+          "Fue también un importante proyectista de sistemas hidráulicos, una actividad especialmente significativa para una ciudad de colinas como Siena."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta",
+        "palazzo-pubblico-museo-civico"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Conserva testimonianze artistiche del Rinascimento senese nel quale si inserisce la sua produzione.",
+            "en": "It keeps artistic testimonies of the Sienese Renaissance in which his work belongs.",
+            "fr": "Il conserve des témoignages artistiques de la Renaissance siennoise dans laquelle s'inscrit sa production.",
+            "de": "Er bewahrt künstlerische Zeugnisse der sienesischen Renaissance, in die sich sein Schaffen einfügt.",
+            "es": "Conserva testimonios artísticos del Renacimiento sienés en el que se inserta su producción."
+          }
+        },
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "È il centro istituzionale della città nella quale svolse parte della propria attività tecnica e artistica.",
+            "en": "It is the institutional centre of the city in which he carried out part of his technical and artistic work.",
+            "fr": "C'est le centre institutionnel de la ville dans laquelle il mena une partie de son activité technique et artistique.",
+            "de": "Er ist das institutionelle Zentrum der Stadt, in der er einen Teil seiner technischen und künstlerischen Tätigkeit ausübte.",
+            "es": "Es el centro institucional de la ciudad en la que desarrolló parte de su actividad técnica y artística."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "matteo-di-giovanni",
+      "nome": "Matteo di Giovanni",
+      "nascita": 1425,
+      "morte": 1495,
+      "professione": {
+        "it": "Pittore",
+        "en": "Painter",
+        "fr": "Peintre",
+        "de": "Maler",
+        "es": "Pintor"
+      },
+      "luogoNascita": {
+        "it": "Borgo San Sepolcro, oggi Sansepolcro",
+        "en": "Borgo San Sepolcro, now Sansepolcro",
+        "fr": "Borgo San Sepolcro, aujourd'hui Sansepolcro",
+        "de": "Borgo San Sepolcro, heute Sansepolcro",
+        "es": "Borgo San Sepolcro, hoy Sansepolcro"
+      },
+      "dataNascita": {
+        "it": "Tra il 1425 e il 1430 circa",
+        "en": "c. 1425–1430",
+        "fr": "Vers 1425–1430",
+        "de": "Um 1425–1430",
+        "es": "Hacia 1425–1430"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "1495",
+        "en": "1495",
+        "fr": "1495",
+        "de": "1495",
+        "es": "1495"
+      },
+      "biografia": {
+        "it": "Matteo di Giovanni fu uno dei principali pittori della Siena del Quattrocento. Nacque a Borgo San Sepolcro, ma si trasferì molto presto a Siena, dove si formò e svolse la parte più importante della propria carriera.\n\nLa sua formazione si sviluppò nell'ambiente artistico senese, probabilmente nella bottega del Vecchietta. La sua pittura mostra inizialmente una forte attenzione alla tradizione locale, ma nel corso del tempo si arricchì di elementi provenienti dalla cultura figurativa fiorentina.\n\nLa sua produzione comprende numerose pale d'altare, immagini della Madonna e opere destinate alle chiese della città e del territorio. Tra i suoi dipinti più conosciuti vi sono le diverse versioni della Strage degli Innocenti, nelle quali la drammaticità della scena viene rappresentata con una notevole intensità emotiva.\n\nUno degli interventi più importanti è il disegno per la tarsia della Strage degli Innocenti nel pavimento del Duomo di Siena, realizzata nel 1481. Il pavimento della cattedrale è un progetto collettivo sviluppato nel corso di molti decenni e Matteo contribuì a una delle sue scene più celebri.\n\nLa sua pittura si distingue per l'eleganza del disegno, la ricchezza cromatica e la capacità di combinare la tradizione senese con le nuove ricerche rinascimentali.\n\nMatteo fu attivo anche fuori Siena, ma la città rimase il principale centro della sua attività. Morì nel 1495, lasciando un'importante eredità nella pittura locale.",
+        "en": "Matteo di Giovanni was one of the main painters of fifteenth-century Siena. He was born in Borgo San Sepolcro but moved very early to Siena, where he trained and carried out the most important part of his career.\n\nHis training took place in the Sienese artistic milieu, probably in Vecchietta's workshop. His painting at first shows strong attention to local tradition, but over time it was enriched with elements from Florentine figurative culture.\n\nHis output includes many altarpieces, images of the Madonna and works for the churches of the city and its territory. Among his best-known paintings are the various versions of the Massacre of the Innocents, in which the drama of the scene is rendered with remarkable emotional intensity.\n\nOne of his most important contributions is the design for the Massacre of the Innocents inlay in the pavement of Siena Cathedral, made in 1481. The cathedral pavement is a collective project developed over many decades, and Matteo contributed to one of its most famous scenes.\n\nHis painting stands out for the elegance of its drawing, the richness of its colour and its ability to combine the Sienese tradition with the new Renaissance research.\n\nMatteo was also active outside Siena, but the city remained the main centre of his activity. He died in 1495, leaving an important legacy in local painting.",
+        "fr": "Matteo di Giovanni fut l'un des principaux peintres de la Sienne du XVe siècle. Il naquit à Borgo San Sepolcro, mais s'installa très tôt à Sienne, où il se forma et mena la partie la plus importante de sa carrière.\n\nSa formation se déroula dans le milieu artistique siennois, probablement dans l'atelier de Vecchietta. Sa peinture montre d'abord une forte attention à la tradition locale, mais s'enrichit avec le temps d'éléments issus de la culture figurative florentine.\n\nSa production comprend de nombreux retables, des images de la Vierge et des œuvres destinées aux églises de la ville et du territoire. Parmi ses tableaux les plus connus figurent les diverses versions du Massacre des Innocents, où le caractère dramatique de la scène est rendu avec une remarquable intensité émotionnelle.\n\nL'une de ses interventions les plus importantes est le dessin pour l'incrustation du Massacre des Innocents dans le pavement du Duomo de Sienne, réalisée en 1481. Le pavement de la cathédrale est un projet collectif développé sur de nombreuses décennies, et Matteo contribua à l'une de ses scènes les plus célèbres.\n\nSa peinture se distingue par l'élégance du dessin, la richesse chromatique et la capacité à combiner la tradition siennoise avec les nouvelles recherches de la Renaissance.\n\nMatteo fut actif aussi hors de Sienne, mais la ville resta le principal centre de son activité. Il mourut en 1495, laissant un héritage important dans la peinture locale.",
+        "de": "Matteo di Giovanni war einer der wichtigsten Maler des Siena des 15. Jahrhunderts. Er wurde in Borgo San Sepolcro geboren, zog aber sehr früh nach Siena, wo er sich ausbildete und den wichtigsten Teil seiner Laufbahn verbrachte.\n\nSeine Ausbildung vollzog sich im sienesischen Künstlermilieu, wahrscheinlich in der Werkstatt des Vecchietta. Seine Malerei zeigt anfangs starke Aufmerksamkeit für die lokale Tradition, wurde aber im Lauf der Zeit um Elemente der florentinischen Bildkultur bereichert.\n\nSein Werk umfasst zahlreiche Altarbilder, Madonnenbilder und Arbeiten für die Kirchen der Stadt und des Umlands. Zu seinen bekanntesten Gemälden gehören die verschiedenen Fassungen des Kindermords von Bethlehem, in denen die Dramatik der Szene mit bemerkenswerter emotionaler Intensität dargestellt ist.\n\nEine seiner wichtigsten Arbeiten ist der Entwurf für die Intarsie des Kindermords im Fußboden des Doms von Siena, 1481 ausgeführt. Der Domfußboden ist ein Gemeinschaftsprojekt, das sich über viele Jahrzehnte entwickelte, und Matteo trug zu einer seiner berühmtesten Szenen bei.\n\nSeine Malerei zeichnet sich durch die Eleganz der Zeichnung, den Farbenreichtum und die Fähigkeit aus, die sienesische Tradition mit den neuen Forschungen der Renaissance zu verbinden.\n\nMatteo war auch außerhalb Sienas tätig, doch die Stadt blieb das Hauptzentrum seines Wirkens. Er starb 1495 und hinterließ ein bedeutendes Erbe in der lokalen Malerei.",
+        "es": "Matteo di Giovanni fue uno de los principales pintores de la Siena del siglo XV. Nació en Borgo San Sepolcro, pero se trasladó muy pronto a Siena, donde se formó y desarrolló la parte más importante de su carrera.\n\nSu formación se desarrolló en el ambiente artístico sienés, probablemente en el taller de Vecchietta. Su pintura muestra al principio una fuerte atención a la tradición local, pero con el tiempo se enriqueció con elementos procedentes de la cultura figurativa florentina.\n\nSu producción comprende numerosos retablos, imágenes de la Virgen y obras destinadas a las iglesias de la ciudad y del territorio. Entre sus pinturas más conocidas están las diversas versiones de la Matanza de los Inocentes, en las que el dramatismo de la escena se representa con una notable intensidad emotiva.\n\nUna de sus intervenciones más importantes es el dibujo para la taracea de la Matanza de los Inocentes en el pavimento del Duomo de Siena, realizada en 1481. El pavimento de la catedral es un proyecto colectivo desarrollado a lo largo de muchas décadas, y Matteo contribuyó a una de sus escenas más célebres.\n\nSu pintura se distingue por la elegancia del dibujo, la riqueza cromática y la capacidad de combinar la tradición sienesa con las nuevas investigaciones renacentistas.\n\nMatteo fue activo también fuera de Siena, pero la ciudad siguió siendo el principal centro de su actividad. Murió en 1495, dejando una importante herencia en la pintura local."
+      },
+      "curiosita": {
+        "it": [
+          "Nacque a Borgo San Sepolcro, ma è conosciuto soprattutto come pittore senese perché si formò e lavorò a Siena.",
+          "Le sue rappresentazioni della Strage degli Innocenti sono particolarmente drammatiche e intense.",
+          "Il suo contributo al pavimento del Duomo è una delle testimonianze più importanti della decorazione rinascimentale della cattedrale.",
+          "La sua pittura rappresenta un punto di incontro tra la tradizione senese e le novità artistiche provenienti da Firenze."
+        ],
+        "en": [
+          "He was born in Borgo San Sepolcro but is known above all as a Sienese painter because he trained and worked in Siena.",
+          "His depictions of the Massacre of the Innocents are especially dramatic and intense.",
+          "His contribution to the Duomo pavement is one of the most important testimonies of the cathedral's Renaissance decoration.",
+          "His painting is a meeting point between the Sienese tradition and the artistic novelties coming from Florence."
+        ],
+        "fr": [
+          "Il naquit à Borgo San Sepolcro, mais il est connu surtout comme peintre siennois car il se forma et travailla à Sienne.",
+          "Ses représentations du Massacre des Innocents sont particulièrement dramatiques et intenses.",
+          "Sa contribution au pavement du Duomo est l'un des témoignages les plus importants de la décoration de la cathédrale à la Renaissance.",
+          "Sa peinture représente un point de rencontre entre la tradition siennoise et les nouveautés artistiques venues de Florence."
+        ],
+        "de": [
+          "Er wurde in Borgo San Sepolcro geboren, ist aber vor allem als sienesischer Maler bekannt, weil er in Siena ausgebildet wurde und arbeitete.",
+          "Seine Darstellungen des Kindermords von Bethlehem sind besonders dramatisch und intensiv.",
+          "Sein Beitrag zum Fußboden des Doms ist eines der wichtigsten Zeugnisse der Renaissance-Ausschmückung der Kathedrale.",
+          "Seine Malerei ist ein Treffpunkt zwischen der sienesischen Tradition und den künstlerischen Neuerungen aus Florenz."
+        ],
+        "es": [
+          "Nació en Borgo San Sepolcro, pero es conocido sobre todo como pintor sienés porque se formó y trabajó en Siena.",
+          "Sus representaciones de la Matanza de los Inocentes son especialmente dramáticas e intensas.",
+          "Su contribución al pavimento del Duomo es uno de los testimonios más importantes de la decoración renacentista de la catedral.",
+          "Su pintura representa un punto de encuentro entre la tradición sienesa y las novedades artísticas procedentes de Florencia."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Conserva la tarsia della Strage degli Innocenti, legata al suo progetto.",
+            "en": "It keeps the Massacre of the Innocents inlay, linked to his design.",
+            "fr": "Il conserve l'incrustation du Massacre des Innocents, liée à son projet.",
+            "de": "Er bewahrt die Intarsie des Kindermords, die auf seinen Entwurf zurückgeht.",
+            "es": "Conserva la taracea de la Matanza de los Inocentes, ligada a su proyecto."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "pinturicchio",
+      "nome": "Pinturicchio",
+      "nascita": 1454,
+      "morte": 1513,
+      "professione": {
+        "it": "Pittore",
+        "en": "Painter",
+        "fr": "Peintre",
+        "de": "Maler",
+        "es": "Pintor"
+      },
+      "luogoNascita": {
+        "it": "Perugia",
+        "en": "Perugia",
+        "fr": "Pérouse",
+        "de": "Perugia",
+        "es": "Perugia"
+      },
+      "dataNascita": {
+        "it": "1454",
+        "en": "1454",
+        "fr": "1454",
+        "de": "1454",
+        "es": "1454"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "11 dicembre 1513",
+        "en": "11 December 1513",
+        "fr": "11 décembre 1513",
+        "de": "11. Dezember 1513",
+        "es": "11 de diciembre de 1513"
+      },
+      "biografia": {
+        "it": "Pinturicchio fu uno dei principali pittori umbri del Rinascimento. Nato a Perugia, si formò nell'ambiente artistico della città e collaborò con Pietro Perugino, partecipando anche alla decorazione della Cappella Sistina a Roma.\n\nLa sua pittura si distingue per l'attenzione ai dettagli, la ricchezza decorativa, i colori luminosi e la capacità di costruire ambienti ricchi di particolari architettonici e paesaggistici.\n\nIl rapporto con Siena iniziò grazie alla famiglia Piccolomini. Nel 1502 il cardinale Francesco Todeschini Piccolomini gli commissionò la decorazione della Libreria Piccolomini, un ambiente del Duomo destinato a celebrare la memoria dello zio Enea Silvio Piccolomini, papa Pio II.\n\nIl ciclo di affreschi, realizzato soprattutto tra il 1505 e il 1507, racconta episodi della vita di Pio II: dalla giovinezza agli incarichi diplomatici, fino all'elezione pontificia e agli eventi del suo pontificato.\n\nLa decorazione è uno dei più importanti esempi di pittura rinascimentale a Siena. Le scene sono caratterizzate da architetture monumentali, colori brillanti, abiti preziosi e una grande attenzione alla rappresentazione dei personaggi.\n\nPinturicchio lavorò anche alla decorazione della Cappella di San Giovanni Battista nel Duomo e partecipò alla decorazione di alcuni ambienti del Palazzo di Pandolfo Petrucci.\n\nLa sua attività senese fu quindi legata sia alla committenza ecclesiastica sia a quella politica e aristocratica. Morì a Siena nel 1513, dove è sepolto nella chiesa dei Santi Vincenzo e Anastasio.",
+        "en": "Pinturicchio was one of the main Umbrian painters of the Renaissance. Born in Perugia, he trained in the city's artistic milieu and worked with Pietro Perugino, also taking part in the decoration of the Sistine Chapel in Rome.\n\nHis painting stands out for its attention to detail, decorative richness, luminous colours and ability to build settings full of architectural and landscape details.\n\nHis relationship with Siena began thanks to the Piccolomini family. In 1502 Cardinal Francesco Todeschini Piccolomini commissioned him to decorate the Piccolomini Library, a room in the Duomo meant to celebrate the memory of his uncle Enea Silvio Piccolomini, Pope Pius II.\n\nThe fresco cycle, painted mainly between 1505 and 1507, tells episodes from the life of Pius II: from his youth to his diplomatic missions, up to his election as pope and the events of his pontificate.\n\nThe decoration is one of the most important examples of Renaissance painting in Siena. The scenes are marked by monumental architecture, brilliant colours, precious clothing and great attention to the portrayal of the figures.\n\nPinturicchio also worked on the decoration of the Chapel of Saint John the Baptist in the Duomo and took part in decorating some rooms of the Palazzo of Pandolfo Petrucci.\n\nHis Sienese activity was thus tied both to church patronage and to political and aristocratic patronage. He died in Siena in 1513, where he is buried in the church of Santi Vincenzo e Anastasio.",
+        "fr": "Pinturicchio fut l'un des principaux peintres ombriens de la Renaissance. Né à Pérouse, il se forma dans le milieu artistique de la ville et collabora avec Pietro Perugino, participant aussi à la décoration de la chapelle Sixtine à Rome.\n\nSa peinture se distingue par l'attention aux détails, la richesse décorative, les couleurs lumineuses et la capacité à construire des décors riches en détails architecturaux et paysagers.\n\nSon rapport avec Sienne commença grâce à la famille Piccolomini. En 1502, le cardinal Francesco Todeschini Piccolomini lui commanda la décoration de la Libreria Piccolomini, une salle du Duomo destinée à célébrer la mémoire de son oncle Enea Silvio Piccolomini, le pape Pie II.\n\nLe cycle de fresques, réalisé surtout entre 1505 et 1507, raconte des épisodes de la vie de Pie II : de sa jeunesse à ses missions diplomatiques, jusqu'à l'élection pontificale et aux événements de son pontificat.\n\nLa décoration est l'un des plus importants exemples de peinture de la Renaissance à Sienne. Les scènes se caractérisent par des architectures monumentales, des couleurs brillantes, des vêtements précieux et une grande attention à la représentation des personnages.\n\nPinturicchio travailla aussi à la décoration de la chapelle Saint-Jean-Baptiste au Duomo et participa à la décoration de certaines salles du palais de Pandolfo Petrucci.\n\nSon activité siennoise fut ainsi liée à la fois à la commande ecclésiastique et à la commande politique et aristocratique. Il mourut à Sienne en 1513, où il est enterré dans l'église des Santi Vincenzo e Anastasio.",
+        "de": "Pinturicchio war einer der wichtigsten umbrischen Maler der Renaissance. In Perugia geboren, bildete er sich im künstlerischen Umfeld der Stadt aus und arbeitete mit Pietro Perugino zusammen, auch an der Ausschmückung der Sixtinischen Kapelle in Rom.\n\nSeine Malerei zeichnet sich durch Liebe zum Detail, dekorativen Reichtum, leuchtende Farben und die Fähigkeit aus, Räume voller architektonischer und landschaftlicher Einzelheiten zu gestalten.\n\nDie Beziehung zu Siena begann dank der Familie Piccolomini. 1502 beauftragte ihn Kardinal Francesco Todeschini Piccolomini mit der Ausmalung der Libreria Piccolomini, eines Raumes im Dom, der dem Andenken seines Onkels Enea Silvio Piccolomini, Papst Pius II., gewidmet sein sollte.\n\nDer Freskenzyklus, vor allem zwischen 1505 und 1507 entstanden, erzählt Episoden aus dem Leben Pius' II.: von der Jugend über die diplomatischen Aufgaben bis zur Papstwahl und den Ereignissen seines Pontifikats.\n\nDie Ausschmückung ist eines der wichtigsten Beispiele der Renaissancemalerei in Siena. Die Szenen zeichnen sich durch monumentale Architektur, leuchtende Farben, kostbare Gewänder und große Aufmerksamkeit für die Darstellung der Figuren aus.\n\nPinturicchio arbeitete auch an der Ausschmückung der Kapelle des heiligen Johannes des Täufers im Dom und beteiligte sich an der Ausmalung einiger Räume im Palast des Pandolfo Petrucci.\n\nSeine sienesische Tätigkeit war also sowohl mit kirchlichen als auch mit politischen und aristokratischen Aufträgen verbunden. Er starb 1513 in Siena, wo er in der Kirche Santi Vincenzo e Anastasio begraben ist.",
+        "es": "Pinturicchio fue uno de los principales pintores umbros del Renacimiento. Nacido en Perugia, se formó en el ambiente artístico de la ciudad y colaboró con Pietro Perugino, participando también en la decoración de la Capilla Sixtina en Roma.\n\nSu pintura se distingue por la atención al detalle, la riqueza decorativa, los colores luminosos y la capacidad de construir ambientes ricos en detalles arquitectónicos y paisajísticos.\n\nLa relación con Siena comenzó gracias a la familia Piccolomini. En 1502 el cardenal Francesco Todeschini Piccolomini le encargó la decoración de la Libreria Piccolomini, un ambiente del Duomo destinado a celebrar la memoria de su tío Enea Silvio Piccolomini, el papa Pío II.\n\nEl ciclo de frescos, realizado sobre todo entre 1505 y 1507, narra episodios de la vida de Pío II: de la juventud a los encargos diplomáticos, hasta la elección pontificia y los acontecimientos de su pontificado.\n\nLa decoración es uno de los ejemplos más importantes de pintura renacentista en Siena. Las escenas se caracterizan por arquitecturas monumentales, colores brillantes, trajes preciosos y gran atención a la representación de los personajes.\n\nPinturicchio trabajó también en la decoración de la Capilla de San Juan Bautista en el Duomo y participó en la decoración de algunas estancias del palacio de Pandolfo Petrucci.\n\nSu actividad sienesa estuvo, pues, ligada tanto al mecenazgo eclesiástico como al político y aristocrático. Murió en Siena en 1513, donde está sepultado en la iglesia de los Santi Vincenzo e Anastasio."
+      },
+      "curiosita": {
+        "it": [
+          "Il soprannome Pinturicchio deriva probabilmente dalla sua corporatura minuta.",
+          "La Libreria Piccolomini è uno dei pochi ambienti rinascimentali nei quali è possibile osservare un ciclo narrativo così ampio dedicato alla vita di un pontefice.",
+          "La decorazione comprende anche un ritratto di Enea Silvio Piccolomini incoronato poeta dall'imperatore Federico III.",
+          "L'artista lavorò a lungo con collaboratori e assistenti, ma la sua personalità emerge chiaramente nella ricchezza decorativa delle scene."
+        ],
+        "en": [
+          "The nickname Pinturicchio probably comes from his small build.",
+          "The Piccolomini Library is one of the few Renaissance rooms where one can see such a wide narrative cycle devoted to the life of a pope.",
+          "The decoration also includes a portrait of Enea Silvio Piccolomini crowned poet by Emperor Frederick III.",
+          "The artist worked for a long time with collaborators and assistants, but his personality emerges clearly in the decorative richness of the scenes."
+        ],
+        "fr": [
+          "Le surnom Pinturicchio vient probablement de sa corpulence menue.",
+          "La Libreria Piccolomini est l'un des rares espaces de la Renaissance où l'on peut observer un cycle narratif aussi vaste consacré à la vie d'un pontife.",
+          "La décoration comprend aussi un portrait d'Enea Silvio Piccolomini couronné poète par l'empereur Frédéric III.",
+          "L'artiste travailla longtemps avec des collaborateurs et des assistants, mais sa personnalité ressort clairement dans la richesse décorative des scènes."
+        ],
+        "de": [
+          "Der Spitzname Pinturicchio stammt wahrscheinlich von seiner kleinen Statur.",
+          "Die Libreria Piccolomini ist einer der wenigen Renaissanceräume, in denen man einen so umfangreichen Erzählzyklus über das Leben eines Papstes sehen kann.",
+          "Zur Ausschmückung gehört auch ein Bildnis des Enea Silvio Piccolomini, von Kaiser Friedrich III. zum Dichter gekrönt.",
+          "Der Künstler arbeitete lange mit Mitarbeitern und Gehilfen, doch seine Persönlichkeit zeigt sich deutlich im dekorativen Reichtum der Szenen."
+        ],
+        "es": [
+          "El apodo Pinturicchio deriva probablemente de su constitución menuda.",
+          "La Libreria Piccolomini es uno de los pocos ambientes renacentistas en los que se puede observar un ciclo narrativo tan amplio dedicado a la vida de un pontífice.",
+          "La decoración incluye también un retrato de Enea Silvio Piccolomini coronado poeta por el emperador Federico III.",
+          "El artista trabajó mucho tiempo con colaboradores y ayudantes, pero su personalidad emerge con claridad en la riqueza decorativa de las escenas."
+        ]
+      },
+      "luoghi": [
+        "libreria-piccolomini",
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "libreria-piccolomini": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Conserva il suo ciclo di affreschi più importante a Siena.",
+            "en": "It keeps his most important fresco cycle in Siena.",
+            "fr": "Elle conserve son plus important cycle de fresques à Sienne.",
+            "de": "Hier befindet sich sein wichtigster Freskenzyklus in Siena.",
+            "es": "Conserva su ciclo de frescos más importante en Siena."
+          }
+        },
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Ospita anche gli affreschi della Cappella di San Giovanni Battista.",
+            "en": "It also houses the frescoes of the Chapel of Saint John the Baptist.",
+            "fr": "Il abrite aussi les fresques de la chapelle Saint-Jean-Baptiste.",
+            "de": "Er beherbergt auch die Fresken der Kapelle des heiligen Johannes des Täufers.",
+            "es": "Alberga también los frescos de la Capilla de San Juan Bautista."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "pio-ii",
+          "testo": {
+            "it": "La Libreria Piccolomini celebra la vita del pontefice attraverso gli affreschi realizzati da Pinturicchio.",
+            "en": "The Piccolomini Library celebrates the pontiff's life through the frescoes painted by Pinturicchio.",
+            "fr": "La Libreria Piccolomini célèbre la vie du pontife à travers les fresques réalisées par Pinturicchio.",
+            "de": "Die Libreria Piccolomini feiert das Leben des Papstes durch die von Pinturicchio geschaffenen Fresken.",
+            "es": "La Libreria Piccolomini celebra la vida del pontífice a través de los frescos realizados por Pinturicchio."
+          }
+        },
+        {
+          "id": "pandolfo-petrucci",
+          "testo": {
+            "it": "Fu uno dei suoi committenti a Siena. L'artista partecipò alla decorazione di ambienti del palazzo della famiglia Petrucci.",
+            "en": "He was one of his patrons in Siena. The artist took part in decorating rooms of the Petrucci family palace.",
+            "fr": "Il fut l'un de ses commanditaires à Sienne. L'artiste participa à la décoration de salles du palais de la famille Petrucci.",
+            "de": "Er war einer seiner Auftraggeber in Siena. Der Künstler beteiligte sich an der Ausschmückung von Räumen im Palast der Familie Petrucci.",
+            "es": "Fue uno de sus comitentes en Siena. El artista participó en la decoración de estancias del palacio de la familia Petrucci."
+          }
+        }
+      ]
+    },
+    {
+      "id": "domenico-beccafumi",
+      "nome": "Domenico Beccafumi",
+      "nascita": 1486,
+      "morte": 1551,
+      "professione": {
+        "it": "Pittore, scultore e disegnatore",
+        "en": "Painter, sculptor and draughtsman",
+        "fr": "Peintre, sculpteur et dessinateur",
+        "de": "Maler, Bildhauer und Zeichner",
+        "es": "Pintor, escultor y dibujante"
+      },
+      "luogoNascita": {
+        "it": "Presso Montaperti, nel territorio senese",
+        "en": "Near Montaperti, in the Sienese territory",
+        "fr": "Près de Montaperti, dans le territoire siennois",
+        "de": "Bei Montaperti im sienesischen Gebiet",
+        "es": "Cerca de Montaperti, en el territorio sienés"
+      },
+      "dataNascita": {
+        "it": "1486 circa",
+        "en": "c. 1486",
+        "fr": "vers 1486",
+        "de": "um 1486",
+        "es": "hacia 1486"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "18 maggio 1551",
+        "en": "18 May 1551",
+        "fr": "18 mai 1551",
+        "de": "18. Mai 1551",
+        "es": "18 de mayo de 1551"
+      },
+      "biografia": {
+        "it": "Domenico Beccafumi è uno dei principali pittori del Rinascimento senese e uno dei protagonisti della Maniera italiana. Nato in una famiglia contadina nei pressi di Montaperti, mostrò fin da giovane una particolare predisposizione per il disegno e la pittura.\n\nSecondo la tradizione biografica, fu notato dal proprietario del podere sul quale lavorava il padre, Lorenzo Beccafumi, che lo accolse e gli permise di studiare arte. Da lui avrebbe poi preso il cognome con cui è conosciuto.\n\nDopo un primo periodo di formazione, Beccafumi si recò a Roma per studiare le opere dei grandi maestri del Rinascimento. Tornato a Siena intorno al 1512, iniziò una carriera che lo avrebbe portato a diventare uno degli artisti più richiesti della città.\n\nLa sua pittura si distingue per l'uso particolare della luce, per le figure allungate e per le composizioni spesso caratterizzate da una forte tensione spirituale. La sua ricerca artistica si allontana progressivamente dall'equilibrio classico del primo Rinascimento, avvicinandosi a una sensibilità più inquieta e dinamica.\n\nTra le sue opere più importanti si ricordano gli affreschi della Sala del Concistoro nel Palazzo Pubblico, le decorazioni dell'Oratorio di San Bernardino e numerosi dipinti conservati nella Pinacoteca Nazionale.\n\nUn altro progetto fondamentale fu il pavimento marmoreo del Duomo di Siena, al quale lavorò per diversi anni. Il suo contributo comprende alcune delle tarsie più complesse e suggestive, tra cui le scene con Elia e Achab e la Caduta degli angeli ribelli.\n\nBeccafumi lavorò anche alla realizzazione di angeli portacandelabro in bronzo per la Cattedrale, dimostrando una notevole versatilità tecnica.\n\nMorì a Siena nel 1551, pochi anni prima della caduta definitiva della Repubblica. La sua opera rappresenta uno degli ultimi grandi momenti della tradizione artistica senese indipendente.",
+        "en": "Domenico Beccafumi is one of the main painters of the Sienese Renaissance and one of the leading figures of Italian Mannerism. Born into a peasant family near Montaperti, he showed from a young age a special gift for drawing and painting.\n\nAccording to biographical tradition, he was noticed by the owner of the farm where his father worked, Lorenzo Beccafumi, who took him in and let him study art. From him he is said to have taken the surname by which he is known.\n\nAfter an early period of training, Beccafumi went to Rome to study the works of the great Renaissance masters. Back in Siena around 1512, he began a career that would make him one of the city's most sought-after artists.\n\nHis painting stands out for its particular use of light, elongated figures and compositions often marked by strong spiritual tension. His artistic research gradually moves away from the classical balance of the early Renaissance towards a more restless and dynamic sensibility.\n\nAmong his most important works are the frescoes of the Sala del Concistoro in the Palazzo Pubblico, the decorations of the Oratory of San Bernardino and many paintings kept in the Pinacoteca Nazionale.\n\nAnother fundamental project was the marble pavement of Siena Cathedral, on which he worked for several years. His contribution includes some of the most complex and evocative inlays, including the scenes of Elijah and Ahab and the Fall of the Rebel Angels.\n\nBeccafumi also made bronze candelabra-bearing angels for the Cathedral, showing remarkable technical versatility.\n\nHe died in Siena in 1551, a few years before the final fall of the Republic. His work represents one of the last great moments of the independent Sienese artistic tradition.",
+        "fr": "Domenico Beccafumi est l'un des principaux peintres de la Renaissance siennoise et l'un des protagonistes du maniérisme italien. Né dans une famille paysanne près de Montaperti, il montra dès son jeune âge une disposition particulière pour le dessin et la peinture.\n\nSelon la tradition biographique, il fut remarqué par le propriétaire de la ferme où travaillait son père, Lorenzo Beccafumi, qui l'accueillit et lui permit d'étudier l'art. Il en aurait tiré le nom sous lequel il est connu.\n\nAprès une première période de formation, Beccafumi se rendit à Rome pour étudier les œuvres des grands maîtres de la Renaissance. De retour à Sienne vers 1512, il commença une carrière qui ferait de lui l'un des artistes les plus demandés de la ville.\n\nSa peinture se distingue par un usage particulier de la lumière, des figures allongées et des compositions souvent marquées par une forte tension spirituelle. Sa recherche artistique s'éloigne progressivement de l'équilibre classique de la première Renaissance pour se rapprocher d'une sensibilité plus inquiète et dynamique.\n\nParmi ses œuvres les plus importantes, on retient les fresques de la Sala del Concistoro au Palazzo Pubblico, les décorations de l'Oratoire de San Bernardino et de nombreux tableaux conservés à la Pinacoteca Nazionale.\n\nUn autre projet fondamental fut le pavement de marbre du Duomo de Sienne, auquel il travailla plusieurs années. Sa contribution comprend certaines des incrustations les plus complexes et suggestives, dont les scènes d'Élie et Achab et la Chute des anges rebelles.\n\nBeccafumi réalisa aussi des anges porte-candélabres en bronze pour la cathédrale, faisant preuve d'une remarquable polyvalence technique.\n\nIl mourut à Sienne en 1551, quelques années avant la chute définitive de la République. Son œuvre représente l'un des derniers grands moments de la tradition artistique siennoise indépendante.",
+        "de": "Domenico Beccafumi ist einer der wichtigsten Maler der sienesischen Renaissance und einer der Hauptvertreter des italienischen Manierismus. In einer Bauernfamilie bei Montaperti geboren, zeigte er schon früh eine besondere Begabung für Zeichnung und Malerei.\n\nNach der biografischen Überlieferung fiel er dem Besitzer des Gutes auf, auf dem sein Vater arbeitete, Lorenzo Beccafumi, der ihn aufnahm und ihm das Kunststudium ermöglichte. Von ihm soll er den Namen übernommen haben, unter dem er bekannt ist.\n\nNach einer ersten Ausbildungszeit ging Beccafumi nach Rom, um die Werke der großen Meister der Renaissance zu studieren. Um 1512 kehrte er nach Siena zurück und begann eine Laufbahn, die ihn zu einem der gefragtesten Künstler der Stadt machen sollte.\n\nSeine Malerei zeichnet sich durch einen besonderen Umgang mit Licht, gelängte Figuren und Kompositionen aus, die oft von starker geistiger Spannung geprägt sind. Seine künstlerische Suche entfernt sich zunehmend vom klassischen Gleichgewicht der frühen Renaissance und nähert sich einer unruhigeren, dynamischeren Empfindung.\n\nZu seinen wichtigsten Werken zählen die Fresken der Sala del Concistoro im Palazzo Pubblico, die Ausschmückung des Oratoriums von San Bernardino und zahlreiche Gemälde in der Pinacoteca Nazionale.\n\nEin weiteres grundlegendes Projekt war der Marmorfußboden des Doms von Siena, an dem er mehrere Jahre arbeitete. Sein Beitrag umfasst einige der komplexesten und eindrucksvollsten Intarsien, darunter die Szenen mit Elija und Ahab und den Sturz der rebellischen Engel.\n\nBeccafumi schuf auch bronzene Leuchterengel für die Kathedrale und bewies damit bemerkenswerte technische Vielseitigkeit.\n\nEr starb 1551 in Siena, wenige Jahre vor dem endgültigen Fall der Republik. Sein Werk ist einer der letzten großen Momente der unabhängigen sienesischen Kunsttradition.",
+        "es": "Domenico Beccafumi es uno de los principales pintores del Renacimiento sienés y uno de los protagonistas del Manierismo italiano. Nacido en una familia campesina cerca de Montaperti, mostró desde joven una especial predisposición para el dibujo y la pintura.\n\nSegún la tradición biográfica, fue notado por el dueño de la finca en la que trabajaba su padre, Lorenzo Beccafumi, que lo acogió y le permitió estudiar arte. De él habría tomado el apellido con el que es conocido.\n\nTras un primer período de formación, Beccafumi viajó a Roma para estudiar las obras de los grandes maestros del Renacimiento. De regreso en Siena hacia 1512, inició una carrera que lo llevaría a ser uno de los artistas más solicitados de la ciudad.\n\nSu pintura se distingue por el uso particular de la luz, las figuras alargadas y las composiciones a menudo marcadas por una fuerte tensión espiritual. Su investigación artística se aleja progresivamente del equilibrio clásico del primer Renacimiento, acercándose a una sensibilidad más inquieta y dinámica.\n\nEntre sus obras más importantes se recuerdan los frescos de la Sala del Concistoro en el Palazzo Pubblico, las decoraciones del Oratorio de San Bernardino y numerosas pinturas conservadas en la Pinacoteca Nazionale.\n\nOtro proyecto fundamental fue el pavimento de mármol del Duomo de Siena, en el que trabajó durante varios años. Su contribución incluye algunas de las taraceas más complejas y sugerentes, entre ellas las escenas de Elías y Acab y la Caída de los ángeles rebeldes.\n\nBeccafumi realizó también ángeles portacandelabros de bronce para la catedral, demostrando una notable versatilidad técnica.\n\nMurió en Siena en 1551, pocos años antes de la caída definitiva de la República. Su obra representa uno de los últimos grandes momentos de la tradición artística sienesa independiente."
+      },
+      "curiosita": {
+        "it": [
+          "Il suo soprannome era Mecherino, mentre il cognome Beccafumi deriverebbe dal proprietario del podere nel quale lavorava il padre.",
+          "Il pavimento del Duomo è un progetto collettivo: Beccafumi fu uno dei suoi principali protagonisti, ma non l'unico autore.",
+          "La sua pittura è caratterizzata da effetti luminosi particolarmente originali, che rendono le figure quasi irreali.",
+          "Fu anche scultore e lavorò il bronzo, oltre a dipingere e realizzare disegni per le tarsie marmoree."
+        ],
+        "en": [
+          "His nickname was Mecherino, while the surname Beccafumi is said to come from the owner of the farm where his father worked.",
+          "The Duomo pavement is a collective project: Beccafumi was one of its main figures, but not the only author.",
+          "His painting is marked by particularly original lighting effects that make the figures almost unreal.",
+          "He was also a sculptor and worked in bronze, besides painting and making drawings for the marble inlays."
+        ],
+        "fr": [
+          "Son surnom était Mecherino, tandis que le nom Beccafumi viendrait du propriétaire de la ferme où travaillait son père.",
+          "Le pavement du Duomo est un projet collectif : Beccafumi en fut l'un des principaux protagonistes, mais pas l'unique auteur.",
+          "Sa peinture se caractérise par des effets lumineux particulièrement originaux, qui rendent les figures presque irréelles.",
+          "Il fut aussi sculpteur et travailla le bronze, en plus de peindre et de réaliser des dessins pour les incrustations de marbre."
+        ],
+        "de": [
+          "Sein Spitzname war Mecherino, während der Name Beccafumi vom Besitzer des Gutes stammen soll, auf dem sein Vater arbeitete.",
+          "Der Domfußboden ist ein Gemeinschaftsprojekt: Beccafumi war einer seiner Hauptakteure, aber nicht der einzige Urheber.",
+          "Seine Malerei zeichnet sich durch besonders originelle Lichteffekte aus, die die Figuren fast unwirklich erscheinen lassen.",
+          "Er war auch Bildhauer und arbeitete in Bronze, außerdem malte er und schuf Zeichnungen für die Marmorintarsien."
+        ],
+        "es": [
+          "Su apodo era Mecherino, mientras que el apellido Beccafumi derivaría del dueño de la finca en la que trabajaba su padre.",
+          "El pavimento del Duomo es un proyecto colectivo: Beccafumi fue uno de sus principales protagonistas, pero no el único autor.",
+          "Su pintura se caracteriza por efectos luminosos particularmente originales, que hacen las figuras casi irreales.",
+          "Fue también escultor y trabajó el bronce, además de pintar y realizar dibujos para las taraceas de mármol."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta",
+        "palazzo-pubblico-museo-civico"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Conserva alcune delle sue più importanti tarsie marmoree e gli angeli portacandelabro in bronzo.",
+            "en": "It keeps some of his most important marble inlays and the bronze candelabra-bearing angels.",
+            "fr": "Il conserve certaines de ses plus importantes incrustations de marbre et les anges porte-candélabres en bronze.",
+            "de": "Er bewahrt einige seiner wichtigsten Marmorintarsien und die bronzenen Leuchterengel.",
+            "es": "Conserva algunas de sus más importantes taraceas de mármol y los ángeles portacandelabros de bronce."
+          }
+        },
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Nella Sala del Concistoro ospita uno dei suoi principali cicli di affreschi.",
+            "en": "In the Sala del Concistoro it houses one of his main fresco cycles.",
+            "fr": "Dans la Sala del Concistoro, il abrite l'un de ses principaux cycles de fresques.",
+            "de": "In der Sala del Concistoro befindet sich einer seiner wichtigsten Freskenzyklen.",
+            "es": "En la Sala del Concistoro alberga uno de sus principales ciclos de frescos."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "pandolfo-petrucci",
+      "nome": "Pandolfo Petrucci",
+      "nascita": 1452,
+      "morte": 1512,
+      "professione": {
+        "it": "Signore di Siena",
+        "en": "Lord of Siena",
+        "fr": "Seigneur de Sienne",
+        "de": "Herr von Siena",
+        "es": "Señor de Siena"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "14 febbraio 1452",
+        "en": "14 February 1452",
+        "fr": "14 février 1452",
+        "de": "14. Februar 1452",
+        "es": "14 de febrero de 1452"
+      },
+      "luogoMorte": {
+        "it": "San Quirico d'Orcia",
+        "en": "San Quirico d'Orcia",
+        "fr": "San Quirico d'Orcia",
+        "de": "San Quirico d'Orcia",
+        "es": "San Quirico d'Orcia"
+      },
+      "dataMorte": {
+        "it": "21 maggio 1512",
+        "en": "21 May 1512",
+        "fr": "21 mai 1512",
+        "de": "21. Mai 1512",
+        "es": "21 de mayo de 1512"
+      },
+      "biografia": {
+        "it": "Pandolfo Petrucci fu uno dei protagonisti più importanti della vita politica senese tra Quattrocento e Cinquecento. Appartenente a una delle famiglie influenti della città, riuscì progressivamente a concentrare nelle proprie mani un potere che trasformò profondamente il funzionamento della Repubblica.\n\nLa sua famiglia fu costretta all'esilio nel 1456, dopo una congiura contro il governo cittadino. Pandolfo trascorse quindi parte della giovinezza lontano da Siena e rientrò stabilmente nel gioco politico solo dopo il ritorno dei Noveschi nel 1487.\n\nAttraverso alleanze, accordi e un'attenta gestione degli equilibri tra le famiglie cittadine, riuscì a conquistare un'influenza sempre maggiore. Pur mantenendo formalmente le istituzioni repubblicane, trasformò il governo della città in una sorta di signoria personale.\n\nLa sua politica fu caratterizzata da pragmatismo e abilità diplomatica. Cercò di mantenere Siena autonoma nel difficile contesto delle guerre italiane, negoziando con le principali potenze della penisola e cercando di evitare che la città finisse sotto il controllo diretto di Firenze o di altri Stati.\n\nDurante il suo governo Siena conobbe una stagione di notevole vivacità culturale e artistica. Petrucci fu un importante committente e promosse la decorazione del proprio palazzo, coinvolgendo artisti di grande prestigio.\n\nIl suo palazzo divenne uno dei centri della cultura rinascimentale senese e ospitò decorazioni realizzate da Pinturicchio e altri artisti.\n\nMorì nel 1512, lasciando un sistema politico fragile, fortemente legato alla propria persona. La sua morte aprì una nuova fase di instabilità nella storia della Repubblica.",
+        "en": "Pandolfo Petrucci was one of the most important figures in Sienese political life between the fifteenth and sixteenth centuries. Coming from one of the city's influential families, he gradually concentrated in his own hands a power that deeply transformed how the Republic worked.\n\nHis family was forced into exile in 1456, after a conspiracy against the city government. Pandolfo therefore spent part of his youth away from Siena and returned to political life for good only after the return of the Noveschi in 1487.\n\nThrough alliances, agreements and careful management of the balance between the city's families, he won ever greater influence. While formally keeping the republican institutions, he turned the city's government into a kind of personal lordship.\n\nHis policy was marked by pragmatism and diplomatic skill. He tried to keep Siena independent in the difficult context of the Italian Wars, negotiating with the peninsula's main powers and trying to prevent the city from falling under the direct control of Florence or other states.\n\nDuring his rule Siena enjoyed a season of notable cultural and artistic vitality. Petrucci was an important patron and promoted the decoration of his own palace, involving artists of great prestige.\n\nHis palace became one of the centres of Sienese Renaissance culture and housed decorations by Pinturicchio and other artists.\n\nHe died in 1512, leaving a fragile political system closely tied to his own person. His death opened a new phase of instability in the Republic's history.",
+        "fr": "Pandolfo Petrucci fut l'un des protagonistes les plus importants de la vie politique siennoise entre le XVe et le XVIe siècle. Issu d'une des familles influentes de la ville, il parvint peu à peu à concentrer entre ses mains un pouvoir qui transforma profondément le fonctionnement de la République.\n\nSa famille fut contrainte à l'exil en 1456, après une conjuration contre le gouvernement de la ville. Pandolfo passa donc une partie de sa jeunesse loin de Sienne et ne revint durablement dans le jeu politique qu'après le retour des Noveschi en 1487.\n\nPar des alliances, des accords et une gestion attentive des équilibres entre les familles de la ville, il conquit une influence toujours plus grande. Tout en maintenant formellement les institutions républicaines, il transforma le gouvernement de la ville en une sorte de seigneurie personnelle.\n\nSa politique fut marquée par le pragmatisme et l'habileté diplomatique. Il chercha à maintenir Sienne autonome dans le contexte difficile des guerres d'Italie, négociant avec les principales puissances de la péninsule et tentant d'éviter que la ville ne passe sous le contrôle direct de Florence ou d'autres États.\n\nSous son gouvernement, Sienne connut une saison de vitalité culturelle et artistique remarquable. Petrucci fut un important commanditaire et promut la décoration de son propre palais, faisant appel à des artistes de grand prestige.\n\nSon palais devint l'un des centres de la culture de la Renaissance siennoise et abrita des décorations réalisées par Pinturicchio et d'autres artistes.\n\nIl mourut en 1512, laissant un système politique fragile, étroitement lié à sa personne. Sa mort ouvrit une nouvelle phase d'instabilité dans l'histoire de la République.",
+        "de": "Pandolfo Petrucci war einer der wichtigsten Akteure des sienesischen politischen Lebens zwischen dem 15. und 16. Jahrhundert. Aus einer der einflussreichen Familien der Stadt stammend, konzentrierte er allmählich eine Macht in seinen Händen, die die Funktionsweise der Republik tiefgreifend veränderte.\n\nSeine Familie wurde 1456 nach einer Verschwörung gegen die Stadtregierung ins Exil gezwungen. Pandolfo verbrachte daher einen Teil seiner Jugend fern von Siena und kehrte erst nach der Rückkehr der Noveschi 1487 dauerhaft ins politische Spiel zurück.\n\nDurch Bündnisse, Abkommen und eine sorgfältige Steuerung der Gleichgewichte zwischen den Familien der Stadt gewann er immer größeren Einfluss. Unter formaler Beibehaltung der republikanischen Institutionen verwandelte er die Stadtregierung in eine Art persönliche Signoria.\n\nSeine Politik war von Pragmatismus und diplomatischem Geschick geprägt. Er versuchte, Siena im schwierigen Umfeld der Italienischen Kriege unabhängig zu halten, verhandelte mit den wichtigsten Mächten der Halbinsel und versuchte zu verhindern, dass die Stadt unter die direkte Kontrolle von Florenz oder anderer Staaten geriet.\n\nUnter seiner Herrschaft erlebte Siena eine Zeit bemerkenswerter kultureller und künstlerischer Lebendigkeit. Petrucci war ein bedeutender Auftraggeber und förderte die Ausschmückung seines Palastes unter Beteiligung hochrangiger Künstler.\n\nSein Palast wurde zu einem der Zentren der sienesischen Renaissancekultur und beherbergte Ausschmückungen von Pinturicchio und anderen Künstlern.\n\nEr starb 1512 und hinterließ ein fragiles, eng an seine Person gebundenes politisches System. Sein Tod eröffnete eine neue Phase der Instabilität in der Geschichte der Republik.",
+        "es": "Pandolfo Petrucci fue uno de los protagonistas más importantes de la vida política sienesa entre los siglos XV y XVI. Perteneciente a una de las familias influyentes de la ciudad, logró concentrar progresivamente en sus manos un poder que transformó profundamente el funcionamiento de la República.\n\nSu familia fue obligada al exilio en 1456, tras una conjura contra el gobierno de la ciudad. Pandolfo pasó, por tanto, parte de su juventud lejos de Siena y regresó de forma estable al juego político solo tras la vuelta de los Noveschi en 1487.\n\nMediante alianzas, acuerdos y una atenta gestión de los equilibrios entre las familias de la ciudad, consiguió una influencia cada vez mayor. Aun manteniendo formalmente las instituciones republicanas, transformó el gobierno de la ciudad en una especie de señorío personal.\n\nSu política se caracterizó por el pragmatismo y la habilidad diplomática. Trató de mantener a Siena autónoma en el difícil contexto de las guerras italianas, negociando con las principales potencias de la península y procurando evitar que la ciudad cayera bajo el control directo de Florencia u otros Estados.\n\nDurante su gobierno Siena conoció una etapa de notable vitalidad cultural y artística. Petrucci fue un importante comitente y promovió la decoración de su propio palacio, implicando a artistas de gran prestigio.\n\nSu palacio se convirtió en uno de los centros de la cultura renacentista sienesa y albergó decoraciones realizadas por Pinturicchio y otros artistas.\n\nMurió en 1512, dejando un sistema político frágil, estrechamente ligado a su persona. Su muerte abrió una nueva fase de inestabilidad en la historia de la República."
+      },
+      "curiosita": {
+        "it": [
+          "Machiavelli lo ricordò nei Discorsi sopra la prima deca di Tito Livio come esempio di uomo che seppe conquistare il potere partendo da un incarico apparentemente secondario.",
+          "Pur governando di fatto Siena come un signore, non abolì formalmente le istituzioni repubblicane.",
+          "Fu un importante committente artistico e contribuì alla diffusione della cultura rinascimentale nella città.",
+          "La sua ascesa è strettamente legata al ritorno dei Noveschi nel 1487."
+        ],
+        "en": [
+          "Machiavelli recalled him in the Discourses on Livy as an example of a man who managed to win power starting from an apparently minor post.",
+          "Although in practice governing Siena like a lord, he did not formally abolish the republican institutions.",
+          "He was an important art patron and helped spread Renaissance culture in the city.",
+          "His rise is closely tied to the return of the Noveschi in 1487."
+        ],
+        "fr": [
+          "Machiavel l'évoqua dans les Discours sur la première décade de Tite-Live comme exemple d'homme qui sut conquérir le pouvoir à partir d'une charge apparemment secondaire.",
+          "Tout en gouvernant en fait Sienne comme un seigneur, il n'abolit pas formellement les institutions républicaines.",
+          "Il fut un important commanditaire artistique et contribua à la diffusion de la culture de la Renaissance dans la ville.",
+          "Son ascension est étroitement liée au retour des Noveschi en 1487."
+        ],
+        "de": [
+          "Machiavelli erwähnte ihn in den Discorsi über die ersten zehn Bücher des Livius als Beispiel eines Mannes, der es verstand, ausgehend von einem scheinbar nebensächlichen Amt die Macht zu erobern.",
+          "Obwohl er Siena faktisch wie ein Herr regierte, schaffte er die republikanischen Institutionen formal nicht ab.",
+          "Er war ein bedeutender Kunstauftraggeber und trug zur Verbreitung der Renaissancekultur in der Stadt bei.",
+          "Sein Aufstieg ist eng mit der Rückkehr der Noveschi 1487 verbunden."
+        ],
+        "es": [
+          "Maquiavelo lo recordó en los Discursos sobre la primera década de Tito Livio como ejemplo de hombre que supo conquistar el poder partiendo de un cargo aparentemente secundario.",
+          "Aunque gobernaba de hecho Siena como un señor, no abolió formalmente las instituciones republicanas.",
+          "Fue un importante comitente artístico y contribuyó a la difusión de la cultura renacentista en la ciudad.",
+          "Su ascenso está estrechamente ligado al regreso de los Noveschi en 1487."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo",
+        "palazzo-pubblico-museo-civico",
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "È il cuore della vita politica senese e il luogo simbolico del governo repubblicano.",
+            "en": "It is the heart of Sienese political life and the symbolic place of republican government.",
+            "fr": "C'est le cœur de la vie politique siennoise et le lieu symbolique du gouvernement républicain.",
+            "de": "Er ist das Herz des sienesischen politischen Lebens und der symbolische Ort der republikanischen Regierung.",
+            "es": "Es el corazón de la vida política sienesa y el lugar simbólico del gobierno republicano."
+          }
+        },
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Permette di raccontare le istituzioni che Pandolfo riuscì progressivamente a controllare.",
+            "en": "It helps tell of the institutions that Pandolfo gradually managed to control.",
+            "fr": "Il permet de raconter les institutions que Pandolfo parvint progressivement à contrôler.",
+            "de": "Er lässt die Institutionen erzählen, die Pandolfo schrittweise unter seine Kontrolle brachte.",
+            "es": "Permite contar las instituciones que Pandolfo logró controlar progresivamente."
+          }
+        },
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Consente di approfondire il contesto artistico e culturale della città durante il suo governo.",
+            "en": "It lets us explore the artistic and cultural context of the city during his rule.",
+            "fr": "Il permet d'approfondir le contexte artistique et culturel de la ville durant son gouvernement.",
+            "de": "Er erlaubt es, den künstlerischen und kulturellen Zusammenhang der Stadt während seiner Herrschaft zu vertiefen.",
+            "es": "Permite profundizar en el contexto artístico y cultural de la ciudad durante su gobierno."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "pinturicchio",
+          "testo": {
+            "it": "Fu uno dei pittori coinvolti nella decorazione del palazzo di Pandolfo, realizzando opere per la sua committenza.",
+            "en": "He was one of the painters involved in decorating Pandolfo's palace, producing works for his patronage.",
+            "fr": "Il fut l'un des peintres impliqués dans la décoration du palais de Pandolfo, réalisant des œuvres pour sa commande.",
+            "de": "Er war einer der Maler, die an der Ausschmückung von Pandolfos Palast beteiligt waren und Werke in dessen Auftrag schufen.",
+            "es": "Fue uno de los pintores implicados en la decoración del palacio de Pandolfo, realizando obras por encargo suyo."
+          }
+        }
+      ]
+    },
+    {
+      "id": "piero-strozzi",
+      "nome": "Piero Strozzi",
+      "nascita": 1511,
+      "morte": 1558,
+      "professione": {
+        "it": "Condottiero e maresciallo di Francia",
+        "en": "Condottiero and Marshal of France",
+        "fr": "Condottiere et maréchal de France",
+        "de": "Condottiere und Marschall von Frankreich",
+        "es": "Condotiero y mariscal de Francia"
+      },
+      "luogoNascita": {
+        "it": "Firenze",
+        "en": "Florence",
+        "fr": "Florence",
+        "de": "Florenz",
+        "es": "Florencia"
+      },
+      "dataNascita": {
+        "it": "1º marzo 1511",
+        "en": "1 March 1511",
+        "fr": "1er mars 1511",
+        "de": "1. März 1511",
+        "es": "1 de marzo de 1511"
+      },
+      "luogoMorte": {
+        "it": "Thionville, Lorena, Francia",
+        "en": "Thionville, Lorraine, France",
+        "fr": "Thionville, Lorraine, France",
+        "de": "Thionville, Lothringen, Frankreich",
+        "es": "Thionville, Lorena, Francia"
+      },
+      "dataMorte": {
+        "it": "21 giugno 1558",
+        "en": "21 June 1558",
+        "fr": "21 juin 1558",
+        "de": "21. Juni 1558",
+        "es": "21 de junio de 1558"
+      },
+      "biografia": {
+        "it": "Piero Strozzi fu un condottiero e uomo d'armi fiorentino, appartenente alla potente famiglia Strozzi. Figlio di Filippo Strozzi e Clarice de' Medici, era legato per parentela alla famiglia medicea, ma divenne uno dei principali oppositori del potere dei Medici in Toscana.\n\nDopo aver abbandonato la prospettiva di una carriera ecclesiastica, si dedicò alla vita militare e si mise al servizio della monarchia francese, che contrastava il predominio degli Asburgo e dei Medici in Italia.\n\nDopo il fallimento del tentativo di rovesciare Cosimo I de' Medici nel 1537, Piero si rifugiò in Francia, dove entrò stabilmente al servizio del re Francesco I e poi dei suoi successori.\n\nIl suo legame con Siena divenne centrale durante la guerra contro Cosimo I e Carlo V. Nel 1552 i Senesi si erano liberati del presidio spagnolo e avevano stretto un'alleanza con la Francia. Piero Strozzi fu inviato a sostegno della Repubblica e assunse un ruolo importante nella difesa militare della città.\n\nNel 1554 guidò le forze franco-senesi contro l'esercito imperiale e mediceo. Il 2 agosto dello stesso anno fu sconfitto nella battaglia di Scannagallo, presso Marciano della Chiana. La sconfitta indebolì gravemente la capacità militare senese e contribuì al progressivo isolamento della città.\n\nDurante l'assedio del 1554–1555 continuò a sostenere la resistenza e, dopo la capitolazione di Siena, partecipò alla prosecuzione della lotta dalla Repubblica rifugiatasi a Montalcino.\n\nPer i suoi servizi alla monarchia francese ricevette il titolo di maresciallo di Francia. Morì nel 1558, ferito durante l'assedio di Thionville.",
+        "en": "Piero Strozzi was a Florentine condottiero and man of arms, from the powerful Strozzi family. Son of Filippo Strozzi and Clarice de' Medici, he was related to the Medici family but became one of the main opponents of Medici power in Tuscany.\n\nAfter giving up the prospect of a church career, he devoted himself to military life and entered the service of the French monarchy, which opposed the dominance of the Habsburgs and the Medici in Italy.\n\nAfter the failure of the attempt to overthrow Cosimo I de' Medici in 1537, Piero took refuge in France, where he entered the permanent service of King Francis I and then of his successors.\n\nHis link with Siena became central during the war against Cosimo I and Charles V. In 1552 the Sienese had freed themselves of the Spanish garrison and allied with France. Piero Strozzi was sent to support the Republic and took on an important role in the city's military defence.\n\nIn 1554 he led the Franco-Sienese forces against the imperial and Medici army. On 2 August of that year he was defeated at the Battle of Scannagallo, near Marciano della Chiana. The defeat seriously weakened Siena's military capacity and contributed to the city's growing isolation.\n\nDuring the siege of 1554–1555 he continued to support the resistance and, after Siena's capitulation, took part in continuing the struggle from the Republic that had taken refuge in Montalcino.\n\nFor his services to the French monarchy he received the title of Marshal of France. He died in 1558, wounded during the siege of Thionville.",
+        "fr": "Piero Strozzi fut un condottiere et homme d'armes florentin, issu de la puissante famille Strozzi. Fils de Filippo Strozzi et de Clarice de' Médicis, il était apparenté à la famille médicéenne, mais devint l'un des principaux opposants au pouvoir des Médicis en Toscane.\n\nAprès avoir renoncé à une carrière ecclésiastique, il se consacra à la vie militaire et se mit au service de la monarchie française, qui s'opposait à la prédominance des Habsbourg et des Médicis en Italie.\n\nAprès l'échec de la tentative de renverser Cosme Ier de Médicis en 1537, Piero se réfugia en France, où il entra durablement au service du roi François Ier puis de ses successeurs.\n\nSon lien avec Sienne devint central pendant la guerre contre Cosme Ier et Charles Quint. En 1552, les Siennois s'étaient libérés de la garnison espagnole et avaient conclu une alliance avec la France. Piero Strozzi fut envoyé en soutien de la République et joua un rôle important dans la défense militaire de la ville.\n\nEn 1554, il conduisit les forces franco-siennoises contre l'armée impériale et médicéenne. Le 2 août de la même année, il fut battu à la bataille de Scannagallo, près de Marciano della Chiana. La défaite affaiblit gravement la capacité militaire siennoise et contribua à l'isolement progressif de la ville.\n\nPendant le siège de 1554–1555, il continua à soutenir la résistance et, après la capitulation de Sienne, participa à la poursuite de la lutte depuis la République réfugiée à Montalcino.\n\nPour ses services à la monarchie française, il reçut le titre de maréchal de France. Il mourut en 1558, blessé lors du siège de Thionville.",
+        "de": "Piero Strozzi war ein florentinischer Condottiere und Kriegsmann aus der mächtigen Familie Strozzi. Als Sohn von Filippo Strozzi und Clarice de' Medici war er mit der Familie Medici verwandt, wurde aber zu einem der Hauptgegner der Medici-Herrschaft in der Toskana.\n\nNachdem er die Aussicht auf eine kirchliche Laufbahn aufgegeben hatte, widmete er sich dem Militärleben und trat in den Dienst der französischen Monarchie, die sich der Vorherrschaft der Habsburger und der Medici in Italien widersetzte.\n\nNach dem Scheitern des Versuchs, Cosimo I. de' Medici 1537 zu stürzen, floh Piero nach Frankreich, wo er dauerhaft in den Dienst König Franz' I. und dann seiner Nachfolger trat.\n\nSeine Verbindung zu Siena wurde im Krieg gegen Cosimo I. und Karl V. zentral. 1552 hatten sich die Sienesen von der spanischen Besatzung befreit und ein Bündnis mit Frankreich geschlossen. Piero Strozzi wurde zur Unterstützung der Republik entsandt und übernahm eine wichtige Rolle bei der militärischen Verteidigung der Stadt.\n\n1554 führte er die französisch-sienesischen Truppen gegen das kaiserliche und mediceische Heer. Am 2. August desselben Jahres wurde er in der Schlacht von Scannagallo bei Marciano della Chiana besiegt. Die Niederlage schwächte die sienesische Militärkraft schwer und trug zur zunehmenden Isolierung der Stadt bei.\n\nWährend der Belagerung 1554–1555 unterstützte er weiter den Widerstand und beteiligte sich nach der Kapitulation Sienas an der Fortsetzung des Kampfes von der nach Montalcino geflüchteten Republik aus.\n\nFür seine Dienste an der französischen Monarchie erhielt er den Titel eines Marschalls von Frankreich. Er starb 1558, verwundet während der Belagerung von Thionville.",
+        "es": "Piero Strozzi fue un condotiero y hombre de armas florentino, perteneciente a la poderosa familia Strozzi. Hijo de Filippo Strozzi y de Clarice de' Medici, estaba emparentado con la familia Médici, pero se convirtió en uno de los principales opositores al poder de los Médici en la Toscana.\n\nTras abandonar la perspectiva de una carrera eclesiástica, se dedicó a la vida militar y se puso al servicio de la monarquía francesa, que se oponía al predominio de los Habsburgo y de los Médici en Italia.\n\nTras el fracaso del intento de derrocar a Cosimo I de' Medici en 1537, Piero se refugió en Francia, donde entró de forma estable al servicio del rey Francisco I y luego de sus sucesores.\n\nSu vínculo con Siena se volvió central durante la guerra contra Cosimo I y Carlos V. En 1552 los sieneses se habían liberado de la guarnición española y habían sellado una alianza con Francia. Piero Strozzi fue enviado en apoyo de la República y asumió un papel importante en la defensa militar de la ciudad.\n\nEn 1554 guio a las fuerzas franco-sienesas contra el ejército imperial y mediceo. El 2 de agosto de ese año fue derrotado en la batalla de Scannagallo, cerca de Marciano della Chiana. La derrota debilitó gravemente la capacidad militar sienesa y contribuyó al progresivo aislamiento de la ciudad.\n\nDurante el asedio de 1554–1555 siguió apoyando la resistencia y, tras la capitulación de Siena, participó en la continuación de la lucha desde la República refugiada en Montalcino.\n\nPor sus servicios a la monarquía francesa recibió el título de mariscal de Francia. Murió en 1558, herido durante el asedio de Thionville."
+      },
+      "curiosita": {
+        "it": [
+          "Era nipote di Lorenzo il Magnifico attraverso la madre Clarice de' Medici.",
+          "Nonostante i legami familiari con i Medici, divenne uno dei loro più determinati avversari.",
+          "La sua carriera militare fu strettamente legata alla politica francese in Italia.",
+          "Dopo la caduta di Siena, la resistenza continuò a Montalcino fino al 1559, ma Piero morì prima della conclusione definitiva della guerra."
+        ],
+        "en": [
+          "He was a grandson of Lorenzo the Magnificent through his mother Clarice de' Medici.",
+          "Despite his family ties with the Medici, he became one of their most determined opponents.",
+          "His military career was closely tied to French policy in Italy.",
+          "After the fall of Siena, resistance continued in Montalcino until 1559, but Piero died before the war's final conclusion."
+        ],
+        "fr": [
+          "Il était petit-fils de Laurent le Magnifique par sa mère Clarice de' Médicis.",
+          "Malgré ses liens familiaux avec les Médicis, il devint l'un de leurs adversaires les plus déterminés.",
+          "Sa carrière militaire fut étroitement liée à la politique française en Italie.",
+          "Après la chute de Sienne, la résistance continua à Montalcino jusqu'en 1559, mais Piero mourut avant la conclusion définitive de la guerre."
+        ],
+        "de": [
+          "Er war über seine Mutter Clarice de' Medici ein Enkel Lorenzos des Prächtigen.",
+          "Trotz der familiären Bindungen zu den Medici wurde er zu einem ihrer entschlossensten Gegner.",
+          "Seine Militärlaufbahn war eng mit der französischen Politik in Italien verbunden.",
+          "Nach dem Fall Sienas ging der Widerstand in Montalcino bis 1559 weiter, doch Piero starb vor dem endgültigen Ende des Krieges."
+        ],
+        "es": [
+          "Era nieto de Lorenzo el Magnífico por parte de su madre, Clarice de' Medici.",
+          "A pesar de los lazos familiares con los Médici, se convirtió en uno de sus adversarios más decididos.",
+          "Su carrera militar estuvo estrechamente ligada a la política francesa en Italia.",
+          "Tras la caída de Siena, la resistencia continuó en Montalcino hasta 1559, pero Piero murió antes de la conclusión definitiva de la guerra."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Rappresenta il centro politico della Repubblica che contribuì a difendere.",
+            "en": "It represents the political centre of the Republic he helped defend.",
+            "fr": "Elle représente le centre politique de la République qu'il contribua à défendre.",
+            "de": "Er steht für das politische Zentrum der Republik, die er mitverteidigte.",
+            "es": "Representa el centro político de la República que contribuyó a defender."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "blaise-de-monluc",
+          "testo": {
+            "it": "Entrambi furono protagonisti della difesa franco-senese contro gli imperiali e i Medici. Il loro ruolo si sviluppò durante la stessa guerra, anche se con incarichi e responsabilità differenti.",
+            "en": "Both were leading figures of the Franco-Sienese defence against the imperial forces and the Medici. Their roles developed during the same war, although with different posts and responsibilities.",
+            "fr": "Tous deux furent des protagonistes de la défense franco-siennoise contre les impériaux et les Médicis. Leur rôle se développa pendant la même guerre, avec toutefois des charges et des responsabilités différentes.",
+            "de": "Beide waren Hauptfiguren der französisch-sienesischen Verteidigung gegen die Kaiserlichen und die Medici. Ihre Rolle entfaltete sich im selben Krieg, wenn auch mit unterschiedlichen Ämtern und Verantwortlichkeiten.",
+            "es": "Ambos fueron protagonistas de la defensa franco-sienesa contra los imperiales y los Médici. Su papel se desarrolló durante la misma guerra, aunque con cargos y responsabilidades distintos."
+          }
+        }
+      ]
+    },
+    {
+      "id": "blaise-de-monluc",
+      "nome": "Blaise de Monluc",
+      "nascita": 1502,
+      "morte": 1577,
+      "professione": {
+        "it": "Militare, memorialista e maresciallo di Francia",
+        "en": "Soldier, memoirist and Marshal of France",
+        "fr": "Militaire, mémorialiste et maréchal de France",
+        "de": "Soldat, Memoirenschreiber und Marschall von Frankreich",
+        "es": "Militar, memorialista y mariscal de Francia"
+      },
+      "luogoNascita": {
+        "it": "Saint-Puy, Guascogna, Francia",
+        "en": "Saint-Puy, Gascony, France",
+        "fr": "Saint-Puy, Gascogne, France",
+        "de": "Saint-Puy, Gascogne, Frankreich",
+        "es": "Saint-Puy, Gascuña, Francia"
+      },
+      "dataNascita": {
+        "it": "1502",
+        "en": "1502",
+        "fr": "1502",
+        "de": "1502",
+        "es": "1502"
+      },
+      "luogoMorte": {
+        "it": "Estillac, Guascogna, Francia",
+        "en": "Estillac, Gascony, France",
+        "fr": "Estillac, Gascogne, France",
+        "de": "Estillac, Gascogne, Frankreich",
+        "es": "Estillac, Gascuña, Francia"
+      },
+      "dataMorte": {
+        "it": "26 luglio 1577",
+        "en": "26 July 1577",
+        "fr": "26 juillet 1577",
+        "de": "26. Juli 1577",
+        "es": "26 de julio de 1577"
+      },
+      "biografia": {
+        "it": "Blaise de Monluc fu un militare e memorialista francese, protagonista delle guerre italiane e delle successive guerre di religione in Francia.\n\nNato in Guascogna, iniziò molto giovane la carriera militare, partecipando alle campagne combattute tra Francia, Impero e potenze italiane. Si distinse progressivamente come comandante e acquisì una reputazione legata soprattutto alla capacità di guidare truppe in situazioni difficili.\n\nIl suo nome è strettamente legato alla storia di Siena per il ruolo svolto durante l'assedio del 1554–1555. Inviato dal re di Francia Enrico II a sostegno della Repubblica senese, divenne uno dei principali responsabili della difesa della città.\n\nDurante l'assedio cercò di mantenere alto il morale della popolazione e dei soldati, organizzando la resistenza in condizioni sempre più difficili. La città era circondata da forze imperiali e medicee, mentre le risorse alimentari diminuivano e le epidemie aggravavano la situazione.\n\nMonluc raccontò successivamente queste vicende nei suoi Commentaires, un'opera autobiografica pubblicata dopo la sua morte. Il testo è una fonte importante per conoscere gli eventi, ma deve essere letto con attenzione: come molte memorie militari, contiene anche elementi di autorappresentazione e di celebrazione delle proprie imprese.\n\nDopo la capitolazione di Siena nell'aprile 1555, Monluc lasciò la città insieme alle forze francesi. La resistenza senese proseguì a Montalcino, dove si era rifugiata una parte della Repubblica.\n\nNegli anni successivi continuò la carriera militare al servizio della monarchia francese. Nel 1574 fu nominato maresciallo di Francia. Morì nel 1577, lasciando una testimonianza fondamentale sulla guerra di Siena e sulla cultura militare del Cinquecento.",
+        "en": "Blaise de Monluc was a French soldier and memoirist, a protagonist of the Italian Wars and of the later Wars of Religion in France.\n\nBorn in Gascony, he began his military career very young, taking part in the campaigns fought between France, the Empire and the Italian powers. He gradually distinguished himself as a commander and gained a reputation above all for his ability to lead troops in difficult situations.\n\nHis name is closely tied to the history of Siena for the role he played during the siege of 1554–1555. Sent by King Henry II of France to support the Sienese Republic, he became one of those chiefly responsible for the city's defence.\n\nDuring the siege he tried to keep up the morale of the population and soldiers, organising resistance in increasingly difficult conditions. The city was surrounded by imperial and Medici forces, while food supplies dwindled and epidemics worsened the situation.\n\nMonluc later told these events in his Commentaires, an autobiographical work published after his death. The text is an important source for the events but must be read with care: like many military memoirs, it also contains elements of self-portrayal and celebration of his own deeds.\n\nAfter Siena's capitulation in April 1555, Monluc left the city with the French forces. Sienese resistance continued in Montalcino, where part of the Republic had taken refuge.\n\nIn the following years he continued his military career in the service of the French monarchy. In 1574 he was named Marshal of France. He died in 1577, leaving a fundamental testimony on the war of Siena and on sixteenth-century military culture.",
+        "fr": "Blaise de Monluc fut un militaire et mémorialiste français, protagoniste des guerres d'Italie et des guerres de Religion qui suivirent en France.\n\nNé en Gascogne, il commença très jeune la carrière militaire, participant aux campagnes menées entre la France, l'Empire et les puissances italiennes. Il se distingua peu à peu comme commandant et acquit une réputation liée surtout à sa capacité de mener des troupes dans des situations difficiles.\n\nSon nom est étroitement lié à l'histoire de Sienne par le rôle qu'il joua pendant le siège de 1554–1555. Envoyé par le roi de France Henri II en soutien de la République siennoise, il devint l'un des principaux responsables de la défense de la ville.\n\nPendant le siège, il chercha à maintenir le moral de la population et des soldats, organisant la résistance dans des conditions de plus en plus difficiles. La ville était encerclée par des forces impériales et médicéennes, tandis que les ressources alimentaires diminuaient et que les épidémies aggravaient la situation.\n\nMonluc raconta ensuite ces événements dans ses Commentaires, une œuvre autobiographique publiée après sa mort. Le texte est une source importante pour connaître les faits, mais doit être lu avec attention : comme beaucoup de mémoires militaires, il contient aussi des éléments d'autoreprésentation et de célébration de ses propres exploits.\n\nAprès la capitulation de Sienne en avril 1555, Monluc quitta la ville avec les forces françaises. La résistance siennoise se poursuivit à Montalcino, où une partie de la République s'était réfugiée.\n\nDans les années suivantes, il poursuivit sa carrière militaire au service de la monarchie française. En 1574, il fut nommé maréchal de France. Il mourut en 1577, laissant un témoignage fondamental sur la guerre de Sienne et sur la culture militaire du XVIe siècle.",
+        "de": "Blaise de Monluc war ein französischer Militär und Memoirenschreiber, Akteur der Italienischen Kriege und der späteren Religionskriege in Frankreich.\n\nIn der Gascogne geboren, begann er sehr jung seine Militärlaufbahn und nahm an den Feldzügen zwischen Frankreich, dem Reich und den italienischen Mächten teil. Er zeichnete sich allmählich als Befehlshaber aus und erwarb sich einen Ruf vor allem durch seine Fähigkeit, Truppen in schwierigen Lagen zu führen.\n\nSein Name ist eng mit der Geschichte Sienas verbunden wegen seiner Rolle bei der Belagerung 1554–1555. Vom französischen König Heinrich II. zur Unterstützung der sienesischen Republik entsandt, wurde er einer der Hauptverantwortlichen für die Verteidigung der Stadt.\n\nWährend der Belagerung versuchte er, die Moral der Bevölkerung und der Soldaten hochzuhalten, und organisierte den Widerstand unter immer schwierigeren Bedingungen. Die Stadt war von kaiserlichen und mediceischen Truppen umzingelt, während die Nahrungsmittel knapper wurden und Seuchen die Lage verschlimmerten.\n\nMonluc schilderte diese Ereignisse später in seinen Commentaires, einem autobiografischen Werk, das nach seinem Tod veröffentlicht wurde. Der Text ist eine wichtige Quelle für die Ereignisse, muss aber sorgfältig gelesen werden: Wie viele Kriegsmemoiren enthält er auch Elemente der Selbstdarstellung und der Verherrlichung eigener Taten.\n\nNach der Kapitulation Sienas im April 1555 verließ Monluc die Stadt mit den französischen Truppen. Der sienesische Widerstand ging in Montalcino weiter, wohin sich ein Teil der Republik geflüchtet hatte.\n\nIn den folgenden Jahren setzte er seine Militärlaufbahn im Dienst der französischen Monarchie fort. 1574 wurde er zum Marschall von Frankreich ernannt. Er starb 1577 und hinterließ ein grundlegendes Zeugnis über den Krieg um Siena und die Militärkultur des 16. Jahrhunderts.",
+        "es": "Blaise de Monluc fue un militar y memorialista francés, protagonista de las guerras de Italia y de las posteriores guerras de religión en Francia.\n\nNacido en Gascuña, inició muy joven la carrera militar, participando en las campañas libradas entre Francia, el Imperio y las potencias italianas. Se distinguió progresivamente como comandante y adquirió una reputación ligada sobre todo a su capacidad de guiar tropas en situaciones difíciles.\n\nSu nombre está estrechamente ligado a la historia de Siena por el papel que desempeñó durante el asedio de 1554–1555. Enviado por el rey de Francia Enrique II en apoyo de la República sienesa, se convirtió en uno de los principales responsables de la defensa de la ciudad.\n\nDurante el asedio trató de mantener alta la moral de la población y de los soldados, organizando la resistencia en condiciones cada vez más difíciles. La ciudad estaba rodeada por fuerzas imperiales y mediceas, mientras los recursos alimentarios disminuían y las epidemias agravaban la situación.\n\nMonluc contó después estos hechos en sus Commentaires, una obra autobiográfica publicada tras su muerte. El texto es una fuente importante para conocer los acontecimientos, pero debe leerse con atención: como muchas memorias militares, contiene también elementos de autorrepresentación y de celebración de las propias hazañas.\n\nTras la capitulación de Siena en abril de 1555, Monluc abandonó la ciudad junto con las fuerzas francesas. La resistencia sienesa prosiguió en Montalcino, donde se había refugiado una parte de la República.\n\nEn los años siguientes continuó su carrera militar al servicio de la monarquía francesa. En 1574 fue nombrado mariscal de Francia. Murió en 1577, dejando un testimonio fundamental sobre la guerra de Siena y sobre la cultura militar del siglo XVI."
+      },
+      "curiosita": {
+        "it": [
+          "I suoi Commentaires sono una delle principali testimonianze narrative sull'assedio di Siena.",
+          "Il suo racconto è prezioso per conoscere la vita quotidiana durante la resistenza, ma non deve essere considerato un resoconto neutrale.",
+          "Fu nominato maresciallo di Francia nel 1574.",
+          "La sua fama militare si consolidò soprattutto durante le guerre combattute in Italia e in Francia nel corso del Cinquecento."
+        ],
+        "en": [
+          "His Commentaires are one of the main narrative testimonies on the siege of Siena.",
+          "His account is valuable for learning about daily life during the resistance, but should not be taken as a neutral report.",
+          "He was named Marshal of France in 1574.",
+          "His military fame was consolidated above all during the wars fought in Italy and France in the sixteenth century."
+        ],
+        "fr": [
+          "Ses Commentaires sont l'un des principaux témoignages narratifs sur le siège de Sienne.",
+          "Son récit est précieux pour connaître la vie quotidienne pendant la résistance, mais ne doit pas être considéré comme un compte rendu neutre.",
+          "Il fut nommé maréchal de France en 1574.",
+          "Sa renommée militaire se consolida surtout pendant les guerres menées en Italie et en France au XVIe siècle."
+        ],
+        "de": [
+          "Seine Commentaires sind eines der wichtigsten erzählenden Zeugnisse über die Belagerung von Siena.",
+          "Sein Bericht ist wertvoll, um den Alltag während des Widerstands kennenzulernen, darf aber nicht als neutraler Bericht gelten.",
+          "1574 wurde er zum Marschall von Frankreich ernannt.",
+          "Sein militärischer Ruhm festigte sich vor allem in den im 16. Jahrhundert in Italien und Frankreich geführten Kriegen."
+        ],
+        "es": [
+          "Sus Commentaires son uno de los principales testimonios narrativos sobre el asedio de Siena.",
+          "Su relato es valioso para conocer la vida cotidiana durante la resistencia, pero no debe considerarse una crónica neutral.",
+          "Fue nombrado mariscal de Francia en 1574.",
+          "Su fama militar se consolidó sobre todo durante las guerras libradas en Italia y en Francia a lo largo del siglo XVI."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Rappresenta il cuore della città che contribuì a difendere.",
+            "en": "It represents the heart of the city he helped defend.",
+            "fr": "Elle représente le cœur de la ville qu'il contribua à défendre.",
+            "de": "Er steht für das Herz der Stadt, die er mitverteidigte.",
+            "es": "Representa el corazón de la ciudad que contribuyó a defender."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "piero-strozzi",
+          "testo": {
+            "it": "Entrambi operarono al servizio della Francia e sostennero la Repubblica di Siena durante la guerra contro le forze imperiali e medicee. Il loro rapporto si colloca nel contesto della stessa campagna militare.",
+            "en": "Both served France and supported the Republic of Siena during the war against the imperial and Medici forces. Their relationship belongs to the context of the same military campaign.",
+            "fr": "Tous deux servirent la France et soutinrent la République de Sienne pendant la guerre contre les forces impériales et médicéennes. Leur rapport s'inscrit dans le contexte de la même campagne militaire.",
+            "de": "Beide dienten Frankreich und unterstützten die Republik Siena im Krieg gegen die kaiserlichen und mediceischen Truppen. Ihr Verhältnis gehört in den Zusammenhang desselben Feldzugs.",
+            "es": "Ambos sirvieron a Francia y apoyaron a la República de Siena durante la guerra contra las fuerzas imperiales y mediceas. Su relación se sitúa en el contexto de la misma campaña militar."
+          }
+        }
+      ]
     }
   ]
 }
