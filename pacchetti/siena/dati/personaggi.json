@@ -1,3 +1,466 @@
 {
- "personaggi": []
+  "personaggi": [
+    {
+      "id": "senio",
+      "nome": "Senio",
+      "ordine": -753,
+      "professione": {
+        "it": "Fondatore leggendario di Siena",
+        "en": "Legendary founder of Siena",
+        "fr": "Fondateur légendaire de Sienne",
+        "de": "Sagenhafter Gründer Sienas",
+        "es": "Fundador legendario de Siena"
+      },
+      "luogoNascita": {
+        "it": "Roma (secondo la leggenda)",
+        "en": "Rome (according to legend)",
+        "fr": "Rome (selon la légende)",
+        "de": "Rom (der Sage nach)",
+        "es": "Roma (según la leyenda)"
+      },
+      "dataNascita": {
+        "it": "Epoca della fondazione di Roma (non documentata)",
+        "en": "Time of the founding of Rome (undocumented)",
+        "fr": "Époque de la fondation de Rome (non documentée)",
+        "de": "Zeit der Gründung Roms (nicht belegt)",
+        "es": "Época de la fundación de Roma (no documentada)"
+      },
+      "luogoMorte": {
+        "it": "Sconosciuto",
+        "en": "Unknown",
+        "fr": "Inconnu",
+        "de": "Unbekannt",
+        "es": "Desconocido"
+      },
+      "dataMorte": {
+        "it": "Non documentata",
+        "en": "Undocumented",
+        "fr": "Non documentée",
+        "de": "Nicht belegt",
+        "es": "No documentada"
+      },
+      "biografia": {
+        "it": "Senio è il protagonista della leggenda che attribuisce la fondazione di Siena a due discendenti di Remo: Senio e suo fratello Ascanio. Secondo il racconto tradizionale, dopo la morte del padre, ucciso dal fratello Romolo durante la vicenda della fondazione di Roma, i due giovani sarebbero fuggiti dalla città per sottrarsi alla persecuzione dello zio.\n\nDurante il viaggio verso nord avrebbero trovato rifugio sulle colline dove oggi sorge Siena. Qui Senio avrebbe fondato un nuovo insediamento, dando origine alla città. La leggenda spiega così anche la presenza della lupa, simbolo che Siena condivide con Roma: l'animale avrebbe accompagnato i due fratelli durante la fuga e sarebbe diventato uno degli emblemi più riconoscibili della città.\n\nLa storia di Senio appartiene alla tradizione mitica e non è sostenuta da prove storiche. Le origini effettive di Siena sono più complesse: il territorio presenta testimonianze di frequentazione antica e la città si sviluppò come centro romano con il nome di Sena Julia. Il racconto di Senio va quindi letto come una narrazione identitaria elaborata per collegare Siena alla prestigiosa origine di Roma.\n\nLa leggenda ebbe un ruolo importante nella costruzione dell'immagine pubblica della città. Richiamarsi a Remo e alla fondazione romana significava attribuire a Siena un'origine nobile e antica, capace di competere simbolicamente con quella della vicina Firenze e delle altre città toscane.",
+        "en": "Senio is the protagonist of the legend that attributes the founding of Siena to two descendants of Remus: Senius and his brother Ascanius. According to the traditional tale, after their father was killed by his brother Romulus during the founding of Rome, the two young men fled the city to escape their uncle's persecution.\n\nOn their journey north they are said to have found refuge on the hills where Siena now stands. Here Senius founded a new settlement, giving rise to the city. The legend also explains the presence of the she-wolf, a symbol Siena shares with Rome: the animal is said to have accompanied the two brothers in their flight and became one of the city's most recognisable emblems.\n\nThe story of Senius belongs to mythical tradition and is not supported by historical evidence. The real origins of Siena are more complex: the area shows signs of ancient settlement, and the city developed as a Roman centre called Sena Julia. The tale of Senius should therefore be read as an identity narrative devised to link Siena to the prestigious origins of Rome.\n\nThe legend played an important part in building the city's public image. Invoking Remus and the Roman foundation meant giving Siena a noble and ancient origin, able to compete symbolically with that of neighbouring Florence and the other Tuscan cities.",
+        "fr": "Sénius est le protagoniste de la légende qui attribue la fondation de Sienne à deux descendants de Rémus : Sénius et son frère Ascanius. Selon le récit traditionnel, après la mort de leur père, tué par son frère Romulus lors de la fondation de Rome, les deux jeunes gens auraient fui la ville pour échapper à la persécution de leur oncle.\n\nAu cours de leur voyage vers le nord, ils auraient trouvé refuge sur les collines où se dresse aujourd'hui Sienne. Sénius y aurait fondé un nouvel établissement, donnant naissance à la ville. La légende explique aussi la présence de la louve, symbole que Sienne partage avec Rome : l'animal aurait accompagné les deux frères dans leur fuite et serait devenu l'un des emblèmes les plus reconnaissables de la ville.\n\nL'histoire de Sénius relève de la tradition mythique et ne repose sur aucune preuve historique. Les origines réelles de Sienne sont plus complexes : le territoire conserve des traces de fréquentation ancienne et la ville s'est développée comme centre romain sous le nom de Sena Julia. Le récit de Sénius doit donc être lu comme une narration identitaire élaborée pour rattacher Sienne à la prestigieuse origine de Rome.\n\nLa légende a joué un rôle important dans la construction de l'image publique de la ville. Se réclamer de Rémus et de la fondation romaine, c'était donner à Sienne une origine noble et ancienne, capable de rivaliser symboliquement avec celle de la voisine Florence et des autres villes toscanes.",
+        "de": "Senio ist der Protagonist der Sage, die die Gründung Sienas zwei Nachkommen des Remus zuschreibt: Senio und seinem Bruder Ascanio. Nach der überlieferten Erzählung flohen die beiden jungen Männer nach dem Tod des Vaters, den sein Bruder Romulus bei der Gründung Roms getötet hatte, aus der Stadt, um der Verfolgung durch ihren Onkel zu entgehen.\n\nAuf der Reise nach Norden sollen sie auf den Hügeln Zuflucht gefunden haben, auf denen heute Siena liegt. Hier soll Senio eine neue Siedlung gegründet und damit die Stadt begründet haben. Die Sage erklärt auch die Wölfin, ein Symbol, das Siena mit Rom teilt: Das Tier soll die beiden Brüder auf der Flucht begleitet haben und wurde zu einem der bekanntesten Wahrzeichen der Stadt.\n\nDie Geschichte Senios gehört zur mythischen Überlieferung und ist historisch nicht belegt. Die tatsächlichen Anfänge Sienas sind vielschichtiger: Das Gebiet weist Spuren früher Besiedlung auf, und die Stadt entwickelte sich als römisches Zentrum mit dem Namen Sena Julia. Die Erzählung von Senio ist daher als Identitätserzählung zu verstehen, die Siena mit dem glanzvollen Ursprung Roms verbinden sollte.\n\nDie Sage spielte eine wichtige Rolle für das öffentliche Bild der Stadt. Der Verweis auf Remus und die römische Gründung verlieh Siena einen edlen, alten Ursprung, der symbolisch mit dem des benachbarten Florenz und der anderen toskanischen Städte konkurrieren konnte.",
+        "es": "Senio es el protagonista de la leyenda que atribuye la fundación de Siena a dos descendientes de Remo: Senio y su hermano Ascanio. Según el relato tradicional, tras la muerte de su padre, asesinado por su hermano Rómulo durante la fundación de Roma, los dos jóvenes habrían huido de la ciudad para escapar de la persecución de su tío.\n\nEn su viaje hacia el norte habrían encontrado refugio en las colinas donde hoy se alza Siena. Allí Senio habría fundado un nuevo asentamiento, dando origen a la ciudad. La leyenda explica así también la presencia de la loba, símbolo que Siena comparte con Roma: el animal habría acompañado a los dos hermanos en su huida y se habría convertido en uno de los emblemas más reconocibles de la ciudad.\n\nLa historia de Senio pertenece a la tradición mítica y no cuenta con pruebas históricas. Los orígenes reales de Siena son más complejos: el territorio conserva testimonios de ocupación antigua y la ciudad se desarrolló como centro romano con el nombre de Sena Julia. El relato de Senio debe leerse, por tanto, como una narración identitaria elaborada para vincular Siena con el prestigioso origen de Roma.\n\nLa leyenda tuvo un papel importante en la construcción de la imagen pública de la ciudad. Remitirse a Remo y a la fundación romana significaba atribuir a Siena un origen noble y antiguo, capaz de competir simbólicamente con el de la vecina Florencia y el de las demás ciudades toscanas."
+      },
+      "curiosita": {
+        "it": [
+          "La lupa senese: la lupa che allatta i gemelli è uno dei simboli più diffusi di Siena. La sua presenza richiama la leggenda delle origini e il legame mitico con Roma.",
+          "Due fratelli fondatori: in alcune versioni del racconto compare anche Ascanio, fratello di Senio. I nomi e i dettagli della leggenda possono variare nelle diverse tradizioni.",
+          "Un'origine non storica: non esistono prove che Senio sia realmente esistito o che abbia fondato Siena. La leggenda non deve essere confusa con i dati archeologici relativi agli insediamenti antichi del territorio.",
+          "Un simbolo ancora visibile: la lupa compare in stemmi, decorazioni e sculture distribuiti nel centro storico, diventando un elemento riconoscibile dell'identità senese."
+        ],
+        "en": [
+          "The Sienese she-wolf: the she-wolf nursing the twins is one of Siena's most widespread symbols. Its presence recalls the legend of the origins and the mythical link with Rome.",
+          "Two founding brothers: some versions of the tale also feature Ascanius, Senius's brother. Names and details of the legend vary between traditions.",
+          "A non-historical origin: there is no evidence that Senius really existed or founded Siena. The legend should not be confused with the archaeological data on the area's ancient settlements.",
+          "A symbol you can still see: the she-wolf appears on coats of arms, decorations and sculptures across the historic centre, becoming a recognisable element of Sienese identity."
+        ],
+        "fr": [
+          "La louve siennoise : la louve qui allaite les jumeaux est l'un des symboles les plus répandus de Sienne. Sa présence rappelle la légende des origines et le lien mythique avec Rome.",
+          "Deux frères fondateurs : dans certaines versions du récit apparaît aussi Ascanius, frère de Sénius. Les noms et les détails de la légende varient selon les traditions.",
+          "Une origine non historique : rien ne prouve que Sénius ait réellement existé ou fondé Sienne. La légende ne doit pas être confondue avec les données archéologiques sur les anciens établissements du territoire.",
+          "Un symbole encore visible : la louve apparaît sur des blasons, des décorations et des sculptures dans tout le centre historique et fait partie de l'identité siennoise."
+        ],
+        "de": [
+          "Die sienesische Wölfin: Die Wölfin, die die Zwillinge säugt, ist eines der verbreitetsten Symbole Sienas. Sie erinnert an die Gründungssage und die mythische Verbindung zu Rom.",
+          "Zwei Gründerbrüder: In manchen Versionen der Erzählung tritt auch Ascanio, der Bruder Senios, auf. Namen und Einzelheiten der Sage variieren je nach Überlieferung.",
+          "Ein nicht historischer Ursprung: Es gibt keine Belege dafür, dass Senio wirklich gelebt oder Siena gegründet hat. Die Sage darf nicht mit den archäologischen Erkenntnissen zu den antiken Siedlungen der Gegend verwechselt werden.",
+          "Ein noch sichtbares Symbol: Die Wölfin findet sich auf Wappen, Verzierungen und Skulpturen in der ganzen Altstadt und ist zu einem erkennbaren Element der sienesischen Identität geworden."
+        ],
+        "es": [
+          "La loba sienesa: la loba que amamanta a los gemelos es uno de los símbolos más extendidos de Siena. Su presencia recuerda la leyenda de los orígenes y el vínculo mítico con Roma.",
+          "Dos hermanos fundadores: en algunas versiones del relato aparece también Ascanio, hermano de Senio. Los nombres y detalles de la leyenda varían según las tradiciones.",
+          "Un origen no histórico: no hay pruebas de que Senio existiera realmente ni de que fundara Siena. La leyenda no debe confundirse con los datos arqueológicos sobre los asentamientos antiguos del territorio.",
+          "Un símbolo aún visible: la loba aparece en escudos, decoraciones y esculturas repartidos por el centro histórico y se ha convertido en un elemento reconocible de la identidad sienesa."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo",
+        "palazzo-pubblico-museo-civico"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame simbolico",
+            "en": "Symbolic link",
+            "fr": "Lien symbolique",
+            "de": "Symbolischer Bezug",
+            "es": "Vínculo simbólico"
+          },
+          "testo": {
+            "it": "La piazza è uno dei luoghi migliori per raccontare la leggenda delle origini e il modo in cui Siena ha costruito la propria identità civica. La lupa e i richiami alla tradizione romana possono essere cercati nelle decorazioni e nei simboli cittadini.",
+            "en": "The square is one of the best places to tell the legend of the origins and how Siena built its civic identity. The she-wolf and references to the Roman tradition can be sought among the city's decorations and symbols.",
+            "fr": "La place est l'un des meilleurs endroits pour raconter la légende des origines et la manière dont Sienne a construit son identité civique. On peut y chercher la louve et les références à la tradition romaine dans les décorations et les symboles de la ville.",
+            "de": "Der Platz ist einer der besten Orte, um die Gründungssage und die Art zu erzählen, wie Siena seine bürgerliche Identität aufgebaut hat. Die Wölfin und Verweise auf die römische Tradition lassen sich in den Verzierungen und Symbolen der Stadt entdecken.",
+            "es": "La plaza es uno de los mejores lugares para contar la leyenda de los orígenes y el modo en que Siena construyó su identidad cívica. La loba y las alusiones a la tradición romana pueden buscarse en las decoraciones y los símbolos de la ciudad."
+          }
+        },
+        "palazzo-pubblico-museo-civico": {
+          "tipo": {
+            "it": "Legame simbolico",
+            "en": "Symbolic link",
+            "fr": "Lien symbolique",
+            "de": "Symbolischer Bezug",
+            "es": "Vínculo simbólico"
+          },
+          "testo": {
+            "it": "Qui l'identità politica e simbolica della Repubblica senese si esprimeva anche attraverso immagini e riferimenti alla storia cittadina. Il collegamento riguarda la costruzione della memoria collettiva, non una presenza storica di Senio.",
+            "en": "Here the political and symbolic identity of the Sienese Republic was also expressed through images and references to the city's history. The link concerns the building of collective memory, not a historical presence of Senius.",
+            "fr": "Ici, l'identité politique et symbolique de la République siennoise s'exprimait aussi par des images et des références à l'histoire de la ville. Le lien concerne la construction de la mémoire collective, non une présence historique de Sénius.",
+            "de": "Hier drückte sich die politische und symbolische Identität der Republik Siena auch durch Bilder und Verweise auf die Stadtgeschichte aus. Der Bezug betrifft den Aufbau des kollektiven Gedächtnisses, nicht eine historische Anwesenheit Senios.",
+            "es": "Aquí la identidad política y simbólica de la República de Siena se expresaba también mediante imágenes y referencias a la historia de la ciudad. El vínculo atañe a la construcción de la memoria colectiva, no a una presencia histórica de Senio."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "sant-ansano",
+      "nome": "Sant'Ansano",
+      "nascita": 284,
+      "morte": 303,
+      "professione": {
+        "it": "Primo evangelizzatore e protomartire di Siena",
+        "en": "First evangelizer and protomartyr of Siena",
+        "fr": "Premier évangélisateur et protomartyr de Sienne",
+        "de": "Erster Glaubensbote und Protomärtyrer Sienas",
+        "es": "Primer evangelizador y protomártir de Siena"
+      },
+      "luogoNascita": {
+        "it": "Roma (secondo la tradizione)",
+        "en": "Rome (according to tradition)",
+        "fr": "Rome (selon la tradition)",
+        "de": "Rom (der Überlieferung nach)",
+        "es": "Roma (según la tradición)"
+      },
+      "dataNascita": {
+        "it": "284 circa (secondo la tradizione)",
+        "en": "c. 284 (according to tradition)",
+        "fr": "vers 284 (selon la tradition)",
+        "de": "um 284 (der Überlieferung nach)",
+        "es": "hacia 284 (según la tradición)"
+      },
+      "luogoMorte": {
+        "it": "Dofana, presso Castelnuovo Berardenga (secondo la tradizione)",
+        "en": "Dofana, near Castelnuovo Berardenga (according to tradition)",
+        "fr": "Dofana, près de Castelnuovo Berardenga (selon la tradition)",
+        "de": "Dofana bei Castelnuovo Berardenga (der Überlieferung nach)",
+        "es": "Dofana, cerca de Castelnuovo Berardenga (según la tradición)"
+      },
+      "dataMorte": {
+        "it": "1º dicembre 303 o 304 (secondo la tradizione)",
+        "en": "1 December 303 or 304 (according to tradition)",
+        "fr": "1er décembre 303 ou 304 (selon la tradition)",
+        "de": "1. Dezember 303 oder 304 (der Überlieferung nach)",
+        "es": "1 de diciembre de 303 o 304 (según la tradición)"
+      },
+      "biografia": {
+        "it": "Sant'Ansano è venerato come primo evangelizzatore e protomartire di Siena, nonché come uno dei principali patroni della città e della Chiesa senese. La sua vicenda si colloca tradizionalmente agli inizi del IV secolo, durante le persecuzioni contro i cristiani promosse dall'imperatore Diocleziano.\n\nSecondo la tradizione agiografica, Ansano sarebbe nato a Roma intorno al 284, in una famiglia patrizia identificata con la gens Anicia. Avrebbe abbracciato molto giovane la fede cristiana, entrando in contrasto con l'ambiente familiare e con le autorità romane. Durante le persecuzioni sarebbe stato arrestato, ma sarebbe riuscito a fuggire e a raggiungere la Toscana.\n\nLa tradizione racconta che arrivò a Siena, allora centro romano conosciuto come Sena Julia, dove iniziò a predicare il cristianesimo e a battezzare i primi fedeli. Per questa attività è ricordato con l'appellativo di «battezzatore dei Senesi».\n\nLa sua predicazione avrebbe attirato l'attenzione delle autorità. Ansano sarebbe stato imprigionato e sottoposto a diversi supplizi, dai quali, secondo il racconto religioso, sarebbe uscito miracolosamente illeso. La tradizione senese colloca la sua prigionia in un ambiente identificato con l'attuale Oratorio delle Carceri di Sant'Ansano, in via San Quirico.\n\nIl racconto prosegue con il trasferimento del giovane a Dofana, dove sarebbe stato decapitato il 1º dicembre del 303 o del 304. In quel luogo si sviluppò successivamente una tradizione di culto legata al martirio.\n\nLe notizie storiche sulla sua vita sono limitate e non consentono di ricostruire con certezza tutti gli episodi della sua biografia. Anche i dettagli relativi alla famiglia, all'arrivo a Siena e ai supplizi appartengono soprattutto alla tradizione agiografica. La sua importanza per la città è però documentata dalla continuità del culto e dal ruolo che ha assunto nella memoria religiosa e civica senese.\n\nLa festa di Sant'Ansano si celebra il 1º dicembre. A Siena questa ricorrenza ha anche un significato civile e contradaiolo: segna tradizionalmente l'inizio del nuovo anno delle contrade, con celebrazioni religiose e una partecipazione delle diciassette consorelle.",
+        "en": "Saint Ansanus is venerated as the first evangelizer and protomartyr of Siena, and as one of the main patron saints of the city and of the Sienese Church. His story is traditionally placed at the start of the 4th century, during the persecutions of Christians under Emperor Diocletian.\n\nAccording to hagiographic tradition, Ansanus was born in Rome around 284 into a patrician family identified with the gens Anicia. He embraced the Christian faith very young, clashing with his family and the Roman authorities. During the persecutions he is said to have been arrested, but managed to escape and reach Tuscany.\n\nTradition tells that he came to Siena, then a Roman town known as Sena Julia, where he began to preach Christianity and baptise the first believers. For this he is remembered as the \"baptiser of the Sienese\".\n\nHis preaching is said to have drawn the attention of the authorities. Ansanus was imprisoned and subjected to various tortures, from which, according to the religious account, he emerged miraculously unharmed. Sienese tradition places his imprisonment in a space identified with today's Oratory of the Prisons of Sant'Ansano, on Via San Quirico.\n\nThe account continues with the young man's transfer to Dofana, where he was beheaded on 1 December 303 or 304. A tradition of worship linked to the martyrdom later developed at that place.\n\nHistorical information on his life is limited and does not allow every episode of his biography to be reconstructed with certainty. Details about his family, his arrival in Siena and the tortures also belong mainly to hagiographic tradition. His importance for the city is nevertheless documented by the continuity of his cult and the role he has taken in Siena's religious and civic memory.\n\nThe feast of Saint Ansanus is celebrated on 1 December. In Siena this day also has a civic and contrada meaning: it traditionally marks the start of the contrade's new year, with religious celebrations and the participation of the seventeen contrade.",
+        "fr": "Saint Ansane est vénéré comme premier évangélisateur et protomartyr de Sienne, et comme l'un des principaux patrons de la ville et de l'Église siennoise. Son histoire se situe traditionnellement au début du IVe siècle, pendant les persécutions des chrétiens menées sous l'empereur Dioclétien.\n\nSelon la tradition hagiographique, Ansane serait né à Rome vers 284, dans une famille patricienne identifiée à la gens Anicia. Il aurait embrassé très jeune la foi chrétienne, entrant en conflit avec sa famille et avec les autorités romaines. Pendant les persécutions, il aurait été arrêté, mais aurait réussi à s'enfuir et à gagner la Toscane.\n\nLa tradition raconte qu'il arriva à Sienne, alors centre romain connu sous le nom de Sena Julia, où il commença à prêcher le christianisme et à baptiser les premiers fidèles. Pour cette activité, on se souvient de lui comme du « baptiseur des Siennois ».\n\nSa prédication aurait attiré l'attention des autorités. Ansane aurait été emprisonné et soumis à divers supplices dont, selon le récit religieux, il serait sorti miraculeusement indemne. La tradition siennoise situe sa captivité dans un lieu identifié à l'actuel Oratoire des Prisons de Sant'Ansano, via San Quirico.\n\nLe récit se poursuit par le transfert du jeune homme à Dofana, où il aurait été décapité le 1er décembre 303 ou 304. Une tradition de culte liée au martyre s'y est développée par la suite.\n\nLes informations historiques sur sa vie sont limitées et ne permettent pas de reconstituer avec certitude tous les épisodes de sa biographie. Les détails sur sa famille, son arrivée à Sienne et les supplices relèvent surtout de la tradition hagiographique. Son importance pour la ville est toutefois attestée par la continuité du culte et par le rôle qu'il a pris dans la mémoire religieuse et civique siennoise.\n\nLa fête de Saint Ansane se célèbre le 1er décembre. À Sienne, cette date a aussi une valeur civile et contradaiola : elle marque traditionnellement le début de la nouvelle année des contrade, avec des célébrations religieuses et la participation des dix-sept contrade.",
+        "de": "Der heilige Ansanus wird als erster Glaubensbote und Protomärtyrer Sienas verehrt, außerdem als einer der wichtigsten Schutzheiligen der Stadt und der sienesischen Kirche. Seine Geschichte wird traditionell an den Anfang des 4. Jahrhunderts gelegt, in die Zeit der Christenverfolgungen unter Kaiser Diokletian.\n\nNach der hagiographischen Überlieferung wurde Ansanus um 284 in Rom in eine patrizische Familie geboren, die mit der gens Anicia identifiziert wird. Er soll sehr jung den christlichen Glauben angenommen haben und geriet dadurch in Konflikt mit seiner Familie und den römischen Behörden. Während der Verfolgungen soll er verhaftet worden sein, konnte aber fliehen und die Toskana erreichen.\n\nDie Überlieferung berichtet, dass er nach Siena kam, damals ein römisches Zentrum namens Sena Julia, und dort das Christentum zu predigen und die ersten Gläubigen zu taufen begann. Deshalb wird er als „Täufer der Sienesen“ in Erinnerung behalten.\n\nSeine Predigt soll die Aufmerksamkeit der Behörden erregt haben. Ansanus soll eingekerkert und verschiedenen Martern unterworfen worden sein, aus denen er nach dem religiösen Bericht auf wundersame Weise unversehrt hervorging. Die sienesische Überlieferung verlegt seine Haft in einen Raum, der mit dem heutigen Oratorio delle Carceri di Sant'Ansano in der Via San Quirico identifiziert wird.\n\nDer Bericht setzt sich mit der Überführung des jungen Mannes nach Dofana fort, wo er am 1. Dezember 303 oder 304 enthauptet worden sein soll. An diesem Ort entwickelte sich später eine mit dem Martyrium verbundene Verehrung.\n\nDie historischen Nachrichten über sein Leben sind spärlich und erlauben es nicht, alle Episoden seiner Biografie sicher zu rekonstruieren. Auch die Einzelheiten zu Familie, Ankunft in Siena und Martern gehören vor allem zur hagiographischen Überlieferung. Seine Bedeutung für die Stadt ist jedoch durch die ungebrochene Verehrung und seine Rolle im religiösen und bürgerlichen Gedächtnis Sienas belegt.\n\nDas Fest des heiligen Ansanus wird am 1. Dezember gefeiert. In Siena hat dieser Tag auch eine bürgerliche und contradaiole Bedeutung: Er markiert traditionell den Beginn des neuen Jahres der Contraden, mit religiösen Feiern und der Teilnahme der siebzehn Contraden.",
+        "es": "San Ansano es venerado como primer evangelizador y protomártir de Siena, y como uno de los principales patronos de la ciudad y de la Iglesia sienesa. Su historia se sitúa tradicionalmente a comienzos del siglo IV, durante las persecuciones contra los cristianos promovidas por el emperador Diocleciano.\n\nSegún la tradición hagiográfica, Ansano habría nacido en Roma hacia 284, en una familia patricia identificada con la gens Anicia. Habría abrazado la fe cristiana muy joven, entrando en conflicto con su familia y con las autoridades romanas. Durante las persecuciones habría sido arrestado, pero logró huir y llegar a la Toscana.\n\nLa tradición cuenta que llegó a Siena, entonces un centro romano conocido como Sena Julia, donde empezó a predicar el cristianismo y a bautizar a los primeros fieles. Por esta actividad se le recuerda como el «bautizador de los sieneses».\n\nSu predicación habría llamado la atención de las autoridades. Ansano habría sido encarcelado y sometido a varios suplicios, de los que, según el relato religioso, salió milagrosamente ileso. La tradición sienesa sitúa su prisión en un espacio identificado con el actual Oratorio de las Cárceles de Sant'Ansano, en la Via San Quirico.\n\nEl relato continúa con el traslado del joven a Dofana, donde habría sido decapitado el 1 de diciembre de 303 o 304. En ese lugar se desarrolló después una tradición de culto ligada al martirio.\n\nLas noticias históricas sobre su vida son limitadas y no permiten reconstruir con certeza todos los episodios de su biografía. También los detalles sobre su familia, su llegada a Siena y los suplicios pertenecen sobre todo a la tradición hagiográfica. Su importancia para la ciudad está, no obstante, documentada por la continuidad del culto y por el papel que ha adquirido en la memoria religiosa y cívica sienesa.\n\nLa fiesta de San Ansano se celebra el 1 de diciembre. En Siena esta fecha tiene también un significado civil y contradaiolo: marca tradicionalmente el inicio del nuevo año de las contradas, con celebraciones religiosas y la participación de las diecisiete contradas."
+      },
+      "curiosita": {
+        "it": [
+          "Il battezzatore dei Senesi: è l'appellativo con cui viene ricordato per la sua presunta attività di evangelizzazione nella città romana.",
+          "La festa del 1º dicembre: la ricorrenza religiosa coincide con l'inizio dell'anno contradaiolo. La celebrazione unisce quindi la memoria del patrono alla vita delle contrade.",
+          "Il martirio a Dofana: la tradizione colloca la morte del santo fuori dal centro urbano, nell'area di Dofana. Qui si conserva una memoria religiosa legata al luogo del martirio.",
+          "Le reliquie: la tradizione racconta che le spoglie di Ansano furono trasferite a Siena nel Medioevo. Oggi nella Cattedrale sono venerate reliquie attribuite al santo.",
+          "La Maestà di Duccio: Sant'Ansano è raffigurato tra i santi nella celebre Maestà di Duccio di Buoninsegna, originariamente collocata sull'altare maggiore del Duomo. È una delle testimonianze artistiche più importanti del suo culto."
+        ],
+        "en": [
+          "The baptiser of the Sienese: this is the title by which he is remembered for his supposed work of evangelisation in the Roman town.",
+          "The feast of 1 December: the religious feast coincides with the start of the contrada year. The celebration thus joins the memory of the patron saint with the life of the contrade.",
+          "The martyrdom at Dofana: tradition places the saint's death outside the town, in the Dofana area. A religious memory tied to the place of martyrdom is kept there.",
+          "The relics: tradition says Ansanus's remains were moved to Siena in the Middle Ages. Today relics attributed to the saint are venerated in the Cathedral.",
+          "Duccio's Maestà: Saint Ansanus is depicted among the saints in Duccio di Buoninsegna's famous Maestà, originally on the high altar of the Duomo. It is one of the most important artistic testimonies of his cult."
+        ],
+        "fr": [
+          "Le baptiseur des Siennois : c'est le surnom sous lequel on le rappelle pour son activité présumée d'évangélisation dans la ville romaine.",
+          "La fête du 1er décembre : la fête religieuse coïncide avec le début de l'année des contrade. La célébration unit ainsi la mémoire du saint patron et la vie des contrade.",
+          "Le martyre à Dofana : la tradition situe la mort du saint hors de la ville, dans la zone de Dofana, où se conserve une mémoire religieuse liée au lieu du martyre.",
+          "Les reliques : selon la tradition, la dépouille d'Ansane fut transférée à Sienne au Moyen Âge. Aujourd'hui, des reliques attribuées au saint sont vénérées dans la cathédrale.",
+          "La Maestà de Duccio : saint Ansane figure parmi les saints de la célèbre Maestà de Duccio di Buoninsegna, placée à l'origine sur le maître-autel du Duomo. C'est l'un des plus importants témoignages artistiques de son culte."
+        ],
+        "de": [
+          "Der Täufer der Sienesen: So wird er wegen seiner angeblichen Missionstätigkeit in der römischen Stadt in Erinnerung behalten.",
+          "Das Fest am 1. Dezember: Das religiöse Fest fällt mit dem Beginn des Contradenjahres zusammen. Die Feier verbindet so das Gedenken an den Schutzpatron mit dem Leben der Contraden.",
+          "Das Martyrium in Dofana: Die Überlieferung verlegt den Tod des Heiligen außerhalb der Stadt in die Gegend von Dofana, wo eine religiöse Erinnerung an den Ort des Martyriums bewahrt wird.",
+          "Die Reliquien: Der Überlieferung nach wurden die sterblichen Überreste des Ansanus im Mittelalter nach Siena überführt. Heute werden im Dom ihm zugeschriebene Reliquien verehrt.",
+          "Duccios Maestà: Der heilige Ansanus ist unter den Heiligen in der berühmten Maestà von Duccio di Buoninsegna dargestellt, die ursprünglich auf dem Hochaltar des Doms stand. Sie ist eines der wichtigsten künstlerischen Zeugnisse seiner Verehrung."
+        ],
+        "es": [
+          "El bautizador de los sieneses: es el apelativo con el que se le recuerda por su presunta labor de evangelización en la ciudad romana.",
+          "La fiesta del 1 de diciembre: la celebración religiosa coincide con el inicio del año de las contradas. La fiesta une así la memoria del patrono con la vida de las contradas.",
+          "El martirio en Dofana: la tradición sitúa la muerte del santo fuera del núcleo urbano, en la zona de Dofana, donde se conserva una memoria religiosa ligada al lugar del martirio.",
+          "Las reliquias: la tradición cuenta que los restos de Ansano fueron trasladados a Siena en la Edad Media. Hoy en la catedral se veneran reliquias atribuidas al santo.",
+          "La Maestà de Duccio: San Ansano aparece entre los santos de la célebre Maestà de Duccio di Buoninsegna, colocada originalmente en el altar mayor del Duomo. Es uno de los testimonios artísticos más importantes de su culto."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta",
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – culto",
+            "en": "Direct link – cult",
+            "fr": "Lien direct – culte",
+            "de": "Direkter Bezug – Kult",
+            "es": "Vínculo directo – culto"
+          },
+          "testo": {
+            "it": "La Cattedrale conserva reliquie attribuite al santo e testimonia la sua importanza nella tradizione religiosa cittadina.",
+            "en": "The Cathedral holds relics attributed to the saint and bears witness to his importance in the city's religious tradition.",
+            "fr": "La cathédrale conserve des reliques attribuées au saint et témoigne de son importance dans la tradition religieuse de la ville.",
+            "de": "Der Dom bewahrt dem Heiligen zugeschriebene Reliquien und zeugt von seiner Bedeutung in der religiösen Tradition der Stadt.",
+            "es": "La catedral conserva reliquias atribuidas al santo y testimonia su importancia en la tradición religiosa de la ciudad."
+          }
+        },
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame civico – festa",
+            "en": "Civic link – feast",
+            "fr": "Lien civique – fête",
+            "de": "Bürgerlicher Bezug – Fest",
+            "es": "Vínculo cívico – fiesta"
+          },
+          "testo": {
+            "it": "Da qui prende tradizionalmente avvio il corteo delle autorità e delle contrade in occasione delle celebrazioni del 1º dicembre, diretto verso la Cattedrale.",
+            "en": "From here the procession of authorities and contrade traditionally sets off for the celebrations of 1 December, heading towards the Cathedral.",
+            "fr": "C'est d'ici que part traditionnellement le cortège des autorités et des contrade pour les célébrations du 1er décembre, en direction de la cathédrale.",
+            "de": "Von hier aus setzt sich traditionell der Zug der Behörden und Contraden zu den Feierlichkeiten am 1. Dezember in Richtung Dom in Bewegung.",
+            "es": "Desde aquí parte tradicionalmente el cortejo de las autoridades y de las contradas en las celebraciones del 1 de diciembre, rumbo a la catedral."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "sigerico-di-canterbury",
+      "nome": "Sigerico di Canterbury",
+      "ordine": 990,
+      "morte": 994,
+      "professione": {
+        "it": "Arcivescovo di Canterbury",
+        "en": "Archbishop of Canterbury",
+        "fr": "Archevêque de Cantorbéry",
+        "de": "Erzbischof von Canterbury",
+        "es": "Arzobispo de Canterbury"
+      },
+      "luogoNascita": {
+        "it": "Sconosciuta",
+        "en": "Unknown",
+        "fr": "Inconnue",
+        "de": "Unbekannt",
+        "es": "Desconocida"
+      },
+      "dataNascita": {
+        "it": "Sconosciuta",
+        "en": "Unknown",
+        "fr": "Inconnue",
+        "de": "Unbekannt",
+        "es": "Desconocida"
+      },
+      "luogoMorte": {
+        "it": "Probabilmente Canterbury",
+        "en": "Probably Canterbury",
+        "fr": "Probablement Cantorbéry",
+        "de": "Wahrscheinlich Canterbury",
+        "es": "Probablemente Canterbury"
+      },
+      "dataMorte": {
+        "it": "28 ottobre 994",
+        "en": "28 October 994",
+        "fr": "28 octobre 994",
+        "de": "28. Oktober 994",
+        "es": "28 de octubre de 994"
+      },
+      "biografia": {
+        "it": "Sigerico fu un ecclesiastico inglese, abate e poi arcivescovo di Canterbury dal 990 fino alla morte. È ricordato soprattutto per il viaggio compiuto a Roma nel 990, quando ricevette da papa Giovanni XV il pallio, il paramento liturgico che contraddistingueva la dignità arcivescovile.\n\nDurante il viaggio di ritorno verso Canterbury fece annotare le località nelle quali si fermò. Il documento, conservato in forma manoscritta, elenca le tappe del percorso e rappresenta una delle testimonianze più importanti per ricostruire la viabilità medievale tra Roma e l'Europa settentrionale.\n\nIl suo itinerario è diventato un riferimento fondamentale per lo studio della Via Francigena, il grande sistema di percorsi che collegava Roma con le regioni dell'Europa occidentale. Non si trattava di una strada unica e immutabile, ma di una rete di vie utilizzate da pellegrini, mercanti, ecclesiastici e viaggiatori.\n\nLa testimonianza di Sigerico permette di comprendere quanto fossero importanti gli spostamenti religiosi e culturali nell'Europa medievale. Lungo questi percorsi circolavano non soltanto persone, ma anche idee, conoscenze, merci e forme artistiche.\n\nIl legame con Siena è soprattutto storico e territoriale: la città si sviluppò progressivamente come uno dei principali centri della direttrice francigena in Toscana. È però importante non affermare automaticamente che Sigerico abbia attraversato il centro urbano di Siena: il suo documento registra le mansiones, cioè le soste del viaggio, e alcune identificazioni geografiche del tracciato richiedono cautela.",
+        "en": "Sigeric was an English churchman, abbot and then Archbishop of Canterbury from 990 until his death. He is remembered above all for his journey to Rome in 990, when he received the pallium from Pope John XV, the liturgical vestment marking the archbishop's dignity.\n\nOn the way back to Canterbury he had the places where he stopped written down. The document, preserved in manuscript form, lists the stages of the route and is one of the most important testimonies for reconstructing medieval roads between Rome and northern Europe.\n\nHis itinerary has become a key reference for the study of the Via Francigena, the great system of routes linking Rome with the regions of western Europe. It was not a single, unchanging road but a network of ways used by pilgrims, merchants, churchmen and travellers.\n\nSigeric's account helps us understand how important religious and cultural journeys were in medieval Europe. Along these routes travelled not only people but also ideas, knowledge, goods and artistic forms.\n\nThe link with Siena is above all historical and territorial: the city gradually grew into one of the main centres on the Francigena route in Tuscany. It is important, however, not to assume that Sigeric passed through Siena's town centre: his document records the mansiones, the stops of the journey, and some geographical identifications of the route call for caution.",
+        "fr": "Sigéric fut un ecclésiastique anglais, abbé puis archevêque de Cantorbéry de 990 jusqu'à sa mort. On se souvient surtout de son voyage à Rome en 990, où il reçut du pape Jean XV le pallium, le vêtement liturgique qui marquait la dignité archiépiscopale.\n\nLors du voyage de retour vers Cantorbéry, il fit noter les lieux où il s'arrêtait. Le document, conservé sous forme de manuscrit, énumère les étapes du parcours et constitue l'un des témoignages les plus importants pour reconstituer la viabilité médiévale entre Rome et l'Europe du Nord.\n\nSon itinéraire est devenu une référence fondamentale pour l'étude de la Via Francigena, le grand système de routes reliant Rome aux régions de l'Europe occidentale. Ce n'était pas une route unique et immuable, mais un réseau de voies utilisées par des pèlerins, des marchands, des ecclésiastiques et des voyageurs.\n\nLe témoignage de Sigéric permet de comprendre l'importance des déplacements religieux et culturels dans l'Europe médiévale. Sur ces routes circulaient non seulement des personnes, mais aussi des idées, des connaissances, des marchandises et des formes artistiques.\n\nLe lien avec Sienne est surtout historique et territorial : la ville s'est progressivement développée comme l'un des principaux centres de l'axe francigène en Toscane. Il faut toutefois se garder d'affirmer que Sigéric ait traversé le centre de Sienne : son document enregistre les mansiones, c'est-à-dire les étapes du voyage, et certaines identifications géographiques du tracé demandent de la prudence.",
+        "de": "Sigerich war ein englischer Geistlicher, Abt und von 990 bis zu seinem Tod Erzbischof von Canterbury. Bekannt ist er vor allem für seine Reise nach Rom im Jahr 990, bei der er von Papst Johannes XV. das Pallium erhielt, das liturgische Gewand, das die erzbischöfliche Würde kennzeichnete.\n\nAuf der Rückreise nach Canterbury ließ er die Orte aufzeichnen, an denen er Halt machte. Das handschriftlich überlieferte Dokument listet die Etappen der Strecke auf und ist eines der wichtigsten Zeugnisse für die Rekonstruktion der mittelalterlichen Verkehrswege zwischen Rom und Nordeuropa.\n\nSeine Reiseroute ist zu einem grundlegenden Bezugspunkt für die Erforschung der Via Francigena geworden, des großen Wegesystems, das Rom mit den Regionen Westeuropas verband. Es war keine einzelne, unveränderliche Straße, sondern ein Netz von Wegen, die Pilger, Kaufleute, Geistliche und Reisende nutzten.\n\nSigerichs Zeugnis zeigt, wie wichtig religiöse und kulturelle Reisen im mittelalterlichen Europa waren. Auf diesen Wegen wanderten nicht nur Menschen, sondern auch Ideen, Wissen, Waren und künstlerische Formen.\n\nDie Verbindung zu Siena ist vor allem historisch und räumlich: Die Stadt entwickelte sich allmählich zu einem der wichtigsten Zentren an der Francigena-Route in der Toskana. Man sollte jedoch nicht ohne Weiteres behaupten, Sigerich sei durch das Stadtzentrum von Siena gekommen: Sein Dokument verzeichnet die mansiones, die Rastorte der Reise, und manche geografische Zuordnungen der Strecke erfordern Vorsicht.",
+        "es": "Sigerico fue un eclesiástico inglés, abad y luego arzobispo de Canterbury desde 990 hasta su muerte. Se le recuerda sobre todo por su viaje a Roma en 990, cuando recibió del papa Juan XV el palio, la vestidura litúrgica que distinguía la dignidad arzobispal.\n\nEn el viaje de regreso a Canterbury hizo anotar los lugares en los que se detuvo. El documento, conservado en forma manuscrita, enumera las etapas del recorrido y es uno de los testimonios más importantes para reconstruir la red viaria medieval entre Roma y el norte de Europa.\n\nSu itinerario se ha convertido en una referencia fundamental para el estudio de la Vía Francígena, el gran sistema de rutas que unía Roma con las regiones de Europa occidental. No era un camino único e inmutable, sino una red de vías usadas por peregrinos, mercaderes, eclesiásticos y viajeros.\n\nEl testimonio de Sigerico permite comprender la importancia de los desplazamientos religiosos y culturales en la Europa medieval. Por estas rutas circulaban no solo personas, sino también ideas, conocimientos, mercancías y formas artísticas.\n\nEl vínculo con Siena es sobre todo histórico y territorial: la ciudad se desarrolló progresivamente como uno de los principales centros del eje francígeno en la Toscana. Conviene, sin embargo, no afirmar automáticamente que Sigerico atravesara el centro urbano de Siena: su documento registra las mansiones, es decir, las paradas del viaje, y algunas identificaciones geográficas del trazado requieren cautela."
+      },
+      "curiosita": {
+        "it": [
+          "Il documento di Sigerico è una delle fonti più importanti per ricostruire il percorso medievale della Via Francigena.",
+          "L'itinerario comprende una serie di soste, chiamate mansiones, che corrispondevano ai luoghi nei quali il viaggiatore si fermava.",
+          "Sigerico non era un pellegrino qualunque: il suo viaggio era legato a un importante incarico ecclesiastico, ma la sua testimonianza è diventata preziosa per la storia di tutti i viaggiatori medievali.",
+          "La Via Francigena non era una strada nel senso moderno del termine: il percorso poteva cambiare nel tempo in base alle condizioni politiche, alla sicurezza e alla disponibilità di ospitalità."
+        ],
+        "en": [
+          "Sigeric's document is one of the most important sources for reconstructing the medieval route of the Via Francigena.",
+          "The itinerary includes a series of stops, called mansiones, corresponding to the places where the traveller halted.",
+          "Sigeric was no ordinary pilgrim: his journey was tied to an important church office, yet his account has become precious for the history of all medieval travellers.",
+          "The Via Francigena was not a road in the modern sense: its course could change over time depending on political conditions, safety and the availability of hospitality."
+        ],
+        "fr": [
+          "Le document de Sigéric est l'une des sources les plus importantes pour reconstituer le parcours médiéval de la Via Francigena.",
+          "L'itinéraire comprend une série d'arrêts, appelés mansiones, correspondant aux lieux où le voyageur faisait étape.",
+          "Sigéric n'était pas un pèlerin ordinaire : son voyage était lié à une importante charge ecclésiastique, mais son témoignage est devenu précieux pour l'histoire de tous les voyageurs médiévaux.",
+          "La Via Francigena n'était pas une route au sens moderne du terme : son tracé pouvait changer avec le temps selon les conditions politiques, la sécurité et les possibilités d'hospitalité."
+        ],
+        "de": [
+          "Sigerichs Dokument ist eine der wichtigsten Quellen, um den mittelalterlichen Verlauf der Via Francigena zu rekonstruieren.",
+          "Die Reiseroute umfasst eine Reihe von Rastorten, mansiones genannt, an denen der Reisende Halt machte.",
+          "Sigerich war kein gewöhnlicher Pilger: Seine Reise war mit einem wichtigen kirchlichen Amt verbunden, doch sein Zeugnis ist für die Geschichte aller mittelalterlichen Reisenden wertvoll geworden.",
+          "Die Via Francigena war keine Straße im modernen Sinn: Ihr Verlauf konnte sich im Lauf der Zeit je nach politischer Lage, Sicherheit und verfügbarer Gastfreundschaft ändern."
+        ],
+        "es": [
+          "El documento de Sigerico es una de las fuentes más importantes para reconstruir el recorrido medieval de la Vía Francígena.",
+          "El itinerario incluye una serie de paradas, llamadas mansiones, que correspondían a los lugares donde el viajero se detenía.",
+          "Sigerico no era un peregrino cualquiera: su viaje estaba ligado a un importante cargo eclesiástico, pero su testimonio se ha vuelto valioso para la historia de todos los viajeros medievales.",
+          "La Vía Francígena no era un camino en el sentido moderno: su trazado podía cambiar con el tiempo según las condiciones políticas, la seguridad y la disponibilidad de hospitalidad."
+        ]
+      },
+      "luoghi": [
+        "santa-maria-della-scala",
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "santa-maria-della-scala": {
+          "tipo": {
+            "it": "Legame storico – viaggiatori",
+            "en": "Historical link – travellers",
+            "fr": "Lien historique – voyageurs",
+            "de": "Historischer Bezug – Reisende",
+            "es": "Vínculo histórico – viajeros"
+          },
+          "testo": {
+            "it": "Il complesso ospedaliero è una testimonianza fondamentale dell'accoglienza e dell'assistenza ai viaggiatori e ai pellegrini che raggiungevano Siena. Il collegamento è con la Via Francigena in generale, non con una sosta di Sigerico.",
+            "en": "The hospital complex is a key testimony to the welcome and care given to the travellers and pilgrims who reached Siena. The link is with the Via Francigena in general, not with a stop by Sigeric.",
+            "fr": "Le complexe hospitalier est un témoignage fondamental de l'accueil et de l'assistance offerts aux voyageurs et aux pèlerins qui arrivaient à Sienne. Le lien est avec la Via Francigena en général, non avec une étape de Sigéric.",
+            "de": "Der Spitalkomplex ist ein wichtiges Zeugnis für die Aufnahme und Betreuung der Reisenden und Pilger, die Siena erreichten. Der Bezug besteht zur Via Francigena im Allgemeinen, nicht zu einem Halt Sigerichs.",
+            "es": "El complejo hospitalario es un testimonio fundamental de la acogida y la asistencia a los viajeros y peregrinos que llegaban a Siena. El vínculo es con la Vía Francígena en general, no con una parada de Sigerico."
+          }
+        },
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame storico – strade medievali",
+            "en": "Historical link – medieval routes",
+            "fr": "Lien historique – routes médiévales",
+            "de": "Historischer Bezug – mittelalterliche Wege",
+            "es": "Vínculo histórico – rutas medievales"
+          },
+          "testo": {
+            "it": "L'area della cattedrale e gli antichi assi viari aiutano a comprendere il ruolo assunto dalla città lungo le direttrici medievali. Il collegamento è storico, non la prova di un passaggio di Sigerico.",
+            "en": "The cathedral area and the old road axes help explain the role the city took on along the medieval routes. The link is historical, not proof that Sigeric passed here.",
+            "fr": "Le quartier de la cathédrale et les anciens axes routiers aident à comprendre le rôle pris par la ville le long des axes médiévaux. Le lien est historique, et non la preuve d'un passage de Sigéric.",
+            "de": "Der Domplatz und die alten Straßenachsen helfen zu verstehen, welche Rolle die Stadt entlang der mittelalterlichen Wege einnahm. Der Bezug ist historisch, kein Beleg für eine Durchreise Sigerichs.",
+            "es": "La zona de la catedral y los antiguos ejes viarios ayudan a comprender el papel que asumió la ciudad a lo largo de las rutas medievales. El vínculo es histórico, no la prueba de un paso de Sigerico."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "mauro-vescovo-di-siena",
+      "nome": "Mauro, vescovo di Siena",
+      "ordine": 650,
+      "professione": {
+        "it": "Vescovo di Siena",
+        "en": "Bishop of Siena",
+        "fr": "Évêque de Sienne",
+        "de": "Bischof von Siena",
+        "es": "Obispo de Siena"
+      },
+      "luogoNascita": {
+        "it": "Sconosciuta",
+        "en": "Unknown",
+        "fr": "Inconnue",
+        "de": "Unbekannt",
+        "es": "Desconocida"
+      },
+      "dataNascita": {
+        "it": "Sconosciuta",
+        "en": "Unknown",
+        "fr": "Inconnue",
+        "de": "Unbekannt",
+        "es": "Desconocida"
+      },
+      "luogoMorte": {
+        "it": "Sconosciuto",
+        "en": "Unknown",
+        "fr": "Inconnu",
+        "de": "Unbekannt",
+        "es": "Desconocido"
+      },
+      "dataMorte": {
+        "it": "Sconosciuta (attivo nel VII secolo)",
+        "en": "Unknown (active in the 7th century)",
+        "fr": "Inconnue (actif au VIIe siècle)",
+        "de": "Unbekannt (im 7. Jahrhundert tätig)",
+        "es": "Desconocida (activo en el siglo VII)"
+      },
+      "biografia": {
+        "it": "Mauro fu un vescovo di Siena attivo durante l'Alto Medioevo, in un periodo nel quale le istituzioni ecclesiastiche svolgevano un ruolo essenziale nella vita delle città.\n\nDopo la fine dell'Impero romano d'Occidente, Siena attraversò una fase di trasformazioni politiche e sociali. La presenza longobarda, i mutamenti degli equilibri territoriali e la progressiva riorganizzazione delle istituzioni contribuirono a modificare profondamente la struttura della città e del suo territorio.\n\nIn questo contesto, il vescovo non era soltanto una guida religiosa. La sua autorità poteva estendersi anche alla gestione di proprietà, alla tutela delle comunità e alla negoziazione con altri poteri ecclesiastici e politici.\n\nUna testimonianza importante riguarda proprio Mauro e i rapporti tra la diocesi di Siena e quella di Arezzo. Secondo la documentazione archivistica, nel VII secolo il vescovo senese raggiunse un accordo con il suo omologo aretino per la giurisdizione su diciotto pievi del territorio.\n\nL'episodio mostra quanto fossero importanti i confini delle diocesi e quanto potessero essere complesse le relazioni tra le autorità ecclesiastiche. Le pievi, infatti, erano centri religiosi di riferimento per le comunità rurali e il loro controllo comportava anche un'influenza concreta sul territorio.\n\nLe informazioni biografiche su Mauro sono molto limitate. Non conosciamo con sicurezza la sua origine, la data di nascita o quella di morte. La sua importanza per la storia senese deriva soprattutto dal ruolo istituzionale che ricoprì e dalla testimonianza dei rapporti tra la diocesi e il territorio circostante.",
+        "en": "Maurus was a bishop of Siena active in the early Middle Ages, a time when church institutions played an essential role in city life.\n\nAfter the end of the Western Roman Empire, Siena went through a phase of political and social change. The Lombard presence, shifting territorial balances and the gradual reorganisation of institutions profoundly altered the structure of the city and its territory.\n\nIn this context the bishop was not only a religious leader. His authority could also extend to managing property, protecting communities and negotiating with other church and political powers.\n\nAn important testimony concerns Maurus himself and the relations between the dioceses of Siena and Arezzo. According to archival documentation, in the 7th century the Sienese bishop reached an agreement with his counterpart in Arezzo over jurisdiction of eighteen pievi (rural parish churches) in the territory.\n\nThe episode shows how important diocesan boundaries were and how complex relations between church authorities could be. The pievi were reference points of religious life for rural communities, and controlling them also meant real influence over the land.\n\nBiographical information on Maurus is very limited. We do not know with certainty his origin, birth date or death date. His importance for Sienese history comes mainly from the institutional role he held and from the evidence of relations between the diocese and the surrounding territory.",
+        "fr": "Maur fut un évêque de Sienne actif au haut Moyen Âge, à une époque où les institutions ecclésiastiques jouaient un rôle essentiel dans la vie des villes.\n\nAprès la fin de l'Empire romain d'Occident, Sienne traversa une phase de transformations politiques et sociales. La présence lombarde, les changements d'équilibres territoriaux et la réorganisation progressive des institutions modifièrent profondément la structure de la ville et de son territoire.\n\nDans ce contexte, l'évêque n'était pas seulement un guide religieux. Son autorité pouvait s'étendre à la gestion des biens, à la protection des communautés et à la négociation avec d'autres pouvoirs ecclésiastiques et politiques.\n\nUn témoignage important concerne précisément Maur et les rapports entre les diocèses de Sienne et d'Arezzo. Selon les archives, au VIIe siècle l'évêque siennois conclut avec son homologue d'Arezzo un accord sur la juridiction de dix-huit pievi (églises paroissiales rurales) du territoire.\n\nL'épisode montre l'importance des limites des diocèses et la complexité possible des relations entre autorités ecclésiastiques. Les pievi étaient des centres religieux de référence pour les communautés rurales, et leur contrôle impliquait aussi une influence concrète sur le territoire.\n\nLes informations biographiques sur Maur sont très limitées. Nous ne connaissons pas avec certitude son origine, ni ses dates de naissance et de mort. Son importance pour l'histoire siennoise tient surtout au rôle institutionnel qu'il a tenu et au témoignage des rapports entre le diocèse et le territoire environnant.",
+        "de": "Mauro war ein Bischof von Siena im Frühmittelalter, in einer Zeit, in der kirchliche Institutionen eine wesentliche Rolle im Leben der Städte spielten.\n\nNach dem Ende des Weströmischen Reiches durchlief Siena eine Phase politischer und gesellschaftlicher Umbrüche. Die langobardische Präsenz, veränderte territoriale Gleichgewichte und die allmähliche Neuordnung der Institutionen veränderten die Struktur der Stadt und ihres Umlands tiefgreifend.\n\nIn diesem Zusammenhang war der Bischof nicht nur geistlicher Führer. Seine Autorität konnte sich auch auf die Verwaltung von Besitz, den Schutz der Gemeinden und die Verhandlung mit anderen kirchlichen und politischen Mächten erstrecken.\n\nEin wichtiges Zeugnis betrifft eben Mauro und die Beziehungen zwischen den Diözesen Siena und Arezzo. Nach archivalischen Quellen schloss der sienesische Bischof im 7. Jahrhundert mit seinem Amtsbruder in Arezzo eine Vereinbarung über die Zuständigkeit für achtzehn Pievi (ländliche Pfarrkirchen) im Gebiet.\n\nDie Episode zeigt, wie wichtig die Diözesangrenzen waren und wie komplex die Beziehungen zwischen kirchlichen Autoritäten sein konnten. Die Pievi waren religiöse Mittelpunkte für die ländlichen Gemeinden, und ihre Kontrolle bedeutete auch konkreten Einfluss auf das Land.\n\nDie biografischen Angaben zu Mauro sind sehr begrenzt. Wir kennen weder seine Herkunft noch sein Geburts- oder Todesdatum sicher. Seine Bedeutung für die sienesische Geschichte beruht vor allem auf seiner institutionellen Rolle und dem Zeugnis der Beziehungen zwischen der Diözese und dem umliegenden Gebiet.",
+        "es": "Mauro fue un obispo de Siena activo en la Alta Edad Media, en una época en la que las instituciones eclesiásticas desempeñaban un papel esencial en la vida de las ciudades.\n\nTras el fin del Imperio romano de Occidente, Siena atravesó una fase de transformaciones políticas y sociales. La presencia lombarda, los cambios en los equilibrios territoriales y la progresiva reorganización de las instituciones modificaron profundamente la estructura de la ciudad y de su territorio.\n\nEn este contexto, el obispo no era solo un guía religioso. Su autoridad podía extenderse también a la gestión de propiedades, la tutela de las comunidades y la negociación con otros poderes eclesiásticos y políticos.\n\nUn testimonio importante se refiere precisamente a Mauro y a las relaciones entre las diócesis de Siena y de Arezzo. Según la documentación de archivo, en el siglo VII el obispo sienés alcanzó un acuerdo con su homólogo aretino sobre la jurisdicción de dieciocho pievi (iglesias parroquiales rurales) del territorio.\n\nEl episodio muestra la importancia de los límites de las diócesis y lo complejas que podían ser las relaciones entre autoridades eclesiásticas. Las pievi eran centros religiosos de referencia para las comunidades rurales, y su control suponía también una influencia concreta sobre el territorio.\n\nLas informaciones biográficas sobre Mauro son muy limitadas. No conocemos con seguridad su origen, ni su fecha de nacimiento o de muerte. Su importancia para la historia sienesa deriva sobre todo del papel institucional que desempeñó y del testimonio de las relaciones entre la diócesis y el territorio circundante."
+      },
+      "curiosita": {
+        "it": [
+          "La diocesi di Siena ha origini molto antiche: le prime testimonianze risalgono alla tarda antichità.",
+          "Le pievi erano importanti centri religiosi e amministrativi del territorio rurale, spesso situati in punti strategici rispetto agli insediamenti e alle vie di comunicazione.",
+          "Le controversie tra diocesi non riguardavano soltanto questioni religiose: il controllo delle pievi poteva significare influenza sulle comunità, sulle proprietà e sulle risorse locali.",
+          "La documentazione sull'Alto Medioevo senese è scarsa e frammentaria: per questo anche una notizia circoscritta come l'accordo attribuito a Mauro assume un particolare valore storico."
+        ],
+        "en": [
+          "The diocese of Siena has very ancient origins: the earliest evidence dates to late antiquity.",
+          "The pievi were important religious and administrative centres of the rural area, often placed at strategic points with respect to settlements and routes.",
+          "Disputes between dioceses were not only about religion: controlling the pievi could mean influence over communities, property and local resources.",
+          "Documentation on Siena in the early Middle Ages is scarce and fragmentary, so even a narrow piece of news like the agreement attributed to Maurus takes on special historical value."
+        ],
+        "fr": [
+          "Le diocèse de Sienne a des origines très anciennes : les premiers témoignages remontent à l'Antiquité tardive.",
+          "Les pievi étaient d'importants centres religieux et administratifs du territoire rural, souvent situés à des points stratégiques par rapport aux habitats et aux voies de communication.",
+          "Les différends entre diocèses ne concernaient pas seulement des questions religieuses : contrôler les pievi pouvait signifier une influence sur les communautés, les biens et les ressources locales.",
+          "La documentation sur le haut Moyen Âge siennois est rare et fragmentaire : même une information circonscrite comme l'accord attribué à Maur prend donc une valeur historique particulière."
+        ],
+        "de": [
+          "Die Diözese Siena hat sehr alte Ursprünge: Die frühesten Zeugnisse stammen aus der Spätantike.",
+          "Die Pievi waren wichtige religiöse und Verwaltungszentren des ländlichen Raums, oft an strategischen Punkten zu Siedlungen und Verkehrswegen gelegen.",
+          "Streitigkeiten zwischen Diözesen betrafen nicht nur religiöse Fragen: Die Kontrolle über die Pievi konnte Einfluss auf Gemeinden, Besitz und lokale Ressourcen bedeuten.",
+          "Die Quellenlage zum sienesischen Frühmittelalter ist dürftig und lückenhaft, daher gewinnt selbst eine so begrenzte Nachricht wie die Mauro zugeschriebene Vereinbarung besonderen historischen Wert."
+        ],
+        "es": [
+          "La diócesis de Siena tiene orígenes muy antiguos: los primeros testimonios se remontan a la Antigüedad tardía.",
+          "Las pievi eran importantes centros religiosos y administrativos del territorio rural, a menudo situados en puntos estratégicos respecto a los asentamientos y las vías de comunicación.",
+          "Las controversias entre diócesis no afectaban solo a cuestiones religiosas: controlar las pievi podía significar influencia sobre las comunidades, las propiedades y los recursos locales.",
+          "La documentación sobre la Siena altomedieval es escasa y fragmentaria; por eso incluso una noticia acotada como el acuerdo atribuido a Mauro adquiere un valor histórico especial."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame istituzionale – diocesi",
+            "en": "Institutional link – diocese",
+            "fr": "Lien institutionnel – diocèse",
+            "de": "Institutioneller Bezug – Diözese",
+            "es": "Vínculo institucional – diócesis"
+          },
+          "testo": {
+            "it": "È il centro della vita religiosa della diocesi e permette di raccontare il ruolo dei vescovi nella storia cittadina. L'edificio attuale è frutto di fasi costruttive successive e non va identificato con la cattedrale del tempo di Mauro.",
+            "en": "It is the centre of the diocese's religious life and lets us tell the role of bishops in the city's history. The present building is the result of later construction phases and should not be identified with the cathedral of Maurus's time.",
+            "fr": "C'est le centre de la vie religieuse du diocèse et il permet de raconter le rôle des évêques dans l'histoire de la ville. L'édifice actuel résulte de phases de construction successives et ne doit pas être identifié à la cathédrale de l'époque de Maur.",
+            "de": "Er ist das Zentrum des religiösen Lebens der Diözese und erlaubt es, die Rolle der Bischöfe in der Stadtgeschichte zu erzählen. Das heutige Gebäude ist das Ergebnis späterer Bauphasen und darf nicht mit dem Dom zur Zeit Mauros gleichgesetzt werden.",
+            "es": "Es el centro de la vida religiosa de la diócesis y permite contar el papel de los obispos en la historia de la ciudad. El edificio actual es fruto de fases constructivas posteriores y no debe identificarse con la catedral de la época de Mauro."
+          }
+        }
+      },
+      "collegati": []
+    }
+  ]
 }

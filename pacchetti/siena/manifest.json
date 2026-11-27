@@ -1,5 +1,5 @@
 {
- "versione": "e6f24846c99a",
+ "versione": "ccc6c8cc6465",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3424,8 +3424,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "eaa4a16774319c6e3b2c7c3bd9e3f8ebfb982cf9dd584983a07d572ade096650",
-   "byte": 22
+   "sha256": "3c9c02920977956d6cf92e8d70eb450a01296af8eed4e8bd0f7309274708f22a",
+   "byte": 66581
   },
   {
    "path": "dati/principali.json",
@@ -3532,6 +3532,12 @@
     "accessibilita"
    ],
    "byte": 98794
+  },
+  {
+   "versione": "ccc6c8cc6465",
+   "da": "e6f24846c99a",
+   "data": "2026-11-27",
+   "byte": 66581
   }
  ]
 }
