@@ -1,75 +1,75 @@
 {
- "_nota": "Catalogo delle città della Toscana. Fonte: repo toscana-dati (l'app ne tiene una copia, aggiornata da 'npm run sync:catalogo' prima di ogni build). 'stato': disponibile (dati pronti), in_preparazione. 'anteprima': monumenti gratuiti (id dei luoghi). Una zona con più località (es. 'localita') e senza 'pacchetto' compare come Prossimamente.",
- "versione": 1,
- "gratuito": "Servizi pratici completi, 10 monumenti di anteprima, linee dei mezzi con orario teorico",
- "citta": [
-  {
-   "id": "firenze",
-   "nome": "Firenze",
-   "provincia": "Firenze",
-   "motto": {
-    "it": "Rinascimento, arte e storia",
-    "en": "Renaissance, art and history",
-    "fr": "Renaissance, art et histoire",
-    "de": "Renaissance, Kunst und Geschichte",
-    "es": "Renacimiento, arte e historia"
-   },
-   "stato": "disponibile",
-   "anteprima": [
-    "cattedrale-di-santa-maria-del-fiore",
-    "battistero-di-san-giovanni",
-    "campanile-di-giotto",
-    "piazza-della-signoria",
-    "palazzo-vecchio",
-    "ponte-vecchio",
-    "basilica-di-santa-croce",
-    "palazzo-pitti",
-    "basilica-di-san-lorenzo",
-    "chiesa-e-museo-di-orsanmichele"
-   ],
-   "pacchetto": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/manifest.json",
-   "sku": null,
-   "coordinate": {
-    "latitudine": 43.7696,
-    "longitudine": 11.2558
-   },
-   "dimensione_mb": 81.3,
-   "dimensione_prova_mb": 24.4,
-   "pacchetto_prova": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/manifest_prova.json"
-  },
-  {
-   "id": "siena",
-   "nome": "Siena",
-   "provincia": "Siena",
-   "motto": {
-    "it": "Gotico, Palio e colline",
-    "en": "Gothic, Palio and hills",
-    "fr": "Gothique, Palio et collines",
-    "de": "Gotik, Palio und Hügel",
-    "es": "Gótico, Palio y colinas"
-   },
-   "stato": "disponibile",
-   "anteprima": [
-    "cattedrale-di-santa-maria-assunta",
-    "libreria-piccolomini",
-    "battistero-di-san-giovanni",
-    "piazza-del-campo",
-    "palazzo-pubblico-museo-civico",
-    "torre-del-mangia",
-    "santa-maria-della-scala",
-    "basilica-di-san-domenico",
-    "basilica-di-san-francesco",
-    "santuario-di-santa-caterina"
-   ],
-   "pacchetto": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/manifest.json",
-   "sku": null,
-   "coordinate": {
-    "latitudine": 43.3188,
-    "longitudine": 11.3308
-   },
-   "dimensione_mb": 5.8,
-   "dimensione_prova_mb": 6.1,
-   "pacchetto_prova": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/manifest_prova.json"
-  }
- ]
+  "_nota": "Catalogo delle città della Toscana. Fonte: repo toscana-dati (l'app ne tiene una copia, aggiornata da 'npm run sync:catalogo' prima di ogni build). 'stato': disponibile (dati pronti), in_preparazione. 'anteprima': monumenti gratuiti (id dei luoghi). Una zona con più località (es. 'localita') e senza 'pacchetto' compare come Prossimamente.",
+  "versione": 1,
+  "gratuito": "Servizi pratici completi, 10 monumenti di anteprima, linee dei mezzi con orario teorico",
+  "citta": [
+    {
+      "id": "firenze",
+      "nome": "Firenze",
+      "provincia": "Firenze",
+      "motto": {
+        "it": "Rinascimento, arte e storia",
+        "en": "Renaissance, art and history",
+        "fr": "Renaissance, art et histoire",
+        "de": "Renaissance, Kunst und Geschichte",
+        "es": "Renacimiento, arte e historia"
+      },
+      "stato": "disponibile",
+      "anteprima": [
+        "cattedrale-di-santa-maria-del-fiore",
+        "battistero-di-san-giovanni",
+        "campanile-di-giotto",
+        "piazza-della-signoria",
+        "palazzo-vecchio",
+        "ponte-vecchio",
+        "basilica-di-santa-croce",
+        "palazzo-pitti",
+        "basilica-di-san-lorenzo",
+        "chiesa-e-museo-di-orsanmichele"
+      ],
+      "pacchetto": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/manifest.json",
+      "sku": null,
+      "coordinate": {
+        "latitudine": 43.7696,
+        "longitudine": 11.2558
+      },
+      "dimensione_mb": 81.3,
+      "dimensione_prova_mb": 24.4,
+      "pacchetto_prova": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/firenze/manifest_prova.json"
+    },
+    {
+      "id": "siena",
+      "nome": "Siena",
+      "provincia": "Siena",
+      "motto": {
+        "it": "Gotico, Palio e colline",
+        "en": "Gothic, Palio and hills",
+        "fr": "Gothique, Palio et collines",
+        "de": "Gotik, Palio und Hügel",
+        "es": "Gótico, Palio y colinas"
+      },
+      "stato": "disponibile",
+      "anteprima": [
+        "cattedrale-di-santa-maria-assunta",
+        "libreria-piccolomini",
+        "battistero-di-san-giovanni",
+        "piazza-del-campo",
+        "palazzo-pubblico-museo-civico",
+        "torre-del-mangia",
+        "santa-maria-della-scala",
+        "basilica-di-san-domenico",
+        "basilica-di-san-francesco",
+        "santuario-di-santa-caterina"
+      ],
+      "pacchetto": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/manifest.json",
+      "sku": null,
+      "coordinate": {
+        "latitudine": 43.3188,
+        "longitudine": 11.3308
+      },
+      "dimensione_mb": 5.8,
+      "dimensione_prova_mb": 6.1,
+      "pacchetto_prova": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/manifest_prova.json"
+    }
+  ]
 }
