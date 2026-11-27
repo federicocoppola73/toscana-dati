@@ -1,5 +1,5 @@
 {
- "versione": "c3cff0177ca1",
+ "versione": "a67eedcb3972",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3358,8 +3358,8 @@
   {
    "path": "dati/autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/autobus.json",
-   "sha256": "33ec9c8dbbdd2196f8bb8df496c19bb8307488a8e8735bd847828500ac15edab",
-   "byte": 278993
+   "sha256": "cadf251e5f3b5ecab140dd17429a9d89245c1444c5da8dd811c05f79d15b1437",
+   "byte": 278839
   },
   {
    "path": "dati/cibi.json",
@@ -3499,6 +3499,13 @@
    "data": "2026-11-27",
    "mezzi": true,
    "byte": 837597
+  },
+  {
+   "versione": "a67eedcb3972",
+   "da": "c3cff0177ca1",
+   "data": "2026-11-27",
+   "mezzi": true,
+   "byte": 278839
   }
  ]
 }

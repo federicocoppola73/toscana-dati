@@ -22,7 +22,7 @@ from collections import defaultdict
 
 AGGANCIO_M = 60
 GESTORE = 'Autolinee Toscane'
-URL_ORARI = 'https://www.at-bus.it/it/viaggia/linee-e-orari/firenze'
+URL_ORARI = 'https://www.at-bus.it/it/viaggia/linee-e-orari/{citta}'  # {citta} = nome della cartella del pacchetto
 COLORE_DEFAULT = '#15ac96'
 MINUSCOLE = {'di', 'del', 'della', 'dello', 'dei', 'degli', 'delle', 'da', 'dal', 'dalla', 'e', 'a', 'al', 'alla', 'in', 'il', 'la', 'le',
              'lo', 'i', 'gli', 'con', 'per', 'su', 'sul', 'sulla', 'ai', 'alle', 'nel', 'nella'}
@@ -184,7 +184,7 @@ def main():
             'id': lid, 'etichetta': etichetta(rid), 'mezzo': 'autobus',
             'colore': '#' + rt['route_color'] if rt.get('route_color') else COLORE_DEFAULT,
             'testo': '#' + rt['route_text_color'] if rt.get('route_text_color') else '#FFFFFF',
-            'notturna': False, 'gestore': GESTORE, 'pdf': URL_ORARI, 'direzioni': direzioni,
+            'notturna': False, 'gestore': GESTORE, 'pdf': URL_ORARI.format(citta=os.path.basename(os.path.dirname(os.path.abspath(dati)))), 'direzioni': direzioni,
         })
 
     # orari per fermata, linea, verso e tipo di giorno (solo le fermate usate dalle linee)
