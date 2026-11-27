@@ -1,5 +1,5 @@
 {
- "versione": "22af9bec646b",
+ "versione": "bc9e8e586ff6",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3404,6 +3404,12 @@
    "byte": 60628
   },
   {
+   "path": "assets/personaggi/pandolfo-petrucci.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pandolfo-petrucci.webp",
+   "sha256": "49110422ca2df21db74aedbc8bd44b3cc768b88ebe70dbaca2d2de70c4e7fc64",
+   "byte": 29656
+  },
+  {
    "path": "assets/personaggi/piero-strozzi.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/piero-strozzi.webp",
    "sha256": "faa86528378ad0f5310d179567432de7dc96b9be4b4fcd37095342dbbc23af2e",
@@ -3538,8 +3544,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "6a78a15b76a03c0e5dd5bf41d143b77baae5a7cf674d1e765b3fc577a970a263",
-   "byte": 538054
+   "sha256": "b44e38a4d5f94ef3e85f476eaf5ad6a9b0cae7d802a1501facb422faccc85383",
+   "byte": 538150
   },
   {
    "path": "dati/principali.json",
@@ -3700,6 +3706,12 @@
    "da": "55c5868abd8d",
    "data": "2026-11-27",
    "byte": 1269032
+  },
+  {
+   "versione": "bc9e8e586ff6",
+   "da": "22af9bec646b",
+   "data": "2026-11-27",
+   "byte": 567806
   }
  ]
 }

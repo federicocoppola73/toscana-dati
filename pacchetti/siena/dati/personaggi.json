@@ -2815,7 +2815,11 @@
             "es": "Fue uno de los pintores implicados en la decoración del palacio de Pandolfo, realizando obras por encargo suyo."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Fabrizio Garrisi",
+        "licenza": "CC0 1.0"
+      }
     },
     {
       "id": "piero-strozzi",
