@@ -1,5 +1,5 @@
 {
- "versione": "2e53c9e18ead",
+ "versione": "e6f24846c99a",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3400,8 +3400,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/luoghi.json",
-   "sha256": "15849927860e2e3136709b1c7e47bac906bd936f305ee827d12bc473ba3669a2",
-   "byte": 96641
+   "sha256": "6bc9d1dbd24aaf5454642f327dda2da8544ca29bd7e34d96e5c9be9635a2bbe6",
+   "byte": 98794
   },
   {
    "path": "dati/mappa.json",
@@ -3522,6 +3522,16 @@
     "descrizioni"
    ],
    "byte": 96641
+  },
+  {
+   "versione": "e6f24846c99a",
+   "da": "2e53c9e18ead",
+   "data": "2026-11-27",
+   "luoghi_aggiornati": 2,
+   "aspetti": [
+    "accessibilita"
+   ],
+   "byte": 98794
   }
  ]
 }

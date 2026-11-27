@@ -300,6 +300,19 @@
     "fr": "Bibliothèque Piccolomini",
     "de": "Libreria Piccolomini",
     "es": "Libreria Piccolomini"
+   },
+   "accessibilita": {
+    "fonte": "https://www.visittuscany.com/it/idee/musei-di-siena-la-citta-medievale-accessibile/",
+    "verificato": "2026-11-27",
+    "voci": {
+     "motoria": {
+      "it": "La Libreria Piccolomini si trova all'interno del Duomo ed è accessibile tramite una pedana posta sulla sinistra dell'ingresso principale.",
+      "en": "The Piccolomini Library is inside the Cathedral and is reached by a platform ramp to the left of the main entrance.",
+      "fr": "La Libreria Piccolomini se trouve à l'intérieur de la cathédrale et est accessible par une plateforme située à gauche de l'entrée principale.",
+      "de": "Die Libreria Piccolomini befindet sich im Inneren des Doms und ist über eine Rampe links vom Haupteingang erreichbar.",
+      "es": "La Libreria Piccolomini está en el interior de la catedral y se accede por una plataforma situada a la izquierda de la entrada principal."
+     }
+    }
    }
   },
   {
@@ -1033,6 +1046,19 @@
     "fr": "Basilique San Francesco",
     "de": "Basilika San Francesco",
     "es": "Basílica de San Francesco"
+   },
+   "accessibilita": {
+    "fonte": "https://viafrancigena.visittuscany.com/site/en/points-of-interest/the-basilica-of-san-francesco-siena",
+    "verificato": "2026-11-27",
+    "voci": {
+     "motoria": {
+      "it": "Secondo la scheda della Via Francigena Toscana, all'ingresso della basilica è presente una pedana. Non sono disponibili altri dettagli: per informazioni puoi chiamare lo 0577 49406.",
+      "en": "According to the Via Francigena in Tuscany listing, there is a platform ramp at the basilica entrance. No other details are available: you can call +39 0577 49406 for information.",
+      "fr": "Selon la fiche de la Via Francigena en Toscane, une plateforme est présente à l'entrée de la basilique. Aucun autre détail n'est disponible : tu peux appeler le +39 0577 49406 pour t'informer.",
+      "de": "Laut dem Eintrag der Via Francigena in der Toskana gibt es am Eingang der Basilika eine Rampe. Weitere Angaben liegen nicht vor: Auskunft erhältst du unter +39 0577 49406.",
+      "es": "Según la ficha de la Vía Francígena en la Toscana, en la entrada de la basílica hay una pedana. No hay más detalles disponibles: puedes llamar al +39 0577 49406 para informarte."
+     }
+    }
    }
   },
   {
