@@ -3604,7 +3604,11 @@
       },
       "luoghi": [],
       "luoghiNote": {},
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Autore ignoto",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "ranuccio-bianchi-bandinelli",
@@ -3698,7 +3702,11 @@
             "es": "Ambos fueron protagonistas de la cultura italiana del siglo XX y se ocuparon, desde perspectivas diferentes, de la historia del arte y de la tutela del patrimonio. Su vínculo es cultural y profesional, no una colaboración personal que deba darse por supuesta."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Autore ignoto",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "cesare-brandi",
@@ -3930,7 +3938,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Tino Bandinelli Collection",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "guido-chigi-saracini",
@@ -4032,7 +4044,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Autore ignoto",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "alessandro-falassi",
@@ -4134,7 +4150,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Alessandro Aurelio Falassi",
+        "licenza": "CC BY-SA 4.0"
+      }
     }
   ]
 }
