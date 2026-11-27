@@ -378,7 +378,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Neil Owen",
+        "licenza": "CC BY-SA 2.0"
+      }
     },
     {
       "id": "mauro-vescovo-di-siena",

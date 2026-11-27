@@ -1,5 +1,5 @@
 {
- "versione": "f07af2a9b768",
+ "versione": "720eb312c802",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3356,6 +3356,12 @@
    "byte": 75216
   },
   {
+   "path": "assets/personaggi/sigerico-di-canterbury.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/sigerico-di-canterbury.webp",
+   "sha256": "a36ebaae12a2e12c2c52f3f920d25e0c28e5da7b050ea66cd76d036387ab2a86",
+   "byte": 155528
+  },
+  {
    "path": "dati/aguzza.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/aguzza.json",
    "sha256": "34827015eb3edde4807df9bb4ea4d8d887c575294b6f6c97305ce4d7df8dd3ae",
@@ -3436,8 +3442,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "2dd1823ea08d244a3d654b5bdcd8fe6bf442adc4e78748141bd0b850907d0efe",
-   "byte": 536318
+   "sha256": "d6a100f342fff59a319077101e36783c1b3fba5f170777376380da413e01087d",
+   "byte": 536412
   },
   {
    "path": "dati/principali.json",
@@ -3580,6 +3586,12 @@
    "da": "64c2f18e1456",
    "data": "2026-11-27",
    "byte": 785156
+  },
+  {
+   "versione": "720eb312c802",
+   "da": "f07af2a9b768",
+   "data": "2026-11-27",
+   "byte": 691940
   }
  ]
 }
