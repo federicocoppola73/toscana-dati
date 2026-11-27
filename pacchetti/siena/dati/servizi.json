@@ -1,4 +1,632 @@
 {
- "_nota": "Siena: servizi pratici",
- "servizi": []
+ "_nota": "Generato da strumenti/servizi_osm.py con i dati OpenStreetMap. Dati © OpenStreetMap contributors (ODbL). Fermate degli autobus: solo quelle delle linee urbane, con le linee che vi fermano.",
+ "servizi": [
+  {
+   "id": "farmacie-1",
+   "tipo": "farmacie",
+   "lat": 43.316156,
+   "lon": 11.329927,
+   "nome": "Farmacia Liserani"
+  },
+  {
+   "id": "farmacie-2",
+   "tipo": "farmacie",
+   "lat": 43.316922,
+   "lon": 11.343735,
+   "nome": "Farmacia Comunale 2"
+  },
+  {
+   "id": "farmacie-3",
+   "tipo": "farmacie",
+   "lat": 43.318905,
+   "lon": 11.333404,
+   "nome": "Farmacia Sapori"
+  },
+  {
+   "id": "farmacie-4",
+   "tipo": "farmacie",
+   "lat": 43.319459,
+   "lon": 11.33137,
+   "nome": "Farmacia Gori"
+  },
+  {
+   "id": "farmacie-5",
+   "tipo": "farmacie",
+   "lat": 43.319747,
+   "lon": 11.331011
+  },
+  {
+   "id": "farmacie-6",
+   "tipo": "farmacie",
+   "lat": 43.320186,
+   "lon": 11.3311,
+   "nome": "Antica Farmacia Parenti"
+  },
+  {
+   "id": "farmacie-7",
+   "tipo": "farmacie",
+   "lat": 43.321776,
+   "lon": 11.320899,
+   "nome": "Farmacia Comunale N.1"
+  },
+  {
+   "id": "farmacie-8",
+   "tipo": "farmacie",
+   "lat": 43.323715,
+   "lon": 11.32798,
+   "nome": "Farmacia Fiore"
+  },
+  {
+   "id": "farmacie-9",
+   "tipo": "farmacie",
+   "lat": 43.325702,
+   "lon": 11.334761,
+   "nome": "Farmacia di Ravacciano"
+  },
+  {
+   "id": "farmacie-10",
+   "tipo": "farmacie",
+   "lat": 43.328034,
+   "lon": 11.323944,
+   "nome": "Farmacia Minucci"
+  },
+  {
+   "id": "parcheggi-1",
+   "tipo": "parcheggi",
+   "lat": 43.308441,
+   "lon": 11.332045,
+   "nome": "Parcheggio della Misericordia",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-2",
+   "tipo": "parcheggi",
+   "lat": 43.30885,
+   "lon": 11.317081,
+   "nome": "Parcheggio Colonna San Marco"
+  },
+  {
+   "id": "parcheggi-3",
+   "tipo": "parcheggi",
+   "lat": 43.312569,
+   "lon": 11.325697,
+   "nome": "Parcheggio Il Duomo",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-4",
+   "tipo": "parcheggi",
+   "lat": 43.313321,
+   "lon": 11.333038,
+   "nome": "Parcheggio Il Campo",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-5",
+   "tipo": "parcheggi",
+   "lat": 43.314286,
+   "lon": 11.323743,
+   "nome": "Parcheggio di Via Laterino"
+  },
+  {
+   "id": "parcheggi-6",
+   "tipo": "parcheggi",
+   "lat": 43.31489,
+   "lon": 11.326052,
+   "nome": "Parcheggio Via Bastianini e Via Mascagni",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-7",
+   "tipo": "parcheggi",
+   "lat": 43.315673,
+   "lon": 11.316548,
+   "nome": "Parcheggio Il Fagiolone",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-8",
+   "tipo": "parcheggi",
+   "lat": 43.317475,
+   "lon": 11.324751,
+   "nome": "Parcheggio Santa Caterina",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-9",
+   "tipo": "parcheggi",
+   "lat": 43.319782,
+   "lon": 11.323883,
+   "nome": "Parcheggio Via Fruschelli"
+  },
+  {
+   "id": "parcheggi-10",
+   "tipo": "parcheggi",
+   "lat": 43.319986,
+   "lon": 11.32317,
+   "nome": "Parcheggio Viale Fruschelli e Pannilunghi, Via Vittorio Veneto",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-11",
+   "tipo": "parcheggi",
+   "lat": 43.321629,
+   "lon": 11.325956,
+   "nome": "Parcheggio Stadio",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-12",
+   "tipo": "parcheggi",
+   "lat": 43.322042,
+   "lon": 11.338012,
+   "nome": "Parcheggio San Francesco",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-13",
+   "tipo": "parcheggi",
+   "lat": 43.322193,
+   "lon": 11.32478,
+   "nome": "Parcheggio Fortezza",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-14",
+   "tipo": "parcheggi",
+   "lat": 43.322654,
+   "lon": 11.322288,
+   "nome": "Parcheggio Ex Campino"
+  },
+  {
+   "id": "parcheggi-15",
+   "tipo": "parcheggi",
+   "lat": 43.322707,
+   "lon": 11.343538,
+   "nome": "Parcheggio Scuole Ravacciano",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-16",
+   "tipo": "parcheggi",
+   "lat": 43.322904,
+   "lon": 11.317085,
+   "nome": "Parcheggio dei Cappuccini"
+  },
+  {
+   "id": "parcheggi-17",
+   "tipo": "parcheggi",
+   "lat": 43.324933,
+   "lon": 11.326378,
+   "nome": "ARU Fontegiusta",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-18",
+   "tipo": "parcheggi",
+   "lat": 43.325348,
+   "lon": 11.32189,
+   "nome": "Parcheggio Gratuito Monte dei Paschi"
+  },
+  {
+   "id": "parcheggi-19",
+   "tipo": "parcheggi",
+   "lat": 43.325698,
+   "lon": 11.325759,
+   "nome": "ARU Fontegiusta",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-20",
+   "tipo": "parcheggi",
+   "lat": 43.327056,
+   "lon": 11.32288,
+   "nome": "Parcheggio Le Fonti di Pescaia",
+   "pagamento": true
+  },
+  {
+   "id": "parcheggi-21",
+   "tipo": "parcheggi",
+   "lat": 43.327568,
+   "lon": 11.324313,
+   "nome": "Car Valet Leonardo",
+   "pagamento": true
+  },
+  {
+   "id": "ospedali-1",
+   "tipo": "ospedali",
+   "lat": 43.315033,
+   "lon": 11.336906,
+   "nome": "Centro riabilitativo Il Tamburino"
+  },
+  {
+   "id": "acqua-1",
+   "tipo": "acqua",
+   "lat": 43.308956,
+   "lon": 11.317243
+  },
+  {
+   "id": "acqua-2",
+   "tipo": "acqua",
+   "lat": 43.309725,
+   "lon": 11.316653
+  },
+  {
+   "id": "acqua-3",
+   "tipo": "acqua",
+   "lat": 43.311688,
+   "lon": 11.324487
+  },
+  {
+   "id": "acqua-4",
+   "tipo": "acqua",
+   "lat": 43.313102,
+   "lon": 11.332296
+  },
+  {
+   "id": "acqua-5",
+   "tipo": "acqua",
+   "lat": 43.313178,
+   "lon": 11.328057
+  },
+  {
+   "id": "acqua-6",
+   "tipo": "acqua",
+   "lat": 43.31453,
+   "lon": 11.335186
+  },
+  {
+   "id": "acqua-7",
+   "tipo": "acqua",
+   "lat": 43.314737,
+   "lon": 11.330919
+  },
+  {
+   "id": "acqua-8",
+   "tipo": "acqua",
+   "lat": 43.315129,
+   "lon": 11.330395
+  },
+  {
+   "id": "acqua-9",
+   "tipo": "acqua",
+   "lat": 43.315546,
+   "lon": 11.337796
+  },
+  {
+   "id": "acqua-10",
+   "tipo": "acqua",
+   "lat": 43.316251,
+   "lon": 11.331831,
+   "disabili": true
+  },
+  {
+   "id": "acqua-11",
+   "tipo": "acqua",
+   "lat": 43.316294,
+   "lon": 11.329695
+  },
+  {
+   "id": "acqua-12",
+   "tipo": "acqua",
+   "lat": 43.317287,
+   "lon": 11.33264,
+   "disabili": true
+  },
+  {
+   "id": "acqua-13",
+   "tipo": "acqua",
+   "lat": 43.317386,
+   "lon": 11.327223
+  },
+  {
+   "id": "acqua-14",
+   "tipo": "acqua",
+   "lat": 43.317468,
+   "lon": 11.342075
+  },
+  {
+   "id": "acqua-15",
+   "tipo": "acqua",
+   "lat": 43.31757,
+   "lon": 11.333688,
+   "disabili": true
+  },
+  {
+   "id": "acqua-16",
+   "tipo": "acqua",
+   "lat": 43.318598,
+   "lon": 11.330461
+  },
+  {
+   "id": "acqua-17",
+   "tipo": "acqua",
+   "lat": 43.318623,
+   "lon": 11.331387,
+   "disabili": true
+  },
+  {
+   "id": "acqua-18",
+   "tipo": "acqua",
+   "lat": 43.318701,
+   "lon": 11.331522,
+   "disabili": true
+  },
+  {
+   "id": "acqua-19",
+   "tipo": "acqua",
+   "lat": 43.319293,
+   "lon": 11.330339
+  },
+  {
+   "id": "acqua-20",
+   "tipo": "acqua",
+   "lat": 43.31937,
+   "lon": 11.332991
+  },
+  {
+   "id": "acqua-21",
+   "tipo": "acqua",
+   "lat": 43.319777,
+   "lon": 11.329126
+  },
+  {
+   "id": "acqua-22",
+   "tipo": "acqua",
+   "lat": 43.32212,
+   "lon": 11.33465
+  },
+  {
+   "id": "acqua-23",
+   "tipo": "acqua",
+   "lat": 43.323122,
+   "lon": 11.32556
+  },
+  {
+   "id": "acqua-24",
+   "tipo": "acqua",
+   "lat": 43.323156,
+   "lon": 11.330716
+  },
+  {
+   "id": "acqua-25",
+   "tipo": "acqua",
+   "lat": 43.323228,
+   "lon": 11.316852
+  },
+  {
+   "id": "acqua-26",
+   "tipo": "acqua",
+   "lat": 43.323291,
+   "lon": 11.323197
+  },
+  {
+   "id": "acqua-27",
+   "tipo": "acqua",
+   "lat": 43.323599,
+   "lon": 11.332603,
+   "disabili": true
+  },
+  {
+   "id": "acqua-28",
+   "tipo": "acqua",
+   "lat": 43.323763,
+   "lon": 11.322945
+  },
+  {
+   "id": "acqua-29",
+   "tipo": "acqua",
+   "lat": 43.324187,
+   "lon": 11.338099,
+   "disabili": true
+  },
+  {
+   "id": "acqua-30",
+   "tipo": "acqua",
+   "lat": 43.32427,
+   "lon": 11.328749,
+   "disabili": true
+  },
+  {
+   "id": "acqua-31",
+   "tipo": "acqua",
+   "lat": 43.325274,
+   "lon": 11.325565
+  },
+  {
+   "id": "acqua-32",
+   "tipo": "acqua",
+   "lat": 43.325862,
+   "lon": 11.326917
+  },
+  {
+   "id": "acqua-33",
+   "tipo": "acqua",
+   "lat": 43.325901,
+   "lon": 11.336143
+  },
+  {
+   "id": "acqua-34",
+   "tipo": "acqua",
+   "lat": 43.327468,
+   "lon": 11.325883
+  },
+  {
+   "id": "acqua-35",
+   "tipo": "acqua",
+   "lat": 43.328504,
+   "lon": 11.322559
+  },
+  {
+   "id": "polizia-1",
+   "tipo": "polizia",
+   "lat": 43.311622,
+   "lon": 11.3273,
+   "nome": "Caserma Piave",
+   "disabili": true,
+   "telefono": "+39 0577 22841"
+  },
+  {
+   "id": "polizia-2",
+   "tipo": "polizia",
+   "lat": 43.317204,
+   "lon": 11.330122,
+   "nome": "Prefettura di Siena"
+  },
+  {
+   "id": "polizia-3",
+   "tipo": "polizia",
+   "lat": 43.31729,
+   "lon": 11.329939,
+   "nome": "Questura di Siena",
+   "telefono": "+39 0577 201111"
+  },
+  {
+   "id": "polizia-4",
+   "tipo": "polizia",
+   "lat": 43.317387,
+   "lon": 11.34184,
+   "nome": "Associazione Nazionale Alpini - Gruppo di Siena"
+  },
+  {
+   "id": "polizia-5",
+   "tipo": "polizia",
+   "lat": 43.321353,
+   "lon": 11.327579,
+   "nome": "Guardia di Finanza Comando Provinciale di Siena",
+   "telefono": "+39 0577 280103"
+  },
+  {
+   "id": "polizia-6",
+   "tipo": "polizia",
+   "lat": 43.321663,
+   "lon": 11.334773,
+   "nome": "Stazione Carabinieri San Francesco",
+   "telefono": "+39 0577 3391"
+  },
+  {
+   "id": "polizia-7",
+   "tipo": "polizia",
+   "lat": 43.321814,
+   "lon": 11.327688,
+   "nome": "Comando di Polizia Municipale di Siena",
+   "telefono": "+39 0577 2922"
+  },
+  {
+   "id": "polizia-8",
+   "tipo": "polizia",
+   "lat": 43.327411,
+   "lon": 11.336429,
+   "nome": "Polizia Stradale di Siena",
+   "telefono": "+39 0577 246211"
+  },
+  {
+   "id": "bagni-1",
+   "tipo": "bagni",
+   "lat": 43.31424,
+   "lon": 11.331235
+  },
+  {
+   "id": "bagni-2",
+   "tipo": "bagni",
+   "lat": 43.315405,
+   "lon": 11.316944
+  },
+  {
+   "id": "bagni-3",
+   "tipo": "bagni",
+   "lat": 43.315997,
+   "lon": 11.33902
+  },
+  {
+   "id": "bagni-4",
+   "tipo": "bagni",
+   "lat": 43.316791,
+   "lon": 11.337302
+  },
+  {
+   "id": "bagni-5",
+   "tipo": "bagni",
+   "lat": 43.316868,
+   "lon": 11.333061,
+   "nome": "Bagni Pubblici di Via del Sole",
+   "pagamento": true
+  },
+  {
+   "id": "bagni-6",
+   "tipo": "bagni",
+   "lat": 43.316942,
+   "lon": 11.333192
+  },
+  {
+   "id": "bagni-7",
+   "tipo": "bagni",
+   "lat": 43.317002,
+   "lon": 11.330479
+  },
+  {
+   "id": "bagni-8",
+   "tipo": "bagni",
+   "lat": 43.317614,
+   "lon": 11.325051,
+   "pagamento": true
+  },
+  {
+   "id": "bagni-9",
+   "tipo": "bagni",
+   "lat": 43.317712,
+   "lon": 11.331303,
+   "pagamento": true
+  },
+  {
+   "id": "bagni-10",
+   "tipo": "bagni",
+   "lat": 43.318644,
+   "lon": 11.330429,
+   "nome": "Bagni Beccheria",
+   "disabili": true,
+   "pagamento": true
+  },
+  {
+   "id": "bagni-11",
+   "tipo": "bagni",
+   "lat": 43.320075,
+   "lon": 11.325923,
+   "nome": "Bagni Pubblici di Piazza Madre Teresa di Calcutta",
+   "disabili": true,
+   "pagamento": true
+  },
+  {
+   "id": "bagni-12",
+   "tipo": "bagni",
+   "lat": 43.321978,
+   "lon": 11.335614
+  },
+  {
+   "id": "bagni-13",
+   "tipo": "bagni",
+   "lat": 43.322145,
+   "lon": 11.32377
+  },
+  {
+   "id": "bagni-14",
+   "tipo": "bagni",
+   "lat": 43.323159,
+   "lon": 11.324525,
+   "nome": "Bagni Pubblici di Viale della Vecchia",
+   "pagamento": true
+  },
+  {
+   "id": "bagni-15",
+   "tipo": "bagni",
+   "lat": 43.324868,
+   "lon": 11.331808
+  },
+  {
+   "id": "bagni-16",
+   "tipo": "bagni",
+   "lat": 43.327362,
+   "lon": 11.322786
+  }
+ ]
 }

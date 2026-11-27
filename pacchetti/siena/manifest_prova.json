@@ -1,5 +1,5 @@
 {
- "versione": "69b279341404",
+ "versione": "4f590c55a9d8",
  "tipo": "prova",
  "file": [
   {
@@ -3419,8 +3419,8 @@
   {
    "path": "dati/servizi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/servizi.json",
-   "sha256": "476ff9646a8517a3eaaf92c6b3e9d6707e8c44b8f28f689921f5ff153a28b065",
-   "byte": 55
+   "sha256": "405e0017bae96227d45fa34e9f37efade3a36712e3e22b098bbdabefbb411a7a",
+   "byte": 11344
   },
   {
    "path": "dati/storia.json",
