@@ -1,5 +1,5 @@
 {
- "versione": "905190506ef6",
+ "versione": "4eadd2cf6dfd",
  "tipo": "prova",
  "file": [
   {
@@ -31,6 +31,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/cattedrale-di-santa-maria-assunta_5.webp",
    "sha256": "31ae3a6df02a5e1658f97c0d8d804542cd60509957b430bafea5238bc428fe05",
    "byte": 260958
+  },
+  {
+   "path": "assets/luoghi/libreria-piccolomini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/libreria-piccolomini.webp",
+   "sha256": "6f66cda12daaa1395d30180f4e13e5465103f79edc98b6b783333cef8d0f9afb",
+   "byte": 232402
+  },
+  {
+   "path": "assets/luoghi/libreria-piccolomini_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/libreria-piccolomini_2.webp",
+   "sha256": "a924a8e3ee78499f9e8ff3fa0c7862ea70429074a29fd66f999458e27939e573",
+   "byte": 227130
+  },
+  {
+   "path": "assets/luoghi/libreria-piccolomini_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/libreria-piccolomini_3.webp",
+   "sha256": "b7a1a770025d9cf14e0711b9b49a454d8ecdb76ca5a8697138335950950af632",
+   "byte": 112138
+  },
+  {
+   "path": "assets/luoghi/libreria-piccolomini_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/libreria-piccolomini_4.webp",
+   "sha256": "e6102ccc3ce094070fbae7e9402e2eccb2e9814f5f7b263cd08aaa0eb7d3075c",
+   "byte": 155326
+  },
+  {
+   "path": "assets/luoghi/libreria-piccolomini_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/libreria-piccolomini_5.webp",
+   "sha256": "5a5c8541b36d9cfb2a5f0b605987ab150d5106dfd08792049ee2b1f7580544dd",
+   "byte": 224836
   },
   {
    "path": "assets/mappa-siena.webp",
@@ -3395,8 +3425,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/immagini.json",
-   "sha256": "6ebe6017ae008dcd4683a06682132846ffbc5b3e582df2ec7618adb7b2d1931c",
-   "byte": 170
+   "sha256": "e9ad0e6b073be8d273de51c4bdb76defd4022375ef719099957e61d698d8c041",
+   "byte": 199
   },
   {
    "path": "dati/itinerari.json",
@@ -3407,8 +3437,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/luoghi.json",
-   "sha256": "97030a73197e580c4202c70f9744ed8b267b1c5ab4c5c78d3d16cbde68be4142",
-   "byte": 99154
+   "sha256": "1a20201486d5d8852429e1d9b6ff841b24f56642a96a21d2c9a17e4b7dd8b2f4",
+   "byte": 99533
   },
   {
    "path": "dati/mappa.json",

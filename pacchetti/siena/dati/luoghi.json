@@ -335,7 +335,29 @@
             "es": "La Libreria Piccolomini está en el interior de la catedral y se accede por una plataforma situada a la izquierda de la entrada principal."
           }
         }
-      }
+      },
+      "immagine": {
+        "autore": "Wolfgang",
+        "licenza": "CC BY-SA 3.0"
+      },
+      "galleria": [
+        {
+          "autore": "Wolfgang",
+          "licenza": "CC BY-SA 3.0"
+        },
+        {
+          "autore": "Saliko",
+          "licenza": "CC BY-SA 3.0"
+        },
+        {
+          "autore": "Saliko",
+          "licenza": "CC BY-SA 3.0"
+        },
+        {
+          "autore": "Saliko",
+          "licenza": "CC BY-SA 3.0"
+        }
+      ]
     },
     {
       "id": "battistero-di-san-giovanni",
