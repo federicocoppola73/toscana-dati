@@ -116,7 +116,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Sailko",
+        "licenza": "CC BY 3.0"
+      }
     },
     {
       "id": "sant-ansano",
@@ -251,7 +255,11 @@
             "es": "El vínculo es artístico: Duccio representó a San Ansano en la Maestà, una de las obras más importantes de la pintura sienesa medieval."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "José Luiz Bernardes Ribeiro",
+        "licenza": "CC BY-SA 4.0"
+      }
     },
     {
       "id": "sigerico-di-canterbury",

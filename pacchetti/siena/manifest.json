@@ -1,5 +1,5 @@
 {
- "versione": "64c2f18e1456",
+ "versione": "f07af2a9b768",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3344,6 +3344,18 @@
    "byte": 0
   },
   {
+   "path": "assets/personaggi/sant-ansano.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/sant-ansano.webp",
+   "sha256": "4342f829aad1800cc66b2913295c3178a5b0d664e8cd353fafd7cb6743e7a029",
+   "byte": 173622
+  },
+  {
+   "path": "assets/personaggi/senio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/senio.webp",
+   "sha256": "cda132b2fc1afab8965712bcb59a498b078e0ed3eea8d341acbec4b7e2fb721f",
+   "byte": 75216
+  },
+  {
    "path": "dati/aguzza.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/aguzza.json",
    "sha256": "34827015eb3edde4807df9bb4ea4d8d887c575294b6f6c97305ce4d7df8dd3ae",
@@ -3424,8 +3436,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "92a2bfe7f18b4bdaffd0476bf87a2700dc2d2f1d6aaac83e3df22c9cc2483f73",
-   "byte": 536117
+   "sha256": "2dd1823ea08d244a3d654b5bdcd8fe6bf442adc4e78748141bd0b850907d0efe",
+   "byte": 536318
   },
   {
    "path": "dati/principali.json",
@@ -3562,6 +3574,12 @@
    "da": "5dcc9ece204c",
    "data": "2026-11-27",
    "byte": 536117
+  },
+  {
+   "versione": "f07af2a9b768",
+   "da": "64c2f18e1456",
+   "data": "2026-11-27",
+   "byte": 785156
   }
  ]
 }
