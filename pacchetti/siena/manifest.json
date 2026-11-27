@@ -1,5 +1,5 @@
 {
- "versione": "9e7c14adfd94",
+ "versione": "c3cff0177ca1",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3358,8 +3358,8 @@
   {
    "path": "dati/autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/autobus.json",
-   "sha256": "6ab36b4e7940a5b6d9199750bd4038900457c1f82d4aa1847a77521aa1305481",
-   "byte": 129
+   "sha256": "33ec9c8dbbdd2196f8bb8df496c19bb8307488a8e8735bd847828500ac15edab",
+   "byte": 278993
   },
   {
    "path": "dati/cibi.json",
@@ -3412,8 +3412,8 @@
   {
    "path": "dati/orari_autobus.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/orari_autobus.json",
-   "sha256": "770895b69e66504db966588ddca72b7b30cbd58418504a070dda7fb3fd7ef4b3",
-   "byte": 129
+   "sha256": "0741af82a9d343444813674feb3ad887c7479ab7c291e7efa2c9bf3dc3f55441",
+   "byte": 558604
   },
   {
    "path": "dati/orari_vaporetti.json",
@@ -3492,6 +3492,13 @@
    "data": "2026-11-27",
    "servizi": true,
    "byte": 35445
+  },
+  {
+   "versione": "c3cff0177ca1",
+   "da": "9e7c14adfd94",
+   "data": "2026-11-27",
+   "mezzi": true,
+   "byte": 837597
   }
  ]
 }
