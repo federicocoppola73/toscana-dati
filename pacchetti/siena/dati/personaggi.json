@@ -1891,6 +1891,16 @@
             "de": "Er schuf in der Libreria Piccolomini den Freskenzyklus über das Leben Pius' II. im Auftrag der Familie Piccolomini. Der Künstler stellte ihn also viele Jahre nach seinem Tod dar.",
             "es": "Realizó en la Libreria Piccolomini el ciclo de frescos dedicado a la vida de Pío II, por encargo de la familia Piccolomini. El artista lo representó, por tanto, muchos años después de su muerte."
           }
+        },
+        {
+          "id": "lorenzo-di-pietro-il-vecchietta",
+          "testo": {
+            "it": "Pio II commissionò al Vecchietta una pala d'altare per la cattedrale di Pienza: è un rapporto diretto e documentato attraverso una committenza artistica.",
+            "en": "Pius II commissioned an altarpiece from the Vecchietta for Pienza Cathedral: it is a direct relationship, documented through an artistic commission.",
+            "fr": "Pie II commanda au Vecchietta un retable pour la cathédrale de Pienza : c'est un rapport direct et documenté à travers une commande artistique.",
+            "de": "Pius II. gab beim Vecchietta ein Altarbild für den Dom von Pienza in Auftrag: Es ist eine direkte, durch einen Kunstauftrag belegte Beziehung.",
+            "es": "Pío II encargó al Vecchietta un retablo para la catedral de Pienza: es una relación directa y documentada a través de un encargo artístico."
+          }
         }
       ],
       "ritratto": {
@@ -2172,7 +2182,28 @@
           }
         }
       },
-      "collegati": [],
+      "collegati": [
+        {
+          "id": "lorenzo-di-pietro-il-vecchietta",
+          "testo": {
+            "it": "Francesco di Giorgio si formò nell'ambiente del Vecchietta: le fonti storico-artistiche indicano un rapporto di discepolato, anche se i dettagli della formazione non sono completamente documentati.",
+            "en": "Francesco di Giorgio trained in the Vecchietta's circle: art-historical sources point to a master–pupil relationship, although the details of his training are not fully documented.",
+            "fr": "Francesco di Giorgio se forma dans le milieu du Vecchietta : les sources historico-artistiques indiquent un rapport de maître à élève, même si les détails de la formation ne sont pas entièrement documentés.",
+            "de": "Francesco di Giorgio bildete sich im Umfeld des Vecchietta aus: Die kunsthistorischen Quellen weisen auf ein Schülerverhältnis hin, auch wenn die Einzelheiten der Ausbildung nicht vollständig belegt sind.",
+            "es": "Francesco di Giorgio se formó en el ambiente del Vecchietta: las fuentes histórico-artísticas indican una relación de discipulado, aunque los detalles de la formación no están completamente documentados."
+          }
+        },
+        {
+          "id": "baldassarre-peruzzi",
+          "testo": {
+            "it": "Peruzzi subì l'influenza della sua cultura architettonica e artistica: la tradizione biografica considera Francesco di Giorgio uno dei suoi maestri.",
+            "en": "Peruzzi was influenced by his architectural and artistic culture: the biographical tradition considers Francesco di Giorgio one of his teachers.",
+            "fr": "Peruzzi subit l'influence de sa culture architecturale et artistique : la tradition biographique considère Francesco di Giorgio comme l'un de ses maîtres.",
+            "de": "Peruzzi wurde von seiner architektonischen und künstlerischen Kultur beeinflusst: Die biografische Überlieferung betrachtet Francesco di Giorgio als einen seiner Lehrer.",
+            "es": "Peruzzi recibió la influencia de su cultura arquitectónica y artística: la tradición biográfica considera a Francesco di Giorgio uno de sus maestros."
+          }
+        }
+      ],
       "ritratto": {
         "autore": "Giovanni Battista Cecchi",
         "licenza": "Pubblico dominio"
@@ -2417,6 +2448,16 @@
             "de": "Er war einer seiner Auftraggeber in Siena. Der Künstler beteiligte sich an der Ausschmückung von Räumen im Palast der Familie Petrucci.",
             "es": "Fue uno de sus comitentes en Siena. El artista participó en la decoración de estancias del palacio de la familia Petrucci."
           }
+        },
+        {
+          "id": "baldassarre-peruzzi",
+          "testo": {
+            "it": "Il suo linguaggio influenzò la prima formazione pittorica e alcuni lavori giovanili di Peruzzi a Siena. Il collegamento è soprattutto artistico e stilistico.",
+            "en": "His language influenced Peruzzi's early painting training and some of his youthful works in Siena. The link is above all artistic and stylistic.",
+            "fr": "Son langage influença la première formation picturale et certains travaux de jeunesse de Peruzzi à Sienne. Le lien est surtout artistique et stylistique.",
+            "de": "Seine Formensprache beeinflusste die erste malerische Ausbildung und einige Jugendwerke Peruzzis in Siena. Die Verbindung ist vor allem künstlerisch und stilistisch.",
+            "es": "Su lenguaje influyó en la primera formación pictórica y en algunos trabajos juveniles de Peruzzi en Siena. El vínculo es sobre todo artístico y estilístico."
+          }
         }
       ],
       "ritratto": {
@@ -2541,11 +2582,322 @@
           }
         }
       },
-      "collegati": [],
+      "collegati": [
+        {
+          "id": "baldassarre-peruzzi",
+          "testo": {
+            "it": "Nel 1531 Peruzzi fu incaricato di valutare i lavori di Beccafumi per il pavimento del Duomo, in particolare la scena di Mosè che riceve le tavole della Legge. Si tratta di un rapporto professionale documentato.",
+            "en": "In 1531 Peruzzi was asked to assess Beccafumi's work for the Cathedral pavement, in particular the scene of Moses receiving the tablets of the Law. It is a documented professional relationship.",
+            "fr": "En 1531, Peruzzi fut chargé d'évaluer les travaux de Beccafumi pour le pavement de la cathédrale, en particulier la scène de Moïse recevant les tables de la Loi. Il s'agit d'un rapport professionnel documenté.",
+            "de": "Im Jahr 1531 wurde Peruzzi beauftragt, Beccafumis Arbeiten am Fußboden des Doms zu begutachten, insbesondere die Szene, in der Moses die Gesetzestafeln empfängt. Es handelt sich um eine belegte berufliche Beziehung.",
+            "es": "En 1531 Peruzzi fue encargado de evaluar los trabajos de Beccafumi para el pavimento de la catedral, en particular la escena de Moisés recibiendo las tablas de la Ley. Se trata de una relación profesional documentada."
+          }
+        }
+      ],
       "ritratto": {
         "autore": "Domenico Beccafumi",
         "licenza": "Pubblico dominio"
       }
+    },
+    {
+      "id": "lorenzo-di-pietro-il-vecchietta",
+      "nome": "Lorenzo di Pietro, detto il Vecchietta",
+      "nascita": 1410,
+      "morte": 1480,
+      "professione": {
+        "it": "Pittore, scultore, orafo e architetto",
+        "en": "Painter, sculptor, goldsmith and architect",
+        "fr": "Peintre, sculpteur, orfèvre et architecte",
+        "de": "Maler, Bildhauer, Goldschmied und Architekt",
+        "es": "Pintor, escultor, orfebre y arquitecto"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "battezzato l'11 agosto 1410",
+        "en": "baptised 11 August 1410",
+        "fr": "baptisé le 11 août 1410",
+        "de": "getauft am 11. August 1410",
+        "es": "bautizado el 11 de agosto de 1410"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "6 giugno 1480",
+        "en": "6 June 1480",
+        "fr": "6 juin 1480",
+        "de": "6. Juni 1480",
+        "es": "6 de junio de 1480"
+      },
+      "biografia": {
+        "it": "Lorenzo di Pietro, conosciuto come il Vecchietta, fu uno dei maggiori artisti senesi del Quattrocento. Pittore, scultore, orafo e architetto, contribuì in modo decisivo al rinnovamento della tradizione artistica cittadina, introducendo elementi della cultura rinascimentale fiorentina e sviluppando una particolare attenzione alla rappresentazione plastica dei corpi e dello spazio.\n\nNacque a Siena da Pietro di Giovanni di Lando. Le notizie sulla sua formazione giovanile sono in parte incerte: non è possibile ricostruire con sicurezza tutti i suoi maestri e i primi spostamenti. Nel 1428 risulta già iscritto all'Arte dei pittori senesi, segno di un'attività professionale iniziata molto presto.\n\nIl suo nome è strettamente legato al complesso di Santa Maria della Scala, uno dei luoghi più importanti della storia artistica e sociale di Siena. Nel 1441 realizzò alcuni affreschi nel Pellegrinaio, tra cui scene legate alla vita dell'ospedale e all'assistenza dei pellegrini e dei malati. Negli anni successivi lavorò anche nella sagrestia, oggi nota come Cappella del Sacro Chiodo, dove dipinse un ciclo dedicato agli articoli del Credo. Queste opere mostrano la sua capacità di combinare la tradizione pittorica senese con una nuova attenzione alla prospettiva e alla monumentalità delle figure.\n\nIl Vecchietta fu anche un importante scultore in bronzo. Tra le sue opere più significative si ricordano il grande ciborio bronzeo, realizzato per Santa Maria della Scala tra il 1467 e il 1472 e trasferito successivamente nel Duomo, e il Cristo risorto, realizzato nel 1476 per la cappella funeraria che l'artista aveva chiesto di poter costruire presso l'ospedale. La scultura si trova oggi nella chiesa della Santissima Annunziata, all'interno del complesso di Santa Maria della Scala.\n\nLavorò inoltre al Battistero di San Giovanni, dove realizzò affreschi, e alla cattedrale senese, contribuendo alla decorazione e all'arredo liturgico. La sua attività non si limitò alla pittura e alla scultura: il governo della Repubblica gli affidò anche incarichi di architettura e ingegneria militare, tra cui interventi sulle fortificazioni di alcuni centri del territorio senese.\n\nLa sua fama raggiunse anche Pienza. Papa Pio II gli commissionò una pala d'altare per la cattedrale della città, opera che testimonia il prestigio raggiunto dall'artista. Il rapporto con Siena rimase comunque centrale: il governo cittadino arrivò a impegnarsi per trattenerlo in città, segno della considerazione di cui godeva.\n\nMorì a Siena nel 1480. La sua produzione rappresenta un passaggio fondamentale tra la grande tradizione pittorica medievale senese e il linguaggio rinascimentale.",
+        "en": "Lorenzo di Pietro, known as il Vecchietta, was one of the greatest Sienese artists of the fifteenth century. A painter, sculptor, goldsmith and architect, he contributed decisively to renewing the city's artistic tradition, introducing elements of Florentine Renaissance culture and paying particular attention to the three-dimensional representation of bodies and space.\n\nHe was born in Siena, the son of Pietro di Giovanni di Lando. What is known of his early training is partly uncertain: it is not possible to reconstruct with confidence all of his teachers and his first travels. By 1428 he was already enrolled in the Sienese painters' guild, a sign of a professional career begun very early.\n\nHis name is closely tied to the Santa Maria della Scala complex, one of the most important places in Siena's artistic and social history. In 1441 he painted frescoes in the Pellegrinaio, including scenes from the life of the hospital and the care of pilgrims and the sick. In the following years he also worked in the sacristy, now known as the Chapel of the Holy Nail, where he painted a cycle dedicated to the articles of the Creed. These works show his ability to combine the Sienese painting tradition with a new attention to perspective and to the monumentality of figures.\n\nThe Vecchietta was also an important bronze sculptor. Among his most significant works are the great bronze ciborium, made for Santa Maria della Scala between 1467 and 1472 and later moved to the Cathedral, and the Risen Christ, made in 1476 for the funerary chapel that the artist had asked to build at the hospital. The sculpture is now in the church of the Santissima Annunziata, within the Santa Maria della Scala complex.\n\nHe also worked at the Baptistery of San Giovanni, where he painted frescoes, and at the Sienese Cathedral, contributing to its decoration and liturgical furnishings. His activity was not limited to painting and sculpture: the government of the Republic also entrusted him with architectural and military engineering commissions, including work on the fortifications of some towns in Sienese territory.\n\nHis fame also reached Pienza. Pope Pius II commissioned an altarpiece from him for the town's cathedral, a work that testifies to the artist's prestige. His relationship with Siena nevertheless remained central: the city government even made efforts to keep him in the city, a sign of the esteem in which he was held.\n\nHe died in Siena in 1480. His output represents a fundamental passage between the great medieval Sienese painting tradition and the language of the Renaissance.",
+        "fr": "Lorenzo di Pietro, connu sous le nom de Vecchietta, fut l'un des plus grands artistes siennois du XVe siècle. Peintre, sculpteur, orfèvre et architecte, il contribua de manière décisive au renouvellement de la tradition artistique de la ville, en introduisant des éléments de la culture de la Renaissance florentine et en portant une attention particulière à la représentation plastique des corps et de l'espace.\n\nIl naquit à Sienne, fils de Pietro di Giovanni di Lando. Les informations sur sa formation de jeunesse sont en partie incertaines : il n'est pas possible de reconstituer avec certitude tous ses maîtres ni ses premiers déplacements. En 1428, il est déjà inscrit à la corporation des peintres siennois, signe d'une activité professionnelle commencée très tôt.\n\nSon nom est étroitement lié au complexe de Santa Maria della Scala, l'un des lieux les plus importants de l'histoire artistique et sociale de Sienne. En 1441, il réalisa plusieurs fresques dans le Pellegrinaio, dont des scènes de la vie de l'hôpital et de l'assistance aux pèlerins et aux malades. Dans les années suivantes, il travailla aussi dans la sacristie, aujourd'hui connue sous le nom de chapelle du Saint-Clou, où il peignit un cycle consacré aux articles du Credo. Ces œuvres montrent sa capacité à combiner la tradition picturale siennoise avec une attention nouvelle portée à la perspective et à la monumentalité des figures.\n\nLe Vecchietta fut aussi un important sculpteur sur bronze. Parmi ses œuvres les plus significatives, on retient le grand ciboire en bronze, réalisé pour Santa Maria della Scala entre 1467 et 1472 puis transféré dans la cathédrale, et le Christ ressuscité, réalisé en 1476 pour la chapelle funéraire que l'artiste avait demandé à construire près de l'hôpital. La sculpture se trouve aujourd'hui dans l'église de la Santissima Annunziata, à l'intérieur du complexe de Santa Maria della Scala.\n\nIl travailla aussi au baptistère de San Giovanni, où il réalisa des fresques, et à la cathédrale de Sienne, en contribuant à sa décoration et à son mobilier liturgique. Son activité ne se limita pas à la peinture et à la sculpture : le gouvernement de la République lui confia aussi des missions d'architecture et d'ingénierie militaire, notamment des travaux sur les fortifications de certaines localités du territoire siennois.\n\nSa renommée parvint aussi jusqu'à Pienza. Le pape Pie II lui commanda un retable pour la cathédrale de la ville, œuvre qui témoigne du prestige atteint par l'artiste. Le lien avec Sienne resta néanmoins central : le gouvernement de la ville alla jusqu'à s'engager pour le retenir, signe de la considération dont il jouissait.\n\nIl mourut à Sienne en 1480. Sa production représente un passage fondamental entre la grande tradition picturale médiévale siennoise et le langage de la Renaissance.",
+        "de": "Lorenzo di Pietro, genannt il Vecchietta, war einer der bedeutendsten sienesischen Künstler des 15. Jahrhunderts. Als Maler, Bildhauer, Goldschmied und Architekt trug er entscheidend zur Erneuerung der städtischen Kunsttradition bei, indem er Elemente der florentinischen Renaissancekultur einführte und der plastischen Darstellung von Körpern und Raum besondere Aufmerksamkeit widmete.\n\nEr wurde in Siena als Sohn von Pietro di Giovanni di Lando geboren. Über seine frühe Ausbildung ist teilweise nichts Sicheres bekannt: Alle seine Lehrer und seine ersten Ortswechsel lassen sich nicht zuverlässig rekonstruieren. Im Jahr 1428 ist er bereits in die Zunft der sienesischen Maler eingetragen, ein Zeichen für eine sehr früh begonnene berufliche Tätigkeit.\n\nSein Name ist eng mit dem Komplex von Santa Maria della Scala verbunden, einem der wichtigsten Orte der Kunst- und Sozialgeschichte Sienas. Im Jahr 1441 schuf er einige Fresken im Pellegrinaio, darunter Szenen aus dem Leben des Hospitals und der Betreuung von Pilgern und Kranken. In den folgenden Jahren arbeitete er auch in der Sakristei, die heute als Cappella del Sacro Chiodo (Kapelle des Heiligen Nagels) bekannt ist und in der er einen den Artikeln des Credo gewidmeten Zyklus malte. Diese Werke zeigen seine Fähigkeit, die sienesische Maltradition mit einer neuen Aufmerksamkeit für Perspektive und die Monumentalität der Figuren zu verbinden.\n\nDer Vecchietta war auch ein bedeutender Bronzebildhauer. Zu seinen wichtigsten Werken zählen das große Bronzeziborium, das er zwischen 1467 und 1472 für Santa Maria della Scala schuf und das später in den Dom überführt wurde, sowie der Auferstandene Christus von 1476, geschaffen für die Grabkapelle, die der Künstler beim Hospital hatte errichten wollen. Die Skulptur befindet sich heute in der Kirche der Santissima Annunziata innerhalb des Komplexes von Santa Maria della Scala.\n\nEr arbeitete außerdem am Baptisterium von San Giovanni, wo er Fresken schuf, und am Dom von Siena, wo er zu Ausstattung und liturgischem Mobiliar beitrug. Seine Tätigkeit beschränkte sich nicht auf Malerei und Bildhauerei: Die Regierung der Republik betraute ihn auch mit Aufgaben der Architektur und des Militäringenieurwesens, darunter Arbeiten an den Befestigungen einiger Orte im sienesischen Gebiet.\n\nSein Ruhm reichte auch bis nach Pienza. Papst Pius II. gab bei ihm ein Altarbild für den Dom der Stadt in Auftrag, ein Werk, das vom Ansehen des Künstlers zeugt. Die Beziehung zu Siena blieb dennoch zentral: Die Stadtregierung bemühte sich sogar darum, ihn in der Stadt zu halten, ein Zeichen für die Wertschätzung, die er genoss.\n\nEr starb 1480 in Siena. Sein Schaffen markiert einen entscheidenden Übergang von der großen mittelalterlichen Maltradition Sienas zur Sprache der Renaissance.",
+        "es": "Lorenzo di Pietro, conocido como el Vecchietta, fue uno de los mayores artistas sieneses del siglo XV. Pintor, escultor, orfebre y arquitecto, contribuyó de forma decisiva a la renovación de la tradición artística de la ciudad, introduciendo elementos de la cultura renacentista florentina y prestando una atención especial a la representación plástica de los cuerpos y del espacio.\n\nNació en Siena, hijo de Pietro di Giovanni di Lando. Las noticias sobre su formación juvenil son en parte inciertas: no es posible reconstruir con seguridad todos sus maestros ni sus primeros desplazamientos. En 1428 ya figura inscrito en el gremio de los pintores sieneses, señal de una actividad profesional iniciada muy pronto.\n\nSu nombre está estrechamente ligado al complejo de Santa Maria della Scala, uno de los lugares más importantes de la historia artística y social de Siena. En 1441 realizó algunos frescos en el Pellegrinaio, entre ellos escenas relacionadas con la vida del hospital y la asistencia a los peregrinos y a los enfermos. En los años siguientes trabajó también en la sacristía, hoy conocida como Capilla del Santo Clavo, donde pintó un ciclo dedicado a los artículos del Credo. Estas obras muestran su capacidad de combinar la tradición pictórica sienesa con una nueva atención a la perspectiva y a la monumentalidad de las figuras.\n\nEl Vecchietta fue también un importante escultor en bronce. Entre sus obras más significativas se recuerdan el gran ciborio de bronce, realizado para Santa Maria della Scala entre 1467 y 1472 y trasladado después a la catedral, y el Cristo resucitado, realizado en 1476 para la capilla funeraria que el artista había pedido poder construir junto al hospital. La escultura se encuentra hoy en la iglesia de la Santissima Annunziata, dentro del complejo de Santa Maria della Scala.\n\nTrabajó además en el Baptisterio de San Giovanni, donde realizó frescos, y en la catedral sienesa, contribuyendo a su decoración y a su mobiliario litúrgico. Su actividad no se limitó a la pintura y a la escultura: el gobierno de la República le encargó también trabajos de arquitectura e ingeniería militar, entre ellos intervenciones en las fortificaciones de algunos centros del territorio sienés.\n\nSu fama llegó también a Pienza. El papa Pío II le encargó un retablo para la catedral de la ciudad, obra que testimonia el prestigio alcanzado por el artista. La relación con Siena siguió siendo, sin embargo, central: el gobierno de la ciudad llegó a esforzarse por retenerlo, señal de la consideración de que gozaba.\n\nMurió en Siena en 1480. Su producción representa un paso fundamental entre la gran tradición pictórica medieval sienesa y el lenguaje renacentista."
+      },
+      "curiosita": {
+        "it": [
+          "Non è certa l'origine del soprannome «Vecchietta»: compare nei documenti, ma non conosciamo con sicurezza il motivo per cui gli fu attribuito.",
+          "Il grande ciborio bronzeo che realizzò per Santa Maria della Scala fu trasferito nel Duomo nel 1506. È ancora oggi uno degli elementi più riconoscibili dell'altare maggiore della cattedrale.",
+          "Il Cristo risorto in bronzo è caratterizzato da un forte realismo anatomico, con una cura particolare per i dettagli del corpo.",
+          "Il Vecchietta fu un artista poliedrico: oltre a dipingere e scolpire, si occupò di oreficeria, architettura e fortificazioni.",
+          "La sua attività si intreccia con la storia di Santa Maria della Scala per quasi quarant'anni, dall'affresco del Pellegrinaio del 1441 fino al Cristo risorto del 1476."
+        ],
+        "en": [
+          "The origin of the nickname «Vecchietta» is uncertain: it appears in the documents, but we do not know for sure why it was given to him.",
+          "The great bronze ciborium he made for Santa Maria della Scala was moved to the Cathedral in 1506. It is still one of the most recognisable elements of the cathedral's high altar today.",
+          "The bronze Risen Christ is marked by strong anatomical realism, with particular care for the details of the body.",
+          "The Vecchietta was a versatile artist: besides painting and sculpting, he worked in goldsmithing, architecture and fortifications.",
+          "His career is intertwined with the history of Santa Maria della Scala for almost forty years, from the Pellegrinaio fresco of 1441 to the Risen Christ of 1476."
+        ],
+        "fr": [
+          "L'origine du surnom «Vecchietta» est incertaine : il apparaît dans les documents, mais nous ne savons pas avec certitude pourquoi il lui fut attribué.",
+          "Le grand ciboire en bronze qu'il réalisa pour Santa Maria della Scala fut transféré dans la cathédrale en 1506. C'est encore aujourd'hui l'un des éléments les plus reconnaissables du maître-autel de la cathédrale.",
+          "Le Christ ressuscité en bronze se caractérise par un fort réalisme anatomique, avec un soin particulier apporté aux détails du corps.",
+          "Le Vecchietta fut un artiste polyvalent : outre la peinture et la sculpture, il s'occupa d'orfèvrerie, d'architecture et de fortifications.",
+          "Son activité est liée à l'histoire de Santa Maria della Scala pendant près de quarante ans, de la fresque du Pellegrinaio de 1441 jusqu'au Christ ressuscité de 1476."
+        ],
+        "de": [
+          "Der Ursprung des Beinamens «Vecchietta» ist nicht gesichert: Er taucht in den Dokumenten auf, doch wir wissen nicht sicher, warum er ihm gegeben wurde.",
+          "Das große Bronzeziborium, das er für Santa Maria della Scala schuf, wurde 1506 in den Dom überführt. Es ist bis heute eines der bekanntesten Elemente des Hochaltars der Kathedrale.",
+          "Der bronzene Auferstandene Christus zeichnet sich durch einen starken anatomischen Realismus aus, mit besonderer Sorgfalt für die Details des Körpers.",
+          "Der Vecchietta war ein vielseitiger Künstler: Neben Malerei und Bildhauerei befasste er sich mit Goldschmiedekunst, Architektur und Befestigungsbau.",
+          "Seine Tätigkeit ist fast vierzig Jahre lang mit der Geschichte von Santa Maria della Scala verflochten, vom Fresko im Pellegrinaio von 1441 bis zum Auferstandenen Christus von 1476."
+        ],
+        "es": [
+          "No es seguro el origen del apodo «Vecchietta»: aparece en los documentos, pero no sabemos con certeza por qué se le atribuyó.",
+          "El gran ciborio de bronce que realizó para Santa Maria della Scala fue trasladado a la catedral en 1506. Sigue siendo hoy uno de los elementos más reconocibles del altar mayor de la catedral.",
+          "El Cristo resucitado en bronce se caracteriza por un fuerte realismo anatómico, con un cuidado especial por los detalles del cuerpo.",
+          "El Vecchietta fue un artista polifacético: además de pintar y esculpir, se ocupó de orfebrería, arquitectura y fortificaciones.",
+          "Su actividad se entrelaza con la historia de Santa Maria della Scala durante casi cuarenta años, desde el fresco del Pellegrinaio de 1441 hasta el Cristo resucitado de 1476."
+        ]
+      },
+      "luoghi": [
+        "santa-maria-della-scala",
+        "cattedrale-di-santa-maria-assunta",
+        "battistero-di-san-giovanni"
+      ],
+      "luoghiNote": {
+        "santa-maria-della-scala": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "È il luogo più importante per ricostruire la sua attività. Qui si trovano gli affreschi del Pellegrinaio e della Cappella del Sacro Chiodo, oltre a opere legate alla sua attività di scultore.",
+            "en": "It is the most important place for reconstructing his career. Here are the frescoes of the Pellegrinaio and of the Chapel of the Holy Nail, as well as works linked to his activity as a sculptor.",
+            "fr": "C'est le lieu le plus important pour reconstituer son activité. On y trouve les fresques du Pellegrinaio et de la chapelle du Saint-Clou, ainsi que des œuvres liées à son activité de sculpteur.",
+            "de": "Es ist der wichtigste Ort, um sein Schaffen nachzuvollziehen. Hier befinden sich die Fresken des Pellegrinaio und der Cappella del Sacro Chiodo sowie Werke, die mit seiner Tätigkeit als Bildhauer zusammenhängen.",
+            "es": "Es el lugar más importante para reconstruir su actividad. Aquí se encuentran los frescos del Pellegrinaio y de la Capilla del Santo Clavo, además de obras ligadas a su actividad de escultor."
+          }
+        },
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Conserva il ciborio bronzeo realizzato per Santa Maria della Scala e trasferito nella cattedrale nel 1506. Il Duomo è inoltre parte del contesto artistico nel quale il Vecchietta lavorò.",
+            "en": "It keeps the bronze ciborium made for Santa Maria della Scala and moved to the cathedral in 1506. The Cathedral is also part of the artistic setting in which the Vecchietta worked.",
+            "fr": "Elle conserve le ciboire en bronze réalisé pour Santa Maria della Scala et transféré dans la cathédrale en 1506. La cathédrale fait en outre partie du contexte artistique dans lequel travailla le Vecchietta.",
+            "de": "Er bewahrt das Bronzeziborium auf, das für Santa Maria della Scala geschaffen und 1506 in den Dom überführt wurde. Der Dom gehört zudem zum künstlerischen Umfeld, in dem der Vecchietta arbeitete.",
+            "es": "Conserva el ciborio de bronce realizado para Santa Maria della Scala y trasladado a la catedral en 1506. La catedral forma además parte del contexto artístico en el que trabajó el Vecchietta."
+          }
+        },
+        "battistero-di-san-giovanni": {
+          "tipo": {
+            "it": "Legame diretto – opera",
+            "en": "Direct link – work",
+            "fr": "Lien direct – œuvre",
+            "de": "Direkter Bezug – Werk",
+            "es": "Vínculo directo – obra"
+          },
+          "testo": {
+            "it": "Conserva gli affreschi realizzati dall'artista nel ciclo decorativo quattrocentesco.",
+            "en": "It keeps the frescoes the artist made within the fifteenth-century decorative cycle.",
+            "fr": "Il conserve les fresques réalisées par l'artiste dans le cycle décoratif du XVe siècle.",
+            "de": "Es bewahrt die Fresken auf, die der Künstler im Rahmen des Dekorationszyklus des 15. Jahrhunderts schuf.",
+            "es": "Conserva los frescos realizados por el artista dentro del ciclo decorativo del siglo XV."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "francesco-di-giorgio-martini",
+          "testo": {
+            "it": "Francesco di Giorgio Martini fu uno degli artisti che si formarono nell'ambiente del Vecchietta. Le fonti storico-artistiche indicano un rapporto di discepolato, anche se i dettagli della formazione non sono completamente documentati. Il collegamento è importante per raccontare la continuità tra la generazione del Vecchietta e quella di Francesco di Giorgio.",
+            "en": "Francesco di Giorgio Martini was one of the artists trained in the Vecchietta's circle. Art-historical sources point to a master–pupil relationship, although the details of his training are not fully documented. The link matters for telling the continuity between the Vecchietta's generation and Francesco di Giorgio's.",
+            "fr": "Francesco di Giorgio Martini fut l'un des artistes formés dans le milieu du Vecchietta. Les sources historico-artistiques indiquent un rapport de maître à élève, même si les détails de cette formation ne sont pas entièrement documentés. Le lien est important pour raconter la continuité entre la génération du Vecchietta et celle de Francesco di Giorgio.",
+            "de": "Francesco di Giorgio Martini war einer der Künstler, die sich im Umfeld des Vecchietta ausbildeten. Die kunsthistorischen Quellen weisen auf ein Schülerverhältnis hin, auch wenn die Einzelheiten der Ausbildung nicht vollständig belegt sind. Die Verbindung ist wichtig, um die Kontinuität zwischen der Generation des Vecchietta und der von Francesco di Giorgio zu erzählen.",
+            "es": "Francesco di Giorgio Martini fue uno de los artistas que se formaron en el ambiente del Vecchietta. Las fuentes histórico-artísticas indican una relación de discipulado, aunque los detalles de la formación no están completamente documentados. El vínculo es importante para contar la continuidad entre la generación del Vecchietta y la de Francesco di Giorgio."
+          }
+        },
+        {
+          "id": "pio-ii",
+          "testo": {
+            "it": "Il pontefice commissionò al Vecchietta una pala d'altare per la cattedrale di Pienza. Il rapporto è quindi diretto e documentato attraverso una committenza artistica.",
+            "en": "The pope commissioned an altarpiece from the Vecchietta for Pienza Cathedral. The relationship is therefore direct and documented through an artistic commission.",
+            "fr": "Le pontife commanda au Vecchietta un retable pour la cathédrale de Pienza. Le rapport est donc direct et documenté à travers une commande artistique.",
+            "de": "Der Papst gab beim Vecchietta ein Altarbild für den Dom von Pienza in Auftrag. Die Beziehung ist somit direkt und durch einen Kunstauftrag belegt.",
+            "es": "El pontífice encargó al Vecchietta un retablo para la catedral de Pienza. La relación es, por tanto, directa y está documentada a través de un encargo artístico."
+          }
+        }
+      ]
+    },
+    {
+      "id": "baldassarre-peruzzi",
+      "nome": "Baldassarre Peruzzi",
+      "nascita": 1481,
+      "morte": 1536,
+      "professione": {
+        "it": "Architetto e pittore",
+        "en": "Architect and painter",
+        "fr": "Architecte et peintre",
+        "de": "Architekt und Maler",
+        "es": "Arquitecto y pintor"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "battezzato il 7 marzo 1481",
+        "en": "baptised 7 March 1481",
+        "fr": "baptisé le 7 mars 1481",
+        "de": "getauft am 7. März 1481",
+        "es": "bautizado el 7 de marzo de 1481"
+      },
+      "luogoMorte": {
+        "it": "Roma",
+        "en": "Rome",
+        "fr": "Rome",
+        "de": "Rom",
+        "es": "Roma"
+      },
+      "dataMorte": {
+        "it": "6 gennaio 1536",
+        "en": "6 January 1536",
+        "fr": "6 janvier 1536",
+        "de": "6. Januar 1536",
+        "es": "6 de enero de 1536"
+      },
+      "biografia": {
+        "it": "Baldassarre Peruzzi fu uno dei più importanti architetti e pittori del Rinascimento italiano. Nato a Siena, sviluppò una carriera che lo portò a lavorare tra la sua città d'origine e Roma, dove divenne una figura di primo piano nell'architettura del primo Cinquecento. La sua attività contribuì alla diffusione di un nuovo linguaggio architettonico, fondato sullo studio dell'antichità classica, della prospettiva e delle proporzioni.\n\nFiglio di Giovanni di Silvestro, tessitore originario di Volterra, fu battezzato a Siena il 7 marzo 1481. Le notizie sulla sua formazione sono parzialmente incerte: secondo la tradizione biografica apprese inizialmente l'arte del disegno e dell'oreficeria, sviluppando poi un interesse sempre più forte per la pittura e l'architettura.\n\nIl suo primo lavoro documentato a Siena risale al 1501, quando intervenne nella decorazione della cappella di San Giovanni nel Duomo. In quegli anni entrò in contatto con l'ambiente artistico senese e con l'eredità di Francesco di Giorgio Martini. La sua formazione fu influenzata anche dalla cultura pittorica di Pinturicchio e dalle nuove esperienze rinascimentali.\n\nTra le prime opere architettoniche importanti si ricorda la villa Le Volte, realizzata per Sigismondo Chigi nei dintorni di Siena e completata entro il 1505. L'edificio mostra già alcune soluzioni innovative nella disposizione degli spazi e nel rapporto tra architettura e paesaggio.\n\nNei primi anni del Cinquecento Peruzzi si trasferì a Roma, dove entrò nell'ambiente artistico e culturale della corte papale. Qui lavorò per importanti committenti e sviluppò una ricerca architettonica sempre più legata allo studio dell'antichità. La sua opera più celebre di questo periodo è la Villa Farnesina, costruita per il banchiere senese Agostino Chigi. L'edificio, con le sue logge e le decorazioni ispirate alla mitologia classica, rappresenta uno dei capolavori del Rinascimento romano.\n\nNel 1527, dopo il Sacco di Roma, Peruzzi tornò a Siena. La Repubblica lo accolse con grande considerazione e gli affidò incarichi prestigiosi: nel luglio dello stesso anno fu nominato architetto della Repubblica e dell'Opera del Duomo, con il compito di intervenire sui principali progetti architettonici cittadini. Fu inoltre incaricato di insegnare architettura a chi desiderasse apprenderla.\n\nDurante il soggiorno senese lavorò a progetti per il Duomo, studiò soluzioni per il suo presbiterio e si occupò di fortificazioni. Il suo contributo si inserì in una fase particolarmente delicata per la Repubblica, impegnata a difendere la propria autonomia e a rafforzare le strutture militari.\n\nNel 1531 ricevette la conferma del ruolo di architetto della fabbrica di San Pietro a Roma. Negli ultimi anni alternò quindi soggiorni nella capitale pontificia e a Siena, fino a trasferirsi definitivamente a Roma, dove morì il 6 gennaio 1536. Fu sepolto nel Pantheon, accanto a Raffaello.",
+        "en": "Baldassarre Peruzzi was one of the most important architects and painters of the Italian Renaissance. Born in Siena, he built a career that took him between his native city and Rome, where he became a leading figure in early sixteenth-century architecture. His work helped spread a new architectural language based on the study of classical antiquity, perspective and proportion.\n\nThe son of Giovanni di Silvestro, a weaver from Volterra, he was baptised in Siena on 7 March 1481. What is known of his training is partly uncertain: according to the biographical tradition he first learned the art of drawing and goldsmithing, then developed an ever stronger interest in painting and architecture.\n\nHis first documented work in Siena dates to 1501, when he took part in the decoration of the chapel of San Giovanni in the Cathedral. In those years he came into contact with the Sienese artistic milieu and with the legacy of Francesco di Giorgio Martini. His training was also influenced by the painting culture of Pinturicchio and by new Renaissance experiences.\n\nAmong his first important architectural works is the Villa Le Volte, built for Sigismondo Chigi near Siena and completed by 1505. The building already shows some innovative solutions in the arrangement of spaces and in the relationship between architecture and landscape.\n\nIn the early years of the sixteenth century Peruzzi moved to Rome, where he entered the artistic and cultural world of the papal court. There he worked for important patrons and developed an architectural research ever more tied to the study of antiquity. His most famous work of this period is the Villa Farnesina, built for the Sienese banker Agostino Chigi. The building, with its loggias and decorations inspired by classical mythology, is one of the masterpieces of the Roman Renaissance.\n\nIn 1527, after the Sack of Rome, Peruzzi returned to Siena. The Republic welcomed him with great consideration and entrusted him with prestigious posts: in July of the same year he was named architect of the Republic and of the Opera del Duomo, charged with working on the city's main architectural projects. He was also commissioned to teach architecture to anyone who wished to learn it.\n\nDuring his stay in Siena he worked on projects for the Cathedral, studied solutions for its presbytery and dealt with fortifications. His contribution came at a particularly delicate time for the Republic, which was striving to defend its autonomy and to strengthen its military structures.\n\nIn 1531 he received confirmation of his role as architect of the building works of St Peter's in Rome. In his last years he therefore alternated stays in the papal capital and in Siena, until he moved permanently to Rome, where he died on 6 January 1536. He was buried in the Pantheon, next to Raphael.",
+        "fr": "Baldassarre Peruzzi fut l'un des plus importants architectes et peintres de la Renaissance italienne. Né à Sienne, il mena une carrière qui le conduisit à travailler entre sa ville d'origine et Rome, où il devint une figure de premier plan de l'architecture du début du XVIe siècle. Son activité contribua à la diffusion d'un nouveau langage architectural, fondé sur l'étude de l'Antiquité classique, de la perspective et des proportions.\n\nFils de Giovanni di Silvestro, tisserand originaire de Volterra, il fut baptisé à Sienne le 7 mars 1481. Les informations sur sa formation sont en partie incertaines : selon la tradition biographique, il apprit d'abord l'art du dessin et l'orfèvrerie, puis développa un intérêt de plus en plus fort pour la peinture et l'architecture.\n\nSon premier travail documenté à Sienne remonte à 1501, lorsqu'il intervint dans la décoration de la chapelle de San Giovanni dans la cathédrale. À cette époque, il entra en contact avec le milieu artistique siennois et avec l'héritage de Francesco di Giorgio Martini. Sa formation fut aussi influencée par la culture picturale de Pinturicchio et par les nouvelles expériences de la Renaissance.\n\nParmi ses premières œuvres architecturales importantes, on retient la villa Le Volte, réalisée pour Sigismondo Chigi aux environs de Sienne et achevée en 1505 au plus tard. L'édifice montre déjà certaines solutions novatrices dans la disposition des espaces et dans le rapport entre architecture et paysage.\n\nDans les premières années du XVIe siècle, Peruzzi s'installa à Rome, où il entra dans le milieu artistique et culturel de la cour pontificale. Il y travailla pour d'importants commanditaires et développa une recherche architecturale de plus en plus liée à l'étude de l'Antiquité. Son œuvre la plus célèbre de cette période est la Villa Farnesina, construite pour le banquier siennois Agostino Chigi. L'édifice, avec ses loggias et ses décorations inspirées de la mythologie classique, représente l'un des chefs-d'œuvre de la Renaissance romaine.\n\nEn 1527, après le sac de Rome, Peruzzi revint à Sienne. La République l'accueillit avec beaucoup de considération et lui confia des charges prestigieuses : en juillet de la même année, il fut nommé architecte de la République et de l'Opera del Duomo, avec pour mission d'intervenir sur les principaux projets architecturaux de la ville. Il fut en outre chargé d'enseigner l'architecture à quiconque souhaitait l'apprendre.\n\nPendant son séjour siennois, il travailla à des projets pour la cathédrale, étudia des solutions pour son chœur et s'occupa de fortifications. Sa contribution s'inscrivit dans une phase particulièrement délicate pour la République, engagée à défendre son autonomie et à renforcer ses structures militaires.\n\nEn 1531, il reçut la confirmation de sa charge d'architecte de la fabrique de Saint-Pierre à Rome. Dans ses dernières années, il alterna donc des séjours dans la capitale pontificale et à Sienne, jusqu'à s'installer définitivement à Rome, où il mourut le 6 janvier 1536. Il fut enterré au Panthéon, près de Raphaël.",
+        "de": "Baldassarre Peruzzi war einer der bedeutendsten Architekten und Maler der italienischen Renaissance. In Siena geboren, entwickelte er eine Laufbahn, die ihn zwischen seine Heimatstadt und Rom führte, wo er zu einer führenden Gestalt der Architektur des frühen 16. Jahrhunderts wurde. Sein Wirken trug zur Verbreitung einer neuen architektonischen Sprache bei, die auf dem Studium der klassischen Antike, der Perspektive und der Proportionen beruhte.\n\nAls Sohn von Giovanni di Silvestro, einem aus Volterra stammenden Weber, wurde er am 7. März 1481 in Siena getauft. Über seine Ausbildung ist teilweise nichts Sicheres bekannt: Nach der biografischen Überlieferung erlernte er zunächst die Kunst des Zeichnens und der Goldschmiedekunst und entwickelte dann ein immer stärkeres Interesse an Malerei und Architektur.\n\nSein erstes belegtes Werk in Siena stammt aus dem Jahr 1501, als er an der Ausstattung der Kapelle San Giovanni im Dom mitwirkte. In jenen Jahren kam er mit dem sienesischen Kunstmilieu und dem Erbe von Francesco di Giorgio Martini in Berührung. Seine Ausbildung wurde auch von der Malkultur Pinturicchios und von den neuen Erfahrungen der Renaissance beeinflusst.\n\nZu seinen ersten bedeutenden architektonischen Werken zählt die Villa Le Volte, die für Sigismondo Chigi in der Umgebung von Siena errichtet und spätestens 1505 fertiggestellt wurde. Das Gebäude zeigt bereits einige innovative Lösungen in der Raumanordnung und im Verhältnis von Architektur und Landschaft.\n\nIn den ersten Jahren des 16. Jahrhunderts zog Peruzzi nach Rom, wo er in das künstlerische und kulturelle Umfeld des päpstlichen Hofes eintrat. Dort arbeitete er für bedeutende Auftraggeber und entwickelte eine architektonische Forschung, die immer enger mit dem Studium der Antike verbunden war. Sein berühmtestes Werk dieser Zeit ist die Villa Farnesina, erbaut für den sienesischen Bankier Agostino Chigi. Das Gebäude mit seinen Loggien und den von der klassischen Mythologie inspirierten Dekorationen zählt zu den Meisterwerken der römischen Renaissance.\n\nIm Jahr 1527, nach dem Sacco di Roma, kehrte Peruzzi nach Siena zurück. Die Republik empfing ihn mit großer Wertschätzung und übertrug ihm angesehene Ämter: Im Juli desselben Jahres wurde er zum Architekten der Republik und der Opera del Duomo ernannt und sollte an den wichtigsten Bauprojekten der Stadt mitwirken. Außerdem wurde er beauftragt, jedem, der es erlernen wollte, Architektur zu lehren.\n\nWährend seines Aufenthalts in Siena arbeitete er an Projekten für den Dom, untersuchte Lösungen für dessen Presbyterium und befasste sich mit Befestigungen. Sein Beitrag fiel in eine besonders heikle Phase der Republik, die bemüht war, ihre Autonomie zu verteidigen und ihre militärischen Strukturen zu stärken.\n\nIm Jahr 1531 erhielt er die Bestätigung seines Amtes als Architekt der Bauhütte von St. Peter in Rom. In seinen letzten Jahren wechselte er daher zwischen Aufenthalten in der päpstlichen Hauptstadt und in Siena, bis er endgültig nach Rom übersiedelte, wo er am 6. Januar 1536 starb. Er wurde im Pantheon neben Raffael beigesetzt.",
+        "es": "Baldassarre Peruzzi fue uno de los arquitectos y pintores más importantes del Renacimiento italiano. Nacido en Siena, desarrolló una carrera que lo llevó a trabajar entre su ciudad de origen y Roma, donde se convirtió en una figura de primer plano de la arquitectura de comienzos del siglo XVI. Su actividad contribuyó a la difusión de un nuevo lenguaje arquitectónico, basado en el estudio de la antigüedad clásica, de la perspectiva y de las proporciones.\n\nHijo de Giovanni di Silvestro, tejedor originario de Volterra, fue bautizado en Siena el 7 de marzo de 1481. Las noticias sobre su formación son en parte inciertas: según la tradición biográfica, aprendió primero el arte del dibujo y de la orfebrería, y desarrolló después un interés cada vez más fuerte por la pintura y la arquitectura.\n\nSu primer trabajo documentado en Siena se remonta a 1501, cuando intervino en la decoración de la capilla de San Giovanni en la catedral. En esos años entró en contacto con el ambiente artístico sienés y con el legado de Francesco di Giorgio Martini. Su formación estuvo influida también por la cultura pictórica de Pinturicchio y por las nuevas experiencias renacentistas.\n\nEntre sus primeras obras arquitectónicas importantes se recuerda la villa Le Volte, realizada para Sigismondo Chigi en los alrededores de Siena y terminada en 1505 a más tardar. El edificio muestra ya algunas soluciones innovadoras en la disposición de los espacios y en la relación entre arquitectura y paisaje.\n\nEn los primeros años del siglo XVI, Peruzzi se trasladó a Roma, donde entró en el ambiente artístico y cultural de la corte papal. Allí trabajó para importantes comitentes y desarrolló una investigación arquitectónica cada vez más ligada al estudio de la antigüedad. Su obra más célebre de este periodo es la Villa Farnesina, construida para el banquero sienés Agostino Chigi. El edificio, con sus logias y sus decoraciones inspiradas en la mitología clásica, representa una de las obras maestras del Renacimiento romano.\n\nEn 1527, tras el Saco de Roma, Peruzzi regresó a Siena. La República lo acogió con gran consideración y le confió cargos prestigiosos: en julio del mismo año fue nombrado arquitecto de la República y de la Opera del Duomo, con el encargo de intervenir en los principales proyectos arquitectónicos de la ciudad. Se le encargó además enseñar arquitectura a quien deseara aprenderla.\n\nDurante su estancia en Siena trabajó en proyectos para la catedral, estudió soluciones para su presbiterio y se ocupó de fortificaciones. Su contribución se inscribió en una fase particularmente delicada para la República, empeñada en defender su autonomía y en reforzar sus estructuras militares.\n\nEn 1531 recibió la confirmación de su cargo como arquitecto de la fábrica de San Pedro en Roma. En sus últimos años alternó, por tanto, estancias en la capital pontificia y en Siena, hasta trasladarse definitivamente a Roma, donde murió el 6 de enero de 1536. Fue sepultado en el Panteón, junto a Rafael."
+      },
+      "curiosita": {
+        "it": [
+          "La sua opera più famosa è la Villa Farnesina a Roma, costruita per il banchiere senese Agostino Chigi. È un esempio significativo del rapporto tra il mecenatismo senese e il Rinascimento romano.",
+          "Peruzzi non fu soltanto architetto: si occupò anche di pittura, scenografia, prospettiva e progettazione urbanistica.",
+          "Realizzò centinaia di disegni e studi architettonici, molti dei quali sono conservati agli Uffizi.",
+          "Nel 1527 la Repubblica di Siena gli assegnò un incarico pubblico di grande prestigio, riconoscendone il valore come architetto e come esperto di fortificazioni.",
+          "Fu sepolto nel Pantheon di Roma, vicino alla tomba di Raffaello, un riconoscimento significativo per la sua reputazione artistica."
+        ],
+        "en": [
+          "His most famous work is the Villa Farnesina in Rome, built for the Sienese banker Agostino Chigi. It is a significant example of the relationship between Sienese patronage and the Roman Renaissance.",
+          "Peruzzi was not only an architect: he also worked in painting, stage design, perspective and urban planning.",
+          "He produced hundreds of architectural drawings and studies, many of which are kept in the Uffizi.",
+          "In 1527 the Republic of Siena gave him a highly prestigious public post, recognising his worth as an architect and as an expert in fortifications.",
+          "He was buried in the Pantheon in Rome, near the tomb of Raphael, a significant recognition of his artistic reputation."
+        ],
+        "fr": [
+          "Son œuvre la plus célèbre est la Villa Farnesina à Rome, construite pour le banquier siennois Agostino Chigi. C'est un exemple significatif du rapport entre le mécénat siennois et la Renaissance romaine.",
+          "Peruzzi ne fut pas seulement architecte : il s'occupa aussi de peinture, de scénographie, de perspective et d'urbanisme.",
+          "Il réalisa des centaines de dessins et d'études architecturales, dont beaucoup sont conservés aux Offices.",
+          "En 1527, la République de Sienne lui confia une charge publique très prestigieuse, reconnaissant sa valeur d'architecte et d'expert en fortifications.",
+          "Il fut enterré au Panthéon de Rome, près de la tombe de Raphaël, une reconnaissance significative de sa réputation artistique."
+        ],
+        "de": [
+          "Sein berühmtestes Werk ist die Villa Farnesina in Rom, erbaut für den sienesischen Bankier Agostino Chigi. Sie ist ein bedeutendes Beispiel für die Beziehung zwischen sienesischem Mäzenatentum und römischer Renaissance.",
+          "Peruzzi war nicht nur Architekt: Er befasste sich auch mit Malerei, Bühnenbild, Perspektive und Stadtplanung.",
+          "Er schuf Hunderte von architektonischen Zeichnungen und Studien, von denen viele in den Uffizien aufbewahrt werden.",
+          "Im Jahr 1527 übertrug ihm die Republik Siena ein höchst angesehenes öffentliches Amt und würdigte damit seinen Wert als Architekt und Fachmann für Befestigungen.",
+          "Er wurde im Pantheon in Rom nahe dem Grab Raffaels beigesetzt, eine bedeutende Anerkennung seines künstlerischen Ansehens."
+        ],
+        "es": [
+          "Su obra más famosa es la Villa Farnesina en Roma, construida para el banquero sienés Agostino Chigi. Es un ejemplo significativo de la relación entre el mecenazgo sienés y el Renacimiento romano.",
+          "Peruzzi no fue solo arquitecto: se ocupó también de pintura, escenografía, perspectiva y diseño urbanístico.",
+          "Realizó cientos de dibujos y estudios arquitectónicos, muchos de los cuales se conservan en los Uffizi.",
+          "En 1527 la República de Siena le asignó un cargo público de gran prestigio, reconociendo su valor como arquitecto y como experto en fortificaciones.",
+          "Fue sepultado en el Panteón de Roma, cerca de la tumba de Rafael, un reconocimiento significativo de su reputación artística."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – cantiere",
+            "en": "Direct link – building works",
+            "fr": "Lien direct – chantier",
+            "de": "Direkter Bezug – Baustelle",
+            "es": "Vínculo directo – obras"
+          },
+          "testo": {
+            "it": "Peruzzi intervenne nella decorazione della cappella di San Giovanni e, dopo il ritorno in città nel 1527, elaborò progetti per il presbiterio e per il rinnovamento architettonico della cattedrale.",
+            "en": "Peruzzi worked on the decoration of the chapel of San Giovanni and, after returning to the city in 1527, drew up projects for the presbytery and for the architectural renewal of the cathedral.",
+            "fr": "Peruzzi intervint dans la décoration de la chapelle de San Giovanni et, après son retour en ville en 1527, élabora des projets pour le chœur et pour le renouvellement architectural de la cathédrale.",
+            "de": "Peruzzi wirkte an der Ausstattung der Kapelle San Giovanni mit und entwarf nach seiner Rückkehr in die Stadt 1527 Projekte für das Presbyterium und für die architektonische Erneuerung der Kathedrale.",
+            "es": "Peruzzi intervino en la decoración de la capilla de San Giovanni y, tras su regreso a la ciudad en 1527, elaboró proyectos para el presbiterio y para la renovación arquitectónica de la catedral."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "francesco-di-giorgio-martini",
+          "testo": {
+            "it": "Peruzzi fu influenzato dalla cultura architettonica e artistica di Francesco di Giorgio, considerato dalla tradizione biografica uno dei suoi maestri. Il rapporto è importante per comprendere la continuità della scuola architettonica senese tra Quattrocento e Cinquecento.",
+            "en": "Peruzzi was influenced by the architectural and artistic culture of Francesco di Giorgio, considered by the biographical tradition one of his teachers. The relationship is important for understanding the continuity of the Sienese architectural school between the fifteenth and sixteenth centuries.",
+            "fr": "Peruzzi fut influencé par la culture architecturale et artistique de Francesco di Giorgio, considéré par la tradition biographique comme l'un de ses maîtres. Le rapport est important pour comprendre la continuité de l'école architecturale siennoise entre le XVe et le XVIe siècle.",
+            "de": "Peruzzi wurde von der architektonischen und künstlerischen Kultur Francesco di Giorgios beeinflusst, der in der biografischen Überlieferung als einer seiner Lehrer gilt. Die Beziehung ist wichtig, um die Kontinuität der sienesischen Architekturschule zwischen dem 15. und 16. Jahrhundert zu verstehen.",
+            "es": "Peruzzi recibió la influencia de la cultura arquitectónica y artística de Francesco di Giorgio, considerado por la tradición biográfica uno de sus maestros. La relación es importante para comprender la continuidad de la escuela arquitectónica sienesa entre los siglos XV y XVI."
+          }
+        },
+        {
+          "id": "pinturicchio",
+          "testo": {
+            "it": "La sua prima formazione pittorica e alcuni lavori giovanili a Siena mostrano l'influenza del linguaggio di Pinturicchio, attivo in città nei primi anni del Cinquecento. Il collegamento è soprattutto artistico e stilistico.",
+            "en": "His early painting training and some youthful works in Siena show the influence of the language of Pinturicchio, active in the city in the early sixteenth century. The link is above all artistic and stylistic.",
+            "fr": "Sa première formation picturale et certains travaux de jeunesse à Sienne montrent l'influence du langage de Pinturicchio, actif dans la ville au début du XVIe siècle. Le lien est surtout artistique et stylistique.",
+            "de": "Seine erste malerische Ausbildung und einige Jugendwerke in Siena zeigen den Einfluss der Formensprache Pinturicchios, der in den ersten Jahren des 16. Jahrhunderts in der Stadt tätig war. Die Verbindung ist vor allem künstlerisch und stilistisch.",
+            "es": "Su primera formación pictórica y algunos trabajos juveniles en Siena muestran la influencia del lenguaje de Pinturicchio, activo en la ciudad en los primeros años del siglo XVI. El vínculo es sobre todo artístico y estilístico."
+          }
+        },
+        {
+          "id": "domenico-beccafumi",
+          "testo": {
+            "it": "Nel 1531 Peruzzi fu incaricato di valutare i lavori realizzati da Beccafumi per il pavimento del Duomo, in particolare la scena di Mosè che riceve le tavole della Legge. Si tratta di un rapporto professionale documentato.",
+            "en": "In 1531 Peruzzi was asked to assess the work Beccafumi had done for the Cathedral pavement, in particular the scene of Moses receiving the tablets of the Law. It is a documented professional relationship.",
+            "fr": "En 1531, Peruzzi fut chargé d'évaluer les travaux réalisés par Beccafumi pour le pavement de la cathédrale, en particulier la scène de Moïse recevant les tables de la Loi. Il s'agit d'un rapport professionnel documenté.",
+            "de": "Im Jahr 1531 wurde Peruzzi beauftragt, die Arbeiten Beccafumis am Fußboden des Doms zu begutachten, insbesondere die Szene, in der Moses die Gesetzestafeln empfängt. Es handelt sich um eine belegte berufliche Beziehung.",
+            "es": "En 1531 Peruzzi fue encargado de evaluar los trabajos realizados por Beccafumi para el pavimento de la catedral, en particular la escena de Moisés recibiendo las tablas de la Ley. Se trata de una relación profesional documentada."
+          }
+        }
+      ]
     },
     {
       "id": "pandolfo-petrucci",

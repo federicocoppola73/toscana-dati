@@ -1,27 +1,118 @@
 {
- "_nota": "Elenco di luoghi e personaggi citati nelle schede storiche di Siena che NON sono ancora nel pacchetto. Da creare/collegare in seguito (storia.json ha personaggi vuoti finché non esistono).",
- "01": {
-  "luoghi": ["Museo Archeologico Nazionale di Siena", "Collezioni archeologiche senesi", "Tracciati della viabilità antica (Via Cassia)"],
-  "personaggi": ["Senio (solo come tradizione leggendaria, con Aschio)", "Sant'Ansano"]
- },
- "02": {
-  "luoghi": ["Piazza del Duomo", "Tracciato urbano della Via Francigena", "Chiese e strutture religiose medievali (da selezionare)"],
-  "personaggi": ["Sigerico di Canterbury (non senese: serve per la Francigena)", "Ildebrando da Soana / Gregorio VII (solo contesto generale)", "Vescovi senesi dell'Alto Medioevo (da verificare le biografie)"]
- },
- "03": {
-  "luoghi": ["Fonte Gaia", "Palazzo Salimbeni", "Mura medievali e porte storiche", "Museo dell'Opera (ora solo dentro la scheda del Duomo)"],
-  "personaggi": ["Duccio di Buoninsegna", "Simone Martini", "Ambrogio Lorenzetti", "Pietro Lorenzetti", "Nicola Pisano", "Giovanni Pisano", "Provenzano Salvani", "Cecco Angiolieri", "Caterina Benincasa (Santa Caterina, vedi 04)"]
- },
- "04": {
-  "luoghi": ["Palazzo Piccolomini", "Palazzo delle Papesse", "Loggia della Mercanzia", "Pinacoteca Nazionale (chiusa dal 26/01/2026)", "Fortezza Medicea", "Porta Camollia e fortificazioni", "Montalcino (fuori città)"],
-  "personaggi": ["Santa Caterina da Siena", "San Bernardino da Siena", "Pio II Piccolomini", "Francesco di Giorgio Martini", "Jacopo della Quercia", "Pinturicchio", "Matteo di Giovanni", "Domenico Beccafumi", "Pandolfo Petrucci", "Piero Strozzi", "Blaise de Monluc"]
- },
- "05": {
-  "luoghi": ["Fortezza Medicea", "Palazzo Salimbeni", "Accademia dei Fisiocritici", "Accademia degli Intronati", "Accademia dei Rozzi", "Palazzo Chigi-Saracini", "Lizza", "Chiese e palazzi barocchi (da selezionare)"],
-  "personaggi": ["Cosimo I de' Medici", "Ferdinando I de' Medici", "Pietro Leopoldo di Lorena", "Sallustio Bandini", "Giuseppe Parini (da valutare, collegamento non documentato)", "Studiosi dei Fisiocritici (da selezionare)"]
- },
- "06": {
-  "luoghi": ["Palazzo Salimbeni", "Accademia Musicale Chigiana", "Fortezza Medicea", "Lizza", "Stazione ferroviaria", "Quartieri di espansione novecentesca", "Luoghi della Resistenza e della liberazione 1944", "Musei e sedi delle contrade", "Centro storico (UNESCO 1995)"],
-  "personaggi": ["(nessuno nella tua lista; l'audio cita il conte Guido Chigi Saracini, fondatore della Chigiana)"]
- }
+  "_nota": "Elenco di luoghi e personaggi citati nelle schede storiche di Siena che NON sono ancora nel pacchetto. Da creare/collegare in seguito (storia.json ha personaggi vuoti finché non esistono).",
+  "01": {
+    "luoghi": [
+      "Museo Archeologico Nazionale di Siena",
+      "Collezioni archeologiche senesi",
+      "Tracciati della viabilità antica (Via Cassia)"
+    ],
+    "personaggi": [
+      "Senio (solo come tradizione leggendaria, con Aschio)",
+      "Sant'Ansano"
+    ]
+  },
+  "02": {
+    "luoghi": [
+      "Piazza del Duomo",
+      "Tracciato urbano della Via Francigena",
+      "Chiese e strutture religiose medievali (da selezionare)"
+    ],
+    "personaggi": [
+      "Sigerico di Canterbury (non senese: serve per la Francigena)",
+      "Ildebrando da Soana / Gregorio VII (solo contesto generale)",
+      "Vescovi senesi dell'Alto Medioevo (da verificare le biografie)"
+    ]
+  },
+  "03": {
+    "luoghi": [
+      "Fonte Gaia",
+      "Palazzo Salimbeni",
+      "Mura medievali e porte storiche",
+      "Museo dell'Opera (ora solo dentro la scheda del Duomo)"
+    ],
+    "personaggi": [
+      "Duccio di Buoninsegna",
+      "Simone Martini",
+      "Ambrogio Lorenzetti",
+      "Pietro Lorenzetti",
+      "Nicola Pisano",
+      "Giovanni Pisano",
+      "Provenzano Salvani",
+      "Cecco Angiolieri",
+      "Caterina Benincasa (Santa Caterina, vedi 04)"
+    ]
+  },
+  "04": {
+    "luoghi": [
+      "Palazzo Piccolomini",
+      "Palazzo delle Papesse",
+      "Loggia della Mercanzia",
+      "Pinacoteca Nazionale (chiusa dal 26/01/2026)",
+      "Fortezza Medicea",
+      "Porta Camollia e fortificazioni",
+      "Montalcino (fuori città)"
+    ],
+    "personaggi": [
+      "Santa Caterina da Siena",
+      "San Bernardino da Siena",
+      "Pio II Piccolomini",
+      "Francesco di Giorgio Martini",
+      "Jacopo della Quercia",
+      "Pinturicchio",
+      "Matteo di Giovanni",
+      "Domenico Beccafumi",
+      "Pandolfo Petrucci",
+      "Piero Strozzi",
+      "Blaise de Monluc"
+    ]
+  },
+  "05": {
+    "luoghi": [
+      "Fortezza Medicea",
+      "Palazzo Salimbeni",
+      "Accademia dei Fisiocritici",
+      "Accademia degli Intronati",
+      "Accademia dei Rozzi",
+      "Palazzo Chigi-Saracini",
+      "Lizza",
+      "Chiese e palazzi barocchi (da selezionare)"
+    ],
+    "personaggi": [
+      "Cosimo I de' Medici",
+      "Ferdinando I de' Medici",
+      "Pietro Leopoldo di Lorena",
+      "Sallustio Bandini",
+      "Giuseppe Parini (da valutare, collegamento non documentato)",
+      "Studiosi dei Fisiocritici (da selezionare)"
+    ]
+  },
+  "06": {
+    "luoghi": [
+      "Palazzo Salimbeni",
+      "Accademia Musicale Chigiana",
+      "Fortezza Medicea",
+      "Lizza",
+      "Stazione ferroviaria",
+      "Quartieri di espansione novecentesca",
+      "Luoghi della Resistenza e della liberazione 1944",
+      "Musei e sedi delle contrade",
+      "Centro storico (UNESCO 1995)"
+    ],
+    "personaggi": [
+      "(nessuno nella tua lista; l'audio cita il conte Guido Chigi Saracini, fondatore della Chigiana)"
+    ]
+  },
+  "luoghi_citati_da_personaggi_non_presenti": {
+    "lorenzo-di-pietro-il-vecchietta": [
+      "Chiesa della Santissima Annunziata (Cristo risorto in bronzo, 1476)",
+      "Pinacoteca Nazionale di Siena"
+    ],
+    "baldassarre-peruzzi": [
+      "Villa Le Volte",
+      "Chiesa di Santa Maria di Fontegiusta (Augusto e la Sibilla)",
+      "Oratorio di San Sebastiano in Vallepiatta",
+      "Castello di Belcaro",
+      "Villa Farnesina (Roma)"
+    ]
+  }
 }
