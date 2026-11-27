@@ -1,5 +1,5 @@
 {
- "versione": "5b268cb7e8fc",
+ "versione": "c3efc2413fd1",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3536,12 +3536,6 @@
    "byte": 39256
   },
   {
-   "path": "assets/personaggi/blaise-de-monluc.webp",
-   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/blaise-de-monluc.webp",
-   "sha256": "c075a451e088c3e3e846d6d48a9c0d187006f87c889be936d2968b82be45e9db",
-   "byte": 68740
-  },
-  {
    "path": "assets/personaggi/caterina-da-siena.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/caterina-da-siena.webp",
    "sha256": "448898b733a45b354ef07ae7da4a463b4a6e8c9f78c6437b14be2a2b40de299b",
@@ -3620,12 +3614,6 @@
    "byte": 29656
   },
   {
-   "path": "assets/personaggi/piero-strozzi.webp",
-   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/piero-strozzi.webp",
-   "sha256": "faa86528378ad0f5310d179567432de7dc96b9be4b4fcd37095342dbbc23af2e",
-   "byte": 26684
-  },
-  {
    "path": "assets/personaggi/pietro-leopoldo-d-asburgo-lorena.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pietro-leopoldo-d-asburgo-lorena.webp",
    "sha256": "9ff83bad4f0a63a6505b611613e10c96d79cf0abd8ec4fd01128c7928654ee87",
@@ -3678,12 +3666,6 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/senio.webp",
    "sha256": "cda132b2fc1afab8965712bcb59a498b078e0ed3eea8d341acbec4b7e2fb721f",
    "byte": 75216
-  },
-  {
-   "path": "assets/personaggi/sigerico-di-canterbury.webp",
-   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/sigerico-di-canterbury.webp",
-   "sha256": "a36ebaae12a2e12c2c52f3f920d25e0c28e5da7b050ea66cd76d036387ab2a86",
-   "byte": 155528
   },
   {
    "path": "assets/personaggi/simone-martini.webp",
@@ -3772,8 +3754,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "94517e6579c4f157c1d91cc8a7c77315f98f2815c34f4a4a081b70a4f55a9ff2",
-   "byte": 539091
+   "sha256": "45a8567bc88a0130d68544bc13e644c4e5a1cce9712eb55ccf665fe409919ef7",
+   "byte": 494114
   },
   {
    "path": "dati/principali.json",
@@ -3813,16 +3795,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "e6f24846c99a",
-   "da": "2e53c9e18ead",
-   "data": "2026-11-27",
-   "luoghi_aggiornati": 2,
-   "aspetti": [
-    "accessibilita"
-   ],
-   "byte": 98794
-  },
   {
    "versione": "ccc6c8cc6465",
    "da": "e6f24846c99a",
@@ -3971,6 +3943,12 @@
    ],
    "foto_nuove": 5,
    "byte": 1178373
+  },
+  {
+   "versione": "c3efc2413fd1",
+   "da": "5b268cb7e8fc",
+   "data": "2026-11-27",
+   "byte": 494114
   }
  ]
 }
