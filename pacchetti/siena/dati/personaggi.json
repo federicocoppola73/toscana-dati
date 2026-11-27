@@ -3178,7 +3178,11 @@
             "es": "Era su hijo y le sucedió, tras el breve gobierno de su hermano Francisco I, al frente del Gran Ducado. La relación familiar y dinástica permite seguir el paso de la primera organización del Estado mediceo a la consolidación de la dinastía."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Bronzino",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "ferdinando-i-de-medici",
@@ -3303,7 +3307,11 @@
             "es": "Era su padre y el fundador del orden político mediceo en el que Fernando gobernó. El vínculo es familiar e institucional."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Scipione Pulzone",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "pietro-leopoldo-d-asburgo-lorena",
@@ -3392,7 +3400,11 @@
             "es": "Las ideas económicas de Bandini, en particular las expresadas en el Discorso sopra la Maremma di Siena, se publicaron en 1775, durante el gobierno de Pedro Leopoldo. Sus reflexiones sobre la libertad del comercio y la mejora de las condiciones agrícolas se consideran entre las aportaciones que anticiparon algunas orientaciones de la política económica leopoldina. La relación es, por tanto, cultural e intelectual, no personal: Bandini había muerto en 1760."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Anton Raphael Mengs",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "sallustio-bandini",
@@ -3505,7 +3517,11 @@
             "es": "El Discorso sopra la Maremma di Siena de Bandini se publicó en 1775, durante el gobierno del gran duque. Sus propuestas económicas anticiparon algunos temas del reformismo leopoldino. No se trató de una relación personal, pues Bandini murió antes de la subida al trono de Pedro Leopoldo."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "G.steph.rocket",
+        "licenza": "CC BY-SA 3.0"
+      }
     },
     {
       "id": "federigo-tozzi",

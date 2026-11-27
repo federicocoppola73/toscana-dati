@@ -1,5 +1,5 @@
 {
- "versione": "bc9e8e586ff6",
+ "versione": "d38b893caec6",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3374,6 +3374,12 @@
    "byte": 13460
   },
   {
+   "path": "assets/personaggi/cosimo-i-de-medici.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/cosimo-i-de-medici.webp",
+   "sha256": "47ced9827b2c3c9bab1d729a4a7f70d87511cee47f8bdb86f8b4f496b1f93c20",
+   "byte": 53638
+  },
+  {
    "path": "assets/personaggi/domenico-beccafumi.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/domenico-beccafumi.webp",
    "sha256": "446318bc98b9a0c4f71a906acecfc2c549093e5f88f18677bbbd9cb8235cd26e",
@@ -3384,6 +3390,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/duccio-di-buoninsegna.webp",
    "sha256": "13c91cfc099da19fd0872022c3d31800d90d4b30a14056138b2d33e2205d9300",
    "byte": 182666
+  },
+  {
+   "path": "assets/personaggi/ferdinando-i-de-medici.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/ferdinando-i-de-medici.webp",
+   "sha256": "3e5635742e02731b96b677cd163bdfbb74ae61170bdda56b06bfd24405770af5",
+   "byte": 54720
   },
   {
    "path": "assets/personaggi/francesco-di-giorgio-martini.webp",
@@ -3416,6 +3428,12 @@
    "byte": 26684
   },
   {
+   "path": "assets/personaggi/pietro-leopoldo-d-asburgo-lorena.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pietro-leopoldo-d-asburgo-lorena.webp",
+   "sha256": "9ff83bad4f0a63a6505b611613e10c96d79cf0abd8ec4fd01128c7928654ee87",
+   "byte": 54448
+  },
+  {
    "path": "assets/personaggi/pietro-lorenzetti.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pietro-lorenzetti.webp",
    "sha256": "7e3c79677f1b5e31f23c35f42fa13246ef20739da6f108d3001a49cf51ddb895",
@@ -3438,6 +3456,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/provenzano-salvani.webp",
    "sha256": "9b19283027092e199969cb4230987b37411de641507b82a72292ebd80cb69a8a",
    "byte": 49220
+  },
+  {
+   "path": "assets/personaggi/sallustio-bandini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/sallustio-bandini.webp",
+   "sha256": "f93b58ce26148a6a8f3734d7ed699b33409382b06daf87d8bb9a1bbab985c6a0",
+   "byte": 54780
   },
   {
    "path": "assets/personaggi/sant-ansano.webp",
@@ -3544,8 +3568,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "b44e38a4d5f94ef3e85f476eaf5ad6a9b0cae7d802a1501facb422faccc85383",
-   "byte": 538150
+   "sha256": "074465882a4593d3203cdb1d0a97acd187333bcc2ba949dafb1053e994a15259",
+   "byte": 538559
   },
   {
    "path": "dati/principali.json",
@@ -3712,6 +3736,12 @@
    "da": "22af9bec646b",
    "data": "2026-11-27",
    "byte": 567806
+  },
+  {
+   "versione": "d38b893caec6",
+   "da": "bc9e8e586ff6",
+   "data": "2026-11-27",
+   "byte": 756145
   }
  ]
 }
