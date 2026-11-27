@@ -70,6 +70,188 @@
       "dimensione_mb": 5.8,
       "dimensione_prova_mb": 6.1,
       "pacchetto_prova": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/manifest_prova.json"
+    },
+    {
+      "id": "arezzo",
+      "nome": "Arezzo",
+      "provincia": "Arezzo",
+      "motto": {
+        "it": "Piero della Francesca e Piazza Grande",
+        "en": "Piero della Francesca and Piazza Grande",
+        "fr": "Piero della Francesca et la Piazza Grande",
+        "de": "Piero della Francesca und die Piazza Grande",
+        "es": "Piero della Francesca y la Piazza Grande"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "localita": [
+        {
+          "id": "arezzo",
+          "nome": "Arezzo",
+          "coordinate": {
+            "latitudine": 43.4631,
+            "longitudine": 11.8781
+          }
+        }
+      ]
+    },
+    {
+      "id": "grosseto",
+      "nome": "Grosseto",
+      "provincia": "Grosseto",
+      "motto": {
+        "it": "La Maremma e le mura medicee",
+        "en": "The Maremma and the Medici walls",
+        "fr": "La Maremme et les remparts des Médicis",
+        "de": "Die Maremma und die Medici-Mauern",
+        "es": "La Maremma y las murallas mediceas"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "localita": [
+        {
+          "id": "grosseto",
+          "nome": "Grosseto",
+          "coordinate": {
+            "latitudine": 42.7635,
+            "longitudine": 11.1124
+          }
+        }
+      ]
+    },
+    {
+      "id": "livorno",
+      "nome": "Livorno",
+      "provincia": "Livorno",
+      "motto": {
+        "it": "Mare, fortezze e canali",
+        "en": "Sea, fortresses and canals",
+        "fr": "Mer, forteresses et canaux",
+        "de": "Meer, Festungen und Kanäle",
+        "es": "Mar, fortalezas y canales"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "localita": [
+        {
+          "id": "livorno",
+          "nome": "Livorno",
+          "coordinate": {
+            "latitudine": 43.5485,
+            "longitudine": 10.3106
+          }
+        }
+      ]
+    },
+    {
+      "id": "lucca",
+      "nome": "Lucca",
+      "provincia": "Lucca",
+      "motto": {
+        "it": "Le mura, le torri e le piazze",
+        "en": "Walls, towers and squares",
+        "fr": "Remparts, tours et places",
+        "de": "Stadtmauern, Türme und Plätze",
+        "es": "Murallas, torres y plazas"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "localita": [
+        {
+          "id": "lucca",
+          "nome": "Lucca",
+          "coordinate": {
+            "latitudine": 43.843,
+            "longitudine": 10.5027
+          }
+        }
+      ]
+    },
+    {
+      "id": "pisa",
+      "nome": "Pisa",
+      "provincia": "Pisa",
+      "motto": {
+        "it": "Piazza dei Miracoli e Torre pendente",
+        "en": "Piazza dei Miracoli and the Leaning Tower",
+        "fr": "Piazza dei Miracoli et la tour penchée",
+        "de": "Piazza dei Miracoli und der Schiefe Turm",
+        "es": "Piazza dei Miracoli y la Torre inclinada"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "localita": [
+        {
+          "id": "pisa",
+          "nome": "Pisa",
+          "coordinate": {
+            "latitudine": 43.7228,
+            "longitudine": 10.4017
+          }
+        }
+      ]
+    },
+    {
+      "id": "pistoia",
+      "nome": "Pistoia",
+      "provincia": "Pistoia",
+      "motto": {
+        "it": "Piazza del Duomo e centro storico",
+        "en": "Piazza del Duomo and the old town",
+        "fr": "Piazza del Duomo et le centre historique",
+        "de": "Piazza del Duomo und die Altstadt",
+        "es": "Piazza del Duomo y el casco antiguo"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "localita": [
+        {
+          "id": "pistoia",
+          "nome": "Pistoia",
+          "coordinate": {
+            "latitudine": 43.9336,
+            "longitudine": 10.917
+          }
+        }
+      ]
+    },
+    {
+      "id": "prato",
+      "nome": "Prato",
+      "provincia": "Prato",
+      "motto": {
+        "it": "Tessile, arte e storia",
+        "en": "Textiles, art and history",
+        "fr": "Textile, art et histoire",
+        "de": "Textil, Kunst und Geschichte",
+        "es": "Textil, arte e historia"
+      },
+      "stato": "in_preparazione",
+      "anteprima": [],
+      "pacchetto": null,
+      "sku": null,
+      "localita": [
+        {
+          "id": "prato",
+          "nome": "Prato",
+          "coordinate": {
+            "latitudine": 43.8777,
+            "longitudine": 11.1023
+          }
+        }
+      ]
     }
   ]
 }
