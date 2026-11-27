@@ -850,7 +850,29 @@
         "fr": "Torre del Mangia",
         "de": "Torre del Mangia",
         "es": "Torre del Mangia"
-      }
+      },
+      "immagine": {
+        "autore": "Livioandronico2013",
+        "licenza": "CC BY-SA 4.0"
+      },
+      "galleria": [
+        {
+          "autore": "Livioandronico2013",
+          "licenza": "CC BY-SA 4.0"
+        },
+        {
+          "autore": "Livioandronico2013",
+          "licenza": "CC BY-SA 4.0"
+        },
+        {
+          "autore": "Saliko",
+          "licenza": "CC BY-SA 4.0"
+        },
+        {
+          "autore": "Saliko",
+          "licenza": "CC BY-SA 4.0"
+        }
+      ]
     },
     {
       "id": "santa-maria-della-scala",

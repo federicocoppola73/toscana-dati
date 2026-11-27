@@ -1,5 +1,5 @@
 {
- "versione": "5ce2fbc926fc",
+ "versione": "4080ac3b8519",
  "tipo": "prova",
  "file": [
   {
@@ -145,6 +145,36 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/piazza-del-campo_4.webp",
    "sha256": "190fe22e9758b19814e0e977aa9d46899c96515067d8f74a390ded6562c4f02b",
    "byte": 134476
+  },
+  {
+   "path": "assets/luoghi/torre-del-mangia.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/torre-del-mangia.webp",
+   "sha256": "68dd13c5195ef725de8cbd6fb3ad1f1454cd7024fc63f40173d69394c8d6bac9",
+   "byte": 87594
+  },
+  {
+   "path": "assets/luoghi/torre-del-mangia_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/torre-del-mangia_2.webp",
+   "sha256": "b38c297f47e384d77700304748634d4f5863ade9633a7a74adf9ab22994ca20f",
+   "byte": 374706
+  },
+  {
+   "path": "assets/luoghi/torre-del-mangia_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/torre-del-mangia_3.webp",
+   "sha256": "49e154c3be43aa73a426be5df3c3773c889f22017e3d4e855d2550ea5c0d8cdd",
+   "byte": 276636
+  },
+  {
+   "path": "assets/luoghi/torre-del-mangia_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/torre-del-mangia_4.webp",
+   "sha256": "82b91624dbb982b34f087c61bb311b9c74ad1f1b367f6b68e7b9eac270b4fb45",
+   "byte": 165890
+  },
+  {
+   "path": "assets/luoghi/torre-del-mangia_5.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/torre-del-mangia_5.webp",
+   "sha256": "dc3b243f826bb6069898b1f281c54280dd4e826c424655936fab4c5c0062bdc0",
+   "byte": 165850
   },
   {
    "path": "assets/mappa-siena.webp",
@@ -3509,8 +3539,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/immagini.json",
-   "sha256": "95c963ca94a66c1385b21b980c273d6a60a36f88b6bc1c6afa4e47087096db3a",
-   "byte": 297
+   "sha256": "993d1db5faa026923793b521df2e43cd07d69a19269ef602322dafc31397e13b",
+   "byte": 322
   },
   {
    "path": "dati/itinerari.json",
@@ -3521,8 +3551,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/luoghi.json",
-   "sha256": "6caa62a3acf733bc68b96d634de7a4789cccbace098f207a5909ac94cf3f7279",
-   "byte": 101036
+   "sha256": "84f3b52f091c5337e96df65605c549b3b6f8ee42447f6f1c5efc35bb2e0444c1",
+   "byte": 101447
   },
   {
    "path": "dati/mappa.json",
