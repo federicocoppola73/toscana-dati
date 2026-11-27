@@ -1,5 +1,5 @@
 {
- "versione": "6c8f940c6b61",
+ "versione": "9e7c14adfd94",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3442,8 +3442,8 @@
   {
    "path": "dati/servizi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/servizi.json",
-   "sha256": "405e0017bae96227d45fa34e9f37efade3a36712e3e22b098bbdabefbb411a7a",
-   "byte": 11344
+   "sha256": "7ceea6cd95c10d6d02e47a178ac961b1dbd88cc24fa78adb4fa518bfbf16d304",
+   "byte": 35445
   },
   {
    "path": "dati/storia.json",
@@ -3485,6 +3485,13 @@
    "data": "2026-11-27",
    "servizi": true,
    "byte": 11344
+  },
+  {
+   "versione": "9e7c14adfd94",
+   "da": "6c8f940c6b61",
+   "data": "2026-11-27",
+   "servizi": true,
+   "byte": 35445
   }
  ]
 }

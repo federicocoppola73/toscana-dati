@@ -27,7 +27,7 @@ PRIVATI = {'private', 'no', 'customers', 'permit', 'delivery', 'residents'}
 
 
 def chiave_linea(ref):
-    m = re.match(r'(\d+)(.*)', ref)
+    m = re.match(r'[sS]?(\d+)(.*)', ref)
     return (int(m.group(1)), m.group(2)) if m else (10**6, ref)
 
 
@@ -44,7 +44,7 @@ def main():
         ref = tag.get('ref', '')
         if not reti.search(tag.get('network', '') + '|' + tag.get('operator', '')):
             continue
-        if not re.fullmatch(r'\d{1,2}[a-zA-Z]?|[A-Z]\d?', ref):
+        if not re.fullmatch(r'[sS]?\d{1,2}[a-zA-Z]?|[A-Z]\d?', ref):
             continue
         for m in r.get('members', []):
             if m['type'] == 'node':

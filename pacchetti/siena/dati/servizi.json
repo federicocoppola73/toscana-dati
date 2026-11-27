@@ -627,6 +627,1536 @@
    "tipo": "bagni",
    "lat": 43.327362,
    "lon": 11.322786
+  },
+  {
+   "id": "autobus-la-colonna",
+   "tipo": "autobus",
+   "lat": 43.308834,
+   "lon": 11.317352,
+   "nome": "La Colonna",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-cimitero-2",
+   "tipo": "autobus",
+   "lat": 43.309191,
+   "lon": 11.331898,
+   "nome": "Cimitero",
+   "linee": [
+    "s3",
+    "s14",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-san-marco-2",
+   "tipo": "autobus",
+   "lat": 43.309219,
+   "lon": 11.323569,
+   "nome": "San Marco",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-cimitero",
+   "tipo": "autobus",
+   "lat": 43.309254,
+   "lon": 11.332062,
+   "nome": "Cimitero",
+   "linee": [
+    "s3",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-bivio-giuggiolo",
+   "tipo": "autobus",
+   "lat": 43.309276,
+   "lon": 11.319897,
+   "nome": "Bivio Giuggiolo",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-san-marco",
+   "tipo": "autobus",
+   "lat": 43.309288,
+   "lon": 11.323773,
+   "nome": "San Marco",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-bivio-giuggiolo-2",
+   "tipo": "autobus",
+   "lat": 43.309343,
+   "lon": 11.320319,
+   "nome": "Bivio Giuggiolo",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-colonna-san-marco",
+   "tipo": "autobus",
+   "lat": 43.310028,
+   "lon": 11.316529,
+   "nome": "Colonna San Marco",
+   "linee": [
+    "s21"
+   ]
+  },
+  {
+   "id": "autobus-misericordia-2",
+   "tipo": "autobus",
+   "lat": 43.310286,
+   "lon": 11.333061,
+   "nome": "Misericordia",
+   "linee": [
+    "s3",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-misericordia",
+   "tipo": "autobus",
+   "lat": 43.310556,
+   "lon": 11.333044,
+   "nome": "Misericordia",
+   "linee": [
+    "s3",
+    "s14",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-certosa",
+   "tipo": "autobus",
+   "lat": 43.310699,
+   "lon": 11.344602,
+   "nome": "Certosa",
+   "linee": [
+    "s27"
+   ]
+  },
+  {
+   "id": "autobus-san-marco-16-2",
+   "tipo": "autobus",
+   "lat": 43.310907,
+   "lon": 11.326552,
+   "nome": "San Marco 16",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-bivio-gigli",
+   "tipo": "autobus",
+   "lat": 43.310995,
+   "lon": 11.339269,
+   "nome": "Bivio Gigli",
+   "linee": [
+    "s26",
+    "s51"
+   ]
+  },
+  {
+   "id": "autobus-san-marco-16",
+   "tipo": "autobus",
+   "lat": 43.311128,
+   "lon": 11.326372,
+   "nome": "San Marco 16",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-porta-tufi-2",
+   "tipo": "autobus",
+   "lat": 43.311477,
+   "lon": 11.33286,
+   "nome": "Porta Tufi",
+   "linee": [
+    "s3",
+    "s14",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-porta-tufi",
+   "tipo": "autobus",
+   "lat": 43.311648,
+   "lon": 11.333072,
+   "nome": "Porta Tufi",
+   "linee": [
+    "s3",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-porta-san-marco-2",
+   "tipo": "autobus",
+   "lat": 43.311872,
+   "lon": 11.324912,
+   "nome": "Porta San Marco",
+   "linee": [
+    "s14",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-porta-san-marco",
+   "tipo": "autobus",
+   "lat": 43.311969,
+   "lon": 11.324607,
+   "nome": "Porta San Marco",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-derna",
+   "tipo": "autobus",
+   "lat": 43.312479,
+   "lon": 11.34139,
+   "nome": "Derna",
+   "linee": [
+    "s27"
+   ]
+  },
+  {
+   "id": "autobus-pozzo-di-san-marco",
+   "tipo": "autobus",
+   "lat": 43.312779,
+   "lon": 11.327144,
+   "nome": "Pozzo Di San Marco",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-gigli-44",
+   "tipo": "autobus",
+   "lat": 43.313215,
+   "lon": 11.34146,
+   "nome": "Gigli 44",
+   "linee": [
+    "s27"
+   ]
+  },
+  {
+   "id": "autobus-pescaia-55",
+   "tipo": "autobus",
+   "lat": 43.313819,
+   "lon": 11.317852,
+   "nome": "Pescaia 55",
+   "linee": [
+    "s3",
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-laterino",
+   "tipo": "autobus",
+   "lat": 43.314001,
+   "lon": 11.322514,
+   "nome": "Laterino",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-parcheggio-fagiolone-2",
+   "tipo": "autobus",
+   "lat": 43.31403,
+   "lon": 11.317118,
+   "nome": "Parcheggio Fagiolone",
+   "linee": [
+    "s3",
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-bastianini",
+   "tipo": "autobus",
+   "lat": 43.314577,
+   "lon": 11.326053,
+   "nome": "Bastianini",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-cerchia",
+   "tipo": "autobus",
+   "lat": 43.314599,
+   "lon": 11.330564,
+   "nome": "Cerchia",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-parcheggio-fagiolone",
+   "tipo": "autobus",
+   "lat": 43.314613,
+   "lon": 11.317637,
+   "nome": "Parcheggio Fagiolone",
+   "linee": [
+    "s21"
+   ]
+  },
+  {
+   "id": "autobus-pian-dei-mantellini",
+   "tipo": "autobus",
+   "lat": 43.314947,
+   "lon": 11.327232,
+   "nome": "Pian Dei Mantellini",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-gigli-12",
+   "tipo": "autobus",
+   "lat": 43.315146,
+   "lon": 11.342394,
+   "nome": "Gigli 12",
+   "linee": [
+    "s27"
+   ]
+  },
+  {
+   "id": "autobus-mascagni",
+   "tipo": "autobus",
+   "lat": 43.315391,
+   "lon": 11.327477,
+   "nome": "Mascagni",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-esterna-fontebranda-35",
+   "tipo": "autobus",
+   "lat": 43.315727,
+   "lon": 11.320464,
+   "nome": "Esterna Fontebranda 35",
+   "linee": [
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-piazzetta-colle",
+   "tipo": "autobus",
+   "lat": 43.316139,
+   "lon": 11.318422,
+   "nome": "Piazzetta Colle",
+   "linee": [
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-bivio-gigli-2",
+   "tipo": "autobus",
+   "lat": 43.316174,
+   "lon": 11.345293,
+   "nome": "Bivio Gigli",
+   "linee": [
+    "s5",
+    "s22"
+   ]
+  },
+  {
+   "id": "autobus-via-del-sole",
+   "tipo": "autobus",
+   "lat": 43.316323,
+   "lon": 11.335686,
+   "nome": "Via Del Sole",
+   "linee": [
+    "s26",
+    "s27",
+    "s29",
+    "s51"
+   ]
+  },
+  {
+   "id": "autobus-san-girolamo-2",
+   "tipo": "autobus",
+   "lat": 43.316426,
+   "lon": 11.337221,
+   "nome": "San Girolamo",
+   "linee": [
+    "s26",
+    "s51"
+   ]
+  },
+  {
+   "id": "autobus-san-girolamo",
+   "tipo": "autobus",
+   "lat": 43.316724,
+   "lon": 11.337298,
+   "nome": "San Girolamo",
+   "linee": [
+    "s29"
+   ]
+  },
+  {
+   "id": "autobus-bivio-gigli-3",
+   "tipo": "autobus",
+   "lat": 43.31675,
+   "lon": 11.344537,
+   "nome": "Bivio Gigli",
+   "linee": [
+    "s22",
+    "s52",
+    "s53"
+   ]
+  },
+  {
+   "id": "autobus-porta-pispini-2",
+   "tipo": "autobus",
+   "lat": 43.317019,
+   "lon": 11.343421,
+   "nome": "Porta Pispini",
+   "linee": [
+    "s5",
+    "s22",
+    "s27",
+    "s52"
+   ]
+  },
+  {
+   "id": "autobus-oliviera",
+   "tipo": "autobus",
+   "lat": 43.317045,
+   "lon": 11.337737,
+   "nome": "Oliviera",
+   "linee": [
+    "s22",
+    "s27",
+    "s29",
+    "50N",
+    "s52"
+   ]
+  },
+  {
+   "id": "autobus-grotte",
+   "tipo": "autobus",
+   "lat": 43.317049,
+   "lon": 11.323557,
+   "nome": "Grotte",
+   "linee": [
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-piazza-del-mercato",
+   "tipo": "autobus",
+   "lat": 43.317102,
+   "lon": 11.332795,
+   "nome": "Piazza del Mercato",
+   "linee": [
+    "s26",
+    "s27",
+    "s29",
+    "s51"
+   ]
+  },
+  {
+   "id": "autobus-porta-pispini",
+   "tipo": "autobus",
+   "lat": 43.317124,
+   "lon": 11.343718,
+   "nome": "Porta Pispini",
+   "linee": [
+    "s22"
+   ]
+  },
+  {
+   "id": "autobus-bivio-scaletta",
+   "tipo": "autobus",
+   "lat": 43.317129,
+   "lon": 11.32167,
+   "nome": "Bivio Scaletta",
+   "linee": [
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-san-martino",
+   "tipo": "autobus",
+   "lat": 43.317244,
+   "lon": 11.33545,
+   "nome": "San Martino",
+   "linee": [
+    "s22",
+    "s52"
+   ]
+  },
+  {
+   "id": "autobus-piazza-mario-cioni",
+   "tipo": "autobus",
+   "lat": 43.31731,
+   "lon": 11.342095,
+   "nome": "Piazza Mario Cioni",
+   "linee": [
+    "s22",
+    "s27",
+    "50N"
+   ]
+  },
+  {
+   "id": "autobus-piazza-mario-cioni-2",
+   "tipo": "autobus",
+   "lat": 43.317414,
+   "lon": 11.342052,
+   "nome": "Piazza Mario Cioni",
+   "linee": [
+    "s52",
+    "s53"
+   ]
+  },
+  {
+   "id": "autobus-pantaneto",
+   "tipo": "autobus",
+   "lat": 43.317569,
+   "lon": 11.336111,
+   "nome": "Pantaneto",
+   "linee": [
+    "s52",
+    "s53"
+   ]
+  },
+  {
+   "id": "autobus-via-del-colle",
+   "tipo": "autobus",
+   "lat": 43.317789,
+   "lon": 11.319223,
+   "nome": "Via Del Colle",
+   "linee": [
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-pispini",
+   "tipo": "autobus",
+   "lat": 43.317815,
+   "lon": 11.33951,
+   "nome": "Pispini",
+   "linee": [
+    "s22",
+    "s27"
+   ]
+  },
+  {
+   "id": "autobus-casone",
+   "tipo": "autobus",
+   "lat": 43.317836,
+   "lon": 11.31645,
+   "nome": "Casone",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-ciacci-38",
+   "tipo": "autobus",
+   "lat": 43.317836,
+   "lon": 11.318456,
+   "nome": "Ciacci 38",
+   "linee": [
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-pispini-2",
+   "tipo": "autobus",
+   "lat": 43.317873,
+   "lon": 11.339666,
+   "nome": "Pispini",
+   "linee": [
+    "s52"
+   ]
+  },
+  {
+   "id": "autobus-bonci",
+   "tipo": "autobus",
+   "lat": 43.318098,
+   "lon": 11.323575,
+   "nome": "Bonci",
+   "linee": [
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-parcheggio-santa-caterina-2",
+   "tipo": "autobus",
+   "lat": 43.318113,
+   "lon": 11.325351,
+   "nome": "Parcheggio Santa Caterina",
+   "linee": [
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-martiri-di-scalvaia",
+   "tipo": "autobus",
+   "lat": 43.318136,
+   "lon": 11.320542,
+   "nome": "Martiri Di Scalvaia",
+   "linee": [
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-parcheggio-santa-caterina",
+   "tipo": "autobus",
+   "lat": 43.318342,
+   "lon": 11.325543,
+   "nome": "Parcheggio Santa Caterina",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-24-maggio-19",
+   "tipo": "autobus",
+   "lat": 43.318379,
+   "lon": 11.321769,
+   "nome": "24 Maggio 19",
+   "linee": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-24-maggio",
+   "tipo": "autobus",
+   "lat": 43.318577,
+   "lon": 11.321796,
+   "nome": "24 Maggio",
+   "linee": [
+    "s3",
+    "s6",
+    "s18",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-logge-del-papa",
+   "tipo": "autobus",
+   "lat": 43.318784,
+   "lon": 11.333379,
+   "nome": "Logge del Papa",
+   "linee": [
+    "s22",
+    "s52",
+    "s53"
+   ]
+  },
+  {
+   "id": "autobus-risalita-fontebranda",
+   "tipo": "autobus",
+   "lat": 43.318826,
+   "lon": 11.326907,
+   "nome": "Risalita Fontebranda",
+   "linee": [
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-cozzarelli-8",
+   "tipo": "autobus",
+   "lat": 43.318904,
+   "lon": 11.342443,
+   "nome": "Cozzarelli 8",
+   "linee": [
+    "s29"
+   ]
+  },
+  {
+   "id": "autobus-monticchiello",
+   "tipo": "autobus",
+   "lat": 43.318933,
+   "lon": 11.321084,
+   "nome": "Monticchiello",
+   "linee": [
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-fonti-di-fontebranda",
+   "tipo": "autobus",
+   "lat": 43.319038,
+   "lon": 11.327146,
+   "nome": "Fonti di Fontebranda",
+   "linee": [
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-piazzetta",
+   "tipo": "autobus",
+   "lat": 43.31913,
+   "lon": 11.345849,
+   "nome": "Piazzetta",
+   "linee": [
+    "s29"
+   ]
+  },
+  {
+   "id": "autobus-piazza-indipendenza",
+   "tipo": "autobus",
+   "lat": 43.319233,
+   "lon": 11.330474,
+   "nome": "Piazza Indipendenza",
+   "linee": [
+    "s21",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-cozzarelli",
+   "tipo": "autobus",
+   "lat": 43.31926,
+   "lon": 11.344428,
+   "nome": "Cozzarelli",
+   "linee": [
+    "s29"
+   ]
+  },
+  {
+   "id": "autobus-busseto",
+   "tipo": "autobus",
+   "lat": 43.319319,
+   "lon": 11.342635,
+   "nome": "Busseto",
+   "linee": [
+    "s29"
+   ]
+  },
+  {
+   "id": "autobus-fruschelli",
+   "tipo": "autobus",
+   "lat": 43.31949,
+   "lon": 11.323171,
+   "nome": "Fruschelli",
+   "linee": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-pannilunghi",
+   "tipo": "autobus",
+   "lat": 43.319864,
+   "lon": 11.322797,
+   "nome": "Pannilunghi",
+   "linee": [
+    "s3",
+    "s6",
+    "s18",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-residenza-24-maggio-2",
+   "tipo": "autobus",
+   "lat": 43.32023,
+   "lon": 11.319855,
+   "nome": "Residenza 24 Maggio",
+   "linee": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-san-domenico",
+   "tipo": "autobus",
+   "lat": 43.320258,
+   "lon": 11.326397,
+   "nome": "San Domenico",
+   "linee": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-residenza-24-maggio",
+   "tipo": "autobus",
+   "lat": 43.320328,
+   "lon": 11.319952,
+   "nome": "Residenza 24 Maggio",
+   "linee": [
+    "s3",
+    "s6",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-veneto",
+   "tipo": "autobus",
+   "lat": 43.320612,
+   "lon": 11.322832,
+   "nome": "Veneto",
+   "linee": [
+    "s10"
+   ]
+  },
+  {
+   "id": "autobus-curtatone",
+   "tipo": "autobus",
+   "lat": 43.320664,
+   "lon": 11.32697,
+   "nome": "Curtatone",
+   "linee": [
+    "s3",
+    "s18",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-piazza-matteotti",
+   "tipo": "autobus",
+   "lat": 43.321522,
+   "lon": 11.329105,
+   "nome": "Piazza Matteotti",
+   "linee": [
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-ravacciano-2",
+   "tipo": "autobus",
+   "lat": 43.321759,
+   "lon": 11.343348,
+   "nome": "Ravacciano",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-ravacciano",
+   "tipo": "autobus",
+   "lat": 43.321894,
+   "lon": 11.342978,
+   "nome": "Ravacciano",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-stufa-secca",
+   "tipo": "autobus",
+   "lat": 43.321924,
+   "lon": 11.33015,
+   "nome": "Stufa Secca",
+   "linee": [
+    "s7",
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-pescaia",
+   "tipo": "autobus",
+   "lat": 43.321941,
+   "lon": 11.316777,
+   "nome": "Pescaia",
+   "linee": [
+    "s3",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-via-tozzi",
+   "tipo": "autobus",
+   "lat": 43.321984,
+   "lon": 11.327813,
+   "nome": "Via Tozzi",
+   "linee": [
+    "s3",
+    "s9",
+    "s18"
+   ]
+  },
+  {
+   "id": "autobus-montesanto",
+   "tipo": "autobus",
+   "lat": 43.32214,
+   "lon": 11.32014,
+   "nome": "Montesanto",
+   "linee": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-montesanto-2",
+   "tipo": "autobus",
+   "lat": 43.322153,
+   "lon": 11.320404,
+   "nome": "Montesanto",
+   "linee": [
+    "s3",
+    "s6",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-boninsegna-56",
+   "tipo": "autobus",
+   "lat": 43.322315,
+   "lon": 11.341615,
+   "nome": "Boninsegna 56",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-boninsegna-53",
+   "tipo": "autobus",
+   "lat": 43.322412,
+   "lon": 11.341617,
+   "nome": "Boninsegna 53",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-piazza-gramsci",
+   "tipo": "autobus",
+   "lat": 43.322758,
+   "lon": 11.327979,
+   "nome": "Piazza Gramsci",
+   "linee": [
+    "s3",
+    "s8",
+    "s9",
+    "s10",
+    "s11",
+    "s18",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-risalita-san-francesco-2",
+   "tipo": "autobus",
+   "lat": 43.322807,
+   "lon": 11.336905,
+   "nome": "Risalita San Francesco",
+   "linee": [
+    "s5"
+   ]
+  },
+  {
+   "id": "autobus-fortezza-medicea",
+   "tipo": "autobus",
+   "lat": 43.322934,
+   "lon": 11.321861,
+   "nome": "Fortezza Medicea",
+   "linee": [
+    "s10"
+   ]
+  },
+  {
+   "id": "autobus-risalita-san-francesco",
+   "tipo": "autobus",
+   "lat": 43.323195,
+   "lon": 11.336134,
+   "nome": "Risalita San Francesco",
+   "linee": [
+    "s5"
+   ]
+  },
+  {
+   "id": "autobus-battisti",
+   "tipo": "autobus",
+   "lat": 43.323373,
+   "lon": 11.321615,
+   "nome": "Battisti",
+   "linee": [
+    "s3",
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-porta-ovile",
+   "tipo": "autobus",
+   "lat": 43.32361,
+   "lon": 11.333343,
+   "nome": "Porta Ovile",
+   "linee": [
+    "s5"
+   ]
+  },
+  {
+   "id": "autobus-porta-ovile-2",
+   "tipo": "autobus",
+   "lat": 43.323619,
+   "lon": 11.333944,
+   "nome": "Porta Ovile",
+   "linee": [
+    "s5"
+   ]
+  },
+  {
+   "id": "autobus-fratelli-cadorna",
+   "tipo": "autobus",
+   "lat": 43.323653,
+   "lon": 11.324718,
+   "nome": "Fratelli Cadorna",
+   "linee": [
+    "s3",
+    "s8",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-lorenzetti",
+   "tipo": "autobus",
+   "lat": 43.323724,
+   "lon": 11.338976,
+   "nome": "Lorenzetti",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-bivio-lippo-vanni",
+   "tipo": "autobus",
+   "lat": 43.32374,
+   "lon": 11.339203,
+   "nome": "Bivio Lippo Vanni",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-franci-1",
+   "tipo": "autobus",
+   "lat": 43.323768,
+   "lon": 11.324826,
+   "nome": "Franci 1",
+   "linee": [
+    "s11",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-battisti-2",
+   "tipo": "autobus",
+   "lat": 43.323889,
+   "lon": 11.322143,
+   "nome": "Battisti",
+   "linee": [
+    "s3",
+    "s6",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-piazza-del-sale-3",
+   "tipo": "autobus",
+   "lat": 43.324119,
+   "lon": 11.328292,
+   "nome": "Piazza Del Sale",
+   "linee": [
+    "s5",
+    "s10"
+   ]
+  },
+  {
+   "id": "autobus-terminal-pescaia",
+   "tipo": "autobus",
+   "lat": 43.324181,
+   "lon": 11.319641,
+   "nome": "Terminal Pescaia",
+   "linee": [
+    "s3",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-piazza-del-sale-2",
+   "tipo": "autobus",
+   "lat": 43.324242,
+   "lon": 11.328565,
+   "nome": "Piazza Del Sale",
+   "linee": [
+    "s5",
+    "s7",
+    "s8",
+    "s10",
+    "s16",
+    "s19",
+    "60N",
+    "s77"
+   ]
+  },
+  {
+   "id": "autobus-piazza-del-sale",
+   "tipo": "autobus",
+   "lat": 43.324408,
+   "lon": 11.328542,
+   "nome": "Piazza Del Sale",
+   "linee": [
+    "s5",
+    "s7",
+    "s10",
+    "s19",
+    "60N",
+    "s77"
+   ]
+  },
+  {
+   "id": "autobus-valdambrino-9",
+   "tipo": "autobus",
+   "lat": 43.324558,
+   "lon": 11.336362,
+   "nome": "Valdambrino 9",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-garibaldi-2",
+   "tipo": "autobus",
+   "lat": 43.324689,
+   "lon": 11.330741,
+   "nome": "Garibaldi",
+   "linee": [
+    "s5",
+    "s7",
+    "s16"
+   ]
+  },
+  {
+   "id": "autobus-garibaldi",
+   "tipo": "autobus",
+   "lat": 43.324821,
+   "lon": 11.330499,
+   "nome": "Garibaldi",
+   "linee": [
+    "s5",
+    "s7",
+    "s8",
+    "s10",
+    "s19",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-boninsegna-19",
+   "tipo": "autobus",
+   "lat": 43.324917,
+   "lon": 11.337112,
+   "nome": "Boninsegna 19",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-le-lupe-2",
+   "tipo": "autobus",
+   "lat": 43.324983,
+   "lon": 11.331668,
+   "nome": "Le Lupe",
+   "linee": [
+    "s3",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-vecchietta-130",
+   "tipo": "autobus",
+   "lat": 43.325074,
+   "lon": 11.338516,
+   "nome": "Vecchietta 130",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-siena-marcato-ortofrutticolo",
+   "tipo": "autobus",
+   "lat": 43.325081,
+   "lon": 11.343392,
+   "nome": "Siena Marcato Ortofrutticolo",
+   "linee": [
+    "s3"
+   ]
+  },
+  {
+   "id": "autobus-valdambrino-4",
+   "tipo": "autobus",
+   "lat": 43.325102,
+   "lon": 11.335035,
+   "nome": "Valdambrino 4",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-campansi",
+   "tipo": "autobus",
+   "lat": 43.325106,
+   "lon": 11.328162,
+   "nome": "Campansi",
+   "linee": [
+    "s3",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-le-lupe",
+   "tipo": "autobus",
+   "lat": 43.325122,
+   "lon": 11.331584,
+   "nome": "Le Lupe",
+   "linee": [
+    "s3",
+    "s8",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-nazario-sauro",
+   "tipo": "autobus",
+   "lat": 43.325314,
+   "lon": 11.324943,
+   "nome": "Nazario Sauro",
+   "linee": [
+    "s11",
+    "s54"
+   ]
+  },
+  {
+   "id": "autobus-zona-agroalimentare",
+   "tipo": "autobus",
+   "lat": 43.325368,
+   "lon": 11.343305,
+   "nome": "Zona Agroalimentare",
+   "linee": [
+    "s3",
+    "s52"
+   ]
+  },
+  {
+   "id": "autobus-bivio-maitani",
+   "tipo": "autobus",
+   "lat": 43.325579,
+   "lon": 11.335517,
+   "nome": "Bivio Maitani",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-simone-martini",
+   "tipo": "autobus",
+   "lat": 43.325615,
+   "lon": 11.333805,
+   "nome": "Simone Martini",
+   "linee": [
+    "s16"
+   ]
+  },
+  {
+   "id": "autobus-montluc-2",
+   "tipo": "autobus",
+   "lat": 43.325716,
+   "lon": 11.325342,
+   "nome": "Montluc",
+   "linee": [
+    "s3",
+    "s8",
+    "s9",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-vecchia-stazione",
+   "tipo": "autobus",
+   "lat": 43.325833,
+   "lon": 11.331791,
+   "nome": "Vecchia Stazione",
+   "linee": [
+    "s3",
+    "s7",
+    "s8",
+    "s10",
+    "60N",
+    "s77"
+   ]
+  },
+  {
+   "id": "autobus-vecchia-stazione-2",
+   "tipo": "autobus",
+   "lat": 43.326044,
+   "lon": 11.331761,
+   "nome": "Vecchia Stazione",
+   "linee": [
+    "s3",
+    "s7",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-vecchietta-30",
+   "tipo": "autobus",
+   "lat": 43.326067,
+   "lon": 11.336286,
+   "nome": "Vecchietta 30",
+   "linee": [
+    "s19"
+   ]
+  },
+  {
+   "id": "autobus-don-minzoni",
+   "tipo": "autobus",
+   "lat": 43.326781,
+   "lon": 11.327675,
+   "nome": "Don Minzoni",
+   "linee": [
+    "s3",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-don-minzoni-2",
+   "tipo": "autobus",
+   "lat": 43.326908,
+   "lon": 11.327523,
+   "nome": "Don Minzoni",
+   "linee": [
+    "s3",
+    "s8",
+    "s9"
+   ]
+  },
+  {
+   "id": "autobus-v-ricasoli-45",
+   "tipo": "autobus",
+   "lat": 43.326949,
+   "lon": 11.32397,
+   "nome": "V. Ricasoli 45",
+   "linee": [
+    "s11",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-montluc",
+   "tipo": "autobus",
+   "lat": 43.327077,
+   "lon": 11.324697,
+   "nome": "Montluc",
+   "linee": [
+    "s3",
+    "s8",
+    "s9",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-nino-bixio",
+   "tipo": "autobus",
+   "lat": 43.327383,
+   "lon": 11.327704,
+   "nome": "Nino Bixio",
+   "linee": [
+    "s9"
+   ]
+  },
+  {
+   "id": "autobus-mazzini-73",
+   "tipo": "autobus",
+   "lat": 43.327443,
+   "lon": 11.329409,
+   "nome": "Mazzini 73",
+   "linee": [
+    "s3",
+    "s7",
+    "s8",
+    "s10",
+    "60N",
+    "s77"
+   ]
+  },
+  {
+   "id": "autobus-rotonda-madonnina-rossa",
+   "tipo": "autobus",
+   "lat": 43.32745,
+   "lon": 11.338157,
+   "nome": "Rotonda Madonnina Rossa",
+   "linee": [
+    "s3"
+   ]
+  },
+  {
+   "id": "autobus-mazzini-58",
+   "tipo": "autobus",
+   "lat": 43.327834,
+   "lon": 11.329148,
+   "nome": "Mazzini 58",
+   "linee": [
+    "s3",
+    "s7",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-v-le-sardegna-dir-ferrovia",
+   "tipo": "autobus",
+   "lat": 43.32787,
+   "lon": 11.330334,
+   "nome": "V.Le Sardegna Dir. Ferrovia",
+   "linee": [
+    "s16"
+   ]
+  },
+  {
+   "id": "autobus-porta-camollia",
+   "tipo": "autobus",
+   "lat": 43.327976,
+   "lon": 11.324312,
+   "nome": "Porta Camollia",
+   "linee": [
+    "s5",
+    "s10"
+   ]
+  },
+  {
+   "id": "autobus-porta-camollia-2",
+   "tipo": "autobus",
+   "lat": 43.328228,
+   "lon": 11.323981,
+   "nome": "Porta Camollia",
+   "linee": [
+    "s5",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-antiporto-camollia-2",
+   "tipo": "autobus",
+   "lat": 43.32875,
+   "lon": 11.321862,
+   "nome": "Antiporto Camollia",
+   "linee": [
+    "s5",
+    "s10"
+   ]
+  },
+  {
+   "id": "autobus-antiporto-camollia",
+   "tipo": "autobus",
+   "lat": 43.329007,
+   "lon": 11.321827,
+   "nome": "Antiporto Camollia",
+   "linee": [
+    "s5",
+    "s10",
+    "s11",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-avignone",
+   "tipo": "autobus",
+   "lat": 43.329037,
+   "lon": 11.318739,
+   "nome": "Avignone",
+   "linee": [
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-bivio-vestri",
+   "tipo": "autobus",
+   "lat": 43.329094,
+   "lon": 11.315287,
+   "nome": "Bivio Vestri",
+   "linee": [
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-mazzini",
+   "tipo": "autobus",
+   "lat": 43.329249,
+   "lon": 11.327026,
+   "nome": "Mazzini",
+   "linee": [
+    "s3",
+    "s7",
+    "s8",
+    "s9",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-mazzini-76",
+   "tipo": "autobus",
+   "lat": 43.329426,
+   "lon": 11.327008,
+   "nome": "Mazzini 76",
+   "linee": [
+    "s3",
+    "s7",
+    "s10",
+    "60N"
+   ]
+  },
+  {
+   "id": "autobus-avignone-scuole",
+   "tipo": "autobus",
+   "lat": 43.329657,
+   "lon": 11.316505,
+   "nome": "Avignone Scuole",
+   "linee": [
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-mameli-46",
+   "tipo": "autobus",
+   "lat": 43.329738,
+   "lon": 11.318394,
+   "nome": "Mameli 46",
+   "linee": [
+    "s6"
+   ]
+  },
+  {
+   "id": "autobus-cavour",
+   "tipo": "autobus",
+   "lat": 43.329964,
+   "lon": 11.319235,
+   "nome": "Cavour",
+   "linee": [
+    "s5"
+   ]
   }
  ]
 }
