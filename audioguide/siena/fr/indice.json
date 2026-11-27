@@ -1,0 +1,288 @@
+{
+ "versione": "c9b7c64f8e7d",
+ "voce": "fr-FR-Chirp3-HD-Kore",
+ "luoghi": {
+  "basilica-di-san-domenico": {
+   "byte": 849212,
+   "secondi": 142,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-san-domenico.mp3",
+     "byte": 849212,
+     "secondi": 142,
+     "sha256": "cbd21298e7b178e1cecca4d3f9ae9b264c7c1c7f64d3c4e99b76e087e9f05853",
+     "testo": "cf33d555d138f4e5"
+    }
+   ]
+  },
+  "basilica-di-san-francesco": {
+   "byte": 825452,
+   "secondi": 138,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "basilica-di-san-francesco.mp3",
+     "byte": 825452,
+     "secondi": 138,
+     "sha256": "01cd92903f12eaf7b7bbc90736c8375569e3ac29f99c64eb09d7cd173b2d4c4d",
+     "testo": "8a19e529b6fd7dc2"
+    }
+   ]
+  },
+  "battistero-di-san-giovanni": {
+   "byte": 837980,
+   "secondi": 140,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "battistero-di-san-giovanni.mp3",
+     "byte": 837980,
+     "secondi": 140,
+     "sha256": "2aa7242ed6159cbe06cbc7e03d7201e162aadd634a2258175d074652eb56a584",
+     "testo": "9adffd47a37e7b58"
+    }
+   ]
+  },
+  "cattedrale-di-santa-maria-assunta": {
+   "byte": 2739344,
+   "secondi": 456,
+   "tracce": [
+    {
+     "id": "esterno",
+     "titolo": "Extérieur",
+     "file": "cattedrale-di-santa-maria-assunta__esterno.mp3",
+     "byte": 721196,
+     "secondi": 120,
+     "sha256": "0e2f3fb197bc6cfe4075a835ec74c2c8d5280314e0dba64606f168c5777d92f5",
+     "testo": "12430f89f9cb452c"
+    },
+    {
+     "id": "interno",
+     "titolo": "Intérieur",
+     "file": "cattedrale-di-santa-maria-assunta__interno.mp3",
+     "byte": 883772,
+     "secondi": 147,
+     "sha256": "4fcacdc06f6d82591e87f968b42069015a0c0d29799ba0c23e7f4856ff689fce",
+     "testo": "f5de84dba43c78cc"
+    },
+    {
+     "id": "pavimento",
+     "titolo": "Le pavement",
+     "file": "cattedrale-di-santa-maria-assunta__pavimento.mp3",
+     "byte": 652652,
+     "secondi": 109,
+     "sha256": "48ef5b0d789c46b8f62819cb6c29b07ebde261fef82d38c67d1b836eb23a773b",
+     "testo": "71e6af16c6578819"
+    },
+    {
+     "id": "cappelle",
+     "titolo": "Chapelles et œuvres d'art",
+     "file": "cattedrale-di-santa-maria-assunta__cappelle.mp3",
+     "byte": 481724,
+     "secondi": 80,
+     "sha256": "b9559f7d43bf7ec4255630fb48c784aa5b5b36f007d42070d313b8645de0bdce",
+     "testo": "63f0d4a92dcb0bdb"
+    }
+   ]
+  },
+  "libreria-piccolomini": {
+   "byte": 968876,
+   "secondi": 161,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "libreria-piccolomini.mp3",
+     "byte": 968876,
+     "secondi": 161,
+     "sha256": "f6f27718bd2750de542818f25649f33545396c86753fac658f1719c3d2b5e36c",
+     "testo": "cfe9d286c910e537"
+    }
+   ]
+  },
+  "palazzo-pubblico-museo-civico": {
+   "byte": 950732,
+   "secondi": 158,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "palazzo-pubblico-museo-civico.mp3",
+     "byte": 950732,
+     "secondi": 158,
+     "sha256": "6d71d2036716c6eb7b2aa904205e1ecc9936d606b684709ce83db7bd33286e26",
+     "testo": "3e2739972d7d9fcd"
+    }
+   ]
+  },
+  "piazza-del-campo": {
+   "byte": 949004,
+   "secondi": 158,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "piazza-del-campo.mp3",
+     "byte": 949004,
+     "secondi": 158,
+     "sha256": "d40e373cb57db9448638ce99980cdf1920b5dfeb8fbd50e36182a8c0afce04cf",
+     "testo": "7e80db2b205f70d7"
+    }
+   ]
+  },
+  "santa-maria-della-scala": {
+   "byte": 917324,
+   "secondi": 153,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "santa-maria-della-scala.mp3",
+     "byte": 917324,
+     "secondi": 153,
+     "sha256": "dfad06bab258dc54c286d0579267f991e5fe2d7519ed960bde927fde3564e9b5",
+     "testo": "4f6a930a78b4c478"
+    }
+   ]
+  },
+  "santuario-di-santa-caterina": {
+   "byte": 1083212,
+   "secondi": 181,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "santuario-di-santa-caterina.mp3",
+     "byte": 1083212,
+     "secondi": 181,
+     "sha256": "806cece0ba5bec24fa2f927d20cf4d992a5c57c585a572af8da3cd307243f539",
+     "testo": "bd60440eb73ba2ba"
+    }
+   ]
+  },
+  "storia-00": {
+   "byte": 1338812,
+   "secondi": 223,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-00.mp3",
+     "byte": 1338812,
+     "secondi": 223,
+     "sha256": "1dce97e21b4088c464673fde822bb93aaf2170f519dd0bbb990ae92e0fdaee12",
+     "testo": "fe329328ddc645bc"
+    }
+   ]
+  },
+  "storia-01": {
+   "byte": 1043180,
+   "secondi": 174,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-01.mp3",
+     "byte": 1043180,
+     "secondi": 174,
+     "sha256": "73d2469dd980abb4fcaa8c2b18f4e8c2f09dfd47f3cc15fd261ff97afdf14818",
+     "testo": "8a48c11a0289397e"
+    }
+   ]
+  },
+  "storia-02": {
+   "byte": 1189772,
+   "secondi": 198,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-02.mp3",
+     "byte": 1189772,
+     "secondi": 198,
+     "sha256": "f23d61b7c2b1245e1d27d60b30e30d30fe2655794f089042e59dfb21bbfa3fce",
+     "testo": "412ee083b28fa02b"
+    }
+   ]
+  },
+  "storia-03": {
+   "byte": 1429532,
+   "secondi": 238,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-03.mp3",
+     "byte": 1429532,
+     "secondi": 238,
+     "sha256": "82c8752b68241deedf8a4e71cab5eeea6711d6536742ea1ca823f52b47b1978e",
+     "testo": "9f61eb6ebad9387d"
+    }
+   ]
+  },
+  "storia-04": {
+   "byte": 1473596,
+   "secondi": 246,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-04.mp3",
+     "byte": 1473596,
+     "secondi": 246,
+     "sha256": "62ef089ad1282af882e531a209fd3f6dbeaa17b1810ffafef70f225d2c7d96d7",
+     "testo": "7593e641e06153f8"
+    }
+   ]
+  },
+  "storia-05": {
+   "byte": 1165580,
+   "secondi": 194,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-05.mp3",
+     "byte": 1165580,
+     "secondi": 194,
+     "sha256": "26e53f26e0e7b6e8a3c152d23da3a39cc0c0e2e40beb10a372e7c5b1006269e7",
+     "testo": "397d5831fcfa87fd"
+    }
+   ]
+  },
+  "storia-06": {
+   "byte": 1441772,
+   "secondi": 240,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "storia-06.mp3",
+     "byte": 1441772,
+     "secondi": 240,
+     "sha256": "d2c4741c5fa33426fd9962645ce89b59b63d43ec4dfa90b8f7944e21bf3bb696",
+     "testo": "04cde1aca6f5cf48"
+    }
+   ]
+  },
+  "torre-del-mangia": {
+   "byte": 906668,
+   "secondi": 151,
+   "tracce": [
+    {
+     "id": null,
+     "titolo": null,
+     "file": "torre-del-mangia.mp3",
+     "byte": 906668,
+     "secondi": 151,
+     "sha256": "da4b870b4a2cfab2088d30d09c625448abf4d55af188c88af01ef83a74eac890",
+     "testo": "c1deb042f7d9debe"
+    }
+   ]
+  }
+ }
+}
