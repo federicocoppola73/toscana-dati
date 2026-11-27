@@ -1,5 +1,5 @@
 {
- "versione": "720eb312c802",
+ "versione": "55c5868abd8d",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3344,6 +3344,42 @@
    "byte": 0
   },
   {
+   "path": "assets/personaggi/ambrogio-lorenzetti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/ambrogio-lorenzetti.webp",
+   "sha256": "fb800d62360c86c6cfff42dfce6641d36243430ed875733c55d696e4c682d3f1",
+   "byte": 35958
+  },
+  {
+   "path": "assets/personaggi/cecco-angiolieri.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/cecco-angiolieri.webp",
+   "sha256": "99cdcf933344e90b3668d5ab15e741034520e1ff2654f1f44c14681d2fe780c4",
+   "byte": 13460
+  },
+  {
+   "path": "assets/personaggi/duccio-di-buoninsegna.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/duccio-di-buoninsegna.webp",
+   "sha256": "13c91cfc099da19fd0872022c3d31800d90d4b30a14056138b2d33e2205d9300",
+   "byte": 182666
+  },
+  {
+   "path": "assets/personaggi/nicola-pisano.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/nicola-pisano.webp",
+   "sha256": "506f74ae344394ca68b41192bf39bd7e1665b2c9801cf41dcbfda3597938ded4",
+   "byte": 60628
+  },
+  {
+   "path": "assets/personaggi/pietro-lorenzetti.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pietro-lorenzetti.webp",
+   "sha256": "7e3c79677f1b5e31f23c35f42fa13246ef20739da6f108d3001a49cf51ddb895",
+   "byte": 35472
+  },
+  {
+   "path": "assets/personaggi/provenzano-salvani.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/provenzano-salvani.webp",
+   "sha256": "9b19283027092e199969cb4230987b37411de641507b82a72292ebd80cb69a8a",
+   "byte": 49220
+  },
+  {
    "path": "assets/personaggi/sant-ansano.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/sant-ansano.webp",
    "sha256": "4342f829aad1800cc66b2913295c3178a5b0d664e8cd353fafd7cb6743e7a029",
@@ -3360,6 +3396,12 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/sigerico-di-canterbury.webp",
    "sha256": "a36ebaae12a2e12c2c52f3f920d25e0c28e5da7b050ea66cd76d036387ab2a86",
    "byte": 155528
+  },
+  {
+   "path": "assets/personaggi/simone-martini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/simone-martini.webp",
+   "sha256": "b59dc0e75fe10d863b30ec66ef08b797a9ec96a8ef4488b2097e7fa2280db48b",
+   "byte": 156044
   },
   {
    "path": "dati/aguzza.json",
@@ -3442,8 +3484,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "d6a100f342fff59a319077101e36783c1b3fba5f170777376380da413e01087d",
-   "byte": 536412
+   "sha256": "b5472c6f4695f3cd34cba042fc22cd10b198d6c0c57f3d6a433bcf55e880000f",
+   "byte": 537116
   },
   {
    "path": "dati/principali.json",
@@ -3592,6 +3634,12 @@
    "da": "f07af2a9b768",
    "data": "2026-11-27",
    "byte": 691940
+  },
+  {
+   "versione": "55c5868abd8d",
+   "da": "720eb312c802",
+   "data": "2026-11-27",
+   "byte": 1070564
   }
  ]
 }

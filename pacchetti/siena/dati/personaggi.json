@@ -640,7 +640,11 @@
             "es": "Pertenece a la generación siguiente de pintores sieneses, que desarrolló el lenguaje artístico consolidado con Duccio."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Giorgio Vasari",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "simone-martini",
@@ -807,7 +811,11 @@
             "es": "Junto con su hermano Ambrogio fue uno de los protagonistas de la pintura sienesa del siglo XIV, con un lenguaje más dramático e intenso que el de Simone."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Autore non indicato",
+        "licenza": "CC BY-SA 2.0"
+      }
     },
     {
       "id": "ambrogio-lorenzetti",
@@ -963,7 +971,11 @@
             "es": "Fue su contemporáneo y protagonista de la misma etapa artística sienesa. Ambos desarrollaron lenguajes distintos, contribuyendo juntos a la riqueza de la pintura del siglo XIV."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Neil Owen",
+        "licenza": "CC BY-SA 2.0"
+      }
     },
     {
       "id": "pietro-lorenzetti",
@@ -1095,7 +1107,11 @@
             "es": "Fue su contemporáneo y uno de los principales protagonistas de la pintura sienesa del siglo XIV."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Giorgio Vasari",
+        "licenza": "CC BY-SA 2.0"
+      }
     },
     {
       "id": "nicola-pisano",
@@ -1207,7 +1223,11 @@
             "es": "Era su hijo y colaboró con él en las obras de escultura. Giovanni recogió su herencia, desarrollando un estilo más dinámico y dramático."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Pio Fedi",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "giovanni-pisano",
@@ -1438,7 +1458,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Neil Owen",
+        "licenza": "CC BY-SA 2.0"
+      }
     },
     {
       "id": "cecco-angiolieri",
@@ -1556,7 +1580,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "José Luiz Bernardes Ribeiro",
+        "licenza": "CC BY-SA 2.0"
+      }
     },
     {
       "id": "caterina-da-siena",
