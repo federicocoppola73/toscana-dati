@@ -1,5 +1,5 @@
 {
- "versione": "e8e564b406dc",
+ "versione": "cfead2747025",
  "tipo": "prova",
  "file": [
   {
@@ -3377,8 +3377,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/luoghi.json",
-   "sha256": "8741a95b1e161c7dac562c2dad14620d3bb4307e232e7237e521b1244db91093",
-   "byte": 73963
+   "sha256": "15849927860e2e3136709b1c7e47bac906bd936f305ee827d12bc473ba3669a2",
+   "byte": 96641
   },
   {
    "path": "dati/mappa.json",

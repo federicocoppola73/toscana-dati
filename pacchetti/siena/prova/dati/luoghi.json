@@ -31,6 +31,54 @@
       "de": "Der berühmte Marmor-Intarsienboden des Doms wird nur während der sogenannten „scopertura“ (Aufdeckung) vollständig gezeigt, einem von der Opera della Metropolitana angekündigten Zeitraum (2026 vom 27. Juni bis 31. Juli und vom 18. August bis 31. Oktober). In diesen Zeiten kostet das Ticket mehr.",
       "es": "El célebre Pavimento de marquetería de mármol de la catedral solo se muestra entero durante la llamada «scopertura» (descubrimiento), un periodo anunciado por la Opera della Metropolitana (en 2026 del 27 de junio al 31 de julio y del 18 de agosto al 31 de octubre). En esos periodos la entrada cuesta más."
      }
+    },
+    {
+     "titolo": {
+      "it": "Il Quadrato del Sator",
+      "en": "The Sator Square",
+      "fr": "Le carré du Sator",
+      "de": "Das Sator-Quadrat",
+      "es": "El cuadrado del Sator"
+     },
+     "testo": {
+      "it": "sul fianco della cattedrale si trova questa composizione di cinque parole latine disposte in modo da formare un palindromo. Il suo significato è ancora oggetto di interpretazioni.",
+      "en": "On the side of the cathedral is this composition of five Latin words arranged to form a palindrome. Its meaning is still the subject of interpretation.",
+      "fr": "Sur le flanc de la cathédrale se trouve cette composition de cinq mots latins disposés de façon à former un palindrome. Sa signification fait encore l'objet d'interprétations.",
+      "de": "An der Seite des Doms befindet sich diese Zusammenstellung aus fünf lateinischen Wörtern, die ein Palindrom bilden. Ihre Bedeutung ist bis heute Gegenstand von Deutungen.",
+      "es": "En el costado de la catedral se encuentra esta composición de cinco palabras latinas dispuestas de modo que forman un palíndromo. Su significado sigue siendo objeto de interpretaciones."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il Duomo mai realizzato",
+      "en": "The Cathedral that was never built",
+      "fr": "La cathédrale jamais réalisée",
+      "de": "Der nie vollendete Dom",
+      "es": "La catedral que nunca se hizo"
+     },
+     "testo": {
+      "it": "il progetto di ampliamento trecentesco avrebbe dovuto trasformare la cattedrale in una delle più grandi d'Europa. La peste del 1348 e problemi tecnici ed economici ne impedirono il completamento.",
+      "en": "The fourteenth-century enlargement project was meant to turn the cathedral into one of the largest in Europe. The plague of 1348 and technical and economic problems prevented its completion.",
+      "fr": "Le projet d'agrandissement du XIVe siècle devait transformer la cathédrale en l'une des plus grandes d'Europe. La peste de 1348 et des problèmes techniques et économiques en empêchèrent l'achèvement.",
+      "de": "Das Erweiterungsprojekt des 14. Jahrhunderts sollte den Dom zu einer der größten Kathedralen Europas machen. Die Pest von 1348 sowie technische und wirtschaftliche Probleme verhinderten die Vollendung.",
+      "es": "El proyecto de ampliación del siglo XIV debía convertir la catedral en una de las más grandes de Europa. La peste de 1348 y los problemas técnicos y económicos impidieron su finalización."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il pavimento e il Palio",
+      "en": "The floor and the Palio",
+      "fr": "Le pavement et le Palio",
+      "de": "Der Boden und der Palio",
+      "es": "El pavimento y el Palio"
+     },
+     "testo": {
+      "it": "il pavimento marmoreo viene protetto per gran parte dell'anno. La sua scopertura è un evento particolarmente atteso e il legame con la Madonna Assunta è importante anche per la tradizione del Palio di agosto.",
+      "en": "The marble floor is protected for much of the year. Its uncovering is an eagerly awaited event, and the link with the Madonna Assunta is also important for the tradition of the August Palio.",
+      "fr": "Le pavement de marbre est protégé pendant une grande partie de l'année. Sa découverte est un événement particulièrement attendu et le lien avec la Vierge de l'Assomption est important aussi pour la tradition du Palio d'août.",
+      "de": "Der Marmorboden ist den größten Teil des Jahres geschützt. Seine Aufdeckung ist ein besonders erwartetes Ereignis, und die Verbindung zur Madonna Assunta ist auch für die Tradition des Palio im August wichtig.",
+      "es": "El pavimento de mármol se protege durante gran parte del año. Su descubrimiento es un acontecimiento especialmente esperado, y el vínculo con la Virgen de la Asunción es importante también para la tradición del Palio de agosto."
+     }
     }
    ],
    "orari": [
@@ -140,6 +188,54 @@
       "de": "Zu den Gehilfen, die mit Pinturicchio an den Fresken der Bibliothek arbeiteten, gehörten der Bologneser Amico Aspertini und der junge Raffael.",
       "es": "Entre los ayudantes que trabajaron con Pinturicchio en los frescos de la biblioteca estaban el boloñés Amico Aspertini y el joven Rafael."
      }
+    },
+    {
+     "titolo": {
+      "it": "Una biblioteca mai pienamente realizzata",
+      "en": "A library never fully realised",
+      "fr": "Une bibliothèque jamais pleinement réalisée",
+      "de": "Eine nie ganz verwirklichte Bibliothek",
+      "es": "Una biblioteca nunca plenamente realizada"
+     },
+     "testo": {
+      "it": "l'ambiente fu progettato per custodire i libri di Pio II, ma la funzione libraria originaria non si concretizzò completamente.",
+      "en": "The room was designed to hold the books of Pius II, but the original library function was never fully carried out.",
+      "fr": "La salle fut conçue pour conserver les livres de Pie II, mais la fonction de bibliothèque d'origine ne se concrétisa pas complètement.",
+      "de": "Der Raum wurde geplant, um die Bücher Pius' II. zu bewahren, doch die ursprüngliche Bibliotheksfunktion wurde nicht vollständig verwirklicht.",
+      "es": "La sala fue proyectada para custodiar los libros de Pío II, pero la función bibliotecaria original no se concretó por completo."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Le Tre Grazie",
+      "en": "The Three Graces",
+      "fr": "Les Trois Grâces",
+      "de": "Die Drei Grazien",
+      "es": "Las Tres Gracias"
+     },
+     "testo": {
+      "it": "al centro della sala si trova una copia antica di un gruppo scultoreo classico, testimonianza dell'interesse rinascimentale per l'antichità.",
+      "en": "At the centre of the room is an ancient copy of a classical sculptural group, evidence of the Renaissance interest in antiquity.",
+      "fr": "Au centre de la salle se trouve une copie antique d'un groupe sculptural classique, témoignage de l'intérêt de la Renaissance pour l'Antiquité.",
+      "de": "In der Mitte des Raumes steht eine antike Kopie einer klassischen Skulpturengruppe, ein Zeugnis des Interesses der Renaissance an der Antike.",
+      "es": "En el centro de la sala hay una copia antigua de un grupo escultórico clásico, testimonio del interés renacentista por la Antigüedad."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un racconto biografico",
+      "en": "A biographical story",
+      "fr": "Un récit biographique",
+      "de": "Eine biografische Erzählung",
+      "es": "Un relato biográfico"
+     },
+     "testo": {
+      "it": "gli affreschi non sono semplicemente decorativi: costituiscono un ciclo narrativo dedicato alla vita e alla carriera di Pio II.",
+      "en": "The frescoes are not merely decorative: they form a narrative cycle devoted to the life and career of Pius II.",
+      "fr": "Les fresques ne sont pas simplement décoratives : elles constituent un cycle narratif consacré à la vie et à la carrière de Pie II.",
+      "de": "Die Fresken sind nicht bloß dekorativ: Sie bilden einen erzählenden Zyklus über Leben und Laufbahn Pius' II.",
+      "es": "Los frescos no son simplemente decorativos: constituyen un ciclo narrativo dedicado a la vida y la carrera de Pío II."
+     }
     }
    ],
    "orari": [
@@ -223,18 +319,34 @@
    "lo_sapevi_che": [
     {
      "titolo": {
-      "it": "Sotto il coro del Duomo",
-      "en": "Beneath the Cathedral's choir",
-      "fr": "Sous le chœur de la cathédrale",
-      "de": "Unter dem Domchor",
-      "es": "Bajo el coro de la catedral"
+      "it": "Una collaborazione tra grandi maestri",
+      "en": "A collaboration between great masters",
+      "fr": "Une collaboration entre grands maîtres",
+      "de": "Eine Zusammenarbeit großer Meister",
+      "es": "Una colaboración entre grandes maestros"
      },
      "testo": {
-      "it": "Il Battistero non è un edificio isolato come a Firenze: si trova sotto le ultime campate del coro della Cattedrale, e per entrare si scende dalla scalinata di piazza San Giovanni.",
-      "en": "The Baptistery is not a separate building as in Florence: it lies beneath the last bays of the Cathedral's choir, and you reach it by going down the staircase of Piazza San Giovanni.",
-      "fr": "Le baptistère n'est pas un édifice isolé comme à Florence : il se trouve sous les dernières travées du chœur de la cathédrale, et l'on y accède en descendant l'escalier de la place San Giovanni.",
-      "de": "Das Baptisterium ist nicht, wie in Florenz, ein frei stehendes Gebäude: Es liegt unter den letzten Jochen des Domchors, und man erreicht es über die Treppe der Piazza San Giovanni.",
-      "es": "El Baptisterio no es un edificio aislado como en Florencia: se encuentra bajo los últimos tramos del coro de la catedral y se accede bajando la escalinata de la plaza San Giovanni."
+      "it": "il fonte battesimale riunisce opere di Jacopo della Quercia, Donatello, Ghiberti e Giovanni di Turino.",
+      "en": "The baptismal font brings together works by Jacopo della Quercia, Donatello, Ghiberti and Giovanni di Turino.",
+      "fr": "Les fonts baptismaux réunissent des œuvres de Jacopo della Quercia, Donatello, Ghiberti et Giovanni di Turino.",
+      "de": "Das Taufbecken vereint Werke von Jacopo della Quercia, Donatello, Ghiberti und Giovanni di Turino.",
+      "es": "La pila bautismal reúne obras de Jacopo della Quercia, Donatello, Ghiberti y Giovanni di Turino."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un edificio su più livelli",
+      "en": "A building on several levels",
+      "fr": "Un édifice sur plusieurs niveaux",
+      "de": "Ein Gebäude auf mehreren Ebenen",
+      "es": "Un edificio en varios niveles"
+     },
+     "testo": {
+      "it": "la posizione del battistero, sotto la zona absidale del Duomo, dipende dal particolare dislivello del terreno.",
+      "en": "The position of the baptistery, beneath the apse area of the Cathedral, depends on the particular slope of the ground.",
+      "fr": "La position du baptistère, sous la zone absidale de la cathédrale, dépend de la dénivellation particulière du terrain.",
+      "de": "Die Lage des Baptisteriums unter dem Apsisbereich des Doms hängt vom besonderen Gefälle des Geländes ab.",
+      "es": "La posición del baptisterio, bajo la zona absidal de la catedral, depende del particular desnivel del terreno."
      }
     }
    ],
@@ -325,6 +437,54 @@
       "de": "Zweimal im Jahr, am 2. Juli und am 16. August, findet hier der Palio di Siena statt, das Pferderennen entlang des Platzrands. Das Ziel des Radrennens Strade Bianche liegt auf demselben Platz.",
       "es": "Dos veces al año, el 2 de julio y el 16 de agosto, la plaza acoge el Palio di Siena, la carrera de caballos que se corre a lo largo de su borde. La meta de la carrera ciclista Strade Bianche está en la misma plaza."
      }
+    },
+    {
+     "titolo": {
+      "it": "La forma a conchiglia",
+      "en": "The shell shape",
+      "fr": "La forme de coquille",
+      "de": "Die Muschelform",
+      "es": "La forma de concha"
+     },
+     "testo": {
+      "it": "la particolare conformazione della piazza segue l'andamento del terreno e contribuisce alla sua eccezionale armonia urbanistica.",
+      "en": "The square's particular shape follows the lie of the land and contributes to its exceptional urban harmony.",
+      "fr": "La conformation particulière de la place suit le relief du terrain et contribue à son exceptionnelle harmonie urbanistique.",
+      "de": "Die besondere Gestalt des Platzes folgt dem Geländeverlauf und trägt zu seiner außergewöhnlichen städtebaulichen Harmonie bei.",
+      "es": "La particular conformación de la plaza sigue el curso del terreno y contribuye a su excepcional armonía urbanística."
+     }
+    },
+    {
+     "titolo": {
+      "it": "La Fonte Gaia",
+      "en": "The Fonte Gaia",
+      "fr": "La Fonte Gaia",
+      "de": "Die Fonte Gaia",
+      "es": "La Fonte Gaia"
+     },
+     "testo": {
+      "it": "l'originale di Jacopo della Quercia è conservato a Santa Maria della Scala; quella che si vede oggi in piazza è una copia ottocentesca di Tito Sarrocchi.",
+      "en": "Jacopo della Quercia's original is kept at Santa Maria della Scala; what you see today in the square is a nineteenth-century copy by Tito Sarrocchi.",
+      "fr": "L'original de Jacopo della Quercia est conservé à Santa Maria della Scala ; celle qu'on voit aujourd'hui sur la place est une copie du XIXe siècle de Tito Sarrocchi.",
+      "de": "Das Original von Jacopo della Quercia befindet sich in Santa Maria della Scala; was man heute auf dem Platz sieht, ist eine Kopie des 19. Jahrhunderts von Tito Sarrocchi.",
+      "es": "El original de Jacopo della Quercia se conserva en Santa Maria della Scala; la que se ve hoy en la plaza es una copia decimonónica de Tito Sarrocchi."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il tufo del Palio",
+      "en": "The Palio's tufo",
+      "fr": "Le tuf du Palio",
+      "de": "Der Tuffsand des Palio",
+      "es": "El tufo del Palio"
+     },
+     "testo": {
+      "it": "per la corsa la piazza viene ricoperta da uno strato di terra chiamato tufo, che trasforma temporaneamente il suo aspetto.",
+      "en": "For the race the square is covered with a layer of earth called tufo, which temporarily transforms its appearance.",
+      "fr": "Pour la course, la place est recouverte d'une couche de terre appelée tufo, qui en transforme temporairement l'aspect.",
+      "de": "Für das Rennen wird der Platz mit einer Erdschicht namens Tufo bedeckt, die sein Aussehen vorübergehend verwandelt.",
+      "es": "Para la carrera la plaza se cubre con una capa de tierra llamada tufo, que transforma temporalmente su aspecto."
+     }
     }
    ],
    "orari": [
@@ -371,18 +531,50 @@
    "lo_sapevi_che": [
     {
      "titolo": {
-      "it": "Un affresco profano del Trecento",
-      "en": "A secular fresco from the 1300s",
-      "fr": "Une fresque profane du XIVe siècle",
-      "de": "Ein weltliches Fresko des 14. Jahrhunderts",
-      "es": "Un fresco profano del siglo XIV"
+      "it": "Il Buon Governo",
+      "en": "Good Government",
+      "fr": "Le Bon Gouvernement",
+      "de": "Die Gute Regierung",
+      "es": "El Buen Gobierno"
      },
      "testo": {
-      "it": "L'Allegoria ed effetti del Buono e del Cattivo Governo di Lorenzetti è considerata una delle rappresentazioni profane più significative del Trecento europeo.",
-      "en": "Lorenzetti's Allegory and Effects of Good and Bad Government is considered one of the most significant secular depictions of fourteenth-century Europe.",
-      "fr": "L'Allégorie et les effets du Bon et du Mauvais Gouvernement de Lorenzetti est considérée comme l'une des représentations profanes les plus importantes de l'Europe du XIVe siècle.",
-      "de": "Lorenzettis Allegorie und Wirkungen der guten und der schlechten Regierung gilt als eine der bedeutendsten weltlichen Darstellungen des europäischen 14. Jahrhunderts.",
-      "es": "La Alegoría y efectos del Buen y del Mal Gobierno de Lorenzetti está considerada una de las representaciones profanas más significativas de la Europa del siglo XIV."
+      "it": "gli affreschi di Ambrogio Lorenzetti sono tra le più importanti rappresentazioni medievali del rapporto tra politica, giustizia e benessere collettivo.",
+      "en": "Ambrogio Lorenzetti's frescoes are among the most important medieval representations of the relationship between politics, justice and collective well-being.",
+      "fr": "Les fresques d'Ambrogio Lorenzetti sont parmi les plus importantes représentations médiévales du rapport entre politique, justice et bien-être collectif.",
+      "de": "Die Fresken von Ambrogio Lorenzetti gehören zu den wichtigsten mittelalterlichen Darstellungen des Verhältnisses von Politik, Gerechtigkeit und Gemeinwohl.",
+      "es": "Los frescos de Ambrogio Lorenzetti son una de las representaciones medievales más importantes de la relación entre política, justicia y bienestar colectivo."
+     }
+    },
+    {
+     "titolo": {
+      "it": "L'Entrone",
+      "en": "The Entrone",
+      "fr": "L'Entrone",
+      "de": "Der Entrone",
+      "es": "El Entrone"
+     },
+     "testo": {
+      "it": "il Cortile del Podestà è il luogo da cui i cavalli escono per raggiungere la pista del Palio.",
+      "en": "The Cortile del Podestà is the place from which the horses come out to reach the Palio track.",
+      "fr": "La Cour du Podestat est le lieu d'où les chevaux sortent pour rejoindre la piste du Palio.",
+      "de": "Der Cortile del Podestà ist der Ort, von dem aus die Pferde hinausgehen, um die Palio-Bahn zu erreichen.",
+      "es": "El Cortile del Podestà es el lugar por el que salen los caballos para llegar a la pista del Palio."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un palazzo ancora attivo",
+      "en": "A palace still in use",
+      "fr": "Un palais toujours actif",
+      "de": "Ein noch genutzter Palast",
+      "es": "Un palacio todavía activo"
+     },
+     "testo": {
+      "it": "l'edificio non è soltanto un museo, ma continua a ospitare funzioni istituzionali e amministrative del Comune.",
+      "en": "The building is not only a museum, but still houses institutional and administrative functions of the Comune.",
+      "fr": "L'édifice n'est pas seulement un musée, mais continue d'abriter des fonctions institutionnelles et administratives de la Commune.",
+      "de": "Das Gebäude ist nicht nur ein Museum, sondern beherbergt weiterhin institutionelle und Verwaltungsfunktionen der Kommune.",
+      "es": "El edificio no es solo un museo, sino que sigue albergando funciones institucionales y administrativas del Ayuntamiento."
      }
     }
    ],
@@ -458,18 +650,34 @@
    "lo_sapevi_che": [
     {
      "titolo": {
-      "it": "Alta quanto il campanile del Duomo",
-      "en": "As tall as the Cathedral's bell tower",
-      "fr": "Aussi haute que le campanile de la cathédrale",
-      "de": "So hoch wie der Glockenturm des Doms",
-      "es": "Tan alta como el campanario de la catedral"
+      "it": "Il nome curioso",
+      "en": "The curious name",
+      "fr": "Le nom curieux",
+      "de": "Der kuriose Name",
+      "es": "El nombre curioso"
      },
      "testo": {
-      "it": "Secondo lo storico dell'arte Ranuccio Bianchi Bandinelli, la torre raggiunge la stessa altezza del campanile della Cattedrale perché nessuno dei due poteri, religioso e civile, superasse l'altro.",
-      "en": "According to the art historian Ranuccio Bianchi Bandinelli, the tower matches the height of the Cathedral's bell tower so that neither power, religious nor civil, would outdo the other.",
-      "fr": "Selon l'historien de l'art Ranuccio Bianchi Bandinelli, la tour atteint la même hauteur que le campanile de la cathédrale afin qu'aucun des deux pouvoirs, religieux et civil, ne l'emporte sur l'autre.",
-      "de": "Laut dem Kunsthistoriker Ranuccio Bianchi Bandinelli erreicht der Turm dieselbe Höhe wie der Glockenturm des Doms, damit keine der beiden Mächte, die geistliche und die weltliche, die andere überragt.",
-      "es": "Según el historiador del arte Ranuccio Bianchi Bandinelli, la torre alcanza la misma altura que el campanario de la catedral para que ninguno de los dos poderes, religioso y civil, superase al otro."
+      "it": "secondo la tradizione, deriva dal soprannome Mangiaguadagni attribuito a Giovanni di Balduccio, antico campanaro della torre.",
+      "en": "According to tradition, it comes from the nickname Mangiaguadagni given to Giovanni di Balduccio, the tower's old bell-ringer.",
+      "fr": "Selon la tradition, il dérive du surnom de Mangiaguadagni attribué à Giovanni di Balduccio, ancien sonneur de la tour.",
+      "de": "Der Überlieferung nach stammt er vom Spitznamen Mangiaguadagni, der Giovanni di Balduccio, dem früheren Glöckner des Turms, gegeben wurde.",
+      "es": "Según la tradición, deriva del apodo Mangiaguadagni atribuido a Giovanni di Balduccio, antiguo campanero de la torre."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un equilibrio simbolico",
+      "en": "A symbolic balance",
+      "fr": "Un équilibre symbolique",
+      "de": "Ein symbolisches Gleichgewicht",
+      "es": "Un equilibrio simbólico"
+     },
+     "testo": {
+      "it": "la torre civica fu concepita in rapporto al campanile del Duomo, in modo da rappresentare visivamente il potere civile accanto a quello religioso.",
+      "en": "The civic tower was conceived in relation to the Cathedral's bell tower, so as to show civil power visually beside religious power.",
+      "fr": "La tour civique fut conçue en rapport avec le campanile de la cathédrale, de façon à représenter visuellement le pouvoir civil à côté du pouvoir religieux.",
+      "de": "Der Bürgerturm wurde im Verhältnis zum Domkampanile entworfen, um die weltliche Macht neben der geistlichen sichtbar darzustellen.",
+      "es": "La torre cívica fue concebida en relación con el campanario de la catedral, de modo que representara visualmente el poder civil junto al religioso."
      }
     }
    ],
@@ -549,6 +757,54 @@
       "fr": "L'hôpital vivait en partie de legs et de dons des citoyens de Sienne, surtout des plus riches, et était dirigé par un recteur qui commandait les frères laïcs chargés des soins.",
       "de": "Das Hospital lebte zum Teil von Vermächtnissen und Spenden der Sienesen, vor allem der Wohlhabenden, und wurde von einem Rektor geleitet, der die für die Pflege zuständigen Laienbrüder führte.",
       "es": "El hospital vivía en parte de legados y donaciones de los ciudadanos de Siena, sobre todo de los más ricos, y lo dirigía un rector que mandaba a los hermanos laicos encargados de la asistencia."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Un ospedale lungo la Francigena",
+      "en": "A hospital on the Francigena",
+      "fr": "Un hôpital sur la Francigena",
+      "de": "Ein Hospital an der Francigena",
+      "es": "Un hospital en la Francígena"
+     },
+     "testo": {
+      "it": "l'istituzione accoglieva pellegrini, poveri, orfani e malati, svolgendo funzioni che oggi sarebbero distribuite tra diversi servizi sociali e sanitari.",
+      "en": "The institution received pilgrims, the poor, orphans and the sick, carrying out functions that today would be spread across several social and health services.",
+      "fr": "L'institution accueillait pèlerins, pauvres, orphelins et malades, remplissant des fonctions qui seraient aujourd'hui réparties entre plusieurs services sociaux et sanitaires.",
+      "de": "Die Einrichtung nahm Pilger, Arme, Waisen und Kranke auf und erfüllte Aufgaben, die heute auf mehrere soziale und gesundheitliche Dienste verteilt wären.",
+      "es": "La institución acogía a peregrinos, pobres, huérfanos y enfermos, desempeñando funciones que hoy se repartirían entre diversos servicios sociales y sanitarios."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il Pellegrinaio come documento",
+      "en": "The Pellegrinaio as a document",
+      "fr": "Le Pellegrinaio comme document",
+      "de": "Das Pellegrinaio als Dokument",
+      "es": "El Pellegrinaio como documento"
+     },
+     "testo": {
+      "it": "gli affreschi quattrocenteschi mostrano le attività dell'ospedale e sono una fonte preziosa per conoscere la vita assistenziale medievale.",
+      "en": "The fifteenth-century frescoes show the hospital's activities and are a precious source for learning about medieval welfare life.",
+      "fr": "Les fresques du XVe siècle montrent les activités de l'hôpital et sont une source précieuse pour connaître la vie d'assistance au Moyen Âge.",
+      "de": "Die Fresken des 15. Jahrhunderts zeigen die Tätigkeiten des Hospitals und sind eine kostbare Quelle für das Fürsorgeleben des Mittelalters.",
+      "es": "Los frescos del siglo XV muestran las actividades del hospital y son una fuente preciosa para conocer la vida asistencial medieval."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Una città nella città",
+      "en": "A city within the city",
+      "fr": "Une ville dans la ville",
+      "de": "Eine Stadt in der Stadt",
+      "es": "Una ciudad dentro de la ciudad"
+     },
+     "testo": {
+      "it": "il complesso si sviluppa su numerosi livelli e comprende ambienti di epoche diverse, compresi spazi sotterranei.",
+      "en": "The complex spreads over many levels and includes rooms from different periods, including underground spaces.",
+      "fr": "Le complexe se développe sur de nombreux niveaux et comprend des espaces de différentes époques, y compris des lieux souterrains.",
+      "de": "Der Komplex erstreckt sich über zahlreiche Ebenen und umfasst Räume aus verschiedenen Epochen, auch unterirdische.",
+      "es": "El complejo se desarrolla en numerosos niveles y comprende ambientes de épocas distintas, incluidos espacios subterráneos."
      }
     }
    ],
@@ -634,18 +890,34 @@
    "lo_sapevi_che": [
     {
      "titolo": {
-      "it": "La testa di santa Caterina",
-      "en": "Saint Catherine's head",
-      "fr": "La tête de sainte Catherine",
-      "de": "Das Haupt der heiligen Katharina",
-      "es": "La cabeza de santa Catalina"
+      "it": "Il ritratto di Caterina",
+      "en": "Catherine's portrait",
+      "fr": "Le portrait de Catherine",
+      "de": "Das Porträt Katharinas",
+      "es": "El retrato de Catalina"
      },
      "testo": {
-      "it": "Nella basilica si conserva la testa di santa Caterina da Siena; il resto del corpo è a Roma, in Santa Maria sopra Minerva.",
-      "en": "The head of Saint Catherine of Siena is kept in the basilica; the rest of her body is in Rome, in Santa Maria sopra Minerva.",
-      "fr": "La tête de sainte Catherine de Sienne est conservée dans la basilique ; le reste de son corps se trouve à Rome, à Santa Maria sopra Minerva.",
-      "de": "In der Basilika wird das Haupt der heiligen Katharina von Siena aufbewahrt; der übrige Leib befindet sich in Rom, in Santa Maria sopra Minerva.",
-      "es": "En la basílica se conserva la cabeza de santa Catalina de Siena; el resto de su cuerpo está en Roma, en Santa Maria sopra Minerva."
+      "it": "nella Cappella delle Volte si conserva un'immagine della santa attribuita ad Andrea Vanni, considerata una delle prime testimonianze figurative realizzate quando Caterina era ancora in vita.",
+      "en": "In the Cappella delle Volte is kept an image of the saint attributed to Andrea Vanni, considered one of the first figurative testimonies made while Catherine was still alive.",
+      "fr": "Dans la Cappella delle Volte est conservée une image de la sainte attribuée à Andrea Vanni, considérée comme l'un des premiers témoignages figuratifs réalisés du vivant de Catherine.",
+      "de": "In der Cappella delle Volte wird ein Bild der Heiligen aufbewahrt, das Andrea Vanni zugeschrieben wird und als eines der ersten bildlichen Zeugnisse gilt, die noch zu Lebzeiten Katharinas entstanden.",
+      "es": "En la Cappella delle Volte se conserva una imagen de la santa atribuida a Andrea Vanni, considerada uno de los primeros testimonios figurativos realizados cuando Catalina aún vivía."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Le reliquie",
+      "en": "The relics",
+      "fr": "Les reliques",
+      "de": "Die Reliquien",
+      "es": "Las reliquias"
+     },
+     "testo": {
+      "it": "nella basilica sono custoditi la testa e un dito della santa; il corpo si trova invece a Roma, nella Basilica di Santa Maria sopra Minerva.",
+      "en": "The basilica keeps the saint's head and a finger; her body is instead in Rome, in the Basilica of Santa Maria sopra Minerva.",
+      "fr": "La basilique conserve la tête et un doigt de la sainte ; son corps se trouve en revanche à Rome, dans la basilique de Santa Maria sopra Minerva.",
+      "de": "In der Basilika werden der Kopf und ein Finger der Heiligen aufbewahrt; ihr Leib befindet sich dagegen in Rom, in der Basilika Santa Maria sopra Minerva.",
+      "es": "En la basílica se custodian la cabeza y un dedo de la santa; el cuerpo se encuentra, en cambio, en Roma, en la Basílica de Santa Maria sopra Minerva."
      }
     }
    ],
@@ -696,6 +968,54 @@
       "de": "Die Kirche entstand im 13. Jahrhundert als romanischer Bau und wurde in den folgenden zwei Jahrhunderten erweitert, bis sie zu der gewaltigen gotischen Anlage wurde, die man heute sieht.",
       "es": "La iglesia nació en el siglo XIII como edificio románico y se amplió en los dos siglos siguientes hasta convertirse en la inmensa construcción gótica que se ve hoy."
      }
+    },
+    {
+     "titolo": {
+      "it": "Le Sacre Particole",
+      "en": "The Sacred Hosts",
+      "fr": "Les Saintes Hosties",
+      "de": "Die Heiligen Hostien",
+      "es": "Las Sagradas Formas"
+     },
+     "testo": {
+      "it": "la tradizione ricorda il loro ritrovamento nel 1730, tre giorni dopo il furto dalla basilica. Sono ancora conservate e venerate.",
+      "en": "Tradition recalls their recovery in 1730, three days after the theft from the basilica. They are still kept and venerated.",
+      "fr": "La tradition rappelle leur découverte en 1730, trois jours après le vol commis dans la basilique. Elles sont toujours conservées et vénérées.",
+      "de": "Die Überlieferung erinnert an ihr Wiederauffinden im Jahr 1730, drei Tage nach dem Diebstahl aus der Basilika. Sie werden noch heute aufbewahrt und verehrt.",
+      "es": "La tradición recuerda su hallazgo en 1730, tres días después del robo en la basílica. Siguen conservándose y venerándose."
+     }
+    },
+    {
+     "titolo": {
+      "it": "La facciata attuale",
+      "en": "The present façade",
+      "fr": "La façade actuelle",
+      "de": "Die heutige Fassade",
+      "es": "La fachada actual"
+     },
+     "testo": {
+      "it": "l'aspetto esterno è il risultato di restauri ottocenteschi che modificarono la configurazione precedente.",
+      "en": "The outside appearance is the result of nineteenth-century restoration that changed the earlier configuration.",
+      "fr": "L'aspect extérieur est le résultat de restaurations du XIXe siècle qui modifièrent la configuration précédente.",
+      "de": "Das äußere Erscheinungsbild ist das Ergebnis von Restaurierungen des 19. Jahrhunderts, die die frühere Gestalt veränderten.",
+      "es": "El aspecto exterior es el resultado de restauraciones decimonónicas que modificaron la configuración anterior."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il patrimonio pittorico",
+      "en": "The painted heritage",
+      "fr": "Le patrimoine pictural",
+      "de": "Das malerische Erbe",
+      "es": "El patrimonio pictórico"
+     },
+     "testo": {
+      "it": "la basilica conserva opere legate ad alcuni protagonisti della scuola senese, tra cui i fratelli Lorenzetti.",
+      "en": "The basilica keeps works linked to some leading figures of the Sienese school, including the Lorenzetti brothers.",
+      "fr": "La basilique conserve des œuvres liées à certains protagonistes de l'école siennoise, parmi lesquels les frères Lorenzetti.",
+      "de": "Die Basilika bewahrt Werke, die mit einigen Hauptvertretern der sienesischen Schule verbunden sind, darunter die Brüder Lorenzetti.",
+      "es": "La basílica conserva obras ligadas a algunos protagonistas de la escuela sienesa, entre ellos los hermanos Lorenzetti."
+     }
     }
    ],
    "nota": {
@@ -744,6 +1064,54 @@
       "fr": "Le sanctuaire n'est pas une seule église : autour de la maison où naquit la sainte se sont ajoutés avec le temps portiques, loggias, églises et oratoires.",
       "de": "Das Heiligtum ist keine einzelne Kirche: Um das Haus, in dem die Heilige geboren wurde, kamen im Lauf der Zeit Portiken, Loggien, Kirchen und Oratorien hinzu.",
       "es": "El santuario no es una sola iglesia: alrededor de la casa donde nació la santa se fueron añadiendo con el tiempo pórticos, logias, iglesias y oratorios."
+     }
+    },
+    {
+     "titolo": {
+      "it": "Il Portico dei Comuni",
+      "en": "The Portico of the Communes",
+      "fr": "Le Portique des Communes",
+      "de": "Die Loggia der Gemeinden",
+      "es": "El Pórtico de los Municipios"
+     },
+     "testo": {
+      "it": "fu realizzato dopo la proclamazione di Caterina a patrona d'Italia nel 1939, con il contributo simbolico di numerosi comuni.",
+      "en": "It was built after Catherine was proclaimed patron saint of Italy in 1939, with the symbolic contribution of numerous municipalities.",
+      "fr": "Il fut réalisé après la proclamation de Catherine comme patronne de l'Italie en 1939, avec la contribution symbolique de nombreuses communes.",
+      "de": "Sie wurde nach der Ernennung Katharinas zur Schutzpatronin Italiens im Jahr 1939 mit dem symbolischen Beitrag zahlreicher Gemeinden errichtet.",
+      "es": "Se construyó tras la proclamación de Catalina como patrona de Italia en 1939, con la contribución simbólica de numerosos municipios."
+     }
+    },
+    {
+     "titolo": {
+      "it": "La pietra della cameretta",
+      "en": "The stone in the little room",
+      "fr": "La pierre de la petite chambre",
+      "de": "Der Stein in der Kammer",
+      "es": "La piedra de la cameretta"
+     },
+     "testo": {
+      "it": "secondo la tradizione, Caterina utilizzava una pietra come appoggio per la testa durante il riposo.",
+      "en": "According to tradition, Catherine used a stone as a support for her head while resting.",
+      "fr": "Selon la tradition, Catherine utilisait une pierre pour appuyer sa tête pendant son repos.",
+      "de": "Der Überlieferung nach benutzte Katharina beim Ruhen einen Stein als Kopfstütze.",
+      "es": "Según la tradición, Catalina utilizaba una piedra como apoyo para la cabeza durante el descanso."
+     }
+    },
+    {
+     "titolo": {
+      "it": "La Chiesa di Santa Caterina in Fontebranda",
+      "en": "The Church of Santa Caterina in Fontebranda",
+      "fr": "L'église de Santa Caterina in Fontebranda",
+      "de": "Die Kirche Santa Caterina in Fontebranda",
+      "es": "La Iglesia de Santa Caterina in Fontebranda"
+     },
+     "testo": {
+      "it": "è oggi legata alla Nobile Contrada dell'Oca, che conserva qui una parte importante della propria memoria religiosa e identitaria.",
+      "en": "It is now tied to the Noble Contrada of the Oca (Goose), which keeps here an important part of its religious and identity memory.",
+      "fr": "Elle est aujourd'hui liée à la Noble Contrada de l'Oca, qui y conserve une part importante de sa mémoire religieuse et identitaire.",
+      "de": "Sie ist heute mit der Nobile Contrada dell'Oca verbunden, die hier einen wichtigen Teil ihres religiösen und identitätsstiftenden Gedächtnisses bewahrt.",
+      "es": "Hoy está ligada a la Nobile Contrada dell'Oca, que conserva aquí una parte importante de su memoria religiosa e identitaria."
      }
     }
    ],
