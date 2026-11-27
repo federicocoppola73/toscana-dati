@@ -1,5 +1,5 @@
 {
- "versione": "55c5868abd8d",
+ "versione": "22af9bec646b",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -3350,10 +3350,34 @@
    "byte": 35958
   },
   {
+   "path": "assets/personaggi/bernardino-da-siena.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/bernardino-da-siena.webp",
+   "sha256": "454bb36840e43a3bca9a179d6c0efee69954ef7697e24292c9689a59f0519e1c",
+   "byte": 39256
+  },
+  {
+   "path": "assets/personaggi/blaise-de-monluc.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/blaise-de-monluc.webp",
+   "sha256": "c075a451e088c3e3e846d6d48a9c0d187006f87c889be936d2968b82be45e9db",
+   "byte": 68740
+  },
+  {
+   "path": "assets/personaggi/caterina-da-siena.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/caterina-da-siena.webp",
+   "sha256": "448898b733a45b354ef07ae7da4a463b4a6e8c9f78c6437b14be2a2b40de299b",
+   "byte": 38474
+  },
+  {
    "path": "assets/personaggi/cecco-angiolieri.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/cecco-angiolieri.webp",
    "sha256": "99cdcf933344e90b3668d5ab15e741034520e1ff2654f1f44c14681d2fe780c4",
    "byte": 13460
+  },
+  {
+   "path": "assets/personaggi/domenico-beccafumi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/domenico-beccafumi.webp",
+   "sha256": "446318bc98b9a0c4f71a906acecfc2c549093e5f88f18677bbbd9cb8235cd26e",
+   "byte": 118648
   },
   {
    "path": "assets/personaggi/duccio-di-buoninsegna.webp",
@@ -3362,16 +3386,46 @@
    "byte": 182666
   },
   {
+   "path": "assets/personaggi/francesco-di-giorgio-martini.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/francesco-di-giorgio-martini.webp",
+   "sha256": "00ba62ffda3e90a13306c912d5b91c78838b2f22958145efde0ff8e93ca0e19b",
+   "byte": 202524
+  },
+  {
+   "path": "assets/personaggi/jacopo-della-quercia.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/jacopo-della-quercia.webp",
+   "sha256": "b95bbbe4788eea2b22668de9615854982a0fbfb058f554b4fc081f1cafa31b7d",
+   "byte": 203002
+  },
+  {
    "path": "assets/personaggi/nicola-pisano.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/nicola-pisano.webp",
    "sha256": "506f74ae344394ca68b41192bf39bd7e1665b2c9801cf41dcbfda3597938ded4",
    "byte": 60628
   },
   {
+   "path": "assets/personaggi/piero-strozzi.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/piero-strozzi.webp",
+   "sha256": "faa86528378ad0f5310d179567432de7dc96b9be4b4fcd37095342dbbc23af2e",
+   "byte": 26684
+  },
+  {
    "path": "assets/personaggi/pietro-lorenzetti.webp",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pietro-lorenzetti.webp",
    "sha256": "7e3c79677f1b5e31f23c35f42fa13246ef20739da6f108d3001a49cf51ddb895",
    "byte": 35472
+  },
+  {
+   "path": "assets/personaggi/pinturicchio.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pinturicchio.webp",
+   "sha256": "55287b00a90dab4ba1b44232b54a9e391ca4456b57818c6b8ca2327ac88d3970",
+   "byte": 9036
+  },
+  {
+   "path": "assets/personaggi/pio-ii.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/personaggi/pio-ii.webp",
+   "sha256": "466e03b5bb31e8828b222dc7c5c0c3eec29738a36fd54ee86edba6639ad8b18c",
+   "byte": 24614
   },
   {
    "path": "assets/personaggi/provenzano-salvani.webp",
@@ -3484,8 +3538,8 @@
   {
    "path": "dati/personaggi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/personaggi.json",
-   "sha256": "b5472c6f4695f3cd34cba042fc22cd10b198d6c0c57f3d6a433bcf55e880000f",
-   "byte": 537116
+   "sha256": "6a78a15b76a03c0e5dd5bf41d143b77baae5a7cf674d1e765b3fc577a970a263",
+   "byte": 538054
   },
   {
    "path": "dati/principali.json",
@@ -3640,6 +3694,12 @@
    "da": "720eb312c802",
    "data": "2026-11-27",
    "byte": 1070564
+  },
+  {
+   "versione": "22af9bec646b",
+   "da": "55c5868abd8d",
+   "data": "2026-11-27",
+   "byte": 1269032
   }
  ]
 }

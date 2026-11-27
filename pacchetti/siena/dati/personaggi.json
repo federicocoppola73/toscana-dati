@@ -1731,7 +1731,11 @@
             "es": "Fue el pontífice que la canonizó en 1461, reconociendo oficialmente su culto y su importancia religiosa."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Anonimo",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "bernardino-da-siena",
@@ -1867,7 +1871,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Dario da Pordenone",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "pio-ii",
@@ -2007,7 +2015,11 @@
             "es": "Realizó en la Libreria Piccolomini el ciclo de frescos dedicado a la vida de Pío II, por encargo de la familia Piccolomini. El artista lo representó, por tanto, muchos años después de su muerte."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Artaud de Montor",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "jacopo-della-quercia",
@@ -2160,7 +2172,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Internet Archive Book Images",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "francesco-di-giorgio-martini",
@@ -2279,7 +2295,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Giovanni Battista Cecchi",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "matteo-di-giovanni",
@@ -2521,7 +2541,11 @@
             "es": "Fue uno de sus comitentes en Siena. El artista participó en la decoración de estancias del palacio de la familia Petrucci."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Pinturicchio",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "domenico-beccafumi",
@@ -2640,7 +2664,11 @@
           }
         }
       },
-      "collegati": []
+      "collegati": [],
+      "ritratto": {
+        "autore": "Domenico Beccafumi",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "pandolfo-petrucci",
@@ -2900,7 +2928,11 @@
             "es": "Ambos fueron protagonistas de la defensa franco-sienesa contra los imperiales y los Médici. Su papel se desarrolló durante la misma guerra, aunque con cargos y responsabilidades distintos."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Anonimo",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "blaise-de-monluc",
@@ -3013,7 +3045,11 @@
             "es": "Ambos sirvieron a Francia y apoyaron a la República de Siena durante la guerra contra las fuerzas imperiales y mediceas. Su relación se sitúa en el contexto de la misma campaña militar."
           }
         }
-      ]
+      ],
+      "ritratto": {
+        "autore": "Anonimo",
+        "licenza": "Pubblico dominio"
+      }
     },
     {
       "id": "cosimo-i-de-medici",
