@@ -1,5 +1,5 @@
 {
- "versione": "5b4cdbb2dbda",
+ "versione": "69b279341404",
  "tipo": "prova",
  "file": [
   {
@@ -3413,8 +3413,8 @@
   {
    "path": "dati/rete.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/prova/dati/rete.json",
-   "sha256": "da04b3a4c8af97f99bae62bcbc165460a469398d9108011015a95626b54ccde4",
-   "byte": 90
+   "sha256": "ea407e3f74406e250130034f9a4d1af50103a021d7f9b2c88025ef87ad6f6fd5",
+   "byte": 648649
   },
   {
    "path": "dati/servizi.json",
