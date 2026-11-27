@@ -3426,6 +3426,619 @@
           }
         }
       ]
+    },
+    {
+      "id": "federigo-tozzi",
+      "nome": "Federigo Tozzi",
+      "nascita": 1883,
+      "morte": 1920,
+      "professione": {
+        "it": "Scrittore",
+        "en": "Writer",
+        "fr": "Écrivain",
+        "de": "Schriftsteller",
+        "es": "Escritor"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "1º gennaio 1883",
+        "en": "1 January 1883",
+        "fr": "1er janvier 1883",
+        "de": "1. Januar 1883",
+        "es": "1 de enero de 1883"
+      },
+      "luogoMorte": {
+        "it": "Roma",
+        "en": "Rome",
+        "fr": "Rome",
+        "de": "Rom",
+        "es": "Roma"
+      },
+      "dataMorte": {
+        "it": "21 marzo 1920",
+        "en": "21 March 1920",
+        "fr": "21 mars 1920",
+        "de": "21. März 1920",
+        "es": "21 de marzo de 1920"
+      },
+      "biografia": {
+        "it": "Federigo Tozzi è stato uno dei più importanti scrittori italiani del primo Novecento. Nato a Siena, crebbe in una famiglia segnata da forti contrasti: il padre gestiva la trattoria Il Sasso, mentre la madre, Annunziata Automi, morì quando lui era ancora adolescente. L'ambiente familiare e la campagna senese ebbero un'influenza profonda sulla sua sensibilità e sulla sua produzione letteraria.\n\nLa sua formazione fu irregolare. Nonostante le difficoltà scolastiche, sviluppò presto un interesse per la letteratura e frequentò assiduamente la Biblioteca comunale degli Intronati. La sua esperienza personale, le tensioni familiari e il rapporto con il territorio diventarono elementi ricorrenti nelle sue opere.\n\nDopo aver lavorato per le Ferrovie dello Stato a Pontedera e a Firenze, nel 1914 si trasferì a Roma. Qui entrò progressivamente negli ambienti letterari e giornalistici, collaborando con diverse riviste e ottenendo l'attenzione di critici e scrittori. Nel 1913 aveva fondato a Siena, insieme a Domenico Giuliotti, la rivista La Torre, esperienza breve ma significativa per comprendere i suoi interessi culturali e ideologici.\n\nTra le sue opere più importanti figurano Bestie (1917), Con gli occhi chiusi (1919) e Tre croci (pubblicato nel 1920, dopo la sua morte). La sua narrativa si distingue per l'attenzione alla psicologia dei personaggi, alle inquietudini interiori e ai rapporti familiari. Siena e il suo territorio non sono semplici sfondi: diventano ambienti emotivi, spesso rappresentati attraverso atmosfere dure, solitarie e malinconiche.\n\nMorì a Roma nel 1920, a soli 37 anni, per una polmonite. La sua importanza letteraria venne riconosciuta pienamente soprattutto negli anni successivi, quando la critica lo collocò tra i principali protagonisti della narrativa modernista italiana.",
+        "en": "Federigo Tozzi was one of the most important Italian writers of the early twentieth century. Born in Siena, he grew up in a family marked by sharp conflicts: his father ran the trattoria Il Sasso, while his mother, Annunziata Automi, died when he was still an adolescent. The family environment and the Sienese countryside had a profound influence on his sensibility and his literary output.\n\nHis education was irregular. Despite difficulties at school, he developed an early interest in literature and was a regular visitor to the Biblioteca comunale degli Intronati. His personal experience, family tensions and relationship with the land became recurring elements in his works.\n\nAfter working for the State Railways at Pontedera and Florence, he moved to Rome in 1914. There he gradually entered literary and journalistic circles, contributing to various magazines and attracting the attention of critics and writers. In 1913 he had founded in Siena, together with Domenico Giuliotti, the magazine La Torre, a brief but significant experience for understanding his cultural and ideological interests.\n\nHis most important works include Bestie (1917), Con gli occhi chiusi (1919) and Tre croci (published in 1920, after his death). His fiction stands out for its attention to the psychology of characters, inner unrest and family relationships. Siena and its territory are not mere backdrops: they become emotional settings, often rendered through harsh, solitary and melancholy atmospheres.\n\nHe died in Rome in 1920, at only 37, of pneumonia. His literary importance was fully recognised above all in the following years, when critics placed him among the leading figures of Italian modernist fiction.",
+        "fr": "Federigo Tozzi fut l'un des plus importants écrivains italiens du début du XXe siècle. Né à Sienne, il grandit dans une famille marquée par de forts conflits : son père tenait la trattoria Il Sasso, tandis que sa mère, Annunziata Automi, mourut alors qu'il était encore adolescent. Le milieu familial et la campagne siennoise eurent une influence profonde sur sa sensibilité et sur sa production littéraire.\n\nSa formation fut irrégulière. Malgré ses difficultés scolaires, il développa très tôt un intérêt pour la littérature et fréquenta assidûment la Biblioteca comunale degli Intronati. Son expérience personnelle, les tensions familiales et le rapport avec le territoire devinrent des éléments récurrents de ses œuvres.\n\nAprès avoir travaillé pour les chemins de fer de l'État à Pontedera et à Florence, il s'installa à Rome en 1914. Il y entra progressivement dans les milieux littéraires et journalistiques, collaborant à plusieurs revues et attirant l'attention de critiques et d'écrivains. En 1913, il avait fondé à Sienne, avec Domenico Giuliotti, la revue La Torre, expérience brève mais significative pour comprendre ses intérêts culturels et idéologiques.\n\nParmi ses œuvres les plus importantes figurent Bestie (1917), Con gli occhi chiusi (1919) et Tre croci (publié en 1920, après sa mort). Sa narration se distingue par l'attention portée à la psychologie des personnages, aux inquiétudes intérieures et aux rapports familiaux. Sienne et son territoire ne sont pas de simples décors : ils deviennent des milieux émotionnels, souvent représentés par des atmosphères dures, solitaires et mélancoliques.\n\nIl mourut à Rome en 1920, à 37 ans seulement, d'une pneumonie. Son importance littéraire fut pleinement reconnue surtout dans les années suivantes, quand la critique le plaça parmi les principaux protagonistes de la narration moderniste italienne.",
+        "de": "Federigo Tozzi war einer der wichtigsten italienischen Schriftsteller des frühen 20. Jahrhunderts. In Siena geboren, wuchs er in einer von starken Gegensätzen geprägten Familie auf: Sein Vater führte die Trattoria Il Sasso, seine Mutter Annunziata Automi starb, als er noch Jugendlicher war. Das familiäre Umfeld und die sienesische Landschaft hatten tiefen Einfluss auf seine Sensibilität und sein literarisches Schaffen.\n\nSeine Bildung verlief unregelmäßig. Trotz schulischer Schwierigkeiten entwickelte er früh ein Interesse an Literatur und besuchte regelmäßig die Biblioteca comunale degli Intronati. Seine persönlichen Erfahrungen, die familiären Spannungen und das Verhältnis zur Landschaft wurden zu wiederkehrenden Elementen seiner Werke.\n\nNach der Arbeit bei den Staatsbahnen in Pontedera und Florenz zog er 1914 nach Rom. Dort fand er nach und nach Zugang zu literarischen und journalistischen Kreisen, schrieb für verschiedene Zeitschriften und erregte die Aufmerksamkeit von Kritikern und Schriftstellern. 1913 hatte er in Siena gemeinsam mit Domenico Giuliotti die Zeitschrift La Torre gegründet, eine kurze, aber aufschlussreiche Erfahrung für das Verständnis seiner kulturellen und ideologischen Interessen.\n\nZu seinen wichtigsten Werken zählen Bestie (1917), Con gli occhi chiusi (1919) und Tre croci (1920, nach seinem Tod erschienen). Seine Erzählkunst zeichnet sich durch die Aufmerksamkeit für die Psychologie der Figuren, innere Unruhe und Familienbeziehungen aus. Siena und sein Umland sind keine bloßen Kulissen: Sie werden zu emotionalen Räumen, oft in harten, einsamen und melancholischen Stimmungen dargestellt.\n\nEr starb 1920 in Rom, mit nur 37 Jahren, an einer Lungenentzündung. Seine literarische Bedeutung wurde vor allem in den folgenden Jahren voll anerkannt, als die Kritik ihn zu den Hauptvertretern der italienischen modernistischen Prosa zählte.",
+        "es": "Federigo Tozzi fue uno de los escritores italianos más importantes de principios del siglo XX. Nacido en Siena, creció en una familia marcada por fuertes contrastes: su padre regentaba la trattoria Il Sasso, mientras que su madre, Annunziata Automi, murió cuando él aún era adolescente. El ambiente familiar y el campo sienés tuvieron una influencia profunda en su sensibilidad y en su producción literaria.\n\nSu formación fue irregular. A pesar de las dificultades escolares, desarrolló pronto un interés por la literatura y frecuentó asiduamente la Biblioteca comunale degli Intronati. Su experiencia personal, las tensiones familiares y la relación con el territorio se convirtieron en elementos recurrentes de sus obras.\n\nTras trabajar para los Ferrocarriles del Estado en Pontedera y en Florencia, en 1914 se trasladó a Roma. Allí entró progresivamente en los ambientes literarios y periodísticos, colaborando con diversas revistas y obteniendo la atención de críticos y escritores. En 1913 había fundado en Siena, junto con Domenico Giuliotti, la revista La Torre, experiencia breve pero significativa para comprender sus intereses culturales e ideológicos.\n\nEntre sus obras más importantes figuran Bestie (1917), Con gli occhi chiusi (1919) y Tre croci (publicada en 1920, tras su muerte). Su narrativa se distingue por la atención a la psicología de los personajes, a las inquietudes interiores y a las relaciones familiares. Siena y su territorio no son simples fondos: se convierten en ambientes emocionales, a menudo representados mediante atmósferas duras, solitarias y melancólicas.\n\nMurió en Roma en 1920, con solo 37 años, de una neumonía. Su importancia literaria fue plenamente reconocida sobre todo en los años siguientes, cuando la crítica lo situó entre los principales protagonistas de la narrativa modernista italiana."
+      },
+      "curiosita": {
+        "it": [
+          "Il padre era conosciuto come «Ghigo del Sasso», dal nome della trattoria che gestiva a Siena.",
+          "Molti ambienti e personaggi dei suoi romanzi prendono spunto dalla vita familiare e dalla campagna senese.",
+          "Con gli occhi chiusi era stato scritto già nel 1912–1913, ma venne pubblicato soltanto nel 1919.",
+          "La sua scrittura è stata spesso accostata a quella di Italo Svevo e Luigi Pirandello per l'attenzione alla crisi interiore dell'individuo."
+        ],
+        "en": [
+          "His father was known as «Ghigo del Sasso», after the trattoria he ran in Siena.",
+          "Many settings and characters in his novels draw on family life and the Sienese countryside.",
+          "Con gli occhi chiusi had been written as early as 1912–1913, but was published only in 1919.",
+          "His writing has often been compared to that of Italo Svevo and Luigi Pirandello for its attention to the inner crisis of the individual."
+        ],
+        "fr": [
+          "Son père était connu sous le nom de « Ghigo del Sasso », d'après la trattoria qu'il tenait à Sienne.",
+          "De nombreux milieux et personnages de ses romans s'inspirent de la vie familiale et de la campagne siennoise.",
+          "Con gli occhi chiusi avait été écrit dès 1912–1913, mais ne fut publié qu'en 1919.",
+          "Son écriture a souvent été rapprochée de celle d'Italo Svevo et de Luigi Pirandello pour l'attention portée à la crise intérieure de l'individu."
+        ],
+        "de": [
+          "Sein Vater war als «Ghigo del Sasso» bekannt, nach der Trattoria, die er in Siena führte.",
+          "Viele Schauplätze und Figuren seiner Romane gehen auf das Familienleben und die sienesische Landschaft zurück.",
+          "Con gli occhi chiusi war schon 1912–1913 geschrieben worden, erschien aber erst 1919.",
+          "Seine Schreibweise wurde oft mit der von Italo Svevo und Luigi Pirandello verglichen, wegen der Aufmerksamkeit für die innere Krise des Individuums."
+        ],
+        "es": [
+          "Su padre era conocido como «Ghigo del Sasso», por el nombre de la trattoria que regentaba en Siena.",
+          "Muchos ambientes y personajes de sus novelas se inspiran en la vida familiar y en el campo sienés.",
+          "Con gli occhi chiusi se había escrito ya en 1912–1913, pero solo se publicó en 1919.",
+          "Su escritura se ha acercado a menudo a la de Italo Svevo y Luigi Pirandello por la atención a la crisis interior del individuo."
+        ]
+      },
+      "luoghi": [],
+      "luoghiNote": {},
+      "collegati": []
+    },
+    {
+      "id": "ranuccio-bianchi-bandinelli",
+      "nome": "Ranuccio Bianchi Bandinelli",
+      "nascita": 1900,
+      "morte": 1975,
+      "professione": {
+        "it": "Archeologo e storico dell'arte antica",
+        "en": "Archaeologist and historian of ancient art",
+        "fr": "Archéologue et historien de l'art antique",
+        "de": "Archäologe und Historiker der antiken Kunst",
+        "es": "Arqueólogo e historiador del arte antiguo"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "19 febbraio 1900",
+        "en": "19 February 1900",
+        "fr": "19 février 1900",
+        "de": "19. Februar 1900",
+        "es": "19 de febrero de 1900"
+      },
+      "luogoMorte": {
+        "it": "Roma",
+        "en": "Rome",
+        "fr": "Rome",
+        "de": "Rom",
+        "es": "Roma"
+      },
+      "dataMorte": {
+        "it": "17 gennaio 1975",
+        "en": "17 January 1975",
+        "fr": "17 janvier 1975",
+        "de": "17. Januar 1975",
+        "es": "17 de enero de 1975"
+      },
+      "biografia": {
+        "it": "Ranuccio Bianchi Bandinelli è stato uno dei maggiori archeologi e storici dell'arte antica italiani del Novecento. Nato a Siena in una famiglia dell'antica nobiltà locale, manifestò fin da giovane un forte interesse per la storia e per il mondo antico. Frequentò il liceo classico cittadino e si laureò in Lettere all'Università di Roma nel 1923, con una tesi dedicata a Chiusi e al suo territorio in età etrusca.\n\nLa sua carriera accademica lo portò a insegnare in diverse università italiane e straniere, tra cui Cagliari, Pisa, Groningen e Firenze. La sua attività scientifica contribuì a rinnovare profondamente gli studi sull'arte greca e romana. Bianchi Bandinelli non considerava le opere antiche soltanto come reperti da classificare: cercava di comprenderle nel loro contesto storico, sociale e culturale.\n\nNel 1935 fondò la rivista La Critica d'arte, mentre nel dopoguerra partecipò alla ricostruzione delle istituzioni italiane dedicate alla tutela del patrimonio. Dal 1945 al 1948 ricoprì l'incarico di direttore generale delle Antichità e Belle Arti presso il Ministero della Pubblica Istruzione. In questa posizione ebbe un ruolo importante nella definizione delle politiche di conservazione e protezione dei beni culturali.\n\nFu anche un intellettuale impegnato nella vita politica e civile. Dopo una prima formazione culturale di orientamento liberale, si avvicinò al comunismo e partecipò al dibattito pubblico sui problemi della società italiana. Per Siena ebbe un ruolo diretto anche come amministratore: fu consigliere comunale dal 1951 al 1956 e contribuì alla discussione sul piano regolatore della città.\n\nTra i suoi contributi scientifici più importanti si ricordano Storicità dell'arte classica e la direzione dell'Enciclopedia dell'arte antica, classica e orientale, pubblicata tra il 1958 e il 1966. Nel 1967 fondò la rivista Dialoghi di archeologia, destinata a diventare un riferimento per gli studi archeologici.\n\nMorì a Roma nel 1975, lasciando un'eredità importante nella ricerca archeologica, nella critica d'arte e nella tutela del patrimonio storico.",
+        "en": "Ranuccio Bianchi Bandinelli was one of the leading Italian archaeologists and historians of ancient art of the twentieth century. Born in Siena into a family of the old local nobility, he showed a strong interest in history and the ancient world from a young age. He attended the city's classical lyceum and graduated in Letters from the University of Rome in 1923, with a thesis on Chiusi and its territory in the Etruscan age.\n\nHis academic career took him to teach at several Italian and foreign universities, including Cagliari, Pisa, Groningen and Florence. His scientific work helped profoundly renew the study of Greek and Roman art. Bianchi Bandinelli did not regard ancient works merely as finds to be classified: he sought to understand them in their historical, social and cultural context.\n\nIn 1935 he founded the magazine La Critica d'arte, and after the war he took part in rebuilding the Italian institutions devoted to protecting heritage. From 1945 to 1948 he served as Director General of Antiquities and Fine Arts at the Ministry of Public Education. In this position he played an important role in defining policies for the conservation and protection of cultural heritage.\n\nHe was also an intellectual engaged in political and civic life. After an initial liberal-leaning cultural formation, he moved towards communism and took part in the public debate on the problems of Italian society. For Siena he also had a direct role as an administrator: he was a city councillor from 1951 to 1956 and contributed to the discussion on the city's urban plan.\n\nAmong his most important scientific contributions are Storicità dell'arte classica and the direction of the Enciclopedia dell'arte antica, classica e orientale, published between 1958 and 1966. In 1967 he founded the magazine Dialoghi di archeologia, which became a reference for archaeological studies.\n\nHe died in Rome in 1975, leaving an important legacy in archaeological research, art criticism and the protection of historical heritage.",
+        "fr": "Ranuccio Bianchi Bandinelli fut l'un des plus grands archéologues et historiens de l'art antique italiens du XXe siècle. Né à Sienne dans une famille de l'ancienne noblesse locale, il manifesta dès son jeune âge un fort intérêt pour l'histoire et le monde antique. Il fréquenta le lycée classique de la ville et obtint en 1923 une licence de lettres à l'université de Rome, avec une thèse consacrée à Chiusi et à son territoire à l'époque étrusque.\n\nSa carrière universitaire l'amena à enseigner dans plusieurs universités italiennes et étrangères, dont Cagliari, Pise, Groningue et Florence. Son activité scientifique contribua à renouveler profondément les études sur l'art grec et romain. Bianchi Bandinelli ne considérait pas les œuvres antiques comme de simples vestiges à classer : il cherchait à les comprendre dans leur contexte historique, social et culturel.\n\nEn 1935, il fonda la revue La Critica d'arte, tandis qu'après la guerre il participa à la reconstruction des institutions italiennes dédiées à la protection du patrimoine. De 1945 à 1948, il occupa la charge de directeur général des Antiquités et Beaux-Arts au ministère de l'Instruction publique. À ce poste, il joua un rôle important dans la définition des politiques de conservation et de protection des biens culturels.\n\nIl fut aussi un intellectuel engagé dans la vie politique et civile. Après une première formation culturelle d'orientation libérale, il se rapprocha du communisme et participa au débat public sur les problèmes de la société italienne. Pour Sienne, il eut aussi un rôle direct comme administrateur : il fut conseiller municipal de 1951 à 1956 et contribua à la discussion sur le plan d'urbanisme de la ville.\n\nParmi ses contributions scientifiques les plus importantes, on retient Storicità dell'arte classica et la direction de l'Enciclopedia dell'arte antica, classica e orientale, publiée entre 1958 et 1966. En 1967, il fonda la revue Dialoghi di archeologia, destinée à devenir une référence pour les études archéologiques.\n\nIl mourut à Rome en 1975, laissant un héritage important dans la recherche archéologique, la critique d'art et la protection du patrimoine historique.",
+        "de": "Ranuccio Bianchi Bandinelli war einer der bedeutendsten italienischen Archäologen und Historiker der antiken Kunst des 20. Jahrhunderts. In Siena in eine Familie des alten lokalen Adels geboren, zeigte er schon früh starkes Interesse an Geschichte und der antiken Welt. Er besuchte das humanistische Gymnasium der Stadt und schloss 1923 sein Studium der Literaturwissenschaft an der Universität Rom mit einer Arbeit über Chiusi und sein Umland in etruskischer Zeit ab.\n\nSeine akademische Laufbahn führte ihn an verschiedene italienische und ausländische Universitäten, darunter Cagliari, Pisa, Groningen und Florenz. Seine wissenschaftliche Arbeit trug entscheidend zur Erneuerung der Erforschung der griechischen und römischen Kunst bei. Bianchi Bandinelli betrachtete antike Werke nicht nur als zu klassifizierende Funde: Er suchte sie in ihrem historischen, sozialen und kulturellen Kontext zu verstehen.\n\n1935 gründete er die Zeitschrift La Critica d'arte, und nach dem Krieg beteiligte er sich am Wiederaufbau der italienischen Einrichtungen für den Denkmalschutz. Von 1945 bis 1948 war er Generaldirektor für Altertümer und Schöne Künste im Ministerium für öffentlichen Unterricht. In dieser Stellung spielte er eine wichtige Rolle bei der Festlegung der Politik zur Erhaltung und zum Schutz der Kulturgüter.\n\nEr war auch ein im politischen und bürgerlichen Leben engagierter Intellektueller. Nach einer anfänglich liberal ausgerichteten kulturellen Prägung näherte er sich dem Kommunismus und beteiligte sich an der öffentlichen Debatte über die Probleme der italienischen Gesellschaft. Für Siena hatte er auch als Verwalter eine direkte Rolle: Von 1951 bis 1956 war er Stadtrat und trug zur Diskussion über den städtischen Bebauungsplan bei.\n\nZu seinen wichtigsten wissenschaftlichen Beiträgen zählen Storicità dell'arte classica und die Leitung der Enciclopedia dell'arte antica, classica e orientale, die zwischen 1958 und 1966 erschien. 1967 gründete er die Zeitschrift Dialoghi di archeologia, die zu einem Bezugspunkt der archäologischen Forschung wurde.\n\nEr starb 1975 in Rom und hinterließ ein bedeutendes Erbe in der archäologischen Forschung, der Kunstkritik und dem Schutz des historischen Erbes.",
+        "es": "Ranuccio Bianchi Bandinelli fue uno de los mayores arqueólogos e historiadores del arte antiguo italianos del siglo XX. Nacido en Siena en una familia de la antigua nobleza local, manifestó desde joven un fuerte interés por la historia y el mundo antiguo. Frecuentó el liceo clásico de la ciudad y se licenció en Letras en la Universidad de Roma en 1923, con una tesis dedicada a Chiusi y su territorio en época etrusca.\n\nSu carrera académica lo llevó a enseñar en diversas universidades italianas y extranjeras, entre ellas Cagliari, Pisa, Groninga y Florencia. Su actividad científica contribuyó a renovar profundamente los estudios sobre el arte griego y romano. Bianchi Bandinelli no consideraba las obras antiguas solo como hallazgos que clasificar: buscaba comprenderlas en su contexto histórico, social y cultural.\n\nEn 1935 fundó la revista La Critica d'arte, y en la posguerra participó en la reconstrucción de las instituciones italianas dedicadas a la tutela del patrimonio. De 1945 a 1948 ocupó el cargo de director general de Antigüedades y Bellas Artes en el Ministerio de Instrucción Pública. En ese puesto tuvo un papel importante en la definición de las políticas de conservación y protección de los bienes culturales.\n\nFue también un intelectual comprometido con la vida política y civil. Tras una primera formación cultural de orientación liberal, se acercó al comunismo y participó en el debate público sobre los problemas de la sociedad italiana. Para Siena tuvo también un papel directo como administrador: fue concejal de 1951 a 1956 y contribuyó a la discusión sobre el plan regulador de la ciudad.\n\nEntre sus aportaciones científicas más importantes se recuerdan Storicità dell'arte classica y la dirección de la Enciclopedia dell'arte antica, classica e orientale, publicada entre 1958 y 1966. En 1967 fundó la revista Dialoghi di archeologia, destinada a convertirse en una referencia para los estudios arqueológicos.\n\nMurió en Roma en 1975, dejando una herencia importante en la investigación arqueológica, la crítica de arte y la tutela del patrimonio histórico."
+      },
+      "curiosita": {
+        "it": [
+          "La sua prima grande ricerca fu dedicata a Chiusi, uno dei più importanti centri etruschi della Toscana.",
+          "Nel 1938 accompagnò Hitler durante la visita ai principali monumenti romani, esperienza che lo segnò profondamente e contribuì alla sua successiva presa di distanza dal regime fascista.",
+          "Fu tra i promotori di una concezione della storia dell'arte antica attenta non soltanto alla forma delle opere, ma anche alla società che le aveva prodotte.",
+          "Il suo archivio e il fondo familiare sono conservati presso il Sistema Bibliotecario dell'Università di Siena."
+        ],
+        "en": [
+          "His first major research was devoted to Chiusi, one of the most important Etruscan centres of Tuscany.",
+          "In 1938 he accompanied Hitler on his visit to the main Roman monuments, an experience that deeply marked him and contributed to his later distancing from the Fascist regime.",
+          "He was among the promoters of a conception of ancient art history attentive not only to the form of works but also to the society that produced them.",
+          "His archive and the family papers are kept at the Library System of the University of Siena."
+        ],
+        "fr": [
+          "Sa première grande recherche fut consacrée à Chiusi, l'un des plus importants centres étrusques de Toscane.",
+          "En 1938, il accompagna Hitler lors de sa visite des principaux monuments romains, expérience qui le marqua profondément et contribua à sa prise de distance ultérieure avec le régime fasciste.",
+          "Il fut parmi les promoteurs d'une conception de l'histoire de l'art antique attentive non seulement à la forme des œuvres, mais aussi à la société qui les avait produites.",
+          "Ses archives et le fonds familial sont conservés au Système des bibliothèques de l'université de Sienne."
+        ],
+        "de": [
+          "Seine erste große Forschungsarbeit galt Chiusi, einem der wichtigsten etruskischen Zentren der Toskana.",
+          "1938 begleitete er Hitler bei dessen Besuch der wichtigsten römischen Monumente, eine Erfahrung, die ihn tief prägte und zu seiner späteren Distanzierung vom faschistischen Regime beitrug.",
+          "Er gehörte zu den Förderern einer Auffassung der antiken Kunstgeschichte, die nicht nur auf die Form der Werke, sondern auch auf die Gesellschaft achtet, die sie hervorgebracht hat.",
+          "Sein Archiv und der Familiennachlass werden im Bibliothekssystem der Universität Siena aufbewahrt."
+        ],
+        "es": [
+          "Su primera gran investigación se dedicó a Chiusi, uno de los más importantes centros etruscos de la Toscana.",
+          "En 1938 acompañó a Hitler durante su visita a los principales monumentos romanos, experiencia que lo marcó profundamente y contribuyó a su posterior distanciamiento del régimen fascista.",
+          "Fue uno de los promotores de una concepción de la historia del arte antiguo atenta no solo a la forma de las obras, sino también a la sociedad que las había producido.",
+          "Su archivo y el fondo familiar se conservan en el Sistema Bibliotecario de la Universidad de Siena."
+        ]
+      },
+      "luoghi": [],
+      "luoghiNote": {},
+      "collegati": [
+        {
+          "id": "cesare-brandi",
+          "testo": {
+            "it": "Entrambi furono protagonisti della cultura italiana del Novecento e si occuparono, da prospettive differenti, della storia dell'arte e della tutela del patrimonio. Il loro collegamento è culturale e professionale, non una collaborazione personale da dare per scontata.",
+            "en": "Both were leading figures of twentieth-century Italian culture and dealt, from different perspectives, with art history and heritage protection. Their link is cultural and professional, not a personal collaboration to be taken for granted.",
+            "fr": "Tous deux furent des protagonistes de la culture italienne du XXe siècle et s'occupèrent, selon des perspectives différentes, d'histoire de l'art et de protection du patrimoine. Leur lien est culturel et professionnel, et non une collaboration personnelle qu'il faudrait tenir pour acquise.",
+            "de": "Beide waren Hauptfiguren der italienischen Kultur des 20. Jahrhunderts und befassten sich aus verschiedenen Blickwinkeln mit Kunstgeschichte und Denkmalschutz. Ihre Verbindung ist kulturell und beruflich, keine persönliche Zusammenarbeit, die als selbstverständlich gelten dürfte.",
+            "es": "Ambos fueron protagonistas de la cultura italiana del siglo XX y se ocuparon, desde perspectivas diferentes, de la historia del arte y de la tutela del patrimonio. Su vínculo es cultural y profesional, no una colaboración personal que deba darse por supuesta."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cesare-brandi",
+      "nome": "Cesare Brandi",
+      "nascita": 1906,
+      "morte": 1988,
+      "professione": {
+        "it": "Storico e critico d'arte, teorico del restauro",
+        "en": "Art historian and critic, theorist of restoration",
+        "fr": "Historien et critique d'art, théoricien de la restauration",
+        "de": "Kunsthistoriker und Kunstkritiker, Restaurierungstheoretiker",
+        "es": "Historiador y crítico de arte, teórico de la restauración"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "8 aprile 1906 (secondo Treccani; alcune fonti riportano il 1908)",
+        "en": "8 April 1906 (according to Treccani; some sources give 1908)",
+        "fr": "8 avril 1906 (selon Treccani ; certaines sources indiquent 1908)",
+        "de": "8. April 1906 (laut Treccani; manche Quellen nennen 1908)",
+        "es": "8 de abril de 1906 (según Treccani; algunas fuentes indican 1908)"
+      },
+      "luogoMorte": {
+        "it": "Vignano, presso Siena",
+        "en": "Vignano, near Siena",
+        "fr": "Vignano, près de Sienne",
+        "de": "Vignano bei Siena",
+        "es": "Vignano, cerca de Siena"
+      },
+      "dataMorte": {
+        "it": "19 gennaio 1988",
+        "en": "19 January 1988",
+        "fr": "19 janvier 1988",
+        "de": "19. Januar 1988",
+        "es": "19 de enero de 1988"
+      },
+      "biografia": {
+        "it": "Cesare Brandi è stato uno dei più importanti storici e critici d'arte italiani del Novecento, nonché il principale teorico moderno del restauro. Nato a Siena, dedicò gran parte della propria attività allo studio delle opere d'arte, alla loro interpretazione critica e alla definizione di criteri scientifici per la conservazione del patrimonio.\n\nDopo gli studi universitari intraprese la carriera nell'amministrazione delle Antichità e Belle Arti. Nel 1938 contribuì, insieme a Giulio Carlo Argan, alla progettazione dell'Istituto Centrale del Restauro, inaugurato a Roma nel 1939. Ne fu direttore per molti anni, guidando un'istituzione destinata a diventare un punto di riferimento internazionale per la conservazione delle opere d'arte.\n\nLa sua riflessione sul restauro si sviluppò attraverso l'attività pratica e lo studio teorico. Nel 1963 pubblicò Teoria del restauro, testo fondamentale nel quale definì il restauro come un intervento critico volto a riconoscere e conservare l'opera nella sua consistenza materiale e nella sua dimensione storica ed estetica. Le sue idee hanno influenzato profondamente la formazione dei restauratori e le politiche di tutela del patrimonio.\n\nBrandi fu anche uno studioso dell'arte senese. Si occupò di pittura medievale e rinascimentale, dedicando studi a Duccio, Giovanni di Paolo e agli artisti del Quattrocento. Il suo lavoro contribuì a una nuova lettura della tradizione artistica locale, inserendola nel più ampio panorama della storia dell'arte italiana.\n\nAccanto all'attività scientifica coltivò la scrittura, la poesia e la letteratura di viaggio. Insegnò storia dell'arte nelle università di Palermo e Roma e collaborò con importanti riviste e quotidiani. Nei suoi scritti affrontò anche temi legati all'architettura, all'estetica e alla critica contemporanea.\n\nTrascorse gli ultimi anni nella campagna senese e morì a Vignano nel 1988. Il suo nome rimane legato soprattutto alla nascita di una moderna cultura del restauro, che considera la conservazione non come una semplice riparazione, ma come un'attività fondata sulla conoscenza storica e critica dell'opera.",
+        "en": "Cesare Brandi was one of the most important Italian art historians and critics of the twentieth century, as well as the leading modern theorist of restoration. Born in Siena, he devoted much of his work to the study of works of art, their critical interpretation and the definition of scientific criteria for the conservation of heritage.\n\nAfter his university studies he began a career in the administration of Antiquities and Fine Arts. In 1938 he contributed, together with Giulio Carlo Argan, to the design of the Istituto Centrale del Restauro, inaugurated in Rome in 1939. He was its director for many years, leading an institution destined to become an international reference point for the conservation of works of art.\n\nHis thinking on restoration developed through practical work and theoretical study. In 1963 he published Teoria del restauro, a fundamental text in which he defined restoration as a critical intervention aimed at recognising and preserving the work in its material consistency and in its historical and aesthetic dimension. His ideas have deeply influenced the training of restorers and heritage-protection policies.\n\nBrandi was also a scholar of Sienese art. He worked on medieval and Renaissance painting, devoting studies to Duccio, Giovanni di Paolo and the artists of the fifteenth century. His work contributed to a new reading of the local artistic tradition, placing it within the broader panorama of Italian art history.\n\nAlongside his scholarly work he cultivated writing, poetry and travel literature. He taught art history at the universities of Palermo and Rome and wrote for major magazines and newspapers. In his writings he also tackled themes of architecture, aesthetics and contemporary criticism.\n\nHe spent his last years in the Sienese countryside and died at Vignano in 1988. His name remains linked above all to the birth of a modern culture of restoration, which considers conservation not as simple repair but as an activity founded on historical and critical knowledge of the work.",
+        "fr": "Cesare Brandi fut l'un des plus importants historiens et critiques d'art italiens du XXe siècle, ainsi que le principal théoricien moderne de la restauration. Né à Sienne, il consacra une grande partie de son activité à l'étude des œuvres d'art, à leur interprétation critique et à la définition de critères scientifiques pour la conservation du patrimoine.\n\nAprès ses études universitaires, il entama une carrière dans l'administration des Antiquités et Beaux-Arts. En 1938, il contribua, avec Giulio Carlo Argan, à la conception de l'Istituto Centrale del Restauro, inauguré à Rome en 1939. Il en fut directeur pendant de nombreuses années, guidant une institution destinée à devenir un point de référence international pour la conservation des œuvres d'art.\n\nSa réflexion sur la restauration se développa par l'activité pratique et l'étude théorique. En 1963, il publia Teoria del restauro, texte fondamental dans lequel il définit la restauration comme une intervention critique visant à reconnaître et à conserver l'œuvre dans sa consistance matérielle et dans sa dimension historique et esthétique. Ses idées ont profondément influencé la formation des restaurateurs et les politiques de protection du patrimoine.\n\nBrandi fut aussi un spécialiste de l'art siennois. Il s'occupa de la peinture médiévale et de la Renaissance, consacrant des études à Duccio, à Giovanni di Paolo et aux artistes du XVe siècle. Son travail contribua à une nouvelle lecture de la tradition artistique locale, l'insérant dans le panorama plus vaste de l'histoire de l'art italien.\n\nÀ côté de l'activité scientifique, il cultiva l'écriture, la poésie et la littérature de voyage. Il enseigna l'histoire de l'art aux universités de Palerme et de Rome et collabora avec d'importantes revues et quotidiens. Dans ses écrits, il aborda aussi des thèmes liés à l'architecture, à l'esthétique et à la critique contemporaine.\n\nIl passa ses dernières années dans la campagne siennoise et mourut à Vignano en 1988. Son nom reste lié surtout à la naissance d'une culture moderne de la restauration, qui considère la conservation non comme une simple réparation, mais comme une activité fondée sur la connaissance historique et critique de l'œuvre.",
+        "de": "Cesare Brandi war einer der wichtigsten italienischen Kunsthistoriker und Kunstkritiker des 20. Jahrhunderts und der bedeutendste moderne Theoretiker der Restaurierung. In Siena geboren, widmete er einen Großteil seiner Tätigkeit dem Studium der Kunstwerke, ihrer kritischen Deutung und der Festlegung wissenschaftlicher Kriterien für die Erhaltung des Kulturerbes.\n\nNach dem Universitätsstudium schlug er eine Laufbahn in der Verwaltung für Altertümer und Schöne Künste ein. 1938 wirkte er gemeinsam mit Giulio Carlo Argan an der Planung des Istituto Centrale del Restauro mit, das 1939 in Rom eröffnet wurde. Viele Jahre lang war er dessen Direktor und leitete eine Einrichtung, die zu einem internationalen Bezugspunkt für die Erhaltung von Kunstwerken werden sollte.\n\nSein Denken über die Restaurierung entwickelte sich durch praktische Tätigkeit und theoretische Studien. 1963 veröffentlichte er Teoria del restauro, einen grundlegenden Text, in dem er die Restaurierung als kritischen Eingriff definierte, der darauf zielt, das Werk in seiner materiellen Beschaffenheit und seiner historischen und ästhetischen Dimension zu erkennen und zu bewahren. Seine Ideen haben die Ausbildung von Restauratoren und die Politik des Denkmalschutzes tief beeinflusst.\n\nBrandi war auch ein Erforscher der sienesischen Kunst. Er beschäftigte sich mit der mittelalterlichen und der Renaissancemalerei und widmete Duccio, Giovanni di Paolo und den Künstlern des Quattrocento Studien. Seine Arbeit trug zu einer neuen Lesart der lokalen Kunsttradition bei und stellte sie in das weitere Panorama der italienischen Kunstgeschichte.\n\nNeben der wissenschaftlichen Tätigkeit pflegte er das Schreiben, die Dichtung und die Reiseliteratur. Er lehrte Kunstgeschichte an den Universitäten Palermo und Rom und arbeitete mit bedeutenden Zeitschriften und Zeitungen zusammen. In seinen Schriften behandelte er auch Themen der Architektur, der Ästhetik und der zeitgenössischen Kritik.\n\nSeine letzten Jahre verbrachte er auf dem sienesischen Land und starb 1988 in Vignano. Sein Name bleibt vor allem mit der Entstehung einer modernen Restaurierungskultur verbunden, die Erhaltung nicht als bloße Reparatur versteht, sondern als Tätigkeit, die auf historischer und kritischer Kenntnis des Werks beruht.",
+        "es": "Cesare Brandi fue uno de los más importantes historiadores y críticos de arte italianos del siglo XX, además del principal teórico moderno de la restauración. Nacido en Siena, dedicó gran parte de su actividad al estudio de las obras de arte, a su interpretación crítica y a la definición de criterios científicos para la conservación del patrimonio.\n\nTras los estudios universitarios emprendió la carrera en la administración de Antigüedades y Bellas Artes. En 1938 contribuyó, junto con Giulio Carlo Argan, al proyecto del Istituto Centrale del Restauro, inaugurado en Roma en 1939. Fue su director durante muchos años, guiando una institución destinada a convertirse en un punto de referencia internacional para la conservación de las obras de arte.\n\nSu reflexión sobre la restauración se desarrolló a través de la actividad práctica y el estudio teórico. En 1963 publicó Teoria del restauro, texto fundamental en el que definió la restauración como una intervención crítica orientada a reconocer y conservar la obra en su consistencia material y en su dimensión histórica y estética. Sus ideas han influido profundamente en la formación de los restauradores y en las políticas de tutela del patrimonio.\n\nBrandi fue también un estudioso del arte sienés. Se ocupó de la pintura medieval y renacentista, dedicando estudios a Duccio, Giovanni di Paolo y los artistas del Quattrocento. Su trabajo contribuyó a una nueva lectura de la tradición artística local, insertándola en el panorama más amplio de la historia del arte italiano.\n\nJunto a la actividad científica cultivó la escritura, la poesía y la literatura de viajes. Enseñó historia del arte en las universidades de Palermo y Roma y colaboró con importantes revistas y diarios. En sus escritos abordó también temas ligados a la arquitectura, la estética y la crítica contemporánea.\n\nPasó sus últimos años en el campo sienés y murió en Vignano en 1988. Su nombre sigue ligado sobre todo al nacimiento de una cultura moderna de la restauración, que considera la conservación no como una simple reparación, sino como una actividad fundada en el conocimiento histórico y crítico de la obra."
+      },
+      "curiosita": {
+        "it": [
+          "La sua Teoria del restauro, pubblicata nel 1963, è ancora oggi uno dei testi fondamentali per chi si occupa di conservazione dei beni culturali.",
+          "Brandi fu anche un appassionato viaggiatore e scrisse numerosi libri dedicati ai paesi e alle culture che aveva conosciuto.",
+          "Il suo rapporto con Siena fu profondo: si occupò a lungo della pittura senese e scrisse Aria di Siena, dedicato ai luoghi, agli artisti e ai progetti della città.",
+          "La data di nascita presenta una discrepanza bibliografica: Treccani indica l'8 aprile 1906, mentre l'Edizione Nazionale delle opere di Brandi riporta l'8 aprile 1908. È opportuno mantenere questa nota finché non sarà individuato un documento anagrafico dirimente."
+        ],
+        "en": [
+          "His Teoria del restauro, published in 1963, is still one of the fundamental texts for anyone working in the conservation of cultural heritage.",
+          "Brandi was also a keen traveller and wrote numerous books on the countries and cultures he had come to know.",
+          "His relationship with Siena was deep: he worked for a long time on Sienese painting and wrote Aria di Siena, devoted to the city's places, artists and projects.",
+          "His date of birth shows a bibliographic discrepancy: Treccani gives 8 April 1906, while the National Edition of Brandi's works gives 8 April 1908. This note is worth keeping until a decisive civil-registry document is found."
+        ],
+        "fr": [
+          "Sa Teoria del restauro, publiée en 1963, est aujourd'hui encore l'un des textes fondamentaux pour qui s'occupe de conservation des biens culturels.",
+          "Brandi fut aussi un voyageur passionné et écrivit de nombreux livres consacrés aux pays et aux cultures qu'il avait connus.",
+          "Son rapport avec Sienne fut profond : il s'occupa longtemps de la peinture siennoise et écrivit Aria di Siena, consacré aux lieux, aux artistes et aux projets de la ville.",
+          "La date de naissance présente une divergence bibliographique : Treccani indique le 8 avril 1906, tandis que l'Édition nationale des œuvres de Brandi donne le 8 avril 1908. Il convient de conserver cette note tant qu'un document d'état civil décisif n'aura pas été trouvé."
+        ],
+        "de": [
+          "Seine Teoria del restauro von 1963 ist bis heute einer der Grundtexte für alle, die sich mit der Erhaltung von Kulturgütern befassen.",
+          "Brandi war auch ein leidenschaftlicher Reisender und schrieb zahlreiche Bücher über die Länder und Kulturen, die er kennengelernt hatte.",
+          "Sein Verhältnis zu Siena war tief: Er beschäftigte sich lange mit der sienesischen Malerei und schrieb Aria di Siena, gewidmet den Orten, Künstlern und Projekten der Stadt.",
+          "Das Geburtsdatum weist eine bibliografische Abweichung auf: Treccani nennt den 8. April 1906, die Nationalausgabe von Brandis Werken den 8. April 1908. Dieser Hinweis sollte beibehalten werden, bis ein entscheidendes Personenstandsdokument gefunden ist."
+        ],
+        "es": [
+          "Su Teoria del restauro, publicada en 1963, sigue siendo hoy uno de los textos fundamentales para quien se ocupa de la conservación de los bienes culturales.",
+          "Brandi fue también un apasionado viajero y escribió numerosos libros dedicados a los países y culturas que había conocido.",
+          "Su relación con Siena fue profunda: se ocupó durante mucho tiempo de la pintura sienesa y escribió Aria di Siena, dedicado a los lugares, los artistas y los proyectos de la ciudad.",
+          "La fecha de nacimiento presenta una discrepancia bibliográfica: Treccani indica el 8 de abril de 1906, mientras que la Edición Nacional de las obras de Brandi recoge el 8 de abril de 1908. Conviene mantener esta nota hasta que se encuentre un documento registral concluyente."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Consente di raccontare il patrimonio artistico medievale e rinascimentale studiato da Brandi.",
+            "en": "It lets us tell the story of the medieval and Renaissance artistic heritage that Brandi studied.",
+            "fr": "Il permet de raconter le patrimoine artistique médiéval et de la Renaissance étudié par Brandi.",
+            "de": "Hier lässt sich das mittelalterliche und Renaissance-Kunsterbe erzählen, das Brandi erforschte.",
+            "es": "Permite contar el patrimonio artístico medieval y renacentista estudiado por Brandi."
+          }
+        }
+      },
+      "collegati": [
+        {
+          "id": "ranuccio-bianchi-bandinelli",
+          "testo": {
+            "it": "Entrambi furono protagonisti della cultura storico-artistica italiana del Novecento. Brandi si concentrò soprattutto sulla critica e sulla teoria del restauro, mentre Bianchi Bandinelli si dedicò all'archeologia e alla storia dell'arte antica. Il loro rapporto è da presentare come vicinanza culturale e disciplinare.",
+            "en": "Both were leading figures of twentieth-century Italian art-historical culture. Brandi focused above all on criticism and the theory of restoration, while Bianchi Bandinelli devoted himself to archaeology and ancient art history. Their relationship is best presented as cultural and disciplinary proximity.",
+            "fr": "Tous deux furent des protagonistes de la culture historico-artistique italienne du XXe siècle. Brandi se concentra surtout sur la critique et la théorie de la restauration, tandis que Bianchi Bandinelli se consacra à l'archéologie et à l'histoire de l'art antique. Leur rapport doit être présenté comme une proximité culturelle et disciplinaire.",
+            "de": "Beide waren Hauptfiguren der italienischen kunsthistorischen Kultur des 20. Jahrhunderts. Brandi konzentrierte sich vor allem auf Kritik und Restaurierungstheorie, Bianchi Bandinelli widmete sich der Archäologie und der Geschichte der antiken Kunst. Ihr Verhältnis ist als kulturelle und fachliche Nähe darzustellen.",
+            "es": "Ambos fueron protagonistas de la cultura histórico-artística italiana del siglo XX. Brandi se centró sobre todo en la crítica y la teoría de la restauración, mientras que Bianchi Bandinelli se dedicó a la arqueología y a la historia del arte antiguo. Su relación debe presentarse como cercanía cultural y disciplinar."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ettore-bastianini",
+      "nome": "Ettore Bastianini",
+      "nascita": 1922,
+      "morte": 1967,
+      "professione": {
+        "it": "Baritono",
+        "en": "Baritone",
+        "fr": "Baryton",
+        "de": "Bariton",
+        "es": "Barítono"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "24 settembre 1922",
+        "en": "24 September 1922",
+        "fr": "24 septembre 1922",
+        "de": "24. September 1922",
+        "es": "24 de septiembre de 1922"
+      },
+      "luogoMorte": {
+        "it": "Sirmione",
+        "en": "Sirmione",
+        "fr": "Sirmione",
+        "de": "Sirmione",
+        "es": "Sirmione"
+      },
+      "dataMorte": {
+        "it": "25 gennaio 1967",
+        "en": "25 January 1967",
+        "fr": "25 janvier 1967",
+        "de": "25. Januar 1967",
+        "es": "25 de enero de 1967"
+      },
+      "biografia": {
+        "it": "Ettore Bastianini è stato uno dei più celebri baritoni italiani del Novecento. Nato a Siena in una famiglia di condizioni modeste, trascorse l'infanzia nel quartiere della Contrada della Pantera. Prima di intraprendere la carriera musicale lavorò come garzone in una pasticceria. Fu proprio il proprietario dell'attività, appassionato di opera lirica, a riconoscere le sue qualità vocali e a incoraggiarlo a studiare canto.\n\nIniziò la formazione come basso e debuttò nel 1945 al Teatro Alighieri di Ravenna nel ruolo di Colline nella Bohème di Puccini. Per alcuni anni proseguì come basso, ma comprese successivamente che le sue caratteristiche vocali erano più adatte al registro di baritono. Studiò con Luciano Bettarini e costruì una nuova impostazione tecnica, che gli permise di sviluppare una voce particolarmente ampia, potente e riconoscibile.\n\nIl debutto come baritono nel 1952, con La dama di picche di Čajkovskij, segnò l'inizio della sua affermazione internazionale. Da quel momento si esibì nei maggiori teatri del mondo, tra cui il Teatro alla Scala di Milano, il Metropolitan Opera di New York, l'Opera di Vienna e il Covent Garden di Londra. Fu apprezzato soprattutto nel repertorio verdiano, nel quale si distinse per la forza espressiva e la qualità del timbro.\n\nTra i suoi ruoli più celebri figurano Rigoletto, Giorgio Germont ne La traviata, il Conte di Luna ne Il trovatore e Rodrigo nel Don Carlo. La sua interpretazione dei personaggi verdiani è rimasta un riferimento per molti appassionati e studiosi della lirica.\n\nLa sua carriera fu interrotta prematuramente da una grave malattia alla gola, che compromise progressivamente le capacità vocali. Bastianini continuò a esibirsi finché gli fu possibile, ma dovette ridurre drasticamente l'attività. Morì a Sirmione nel gennaio 1967, a soli 44 anni.\n\nIl legame con Siena rimase sempre forte. Apparteneva alla Contrada della Pantera e nel 1966 ne divenne capitano. La vittoria della Pantera nel Palio del 2 luglio 1966 fu un momento di grande gioia personale, ricordato anche negli ultimi anni della sua vita.",
+        "en": "Ettore Bastianini was one of the most celebrated Italian baritones of the twentieth century. Born in Siena into a family of modest means, he spent his childhood in the district of the Contrada della Pantera. Before starting his musical career he worked as an errand boy in a pastry shop. It was the shop's owner, a lover of opera, who recognised his vocal gifts and encouraged him to study singing.\n\nHe began his training as a bass and made his debut in 1945 at the Teatro Alighieri in Ravenna in the role of Colline in Puccini's La Bohème. For some years he continued as a bass, but later realised that his vocal characteristics were better suited to the baritone register. He studied with Luciano Bettarini and built a new technical approach, which allowed him to develop a particularly broad, powerful and recognisable voice.\n\nHis debut as a baritone in 1952, in Tchaikovsky's The Queen of Spades, marked the start of his international success. From then on he performed in the world's leading theatres, including La Scala in Milan, the Metropolitan Opera in New York, the Vienna Opera and Covent Garden in London. He was admired above all in the Verdi repertoire, in which he stood out for his expressive power and the quality of his timbre.\n\nHis best-known roles include Rigoletto, Giorgio Germont in La traviata, Count di Luna in Il trovatore and Rodrigo in Don Carlo. His interpretation of Verdi's characters has remained a reference for many opera lovers and scholars.\n\nHis career was cut short by a serious throat illness, which progressively impaired his voice. Bastianini kept performing as long as he could, but had to drastically reduce his activity. He died in Sirmione in January 1967, aged only 44.\n\nHis bond with Siena always remained strong. He belonged to the Contrada della Pantera and in 1966 became its captain. The Pantera's victory in the Palio of 2 July 1966 was a moment of great personal joy, remembered even in the last years of his life.",
+        "fr": "Ettore Bastianini fut l'un des barytons italiens les plus célèbres du XXe siècle. Né à Sienne dans une famille de condition modeste, il passa son enfance dans le quartier de la Contrada della Pantera. Avant d'entamer sa carrière musicale, il travailla comme garçon de courses dans une pâtisserie. C'est le propriétaire du commerce, passionné d'opéra, qui reconnut ses qualités vocales et l'encouragea à étudier le chant.\n\nIl commença sa formation comme basse et débuta en 1945 au Teatro Alighieri de Ravenne dans le rôle de Colline dans La Bohème de Puccini. Pendant quelques années, il poursuivit comme basse, mais comprit ensuite que ses caractéristiques vocales convenaient mieux au registre de baryton. Il étudia avec Luciano Bettarini et construisit une nouvelle technique, qui lui permit de développer une voix particulièrement ample, puissante et reconnaissable.\n\nSes débuts comme baryton en 1952, dans La Dame de pique de Tchaïkovski, marquèrent le début de son affirmation internationale. À partir de là, il se produisit dans les plus grands théâtres du monde, dont la Scala de Milan, le Metropolitan Opera de New York, l'Opéra de Vienne et Covent Garden à Londres. Il fut apprécié surtout dans le répertoire verdien, où il se distingua par la force expressive et la qualité du timbre.\n\nParmi ses rôles les plus célèbres figurent Rigoletto, Giorgio Germont dans La traviata, le comte de Luna dans Le Trouvère et Rodrigue dans Don Carlos. Son interprétation des personnages verdiens est restée une référence pour de nombreux passionnés et spécialistes de l'opéra.\n\nSa carrière fut interrompue prématurément par une grave maladie de la gorge, qui compromit progressivement ses capacités vocales. Bastianini continua à se produire tant qu'il le put, mais dut réduire drastiquement son activité. Il mourut à Sirmione en janvier 1967, à 44 ans seulement.\n\nLe lien avec Sienne resta toujours fort. Il appartenait à la Contrada della Pantera et en devint capitaine en 1966. La victoire de la Pantera au Palio du 2 juillet 1966 fut un moment de grande joie personnelle, rappelé même dans les dernières années de sa vie.",
+        "de": "Ettore Bastianini war einer der berühmtesten italienischen Bariton des 20. Jahrhunderts. In Siena in einer Familie bescheidener Verhältnisse geboren, verbrachte er seine Kindheit im Viertel der Contrada della Pantera. Bevor er die musikalische Laufbahn einschlug, arbeitete er als Laufbursche in einer Konditorei. Der Besitzer des Geschäfts, ein Opernliebhaber, erkannte seine stimmlichen Qualitäten und ermutigte ihn, Gesang zu studieren.\n\nEr begann seine Ausbildung als Bass und debütierte 1945 am Teatro Alighieri in Ravenna als Colline in Puccinis La Bohème. Einige Jahre sang er weiter als Bass, erkannte dann aber, dass seine stimmlichen Eigenschaften besser zum Baritonfach passten. Er studierte bei Luciano Bettarini und baute eine neue Technik auf, die es ihm erlaubte, eine besonders weite, kraftvolle und unverwechselbare Stimme zu entwickeln.\n\nDas Debüt als Bariton 1952 in Tschaikowskis Pique Dame markierte den Beginn seines internationalen Durchbruchs. Von da an trat er in den größten Opernhäusern der Welt auf, darunter die Mailänder Scala, die Metropolitan Opera in New York, die Wiener Oper und Covent Garden in London. Besonders geschätzt wurde er im Verdi-Repertoire, in dem er sich durch Ausdruckskraft und Klangfarbe auszeichnete.\n\nZu seinen berühmtesten Rollen zählen Rigoletto, Giorgio Germont in La traviata, Graf Luna im Troubadour und Rodrigo in Don Carlo. Seine Interpretation der Verdi-Figuren blieb für viele Opernfreunde und Forscher ein Maßstab.\n\nSeine Karriere wurde vorzeitig durch eine schwere Halserkrankung unterbrochen, die seine Stimmfähigkeit zunehmend beeinträchtigte. Bastianini trat weiter auf, solange es ihm möglich war, musste seine Tätigkeit aber drastisch einschränken. Er starb im Januar 1967 in Sirmione, mit nur 44 Jahren.\n\nDie Verbindung zu Siena blieb stets stark. Er gehörte der Contrada della Pantera an und wurde 1966 ihr Capitano. Der Sieg der Pantera im Palio vom 2. Juli 1966 war ein Moment großer persönlicher Freude, an den man sich auch in seinen letzten Lebensjahren erinnerte.",
+        "es": "Ettore Bastianini fue uno de los barítonos italianos más célebres del siglo XX. Nacido en Siena en una familia de condición modesta, pasó la infancia en el barrio de la Contrada della Pantera. Antes de emprender la carrera musical trabajó como mozo en una pastelería. Fue el propietario del negocio, aficionado a la ópera, quien reconoció sus cualidades vocales y lo animó a estudiar canto.\n\nInició la formación como bajo y debutó en 1945 en el Teatro Alighieri de Rávena en el papel de Colline en La Bohème de Puccini. Durante algunos años continuó como bajo, pero comprendió después que sus características vocales se adaptaban mejor al registro de barítono. Estudió con Luciano Bettarini y construyó una nueva técnica, que le permitió desarrollar una voz particularmente amplia, potente y reconocible.\n\nEl debut como barítono en 1952, con La dama de picas de Chaikovski, marcó el comienzo de su consagración internacional. Desde entonces actuó en los mayores teatros del mundo, entre ellos la Scala de Milán, el Metropolitan Opera de Nueva York, la Ópera de Viena y el Covent Garden de Londres. Fue apreciado sobre todo en el repertorio verdiano, en el que destacó por la fuerza expresiva y la calidad del timbre.\n\nEntre sus papeles más célebres figuran Rigoletto, Giorgio Germont en La traviata, el conde de Luna en El trovador y Rodrigo en Don Carlo. Su interpretación de los personajes verdianos ha seguido siendo una referencia para muchos aficionados y estudiosos de la lírica.\n\nSu carrera se interrumpió prematuramente por una grave enfermedad de la garganta, que comprometió progresivamente sus capacidades vocales. Bastianini siguió actuando mientras pudo, pero tuvo que reducir drásticamente su actividad. Murió en Sirmione en enero de 1967, con solo 44 años.\n\nEl vínculo con Siena siguió siempre siendo fuerte. Pertenecía a la Contrada della Pantera y en 1966 se convirtió en su capitán. La victoria de la Pantera en el Palio del 2 de julio de 1966 fue un momento de gran alegría personal, recordado incluso en los últimos años de su vida."
+      },
+      "curiosita": {
+        "it": [
+          "La sua carriera iniziò come basso e si trasformò in quella di uno dei baritoni più apprezzati della sua generazione.",
+          "Il suo timbro vocale, caratterizzato da grande potenza e profondità, gli valse l'appellativo di «voce di bronzo e di velluto».",
+          "Fu molto legato alla Contrada della Pantera, nella quale ricoprì anche la carica di capitano.",
+          "La documentazione sulla sua vita e sulla sua attività è conservata anche presso il Centro di Documentazione della Contrada della Pantera."
+        ],
+        "en": [
+          "His career began as a bass and turned into that of one of the most admired baritones of his generation.",
+          "His vocal timbre, marked by great power and depth, earned him the epithet «voice of bronze and velvet».",
+          "He was very attached to the Contrada della Pantera, in which he also held the office of captain.",
+          "Documentation on his life and career is also kept at the Documentation Centre of the Contrada della Pantera."
+        ],
+        "fr": [
+          "Sa carrière commença comme basse et se transforma en celle de l'un des barytons les plus appréciés de sa génération.",
+          "Son timbre vocal, d'une grande puissance et profondeur, lui valut le surnom de « voix de bronze et de velours ».",
+          "Il fut très attaché à la Contrada della Pantera, dans laquelle il exerça aussi la charge de capitaine.",
+          "La documentation sur sa vie et son activité est aussi conservée au Centre de documentation de la Contrada della Pantera."
+        ],
+        "de": [
+          "Seine Karriere begann als Bass und wurde zu der eines der meistgeschätzten Bariton seiner Generation.",
+          "Sein Stimmklang, von großer Kraft und Tiefe, trug ihm den Beinamen «Stimme aus Bronze und Samt» ein.",
+          "Er war sehr mit der Contrada della Pantera verbunden, in der er auch das Amt des Capitano innehatte.",
+          "Dokumente zu seinem Leben und Wirken werden auch im Dokumentationszentrum der Contrada della Pantera aufbewahrt."
+        ],
+        "es": [
+          "Su carrera comenzó como bajo y se transformó en la de uno de los barítonos más apreciados de su generación.",
+          "Su timbre vocal, de gran potencia y profundidad, le valió el apelativo de «voz de bronce y terciopelo».",
+          "Estuvo muy ligado a la Contrada della Pantera, en la que desempeñó también el cargo de capitán.",
+          "La documentación sobre su vida y su actividad se conserva también en el Centro de Documentación de la Contrada della Pantera."
+        ]
+      },
+      "luoghi": [
+        "cattedrale-di-santa-maria-assunta",
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "cattedrale-di-santa-maria-assunta": {
+          "tipo": {
+            "it": "Legame diretto – formazione",
+            "en": "Direct link – early years",
+            "fr": "Lien direct – jeunesse",
+            "de": "Direkter Bezug – Jugend",
+            "es": "Vínculo directo – juventud"
+          },
+          "testo": {
+            "it": "Da giovane cantò nel coro della cattedrale, prima di intraprendere la carriera professionale.",
+            "en": "As a young man he sang in the cathedral choir, before starting his professional career.",
+            "fr": "Jeune, il chanta dans le chœur de la cathédrale, avant d'entamer sa carrière professionnelle.",
+            "de": "Als junger Mann sang er im Chor der Kathedrale, bevor er die professionelle Laufbahn einschlug.",
+            "es": "De joven cantó en el coro de la catedral, antes de emprender la carrera profesional."
+          }
+        },
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "È il luogo in cui si svolge il Palio e permette di raccontare il suo coinvolgimento nella vita contradaiola.",
+            "en": "It is where the Palio is run, and lets us tell the story of his involvement in contrada life.",
+            "fr": "C'est le lieu où se déroule le Palio et il permet de raconter son engagement dans la vie des contrade.",
+            "de": "Hier findet der Palio statt; er erlaubt es, sein Engagement im Leben der Contrade zu erzählen.",
+            "es": "Es el lugar donde se celebra el Palio y permite contar su implicación en la vida de las contradas."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "guido-chigi-saracini",
+      "nome": "Guido Chigi Saracini",
+      "nascita": 1880,
+      "morte": 1965,
+      "professione": {
+        "it": "Aristocratico, musicista e mecenate",
+        "en": "Aristocrat, musician and patron of the arts",
+        "fr": "Aristocrate, musicien et mécène",
+        "de": "Aristokrat, Musiker und Mäzen",
+        "es": "Aristócrata, músico y mecenas"
+      },
+      "luogoNascita": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataNascita": {
+        "it": "8 marzo 1880",
+        "en": "8 March 1880",
+        "fr": "8 mars 1880",
+        "de": "8. März 1880",
+        "es": "8 de marzo de 1880"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "18 novembre 1965",
+        "en": "18 November 1965",
+        "fr": "18 novembre 1965",
+        "de": "18. November 1965",
+        "es": "18 de noviembre de 1965"
+      },
+      "biografia": {
+        "it": "Guido Chigi Saracini è stato un aristocratico, musicista e mecenate senese, ricordato soprattutto per aver fondato l'Accademia Musicale Chigiana, una delle istituzioni più importanti per la formazione musicale internazionale.\n\nAppartenente alla famiglia Chigi Saracini, crebbe in un ambiente aristocratico e culturale che favorì il suo interesse per la musica. Studiò composizione a Firenze e si dedicò alla pratica musicale, alla raccolta di strumenti e partiture e alla promozione di concerti. Non fu soltanto un appassionato: volle trasformare la propria passione in un progetto culturale stabile per la città.\n\nNel 1908 fondò il Quintetto Senese, un gruppo musicale che organizzava concerti e iniziative benefiche. Nel 1923 inaugurò nel palazzo di famiglia una sala da concerto, dando avvio alla stagione Micat in Vertice, destinata a diventare uno degli appuntamenti musicali più prestigiosi di Siena.\n\nLa sua iniziativa più importante arrivò nel 1932, quando fondò l'Accademia Musicale Chigiana. L'obiettivo era creare una scuola di perfezionamento destinata a giovani musicisti di talento, affidando l'insegnamento a interpreti e docenti di fama internazionale. L'Accademia contribuì a portare a Siena musicisti provenienti da numerosi paesi e trasformò la città in un centro di riferimento per la formazione musicale.\n\nChigi Saracini mise a disposizione il proprio patrimonio, il palazzo e le risorse personali per sostenere l'istituzione. La sua attività di mecenate si sviluppò in un periodo difficile della storia europea, ma riuscì a mantenere una continuità culturale che avrebbe garantito all'Accademia una reputazione internazionale.\n\nMorì a Siena nel 1965. Lasciò le proprie proprietà alla Fondazione Accademia Musicale Chigiana, affinché l'attività musicale potesse proseguire anche dopo la sua scomparsa. Il suo lascito è ancora oggi visibile nella presenza dell'Accademia e nella vita culturale cittadina.",
+        "en": "Guido Chigi Saracini was a Sienese aristocrat, musician and patron of the arts, remembered above all for founding the Accademia Musicale Chigiana, one of the most important institutions for international musical training.\n\nA member of the Chigi Saracini family, he grew up in an aristocratic and cultured environment that nurtured his interest in music. He studied composition in Florence and devoted himself to musical practice, to collecting instruments and scores, and to promoting concerts. He was not merely an enthusiast: he wanted to turn his passion into a lasting cultural project for the city.\n\nIn 1908 he founded the Quintetto Senese, a musical group that organised concerts and charity events. In 1923 he inaugurated a concert hall in the family palace, launching the Micat in Vertice season, destined to become one of Siena's most prestigious musical events.\n\nHis most important initiative came in 1932, when he founded the Accademia Musicale Chigiana. The aim was to create an advanced school for talented young musicians, entrusting teaching to internationally renowned performers and teachers. The Academy helped bring musicians from many countries to Siena and made the city a reference point for musical training.\n\nChigi Saracini placed his estate, the palace and his personal resources at the service of the institution. His patronage developed in a difficult period of European history, but he managed to maintain a cultural continuity that would secure the Academy an international reputation.\n\nHe died in Siena in 1965. He left his properties to the Fondazione Accademia Musicale Chigiana, so that musical activity could continue after his death. His legacy is still visible today in the Academy's presence and in the city's cultural life.",
+        "fr": "Guido Chigi Saracini fut un aristocrate, musicien et mécène siennois, surtout connu pour avoir fondé l'Accademia Musicale Chigiana, l'une des institutions les plus importantes pour la formation musicale internationale.\n\nMembre de la famille Chigi Saracini, il grandit dans un milieu aristocratique et cultivé qui favorisa son intérêt pour la musique. Il étudia la composition à Florence et se consacra à la pratique musicale, à la collecte d'instruments et de partitions et à la promotion de concerts. Il ne fut pas un simple passionné : il voulut transformer sa passion en un projet culturel durable pour la ville.\n\nEn 1908, il fonda le Quintetto Senese, un groupe musical qui organisait des concerts et des initiatives de bienfaisance. En 1923, il inaugura dans le palais familial une salle de concert, lançant la saison Micat in Vertice, destinée à devenir l'un des rendez-vous musicaux les plus prestigieux de Sienne.\n\nSon initiative la plus importante date de 1932, quand il fonda l'Accademia Musicale Chigiana. L'objectif était de créer une école de perfectionnement destinée aux jeunes musiciens de talent, en confiant l'enseignement à des interprètes et des professeurs de renommée internationale. L'Académie contribua à attirer à Sienne des musiciens de nombreux pays et fit de la ville un centre de référence pour la formation musicale.\n\nChigi Saracini mit à disposition son patrimoine, le palais et ses ressources personnelles pour soutenir l'institution. Son activité de mécène se développa pendant une période difficile de l'histoire européenne, mais il parvint à maintenir une continuité culturelle qui garantirait à l'Académie une réputation internationale.\n\nIl mourut à Sienne en 1965. Il légua ses propriétés à la Fondazione Accademia Musicale Chigiana, afin que l'activité musicale puisse se poursuivre après sa disparition. Son héritage est encore visible aujourd'hui dans la présence de l'Académie et dans la vie culturelle de la ville.",
+        "de": "Guido Chigi Saracini war ein sienesischer Aristokrat, Musiker und Mäzen, vor allem als Gründer der Accademia Musicale Chigiana in Erinnerung, einer der wichtigsten Einrichtungen für die internationale Musikausbildung.\n\nAls Mitglied der Familie Chigi Saracini wuchs er in einem aristokratischen und kulturellen Umfeld auf, das sein Interesse an der Musik förderte. Er studierte Komposition in Florenz und widmete sich der Musikpraxis, dem Sammeln von Instrumenten und Partituren und der Förderung von Konzerten. Er war nicht nur Liebhaber: Er wollte seine Leidenschaft in ein dauerhaftes Kulturprojekt für die Stadt verwandeln.\n\n1908 gründete er das Quintetto Senese, eine Musikgruppe, die Konzerte und Wohltätigkeitsveranstaltungen organisierte. 1923 eröffnete er im Familienpalast einen Konzertsaal und begründete damit die Saison Micat in Vertice, die zu einem der angesehensten Musiktermine Sienas werden sollte.\n\nSeine wichtigste Initiative erfolgte 1932 mit der Gründung der Accademia Musicale Chigiana. Ziel war eine Meisterschule für talentierte junge Musiker, deren Unterricht international renommierten Interpreten und Lehrern anvertraut wurde. Die Akademie brachte Musiker aus zahlreichen Ländern nach Siena und machte die Stadt zu einem Bezugspunkt der Musikausbildung.\n\nChigi Saracini stellte sein Vermögen, den Palast und seine persönlichen Mittel zur Unterstützung der Einrichtung zur Verfügung. Sein Mäzenatentum entfaltete sich in einer schwierigen Zeit der europäischen Geschichte, doch es gelang ihm, eine kulturelle Kontinuität zu wahren, die der Akademie internationales Ansehen sichern sollte.\n\nEr starb 1965 in Siena. Seinen Besitz vermachte er der Fondazione Accademia Musicale Chigiana, damit die musikalische Tätigkeit auch nach seinem Tod fortgesetzt werden konnte. Sein Vermächtnis ist bis heute in der Präsenz der Akademie und im Kulturleben der Stadt sichtbar.",
+        "es": "Guido Chigi Saracini fue un aristócrata, músico y mecenas sienés, recordado sobre todo por haber fundado la Accademia Musicale Chigiana, una de las instituciones más importantes para la formación musical internacional.\n\nPerteneciente a la familia Chigi Saracini, creció en un ambiente aristocrático y cultural que favoreció su interés por la música. Estudió composición en Florencia y se dedicó a la práctica musical, a la colección de instrumentos y partituras y a la promoción de conciertos. No fue solo un aficionado: quiso convertir su pasión en un proyecto cultural estable para la ciudad.\n\nEn 1908 fundó el Quintetto Senese, un grupo musical que organizaba conciertos e iniciativas benéficas. En 1923 inauguró en el palacio familiar una sala de conciertos, dando inicio a la temporada Micat in Vertice, destinada a convertirse en una de las citas musicales más prestigiosas de Siena.\n\nSu iniciativa más importante llegó en 1932, cuando fundó la Accademia Musicale Chigiana. El objetivo era crear una escuela de perfeccionamiento para jóvenes músicos de talento, confiando la enseñanza a intérpretes y docentes de fama internacional. La Academia contribuyó a llevar a Siena a músicos de numerosos países y convirtió la ciudad en un centro de referencia para la formación musical.\n\nChigi Saracini puso a disposición su patrimonio, el palacio y sus recursos personales para sostener la institución. Su actividad de mecenas se desarrolló en un periodo difícil de la historia europea, pero logró mantener una continuidad cultural que garantizaría a la Academia una reputación internacional.\n\nMurió en Siena en 1965. Legó sus propiedades a la Fondazione Accademia Musicale Chigiana, para que la actividad musical pudiera continuar tras su desaparición. Su legado sigue siendo visible hoy en la presencia de la Academia y en la vida cultural de la ciudad."
+      },
+      "curiosita": {
+        "it": [
+          "Nel 1923 inaugurò la stagione concertistica Micat in Vertice, che continua a essere un appuntamento centrale della vita musicale senese.",
+          "Nel 1932 fondò l'Accademia Musicale Chigiana, nata come scuola di perfezionamento per giovani musicisti.",
+          "Il suo palazzo di famiglia divenne un centro di incontri musicali e culturali, ospitando concerti e manifestazioni internazionali.",
+          "Era appassionato di strumenti musicali antichi e di partiture storiche, che collezionava con grande interesse."
+        ],
+        "en": [
+          "In 1923 he inaugurated the Micat in Vertice concert season, which remains a central event in Sienese musical life.",
+          "In 1932 he founded the Accademia Musicale Chigiana, created as an advanced school for young musicians.",
+          "His family palace became a centre of musical and cultural gatherings, hosting international concerts and events.",
+          "He was passionate about antique musical instruments and historical scores, which he collected with great interest."
+        ],
+        "fr": [
+          "En 1923, il inaugura la saison de concerts Micat in Vertice, qui reste un rendez-vous central de la vie musicale siennoise.",
+          "En 1932, il fonda l'Accademia Musicale Chigiana, née comme école de perfectionnement pour jeunes musiciens.",
+          "Son palais familial devint un centre de rencontres musicales et culturelles, accueillant des concerts et des manifestations internationales.",
+          "Il était passionné d'instruments de musique anciens et de partitions historiques, qu'il collectionnait avec grand intérêt."
+        ],
+        "de": [
+          "1923 eröffnete er die Konzertsaison Micat in Vertice, die bis heute ein zentraler Termin des sienesischen Musiklebens ist.",
+          "1932 gründete er die Accademia Musicale Chigiana, entstanden als Meisterschule für junge Musiker.",
+          "Sein Familienpalast wurde zu einem Zentrum musikalischer und kultureller Begegnungen und beherbergte internationale Konzerte und Veranstaltungen.",
+          "Er war begeistert von antiken Musikinstrumenten und historischen Partituren, die er mit großem Interesse sammelte."
+        ],
+        "es": [
+          "En 1923 inauguró la temporada de conciertos Micat in Vertice, que sigue siendo una cita central de la vida musical sienesa.",
+          "En 1932 fundó la Accademia Musicale Chigiana, nacida como escuela de perfeccionamiento para jóvenes músicos.",
+          "Su palacio familiar se convirtió en un centro de encuentros musicales y culturales, que acogió conciertos y manifestaciones internacionales.",
+          "Era un apasionado de los instrumentos musicales antiguos y de las partituras históricas, que coleccionaba con gran interés."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "Il palazzo di famiglia sorge a pochi passi dalla piazza, creando un collegamento diretto tra la sua storia personale e il cuore civico di Siena.",
+            "en": "The family palace stands a few steps from the square, creating a direct link between his personal story and the civic heart of Siena.",
+            "fr": "Le palais familial se dresse à quelques pas de la place, créant un lien direct entre son histoire personnelle et le cœur civique de Sienne.",
+            "de": "Der Familienpalast liegt nur wenige Schritte von der Piazza entfernt und schafft eine direkte Verbindung zwischen seiner persönlichen Geschichte und dem bürgerlichen Herzen Sienas.",
+            "es": "El palacio familiar se alza a pocos pasos de la plaza, creando un vínculo directo entre su historia personal y el corazón cívico de Siena."
+          }
+        }
+      },
+      "collegati": []
+    },
+    {
+      "id": "alessandro-falassi",
+      "nome": "Alessandro Falassi",
+      "nascita": 1945,
+      "morte": 2014,
+      "professione": {
+        "it": "Antropologo culturale e docente universitario",
+        "en": "Cultural anthropologist and university lecturer",
+        "fr": "Anthropologue culturel et enseignant universitaire",
+        "de": "Kulturanthropologe und Universitätsdozent",
+        "es": "Antropólogo cultural y docente universitario"
+      },
+      "luogoNascita": {
+        "it": "Castellina in Chianti",
+        "en": "Castellina in Chianti",
+        "fr": "Castellina in Chianti",
+        "de": "Castellina in Chianti",
+        "es": "Castellina in Chianti"
+      },
+      "dataNascita": {
+        "it": "1945",
+        "en": "1945",
+        "fr": "1945",
+        "de": "1945",
+        "es": "1945"
+      },
+      "luogoMorte": {
+        "it": "Siena",
+        "en": "Siena",
+        "fr": "Sienne",
+        "de": "Siena",
+        "es": "Siena"
+      },
+      "dataMorte": {
+        "it": "2014",
+        "en": "2014",
+        "fr": "2014",
+        "de": "2014",
+        "es": "2014"
+      },
+      "biografia": {
+        "it": "Alessandro Falassi è stato un antropologo culturale italiano, docente universitario e uno dei principali studiosi delle tradizioni popolari toscane, con particolare attenzione al Palio di Siena. Pur non essendo nato nella città, sviluppò con Siena un legame professionale e culturale profondo, dedicando una parte importante della propria attività di ricerca allo studio delle contrade, delle feste e dei rituali cittadini.\n\nDopo gli studi e le prime esperienze di ricerca, dal 1980 insegnò discipline demoetnoantropologiche all'Università per Stranieri di Siena. Tra il 1985 e il 1992 ne fu direttore, contribuendo allo sviluppo dell'istituzione e alla sua attività culturale e scientifica. In seguito svolse attività di insegnamento e ricerca anche presso la University of California, Berkeley.\n\nIl suo lavoro si concentrò sulle forme attraverso cui le comunità costruiscono e trasmettono la propria identità. Studiò le feste popolari, i rituali, le tradizioni gastronomiche, l'abbigliamento tradizionale e le manifestazioni collettive. In questo ambito il Palio di Siena rappresentò uno dei suoi principali campi di ricerca.\n\nCon Alan Dundes pubblicò nel 1975 La terra in piazza. An interpretation of the Palio of Siena, uno studio che contribuì a far conoscere il Palio anche al pubblico internazionale attraverso gli strumenti dell'antropologia culturale. Il suo approccio non si limitava alla corsa dei cavalli: analizzava il significato sociale delle contrade, i rituali, le rivalità, le appartenenze e il rapporto tra la festa e la memoria collettiva.\n\nFalassi contribuì così a superare una lettura del Palio come semplice manifestazione folkloristica o spettacolo turistico. Nei suoi studi emergeva il valore della festa come sistema complesso di relazioni, simboli e pratiche attraverso cui la comunità senese esprime la propria continuità storica.\n\nSi occupò anche di tradizioni popolari di altre aree italiane e di cultura alimentare, dimostrando un interesse ampio per le forme della vita quotidiana e per il patrimonio immateriale. Morì a Siena nel 2014.",
+        "en": "Alessandro Falassi was an Italian cultural anthropologist, university lecturer and one of the leading scholars of Tuscan popular traditions, with particular attention to the Palio of Siena. Although not born in the city, he developed a deep professional and cultural bond with Siena, devoting an important part of his research to the study of the contrade, festivals and civic rituals.\n\nAfter his studies and first research experiences, from 1980 he taught demo-ethno-anthropological subjects at the Università per Stranieri di Siena. Between 1985 and 1992 he was its director, contributing to the institution's development and to its cultural and scientific activity. Later he also taught and researched at the University of California, Berkeley.\n\nHis work focused on the ways in which communities build and transmit their identity. He studied popular festivals, rituals, culinary traditions, traditional dress and collective events. In this field the Palio of Siena was one of his main areas of research.\n\nWith Alan Dundes he published in 1975 La terra in piazza. An interpretation of the Palio of Siena, a study that helped make the Palio known to an international public through the tools of cultural anthropology. His approach was not limited to the horse race: he analysed the social meaning of the contrade, rituals, rivalries, affiliations and the relationship between the festival and collective memory.\n\nFalassi thus helped to move beyond a reading of the Palio as a mere folkloric event or tourist spectacle. His studies brought out the value of the festival as a complex system of relationships, symbols and practices through which the Sienese community expresses its historical continuity.\n\nHe also studied popular traditions of other areas of Italy and food culture, showing a broad interest in the forms of everyday life and in intangible heritage. He died in Siena in 2014.",
+        "fr": "Alessandro Falassi fut un anthropologue culturel italien, enseignant universitaire et l'un des principaux spécialistes des traditions populaires toscanes, avec une attention particulière pour le Palio de Sienne. Bien que non né dans la ville, il développa avec Sienne un lien professionnel et culturel profond, consacrant une part importante de sa recherche à l'étude des contrade, des fêtes et des rituels de la ville.\n\nAprès ses études et ses premières expériences de recherche, il enseigna à partir de 1980 les disciplines démo-ethno-anthropologiques à l'Università per Stranieri di Siena. Entre 1985 et 1992, il en fut le directeur, contribuant au développement de l'institution et à son activité culturelle et scientifique. Il enseigna et mena ensuite des recherches aussi à l'University of California, Berkeley.\n\nSon travail se concentra sur les formes par lesquelles les communautés construisent et transmettent leur identité. Il étudia les fêtes populaires, les rituels, les traditions gastronomiques, le costume traditionnel et les manifestations collectives. Dans ce domaine, le Palio de Sienne représenta l'un de ses principaux terrains de recherche.\n\nAvec Alan Dundes, il publia en 1975 La terra in piazza. An interpretation of the Palio of Siena, une étude qui contribua à faire connaître le Palio aussi au public international grâce aux outils de l'anthropologie culturelle. Son approche ne se limitait pas à la course de chevaux : il analysait la signification sociale des contrade, les rituels, les rivalités, les appartenances et le rapport entre la fête et la mémoire collective.\n\nFalassi contribua ainsi à dépasser une lecture du Palio comme simple manifestation folklorique ou spectacle touristique. Ses études faisaient ressortir la valeur de la fête comme système complexe de relations, de symboles et de pratiques par lesquels la communauté siennoise exprime sa continuité historique.\n\nIl s'occupa aussi de traditions populaires d'autres régions italiennes et de culture alimentaire, démontrant un large intérêt pour les formes de la vie quotidienne et pour le patrimoine immatériel. Il mourut à Sienne en 2014.",
+        "de": "Alessandro Falassi war ein italienischer Kulturanthropologe, Universitätsdozent und einer der wichtigsten Erforscher der toskanischen Volkstraditionen, mit besonderem Augenmerk auf den Palio von Siena. Obwohl nicht in der Stadt geboren, entwickelte er eine tiefe berufliche und kulturelle Bindung an Siena und widmete einen wichtigen Teil seiner Forschung dem Studium der Contrade, der Feste und der städtischen Rituale.\n\nNach dem Studium und ersten Forschungserfahrungen lehrte er ab 1980 volkskundlich-ethnoanthropologische Fächer an der Università per Stranieri di Siena. Zwischen 1985 und 1992 war er deren Rektor und trug zur Entwicklung der Einrichtung und ihrer kulturellen und wissenschaftlichen Tätigkeit bei. Später lehrte und forschte er auch an der University of California, Berkeley.\n\nSeine Arbeit konzentrierte sich auf die Formen, durch die Gemeinschaften ihre Identität aufbauen und weitergeben. Er untersuchte Volksfeste, Rituale, gastronomische Traditionen, traditionelle Kleidung und kollektive Veranstaltungen. In diesem Bereich war der Palio von Siena eines seiner wichtigsten Forschungsfelder.\n\nMit Alan Dundes veröffentlichte er 1975 La terra in piazza. An interpretation of the Palio of Siena, eine Studie, die dazu beitrug, den Palio mit den Mitteln der Kulturanthropologie auch einem internationalen Publikum bekannt zu machen. Sein Ansatz beschränkte sich nicht auf das Pferderennen: Er analysierte die soziale Bedeutung der Contrade, die Rituale, Rivalitäten, Zugehörigkeiten und das Verhältnis zwischen Fest und kollektivem Gedächtnis.\n\nFalassi trug so dazu bei, eine Lesart des Palio als bloße folkloristische Veranstaltung oder touristisches Schauspiel zu überwinden. In seinen Studien trat der Wert des Festes als komplexes System aus Beziehungen, Symbolen und Praktiken hervor, durch das die sienesische Gemeinschaft ihre historische Kontinuität ausdrückt.\n\nEr beschäftigte sich auch mit Volkstraditionen anderer Gebiete Italiens und mit Esskultur und zeigte damit ein breites Interesse an den Formen des Alltagslebens und am immateriellen Erbe. Er starb 2014 in Siena.",
+        "es": "Alessandro Falassi fue un antropólogo cultural italiano, docente universitario y uno de los principales estudiosos de las tradiciones populares toscanas, con particular atención al Palio de Siena. Aunque no nació en la ciudad, desarrolló con Siena un vínculo profesional y cultural profundo, dedicando una parte importante de su investigación al estudio de las contradas, las fiestas y los rituales ciudadanos.\n\nTras los estudios y las primeras experiencias de investigación, desde 1980 enseñó disciplinas demoetnoantropológicas en la Università per Stranieri di Siena. Entre 1985 y 1992 fue su director, contribuyendo al desarrollo de la institución y a su actividad cultural y científica. Después enseñó e investigó también en la University of California, Berkeley.\n\nSu trabajo se centró en las formas mediante las cuales las comunidades construyen y transmiten su identidad. Estudió las fiestas populares, los rituales, las tradiciones gastronómicas, el vestuario tradicional y las manifestaciones colectivas. En este ámbito, el Palio de Siena fue uno de sus principales campos de investigación.\n\nCon Alan Dundes publicó en 1975 La terra in piazza. An interpretation of the Palio of Siena, un estudio que contribuyó a dar a conocer el Palio también al público internacional mediante los instrumentos de la antropología cultural. Su enfoque no se limitaba a la carrera de caballos: analizaba el significado social de las contradas, los rituales, las rivalidades, las pertenencias y la relación entre la fiesta y la memoria colectiva.\n\nFalassi contribuyó así a superar una lectura del Palio como simple manifestación folclórica o espectáculo turístico. En sus estudios emergía el valor de la fiesta como sistema complejo de relaciones, símbolos y prácticas a través del cual la comunidad sienesa expresa su continuidad histórica.\n\nSe ocupó también de tradiciones populares de otras áreas de Italia y de cultura alimentaria, demostrando un interés amplio por las formas de la vida cotidiana y por el patrimonio inmaterial. Murió en Siena en 2014."
+      },
+      "curiosita": {
+        "it": [
+          "Il suo studio sul Palio, realizzato insieme ad Alan Dundes, è uno dei contributi antropologici più citati sulla festa senese.",
+          "Considerava il Palio non soltanto una competizione, ma un fenomeno culturale che coinvolge identità, memoria, ritualità e relazioni sociali.",
+          "La sua ricerca ha contribuito a far conoscere le contrade e le tradizioni senesi anche fuori dall'Italia.",
+          "Si occupò anche di gastronomia e tradizioni alimentari, considerate parte integrante del patrimonio culturale di una comunità."
+        ],
+        "en": [
+          "His study of the Palio, carried out with Alan Dundes, is one of the most cited anthropological contributions on the Sienese festival.",
+          "He considered the Palio not merely a competition but a cultural phenomenon involving identity, memory, ritual and social relations.",
+          "His research helped make the contrade and Sienese traditions known outside Italy as well.",
+          "He also studied gastronomy and food traditions, regarded as an integral part of a community's cultural heritage."
+        ],
+        "fr": [
+          "Son étude sur le Palio, réalisée avec Alan Dundes, est l'une des contributions anthropologiques les plus citées sur la fête siennoise.",
+          "Il considérait le Palio non seulement comme une compétition, mais comme un phénomène culturel qui engage identité, mémoire, ritualité et relations sociales.",
+          "Ses recherches ont contribué à faire connaître les contrade et les traditions siennoises aussi hors d'Italie.",
+          "Il s'occupa aussi de gastronomie et de traditions alimentaires, considérées comme partie intégrante du patrimoine culturel d'une communauté."
+        ],
+        "de": [
+          "Seine gemeinsam mit Alan Dundes erarbeitete Studie über den Palio ist einer der meistzitierten anthropologischen Beiträge zum sienesischen Fest.",
+          "Er betrachtete den Palio nicht nur als Wettkampf, sondern als kulturelles Phänomen, das Identität, Gedächtnis, Ritualität und soziale Beziehungen einschließt.",
+          "Seine Forschung trug dazu bei, die Contrade und die sienesischen Traditionen auch außerhalb Italiens bekannt zu machen.",
+          "Er beschäftigte sich auch mit Gastronomie und Esstraditionen, die er als festen Bestandteil des kulturellen Erbes einer Gemeinschaft ansah."
+        ],
+        "es": [
+          "Su estudio sobre el Palio, realizado junto con Alan Dundes, es una de las aportaciones antropológicas más citadas sobre la fiesta sienesa.",
+          "Consideraba el Palio no solo una competición, sino un fenómeno cultural que implica identidad, memoria, ritualidad y relaciones sociales.",
+          "Su investigación contribuyó a dar a conocer las contradas y las tradiciones sienesas también fuera de Italia.",
+          "Se ocupó también de gastronomía y tradiciones alimentarias, consideradas parte integrante del patrimonio cultural de una comunidad."
+        ]
+      },
+      "luoghi": [
+        "piazza-del-campo"
+      ],
+      "luoghiNote": {
+        "piazza-del-campo": {
+          "tipo": {
+            "it": "Legame storico – contesto",
+            "en": "Historical link – context",
+            "fr": "Lien historique – contexte",
+            "de": "Historischer Bezug – Kontext",
+            "es": "Vínculo histórico – contexto"
+          },
+          "testo": {
+            "it": "È il luogo centrale dei suoi studi sul Palio e il punto di partenza ideale per raccontare la dimensione rituale della manifestazione.",
+            "en": "It is the central place of his studies of the Palio and the ideal starting point for telling the ritual dimension of the event.",
+            "fr": "C'est le lieu central de ses études sur le Palio et le point de départ idéal pour raconter la dimension rituelle de la manifestation.",
+            "de": "Sie ist der zentrale Ort seiner Studien zum Palio und der ideale Ausgangspunkt, um die rituelle Dimension der Veranstaltung zu erzählen.",
+            "es": "Es el lugar central de sus estudios sobre el Palio y el punto de partida ideal para contar la dimensión ritual de la manifestación."
+          }
+        }
+      },
+      "collegati": []
     }
   ]
 }
