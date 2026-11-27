@@ -1,5 +1,5 @@
 {
- "versione": "bef93f0e4701",
+ "versione": "6d1a69164722",
  "file": [
   {
    "path": "assets/aguzza/.gitkeep",
@@ -108,6 +108,30 @@
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/libreria-piccolomini_5.webp",
    "sha256": "5a5c8541b36d9cfb2a5f0b605987ab150d5106dfd08792049ee2b1f7580544dd",
    "byte": 224836
+  },
+  {
+   "path": "assets/luoghi/piazza-del-campo.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/piazza-del-campo.webp",
+   "sha256": "88723d622862edec7641bc1532ec5f1207cb6d16095741008ebe52b3d2700233",
+   "byte": 107542
+  },
+  {
+   "path": "assets/luoghi/piazza-del-campo_2.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/piazza-del-campo_2.webp",
+   "sha256": "a0f94d60004adc31fca0d0beaca7debf0cdef9bed0028d9ddfad5c891a992828",
+   "byte": 104450
+  },
+  {
+   "path": "assets/luoghi/piazza-del-campo_3.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/piazza-del-campo_3.webp",
+   "sha256": "2fb067f1af38e75ca43e82414b9501a5e72fd265522b4a8cd5600242947ff836",
+   "byte": 104552
+  },
+  {
+   "path": "assets/luoghi/piazza-del-campo_4.webp",
+   "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/assets/luoghi/piazza-del-campo_4.webp",
+   "sha256": "190fe22e9758b19814e0e977aa9d46899c96515067d8f74a390ded6562c4f02b",
+   "byte": 134476
   },
   {
    "path": "assets/mappa-siena.webp",
@@ -3652,8 +3676,8 @@
   {
    "path": "dati/immagini.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/immagini.json",
-   "sha256": "f28b161e11609943e21ea59fa948c320f1abb2be027b20c3c3c60a299c7d0ec4",
-   "byte": 234
+   "sha256": "85cfd76a86fc6d5301ac29d7d9c7e0de76464a9def9c0ad2fe180fbee57fff2f",
+   "byte": 259
   },
   {
    "path": "dati/itinerari.json",
@@ -3664,8 +3688,8 @@
   {
    "path": "dati/luoghi.json",
    "url": "https://raw.githubusercontent.com/federicocoppola73/toscana-dati/main/pacchetti/siena/dati/luoghi.json",
-   "sha256": "2293ce47e09fc7924798d6bb990cd0a4f54124c610ef0ad980c4983b15e294f1",
-   "byte": 105539
+   "sha256": "250fd976b5fa5da8effc351d59a68a6b7632bed61de18cc4e31d24ab92a7f71b",
+   "byte": 105907
   },
   {
    "path": "dati/mappa.json",
@@ -3729,13 +3753,6 @@
   }
  ],
  "novita": [
-  {
-   "versione": "c3cff0177ca1",
-   "da": "9e7c14adfd94",
-   "data": "2026-11-27",
-   "mezzi": true,
-   "byte": 837597
-  },
   {
    "versione": "a67eedcb3972",
    "da": "c3cff0177ca1",
@@ -3873,6 +3890,17 @@
    ],
    "foto_nuove": 5,
    "byte": 1045355
+  },
+  {
+   "versione": "6d1a69164722",
+   "da": "bef93f0e4701",
+   "data": "2026-11-27",
+   "luoghi_aggiornati": 1,
+   "aspetti": [
+    "foto"
+   ],
+   "foto_nuove": 4,
+   "byte": 557186
   }
  ]
 }
